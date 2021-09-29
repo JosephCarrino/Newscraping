@@ -1,0 +1,62 @@
+[
+    {
+        "title": "At Least 3 Killed and 50 Hurt in Amtrak Derailment in Montana, Officials Say",
+        "date_raw": "September 25, 2021",
+        "date": "2021-09-25",
+        "url": "https://www.nytimes.com/2021/09/25/us/amtrak-montana-train-derails.html",
+        "content": "The derailment, involving eight cars of the Empire Builder train, happened near Joplin, Mont., on Saturday afternoon.",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1632672120.719643
+    },
+    {
+        "title": "Among Those Who Marched Into the Capitol on Jan. 6: An F.B.I. Informant",
+        "date_raw": "September 25, 2021",
+        "date": "2021-09-25",
+        "url": "https://www.nytimes.com/2021/09/25/us/capitol-riot-fbi-informant.html",
+        "content": "A member of the far-right Proud Boys texted his F.B.I. handler during the assault, but maintained the group had no plan in advance to enter the Capitol and disrupt the election certification.",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1632672120.8358772
+    },
+    {
+        "title": "The Surveillance Apparatus That Surrounded Britney Spears",
+        "date_raw": "September 24, 2021",
+        "date": "2021-09-24",
+        "url": "https://www.nytimes.com/2021/09/24/arts/music/britney-spears-conservatorship-documentary.html",
+        "content": "An account by a former employee of the security team hired by Ms. Spears\u2019s father created the most detailed portrait yet of the singer\u2019s life under 13 years of conservatorship.",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1632672120.8358772
+    },
+    {
+        "title": "This Is How America\u2019s Richest Families Stay That Way",
+        "date_raw": "September 24, 2021",
+        "date": "2021-09-24",
+        "url": "https://www.nytimes.com/2021/09/24/opinion/biden-tax-loophole.html",
+        "content": "The longer we fail to constrain inherited wealth, the sooner the dream of a democratic society dies.",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1632672120.8358772
+    },
+    {
+        "title": "This Is No Way to End a Pandemic",
+        "date_raw": "September 25, 2021",
+        "date": "2021-09-25",
+        "url": "https://www.nytimes.com/2021/09/25/opinion/sunday/covid-booster-shots-fda-cdc.html",
+        "content": "Getting first shots in arms, globally, is more important than any booster program.",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1632672120.8358772
+    },
+    {
+        "title": "She Bought Her Dream Home. Then a \u2018Sovereign Citizen\u2019 Changed the Locks.",
+        "date_raw": "September 26, 2021",
+        "date": "2021-09-26",
+        "url": "https://www.nytimes.com/2021/09/26/nyregion/moors-newark.html",
+        "content": "A New Jersey woman was preyed upon by a fast-growing extremist group that claims its members are sovereign Moors, not bound by U.S. laws.",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1632672120.8358772
+    }
+]
