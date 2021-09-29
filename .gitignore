@@ -1,0 +1,9 @@
+#Jupyter Directory
+
+.ipynb_checkpoints/
+
+#API Keys
+
+nytKey.txt
+gKey.txt
+zeitKey.txt
