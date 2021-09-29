@@ -41,11 +41,11 @@ for url_get in urls_get:
     placeds= [] #subsections
     ranked= []
     
-    files= sorted_nicely(os.listdir("US"))
-    if len(files) == 0:
-        j= 0
-    else:
-        j= len(files)
+    #files= sorted_nicely(os.listdir("US"))
+    #if len(files) == 0:
+        #j= 0
+    #else:
+        #j= len(files)
         
     i= 0        
     for result in obj['results']:   
@@ -76,20 +76,21 @@ for url_get in urls_get:
         }
         if item[5] == "":
             scraped_info['placed']= "First_Page"
-        if i == 0:
-            for lastNew in files:
-                if lastNew != "":
-                    f= open("US/" + lastNew, "r+")
-                    searchin= json.load(f)
-                    if searchin[0]['url'] == scraped_info['url']:
-                        f.close()
-                        toDump= False
-                        break
-                    f.close()
+        #if i == 0:
+            #for lastNew in files:
+                #if lastNew != "":
+                    #f= open("US/" + lastNew, "r+")
+                    #searchin= json.load(f)
+                    #if searchin[0]['url'] == scraped_info['url']:
+                        #f.close()
+                        #toDump= False
+                        #break
+                    #f.close()
         i+=1
         edition.append(scraped_info)
+    now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
     if toDump:
-        f= open("US/news" + str(j) + ".json", "w")
+        f= open("collectedNews/US/NYT/" + str(now) + "E" + str(time.time()) + ".json", "w")
         json.dump(edition, f, indent= 4)
         f.close()
         

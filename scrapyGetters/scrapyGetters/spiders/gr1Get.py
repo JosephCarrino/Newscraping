@@ -19,9 +19,13 @@ def sorted_nicely( l ):
 
 
 class Gr1getSpider(scrapy.Spider):
+    f=open("gr1urls.txt", "r+")
+    toGetUrls= f.read()
+    #print(toGetUrls)
+    toGetUrls = toGetUrls.split("\n")
     name = 'gr1Get'
     allowed_domains = ['www.raiplayradio.it']
-    start_urls = ['https://www.raiplayradio.it/audio/2021/08/GR1-ore-19-del-31082021-e077cbcf-1a9b-465a-89b6-dab9e8bbab6d.html']
+    start_urls = toGetUrls
 
     def parse(self, response):
         box= response.css(".descriptionProgramma")
@@ -48,13 +52,13 @@ class Gr1getSpider(scrapy.Spider):
                 toApp+= c + ". "
             contents.append(toApp)
         
-        lastNew = ""
-        files= sorted_nicely(os.listdir("../../../gr1IT"))
-        if len(files) == 0:
-            j= 0
-        else:
-            lastNew= files[len(files)-1]
-            j= len(files)
+        #lastNew = ""
+        #files= sorted_nicely(os.listdir("../../../gr1IT"))
+        #if len(files) == 0:
+            #j= 0
+        #else:
+            #lastNew= files[len(files)-1]
+            #j= len(files)
                   
         i= 0
         edition= []
@@ -70,18 +74,18 @@ class Gr1getSpider(scrapy.Spider):
                 'placed': "First_Page",
                 'epoch': time.time()
             }
-            if lastNew != "" and len(edition) == 0:
-                f= open("../../../gr1IT/" + lastNew, "r+")
-                searchin= json.load(f)
-                if searchin[0]['date'] >= scraped_info['date']:
-                    f.close()
-                    toDump= False
-                    break
+            #if lastNew != "" and len(edition) == 0:
+                #f= open("../../../gr1IT/" + lastNew, "r+")
+                #searchin= json.load(f)
+                #if searchin[0]['date'] >= scraped_info['date']:
+                    #f.close()
+                    #toDump= False
+                    #break
             edition.append(scraped_info)
             i+=1
 
         if toDump:
-            f= open("../../../gr1IT/news" + str(j) + ".json", "w")
+            f= open("../../../collectedNews/IT/GR1/" + str(edition[0]['date']) + ".json", "w")
             json.dump(edition, f, indent= 4, ensure_ascii=False)
             f.close()
-            j+=1
+            #j+=1

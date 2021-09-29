@@ -19,6 +19,7 @@ def sorted_nicely( l ):
 class TelegetSpider(scrapy.Spider):
     
     cate_conv= {'0': "First_Page",
+                '1': "Undefinied",
                 '2': "Politics",
                 '3': "Economics",
                 '4': "Italy",
@@ -68,13 +69,13 @@ class TelegetSpider(scrapy.Spider):
         placed= []
         ranked= []
         
-        lastNew = ""
-        files= sorted_nicely(os.listdir("../../../IT"))
-        if len(files) == 0:
-            j= 0
-        else:
-            lastNew= files[len(files)-1]
-            j= len(files)
+        #lastNew = ""
+        #files= sorted_nicely(os.listdir("../../../collectedNews/IT/Televideo"))
+        #if len(files) == 0:
+            #j= 0
+        #else:
+           # lastNew= files[len(files)-1]
+            #j= len(files)
         
        
         edition= []
@@ -105,19 +106,20 @@ class TelegetSpider(scrapy.Spider):
                 'placed': item[4],
                 'epoch': time.time()
             }
-            if i == 0:
-                for lastNew in files:
-                    if lastNew != "":
-                        f= open("../../../IT/" + lastNew, "r+")
-                        searchin= json.load(f)
-                        if searchin[0]['url'] == scraped_info['url']:
-                            f.close()
-                            toDump= False
-                            break
+            #if i == 0:
+                #for lastNew in files:
+                    #if lastNew != "":
+                        #f= open("../../../collectedNews/IT/Televideo/" + lastNew, "r+")
+                        #searchin= json.load(f)
+                        #if searchin[0]['url'] == scraped_info['url']:
+                            #f.close()
+                            #toDump= False
+                            #break
             i+=1
             edition.append(scraped_info)
+        now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
         if toDump:
-            f= open("../../../IT/news" + str(j) + ".json", "w")
+            f= open("../../../collectedNews/IT/Televideo/" + str(now) + "E" + str(time.time()) + ".json", "w")
             json.dump(edition, f, indent= 4, ensure_ascii=False)
             f.close()
                 

@@ -32,13 +32,13 @@ class A20getSpider(scrapy.Spider):
                 if box.css(".dachzeile::text").get()[11:16] == "20:00":
                     toRet.append(box)   
         
-        lastNew = ""
-        files= sorted_nicely(os.listdir("../../../DE"))
-        if len(files) == 0:
-            j= 0
-        else:
-            lastNew= files[len(files)-1]
-            j= len(files)
+        #lastNew = ""
+        #files= sorted_nicely(os.listdir("../../../DE"))
+        #if len(files) == 0:
+            #j= 0
+        #else:
+            #lastNew= files[len(files)-1]
+            #j= len(files)
         
                              
         
@@ -63,23 +63,23 @@ class A20getSpider(scrapy.Spider):
                     'ranked': str(i),
                     'epoch': time.time()
                 }
-                if i == 0:
-                    if lastNew != "":
-                        f= open("../../../DE/" + lastNew, "r+")
-                        searchin= json.load(f)
-                        if searchin[0]['date'] >= scraped_info['date']:
-                            f.close()
-                            toDump= False
-                            break
-                else:
-                    scraped_info['title']= title[1:len(title)]
+                #if i == 0:
+                    #if lastNew != "":
+                        #f= open("../../../DE/" + lastNew, "r+")
+                        #searchin= json.load(f)
+                        #if searchin[0]['date'] >= scraped_info['date']:
+                            #f.close()
+                            #toDump= False
+                            #break
+                #else:
+                    #scraped_info['title']= title[1:len(title)]
                 i+=1
                 edition.append(scraped_info)
             if toDump:
-                f= open("../../../DE/news" + str(j) + ".json", "w")
+                f= open("../../../collectedNews/DE/Tagesschau/" + str(scraped_info['date']) + ".json", "w")
                 json.dump(edition, f, indent= 4, ensure_ascii=False)
                 f.close()
-                j+=1
+                #j+=1
                 
             
             

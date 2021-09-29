@@ -33,25 +33,25 @@ class BbcSpider(scrapy.Spider):
         dates= response.css("time::attr(datetime)").getall()
 
         #knowing my last saved news index, in order to not overwrite anything
-        files= sorted_nicely(os.listdir("../../../UK"))
-        if len(files) == 0:
-            j= 0
-        else:
-            lastNew= files[len(files)-1]
-            lastNew= lastNew.replace("news", "").replace(".json", "")
-            j= int(lastNew)+1
+        #files= sorted_nicely(os.listdir("../../../UK"))
+        #if len(files) == 0:
+            #j= 0
+        #else:
+            #lastNew= files[len(files)-1]
+            #lastNew= lastNew.replace("news", "").replace(".json", "")
+            #j= int(lastNew)+1
         
         #array of news-titles, I will use this to notice if I have already saved a news
-        searchin= []
-        
-        for index in range(0, j):
-            try:
-                f= open("../../../UK/news" + str(index) + ".json", "r+")
-                data = json.load(f)
-                searchin.append(data['title'])
+        #searchin= []
+        #files= os.listdir("../../../collectedNews/UK/BBC")
+        #for index in range(0, j):
+            #try:
+                #f= open("../../../collectedNews/UK/BBC/" + str(index) + ".json", "r+")
+                #data = json.load(f)
+                #searchin.append(data['title'])
             #maybe some news have been deleted so I just skip the numbers I can't find in the directory
-            except:
-                pass
+            #except:
+                #pass
         
         for item in zip(titles,contents,urls,dates):
             toSave= True
@@ -75,12 +75,13 @@ class BbcSpider(scrapy.Spider):
                 scraped_info['placed']= "First_Page"
             
             #looking if I already saved the news
-            for i in searchin:
-                if i == scraped_info['title']:
-                    toSave = False
-                    break
+            #for i in searchin:
+                #if i == scraped_info['title']:
+                    #toSave = False
+                    #break
+            now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
             if toSave:
-                f= open("../../../UK/news" + str(j)  + ".json", "w")
+                f= open("../../../collectedNews/UK/BBC/" + str(now) + "E" + str(time.time())  + ".json", "w")
                 json.dump(scraped_info, f, indent= 4, ensure_ascii=False)
                 f.close()
-                j+=1
+                #j+=1

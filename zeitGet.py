@@ -26,11 +26,11 @@ toGet = urllib.request.urlopen(req)
 objs= json.loads(toGet.read().decode("utf-8"))
 news= objs['matches']
 
-files= sorted_nicely(os.listdir("zeitDE"))
-if len(files) == 0:
-    j= 0
-else:
-    j= len(files)
+#files= sorted_nicely(os.listdir("zeitDE"))
+#if len(files) == 0:
+    #j= 0
+#else:
+    #j= len(files)
 
 titles= []
 raw_dates= []
@@ -58,17 +58,18 @@ for item in zip(titles, raw_dates, dates, urls, contents):
         'ranked': i,
         'epoch': time.time()
     }
-    for lastNew in files:
-        if lastNew != "":
-            f= open("zeitDE/" + lastNew, "r+")
-            searchin= json.load(f)
-            if searchin['url'] == scraped_info['url']:
-                f.close()
-                toDump= False
+    #for lastNew in files:
+        #if lastNew != "":
+            #f= open("zeitDE/" + lastNew, "r+")
+            #searchin= json.load(f)
+            #if searchin['url'] == scraped_info['url']:
+                #f.close()
+                #toDump= False
+    now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
     if toDump:
-        f= open("zeitDE/news" + str(j) + ".json", "w")
+        f= open("collectedNews/DE/Zeit/" + str(now) + "E" + str(time.time()) + ".json", "w")
         json.dump(scraped_info, f, indent= 4)
         f.close()
         i+=1
-        j+=1
+        #j+=1
                      

@@ -49,13 +49,13 @@ class ZdfgetSpider(scrapy.Spider):
             contents.append(returning)
             ranks.append(i)
         
-        lastNew = ""
-        files= sorted_nicely(os.listdir("../../../zdfDE"))
-        if len(files) == 0:
-            j= 0
-        else:
-            lastNew= files[len(files)-1]
-            j= len(files)
+        #lastNew = ""
+        #files= sorted_nicely(os.listdir("../../../zdfDE"))
+        #if len(files) == 0:
+            #j= 0
+        #else:
+            #lastNew= files[len(files)-1]
+            #j= len(files)
           
         
         edition= []
@@ -71,18 +71,18 @@ class ZdfgetSpider(scrapy.Spider):
                 'placed': "First_Page",
                 'epoch': time.time()
             }
-            if lastNew != "" and len(edition) == 0:
-                f= open("../../../zdfDE/" + lastNew, "r+")
-                searchin= json.load(f)
-                if searchin[0]['date'] >= scraped_info['date']:
-                    f.close()
-                    toDump= False
-                    break
+            #if lastNew != "" and len(edition) == 0:
+                #f= open("../../../zdfDE/" + lastNew, "r+")
+                #searchin= json.load(f)
+                #if searchin[0]['date'] >= scraped_info['date']:
+                    #f.close()
+                    #toDump= False
+                    #break
             edition.append(scraped_info)
         if toDump:
-            f= open("../../../zdfDE/news" + str(j) + ".json", "w")
+            f= open("../../../collectedNews/DE/Zdf/" + str(scraped_info['date']) + ".json", "w")
             json.dump(edition, f, indent= 4, ensure_ascii=False)
             f.close()
-            j+=1
+            #j+=1
                 
          
