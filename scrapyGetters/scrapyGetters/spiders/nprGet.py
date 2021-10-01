@@ -16,7 +16,7 @@ def sorted_nicely( l ):
 
 class NprgetSpider(scrapy.Spider):
     name = 'nprGet'
-    allowed_domains = ['www.npr.org/programs/morning-edition/archive']
+    allowed_domains = ['www.npr.org']
     start_urls = ['https://www.npr.org/programs/morning-edition/archive/']
     handle_httpstatus_list = [500, 503, 504, 400, 408, 307, 403]
     def start_requests(self):
@@ -28,7 +28,7 @@ class NprgetSpider(scrapy.Spider):
         #print(content)
         #print(response.css("body").get())
         lastNew = ""
-        files= sorted_nicely(os.listdir("../../../US"))
+        files= sorted_nicely(os.listdir("../../../collectedNews/US/NPR"))
         if len(files) == 0:
             j= 0
         else:
@@ -68,7 +68,7 @@ class NprgetSpider(scrapy.Spider):
                     'epoch': time.time()                   
                 }
                 edition.append(scraped_info)
-            f= open("../../../US/news" + str(j) + ".json", "w")
+            f= open("../../../collectedNews/US/NPR/news" + str(j) + ".json", "w")
             json.dump(edition, f, indent= 4, ensure_ascii=False)
             f.close()
             j+=1

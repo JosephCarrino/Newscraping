@@ -40,6 +40,7 @@ for url_get in urls_get:
     dates= [] #published_date
     placeds= [] #subsections
     ranked= []
+    more_info= []
     
     #files= sorted_nicely(os.listdir("US"))
     #if len(files) == 0:
@@ -49,18 +50,24 @@ for url_get in urls_get:
         
     i= 0        
     for result in obj['results']:   
+        del result['multimedia']
         titles.append(result['title'])
+        del result['title']
         contents.append(result['abstract'])
+        del result['abstract']
         urls.append(result['url'])
+        del result['url']
         dates.append(result['published_date'])
+        del result['published_date']
         placeds.append(conv_dic[url_get])
         ranked.append(i)
+        more_info.append(result)
         i+= 1
     
     edition= []
     i= 0
     toDump= True
-    for item in zip(titles, dates, urls, contents, ranked, placeds):
+    for item in zip(titles, dates, urls, contents, ranked, placeds, more_info):
         date= datetime.strptime(item[1][0:10], "%Y-%m-%d")
         date_raw= date.strftime("%B %d, %Y")
         date= date.strftime("%Y-%m-%d")
@@ -72,7 +79,8 @@ for url_get in urls_get:
             'content': item[3],
             'ranked': item[4],
             'placed': item[5],
-            'epoch': time.time()
+            'epoch': time.time(),
+            'more_info': item[6]
         }
         if item[5] == "":
             scraped_info['placed']= "First_Page"

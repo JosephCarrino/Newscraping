@@ -64,6 +64,8 @@ class Gr1getSpider(scrapy.Spider):
         edition= []
         toDump= True
         for item in zip(titles, contents):
+            if item[0].replace("\r", "").replace("\n", "").replace("\t", "").strip() == ".":
+                continue
             scraped_info = {
                 'title': item[0].replace("\r", "").replace("\n", "").replace("\t", "").strip(),
                 'date_raw': d_raw,

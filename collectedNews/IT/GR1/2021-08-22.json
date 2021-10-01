@@ -1,23 +1,13 @@
 [
     {
-        "title": ".",
-        "date_raw": "August 22, 2021",
-        "date": "2021-08-22",
-        "url": "https://www.raiplayradio.it/audio/2021/08/GR1-ore-8-del-22082021-cd0fa2f0-1316-4d93-a12d-7c24b3971931.html",
-        "content": "",
-        "ranked": 0,
-        "placed": "First_Page",
-        "epoch": 1632925683.01078
-    },
-    {
         "title": "Kabul: caos all'aeroporto.",
         "date_raw": "August 22, 2021",
         "date": "2021-08-22",
         "url": "https://www.raiplayradio.it/audio/2021/08/GR1-ore-8-del-22082021-cd0fa2f0-1316-4d93-a12d-7c24b3971931.html",
         "content": " 4 donne morte nella ressa.  Stati Uniti: \"Evitare lo scalo: c'è il rischio attentati\".  Primi passi della resistenza anti-talebana. . ",
-        "ranked": 1,
+        "ranked": 0,
         "placed": "First_Page",
-        "epoch": 1632925683.01078
+        "epoch": 1633089256.1081557
     },
     {
         "title": "Afghanistan ed emergenza profughi.",
@@ -25,9 +15,9 @@
         "date": "2021-08-22",
         "url": "https://www.raiplayradio.it/audio/2021/08/GR1-ore-8-del-22082021-cd0fa2f0-1316-4d93-a12d-7c24b3971931.html",
         "content": " Von der Leyen esorta ad accogliere i rifugiati, ma la Grecia alza un muro al confine con la Turchia.  . ",
-        "ranked": 2,
+        "ranked": 1,
         "placed": "First_Page",
-        "epoch": 1632925683.01078
+        "epoch": 1633089256.1081557
     },
     {
         "title": "Covid.",
@@ -35,9 +25,9 @@
         "date": "2021-08-22",
         "url": "https://www.raiplayradio.it/audio/2021/08/GR1-ore-8-del-22082021-cd0fa2f0-1316-4d93-a12d-7c24b3971931.html",
         "content": " Calano i contagi su base settimanale: è la prima volta da quasi due mesi.  Vaccini.  Verso il 70% degli over 12 immunizzati.  . ",
-        "ranked": 3,
+        "ranked": 2,
         "placed": "First_Page",
-        "epoch": 1632925683.01078
+        "epoch": 1633089256.1081557
     },
     {
         "title": "Green pass, Bonomi contro i sindacati.",
@@ -45,9 +35,9 @@
         "date": "2021-08-22",
         "url": "https://www.raiplayradio.it/audio/2021/08/GR1-ore-8-del-22082021-cd0fa2f0-1316-4d93-a12d-7c24b3971931.html",
         "content": " Ma critiche anche al governo sul decreto anti de-localizzazioni.  Il ministro Orlando: \"No a licenziamenti via whatsapp\".  . ",
-        "ranked": 4,
+        "ranked": 3,
         "placed": "First_Page",
-        "epoch": 1632925683.01078
+        "epoch": 1633089256.1081557
     },
     {
         "title": "Fine settimana di rientri dalle vacanze.",
@@ -55,9 +45,9 @@
         "date": "2021-08-22",
         "url": "https://www.raiplayradio.it/audio/2021/08/GR1-ore-8-del-22082021-cd0fa2f0-1316-4d93-a12d-7c24b3971931.html",
         "content": " E' stato un sabato da bollino rosso, e oggi traffico altrettanto intenso. . ",
-        "ranked": 5,
+        "ranked": 4,
         "placed": "First_Page",
-        "epoch": 1632925683.01078
+        "epoch": 1633089256.1081557
     },
     {
         "title": "Stile inimitabile e dizione perfetta.",
@@ -65,9 +55,9 @@
         "date": "2021-08-22",
         "url": "https://www.raiplayradio.it/audio/2021/08/GR1-ore-8-del-22082021-cd0fa2f0-1316-4d93-a12d-7c24b3971931.html",
         "content": " Addio alla 'signorina buonasera' per eccellenza, Nicoletta Orsomando.  Al Gr1 il ricordo di Renzo Arbore.  . ",
-        "ranked": 6,
+        "ranked": 5,
         "placed": "First_Page",
-        "epoch": 1632925683.01078
+        "epoch": 1633089256.1081557
     },
     {
         "title": "Calcio.",
@@ -75,8 +65,8 @@
         "date": "2021-08-22",
         "url": "https://www.raiplayradio.it/audio/2021/08/GR1-ore-8-del-22082021-cd0fa2f0-1316-4d93-a12d-7c24b3971931.html",
         "content": " Riparte la serie A, ed è subito Inter: 4-0 al Genoa.  Tris della Lazio a Empoli.  Vincono in trasferta anche Atalanta e Sassuolo. . ",
-        "ranked": 7,
+        "ranked": 6,
         "placed": "First_Page",
-        "epoch": 1632925683.01078
+        "epoch": 1633089256.1081557
     }
 ]

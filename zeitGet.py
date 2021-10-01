@@ -4,7 +4,8 @@ from datetime import datetime
 import time
 import os
 import re
-
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
 def sorted_nicely( l ): 
     """ Sort the given iterable in the way that humans expect.""" 
@@ -38,6 +39,7 @@ dates= []
 urls= []
 contents= []
 
+top= True
 for new in news: 
     titles.append(new['title'])
     ddate= datetime.strptime(new['release_date'][0:10], "%Y-%m-%d")
