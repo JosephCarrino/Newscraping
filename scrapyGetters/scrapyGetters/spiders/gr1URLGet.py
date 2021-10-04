@@ -11,6 +11,7 @@ class Gr1urlgetSpider(scrapy.Spider):
                  'https://www.raiplayradio.it/programmi/archiviogr1/archivio/puntate/Agosto-2021-082e428d-6b15-444a-8f82-6ea3c335fb9f/7']
 
     def parse(self, response):
+        #get the single GR1 edition url and put it in the gr1urls.txt file
         base_url= "https://www.raiplayradio.it"
         content= response.css(".listaAudio")
         headers= content.css("h3")

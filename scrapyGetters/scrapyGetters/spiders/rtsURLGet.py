@@ -11,6 +11,7 @@ class RtsurlgetSpider(scrapy.Spider):
     start_urls = "https://www.rts.ch/hbv7/ajax/emissions/25000623/audios?offset=1"
 
     def parse(self, response):
+        #get the single RTS edition url and put in rtsurls.txt file
         contents= response.css(".list-item")
         urls= []
         for content in contents[0:len(contents)-1]:

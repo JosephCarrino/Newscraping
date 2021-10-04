@@ -42,7 +42,7 @@ class FrgetSpider(scrapy.Spider):
                 'content': "",
                 'ranked': item[4],
                 'placed': "First_Page",
-                'epoch': time.time()
+                'epoch': time.time()                
             }
             edition.append(scraped_info)
             
