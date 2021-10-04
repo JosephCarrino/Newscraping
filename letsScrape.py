@@ -2,7 +2,7 @@ import os
 import time
 from datetime import datetime
 
-notToday= False
+notToday= True
 
 while True:
     os.chdir("bbcGet/bbcGet/spiders")
