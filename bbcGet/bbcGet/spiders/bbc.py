@@ -53,6 +53,7 @@ class BbcSpider(scrapy.Spider):
             #except:
                 #pass
         
+        edition= []
         for item in zip(titles,contents,urls,dates):
             toSave= True
             date= item[3][0:len(item[3])-5]
@@ -79,9 +80,11 @@ class BbcSpider(scrapy.Spider):
                 #if i == scraped_info['title']:
                     #toSave = False
                     #break
-            now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
-            if toSave:
-                f= open("../../../collectedNews/UK/BBC/" + str(now) + "E" + str(time.time())  + ".json", "w")
-                json.dump(scraped_info, f, indent= 4, ensure_ascii=False)
-                f.close()
-                #j+=1
+            edition.append(scraped_info)
+            
+        now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
+        if toSave:
+            f= open("../../../collectedNews/UK/BBC/" + str(now) + "E" + str(time.time())  + ".json", "w")
+            json.dump(edition, f, indent= 4, ensure_ascii=False)
+            f.close()
+            #j+=1

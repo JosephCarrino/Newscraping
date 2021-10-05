@@ -29,10 +29,9 @@ class RtsgetSpider(scrapy.Spider):
     start_urls = toGetUrls
 
     def parse(self, response):
-        print(response.url)
         chapters= response.css(".audio-chapter-list").css("ul").css("li")
         todate= response.css(".timeframe").css("span")
-        todate= dateparser.parse(todate[1].css("::text").get()[3:]).date()
+        todate= dateparser.parse(todate[1].css("::text").get()).date()
         chapters= chapters[1:len(chapters)]
         titles= []
         dates_raw= []

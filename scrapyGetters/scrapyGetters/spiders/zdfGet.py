@@ -33,6 +33,7 @@ class ZdfgetSpider(scrapy.Spider):
         titles= box_titles.split(";")
         
         box_dates= box.css(".teaser-info::text").getall()
+        print(box_dates)
         date= box_dates[1]
         
         url= response.url

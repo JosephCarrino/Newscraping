@@ -7,8 +7,8 @@ class RtsurlgetSpider(scrapy.Spider):
     for i in range(1, 50):
         urls.append("https://www.rts.ch/hbv7/ajax/emissions/25000623/audios?offset=" + str(i))
         i+=6
-    allowed_domains = ['www.rts.ch/audio-podcast/emissions/2021/emission/le-12h30-25000623.html']
-    start_urls = "https://www.rts.ch/hbv7/ajax/emissions/25000623/audios?offset=1"
+    allowed_domains = ['www.rts.ch']
+    start_urls = ["https://www.rts.ch/hbv7/ajax/emissions/25000623/audios?offset=1"]
 
     def parse(self, response):
         #get the single RTS edition url and put in rtsurls.txt file

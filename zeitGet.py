@@ -50,6 +50,7 @@ for new in news:
 
 i= 0
 toDump= True
+edition= []
 for item in zip(titles, raw_dates, dates, urls, contents):
     scraped_info = {
         'title': item[0],
@@ -67,11 +68,14 @@ for item in zip(titles, raw_dates, dates, urls, contents):
             #if searchin['url'] == scraped_info['url']:
                 #f.close()
                 #toDump= False
-    now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
-    if toDump:
-        f= open("collectedNews/DE/Zeit/" + str(now) + "E" + str(time.time()) + ".json", "w")
-        json.dump(scraped_info, f, indent= 4)
-        f.close()
-        i+=1
-        #j+=1
+    i+=1
+    if(i <= 20):
+        edition.append(scraped_info)
+now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
+if toDump:
+    f= open("collectedNews/DE/Zeit/" + str(now) + "E" + str(time.time()) + ".json", "w")
+    json.dump(edition, f, indent= 4)
+    f.close()
+    i+=1
+    #j+=1
                      

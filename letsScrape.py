@@ -15,16 +15,16 @@ while True:
     #os.system("scrapy crawl gr1Get")
     os.system("scrapy crawl postScrape")
     hour= datetime.today().strftime("%H")
-    if int(hour) < 20 and not notToday:
-        notToday= True
-    if int(hour) >= 20 and notToday:
-        os.system("scrapy crawl zdfGet")
-        os.system("scrapy crawl rtsURLGet")
-        os.system("scrapy crawl rtsGet")
-        os.system("scrapy crawl pbsGet")
-        os.system("scrapy crawl frGet")
-        os.system("scrapy crawl 20Get")
-        notToday= False 
+    #if int(hour) < 20 and not notToday:
+        #notToday= True
+    #if int(hour) >= 20 and notToday:
+    os.system("scrapy crawl zdfGet")
+    os.system("scrapy crawl rtsURLGet")
+    os.system("scrapy crawl rtsGet")
+    os.system("scrapy crawl pbsGet")
+    os.system("scrapy crawl frGet")
+    os.system("scrapy crawl 20Get")
+    #notToday= False 
     os.chdir("../../../")
     os.system("python nytimesGet.py")
     os.system("python zeitGet.py")
