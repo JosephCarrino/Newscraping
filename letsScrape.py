@@ -26,8 +26,8 @@ while True:
     os.system("scrapy crawl 20Get")
     #notToday= False 
     os.chdir("../../../")
-    os.system("python nytimesGet.py")
-    os.system("python zeitGet.py")
+    os.system("python3 nytimesGet.py")
+    os.system("python3 zeitGet.py")
     #Guardian manda notizie molto vecchie
-    #os.system("python guardianGet.py")
+    #os.system("python3 guardianGet.py")
     time.sleep(180)
