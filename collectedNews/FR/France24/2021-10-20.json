@@ -1,13 +1,33 @@
 [
     {
+        "title": "Russia, hosting Taliban at international conference, calls for Afghan aid",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-russia-hosting-taliban-at-international-conference-calls-for-afghan-aid",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1634763614.5600936
+    },
+    {
+        "title": "North Korea tested new 'submarine-launched ballistic missile'",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-north-korea-tested-new-submarine-launched-ballistic-missile",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1634763614.5600965
+    },
+    {
         "title": "Brazil's Bolsonaro to face charge of 'intentional' crimes over Covid-19 response",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-brazil-s-bolsonaro-to-face-charge-of-intentional-crimes-over-covid-19-response",
         "content": "",
-        "ranked": 0,
+        "ranked": 2,
         "placed": "First_Page",
-        "epoch": 1634730437.5517392
+        "epoch": 1634763614.5600975
     },
     {
         "title": "'Squid Game' hands win to Netflix as subscriber numbers jump",
@@ -15,9 +35,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/tv-shows/business-daily/20211020-squid-game-hands-win-to-netflix-as-subscriber-numbers-jump",
         "content": "",
-        "ranked": 1,
+        "ranked": 3,
         "placed": "First_Page",
-        "epoch": 1634730437.5517418
+        "epoch": 1634763614.5600984
     },
     {
         "title": "Scores killed in devastating floods, landslides in India and Nepal",
@@ -25,9 +45,19 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/asia-pacific/20211020-scores-killed-in-devastating-floods-landslides-in-india-and-nepal",
         "content": "",
-        "ranked": 2,
+        "ranked": 4,
         "placed": "First_Page",
-        "epoch": 1634730437.5517433
+        "epoch": 1634763614.5600991
+    },
+    {
+        "title": "Film show: Balzac’s biting social commentary comes to life on the big screen",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/tv-shows/encore/20211020-film-show-balzac-s-biting-social-commentary-comes-to-life-on-the-screen",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1634763614.5600998
     },
     {
         "title": "'I don't exclude being a candidate for the 2025 elections,' says ex-Ivorian president Laurent Gbagbo",
@@ -35,9 +65,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/tv-shows/the-interview/20211020-i-don-t-exclude-being-a-candidate-for-the-2025-elections-former-ivorian-president-laurent-gbagbo",
         "content": "",
-        "ranked": 3,
+        "ranked": 6,
         "placed": "First_Page",
-        "epoch": 1634730437.551744
+        "epoch": 1634763614.5601006
     },
     {
         "title": "Energy secrets: Petrol, missiles and methane",
@@ -45,9 +75,19 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/tv-shows/in-the-press/20211020-energy-secrets-petrol-missiles-and-methane",
         "content": "",
-        "ranked": 4,
+        "ranked": 7,
         "placed": "First_Page",
-        "epoch": 1634730437.5517445
+        "epoch": 1634763614.5601013
+    },
+    {
+        "title": "France's ex-justice minister Robert Badinter: Abolition of death penalty 'is the law of history'",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/tv-shows/the-interview/20211020-former-french-justice-minister-r-badinter-abolition-of-the-death-penalty-is-the-law-of-history",
+        "content": "",
+        "ranked": 8,
+        "placed": "First_Page",
+        "epoch": 1634763614.560102
     },
     {
         "title": "Afghanistan talks: Russia hosts latest talks; China, Iran, Pakistan attending",
@@ -55,9 +95,19 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-afghanistan-talks-russia-hosts-latest-talks-china-iran-pakistan-attending",
         "content": "",
-        "ranked": 5,
+        "ranked": 9,
         "placed": "First_Page",
-        "epoch": 1634730437.5517452
+        "epoch": 1634763614.5601027
+    },
+    {
+        "title": "IMF: European recovery 'resilient,' but stimulus must be withdrawn carefully",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/tv-shows/business-daily/20211020-imf-european-recovery-resilient-but-stimulus-must-be-withdrawn-carefully",
+        "content": "",
+        "ranked": 10,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601032
     },
     {
         "title": "UN to hold emergency talks on N. Korea after ‘submarine-launched’ missile test",
@@ -65,9 +115,29 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/asia-pacific/20211020-un-to-hold-emergency-talks-on-n-korea-after-submarine-launched-missile-test",
         "content": "",
-        "ranked": 6,
+        "ranked": 11,
         "placed": "First_Page",
-        "epoch": 1634730437.551746
+        "epoch": 1634763614.5601215
+    },
+    {
+        "title": "'We want justice': Nigerian youths protest a year after bloody crackdown",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-we-want-justice-nigerian-youths-protest-a-year-after-bloody-crackdown",
+        "content": "",
+        "ranked": 12,
+        "placed": "First_Page",
+        "epoch": 1634763614.560122
+    },
+    {
+        "title": "Ahmadinejad keen to show his moderate credentials... but to what extent?",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20211020-ahmadinejad-keen-to-show-his-moderate-credentials-but-to-what-extent",
+        "content": "",
+        "ranked": 13,
+        "placed": "First_Page",
+        "epoch": 1634763614.560123
     },
     {
         "title": "Deadly Beirut Clashes : Opposition groups no longer 'intimidated by Hezbollah'",
@@ -75,9 +145,29 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-deadly-beirut-clashes-opposition-groups-no-longer-intimidated-by-hezbollah",
         "content": "",
-        "ranked": 7,
+        "ranked": 14,
         "placed": "First_Page",
-        "epoch": 1634730437.5517466
+        "epoch": 1634763614.5601234
+    },
+    {
+        "title": "Putin keeps Russian workers home for a week as Covid deaths surge",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/europe/20211020-putin-keeps-russian-workers-home-for-a-week-as-covid-deaths-surge",
+        "content": "",
+        "ranked": 15,
+        "placed": "First_Page",
+        "epoch": 1634763614.560124
+    },
+    {
+        "title": "Russia recognises Taliban 'efforts' to stabilise Afghanistan",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-russia-recognises-taliban-efforts-to-stabilise-afghanistan",
+        "content": "",
+        "ranked": 16,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601249
     },
     {
         "title": "Benzema - Valbuena sex tape scandal: French football star faces trial",
@@ -85,9 +175,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-benzema-valbuena-sex-tape-scandal-french-football-star-faces-trial",
         "content": "",
-        "ranked": 8,
+        "ranked": 17,
         "placed": "First_Page",
-        "epoch": 1634730437.551747
+        "epoch": 1634763614.5601256
     },
     {
         "title": "Colin Powell: A 'trailblazer' and 'a role model for all of us'",
@@ -95,19 +185,19 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-colin-powell-a-trailblazer-and-a-role-model-for-all-of-us",
         "content": "",
-        "ranked": 9,
+        "ranked": 18,
         "placed": "First_Page",
-        "epoch": 1634730437.5517476
+        "epoch": 1634763614.5601263
     },
     {
-        "title": "French football star Benzema goes on trial in sextape case",
+        "title": "Valbuena felt 'in danger' amid attempted blackmail over sex tape, Benzema trial hears",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/sport/20211020-french-football-star-benzema-heads-to-trial-over-sex-tape-affair",
         "content": "",
-        "ranked": 10,
+        "ranked": 19,
         "placed": "First_Page",
-        "epoch": 1634730437.5517483
+        "epoch": 1634763614.5601268
     },
     {
         "title": "Scientists urge UK to consider ‘Plan B’ with Covid-19 cases high and rising",
@@ -115,9 +205,39 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/europe/20211019-scientists-urge-uk-to-consider-plan-b-with-covid-19-cases-high-and-rising",
         "content": "",
-        "ranked": 11,
+        "ranked": 20,
         "placed": "First_Page",
-        "epoch": 1634730437.5517488
+        "epoch": 1634763614.5601366
+    },
+    {
+        "title": "French teacher convicted over anti-Semitic vaccine protest sign",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/france/20211020-french-teacher-convicted-over-anti-semitic-vaccine-protest-sign",
+        "content": "",
+        "ranked": 21,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601373
+    },
+    {
+        "title": "Paris 2015 attacks trial: Bataclan victims' family members testify in court",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-paris-2015-attacks-trial-bataclan-victims-family-members-testify-in-court",
+        "content": "",
+        "ranked": 22,
+        "placed": "First_Page",
+        "epoch": 1634763614.560138
+    },
+    {
+        "title": "Bolsonaro should be charged with crimes against humanity for Covid errors, says senate panel",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/americas/20211020-bolsonaro-should-be-charged-with-crimes-against-humanity-for-covid-errors-says-senate-panel",
+        "content": "",
+        "ranked": 23,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601387
     },
     {
         "title": "Syria bus explosion: At least 13 killed in Damascus army bus blast",
@@ -125,9 +245,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-syria-bus-explosion-at-least-13-killed-in-damascus-army-bus-blast",
         "content": "",
-        "ranked": 12,
+        "ranked": 24,
         "placed": "First_Page",
-        "epoch": 1634730437.5517495
+        "epoch": 1634763614.5601506
     },
     {
         "title": "Ashes from Amazon transformed into city mural to raise climate awareness",
@@ -135,9 +255,19 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-ashes-from-amazon-transformed-into-city-mural-to-raise-climate-awareness",
         "content": "",
-        "ranked": 13,
+        "ranked": 25,
         "placed": "First_Page",
-        "epoch": 1634730437.55175
+        "epoch": 1634763614.5601518
+    },
+    {
+        "title": "Protesters in Eswatini, Africa's last absolute monarchy, long for democracy",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/tv-shows/focus/20211020-protesters-in-eswatini-africa-s-last-absolute-monarchy-long-for-democracy",
+        "content": "",
+        "ranked": 26,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601528
     },
     {
         "title": "US congressional committee votes to hold Trump ally Bannon in contempt",
@@ -145,9 +275,19 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/americas/20211020-us-congressional-committee-votes-to-hold-trump-ally-bannon-in-criminal-contempt",
         "content": "",
-        "ranked": 14,
+        "ranked": 27,
         "placed": "First_Page",
-        "epoch": 1634730437.5517507
+        "epoch": 1634763614.5601535
+    },
+    {
+        "title": "Art from the ashes of the Amazon",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-art-from-the-ashes-of-the-amazon",
+        "content": "",
+        "ranked": 28,
+        "placed": "First_Page",
+        "epoch": 1634763614.560155
     },
     {
         "title": "Russia calls for inclusive Afghan government in talks with Taliban",
@@ -155,9 +295,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/asia-pacific/20211020-russia-hosts-taliban-for-talks-amid-is-group-threat-concerns",
         "content": "",
-        "ranked": 15,
+        "ranked": 29,
         "placed": "First_Page",
-        "epoch": 1634730437.5517511
+        "epoch": 1634763614.5601559
     },
     {
         "title": "No end in sight to volcanic eruption on Spain's La Palma",
@@ -165,9 +305,19 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-no-end-in-sight-to-volcanic-eruption-on-spain-s-la-palma",
         "content": "",
-        "ranked": 16,
+        "ranked": 30,
         "placed": "First_Page",
-        "epoch": 1634730437.5517516
+        "epoch": 1634763614.5601573
+    },
+    {
+        "title": "Prosecutors appeal terrorism judgement against 'Hotel Rwanda' hero",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/africa/20211020-prosecutors-appeal-terrorism-judgement-against-hotel-rwanda-hero",
+        "content": "",
+        "ranked": 31,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601583
     },
     {
         "title": "Former Ivory Coast President Laurent Gbagbo launches news political party",
@@ -175,9 +325,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-former-ivory-coast-president-laurent-gbagbo-launches-news-political-party",
         "content": "",
-        "ranked": 17,
+        "ranked": 32,
         "placed": "First_Page",
-        "epoch": 1634730437.5517523
+        "epoch": 1634763614.5601592
     },
     {
         "title": "Ten years after Gaddafi’s death, a Libyan town still yearns for his rule",
@@ -185,9 +335,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/africa/20211020-ten-years-after-gaddafi-s-death-a-libyan-town-still-yearns-for-his-rule",
         "content": "",
-        "ranked": 18,
+        "ranked": 33,
         "placed": "First_Page",
-        "epoch": 1634730437.551753
+        "epoch": 1634763614.5601602
     },
     {
         "title": "14 killed in Damascus army bus bombing",
@@ -195,9 +345,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-14-killed-in-damascus-army-bus-bombing",
         "content": "",
-        "ranked": 19,
+        "ranked": 34,
         "placed": "First_Page",
-        "epoch": 1634730437.5517535
+        "epoch": 1634763614.5601616
     },
     {
         "title": "Paris attack trial: Bataclan massacre survivors give harrowing testimonies",
@@ -205,9 +355,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-paris-attack-trial-bataclan-massacre-survivors-give-harrowing-testimonies",
         "content": "",
-        "ranked": 20,
+        "ranked": 35,
         "placed": "First_Page",
-        "epoch": 1634730437.5517542
+        "epoch": 1634763614.5601623
     },
     {
         "title": "United Nations report 10,000 children killed, maimed during Yemen's long war",
@@ -215,9 +365,39 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-united-nations-report-10-000-children-killed-maimed-during-yemen-s-long-war",
         "content": "",
-        "ranked": 21,
+        "ranked": 36,
         "placed": "First_Page",
-        "epoch": 1634730437.5517547
+        "epoch": 1634763614.5601633
+    },
+    {
+        "title": "Bitcoin hits new record, takes another step towards mainstream after Wall Street foray",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/business/20211020-bitcoin-hits-new-record-takes-another-step-towards-mainstream-after-wall-street-foray",
+        "content": "",
+        "ranked": 37,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601723
+    },
+    {
+        "title": "\"It was presented as peace... but it's just not true\", Violence in Colombia since 2016 Farc deal",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/tv-shows/perspective/20211020-it-was-presented-as-peace-but-it-s-just-not-true-violence-in-colombia-since-2016-farc-deal",
+        "content": "",
+        "ranked": 38,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601733
+    },
+    {
+        "title": "Covid-19 probe: Senate report to urge Bolsonaro be charged over pandemic",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-covid-19-probe-senate-report-to-urge-bolsonaro-be-charged-over-pandemic",
+        "content": "",
+        "ranked": 39,
+        "placed": "First_Page",
+        "epoch": 1634763614.560174
     },
     {
         "title": "Several killed in army bus bombing in Damascus",
@@ -225,9 +405,39 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/middle-east/20211020-several-killed-in-army-bus-explosion-in-damascus",
         "content": "",
-        "ranked": 22,
+        "ranked": 40,
         "placed": "First_Page",
-        "epoch": 1634730437.5517552
+        "epoch": 1634763614.5601847
+    },
+    {
+        "title": "Jailed Kremlin critic Navalny wins Sakharov Prize, EU's top human rights award",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/live-news/20211020-jailed-kremlin-critic-alexei-navalny-wins-eu-s-sakharov-prize-for-human-rights",
+        "content": "",
+        "ranked": 41,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601861
+    },
+    {
+        "title": "French oil giant Total downplayed climate threat for decades, study says",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/business/20211020-french-oil-giant-total-downplayed-climate-threat-for-decades-study-says",
+        "content": "",
+        "ranked": 42,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601869
+    },
+    {
+        "title": "Drone diplomacy? Turkey's growing presence in Africa",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/tv-shows/the-debate/20211020-drone-diplomacy-turkey-s-growing-presence-in-africa",
+        "content": "",
+        "ranked": 43,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601878
     },
     {
         "title": "North Korea confirms submarine launch of new ballistic missile",
@@ -235,9 +445,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-north-korea-confirms-submarine-launch-of-new-ballistic-missile",
         "content": "",
-        "ranked": 23,
+        "ranked": 44,
         "placed": "First_Page",
-        "epoch": 1634730437.5517561
+        "epoch": 1634763614.5601888
     },
     {
         "title": "Moscow imposes new Covid-19 restrictions as deaths reach all-time high",
@@ -245,9 +455,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/europe/20211020-moscow-imposes-new-covid-19-restrictions-as-deaths-reach-all-time-high",
         "content": "",
-        "ranked": 24,
+        "ranked": 45,
         "placed": "First_Page",
-        "epoch": 1634730437.5517566
+        "epoch": 1634763614.56019
     },
     {
         "title": "Wounds persist in Spain, ten years after ETA lays down arms",
@@ -255,8 +465,18 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/europe/20211020-wounds-persist-in-spain-ten-years-after-eta-lays-down-arms",
         "content": "",
-        "ranked": 25,
+        "ranked": 46,
         "placed": "First_Page",
-        "epoch": 1634730437.5517647
+        "epoch": 1634763614.560191
+    },
+    {
+        "title": "Beirut port explosion: Investigation sparks violent demonstrations",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20211020-beirut-port-explosion-investigation-sparks-violent-demonstrations",
+        "content": "",
+        "ranked": 47,
+        "placed": "First_Page",
+        "epoch": 1634763614.5601914
     }
 ]
