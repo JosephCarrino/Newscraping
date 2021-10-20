@@ -2,6 +2,7 @@ import scrapy
 from scrapy.http import HtmlResponse
 from scrapy import Selector
 from datetime import datetime
+from datetime import date
 import time
 import os
 import json
@@ -10,8 +11,9 @@ import re
 class FrgetSpider(scrapy.Spider):
     name = 'frGet'
     urls= []
-    for i in range(1, 31):
-        urls.append("https://www.france24.com/en/archives/2021/09/" + str(i) + "-September-2021")
+    tod= date.today().strftime("%d")
+    #for i in range(1, 31):
+    urls.append("https://www.france24.com/en/archives/2021/10/" + str(tod) + "-October-2021")
     allowed_domains = ['https://www.france24.com/en']
     start_urls = urls
 

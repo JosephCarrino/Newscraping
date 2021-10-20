@@ -29,8 +29,9 @@ class PbsgetSpider(scrapy.Spider):
         #else:
         #    urls.append("https://www.pbs.org/newshour/show/september-" + str(i) + "-2021-pbs-newshour-weekend-full-episode")
     
-    allowed_domains = ['https://www.pbs.org/newshour/show']
-    start_urls = searchurl.lower()
+    allowed_domains = ['www.pbs.org']
+    start_urls = [searchurl.lower()]
+    #start_urls = ["https://www.pbs.org/newshour/show/october-19-2021-pbs-newshour-full-episode"]
 
     def parse(self, response):
         ddate= datetime.strptime(response.css(".video-single__title--large").css("span::text").get(), "%B %d, %Y")

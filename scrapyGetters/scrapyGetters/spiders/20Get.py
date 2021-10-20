@@ -19,8 +19,7 @@ def sorted_nicely( l ):
 class A20getSpider(scrapy.Spider):
     name = '20Get'
     allowed_domains = ['www.tagesschau.de/multimedia/video/videoarchiv2.html']
-    start_urls = ['https://www.tagesschau.de/multimedia/video/videoarchiv2~_date-20210920.html',
-                 'https://www.tagesschau.de/multimedia/video/videoarchiv2.html']
+    start_urls = ['https://www.tagesschau.de/multimedia/video/videoarchiv2.html']
 
     def parse(self, response):
         base_url="https://www.tagesschau.de"
@@ -75,6 +74,7 @@ class A20getSpider(scrapy.Spider):
                     #scraped_info['title']= title[1:len(title)]
                 i+=1
                 edition.append(scraped_info)
+            print(edition)
             if toDump:
                 f= open("../../../collectedNews/DE/Tagesschau/" + str(scraped_info['date']) + ".json", "w")
                 json.dump(edition, f, indent= 4, ensure_ascii=False)
