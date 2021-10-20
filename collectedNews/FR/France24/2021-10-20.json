@@ -7,7 +7,7 @@
         "content": "",
         "ranked": 0,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517392
     },
     {
         "title": "'Squid Game' hands win to Netflix as subscriber numbers jump",
@@ -17,7 +17,7 @@
         "content": "",
         "ranked": 1,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517418
     },
     {
         "title": "Scores killed in devastating floods, landslides in India and Nepal",
@@ -27,7 +27,7 @@
         "content": "",
         "ranked": 2,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517433
     },
     {
         "title": "'I don't exclude being a candidate for the 2025 elections,' says ex-Ivorian president Laurent Gbagbo",
@@ -37,17 +37,37 @@
         "content": "",
         "ranked": 3,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.551744
     },
     {
-        "title": "UN to hold emergency talks on N. Korea after ‘submarine-launched’ missile test",
+        "title": "Energy secrets: Petrol, missiles and methane",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/tv-shows/in-the-press/20211020-energy-secrets-petrol-missiles-and-methane",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1634730437.5517445
+    },
+    {
+        "title": "Afghanistan talks: Russia hosts latest talks; China, Iran, Pakistan attending",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-afghanistan-talks-russia-hosts-latest-talks-china-iran-pakistan-attending",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1634730437.5517452
+    },
+    {
+        "title": "UN to hold emergency talks on N. Korea after â€˜submarine-launchedâ€™ missile test",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/asia-pacific/20211020-un-to-hold-emergency-talks-on-n-korea-after-submarine-launched-missile-test",
         "content": "",
-        "ranked": 4,
+        "ranked": 6,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.551746
     },
     {
         "title": "Deadly Beirut Clashes : Opposition groups no longer 'intimidated by Hezbollah'",
@@ -55,9 +75,19 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-deadly-beirut-clashes-opposition-groups-no-longer-intimidated-by-hezbollah",
         "content": "",
-        "ranked": 5,
+        "ranked": 7,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517466
+    },
+    {
+        "title": "Benzema - Valbuena sex tape scandal: French football star faces trial",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-benzema-valbuena-sex-tape-scandal-french-football-star-faces-trial",
+        "content": "",
+        "ranked": 8,
+        "placed": "First_Page",
+        "epoch": 1634730437.551747
     },
     {
         "title": "Colin Powell: A 'trailblazer' and 'a role model for all of us'",
@@ -65,9 +95,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-colin-powell-a-trailblazer-and-a-role-model-for-all-of-us",
         "content": "",
-        "ranked": 6,
+        "ranked": 9,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517476
     },
     {
         "title": "French football star Benzema goes on trial in sextape case",
@@ -75,19 +105,29 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/sport/20211020-french-football-star-benzema-heads-to-trial-over-sex-tape-affair",
         "content": "",
-        "ranked": 7,
+        "ranked": 10,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517483
     },
     {
-        "title": "Scientists urge UK to consider ‘Plan B’ with Covid-19 cases high and rising",
+        "title": "Scientists urge UK to consider â€˜Plan Bâ€™ with Covid-19 cases high and rising",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/europe/20211019-scientists-urge-uk-to-consider-plan-b-with-covid-19-cases-high-and-rising",
         "content": "",
-        "ranked": 8,
+        "ranked": 11,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517488
+    },
+    {
+        "title": "Syria bus explosion: At least 13 killed in Damascus army bus blast",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-syria-bus-explosion-at-least-13-killed-in-damascus-army-bus-blast",
+        "content": "",
+        "ranked": 12,
+        "placed": "First_Page",
+        "epoch": 1634730437.5517495
     },
     {
         "title": "Ashes from Amazon transformed into city mural to raise climate awareness",
@@ -95,9 +135,9 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-ashes-from-amazon-transformed-into-city-mural-to-raise-climate-awareness",
         "content": "",
-        "ranked": 9,
+        "ranked": 13,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.55175
     },
     {
         "title": "US congressional committee votes to hold Trump ally Bannon in contempt",
@@ -105,19 +145,29 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/americas/20211020-us-congressional-committee-votes-to-hold-trump-ally-bannon-in-criminal-contempt",
         "content": "",
-        "ranked": 10,
+        "ranked": 14,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517507
     },
     {
-        "title": "Russia hosts Taliban for talks amid IS group threat concerns",
+        "title": "Russia calls for inclusive Afghan government in talks with Taliban",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/asia-pacific/20211020-russia-hosts-taliban-for-talks-amid-is-group-threat-concerns",
         "content": "",
-        "ranked": 11,
+        "ranked": 15,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517511
+    },
+    {
+        "title": "No end in sight to volcanic eruption on Spain's La Palma",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-no-end-in-sight-to-volcanic-eruption-on-spain-s-la-palma",
+        "content": "",
+        "ranked": 16,
+        "placed": "First_Page",
+        "epoch": 1634730437.5517516
     },
     {
         "title": "Former Ivory Coast President Laurent Gbagbo launches news political party",
@@ -125,19 +175,49 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/video/20211020-former-ivory-coast-president-laurent-gbagbo-launches-news-political-party",
         "content": "",
-        "ranked": 12,
+        "ranked": 17,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517523
     },
     {
-        "title": "Ten years after Gaddafi’s death, a Libyan town still yearns for his rule",
+        "title": "Ten years after Gaddafiâ€™s death, a Libyan town still yearns for his rule",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/africa/20211020-ten-years-after-gaddafi-s-death-a-libyan-town-still-yearns-for-his-rule",
         "content": "",
-        "ranked": 13,
+        "ranked": 18,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.551753
+    },
+    {
+        "title": "14 killed in Damascus army bus bombing",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-14-killed-in-damascus-army-bus-bombing",
+        "content": "",
+        "ranked": 19,
+        "placed": "First_Page",
+        "epoch": 1634730437.5517535
+    },
+    {
+        "title": "Paris attack trial: Bataclan massacre survivors give harrowing testimonies",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-paris-attack-trial-bataclan-massacre-survivors-give-harrowing-testimonies",
+        "content": "",
+        "ranked": 20,
+        "placed": "First_Page",
+        "epoch": 1634730437.5517542
+    },
+    {
+        "title": "United Nations report 10,000 children killed, maimed during Yemen's long war",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-united-nations-report-10-000-children-killed-maimed-during-yemen-s-long-war",
+        "content": "",
+        "ranked": 21,
+        "placed": "First_Page",
+        "epoch": 1634730437.5517547
     },
     {
         "title": "Several killed in army bus bombing in Damascus",
@@ -145,9 +225,19 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/middle-east/20211020-several-killed-in-army-bus-explosion-in-damascus",
         "content": "",
-        "ranked": 14,
+        "ranked": 22,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517552
+    },
+    {
+        "title": "North Korea confirms submarine launch of new ballistic missile",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/video/20211020-north-korea-confirms-submarine-launch-of-new-ballistic-missile",
+        "content": "",
+        "ranked": 23,
+        "placed": "First_Page",
+        "epoch": 1634730437.5517561
     },
     {
         "title": "Moscow imposes new Covid-19 restrictions as deaths reach all-time high",
@@ -155,8 +245,18 @@
         "date": "2021-10-20",
         "url": "https://www.france24.com/en/europe/20211020-moscow-imposes-new-covid-19-restrictions-as-deaths-reach-all-time-high",
         "content": "",
-        "ranked": 15,
+        "ranked": 24,
         "placed": "First_Page",
-        "epoch": 1634728613.753756
+        "epoch": 1634730437.5517566
+    },
+    {
+        "title": "Wounds persist in Spain, ten years after ETA lays down arms",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "url": "https://www.france24.com/en/europe/20211020-wounds-persist-in-spain-ten-years-after-eta-lays-down-arms",
+        "content": "",
+        "ranked": 25,
+        "placed": "First_Page",
+        "epoch": 1634730437.5517647
     }
 ]
