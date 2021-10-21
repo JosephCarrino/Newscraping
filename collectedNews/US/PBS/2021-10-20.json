@@ -6,7 +6,7 @@
         "url": "https://www.pbs.org/newshour/show/news-wrap-nyc-to-mandate-covid-vaccine-for-all-public-employees",
         "duration": "5 min",
         "ranked": 0,
-        "epoch": 1634822518.9320652
+        "epoch": 1634850012.7025278
     },
     {
         "title": "What parents need to know about vaccinating young children against COVID-19",
@@ -15,7 +15,7 @@
         "url": "https://www.pbs.org/newshour/show/what-parents-need-to-know-about-vaccinating-young-children-against-covid-19",
         "duration": "7 min",
         "ranked": 1,
-        "epoch": 1634822518.9320672
+        "epoch": 1634850012.7025301
     },
     {
         "title": "Sen. Kaine on next moves for voting reform after GOP blocked Dem measure",
@@ -24,16 +24,16 @@
         "url": "https://www.pbs.org/newshour/show/sen-kaine-on-next-moves-for-voting-reform-after-gop-blocked-dem-measure",
         "duration": "7 min",
         "ranked": 2,
-        "epoch": 1634822518.9320679
+        "epoch": 1634850012.702531
     },
     {
-        "title": "Why Biden’s approval rating is tanking and how Americans view democracy, justice",
+        "title": "Why Biden’s approval rating is sinking and how Americans view democracy, justice",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
         "url": "https://www.pbs.org/newshour/show/why-bidens-approval-rating-is-tanking-and-how-americans-view-democracy-justice",
         "duration": "7 min",
         "ranked": 3,
-        "epoch": 1634822518.9320683
+        "epoch": 1634850012.7025316
     },
     {
         "title": "Idlib, Syria’s final rebel stronghold, struggles to get lifesaving aid amid COVID spike",
@@ -42,7 +42,7 @@
         "url": "https://www.pbs.org/newshour/show/idlib-syrias-final-rebel-stronghold-struggles-to-get-lifesaving-aid-amid-covid-spike",
         "duration": "6 min",
         "ranked": 4,
-        "epoch": 1634822518.9320688
+        "epoch": 1634850012.7025323
     },
     {
         "title": "Chappelle Netflix special is ‘hate speech disguised as jokes,’ advocate says",
@@ -51,7 +51,7 @@
         "url": "https://www.pbs.org/newshour/show/chappelle-netflix-special-is-hate-speech-disguised-as-jokes-advocate-says",
         "duration": "7 min",
         "ranked": 5,
-        "epoch": 1634822518.9320695
+        "epoch": 1634850012.7025328
     },
     {
         "title": "Pilot oxygen backup system offers new hope for Ugandan hospitals plagued by power cuts",
@@ -60,7 +60,7 @@
         "url": "https://www.pbs.org/newshour/show/pilot-oxygen-backup-system-offers-new-hope-for-ugandan-hospitals-plagued-by-power-cuts",
         "duration": "5 min",
         "ranked": 6,
-        "epoch": 1634822518.9320703
+        "epoch": 1634850012.7025337
     },
     {
         "title": "Tuba player Richard Antoine White’s journey from homelessness to ‘belonging’ on stage",
@@ -69,6 +69,6 @@
         "url": "https://www.pbs.org/newshour/show/tuba-player-richard-antoine-whites-journey-from-homelessness-to-belonging-on-stage",
         "duration": "6 min",
         "ranked": 7,
-        "epoch": 1634822518.9320707
+        "epoch": 1634850012.7025342
     }
 ]

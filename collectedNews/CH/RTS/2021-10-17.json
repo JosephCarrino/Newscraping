@@ -6,7 +6,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/greta-thunberg-est-montee-sur-scene-pour-le-climat-25771018.html",
         "duration": "01:40",
         "ranked": 0,
-        "epoch": 1634763609.419809
+        "epoch": 1634850009.5598965
     },
     {
         "title": "La revue de presse alémanique",
@@ -15,7 +15,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/la-revue-de-presse-alemanique-25771019.html",
         "duration": "02:39",
         "ranked": 1,
-        "epoch": 1634763609.4198112
+        "epoch": 1634850009.5598984
     },
     {
         "title": "Sion affronte le FC Bale pour le retour de Paolo Tramezzani sur le banc sédunois",
@@ -24,7 +24,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/sion-affronte-le-fc-bale-pour-le-retour-de-paolo-tramezzani-sur-le-banc-sedunois-25771022.html",
         "duration": "01:52",
         "ranked": 2,
-        "epoch": 1634763609.4198122
+        "epoch": 1634850009.559899
     },
     {
         "title": "Le Fespaco, le plus grand festival de cinéma d’Afrique, a ouvert ses portes ce week-end",
@@ -33,7 +33,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/le-fespaco-le-plus-grand-festival-de-cinema-d-afrique-a-ouvert-ses-portes-ce-week-end-25771029.html",
         "duration": "01:45",
         "ranked": 3,
-        "epoch": 1634763609.419813
+        "epoch": 1634850009.5598998
     },
     {
         "title": "Une étude hollandaise s’est intéressée aux empreintes présentes dans l’ADN des vrais jumeaux",
@@ -42,7 +42,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/une-etude-hollandaise-s-est-interessee-aux-empreintes-presentes-dans-l-adn-des-vrais-jumeaux-25771024.html",
         "duration": "02:12",
         "ranked": 4,
-        "epoch": 1634763609.4198136
+        "epoch": 1634850009.5599005
     },
     {
         "title": "A voix haute - Marylin Maeso, philosophe, présente son ouvrage \"La petite fabrique de l'inhumain\"",
@@ -51,6 +51,6 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/a-voix-haute-marylin-maeso-philosophe-presente-son-ouvrage-la-petite-fabrique-de-l-inhumain-25771038.html",
         "duration": "15:09",
         "ranked": 5,
-        "epoch": 1634763609.4198143
+        "epoch": 1634850009.5599012
     }
 ]
