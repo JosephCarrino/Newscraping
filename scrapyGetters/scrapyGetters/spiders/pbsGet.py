@@ -2,6 +2,7 @@ import scrapy
 from scrapy.http import HtmlResponse
 from scrapy import Selector
 from datetime import datetime
+import datetime
 import time
 import os
 import json
@@ -9,7 +10,9 @@ import re
 
 class PbsgetSpider(scrapy.Spider):
     name = 'pbsGet'
-    toD= datetime.today()
+    toD= datetime.datetime.today()
+    delta= datetime.timedelta(1)
+    toD-=delta
     url= toD.strftime("%B-%#d-%Y")
     isWeek= toD.weekday()
     #different urls for weekdays and weekends
@@ -34,7 +37,7 @@ class PbsgetSpider(scrapy.Spider):
     #start_urls = ["https://www.pbs.org/newshour/show/october-19-2021-pbs-newshour-full-episode"]
 
     def parse(self, response):
-        ddate= datetime.strptime(response.css(".video-single__title--large").css("span::text").get(), "%B %d, %Y")
+        ddate= datetime.datetime.strptime(response.css(".video-single__title--large").css("span::text").get(), "%B %d, %Y")
         date_raw= ddate.strftime("%B %d, %Y")
         date= ddate.strftime("%Y-%m-%d")
         content= response.css(".playlist").css("li")
