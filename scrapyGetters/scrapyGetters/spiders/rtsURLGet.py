@@ -16,7 +16,7 @@ class RtsurlgetSpider(scrapy.Spider):
         urls= []
         for content in contents[0:len(contents)-1]:
             urls.append(content.css("a::attr(href)").get())
-        f= open("rtsurls.txt", "a")
+        f= open("rtsurls.txt", "w")
         for url in urls:
             f.write(url + "\n")
         f.close()
