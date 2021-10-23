@@ -1,0 +1,297 @@
+[
+    {
+        "title": "La commune de Montreux visÃÂ©e par une cyberattaque: rÃÂ©action de Christophe Hauert",
+        "date_raw": "October 11, 2021",
+        "date": "2021-10-11",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/la-commune-de-montreux-visee-par-une-cyberattaque-reaction-de-christophe-hauert-25769438.html",
+        "duration": "04:00",
+        "ranked": 0,
+        "epoch": 1634562791.244532,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-11.json",
+        "en_title": "The commune of Montreux targeted by a cyberattack: response by Christophe Hauert",
+        "concepts": [
+            {
+                "word": "Montreux",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cyberattack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Hauert",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La prÃÂ©sence de dioxines dans les sols vaudois a ÃÂ©tÃÂ© sous-ÃÂ©valuÃÂ©e",
+        "date_raw": "October 11, 2021",
+        "date": "2021-10-11",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/la-presence-de-dioxines-dans-les-sols-vaudois-a-ete-sous-evaluee-25769440.html",
+        "duration": "02:35",
+        "ranked": 1,
+        "epoch": 1634562791.2445343,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-11.json",
+        "en_title": "The presence of dioxins in the Vaudois soils has been undervalued",
+        "concepts": [
+            {
+                "word": "dioxins",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "soils",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "L'audience de Blick Suisse romande est dÃÂ©voilÃÂ©e par Mediapulse dans son dernier classement",
+        "date_raw": "October 11, 2021",
+        "date": "2021-10-11",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-audience-de-blick-suisse-romande-est-devoilee-par-mediapulse-dans-son-dernier-classement-25769442.html",
+        "duration": "01:02",
+        "ranked": 2,
+        "epoch": 1634562791.244535,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-11.json",
+        "en_title": "The audience of Blick Suisse romande is revealed by Mediapulse in its latest ranking",
+        "concepts": [
+            {
+                "word": "romande",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mediapulse",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ranking",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ouverture du procÃÂ¨s en appel de l'ancien conseiller genevois d'Etat Pierre Maudet",
+        "date_raw": "October 11, 2021",
+        "date": "2021-10-11",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/ouverture-du-proces-en-appel-de-l-ancien-conseiller-genevois-d-etat-pierre-maudet-25769450.html",
+        "duration": "01:39",
+        "ranked": 3,
+        "epoch": 1634562791.2445354,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-11.json",
+        "en_title": "Opening of the appeal proceedings against former Geneva State Councilor Pierre Maudet",
+        "concepts": [
+            {
+                "word": "proceedings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Maudet",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le Conseil fÃÂ©dÃÂ©ral lance sa campagne contre l'initiative sur les juges fÃÂ©dÃÂ©raux",
+        "date_raw": "October 11, 2021",
+        "date": "2021-10-11",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-conseil-federal-lance-sa-campagne-contre-l-initiative-sur-les-juges-federaux-25769448.html",
+        "duration": "01:57",
+        "ranked": 4,
+        "epoch": 1634562791.2445364,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-11.json",
+        "en_title": "Federal Council launches campaign against Federal Judges Initiative",
+        "concepts": [
+            {
+                "word": "Council",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "campaign",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Initiative",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le procÃÂ¨s des assassins de l'ancien prÃÂ©sident Thomas Sankara dÃÂ©bute ce lundi au Burkina Faso",
+        "date_raw": "October 11, 2021",
+        "date": "2021-10-11",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-proces-des-assassins-de-l-ancien-president-thomas-sankara-debute-ce-lundi-au-burkina-faso-25769451.html",
+        "duration": "02:21",
+        "ranked": 5,
+        "epoch": 1634562791.244537,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-11.json",
+        "en_title": "The trial of the assassins of former President Thomas Sankara begins Monday in Burkina Faso",
+        "concepts": [
+            {
+                "word": "trial",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "assassins",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sankara",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Faso",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le prix Nobel d'ÃÂ©conomie remis ÃÂ  un trio de spÃÂ©cialistes de l'ÃÂ©conomie expÃÂ©rimentale",
+        "date_raw": "October 11, 2021",
+        "date": "2021-10-11",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-prix-nobel-d-economie-remis-a-un-trio-de-specialistes-de-l-economie-experimentale-25769461.html",
+        "duration": "01:37",
+        "ranked": 6,
+        "epoch": 1634562791.244538,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-11.json",
+        "en_title": "The Nobel Prize in economics awarded to a trio of specialists in experimental economics",
+        "concepts": [
+            {
+                "word": "economics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "trio",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "specialists",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "economics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Un blockbuster anti-amÃÂ©ricain bat tous les records de recettes en Chine",
+        "date_raw": "October 11, 2021",
+        "date": "2021-10-11",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/un-blockbuster-anti-americain-bat-tous-les-records-de-recettes-en-chine-25769460.html",
+        "duration": "01:35",
+        "ranked": 7,
+        "epoch": 1634562791.2445388,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-11.json",
+        "en_title": "Anti-American blockbuster smashes all revenue records in China",
+        "concepts": [
+            {
+                "word": "records",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "China",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "L'Inde se prÃÂ©pare ÃÂ  accueillir ses premiers touristes depuis le dÃÂ©but de la pandÃÂ©mie",
+        "date_raw": "October 11, 2021",
+        "date": "2021-10-11",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-inde-se-prepare-a-accueillir-ses-premiers-touristes-depuis-le-debut-de-la-pandemie-25769459.html",
+        "duration": "01:40",
+        "ranked": 8,
+        "epoch": 1634562791.2445395,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-11.json",
+        "en_title": "India prepares to welcome its first tourists since the start of the pandemic",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tourists",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "start",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            },
+            {
+                "word": "pandemic",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Les invitÃÂ©es du 12h30 - Les Velvet Two Stripes prÃÂ©sentent leur troisiÃÂ¨me album",
+        "date_raw": "October 11, 2021",
+        "date": "2021-10-11",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/les-invitees-du-12h30-les-velvet-two-stripes-presentent-leur-troisieme-album-25769462.html",
+        "duration": "08:47",
+        "ranked": 9,
+        "epoch": 1634562791.2445405,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-11.json",
+        "en_title": "12:30 p.m. Guests - The Velvet Two Stripes present their third album",
+        "concepts": [
+            {
+                "word": "Guests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "album",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

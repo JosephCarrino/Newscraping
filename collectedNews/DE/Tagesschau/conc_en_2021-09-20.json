@@ -1,0 +1,301 @@
+[
+    {
+        "title": "Bundesfinanzminister Scholz ÃÂ¤uÃÂert sich im Finanzausschuss ÃÂ¼ber Anti-GeldwÃÂ¤sche-Einheit",
+        "date_raw": "September 20, 2021",
+        "date": "2021-09-20",
+        "url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
+        "content": "",
+        "ranked": "0",
+        "epoch": 1634562797.1706583,
+        "language": "de",
+        "source": "Tagesschau",
+        "filename": "en_2021-09-20.json",
+        "en_title": "Federal Finance Minister Scholz speaks about anti-money laundering unit in the finance committee",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Scholz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "unit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "committee",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": " Umfragen sehen Scholz auch beim letztem Triell vor der Wahl vorn",
+        "date_raw": "September 20, 2021",
+        "date": "2021-09-20",
+        "url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
+        "content": "",
+        "ranked": "1",
+        "epoch": 1634562797.170682,
+        "language": "de",
+        "source": "Tagesschau",
+        "filename": "en_2021-09-20.json",
+        "en_title": "Surveys also see Scholz ahead in the last triall before the election",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Surveys",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Scholz",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "triall",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": " Ab November dÃÂ¼rfen vollstÃÂ¤ndig geimpfte AuslÃÂ¤nder wieder in die USA einreisen",
+        "date_raw": "September 20, 2021",
+        "date": "2021-09-20",
+        "url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
+        "content": "",
+        "ranked": "2",
+        "epoch": 1634562797.1706984,
+        "language": "de",
+        "source": "Tagesschau",
+        "filename": "en_2021-09-20.json",
+        "en_title": "From November fully vaccinated foreigners will be allowed to re-enter the USA",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "November",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "USA",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": " Putins Partei verteidigt bei Parlamentswahlen in Russland Zweidrittelmehrheit",
+        "date_raw": "September 20, 2021",
+        "date": "2021-09-20",
+        "url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
+        "content": "",
+        "ranked": "3",
+        "epoch": 1634562797.170714,
+        "language": "de",
+        "source": "Tagesschau",
+        "filename": "en_2021-09-20.json",
+        "en_title": "Putin's party defends two-thirds majority in parliamentary elections in Russia",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "party",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "majority",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "elections",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Russia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": " Tote nach SchieÃÂerei an der UniversitÃÂ¤t im russischen Perm",
+        "date_raw": "September 20, 2021",
+        "date": "2021-09-20",
+        "url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
+        "content": "",
+        "ranked": "4",
+        "epoch": 1634562797.1707273,
+        "language": "de",
+        "source": "Tagesschau",
+        "filename": "en_2021-09-20.json",
+        "en_title": "Dead after shooting at Perm University in Russia",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "University",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Russia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": " Ermittlungen gegen Weidel wegen mÃÂ¶glichen VerstoÃÂes gegen Parteiengesetz eingestellt",
+        "date_raw": "September 20, 2021",
+        "date": "2021-09-20",
+        "url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
+        "content": "",
+        "ranked": "5",
+        "epoch": 1634562797.1707401,
+        "language": "de",
+        "source": "Tagesschau",
+        "filename": "en_2021-09-20.json",
+        "en_title": "Investigation against Weidel suspended for possible violation of political party law",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Investigation",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Weidel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "violation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "law",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": " Deutsche Bischofskonferenz will auf Herbstvollversammlung Reformen voranbringen",
+        "date_raw": "September 20, 2021",
+        "date": "2021-09-20",
+        "url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
+        "content": "",
+        "ranked": "6",
+        "epoch": 1634562797.1707528,
+        "language": "de",
+        "source": "Tagesschau",
+        "filename": "en_2021-09-20.json",
+        "en_title": "German Bishops' Conference wants to advance reforms at the autumn plenary assembly",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "Conference",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "reforms",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "assembly",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": " Deutscher Aktienindex DAX erweitert",
+        "date_raw": "September 20, 2021",
+        "date": "2021-09-20",
+        "url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
+        "content": "",
+        "ranked": "7",
+        "epoch": 1634562797.1707647,
+        "language": "de",
+        "source": "Tagesschau",
+        "filename": "en_2021-09-20.json",
+        "en_title": "German stock index DAX expanded",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "DAX",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": " Nach Vulkanausbruch auf La Palma mussten Tausende Menschen in Sicherheit gebracht werden",
+        "date_raw": "September 20, 2021",
+        "date": "2021-09-20",
+        "url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
+        "content": "",
+        "ranked": "8",
+        "epoch": 1634562797.1707766,
+        "language": "de",
+        "source": "Tagesschau",
+        "filename": "en_2021-09-20.json",
+        "en_title": "After the volcanic eruption on La Palma, thousands of people had to be brought to safety",
+        "en_content": "",
+        "concepts": [
+            {
+                "word": "eruption",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Palma",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "thousands",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "people",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "safety",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": " Das Wetter",
+        "date_raw": "September 20, 2021",
+        "date": "2021-09-20",
+        "url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
+        "content": "",
+        "ranked": "9",
+        "epoch": 1634562797.1707885,
+        "language": "de",
+        "source": "Tagesschau",
+        "filename": "en_2021-09-20.json",
+        "en_title": "The weather",
+        "en_content": "",
+        "concepts": []
+    }
+]
