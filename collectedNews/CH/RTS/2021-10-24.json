@@ -6,7 +6,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/menace-de-chomage-technique-en-suisse-a-cause-des-difficultes-d-approvisionnement-en-pieces-et-materiaux-25772800.html",
         "duration": "01:41",
         "ranked": 0,
-        "epoch": 1635195608.0197096
+        "epoch": 1635282008.9458685
     },
     {
         "title": "La revue de presse alémanique",
@@ -15,7 +15,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/la-revue-de-presse-alemanique-25772802.html",
         "duration": "02:24",
         "ranked": 1,
-        "epoch": 1635195608.019712
+        "epoch": 1635282008.945871
     },
     {
         "title": "Le coronavirus a plongé les hôpitaux et cliniques suisses dans le rouge",
@@ -24,7 +24,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/le-coronavirus-a-plonge-les-hopitaux-et-cliniques-suisses-dans-le-rouge-25772804.html",
         "duration": "00:17",
         "ranked": 2,
-        "epoch": 1635195608.019713
+        "epoch": 1635282008.9458718
     },
     {
         "title": "Décollage réussi pour la fusée française Ariane 5 en Guyane",
@@ -33,7 +33,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/decollage-reussi-pour-la-fusee-francaise-ariane-5-en-guyane-25772806.html",
         "duration": "01:41",
         "ranked": 3,
-        "epoch": 1635195608.0197139
+        "epoch": 1635282008.9458728
     },
     {
         "title": "Il y a 20 ans, 11 personnes perdaient la vie dans l’incendie du tunnel routier du Gothard",
@@ -42,7 +42,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/il-y-a-20-ans-11-personnes-perdaient-la-vie-dans-l-incendie-du-tunnel-routier-du-gothard-25772805.html",
         "duration": "01:36",
         "ranked": 4,
-        "epoch": 1635195608.0197146
+        "epoch": 1635282008.945874
     },
     {
         "title": "Il y a 50 ans, le pilote fribourgeois Jo Siffert disparaissait dans un accident au circuit de Brands Hatch",
@@ -51,7 +51,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/il-y-a-50-ans-le-pilote-fribourgeois-jo-siffert-disparaissait-dans-un-accident-au-circuit-de-brands-hatch-25772816.html",
         "duration": "01:19",
         "ranked": 5,
-        "epoch": 1635195608.0197155
+        "epoch": 1635282008.9458747
     },
     {
         "title": "Football: derby du Rhône de Super League entre FC Sion et Servette",
@@ -60,7 +60,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/football-derby-du-rhone-de-super-league-entre-fc-sion-et-servette-25772817.html",
         "duration": "01:25",
         "ranked": 6,
-        "epoch": 1635195608.0197165
+        "epoch": 1635282008.9458754
     },
     {
         "title": "Un musée consacré à la collection artistique d’Edvard Munch s’ouvre à Oslo",
@@ -69,7 +69,7 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/un-musee-consacre-a-la-collection-artistique-d-edvard-munch-s-ouvre-a-oslo-25772820.html",
         "duration": "01:57",
         "ranked": 7,
-        "epoch": 1635195608.0197172
+        "epoch": 1635282008.9458761
     },
     {
         "title": "À voix haute – Le vivant, la nature et nous",
@@ -78,6 +78,6 @@
         "url": "https://www.rts.ch/audio-podcast/2021/audio/a-voix-haute-le-vivant-la-nature-et-nous-25772819.html",
         "duration": "15:06",
         "ranked": 8,
-        "epoch": 1635195608.0197182
+        "epoch": 1635282008.9458768
     }
 ]
