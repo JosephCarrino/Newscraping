@@ -1,0 +1,176 @@
+[
+    {
+        "title": "Greta Thunberg est montÃÂ©e sur scÃÂ¨ne pour le climat",
+        "date_raw": "October 17, 2021",
+        "date": "2021-10-17",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/greta-thunberg-est-montee-sur-scene-pour-le-climat-25771018.html",
+        "duration": "01:40",
+        "ranked": 0,
+        "epoch": 1634562791.3258836,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-17.json",
+        "en_title": "Greta Thunberg took to the stage for the climate",
+        "concepts": [
+            {
+                "word": "Thunberg",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "stage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La revue de presse alÃÂ©manique",
+        "date_raw": "October 17, 2021",
+        "date": "2021-10-17",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/la-revue-de-presse-alemanique-25771019.html",
+        "duration": "02:39",
+        "ranked": 1,
+        "epoch": 1634562791.325886,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-17.json",
+        "en_title": "The German press review",
+        "concepts": []
+    },
+    {
+        "title": "Sion affronte le FC Bale pour le retour de Paolo Tramezzani sur le banc sÃÂ©dunois",
+        "date_raw": "October 17, 2021",
+        "date": "2021-10-17",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/sion-affronte-le-fc-bale-pour-le-retour-de-paolo-tramezzani-sur-le-banc-sedunois-25771022.html",
+        "duration": "01:52",
+        "ranked": 2,
+        "epoch": 1634562791.325887,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-17.json",
+        "en_title": "Sion faces FC Bale for Paolo Tramezzani's return to the bench",
+        "concepts": [
+            {
+                "word": "Sion",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Bale",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "return",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "bench",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le Fespaco, le plus grand festival de cinÃÂ©ma dÃ¢ÂÂAfrique, a ouvert ses portes ce week-end",
+        "date_raw": "October 17, 2021",
+        "date": "2021-10-17",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-fespaco-le-plus-grand-festival-de-cinema-d-afrique-a-ouvert-ses-portes-ce-week-end-25771029.html",
+        "duration": "01:45",
+        "ranked": 3,
+        "epoch": 1634562791.325888,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-17.json",
+        "en_title": "Fespaco, Africa's biggest film festival, opened this weekend",
+        "concepts": [
+            {
+                "word": "Fespaco",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Une ÃÂ©tude hollandaise sÃ¢ÂÂest intÃÂ©ressÃÂ©e aux empreintes prÃÂ©sentes dans lÃ¢ÂÂADN des vrais jumeaux",
+        "date_raw": "October 17, 2021",
+        "date": "2021-10-17",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/une-etude-hollandaise-s-est-interessee-aux-empreintes-presentes-dans-l-adn-des-vrais-jumeaux-25771024.html",
+        "duration": "02:12",
+        "ranked": 4,
+        "epoch": 1634562791.3258889,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-17.json",
+        "en_title": "A Dutch study investigated the fingerprints in the DNA of identical twins",
+        "concepts": [
+            {
+                "word": "study",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fingerprints",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "DNA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "twins",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "A voix haute - Marylin Maeso, philosophe, prÃÂ©sente son ouvrage \"La petite fabrique de l'inhumain\"",
+        "date_raw": "October 17, 2021",
+        "date": "2021-10-17",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/a-voix-haute-marylin-maeso-philosophe-presente-son-ouvrage-la-petite-fabrique-de-l-inhumain-25771038.html",
+        "duration": "15:09",
+        "ranked": 5,
+        "epoch": 1634562791.32589,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-17.json",
+        "en_title": "Aloud - Marylin Maeso, philosopher, presents his work \"La petite fabrique de l'Inhumain\"",
+        "concepts": [
+            {
+                "word": "Maeso",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "work",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "La",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fabrique",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "l'Inhumain",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

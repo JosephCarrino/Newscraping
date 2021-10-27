@@ -1,0 +1,267 @@
+[
+    {
+        "title": "LÃ¢ÂÂapprovisionnement en ÃÂ©lectricitÃÂ© pourrait devenir critique d'ici 2025 en Suisse: interview de Simonetta Sommaruga",
+        "date_raw": "October 14, 2021",
+        "date": "2021-10-14",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-approvisionnement-en-electricite-pourrait-devenir-critique-d-ici-2025-en-suisse-interview-de-simonetta-sommaruga-25770334.html",
+        "duration": "02:21",
+        "ranked": 0,
+        "epoch": 1634562791.0953548,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-14.json",
+        "en_title": "Electricity supply could become critical by 2025 in Switzerland: interview with Simonetta Sommaruga",
+        "concepts": [
+            {
+                "word": "supply",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "2025",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Switzerland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sommaruga",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "LÃ¢ÂÂinvitÃÂ© du 12h30 - HervÃÂ© Groscarret prÃÂ©sente lÃ¢ÂÂexposition \"Tout contre terre\"",
+        "date_raw": "October 14, 2021",
+        "date": "2021-10-14",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-herve-groscarret-presente-l-exposition-tout-contre-terre-25770357.html",
+        "duration": "08:09",
+        "ranked": 1,
+        "epoch": 1634562791.095357,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-14.json",
+        "en_title": "The guest at 12:30 pm - HervÃ Â© Groscarret presents the exhibition \"Tout contre terre\"",
+        "concepts": [
+            {
+                "word": "guest",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "pm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Groscarret",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "exhibition",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Un camion ÃÂ©lectrique grand format va dÃÂ©barquer sur les routes suisses",
+        "date_raw": "October 14, 2021",
+        "date": "2021-10-14",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/un-camion-electrique-grand-format-va-debarquer-sur-les-routes-suisses-25770337.html",
+        "duration": "02:36",
+        "ranked": 2,
+        "epoch": 1634562791.0953608,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-14.json",
+        "en_title": "Large-format electric truck will stand out on Swiss roads",
+        "concepts": [
+            {
+                "word": "truck",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le procÃÂ¨s de Pierre Maudet arrive ÃÂ  son terme ÃÂ  GenÃÂ¨ve",
+        "date_raw": "October 14, 2021",
+        "date": "2021-10-14",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-proces-de-pierre-maudet-arrive-a-son-terme-a-geneve-25770341.html",
+        "duration": "01:33",
+        "ranked": 3,
+        "epoch": 1634562791.0953617,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-14.json",
+        "en_title": "Pierre Maudet's trial comes to an end in Geneva",
+        "concepts": [
+            {
+                "word": "trial",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "end",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Geneva",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Lausanne et Aigle vont accueillir le Tour de France lÃ¢ÂÂÃÂ©tÃÂ© prochain: interview de Patrice Iseli",
+        "date_raw": "October 14, 2021",
+        "date": "2021-10-14",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/lausanne-et-aigle-vont-accueillir-le-tour-de-france-l-ete-prochain-interview-de-patrice-iseli-25770345.html",
+        "duration": "04:48",
+        "ranked": 4,
+        "epoch": 1634562791.0953627,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-14.json",
+        "en_title": "Lausanne and Aigle will host the Tour de France next summer: interview with Patrice Iseli",
+        "concepts": [
+            {
+                "word": "Lausanne",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Patrice",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dernier jour du procÃÂ¨s dÃ¢ÂÂun Genevois soupÃÂ§onnÃÂ© de radicalisation djihadiste ÃÂ  Paris",
+        "date_raw": "October 14, 2021",
+        "date": "2021-10-14",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/dernier-jour-du-proces-d-un-genevois-soupconne-de-radicalisation-djihadiste-a-paris-25770340.html",
+        "duration": "02:30",
+        "ranked": 5,
+        "epoch": 1634562791.0953634,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-14.json",
+        "en_title": "Last day of the trial of a Genevan suspected of jihadist radicalization in Paris",
+        "concepts": [
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Genevan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "radicalization",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Paris",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Un mort et cinq blessÃÂ©s par balle au cours dÃ¢ÂÂune manifestation ÃÂ  Beyrouth",
+        "date_raw": "October 14, 2021",
+        "date": "2021-10-14",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/un-mort-et-cinq-blesses-par-balle-au-cours-d-une-manifestation-a-beyrouth-25770344.html",
+        "duration": "01:40",
+        "ranked": 6,
+        "epoch": 1634562791.095364,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-14.json",
+        "en_title": "One dead, five injured during a demonstration in Beirut",
+        "concepts": [
+            {
+                "word": "demonstration",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Beirut",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Les prÃÂ©visions ÃÂ©conomiques ne sont pas trÃÂ¨s optimistes pour 2021 en Allemagne",
+        "date_raw": "October 14, 2021",
+        "date": "2021-10-14",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/les-previsions-economiques-ne-sont-pas-tres-optimistes-pour-2021-en-allemagne-25770349.html",
+        "duration": "01:14",
+        "ranked": 7,
+        "epoch": 1634562791.0953648,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-14.json",
+        "en_title": "Economic forecasts are not very optimistic for 2021 in Germany",
+        "concepts": [
+            {
+                "word": "forecasts",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "2021",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Germany",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La pÃÂ©nurie mondiale de marchandises dans lÃ¢ÂÂindustrie inquiÃÂ¨te",
+        "date_raw": "October 14, 2021",
+        "date": "2021-10-14",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/la-penurie-mondiale-de-marchandises-dans-l-industrie-inquiete-25770351.html",
+        "duration": "01:42",
+        "ranked": 8,
+        "epoch": 1634562791.0953681,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-14.json",
+        "en_title": "Global commodity shortage in industry worries",
+        "concepts": [
+            {
+                "word": "worries",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]
