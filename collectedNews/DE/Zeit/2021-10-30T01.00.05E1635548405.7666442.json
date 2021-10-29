@@ -1,0 +1,202 @@
+[
+    {
+        "title": "TSG Hoffenheim gewinnt gegen Hertha BSC",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-10/bundesliga-10-spieltag-spielberichte",
+        "content": "Nach einem starken Start kassierte der Berliner Club zwei Tore. Hoffenheim schlie\u00dft zwischenzeitlich an die internationalen Tabellenpl\u00e4tze an. Der Spielbericht",
+        "ranked": 0,
+        "epoch": 1635548405.7665553
+    },
+    {
+        "title": "Waffenmeisterin von Alec Baldwin weist Verantwortung von sich",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-10/usa-alec-baldwin-toedlicher-unfall-waffe-munition-sicherheitsmaengel",
+        "content": "Der t\u00f6dliche Schuss auf eine Kamerafrau ist laut Anw\u00e4lten und Polizei der Nachl\u00e4ssigkeit im Umgang mit Waffen geschuldet. Produzenten sollen Warnungen ignoriert haben.",
+        "ranked": 1,
+        "epoch": 1635548405.7665584
+    },
+    {
+        "title": "Bundesweite Inzidenz liegt erstmals wieder \u00fcber 150",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-10/coronavirus-neuinfektionen-rki-gesundheitsaemter-bayern-thueringen-inzidenz",
+        "content": "Die Gesundheits\u00e4mter melden 24.370 Neuinfektionen. Bayern und Th\u00fcringen registrieren fast so viele Neuinfektionen wie noch nie.",
+        "ranked": 2,
+        "epoch": 1635548405.76656
+    },
+    {
+        "title": "Joe Biden r\u00e4umt \"ungeschicktes\" Vorgehen im U-Boot-Streit ein",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/u-boot-streit-joe-biden-emmanuel-macron-versoehnung",
+        "content": "\u00dcber Wochen zog sich die U-Boot-Krise zwischen den USA und Frankreich. Bei einem Treffen in Rom sprachen sich die Staatschefs aus und schlugen vers\u00f6hnliche T\u00f6ne an.",
+        "ranked": 3,
+        "epoch": 1635548405.766561
+    },
+    {
+        "title": "Wie leitet man eine Uni, ohne den Verstand zu verlieren?",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-10/praesident-uni-hamburg-hauke-heekeren-einstand-vorstellung",
+        "content": "Hauke Heekeren ist der neue Pr\u00e4sident der Uni Hamburg. Er m\u00f6chte empathisch sein und mit allen mehr reden. Seit seiner Vorstellungsrunde wei\u00df er, was da auf ihn zukommt.",
+        "ranked": 4,
+        "epoch": 1635548405.766562
+    },
+    {
+        "title": "Ruhm allein schafft keine Relevanz",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-10/prominente-oeffentlicher-diskurs-teilnahme-vorbildfunktion-joshua-kimmich",
+        "content": "Die Haltung von Fu\u00dfballern, Schauspielerinnen und Musikern zu gesellschaftlichen Themen ist sehr gefragt. Dadurch blockieren st\u00e4ndig halb informierte Stimmen den Diskurs.",
+        "ranked": 5,
+        "epoch": 1635548405.7665672
+    },
+    {
+        "title": "Drei Brennnesseln gegen die aufkommende W\u00e4rme",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-10/cottagecore-tiktok-unberuehrte-natur-rueckkehr-abgeschiedenheit",
+        "content": "Die Idealisierung des Landlebens hat in der Pandemie TikTok und Instagram erreicht. Hier zeigt sich wie in allen Jahrhunderten zuvor: Die Utopie des R\u00fcckzugs ist br\u00fcchig.",
+        "ranked": 6,
+        "epoch": 1635548405.7665682
+    },
+    {
+        "title": "Getrieben von den Hardlinern",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/eu-polen-zwangsgeld-sanktion-eugh-urteil-justizreform-pis-regierung",
+        "content": "Mit finanziellem Druck will die EU bewirken, dass die polnische Justiz wieder unabh\u00e4ngig wird. Dar\u00fcber entscheidet aber vor allem ein Machtkampf in Polens Regierung.",
+        "ranked": 7,
+        "epoch": 1635548405.766569
+    },
+    {
+        "title": "\u00c4rzte empfehlen Queen Elizabeth zwei Wochen Ruhe",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/grossbritannien-queen-elizabeth-buckingham-palast-gesundheitszustand-ruhepause",
+        "content": "Die 95-J\u00e4hrige soll auf Anraten ihrer \u00c4rzte nur \"leichte Aufgaben\" wahrnehmen. Ihre Reise zum Klimagipfel sagte sie ab. Der Palast spricht von einer Vorsichtsma\u00dfnahme.",
+        "ranked": 8,
+        "epoch": 1635548405.76657
+    },
+    {
+        "title": "Erste Hinrichtung in Oklahoma seit mehr als sechs Jahren",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-09/usa-oklahoma-todesstrafe-giftspritze-hinrichtung-moerder-gefaengnis",
+        "content": "In dem US-Bundesstaat wurde ein Mann mit einer t\u00f6dlichen Injektion hingerichtet. Das Oberste Gericht hatte die T\u00f6tung freigegeben. In K\u00fcrze sollen zwei weitere folgen.",
+        "ranked": 9,
+        "epoch": 1635548405.766571
+    },
+    {
+        "title": "Moskauer Gericht verurteilt Influencer zu zehn Monaten Haft",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/russland-moskau-basilius-kathedrale-influencer-instagram-foto-gerichtsurteil-haftstrafe",
+        "content": "Wegen eines anz\u00fcglichen Fotos vor der Basilius-Kathedrale auf dem Roten Platz m\u00fcssen zwei Instagramer ins Gef\u00e4ngnis. Laut Gericht haben sie religi\u00f6se Gef\u00fchle verletzt.",
+        "ranked": 10,
+        "epoch": 1635548405.766572
+    },
+    {
+        "title": "Polnisches Parlament billigt Bau befestigter Grenzanlage zu Belarus",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/eu-aussengrenze-polen-belarus-befestigte-grenzanlage-bau-genehmigung-migration-gefluechtete",
+        "content": "F\u00fcr mehr als 350 Millionen Euro will Polen seine EU-Au\u00dfengrenze zu Belarus mit einem Zaun abschirmen. Das will das Land auch ohne Hilfe der EU machen.",
+        "ranked": 11,
+        "epoch": 1635548405.7665727
+    },
+    {
+        "title": "\"Antifeminismus hat keine politische Heimat\"",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-10/antifeminismus-facebook-gruppen-fpd-mitglieder-burschenschaften-frauenhass",
+        "content": "Der Autor Tobias Ginsburg hat sich in radikale M\u00e4nnergruppen eingeschleust und fand Frauenhass \u00fcberall: in Burschenschaften, in der Alt-Right und bei FDP-Mitgliedern.",
+        "ranked": 12,
+        "epoch": 1635548405.766574
+    },
+    {
+        "title": "Sachsens Impfkommission r\u00e4t zu Boosterimpfungen f\u00fcr alle Erwachsenen",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-10/corona-impfung-sachsen-impfkommission-auffrischungsimpfung-booster-impfung-erwachsene-empfehlung",
+        "content": "Menschen ab 18 k\u00f6nnen sich in Sachsen bald eine Auffrischungsimpfung holen. Th\u00fcringen hat \u00e4hnliche Pl\u00e4ne. Die Stiko-Empfehlung gilt bislang nur f\u00fcr ausgew\u00e4hlte Personen.",
+        "ranked": 13,
+        "epoch": 1635548405.7665753
+    },
+    {
+        "title": "Versicherer wollen Policen f\u00fcr Wohngeb\u00e4ude erweitern",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-10/versicherung-hausbesitzer-elementarschaeden-versicherungsschutz-hochwasser-flutkatastrophe-ahrtal",
+        "content": "Jedem zweiten Haus fehlt bislang der Versicherungsschutz gegen Klimasch\u00e4den. Darauf wollen Versicherer reagieren. Die Pl\u00e4ne betreffen sowohl Neu- als auch Altvertr\u00e4ge.",
+        "ranked": 14,
+        "epoch": 1635548405.766577
+    },
+    {
+        "title": "Papst Franziskus empf\u00e4ngt US-Pr\u00e4sident Biden zur Privataudienz",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-10/joe-biden-papst-franziskus-privataudienz-vatikan-katholische-kirche-schwangerschaftsabbrueche",
+        "content": "Seine Europareise hat den gl\u00e4ubigen Katholiken Joe Biden zuerst in den Vatikan gef\u00fchrt. Papst Franziskus traf er in herzlicher Atmosph\u00e4re \u2013 doch es gab ein Streitthema.",
+        "ranked": 15,
+        "epoch": 1635548405.7665784
+    },
+    {
+        "title": "Willkommen und Abschied in Rom",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-10/g20-gipfel-rom-angela-merkel-joe-biden-nachrichtenpodcast",
+        "content": "F\u00fcr US-Pr\u00e4sident Joe Biden ist es der erste G20-Gipfel. Kanzlerin Merkel nimmt zum letzten Mal teil. Au\u00dferdem im Update: Aufruf zur Boosterimpfung",
+        "ranked": 16,
+        "epoch": 1635548405.76658
+    },
+    {
+        "title": "Eine Frage der Kohle",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-10/china-un-klimagipfel-glasgow-klimaziele-klimaneutralitaet-kohlekraftwerke-abhaengigkeit",
+        "content": "Auf China kommt es beim UN-Klimagipfel besonders an: Kein Land pumpt mehr CO2 in die Luft, vor allem aus der Kohlenutzung. Was ist von Pr\u00e4sident Xi zu erwarten?",
+        "ranked": 17,
+        "epoch": 1635548405.766582
+    },
+    {
+        "title": "Europaparlament verklagt EU-Kommission wegen Unt\u00e4tigkeit",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/europaparlament-eu-kommission-klage-rechtsstaatsverstoesse-ahndung-polen-ungarn-europaeische-union",
+        "content": "Das Parlament wirft der Kommission vor, m\u00f6glichen Missbrauch von EU-Geld nicht konsequent zu verfolgen. Die Klage vor dem EuGH ist ein ungew\u00f6hnlicher Schritt.",
+        "ranked": 18,
+        "epoch": 1635548405.7665877
+    },
+    {
+        "title": "Polizei entdeckt Toten unter eingeschleusten Gefl\u00fcchteten",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-10/deutsch-polnische-grenze-goerlitz-illegale-einreise-toter-gefluechteter-polizei",
+        "content": "Nahe der deutsch-polnischen Grenze hat die Polizei einen Kleintransporter durchsucht. Darin fanden sie auch einen toten Mann. Der mutma\u00dfliche Schleuser ist fl\u00fcchtig.",
+        "ranked": 19,
+        "epoch": 1635548405.7665887
+    }
+]
