@@ -56,7 +56,8 @@ for item in zip(titles, raw_dates, dates, urls, contents):
         'title': item[0],
         'date_raw': item[1],
         'date': item[2],
-        'url': item[3],
+        'url': url,
+        'news_url': item[3],
         'content': item[4],
         'ranked': i,
         'epoch': time.time()

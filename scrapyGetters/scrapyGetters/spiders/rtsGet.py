@@ -55,7 +55,8 @@ class RtsgetSpider(scrapy.Spider):
                 'title': item[0],
                 'date_raw': item[1],
                 'date': item[2],
-                'url': item[3],
+                'url': response.request.url,
+                'news_url': item[3],
                 'duration': item[4],
                 'ranked': item[5],
                 'epoch': time.time()

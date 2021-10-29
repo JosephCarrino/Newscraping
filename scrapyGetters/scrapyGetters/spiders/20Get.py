@@ -57,7 +57,8 @@ class A20getSpider(scrapy.Spider):
                     'title': title,
                     'date_raw': dates,
                     'date': datetime.strptime(dates, "%B %d, %Y").strftime("%Y-%m-%d"),
-                    'url': urls,
+                    'url': response.request.url,
+                    'url_news': urls,
                     'content': contents,
                     'ranked': str(i),
                     'epoch': time.time()

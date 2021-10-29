@@ -59,7 +59,8 @@ class PbsgetSpider(scrapy.Spider):
                 'title': item[0],
                 'date_raw': date_raw,
                 'date': date,
-                'url': item[1],
+                'url': response.request.url,
+                'news_url': item[1],
                 'duration': item[2],
                 'ranked': item[3],
                 'epoch': time.time()
