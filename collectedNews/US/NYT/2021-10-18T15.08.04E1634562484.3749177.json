@@ -3,7 +3,7 @@
         "title": "Colin Powell Dies at 84",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/colin-powell-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/colin-powell-dead.html",
         "content": "A former chairman of the Joint Chiefs of Staff, secretary of state and national security adviser, Mr. Powell died on Monday, his family said.",
         "ranked": 0,
         "placed": "Politics",
@@ -34,14 +34,14 @@
                 "Bush, George W"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3DLPF1U"
+            "short_news_url": "https://nyti.ms/3DLPF1U"
         }
     },
     {
         "title": "A Century-Long \u2018Reign of Error\u2019 for a Supreme Court Typo",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/supreme-court-typos-revisions.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/supreme-court-typos-revisions.html",
         "content": "A sweeping statement in a 1928 opinion about property rights was revised soon after it was issued. But the error lived on.",
         "ranked": 1,
         "placed": "Politics",
@@ -64,14 +64,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3lOHwne"
+            "short_news_url": "https://nyti.ms/3lOHwne"
         }
     },
     {
         "title": "Explaining the Impact of Redistricting in Texas, Visually",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/insider/texas-redistricting.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/insider/texas-redistricting.html",
         "content": "When Texas Republicans revealed their new congressional map last month, our reporters and graphics editors used maps and data to examine the effects.",
         "ranked": 2,
         "placed": "Politics",
@@ -100,14 +100,14 @@
             "geo_facet": [
                 "Texas"
             ],
-            "short_news_news_url": "https://nyti.ms/3BUcik6"
+            "short_news_url": "https://nyti.ms/3BUcik6"
         }
     },
     {
         "title": "Biden\u2019s Plans Raise Questions About What U.S. Can Afford Not to Do",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_news_url": "https://www.nytimes.com/2021/10/17/us/politics/biden-budget-affordability.html",
+        "news_url": "https://www.nytimes.com/2021/10/17/us/politics/biden-budget-affordability.html",
         "content": "Democrats are debating whether doing nothing will cost more than doing something to deal with climate change, education, child care, prescription drugs and more.",
         "ranked": 3,
         "placed": "Politics",
@@ -139,14 +139,14 @@
                 "Manchin, Joe III"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3jvlfJR"
+            "short_news_url": "https://nyti.ms/3jvlfJR"
         }
     },
     {
         "title": "Washington Hears Echoes of the \u201950s and Worries: Is This a Cold War With China?",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_news_url": "https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html",
+        "news_url": "https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html",
         "content": "Incursions into Taiwan\u2019s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set.",
         "ranked": 4,
         "placed": "Politics",
@@ -177,14 +177,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_news_news_url": "https://nyti.ms/2XlVx2t"
+            "short_news_url": "https://nyti.ms/2XlVx2t"
         }
     },
     {
         "title": "As Trump Thunders About Last Election, Republicans Worry About the Next One",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_news_url": "https://www.nytimes.com/2021/10/17/us/politics/trump-voter-fraud-republicans.html",
+        "news_url": "https://www.nytimes.com/2021/10/17/us/politics/trump-voter-fraud-republicans.html",
         "content": "Donald Trump is the Republicans\u2019 greatest asset in mobilizing voters. But some fret that his obsession with false claims about the 2020 election could cost the G.O.P. in 2022.",
         "ranked": 5,
         "placed": "Politics",
@@ -217,14 +217,14 @@
             "geo_facet": [
                 "Virginia"
             ],
-            "short_news_news_url": "https://nyti.ms/3vlPIP4"
+            "short_news_url": "https://nyti.ms/3vlPIP4"
         }
     },
     {
         "title": "As Manchin Blocks Climate Plan, His State Can\u2019t Hold Back Floods",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_news_url": "https://www.nytimes.com/2021/10/17/climate/manchin-west-virginia-flooding.html",
+        "news_url": "https://www.nytimes.com/2021/10/17/climate/manchin-west-virginia-flooding.html",
         "content": "As the senator thwarts Democrats\u2019 major push to reduce warming, new data shows West Virginia is more exposed to worsening floods than anywhere else in the country.",
         "ranked": 6,
         "placed": "Politics",
@@ -257,14 +257,14 @@
             "geo_facet": [
                 "West Virginia"
             ],
-            "short_news_news_url": "https://nyti.ms/3DNBTM9"
+            "short_news_url": "https://nyti.ms/3DNBTM9"
         }
     },
     {
         "title": "Bill Clinton Is Released From Hospital",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_news_url": "https://www.nytimes.com/2021/10/17/us/politics/bill-clinton-released-hospital.html",
+        "news_url": "https://www.nytimes.com/2021/10/17/us/politics/bill-clinton-released-hospital.html",
         "content": "The former president was admitted to a California hospital on Tuesday for treatment of an infection that developed into sepsis, officials said.",
         "ranked": 7,
         "placed": "Politics",
@@ -295,14 +295,14 @@
                 "California",
                 "Orange (Calif)"
             ],
-            "short_news_news_url": "https://nyti.ms/3FVQOWz"
+            "short_news_url": "https://nyti.ms/3FVQOWz"
         }
     },
     {
         "title": "As Some Black Staff Members Leave Congress, Those Who Remain Call for Change",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_news_url": "https://www.nytimes.com/2021/10/17/us/politics/black-staff-congress.html",
+        "news_url": "https://www.nytimes.com/2021/10/17/us/politics/black-staff-congress.html",
         "content": "Low pay, a high cost of living and an insulated culture make it hard for Black aides to build a career in Congress.",
         "ranked": 8,
         "placed": "Politics",
@@ -334,14 +334,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3FTE82s"
+            "short_news_url": "https://nyti.ms/3FTE82s"
         }
     },
     {
         "title": "Glenn Youngkin Talks About Virginia. His Base Talks About Donald Trump.",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_news_url": "https://www.nytimes.com/2021/10/16/us/politics/glenn-youngkin-virginia-governor-trump.html",
+        "news_url": "https://www.nytimes.com/2021/10/16/us/politics/glenn-youngkin-virginia-governor-trump.html",
         "content": "Republicans in Virginia are saying what their nominee for governor will not: The governor\u2019s race is a proxy for Mr. Trump\u2019s grievances.",
         "ranked": 9,
         "placed": "Politics",
@@ -374,14 +374,14 @@
             "geo_facet": [
                 "Virginia"
             ],
-            "short_news_news_url": "https://nyti.ms/3AOKeNG"
+            "short_news_url": "https://nyti.ms/3AOKeNG"
         }
     },
     {
         "title": "With Biden Agenda in Limbo, Democrats Work to Sell an Unfinished Promise",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_news_url": "https://www.nytimes.com/2021/10/16/us/politics/biden-democrats-susan-wild.html",
+        "news_url": "https://www.nytimes.com/2021/10/16/us/politics/biden-democrats-susan-wild.html",
         "content": "As President Biden and his allies in Congress work to whittle down the size of their ambitious domestic plans, Democrats must sell a bill without knowing precisely what will be in it.",
         "ranked": 10,
         "placed": "Politics",
@@ -415,14 +415,14 @@
             "geo_facet": [
                 "Allentown (Pa)"
             ],
-            "short_news_news_url": "https://nyti.ms/3vgYNsu"
+            "short_news_url": "https://nyti.ms/3vgYNsu"
         }
     },
     {
         "title": "How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_news_url": "https://www.nytimes.com/2021/10/16/world/afghanistan-girl-burn-evacuation-military.html",
+        "news_url": "https://www.nytimes.com/2021/10/16/world/afghanistan-girl-burn-evacuation-military.html",
         "content": "The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan.",
         "ranked": 11,
         "placed": "Politics",
@@ -453,14 +453,14 @@
                 "Afghanistan",
                 "Kabul (Afghanistan)"
             ],
-            "short_news_news_url": "https://nyti.ms/3G3UbuT"
+            "short_news_url": "https://nyti.ms/3G3UbuT"
         }
     },
     {
         "title": "Those Buried at Guant\u00e1namo Graveyard Never Found Their Way Home",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_news_url": "https://www.nytimes.com/2021/10/16/us/politics/guantanamo-military-graveyard.html",
+        "news_url": "https://www.nytimes.com/2021/10/16/us/politics/guantanamo-military-graveyard.html",
         "content": "The U.S. military cemetery at Guant\u00e1namo Bay offers a history of the century-old base \u2014 minus the outpost\u2019s war-on-terror mission.",
         "ranked": 12,
         "placed": "Politics",
@@ -484,14 +484,14 @@
             "geo_facet": [
                 "Guantanamo Bay Naval Base (Cuba)"
             ],
-            "short_news_news_url": "https://nyti.ms/3mZGvYX"
+            "short_news_url": "https://nyti.ms/3mZGvYX"
         }
     },
     {
         "title": "Money Floods the Race for Control of Congress, More Than a Year Early",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_news_url": "https://www.nytimes.com/2021/10/16/us/politics/midterm-elections-campaign-financing.html",
+        "news_url": "https://www.nytimes.com/2021/10/16/us/politics/midterm-elections-campaign-financing.html",
         "content": "The main House war chests for both Democrats and Republicans have a combined $128 million in the bank \u2014 more than double the sum at this point in 2020.",
         "ranked": 13,
         "placed": "Politics",
@@ -521,14 +521,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3p7bNje"
+            "short_news_url": "https://nyti.ms/3p7bNje"
         }
     },
     {
         "title": "U.S. Pledges to Pay Family of Those Killed in Botched Kabul Drone Strike",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "news_news_url": "https://www.nytimes.com/2021/10/15/us/politics/kabul-drone-strike-victims-payment.html",
+        "news_url": "https://www.nytimes.com/2021/10/15/us/politics/kabul-drone-strike-victims-payment.html",
         "content": "The Pentagon offered unspecified amounts to relatives of the 10 civilians who died in Aug. 29 attack and agreed to help relocate those who want to move to the U.S.",
         "ranked": 14,
         "placed": "Politics",
@@ -556,14 +556,14 @@
             "geo_facet": [
                 "Kabul (Afghanistan)"
             ],
-            "short_news_news_url": "https://nyti.ms/3aJT1WF"
+            "short_news_url": "https://nyti.ms/3aJT1WF"
         }
     },
     {
         "title": "F.D.A. Panel Unanimously Recommends Johnson & Johnson Booster Shots",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "news_news_url": "https://www.nytimes.com/2021/10/15/health/johnson-johnson-vaccine-booster.html",
+        "news_url": "https://www.nytimes.com/2021/10/15/health/johnson-johnson-vaccine-booster.html",
         "content": "But many panel members said J. & J. recipients might also benefit from the option of a Pfizer-BioNTech or Moderna booster, an action that an F.D.A. official said was possible.",
         "ranked": 15,
         "placed": "Politics",
@@ -592,14 +592,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3AQUvcd"
+            "short_news_url": "https://nyti.ms/3AQUvcd"
         }
     },
     {
         "title": "Behind the Scenes at a Conservative Rally",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "news_news_url": "https://www.nytimes.com/interactive/2021/10/15/us/politics/conservative-rally-behind-the-scenes.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/15/us/politics/conservative-rally-behind-the-scenes.html",
         "content": "Last week, I attended an event aimed at rallying Republicans behind Glenn Youngkin, the party\u2019s nominee for governor in Virginia. But it was mostly about Donald J. Trump.",
         "ranked": 16,
         "placed": "Politics",
@@ -625,14 +625,14 @@
             "geo_facet": [
                 "Virginia"
             ],
-            "short_news_news_url": "https://nyti.ms/3lHJC8u"
+            "short_news_url": "https://nyti.ms/3lHJC8u"
         }
     },
     {
         "title": "Pete Buttigieg Joins the Parental Leave Debate: \u2018This Is Work.\u2019",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "news_news_url": "https://www.nytimes.com/2021/10/15/us/politics/pete-buttigieg-parental-leave.html",
+        "news_url": "https://www.nytimes.com/2021/10/15/us/politics/pete-buttigieg-parental-leave.html",
         "content": "\u201cIt\u2019s one thing to believe something as a matter of policy,\u201d Mr. Buttigieg said about taking paid time off. \u201cIt\u2019s another to live it and see how much of a difference it could make.\u201d",
         "ranked": 17,
         "placed": "Politics",
@@ -659,14 +659,14 @@
                 "Buttigieg, Pete (1982- )"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3FS30rl"
+            "short_news_url": "https://nyti.ms/3FS30rl"
         }
     },
     {
         "title": "Illinois Democrats\u2019 Map Aims to Grab 2 G.O.P. Seats in Congress",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "news_news_url": "https://www.nytimes.com/2021/10/15/us/politics/illinois-democrats-gerrymander.html",
+        "news_url": "https://www.nytimes.com/2021/10/15/us/politics/illinois-democrats-gerrymander.html",
         "content": "The districts would be among the most gerrymandered in the country. The Republican-friendly seat held by Representative Adam Kinzinger, a Trump antagonist, would be eliminated.",
         "ranked": 18,
         "placed": "Politics",
@@ -693,14 +693,14 @@
             "geo_facet": [
                 "Illinois"
             ],
-            "short_news_news_url": "https://nyti.ms/30vUgqO"
+            "short_news_url": "https://nyti.ms/30vUgqO"
         }
     },
     {
         "title": "Capitol Police Officer Charged With Obstructing Justice in Jan. 6 Case",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "news_news_url": "https://www.nytimes.com/2021/10/15/us/politics/capitol-riot-police-officer-charged.html",
+        "news_url": "https://www.nytimes.com/2021/10/15/us/politics/capitol-riot-police-officer-charged.html",
         "content": "Michael A. Riley, a veteran of the force, encouraged a man in the Capitol during the riot to delete social media posts showing he was there, according to the indictment.",
         "ranked": 19,
         "placed": "Politics",
@@ -727,14 +727,14 @@
                 "Riley, Michael A (US Capitol Police Officer)"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3lNzFXf"
+            "short_news_url": "https://nyti.ms/3lNzFXf"
         }
     },
     {
         "title": "Funding Fight Threatens Plan to Pump Billions Into Affordable Housing",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "news_news_url": "https://www.nytimes.com/2021/10/15/us/politics/affordable-housing-spending-plan.html",
+        "news_url": "https://www.nytimes.com/2021/10/15/us/politics/affordable-housing-spending-plan.html",
         "content": "A federal voucher program is at risk of being sharply scaled back as the White House seeks to slash its social policy package to appease two centrist senators.",
         "ranked": 20,
         "placed": "Politics",
@@ -766,14 +766,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3vhqMIj"
+            "short_news_url": "https://nyti.ms/3vhqMIj"
         }
     },
     {
         "title": "Justice Dept. to Ask Supreme Court to Block Texas\u2019 Near-Total Abortion Ban as Legal Fights Continue",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "news_news_url": "https://www.nytimes.com/2021/10/15/us/politics/texas-abortion-supreme-court.html",
+        "news_url": "https://www.nytimes.com/2021/10/15/us/politics/texas-abortion-supreme-court.html",
         "content": "The Texas law prohibits most abortions after about six weeks, before many women are even aware they are pregnant.",
         "ranked": 21,
         "placed": "Politics",
@@ -802,14 +802,14 @@
             "geo_facet": [
                 "Texas"
             ],
-            "short_news_news_url": "https://nyti.ms/3lLALma"
+            "short_news_url": "https://nyti.ms/3lLALma"
         }
     },
     {
         "title": "Vaccinated travelers from abroad, including Canadians with mixed doses, can enter the U.S. starting Nov. 8.",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "news_news_url": "https://www.nytimes.com/2021/10/15/us/politics/vaccine-mandate-travel-us.html",
+        "news_url": "https://www.nytimes.com/2021/10/15/us/politics/vaccine-mandate-travel-us.html",
         "content": "The date helps clarify the end to restrictions that had walled off tourists and relatives seeking to visit their families in the United States.",
         "ranked": 22,
         "placed": "Politics",
@@ -835,14 +835,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3mU6XTW"
+            "short_news_url": "https://nyti.ms/3mU6XTW"
         }
     },
     {
         "title": "Terry McAuliffe\u2019s Other Obstacle in Virginia Race: Democrats\u2019 Apathy",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "news_news_url": "https://www.nytimes.com/2021/10/15/us/politics/terry-mcauliffe-virginia-governor-race.html",
+        "news_url": "https://www.nytimes.com/2021/10/15/us/politics/terry-mcauliffe-virginia-governor-race.html",
         "content": "Though the state is getting bluer, voters\u2019 exhaustion is imperiling the former governor\u2019s comeback attempt against his Republican rival, Glenn Youngkin.",
         "ranked": 23,
         "placed": "Politics",
@@ -876,7 +876,7 @@
             "geo_facet": [
                 "Virginia"
             ],
-            "short_news_news_url": "https://nyti.ms/3mPgX0A"
+            "short_news_url": "https://nyti.ms/3mPgX0A"
         }
     }
 ]

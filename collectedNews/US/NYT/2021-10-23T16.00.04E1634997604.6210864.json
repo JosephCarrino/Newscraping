@@ -3,7 +3,7 @@
         "title": "Biden the Dealmaker Finds That Compromise Can Have Consequences",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/us/politics/biden-compromise-consquences.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/us/politics/biden-compromise-consquences.html",
         "content": "The president pushed for an expansive agenda knowing that he would most likely have to pare it back, leaving a sense of disappointment that could hurt his party at the polls.",
         "ranked": 0,
         "placed": "Politics",
@@ -31,14 +31,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3jrNXuM"
+            "short_news_url": "https://nyti.ms/3jrNXuM"
         }
     },
     {
         "title": "The Pessimistic Electorate Behind Biden\u2019s Approval Ratings",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/us/politics/biden-approval-ratings.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/us/politics/biden-approval-ratings.html",
         "content": "In the era of modern polling, only Donald J. Trump has had a lower approval rating than President Biden\u2019s at this early stage of his term.",
         "ranked": 1,
         "placed": "Politics",
@@ -67,14 +67,14 @@
             "geo_facet": [
                 "Afghanistan"
             ],
-            "short_news_news_url": "https://nyti.ms/3pvc4ws"
+            "short_news_url": "https://nyti.ms/3pvc4ws"
         }
     },
     {
         "title": "Biden Said the U.S. Would Protect Taiwan. But It\u2019s Not That Clear-Cut.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/us/politics/biden-taiwan-defense-china.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/us/politics/biden-taiwan-defense-china.html",
         "content": "After the president\u2019s remarks at a CNN event, the White House quickly declared that the American policy of \u201cstrategic ambiguity\u201d over the island\u2019s defense had not changed.",
         "ranked": 2,
         "placed": "Politics",
@@ -100,14 +100,14 @@
                 "Taiwan",
                 "China"
             ],
-            "short_news_news_url": "https://nyti.ms/3EaVy8X"
+            "short_news_url": "https://nyti.ms/3EaVy8X"
         }
     },
     {
         "title": "Illegal Border Crossings, Driven by Pandemic and Natural Disasters, Soar to Record High",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/us/politics/border-crossings-immigration-record-high.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/us/politics/border-crossings-immigration-record-high.html",
         "content": "Migrants were encountered 1.7 million times in the last 12 months, the highest number of illegal crossings recorded since at least 1960.",
         "ranked": 3,
         "placed": "Politics",
@@ -141,14 +141,14 @@
             "geo_facet": [
                 "Mexico"
             ],
-            "short_news_news_url": "https://nyti.ms/3Gb1BMJ"
+            "short_news_url": "https://nyti.ms/3Gb1BMJ"
         }
     },
     {
         "title": "Internal Alarm, Public Shrugs: Facebook\u2019s Employees Dissect Its Election Role",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/technology/facebook-election-misinformation.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/technology/facebook-election-misinformation.html",
         "content": "Company documents show that the social network\u2019s employees repeatedly raised red flags about the spread of misinformation and conspiracies before and after the contested November vote.",
         "ranked": 4,
         "placed": "Politics",
@@ -186,14 +186,14 @@
                 "Zuckerberg, Mark E"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3jqPuBi"
+            "short_news_url": "https://nyti.ms/3jqPuBi"
         }
     },
     {
         "title": "After Dropping Free Community College Plan, Democrats Explore Options",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/us/politics/free-community-college-democrats.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/us/politics/free-community-college-democrats.html",
         "content": "Expanded tuition assistance remains an option for the budget bill, but how much it would help students \u2014 and economic competitiveness \u2014 remains to be seen.",
         "ranked": 5,
         "placed": "Politics",
@@ -220,14 +220,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3b4zIrg"
+            "short_news_url": "https://nyti.ms/3b4zIrg"
         }
     },
     {
         "title": "Supreme Court Again Refuses to Block Texas Abortion Law",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/us/supreme-court-abortion-texas.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/us/supreme-court-abortion-texas.html",
         "content": "But the court said it would hear arguments on Nov. 1 on challenges to the law from the Biden administration and abortion providers in the state.",
         "ranked": 6,
         "placed": "Politics",
@@ -257,14 +257,14 @@
             "geo_facet": [
                 "Texas"
             ],
-            "short_news_news_url": "https://nyti.ms/3C5SKcU"
+            "short_news_url": "https://nyti.ms/3C5SKcU"
         }
     },
     {
         "title": "Biden Crafts a Climate Plan B: Tax Credits, Regulation and State Action",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/climate/biden-climate-plan.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/climate/biden-climate-plan.html",
         "content": "The new strategy could deeply cut greenhouse gases that are heating the planet but it will still face considerable political, logistical and legal hurdles.",
         "ranked": 7,
         "placed": "Politics",
@@ -295,14 +295,14 @@
                 "Manchin, Joe III"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3b0PNhA"
+            "short_news_url": "https://nyti.ms/3b0PNhA"
         }
     },
     {
         "title": "Bye, Maryland? Lawmakers in 3 Counties Float a Plan to Secede From the State.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/us/politics/maryland-counties-west-virginia-request.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/us/politics/maryland-counties-west-virginia-request.html",
         "content": "The proposal to join West Virginia seems destined to go nowhere. But it has tapped into deep-seated feelings of alienation in western Maryland, a mountainous panhandle wedged against the Mason-Dixon line.",
         "ranked": 8,
         "placed": "Politics",
@@ -333,14 +333,14 @@
                 "Maryland",
                 "West Virginia"
             ],
-            "short_news_news_url": "https://nyti.ms/3b46VmW"
+            "short_news_url": "https://nyti.ms/3b46VmW"
         }
     },
     {
         "title": "Sinema\u2019s Blockade on Tax Rates Prods Democrats Toward Billionaires\u2019 Tax",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/us/politics/sinema-wealth-taxes.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/us/politics/sinema-wealth-taxes.html",
         "content": "Senator Kyrsten Sinema\u2019s refusal to raise rates on high earners and major corporations has led Democrats to consider proposals once championed only by the party\u2019s most liberal flank.",
         "ranked": 9,
         "placed": "Politics",
@@ -370,14 +370,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3B0d5Pm"
+            "short_news_url": "https://nyti.ms/3B0d5Pm"
         }
     },
     {
         "title": "Biden Names Neera Tanden as White House Staff Secretary",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/us/politics/neera-tanden-staff-secretary.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/us/politics/neera-tanden-staff-secretary.html",
         "content": "The move comes after her nomination as budget director was pulled earlier this year over her frequent caustic remarks on social media.",
         "ranked": 10,
         "placed": "Politics",
@@ -404,14 +404,14 @@
                 "Tanden, Neera"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3aZMQhx"
+            "short_news_url": "https://nyti.ms/3aZMQhx"
         }
     },
     {
         "title": "Woman Charged in Submarine Secrets Case Will Stay in Custody",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/us/politics/submarine-spy-secrets.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/us/politics/submarine-spy-secrets.html",
         "content": "Prosecutors used text messages to argue that Diana Toebbe and her husband had discussed leaving the country years ago.",
         "ranked": 11,
         "placed": "Politics",
@@ -440,14 +440,14 @@
                 "Toebbe, Jonathan"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2ZbNC8V"
+            "short_news_url": "https://nyti.ms/2ZbNC8V"
         }
     },
     {
         "title": "\u2018American Veteran\u2019 Honors the Many Faces of the U.S. Soldier",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/arts/television/american-veteran-pbs.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/arts/television/american-veteran-pbs.html",
         "content": "On the heels of America\u2019s longest war, a new PBS documentary series sits down with nearly 50 veterans in hopes of helping to bridge a growing gap.",
         "ranked": 12,
         "placed": "Politics",
@@ -479,14 +479,14 @@
                 "Shoshana Johnson"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3G8ztdj"
+            "short_news_url": "https://nyti.ms/3G8ztdj"
         }
     },
     {
         "title": "U.S. Warns of Efforts by China to Collect Genetic Data",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html",
         "content": "The National Counterintelligence and Security Center said American companies needed to better secure critical technologies as Beijing seeks to dominate the so-called bioeconomy.",
         "ranked": 13,
         "placed": "Politics",
@@ -515,14 +515,14 @@
             "geo_facet": [
                 "Beijing (China)"
             ],
-            "short_news_news_url": "https://nyti.ms/3aYeECZ"
+            "short_news_url": "https://nyti.ms/3aYeECZ"
         }
     },
     {
         "title": "Men Are Caregivers, Too, in Democrats\u2019 Plan",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/upshot/biden-caregivers-family-plan.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/upshot/biden-caregivers-family-plan.html",
         "content": "Compared with its peers, the U.S. has little in the way of family policy, but where it exists, it has mostly treated men and women the same. The Democrats\u2019 plan would cement that.",
         "ranked": 14,
         "placed": "Politics",
@@ -550,14 +550,14 @@
                 "Buttigieg, Pete (1982- )"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3b3W7oN"
+            "short_news_url": "https://nyti.ms/3b3W7oN"
         }
     },
     {
         "title": "Biden Is Open to Scrapping Filibuster for Voting Rights Bill \u2018and Maybe More\u2019",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/politics/biden-filibuster-voting-rights.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/biden-filibuster-voting-rights.html",
         "content": "The president said any push to \u201cfundamentally alter\u201d the Senate\u2019s 60-vote threshold would have to wait until after Congress passed his vast spending agenda.",
         "ranked": 15,
         "placed": "Politics",
@@ -590,14 +590,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3nnDQIW"
+            "short_news_url": "https://nyti.ms/3nnDQIW"
         }
     },
     {
         "title": "House Ethics Committee Details Accusations Against 4 Lawmakers",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/politics/house-ethics-kelly-malinowski-mooney-hagendorn.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/house-ethics-kelly-malinowski-mooney-hagendorn.html",
         "content": "The separate reports, investigating three Republicans and a Democrat, center on stock trades, the misuse of campaign funds and the improper awarding of contracts.",
         "ranked": 16,
         "placed": "Politics",
@@ -630,14 +630,14 @@
                 "Mooney, Alex X"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3nkF33q"
+            "short_news_url": "https://nyti.ms/3nkF33q"
         }
     },
     {
         "title": "Hackers lay claim to Donald Trump\u2019s social app before its launch.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/technology/trump-truth-social-hackers.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/technology/trump-truth-social-hackers.html",
         "content": "Hackers tied to the group Anonymous defaced a private version of the former president\u2019s app, Truth Social, posting images of defecating pigs and explicative-laced rants.",
         "ranked": 17,
         "placed": "Politics",
@@ -667,14 +667,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2Z8oFL2"
+            "short_news_url": "https://nyti.ms/2Z8oFL2"
         }
     },
     {
         "title": "Report Finds No Wrongdoing in Hiring of Trump Loyalist as N.S.A.\u2019s Top Lawyer",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/politics/nsa-michael-ellis-trump.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/nsa-michael-ellis-trump.html",
         "content": "The Pentagon\u2019s inspector general found no undue influence in Michael Ellis\u2019s appointment, but recommended a new review of his handling of classified material.",
         "ranked": 18,
         "placed": "Politics",
@@ -703,14 +703,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3nbqI9w"
+            "short_news_url": "https://nyti.ms/3nbqI9w"
         }
     },
     {
         "title": "Trump Takes Advantage of Wall Street Fad to Bankroll New Venture",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/media/trump-spac-social-media-venture.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/media/trump-spac-social-media-venture.html",
         "content": "A merger with a so-called blank check company is poised to give the former president access to hundreds of millions of dollars.",
         "ranked": 19,
         "placed": "Politics",
@@ -742,14 +742,14 @@
                 "Orlando, Patrick (Finance Executive)"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3m2Gp3k"
+            "short_news_url": "https://nyti.ms/3m2Gp3k"
         }
     },
     {
         "title": "The Irony in Glenn Youngkin\u2019s Push for Early Voting in Virginia",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/politics/glenn-youngkin-early-voting-virginia.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/glenn-youngkin-early-voting-virginia.html",
         "content": "Glenn Youngkin, the Republican nominee for governor, is encouraging early voting despite catering to the Trump base that believes the former president\u2019s election conspiracies.",
         "ranked": 20,
         "placed": "Politics",
@@ -778,14 +778,14 @@
             "geo_facet": [
                 "Virginia"
             ],
-            "short_news_news_url": "https://nyti.ms/3jnf9e8"
+            "short_news_url": "https://nyti.ms/3jnf9e8"
         }
     },
     {
         "title": "U.S. Warns Climate Poses \u2018Emerging Threat\u2019 to Financial System",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/politics/climate-change-cost-us.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/climate-change-cost-us.html",
         "content": "A Financial Stability Oversight Council report could lead to more regulatory action and disclosure requirements for banks.",
         "ranked": 21,
         "placed": "Politics",
@@ -814,14 +814,14 @@
                 "Yellen, Janet L"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3E7C2dQ"
+            "short_news_url": "https://nyti.ms/3E7C2dQ"
         }
     },
     {
         "title": "Garland Parries Pressure From Both Sides in Congressional Testimony",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/politics/garland-testimony-jan-6.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/garland-testimony-jan-6.html",
         "content": "Appearing before the House Judiciary Committee, the attorney general sidestepped questions from Democrats about the Jan. 6 investigation and batted away criticism from Republicans.",
         "ranked": 22,
         "placed": "Politics",
@@ -848,7 +848,7 @@
                 "Garland, Merrick B"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2ZcksXg"
+            "short_news_url": "https://nyti.ms/2ZcksXg"
         }
     }
 ]

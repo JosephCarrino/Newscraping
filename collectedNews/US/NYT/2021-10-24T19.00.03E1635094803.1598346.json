@@ -3,7 +3,7 @@
         "title": "Biden Is Open to Scrapping Filibuster for Voting Rights Bill \u2018and Maybe More\u2019",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/politics/biden-filibuster-voting-rights.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/biden-filibuster-voting-rights.html",
         "content": "The president said any push to \u201cfundamentally alter\u201d the Senate\u2019s 60-vote threshold would have to wait until after Congress passed his vast spending agenda.",
         "ranked": 0,
         "placed": "First_Page",
@@ -36,14 +36,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3nnDQIW"
+            "short_news_url": "https://nyti.ms/3nnDQIW"
         }
     },
     {
         "title": "Kyrsten Sinema\u2019s Style Keeps Us Guessing",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 1,
         "placed": "First_Page",
@@ -74,14 +74,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3n82nRS"
+            "short_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "Diane Weyermann, Executive Who Championed \u2018An Inconvenient Truth,\u2019 Dies at 66",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/movies/diane-weyermann-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/movies/diane-weyermann-dead.html",
         "content": "A former public interest lawyer, she oversaw this and many other documentaries that addressed urgent social issues.",
         "ranked": 2,
         "placed": "First_Page",
@@ -111,14 +111,14 @@
                 "Weyermann, Diane (1955-2021)"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2Zcf3iW"
+            "short_news_url": "https://nyti.ms/2Zcf3iW"
         }
     },
     {
         "title": "What Scientists Are Learning About Estrogen and Exercise",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_news_url": "https://www.nytimes.com/2021/10/20/well/move/exercise-estrogen-levels.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/well/move/exercise-estrogen-levels.html",
         "content": "A study in mice raises intriguing questions about the ways that hormones influence the brain and motivate the body to move.",
         "ranked": 3,
         "placed": "First_Page",
@@ -147,14 +147,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3m0IaOQ"
+            "short_news_url": "https://nyti.ms/3m0IaOQ"
         }
     },
     {
         "title": "Prosecutor Casts Doubt on Account of Train Passengers Not Intervening in Rape",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/septa-assault-passengers.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/septa-assault-passengers.html",
         "content": "A local prosecutor disputed accounts, put forth by other authorities, that passengers on the train near Philadelphia had watched the assault happen and done nothing in response.",
         "ranked": 4,
         "placed": "First_Page",
@@ -183,14 +183,14 @@
             "geo_facet": [
                 "Philadelphia (Pa)"
             ],
-            "short_news_news_url": "https://nyti.ms/3vzBN8a"
+            "short_news_url": "https://nyti.ms/3vzBN8a"
         }
     },
     {
         "title": "How the Supply Chain Broke, and Why It Won\u2019t Be Fixed Anytime Soon",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html",
         "content": "Confession: We didn\u2019t even have a logistics beat before the pandemic. Now we do. Here\u2019s what we\u2019ve learned about the global supply chain disruption.",
         "ranked": 5,
         "placed": "First_Page",
@@ -222,14 +222,14 @@
                 "Europe",
                 "United States"
             ],
-            "short_news_news_url": "https://nyti.ms/3nm13Lc"
+            "short_news_url": "https://nyti.ms/3nm13Lc"
         }
     },
     {
         "title": "Inside the World of Buy Nothing, Where Dryer Lint Is a Hot Commodity",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/realestate/buy-nothing-facebook-group.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/realestate/buy-nothing-facebook-group.html",
         "content": "From medical supplies to half-eaten birthday cakes, Buy Nothing is fostering a quirky sense of community that is mostly fun and occasionally irritating.",
         "ranked": 6,
         "placed": "First_Page",
@@ -254,14 +254,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3jso7a3"
+            "short_news_url": "https://nyti.ms/3jso7a3"
         }
     },
     {
         "title": "To Get Ahead at Work, Lawyers Find It Helps to Actually Be at Work",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/business/economy/law-firm-return-to-office.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/business/economy/law-firm-return-to-office.html",
         "content": "The generational divide on returning to the office is not neatly drawn. For some young professionals, even in a pandemic, showing up is more than half the battle.",
         "ranked": 7,
         "placed": "First_Page",
@@ -295,14 +295,14 @@
             "geo_facet": [
                 "Chicago (Ill)"
             ],
-            "short_news_news_url": "https://nyti.ms/3B4LL2u"
+            "short_news_url": "https://nyti.ms/3B4LL2u"
         }
     },
     {
         "title": "Art Institute of Chicago Ends a Docent Program, and Sets Off a Backlash",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/arts/design/chicago-art-institute-docents.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/arts/design/chicago-art-institute-docents.html",
         "content": "The museum\u2019s decision to replace its program for volunteer educators with one that \u201cresponds to issues of class and income equity\u201d has drawn criticism.",
         "ranked": 8,
         "placed": "First_Page",
@@ -333,7 +333,7 @@
             "geo_facet": [
                 "Chicago (Ill)"
             ],
-            "short_news_news_url": "https://nyti.ms/3vwqptM"
+            "short_news_url": "https://nyti.ms/3vwqptM"
         }
     }
 ]

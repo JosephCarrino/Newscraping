@@ -3,7 +3,7 @@
         "title": "Elijah McClain\u2019s Family Reaches Settlement With City of Aurora, Colo.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/us/elijah-mcclain-settlement.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/elijah-mcclain-settlement.html",
         "content": "Mr. McClain died days after he was detained by the police in Aurora in 2019. The terms of the settlement were not made public.",
         "ranked": 0,
         "placed": "First_Page",
@@ -32,14 +32,14 @@
             "geo_facet": [
                 "Aurora (Colo)"
             ],
-            "short_news_news_url": "https://nyti.ms/3DVAJOL"
+            "short_news_url": "https://nyti.ms/3DVAJOL"
         }
     },
     {
         "title": "Bombing of Military Bus in Syrian Capital Kills 14",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_news_url": "https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html",
         "content": "President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm.",
         "ranked": 1,
         "placed": "First_Page",
@@ -69,14 +69,14 @@
                 "Damascus (Syria)",
                 "Syria"
             ],
-            "short_news_news_url": "https://nyti.ms/3E1jfRo"
+            "short_news_url": "https://nyti.ms/3E1jfRo"
         }
     },
     {
         "title": "\u2018I Only Wish I Had Met Her Sooner\u2019",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/style/noelle-jasmine-kennedy-white-charles-joseph-mahoney-iv-wedding.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/noelle-jasmine-kennedy-white-charles-joseph-mahoney-iv-wedding.html",
         "content": "A mutual friend had tried for three years to introduce Noelle Jasmine Kennedy-White to Charles Joseph Mahoney IV.",
         "ranked": 2,
         "placed": "First_Page",
@@ -97,14 +97,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3C98ifK"
+            "short_news_url": "https://nyti.ms/3C98ifK"
         }
     },
     {
         "title": "The 31st Date Was a Charm",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/style/gabi-conti-daren-johnson-wedding.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/gabi-conti-daren-johnson-wedding.html",
         "content": "Gabi Conti\u2019s romantic losing streak was broken when she met Daren Johnson \u2014 and gave him a much-needed attitude adjustment.",
         "ranked": 3,
         "placed": "First_Page",
@@ -125,14 +125,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3b1HX7C"
+            "short_news_url": "https://nyti.ms/3b1HX7C"
         }
     },
     {
         "title": "The Best Workout for Middle-Aged Bodies",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
         "content": "Research shows that becoming fit in middle age will give you more years of good health \u2014 and the most effective exercise for a middle-aged body can be easier and faster than you might think.",
         "ranked": 4,
         "placed": "First_Page",
@@ -155,14 +155,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3G6e18N"
+            "short_news_url": "https://nyti.ms/3G6e18N"
         }
     },
     {
         "title": "Fear on Cape Cod as Sharks Hunt Again",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_news_url": "https://www.nytimes.com/interactive/2021/10/20/magazine/sharks-cape-cod.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/20/magazine/sharks-cape-cod.html",
         "content": "The apex predator is back along New England\u2019s beaches. What will it take to keep people safe?",
         "ranked": 5,
         "placed": "First_Page",
@@ -205,14 +205,14 @@
                 "Cape Cod (Mass)",
                 "Nova Scotia (Canada)"
             ],
-            "short_news_news_url": "https://nyti.ms/3jjqax2"
+            "short_news_url": "https://nyti.ms/3jjqax2"
         }
     },
     {
         "title": "Instant Pot Wisdom, Half a Decade Later",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/dining/instant-pot-recipes-wisdom.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/dining/instant-pot-recipes-wisdom.html",
         "content": "Melissa Clark on how to get the most out of your electric pressure cooker, whether you\u2019re just starting out with it or already an expert.",
         "ranked": 6,
         "placed": "First_Page",
@@ -238,14 +238,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3m41N8s"
+            "short_news_url": "https://nyti.ms/3m41N8s"
         }
     },
     {
         "title": "Colin Powell and \u2018Guernica\u2019",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/opinion/colin-powell-legacy.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/opinion/colin-powell-legacy.html",
         "content": "He broke many barriers but was\u00a0outplayed by masters of deceit.",
         "ranked": 7,
         "placed": "First_Page",
@@ -273,14 +273,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_news_news_url": "https://nyti.ms/2ZqC69z"
+            "short_news_url": "https://nyti.ms/2ZqC69z"
         }
     },
     {
         "title": "They Are a Tribe of \u2018Salmon People.\u2019 Can They Pull Off One More Big Win?",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/opinion/lummi-climate-change-port-terminal.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/opinion/lummi-climate-change-port-terminal.html",
         "content": "The Lummi Nation has a long, proud history of contesting ecologically unfriendly projects. Will it succeed against yet another threat?",
         "ranked": 8,
         "placed": "First_Page",
@@ -318,7 +318,7 @@
                 "British Columbia (Canada)",
                 "Canada"
             ],
-            "short_news_news_url": "https://nyti.ms/3vBJQBc"
+            "short_news_url": "https://nyti.ms/3vBJQBc"
         }
     }
 ]

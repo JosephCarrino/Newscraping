@@ -3,7 +3,7 @@
         "title": "Sudan\u2019s Prime Minister Is Detained at Home of General Who Led Coup",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html",
         "content": "Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences.",
         "ranked": 0,
         "placed": "Abroad",
@@ -31,14 +31,14 @@
                 "Sudan",
                 "Khartoum (Sudan)"
             ],
-            "short_news_news_url": "https://nyti.ms/3BmXcCY"
+            "short_news_url": "https://nyti.ms/3BmXcCY"
         }
     },
     {
         "title": "Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html",
         "content": "Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions.",
         "ranked": 1,
         "placed": "Abroad",
@@ -70,14 +70,14 @@
                 "Afghanistan",
                 "Iran"
             ],
-            "short_news_news_url": "https://nyti.ms/3mglbz7"
+            "short_news_url": "https://nyti.ms/3mglbz7"
         }
     },
     {
         "title": "As Gangs\u2019 Power Grows, Haiti\u2019s Police Are Outgunned and Underpaid",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html",
         "content": "The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents.",
         "ranked": 2,
         "placed": "Abroad",
@@ -105,14 +105,14 @@
                 "Moise, Jovenel (1968- )"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3BgyQL0"
+            "short_news_url": "https://nyti.ms/3BgyQL0"
         }
     },
     {
         "title": "Newly Unearthed Work by a Revered and Reviled Novelist Causes a Stir in France",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html",
         "content": "A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand C\u00e9line that disappeared almost eight decades ago.",
         "ranked": 3,
         "placed": "Abroad",
@@ -142,14 +142,14 @@
             "geo_facet": [
                 "France"
             ],
-            "short_news_news_url": "https://nyti.ms/3pDHPDD"
+            "short_news_url": "https://nyti.ms/3pDHPDD"
         }
     },
     {
         "title": "Trial Begins for Men Accused in Killing of Holocaust Survivor in France",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html",
         "content": "Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews.",
         "ranked": 4,
         "placed": "Abroad",
@@ -179,14 +179,14 @@
             "geo_facet": [
                 "France"
             ],
-            "short_news_news_url": "https://nyti.ms/317UMM5"
+            "short_news_url": "https://nyti.ms/317UMM5"
         }
     },
     {
         "title": "At Last, a Royal Wedding. But No Trumpets, Just a News Conference.",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
         "content": "The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad.",
         "ranked": 5,
         "placed": "Abroad",
@@ -214,14 +214,14 @@
             "geo_facet": [
                 "Japan"
             ],
-            "short_news_news_url": "https://nyti.ms/3jygTRR"
+            "short_news_url": "https://nyti.ms/3jygTRR"
         }
     },
     {
         "title": "Aung San Suu Kyi Defends Herself During \u2018Show Trial\u2019 in Myanmar",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html",
         "content": "The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison.",
         "ranked": 6,
         "placed": "Abroad",
@@ -254,14 +254,14 @@
                 "Myanmar",
                 "Naypyidaw (Myanmar)"
             ],
-            "short_news_news_url": "https://nyti.ms/3EegM60"
+            "short_news_url": "https://nyti.ms/3EegM60"
         }
     },
     {
         "title": "Australia Pledges \u2018Net Zero\u2019 Emissions by 2050. Its Plan Makes That Hard to Believe.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html",
         "content": "The country\u2019s last-minute commitment before next week\u2019s climate summit is built on hope for new technology, and little else.",
         "ranked": 7,
         "placed": "Abroad",
@@ -288,14 +288,14 @@
             "geo_facet": [
                 "Australia"
             ],
-            "short_news_news_url": "https://nyti.ms/3E7UkLU"
+            "short_news_url": "https://nyti.ms/3E7UkLU"
         }
     },
     {
         "title": "2 Days After Cricket Victory Over India, Pakistan Still Feels the High",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html",
         "content": "The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai.",
         "ranked": 8,
         "placed": "Abroad",
@@ -322,14 +322,14 @@
                 "Pakistan",
                 "India"
             ],
-            "short_news_news_url": "https://nyti.ms/317KlrT"
+            "short_news_url": "https://nyti.ms/317KlrT"
         }
     },
     {
         "title": "Whose Promised Land? A Journey Into a Divided Israel",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html",
         "content": "Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it.",
         "ranked": 9,
         "placed": "Abroad",
@@ -368,14 +368,14 @@
                 "Jerusalem (Israel)",
                 "Tel Aviv (Israel)"
             ],
-            "short_news_news_url": "https://nyti.ms/3jywCAz"
+            "short_news_url": "https://nyti.ms/3jywCAz"
         }
     },
     {
         "title": "3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html",
         "content": "Migrant crossings are down and so are deaths at sea, but Tuesday\u2019s incident was a reminder that dangers remain.",
         "ranked": 10,
         "placed": "Abroad",
@@ -404,14 +404,14 @@
                 "Greece",
                 "Aegean Sea"
             ],
-            "short_news_news_url": "https://nyti.ms/3mgi8XJ"
+            "short_news_url": "https://nyti.ms/3mgi8XJ"
         }
     },
     {
         "title": "Iranian Motorists Hit With Cyberattack at Filling Stations",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html",
         "content": "Iranian news agencies reported that a cyberattack of unidentified origin had sabotaged a payment system.",
         "ranked": 11,
         "placed": "Abroad",
@@ -438,14 +438,14 @@
             "geo_facet": [
                 "Iran"
             ],
-            "short_news_news_url": "https://nyti.ms/3mgSrXe"
+            "short_news_url": "https://nyti.ms/3mgSrXe"
         }
     },
     {
         "title": "Roh Tae-woo, South Korean Leader During Move Toward Democracy, Dies at 88",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html",
         "content": "He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country\u2019s winning 1988 Olympics bid. He was later mired in legal trouble.",
         "ranked": 12,
         "placed": "Abroad",
@@ -475,14 +475,14 @@
             "geo_facet": [
                 "South Korea"
             ],
-            "short_news_news_url": "https://nyti.ms/3Egs2yW"
+            "short_news_url": "https://nyti.ms/3Egs2yW"
         }
     },
     {
         "title": "With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/article/hong-kong-security-law-speech.html",
+        "news_url": "https://www.nytimes.com/article/hong-kong-security-law-speech.html",
         "content": "An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law.",
         "ranked": 13,
         "placed": "Abroad",
@@ -512,14 +512,14 @@
                 "Hong Kong",
                 "China"
             ],
-            "short_news_news_url": "https://nyti.ms/3mblc7n"
+            "short_news_url": "https://nyti.ms/3mblc7n"
         }
     },
     {
         "title": "Poland\u2019s Heartland Would Rather Keep E.U. Money Than Break With Bloc",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html",
         "content": "Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland\u2019s ruling party are dependent on millions of euros in aid, and don\u2019t want to risk it.",
         "ranked": 14,
         "placed": "Abroad",
@@ -550,14 +550,14 @@
                 "Poland",
                 "Europe"
             ],
-            "short_news_news_url": "https://nyti.ms/3vMvQ7W"
+            "short_news_url": "https://nyti.ms/3vMvQ7W"
         }
     },
     {
         "title": "Self Esteem, a Pop Singer Who Wants Britain to \u2018Prioritise Pleasure\u2019",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html",
         "content": "Rebecca Lucy Taylor is touching a nerve with brutally honest songs about not having it all figured out.",
         "ranked": 15,
         "placed": "Abroad",
@@ -581,14 +581,14 @@
                 "Taylor, Rebecca Lucy (Self Esteem)"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3BghpdA"
+            "short_news_url": "https://nyti.ms/3BghpdA"
         }
     },
     {
         "title": "After a Year of \u2018Rampant\u2019 Cheating, Elite Bridge Tries to Clean Up",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html",
         "content": "As the pandemic forced most players online, the problem of cheating consumed the game\u2019s highest levels. Top players say a tight-lipped culture is finally changing.",
         "ranked": 16,
         "placed": "Abroad",
@@ -615,14 +615,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3nMU0Mb"
+            "short_news_url": "https://nyti.ms/3nMU0Mb"
         }
     },
     {
         "title": "Covid Cases Keep Falling",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html",
         "content": "Covid cases have been falling in every region of the U.S., offering hope.",
         "ranked": 17,
         "placed": "Abroad",
@@ -641,14 +641,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3Grcuua"
+            "short_news_url": "https://nyti.ms/3Grcuua"
         }
     },
     {
         "title": "China locks down a northwestern city to subdue a small outbreak.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html",
         "content": "Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week.",
         "ranked": 18,
         "placed": "Abroad",
@@ -672,14 +672,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_news_news_url": "https://nyti.ms/2Zn1rRk"
+            "short_news_url": "https://nyti.ms/2Zn1rRk"
         }
     },
     {
         "title": "Moderna agrees to sell up to 110 million Covid vaccine doses to African countries.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html",
         "content": "Moderna\u2019s shots have previously gone almost entirely to wealthier countries.",
         "ranked": 19,
         "placed": "Abroad",
@@ -706,14 +706,14 @@
             "geo_facet": [
                 "Africa"
             ],
-            "short_news_news_url": "https://nyti.ms/3b9hcOL"
+            "short_news_url": "https://nyti.ms/3b9hcOL"
         }
     },
     {
         "title": "It\u2019s Never Too Late to Climb That Mountain",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html",
         "content": "Dierdre Wolownick, whose son, Alex Honnold, is one of the world\u2019s top rock climbers, ascended Yosemite\u2019s El Capitan to celebrate her 70th birthday.",
         "ranked": 20,
         "placed": "Abroad",
@@ -741,14 +741,14 @@
                 "Yosemite National Park (Calif)",
                 "El Capitan (Mountain)"
             ],
-            "short_news_news_url": "https://nyti.ms/3nuBms7"
+            "short_news_url": "https://nyti.ms/3nuBms7"
         }
     },
     {
         "title": "How to Map a Fly Brain in 20 Million Easy Steps",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html",
         "content": "An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say.",
         "ranked": 21,
         "placed": "Abroad",
@@ -781,14 +781,14 @@
                 "Jayaraman, Vivek (1971- )"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3vL2fMa"
+            "short_news_url": "https://nyti.ms/3vL2fMa"
         }
     },
     {
         "title": "Your Tuesday Briefing",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html",
         "content": "The military seizes power in Sudan.",
         "ranked": 22,
         "placed": "Abroad",
@@ -807,14 +807,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3Edq428"
+            "short_news_url": "https://nyti.ms/3Edq428"
         }
     },
     {
         "title": "Child Who Survived Gondola Crash Should Live in Italy, Israel Court Rules",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html",
         "content": "Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv.",
         "ranked": 23,
         "placed": "Abroad",
@@ -844,14 +844,14 @@
                 "Italy",
                 "Pavia (Italy)"
             ],
-            "short_news_news_url": "https://nyti.ms/3Eh0WaY"
+            "short_news_url": "https://nyti.ms/3Eh0WaY"
         }
     },
     {
         "title": "Sudan\u2019s Military Seizes Power, Casting Democratic Transition Into Chaos",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html",
         "content": "Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister.",
         "ranked": 24,
         "placed": "Abroad",
@@ -880,14 +880,14 @@
             "geo_facet": [
                 "Sudan"
             ],
-            "short_news_news_url": "https://nyti.ms/3vLkq4v"
+            "short_news_url": "https://nyti.ms/3vLkq4v"
         }
     },
     {
         "title": "Egypt\u2019s Leader Ends State of Emergency, Says It\u2019s No Longer Needed",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html",
         "content": "The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change.",
         "ranked": 25,
         "placed": "Abroad",
@@ -918,14 +918,14 @@
             "geo_facet": [
                 "Egypt"
             ],
-            "short_news_news_url": "https://nyti.ms/3EfPts5"
+            "short_news_url": "https://nyti.ms/3EfPts5"
         }
     },
     {
         "title": "Your Tuesday Briefing",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html",
         "content": "Sudan\u2019s military seizes power.",
         "ranked": 26,
         "placed": "Abroad",
@@ -944,14 +944,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3vI5i7V"
+            "short_news_url": "https://nyti.ms/3vI5i7V"
         }
     },
     {
         "title": "The U.S. cut off aid to the Sudanese government after the coup.",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html",
         "content": "The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid.",
         "ranked": 27,
         "placed": "Abroad",
@@ -978,14 +978,14 @@
             "geo_facet": [
                 "Sudan"
             ],
-            "short_news_news_url": "https://nyti.ms/3BeUoaA"
+            "short_news_url": "https://nyti.ms/3BeUoaA"
         }
     },
     {
         "title": "An Italian Politician\u2019s Quest for Attention Gets a Boost From Richard Gere",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html",
         "content": "The actor may testify against Matteo Salvini, Italy\u2019s former interior minister, in a case involving the treatment of migrants.",
         "ranked": 28,
         "placed": "Abroad",
@@ -1014,14 +1014,14 @@
             "geo_facet": [
                 "Italy"
             ],
-            "short_news_news_url": "https://nyti.ms/2ZrMu0U"
+            "short_news_url": "https://nyti.ms/2ZrMu0U"
         }
     },
     {
         "title": "Who is Abdalla Hamdok, the Sudanese prime minister detained in a military coup?",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html",
         "content": "Sudan\u2019s prime minister spent much of his career at international institutions before joining his country\u2019s government. Now he has been forced out.",
         "ranked": 29,
         "placed": "Abroad",
@@ -1046,14 +1046,14 @@
             "geo_facet": [
                 "Sudan"
             ],
-            "short_news_news_url": "https://nyti.ms/3pw0od4"
+            "short_news_url": "https://nyti.ms/3pw0od4"
         }
     },
     {
         "title": "The Rich World\u2019s Promise of $100 Billion in Climate Aid Inches Forward",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html",
         "content": "Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks.",
         "ranked": 30,
         "placed": "Abroad",
@@ -1080,14 +1080,14 @@
             "geo_facet": [
                 "Glasgow (Scotland)"
             ],
-            "short_news_news_url": "https://nyti.ms/3Glgzjm"
+            "short_news_url": "https://nyti.ms/3Glgzjm"
         }
     },
     {
         "title": "Turkish President Steps Back From Expulsions of 10 Western Diplomats",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html",
         "content": "The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization.",
         "ranked": 31,
         "placed": "Abroad",
@@ -1114,14 +1114,14 @@
             "geo_facet": [
                 "Turkey"
             ],
-            "short_news_news_url": "https://nyti.ms/3nqAIMc"
+            "short_news_url": "https://nyti.ms/3nqAIMc"
         }
     },
     {
         "title": "German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html",
         "content": "The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015.",
         "ranked": 32,
         "placed": "Abroad",
@@ -1153,14 +1153,14 @@
                 "Germany",
                 "Falluja (Iraq)"
             ],
-            "short_news_news_url": "https://nyti.ms/2Zkl39n"
+            "short_news_url": "https://nyti.ms/2Zkl39n"
         }
     },
     {
         "title": "A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html",
         "content": "\u00c9ric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations.",
         "ranked": 33,
         "placed": "Abroad",
@@ -1198,7 +1198,7 @@
             "geo_facet": [
                 "France"
             ],
-            "short_news_news_url": "https://nyti.ms/3EbyQh6"
+            "short_news_url": "https://nyti.ms/3EbyQh6"
         }
     }
 ]

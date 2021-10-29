@@ -3,7 +3,7 @@
         "title": "With Coercion and Black Boxes, Russia Installs a Digital Iron Curtain",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html",
         "content": "Quietly built over two years, the Kremlin\u2019s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation.",
         "ranked": 0,
         "placed": "Economics",
@@ -41,14 +41,14 @@
             "geo_facet": [
                 "Russia"
             ],
-            "short_news_news_url": "https://nyti.ms/3aYvkdB"
+            "short_news_url": "https://nyti.ms/3aYvkdB"
         }
     },
     {
         "title": "How the Supply Chain Broke, and Why It Won\u2019t Be Fixed Anytime Soon",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html",
         "content": "Confession: We didn\u2019t even have a logistics beat before the pandemic. Now we do. Here\u2019s what we\u2019ve learned about the global supply chain disruption.",
         "ranked": 1,
         "placed": "Economics",
@@ -87,14 +87,14 @@
                 "Vietnam",
                 "South Korea"
             ],
-            "short_news_news_url": "https://nyti.ms/3nm13Lc"
+            "short_news_url": "https://nyti.ms/3nm13Lc"
         }
     },
     {
         "title": "To Get Ahead at Work, Lawyers Find It Helps to Actually Be at Work",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/business/economy/law-firm-return-to-office.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/business/economy/law-firm-return-to-office.html",
         "content": "The generational divide on returning to the office is not neatly drawn. For some young professionals, even in a pandemic, showing up is more than half the battle.",
         "ranked": 2,
         "placed": "Economics",
@@ -127,14 +127,14 @@
             "geo_facet": [
                 "Chicago (Ill)"
             ],
-            "short_news_news_url": "https://nyti.ms/3B4LL2u"
+            "short_news_url": "https://nyti.ms/3B4LL2u"
         }
     },
     {
         "title": "China Evergrande makes a payment before a default deadline, state media says.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/china-evergrande-bond-payment.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/china-evergrande-bond-payment.html",
         "content": "The troubled real estate giant faced the threat of default if it didn\u2019t meet its obligations to foreign bondholders by Saturday.",
         "ranked": 3,
         "placed": "Economics",
@@ -162,14 +162,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_news_news_url": "https://nyti.ms/3prAd7o"
+            "short_news_url": "https://nyti.ms/3prAd7o"
         }
     },
     {
         "title": "Stocks Hit a Record as Investors See Progress Toward a Spending Deal",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/economy/stock-market-record.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/economy/stock-market-record.html",
         "content": "After weeks of fluctuations driven in part by Washington gridlock, share prices hit another high and put a dismal September in the rearview mirror.",
         "ranked": 4,
         "placed": "Economics",
@@ -205,14 +205,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_news_news_url": "https://nyti.ms/3poubEo"
+            "short_news_url": "https://nyti.ms/3poubEo"
         }
     },
     {
         "title": "Lyft Says 1,807 Sexual Assaults Occurred in Rides in 2019",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/technology/lyft-sex-assaults-report.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/technology/lyft-sex-assaults-report.html",
         "content": "The company\u2019s first-ever safety report, which it committed two years ago to producing, also included four fatal assaults and 49 deaths in crashes.",
         "ranked": 5,
         "placed": "Economics",
@@ -237,14 +237,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3GcEVMf"
+            "short_news_url": "https://nyti.ms/3GcEVMf"
         }
     },
     {
         "title": "Fed Ethics Office Warned Officials to Curb Unnecessary Trading During Rescue",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/economy/federal-reserve-ethics-trading.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/economy/federal-reserve-ethics-trading.html",
         "content": "Months later, some Federal Reserve leaders resumed their market activity, stoking a scandal now engulfing the central bank.",
         "ranked": 6,
         "placed": "Economics",
@@ -272,14 +272,14 @@
                 "Powell, Jerome H"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3E0qA3l"
+            "short_news_url": "https://nyti.ms/3E0qA3l"
         }
     },
     {
         "title": "No Longer Boxed In, Volvo Wins Over Buyers With Its Sleeker Look",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/business/volvo-electric-future-design-ipo.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/business/volvo-electric-future-design-ipo.html",
         "content": "With an aggressive push for electric vehicles and a coming I.P.O., the century-old Swedish carmaker is positioning itself for the future.",
         "ranked": 7,
         "placed": "Economics",
@@ -311,14 +311,14 @@
                 "Samuelsson, Hakan"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3E834BQ"
+            "short_news_url": "https://nyti.ms/3E834BQ"
         }
     },
     {
         "title": "How to Protect Yourself From Online Card Fraud",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/your-money/credit-card-fraud-protection.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/your-money/credit-card-fraud-protection.html",
         "content": "The first tip is to use credit cards for digital shopping because they have federally mandated protections. And be wary of websites that offer brand-name goods at steep discounts.",
         "ranked": 8,
         "placed": "Economics",
@@ -350,14 +350,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2Z9K6eI"
+            "short_news_url": "https://nyti.ms/2Z9K6eI"
         }
     },
     {
         "title": "The Hottest of Hot Stocks? Try Coal.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/business/stocks-coal-climate-change.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/business/stocks-coal-climate-change.html",
         "content": "As the prospects for strong government action to curb climate change grow less certain, energy shares, and especially coal mining stocks, are generating astonishing returns.",
         "ranked": 9,
         "placed": "Economics",
@@ -388,14 +388,14 @@
                 "Nordhaus, William D"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3C5HRrj"
+            "short_news_url": "https://nyti.ms/3C5HRrj"
         }
     },
     {
         "title": "At FIAC Art Fair, Ambitions Are High. Can Sales Keep Pace?",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/arts/design/fiac-paris.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/arts/design/fiac-paris.html",
         "content": "Paris wants to rival London as the art world\u2019s European hub. It still has a ways to go.",
         "ranked": 10,
         "placed": "Economics",
@@ -424,14 +424,14 @@
             "geo_facet": [
                 "Paris (France)"
             ],
-            "short_news_news_url": "https://nyti.ms/3B3pS3p"
+            "short_news_url": "https://nyti.ms/3B3pS3p"
         }
     },
     {
         "title": "This Hedge Fund Manager Dumped Trump",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/business/dealbook/boaz-weinstein-trump-spac.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/business/dealbook/boaz-weinstein-trump-spac.html",
         "content": "The investor Boaz Weinstein moved to abandon a blank-check fund that announced a deal with the former president.",
         "ranked": 11,
         "placed": "Economics",
@@ -461,14 +461,14 @@
                 "Weinstein, Boaz R"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3m2dnkA"
+            "short_news_url": "https://nyti.ms/3m2dnkA"
         }
     },
     {
         "title": "Instagram: A Watch Brand\u2019s Best Friend",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/fashion/watches-instagram.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/fashion/watches-instagram.html",
         "content": "Its effect on design may be a delicate subject, but no one disputes that popularity on the social media platform means sales.",
         "ranked": 12,
         "placed": "Economics",
@@ -500,14 +500,14 @@
                 "Wallner, Brynn"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3prMLve"
+            "short_news_url": "https://nyti.ms/3prMLve"
         }
     },
     {
         "title": "Flying With Your Pet? It Just Got a Lot More Difficult.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html",
         "content": "A recent C.D.C. rabies rule, pricey pet \u2018tickets\u2019 and limits on animals in airline cabins are making traveling with a pet more complicated.",
         "ranked": 13,
         "placed": "Economics",
@@ -531,14 +531,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3vHkIsX"
+            "short_news_url": "https://nyti.ms/3vHkIsX"
         }
     },
     {
         "title": "Hackers lay claim to Donald Trump\u2019s social app before its launch.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/technology/trump-truth-social-hackers.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/technology/trump-truth-social-hackers.html",
         "content": "Hackers tied to the group Anonymous defaced a private version of the former president\u2019s app, Truth Social, posting images of defecating pigs and explicative-laced rants.",
         "ranked": 14,
         "placed": "Economics",
@@ -568,14 +568,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2Z8oFL2"
+            "short_news_url": "https://nyti.ms/2Z8oFL2"
         }
     },
     {
         "title": "C.D.C. Recommends Covid Booster Shots for Millions of Americans",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/health/covid-vaccine-boosters-cdc.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/health/covid-vaccine-boosters-cdc.html",
         "content": "Recipients of the Moderna and the J.&J. vaccines may receive extra doses. The agency also embraced a \u201cmix-and-match\u201d strategy.",
         "ranked": 15,
         "placed": "Economics",
@@ -608,14 +608,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3GclzH5"
+            "short_news_url": "https://nyti.ms/3GclzH5"
         }
     },
     {
         "title": "Trump Takes Advantage of Wall Street Fad to Bankroll New Venture",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/media/trump-spac-social-media-venture.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/media/trump-spac-social-media-venture.html",
         "content": "A merger with a so-called blank check company is poised to give the former president access to hundreds of millions of dollars.",
         "ranked": 16,
         "placed": "Economics",
@@ -650,14 +650,14 @@
                 "Weinstein, Boaz R"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3m2Gp3k"
+            "short_news_url": "https://nyti.ms/3m2Gp3k"
         }
     },
     {
         "title": "U.S. Warns Climate Poses \u2018Emerging Threat\u2019 to Financial System",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/politics/climate-change-cost-us.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/climate-change-cost-us.html",
         "content": "A Financial Stability Oversight Council report could lead to more regulatory action and disclosure requirements for banks.",
         "ranked": 17,
         "placed": "Economics",
@@ -686,14 +686,14 @@
                 "Yellen, Janet L"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3E7C2dQ"
+            "short_news_url": "https://nyti.ms/3E7C2dQ"
         }
     },
     {
         "title": "Snapchat says Apple\u2019s privacy changes hurt its ad business, causing it to miss revenue targets.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/snapchat-earnings-q3-2021.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/snapchat-earnings-q3-2021.html",
         "content": "Snap, the parent company of Snapchat, said that it had expected some disruption but that challenges for advertisers had been more severe than expected.",
         "ranked": 18,
         "placed": "Economics",
@@ -723,14 +723,14 @@
                 "Spiegel, Evan"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3aZTy79"
+            "short_news_url": "https://nyti.ms/3aZTy79"
         }
     },
     {
         "title": "Bat Research Group Failed to Submit Virus Studies Promptly, N.I.H. Says",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html",
         "content": "The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days.",
         "ranked": 19,
         "placed": "Economics",
@@ -762,14 +762,14 @@
                 "Collins, Francis S"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3G7hTWR"
+            "short_news_url": "https://nyti.ms/3G7hTWR"
         }
     },
     {
         "title": "Fed Unveils Stricter Trading Rules Amid Fallout From Ethics Scandal",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/federal-reserve-trading-ethics.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/federal-reserve-trading-ethics.html",
         "content": "The Federal Reserve faced scrutiny after two regional bank presidents disclosed questionable 2020 trading. Now it\u2019s revamping the rules.",
         "ranked": 20,
         "placed": "Economics",
@@ -800,14 +800,14 @@
                 "Rosengren, Eric S"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3joU9Ui"
+            "short_news_url": "https://nyti.ms/3joU9Ui"
         }
     },
     {
         "title": "Google plans to lower the cut it takes in its app store to 15 percent.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/technology/google-app-store-developer-fees.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/technology/google-app-store-developer-fees.html",
         "content": "The move is a concession to regulators and lawmakers, who are challenging whether the company has overcharged developers.",
         "ranked": 21,
         "placed": "Economics",
@@ -834,14 +834,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3m24uHw"
+            "short_news_url": "https://nyti.ms/3m24uHw"
         }
     },
     {
         "title": "Alan Lapidus, Architect of Hotels and Casinos, Dies at 85",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/arts/design/alan-lapidus-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/arts/design/alan-lapidus-dead.html",
         "content": "He followed in the footsteps of his architect father, Morris, with glitzy landmarks in Times Square, Las Vegas and Atlantic City, where Donald Trump was a client.",
         "ranked": 22,
         "placed": "Economics",
@@ -872,14 +872,14 @@
                 "Atlantic City (NJ)",
                 "Las Vegas (Nev)"
             ],
-            "short_news_news_url": "https://nyti.ms/3aXZVHU"
+            "short_news_url": "https://nyti.ms/3aXZVHU"
         }
     },
     {
         "title": "U.S. agrees to drop tariffs on countries that imposed digital services taxes as a global tax overhaul moves ahead.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/global-tax-agreement-digital-services.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/global-tax-agreement-digital-services.html",
         "content": "The agreement comes as more than 130 countries agreed this month to an overhaul of the international tax system that will see nations adopt a global minimum tax of 15 percent.",
         "ranked": 23,
         "placed": "Economics",
@@ -907,14 +907,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3ndo9Ut"
+            "short_news_url": "https://nyti.ms/3ndo9Ut"
         }
     },
     {
         "title": "Elizabeth Warren asked the Fed to release its March 2020 ethics warning about trading.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/politics/elizabeth-warren-fed-ethics.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/elizabeth-warren-fed-ethics.html",
         "content": "Ms. Warren, a Democratic Senator from Massachusetts, asked the Federal Reserve\u2019s Board of Governors to release an email sent to reserve banks.",
         "ranked": 24,
         "placed": "Economics",
@@ -945,14 +945,14 @@
                 "Warren, Elizabeth"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2Z9sWOU"
+            "short_news_url": "https://nyti.ms/2Z9sWOU"
         }
     },
     {
         "title": "Haunted Houses Need to Terrify You More Than Ever This Halloween",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/haunted-house-halloween-pandemic.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/haunted-house-halloween-pandemic.html",
         "content": "Many haunted attractions, typically a financially lucrative business, were devastated by the 2020 season. This year, they\u2019re hoping to rebound through your frights and screams.",
         "ranked": 25,
         "placed": "Economics",
@@ -978,14 +978,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_news_news_url": "https://nyti.ms/3G1Omhg"
+            "short_news_url": "https://nyti.ms/3G1Omhg"
         }
     },
     {
         "title": "N.T.S.B. says Tesla owner was in the driver\u2019s seat in fatal crash, contradicting local officials.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/automobiles/tesla-texas-crash-autopilot.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/automobiles/tesla-texas-crash-autopilot.html",
         "content": "A Harris County sheriff\u2019s constable said in April that evidence at the scene of the accident suggested that no one was driving the car when it crashed.",
         "ranked": 26,
         "placed": "Economics",
@@ -1016,14 +1016,14 @@
                 "Harris County (Tex)",
                 "Spring (Tex)"
             ],
-            "short_news_news_url": "https://nyti.ms/3lZViDK"
+            "short_news_url": "https://nyti.ms/3lZViDK"
         }
     },
     {
         "title": "American and Southwest post profits as the airline industry recovers.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/american-southwest-airlines-earnings.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/american-southwest-airlines-earnings.html",
         "content": "Both airlines said they expected to do even better in the final three months of the year, lifted by corporate, international and holiday travel.",
         "ranked": 27,
         "placed": "Economics",
@@ -1052,14 +1052,14 @@
                 "Kelly, Gary C"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3G29R1D"
+            "short_news_url": "https://nyti.ms/3G29R1D"
         }
     },
     {
         "title": "Facebook\u2019s oversight board faults its policy on preferential treatment.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/facebook-oversight-board-members-criticism.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/facebook-oversight-board-members-criticism.html",
         "content": "The social network\u2019s oversight board took aim at an internal program that gives prominent users special leeway on rules.",
         "ranked": 28,
         "placed": "Economics",
@@ -1084,14 +1084,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2Zf3s2s"
+            "short_news_url": "https://nyti.ms/2Zf3s2s"
         }
     },
     {
         "title": "Do You Work at Amazon or Another Powerful Employer?",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/amazon-powerful-companies-callout.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/amazon-powerful-companies-callout.html",
         "content": "We\u2019re interested in learning as much as possible about how employers manage their work forces.",
         "ranked": 29,
         "placed": "Economics",
@@ -1115,14 +1115,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3ndVyyg"
+            "short_news_url": "https://nyti.ms/3ndVyyg"
         }
     },
     {
         "title": "WeWork Hits the Stock Markets",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/dealbook/wework-public-spac.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/dealbook/wework-public-spac.html",
         "content": "The co-working company\u2019s trading debut follows a failed I.P.O., a pandemic and more.",
         "ranked": 30,
         "placed": "Economics",
@@ -1153,14 +1153,14 @@
                 "Manchin, Joe III"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3vwZ76s"
+            "short_news_url": "https://nyti.ms/3vwZ76s"
         }
     },
     {
         "title": "AutoNation\u2019s profit jumps as prices for cars soar.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/autonation-profits-car-prices.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/autonation-profits-car-prices.html",
         "content": "The company, a chain of new-vehicle franchises, has been able to cut back on discounts as the chip shortage limits the inventory of cars.",
         "ranked": 31,
         "placed": "Economics",
@@ -1188,14 +1188,14 @@
                 "Jackson, Mike (1949- )"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3n9teNw"
+            "short_news_url": "https://nyti.ms/3n9teNw"
         }
     },
     {
         "title": "A Tour of Italy, and a Century of Stunning Cars",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/business/italy-car-museums.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/business/italy-car-museums.html",
         "content": "There\u2019s more to see than Ferrari and Lamborghini, and three museums in the country\u2019s automotive heartland offer a deeper look.",
         "ranked": 32,
         "placed": "Economics",
@@ -1227,7 +1227,7 @@
             "geo_facet": [
                 "Italy"
             ],
-            "short_news_news_url": "https://nyti.ms/2ZfDnQP"
+            "short_news_url": "https://nyti.ms/2ZfDnQP"
         }
     }
 ]

@@ -3,7 +3,7 @@
         "title": "Diane Weyermann, Executive Who Championed \u2018An Inconvenient Truth,\u2019 Dies at 66",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/movies/diane-weyermann-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/movies/diane-weyermann-dead.html",
         "content": "A former public interest lawyer, she oversaw this and many other documentaries that addressed urgent social issues.",
         "ranked": 0,
         "placed": "First_Page",
@@ -33,14 +33,14 @@
                 "Weyermann, Diane (1955-2021)"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2Zcf3iW"
+            "short_news_url": "https://nyti.ms/2Zcf3iW"
         }
     },
     {
         "title": "Kyrsten Sinema\u2019s Style Keeps Us Guessing",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 1,
         "placed": "First_Page",
@@ -71,14 +71,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3n82nRS"
+            "short_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "Nadia Chaudhri, Scientist With an End-of-Life Mission, Dies at 43",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_news_url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
         "content": "She documented her last months with ovarian cancer on Twitter while raising funds to support students from backgrounds that are underrepresented in the sciences.",
         "ranked": 2,
         "placed": "First_Page",
@@ -108,14 +108,14 @@
                 "Chaudhri, Nadia (1978-2021)"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2ZdrhaT"
+            "short_news_url": "https://nyti.ms/2ZdrhaT"
         }
     },
     {
         "title": "Online Furor Over a Student\u2019s Hijab Engulfs a Liberal Town",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/nyregion/hijab-muslim-nj-student.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/nyregion/hijab-muslim-nj-student.html",
         "content": "A 7-year-old told her mother that she resisted a New Jersey teacher\u2019s attempt to pull off her Muslim head covering. It spiraled from there.",
         "ranked": 3,
         "placed": "First_Page",
@@ -146,14 +146,14 @@
             "geo_facet": [
                 "Maplewood (NJ)"
             ],
-            "short_news_news_url": "https://nyti.ms/3jsXrpJ"
+            "short_news_url": "https://nyti.ms/3jsXrpJ"
         }
     },
     {
         "title": "14 Showstopping Desserts That Don\u2019t Require a Mixer",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_news_url": "https://www.nytimes.com/article/easy-dessert-recipes-no-mixer.html",
+        "news_url": "https://www.nytimes.com/article/easy-dessert-recipes-no-mixer.html",
         "content": "Shortbread cookies, famous brownies, peanut butter cups and other treats can be yours to enjoy with just a little elbow grease.",
         "ranked": 4,
         "placed": "First_Page",
@@ -176,14 +176,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3pjPPJW"
+            "short_news_url": "https://nyti.ms/3pjPPJW"
         }
     },
     {
         "title": "Alec Baldwin Was Told Gun in Fatal Shooting on Set Was Safe, Officials Say",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
         "content": "The actor was told a gun being used as a prop was safe before he fired it on the set of \u201cRust,\u201d killing the film\u2019s cinematographer and wounding its director, law enforcement officials said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -214,14 +214,14 @@
                 "Santa Fe (NM)",
                 "New Mexico"
             ],
-            "short_news_news_url": "https://nyti.ms/30FtFrc"
+            "short_news_url": "https://nyti.ms/30FtFrc"
         }
     },
     {
         "title": "Their Jobs Made Them Get Vaccinated. They Refused.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_news_url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
         "content": "The willingness of some workers to give up their livelihoods helps explain the country\u2019s struggle to reach herd immunity.",
         "ranked": 6,
         "placed": "First_Page",
@@ -251,14 +251,14 @@
                 "New York City",
                 "New York State"
             ],
-            "short_news_news_url": "https://nyti.ms/3GrMxuv"
+            "short_news_url": "https://nyti.ms/3GrMxuv"
         }
     },
     {
         "title": "Where Facts Were No Match for Fear",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
         "content": "Civic boosters in central Montana hoped for some federal money to promote tourism. A disinformation campaign got in the way.",
         "ranked": 7,
         "placed": "First_Page",
@@ -291,14 +291,14 @@
                 "Great Falls (Mont)",
                 "Montana"
             ],
-            "short_news_news_url": "https://nyti.ms/3EawhvP"
+            "short_news_url": "https://nyti.ms/3EawhvP"
         }
     },
     {
         "title": "Alec Baldwin Film Set Had Previous Accidental Gun Discharges, Crew Members Say",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/us/alec-baldwin-rust-shooting.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/us/alec-baldwin-rust-shooting.html",
         "content": "They expressed concerns over gun mishaps and working conditions just days before the shooting that killed the cinematographer Halyna Hutchins.",
         "ranked": 8,
         "placed": "First_Page",
@@ -330,7 +330,7 @@
                 "Albuquerque (NM)",
                 "Santa Fe (NM)"
             ],
-            "short_news_news_url": "https://nyti.ms/3nltFEG"
+            "short_news_url": "https://nyti.ms/3nltFEG"
         }
     }
 ]

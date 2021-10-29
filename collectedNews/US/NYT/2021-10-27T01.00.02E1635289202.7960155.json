@@ -3,7 +3,7 @@
         "title": "Gene Freidman, \u2018Taxi King\u2019 Who Upended His Industry, Dies at 50",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/nyregion/gene-freidman-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/nyregion/gene-freidman-dead.html",
         "content": "He bid up the price of medallions and borrowed against them. When their value plummeted, immigrant cabbies were left deep in debt.",
         "ranked": 0,
         "placed": "First_Page",
@@ -33,14 +33,14 @@
             "geo_facet": [
                 "New York City"
             ],
-            "short_news_news_url": "https://nyti.ms/3jw2WEf"
+            "short_news_url": "https://nyti.ms/3jw2WEf"
         }
     },
     {
         "title": "The Best Workout for Middle-Aged Bodies",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
         "content": "Research shows that becoming fit in middle age will give you more years of good health \u2014 and the most effective exercise for a middle-aged body can be  easier and faster than you might think.",
         "ranked": 1,
         "placed": "First_Page",
@@ -63,14 +63,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3G6e18N"
+            "short_news_url": "https://nyti.ms/3G6e18N"
         }
     },
     {
         "title": "The Son My Sister Placed for Adoption Wants to Find Her. What Should I Do?",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/magazine/adoption-confidentiality-ethics.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/magazine/adoption-confidentiality-ethics.html",
         "content": "The magazine\u2019s Ethicist columnist on confidentiality and our claims to know our biological ancestry.",
         "ranked": 2,
         "placed": "First_Page",
@@ -95,14 +95,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2Zz7dQi"
+            "short_news_url": "https://nyti.ms/2Zz7dQi"
         }
     },
     {
         "title": "How I Became a Sick Person",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
         "content": "A sudden descent into a chronic illness. ",
         "ranked": 3,
         "placed": "First_Page",
@@ -132,14 +132,14 @@
             "geo_facet": [
                 "Connecticut"
             ],
-            "short_news_news_url": "https://nyti.ms/3npekCS"
+            "short_news_url": "https://nyti.ms/3npekCS"
         }
     },
     {
         "title": "Loose and Boxed Ammunition Found at Scene of Alec Baldwin Shooting",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/movies/alec-baldwin-shooting-ammunition-found.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/movies/alec-baldwin-shooting-ammunition-found.html",
         "content": "Court papers did not specify what kind of ammunition detectives recovered from a movie set where the actor had fatally shot a cinematographer with a gun he was told did not contain live rounds.",
         "ranked": 4,
         "placed": "First_Page",
@@ -169,14 +169,14 @@
                 "Gutierrez-Reed, Hannah"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3mbtBYt"
+            "short_news_url": "https://nyti.ms/3mbtBYt"
         }
     },
     {
         "title": "Where Facts Were No Match for Fear",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
         "content": "Civic boosters in central Montana hoped for some federal money to promote tourism. A disinformation campaign got in the way.",
         "ranked": 5,
         "placed": "First_Page",
@@ -213,14 +213,14 @@
                 "Cascade County (Mont)",
                 "Montana"
             ],
-            "short_news_news_url": "https://nyti.ms/3EawhvP"
+            "short_news_url": "https://nyti.ms/3EawhvP"
         }
     },
     {
         "title": "Instant Pot Wisdom, Half a Decade Later",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/dining/instant-pot-recipes-wisdom.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/dining/instant-pot-recipes-wisdom.html",
         "content": "Melissa Clark on how to get the most out of your electric pressure cooker, whether you\u2019re just starting out with it or already an expert.",
         "ranked": 6,
         "placed": "First_Page",
@@ -246,14 +246,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3m41N8s"
+            "short_news_url": "https://nyti.ms/3m41N8s"
         }
     },
     {
         "title": "Colin Powell and \u2018Guernica\u2019",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/opinion/colin-powell-legacy.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/opinion/colin-powell-legacy.html",
         "content": "He broke many barriers but was\u00a0outplayed by masters of deceit.",
         "ranked": 7,
         "placed": "First_Page",
@@ -281,7 +281,7 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_news_news_url": "https://nyti.ms/2ZqC69z"
+            "short_news_url": "https://nyti.ms/2ZqC69z"
         }
     }
 ]

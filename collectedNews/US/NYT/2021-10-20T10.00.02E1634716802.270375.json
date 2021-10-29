@@ -3,7 +3,7 @@
         "title": "Diver Discovers 900-Year-Old Sword Dating to the Crusades",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html",
         "content": "The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said.",
         "ranked": 0,
         "placed": "First_Page",
@@ -31,14 +31,14 @@
             "geo_facet": [
                 "Israel"
             ],
-            "short_news_news_url": "https://nyti.ms/3aOIOZ5"
+            "short_news_url": "https://nyti.ms/3aOIOZ5"
         }
     },
     {
         "title": "Stephen Colbert Can\u2019t Take Christopher Steele\u2019s Purported Tape",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/arts/television/stephen-colbert-cant-take-christopher-steeles-purported-tape.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/arts/television/stephen-colbert-cant-take-christopher-steeles-purported-tape.html",
         "content": "\u201cI\u2019m warning you, Steele. If this turns out to be a false report again, \u2018urine\u2019 trouble,\u2019\u201d Colbert said.",
         "ranked": 1,
         "placed": "First_Page",
@@ -66,14 +66,14 @@
                 "Noah, Trevor (1984- )"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3BXCNVQ"
+            "short_news_url": "https://nyti.ms/3BXCNVQ"
         }
     },
     {
         "title": "\u2018When I Was Playing, No One Really Talked About Mental Health.\u2019",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/sports/football/jonathan-martin-nfl-cte.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/sports/football/jonathan-martin-nfl-cte.html",
         "content": "Jonathan Martin faced bullying in his N.F.L. locker room and depression. He will donate his brain to C.T.E. research to determine if head trauma contributed to his mental health woes.",
         "ranked": 2,
         "placed": "First_Page",
@@ -102,14 +102,14 @@
                 "Martin, Jonathan (1989- )"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3aSgvZM"
+            "short_news_url": "https://nyti.ms/3aSgvZM"
         }
     },
     {
         "title": "For L.S.U., Not Winning Enough Is the Biggest Scandal",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/sports/ncaafootball/ed-orgeron-lsu.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/sports/ncaafootball/ed-orgeron-lsu.html",
         "content": "Louisiana State said \u201cwins and losses on the field\u201d led to Coach Ed Orgeron\u2019s dismissal, but he seemed determined to tempt fate in other ways.",
         "ranked": 3,
         "placed": "First_Page",
@@ -135,14 +135,14 @@
                 "Orgeron, Ed"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3voZOi8"
+            "short_news_url": "https://nyti.ms/3voZOi8"
         }
     },
     {
         "title": "F.D.A. Moves to Make Some Hearing Aids Available Without a Prescription",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/health/hearing-aid-fda.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/health/hearing-aid-fda.html",
         "content": "The proposed rule could make it easier for Americans with mild to moderate hearing impairments to get the devices.",
         "ranked": 4,
         "placed": "First_Page",
@@ -170,14 +170,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3vuw2sw"
+            "short_news_url": "https://nyti.ms/3vuw2sw"
         }
     },
     {
         "title": "The Economic Rebound Is Still Waiting for Workers",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
         "content": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
         "ranked": 5,
         "placed": "First_Page",
@@ -208,14 +208,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3C47g4Y"
+            "short_news_url": "https://nyti.ms/3C47g4Y"
         }
     },
     {
         "title": "Couple in Submarine Spy Case Stewed Over Money and Politics",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
         "content": "Jonathan and Diana Toebbe, charged with trying to sell classified nuclear secrets to a foreign power, struggled with finances, family and the state of America.",
         "ranked": 6,
         "placed": "First_Page",
@@ -249,14 +249,14 @@
             "geo_facet": [
                 "Washington Navy Yard (Washington, DC)"
             ],
-            "short_news_news_url": "https://nyti.ms/3vtZEGd"
+            "short_news_url": "https://nyti.ms/3vtZEGd"
         }
     },
     {
         "title": "In a First, Surgeons Attached a Pig Kidney to a Human \u2014 and It Worked",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html",
         "content": "A kidney grown in a genetically altered pig seemed to function normally, potentially a new source for desperately needed transplant organs.",
         "ranked": 7,
         "placed": "First_Page",
@@ -286,14 +286,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3jl5jtl"
+            "short_news_url": "https://nyti.ms/3jl5jtl"
         }
     },
     {
         "title": "Trump Interviewed for 4.5 Hours in Protesters\u2019 Lawsuit",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/nyregion/trump-protest-lawsuit-testimony.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/nyregion/trump-protest-lawsuit-testimony.html",
         "content": "The former president was deposed as part of a lawsuit accusing his security guards of roughing up protesters in 2015.",
         "ranked": 8,
         "placed": "First_Page",
@@ -323,7 +323,7 @@
             "geo_facet": [
                 "Manhattan (NYC)"
             ],
-            "short_news_news_url": "https://nyti.ms/3piZqRh"
+            "short_news_url": "https://nyti.ms/3piZqRh"
         }
     }
 ]

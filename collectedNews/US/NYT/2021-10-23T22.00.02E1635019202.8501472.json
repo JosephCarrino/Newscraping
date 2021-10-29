@@ -3,7 +3,7 @@
         "title": "Taliban Honor Suicide Bombers\u2019 \u2018Sacrifices\u2019 in Bid to Rewrite History",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/world/asia/afghanistan-taliban-suicide-bombers.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/asia/afghanistan-taliban-suicide-bombers.html",
         "content": "The new government brought together the bombers\u2019 families at a publicized event, praising their actions but alienating those who have suffered at their hands.",
         "ranked": 0,
         "placed": "First_Page",
@@ -32,14 +32,14 @@
             "geo_facet": [
                 "Afghanistan"
             ],
-            "short_news_news_url": "https://nyti.ms/30L5Eiw"
+            "short_news_url": "https://nyti.ms/30L5Eiw"
         }
     },
     {
         "title": "The Best Workout for Middle-Aged Bodies",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
         "content": "Research shows that becoming fit in middle age will give you more years of good health \u2014 and the most effective exercise for a middle-aged body can be easier and faster than you might think.",
         "ranked": 1,
         "placed": "First_Page",
@@ -62,14 +62,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3G6e18N"
+            "short_news_url": "https://nyti.ms/3G6e18N"
         }
     },
     {
         "title": "In Watchmaking, the Pleasing Principles of Phi",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/fashion/watches-golden-ratio-bianchet-switzerland.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/fashion/watches-golden-ratio-bianchet-switzerland.html",
         "content": "A husband-and-wife team has introduced a watch using the mathematical formula said to create the most appealing results.",
         "ranked": 2,
         "placed": "First_Page",
@@ -96,14 +96,14 @@
                 "Festa Bianchet, Rodolfo"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3pnaZXH"
+            "short_news_url": "https://nyti.ms/3pnaZXH"
         }
     },
     {
         "title": "The 31st Date Was a Charm",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/style/gabi-conti-daren-johnson-wedding.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/gabi-conti-daren-johnson-wedding.html",
         "content": "Gabi Conti\u2019s romantic losing streak was broken when she met Daren Johnson \u2014 and gave him a much-needed attitude adjustment.",
         "ranked": 3,
         "placed": "First_Page",
@@ -124,14 +124,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3b1HX7C"
+            "short_news_url": "https://nyti.ms/3b1HX7C"
         }
     },
     {
         "title": "\u2018The Two of Us Against the World\u2019",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/style/beekman-1802-owners-marriage-secrets.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/style/beekman-1802-owners-marriage-secrets.html",
         "content": "Josh Kilmer-Purcell and Dr. Brent Ridge, owners of the Beekman 1802 skin care brand, met in an anonymous chat room in 1999, before Dr. Ridge came out.",
         "ranked": 4,
         "placed": "First_Page",
@@ -157,14 +157,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2Za5eSv"
+            "short_news_url": "https://nyti.ms/2Za5eSv"
         }
     },
     {
         "title": "Alec Baldwin Was Told Gun in Fatal Shooting on Set Was Safe, Officials Say",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
         "content": "The actor was told a gun being used as a prop was safe before he fired it on the set of \u201cRust,\u201d killing the film\u2019s cinematographer and wounding its director, law enforcement officials said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -195,14 +195,14 @@
                 "Santa Fe (NM)",
                 "New Mexico"
             ],
-            "short_news_news_url": "https://nyti.ms/30FtFrc"
+            "short_news_url": "https://nyti.ms/30FtFrc"
         }
     },
     {
         "title": "Amanda Knox Was Exonerated. That Doesn\u2019t Mean She\u2019s Free.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
         "content": "Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms.",
         "ranked": 6,
         "placed": "First_Page",
@@ -232,14 +232,14 @@
                 "Perugia (Italy)",
                 "Seattle (Wash)"
             ],
-            "short_news_news_url": "https://nyti.ms/3GajqeX"
+            "short_news_url": "https://nyti.ms/3GajqeX"
         }
     },
     {
         "title": "How the Supply Chain Broke, and Why It Won\u2019t Be Fixed Anytime Soon",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html",
         "content": "Confession: We didn\u2019t even have a logistics beat before the pandemic. Now we do. Here\u2019s what we\u2019ve learned about the global supply chain disruption.",
         "ranked": 7,
         "placed": "First_Page",
@@ -271,14 +271,14 @@
                 "Europe",
                 "United States"
             ],
-            "short_news_news_url": "https://nyti.ms/3nm13Lc"
+            "short_news_url": "https://nyti.ms/3nm13Lc"
         }
     },
     {
         "title": "Online Furor Over a Student\u2019s Hijab Engulfs a Liberal Town",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/nyregion/hijab-muslim-nj-student.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/nyregion/hijab-muslim-nj-student.html",
         "content": "A 7-year-old told her mother that she resisted a New Jersey teacher\u2019s attempt to pull off her Muslim head covering. It spiraled from there.",
         "ranked": 8,
         "placed": "First_Page",
@@ -309,7 +309,7 @@
             "geo_facet": [
                 "Maplewood (NJ)"
             ],
-            "short_news_news_url": "https://nyti.ms/3jsXrpJ"
+            "short_news_url": "https://nyti.ms/3jsXrpJ"
         }
     }
 ]

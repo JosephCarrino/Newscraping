@@ -3,7 +3,7 @@
         "title": "Democrats will scale back a proposal to require banks to report balances to the I.R.S.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/irs-bank-account-reporting-requirement.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/irs-bank-account-reporting-requirement.html",
         "content": "Under the new plan, banks would only be required to provide data on accounts with total annual deposits or withdrawals worth more than $10,000, not including payroll and beneficiary deposits, rather than the $600 threshold that was initially proposed.",
         "ranked": 0,
         "placed": "Politics",
@@ -38,14 +38,14 @@
                 "Yellen, Janet L"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3GbX7pl"
+            "short_news_url": "https://nyti.ms/3GbX7pl"
         }
     },
     {
         "title": "How the American Right Fell in Love With Hungary",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/magazine/viktor-orban-rod-dreher.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/magazine/viktor-orban-rod-dreher.html",
         "content": "Some U.S. conservatives are taking a cue from Prime Minister Viktor Orban \u2014 how to use the power of the state to win the culture wars.",
         "ranked": 1,
         "placed": "Politics",
@@ -84,14 +84,14 @@
                 "Orban, Viktor"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3phzmpO"
+            "short_news_url": "https://nyti.ms/3phzmpO"
         }
     },
     {
         "title": "Democrats\u2019 Divide: Should Obama-Era Economic Ideas Prevail in 2021?",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/upshot/deficit-public-debt-debate.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/upshot/deficit-public-debt-debate.html",
         "content": "A more traditional view is competing against a newer approach that has become mainstream among economists.",
         "ranked": 2,
         "placed": "Politics",
@@ -119,14 +119,14 @@
                 "Obama, Barack"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2Z2v7Um"
+            "short_news_url": "https://nyti.ms/2Z2v7Um"
         }
     },
     {
         "title": "After Del Rio, Calls for Fairer Treatment of Black Migrants",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html",
         "content": "The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change.",
         "ranked": 3,
         "placed": "Politics",
@@ -163,14 +163,14 @@
                 "Del Rio (Tex)",
                 "Haiti"
             ],
-            "short_news_news_url": "https://nyti.ms/2YZUlmh"
+            "short_news_url": "https://nyti.ms/2YZUlmh"
         }
     },
     {
         "title": "University of North Carolina Can Keep Affirmative Action, Judge Rules",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/affirmative-action-university-of-north-carolina-court.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/affirmative-action-university-of-north-carolina-court.html",
         "content": "Students for Fair Admissions vowed to immediately appeal in a case that appears destined for the Supreme Court.",
         "ranked": 4,
         "placed": "Politics",
@@ -207,14 +207,14 @@
             "geo_facet": [
                 "Chapel Hill (NC)"
             ],
-            "short_news_news_url": "https://nyti.ms/3vwXJko"
+            "short_news_url": "https://nyti.ms/3vwXJko"
         }
     },
     {
         "title": "Democrats Are Courting Manchin on Their Agenda. Here\u2019s What He Wants.",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/democrats-manchin-domestic-policy-bill.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/democrats-manchin-domestic-policy-bill.html",
         "content": "The West Virginia Democrat could decide the fate of President Biden\u2019s top legislative priority, and he has not been shy about outlining the kinds of changes he wants to see.",
         "ranked": 5,
         "placed": "Politics",
@@ -242,14 +242,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3n7KpPC"
+            "short_news_url": "https://nyti.ms/3n7KpPC"
         }
     },
     {
         "title": "Biden\u2019s Paid Leave Plan at Risk as Lawmakers Look to Shrink Package",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/biden-paid-leave.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/biden-paid-leave.html",
         "content": "An initial proposal to offer workers 12 weeks of paid leave could be whittled down as Democrats try to trim their $3.5 trillion social policy bill.",
         "ranked": 6,
         "placed": "Politics",
@@ -278,14 +278,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3jflhoW"
+            "short_news_url": "https://nyti.ms/3jflhoW"
         }
     },
     {
         "title": "F.D.A. to Allow \u2018Mix and Match\u2019 Approach for Covid Booster Shots",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/fda-mix-and-match-boosters.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/fda-mix-and-match-boosters.html",
         "content": "The agency may act this week, when it is expected to authorize booster shots for recipients of the Moderna and Johnson & Johnson vaccines.",
         "ranked": 7,
         "placed": "Politics",
@@ -316,14 +316,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3n7y6mo"
+            "short_news_url": "https://nyti.ms/3n7y6mo"
         }
     },
     {
         "title": "Trump Sues to Block Release of White House Papers to Jan. 6 Inquiry",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/trump-lawsuit-capitol-riot.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/trump-lawsuit-capitol-riot.html",
         "content": "The case raises novel constitutional questions about the scope of an ex-president\u2019s executive privilege powers if the current president disagrees.",
         "ranked": 8,
         "placed": "Politics",
@@ -354,14 +354,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3DPUOWQ"
+            "short_news_url": "https://nyti.ms/3DPUOWQ"
         }
     },
     {
         "title": "Treasury Warns That Digital Currencies Could Weaken U.S. Sanctions",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/sanctions-cryptocurrency-treasury.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/sanctions-cryptocurrency-treasury.html",
         "content": "A review found that the sanctions program must be modernized to maintain its effectiveness.",
         "ranked": 9,
         "placed": "Politics",
@@ -388,14 +388,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3BUL6Su"
+            "short_news_url": "https://nyti.ms/3BUL6Su"
         }
     },
     {
         "title": "What Scientists Know About the Risk of Breakthrough Covid Deaths",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/health/coronavirus-vaccine-powell-breakthrough.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/health/coronavirus-vaccine-powell-breakthrough.html",
         "content": "Deaths among people who have been fully vaccinated remain rare, but older adults and those with compromised immune systems are at much higher risk.",
         "ranked": 10,
         "placed": "Politics",
@@ -428,14 +428,14 @@
                 "Powell, Colin L"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3mZ5ADm"
+            "short_news_url": "https://nyti.ms/3mZ5ADm"
         }
     },
     {
         "title": "Zalmay Khalilzad, Biden\u2019s Envoy for Afghanistan, Steps Down",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html",
         "content": "An Afghan American and a rare Trump appointee who survived into the Biden administration, Mr. Khalilzad played a central role in the U.S. exit from the country.",
         "ranked": 11,
         "placed": "Politics",
@@ -470,14 +470,14 @@
             "geo_facet": [
                 "Afghanistan"
             ],
-            "short_news_news_url": "https://nyti.ms/3lQNjIR"
+            "short_news_url": "https://nyti.ms/3lQNjIR"
         }
     },
     {
         "title": "In Two Rulings, Supreme Court Bolsters Legal Shield for Police",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/supreme-court-qualified-immunity-police.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/supreme-court-qualified-immunity-police.html",
         "content": "The unsigned decisions, without noted dissents, indicated that the court continued to support the widely criticized doctrine of qualified immunity.",
         "ranked": 12,
         "placed": "Politics",
@@ -505,14 +505,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2YW9moG"
+            "short_news_url": "https://nyti.ms/2YW9moG"
         }
     },
     {
         "title": "Justice Department Asks Supreme Court to Block Texas Abortion Law",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/texas-abortion-law-supreme-court.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/texas-abortion-law-supreme-court.html",
         "content": "Saying the law is \u201cplainly unconstitutional,\u201d the department also asked the court to add the case to its docket in its current term.",
         "ranked": 13,
         "placed": "Politics",
@@ -543,14 +543,14 @@
             "geo_facet": [
                 "Texas"
             ],
-            "short_news_news_url": "https://nyti.ms/3DPoXFG"
+            "short_news_url": "https://nyti.ms/3DPoXFG"
         }
     },
     {
         "title": "Video Shows Louisiana Sheriff\u2019s Deputy Slamming Black Woman to the Ground",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/shantel-arnold-jefferson-parish.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/shantel-arnold-jefferson-parish.html",
         "content": "The A.C.L.U. said that the Jefferson Parish Sheriff\u2019s Office had opened an investigation into the violent encounter. The woman was treated at a hospital, and no charges were filed against her.",
         "ranked": 14,
         "placed": "Politics",
@@ -587,14 +587,14 @@
                 "Jefferson Parish (La)",
                 "Louisiana"
             ],
-            "short_news_news_url": "https://nyti.ms/3ATDpun"
+            "short_news_url": "https://nyti.ms/3ATDpun"
         }
     },
     {
         "title": "A regional Fed analysis suggests Biden\u2019s stimulus is temporarily stoking inflation.",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/business/economy/fed-inflation-stimulus-biden.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/business/economy/fed-inflation-stimulus-biden.html",
         "content": "The American Rescue Plan could be pushing inflation up slightly and temporarily, a Federal Reserve Bank of San Francisco analysis said.",
         "ranked": 15,
         "placed": "Politics",
@@ -629,14 +629,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3G1kqlg"
+            "short_news_url": "https://nyti.ms/3G1kqlg"
         }
     },
     {
         "title": "Lawmakers question whether Amazon executives, including Jeff Bezos, misled Congress.",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/technology/lawmakers-amazon-house-brand-products-inquiry.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/technology/lawmakers-amazon-house-brand-products-inquiry.html",
         "content": "A bipartisan group told the company that they were considering referring their concerns to the Justice Department for a potential criminal inquiry.",
         "ranked": 16,
         "placed": "Politics",
@@ -662,14 +662,14 @@
                 "Bezos, Jeffrey P"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3AUY0yx"
+            "short_news_url": "https://nyti.ms/3AUY0yx"
         }
     },
     {
         "title": "Decoding Kyrsten Sinema\u2019s Style",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 17,
         "placed": "Politics",
@@ -701,14 +701,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3n82nRS"
+            "short_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "Powell said that backing the war in Iraq was a \u2018blot\u2019 on his record.",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/iraq-war-colin-powell.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/iraq-war-colin-powell.html",
         "content": "As secretary of state, he reluctantly supported President George W. Bush\u2019s push to invade Iraq after the Sept. 11 terrorist attacks.",
         "ranked": 18,
         "placed": "Politics",
@@ -737,14 +737,14 @@
                 "Iraq",
                 "United States"
             ],
-            "short_news_news_url": "https://nyti.ms/3lPRyo8"
+            "short_news_url": "https://nyti.ms/3lPRyo8"
         }
     },
     {
         "title": "Colin Powell, Who Shaped U.S. National Security, Dies at 84",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/colin-powell-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/colin-powell-dead.html",
         "content": "A former chairman of the Joint Chiefs of Staff, secretary of state and national security adviser, Mr. Powell died of complications of Covid-19, his family said.",
         "ranked": 19,
         "placed": "Politics",
@@ -776,7 +776,7 @@
                 "Cheney, Dick"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3DLPF1U"
+            "short_news_url": "https://nyti.ms/3DLPF1U"
         }
     }
 ]

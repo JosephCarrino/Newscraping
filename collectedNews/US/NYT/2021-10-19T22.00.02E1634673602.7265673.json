@@ -3,7 +3,7 @@
         "title": "As a Woman Was Raped, Train Riders Failed to Intervene, Police Say",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_news_url": "https://www.nytimes.com/2021/10/17/us/riders-watched-woman-raped-septa.html",
+        "news_url": "https://www.nytimes.com/2021/10/17/us/riders-watched-woman-raped-septa.html",
         "content": "The SEPTA train car near Philadelphia had several passengers aboard but none called 911 while the woman was sexually assaulted, the authorities said.",
         "ranked": 0,
         "placed": "First_Page",
@@ -32,14 +32,14 @@
                 "Philadelphia (Pa)",
                 "Upper Darby (Pa)"
             ],
-            "short_news_news_url": "https://nyti.ms/3vjpDjw"
+            "short_news_url": "https://nyti.ms/3vjpDjw"
         }
     },
     {
         "title": "Decoding Kyrsten Sinema\u2019s Style",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 1,
         "placed": "First_Page",
@@ -71,14 +71,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3n82nRS"
+            "short_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "The Austin Bungalow Had Charm. But It \u2018Needed Everything.\u2019",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/realestate/the-austin-bungalow-had-charm-but-it-needed-everything.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/realestate/the-austin-bungalow-had-charm-but-it-needed-everything.html",
         "content": "After noticing a realtor \u2018sitting, literally head in hand, on the front steps,\u2019 a Texas couple decided to buy the house. That was two renovations ago.",
         "ranked": 2,
         "placed": "First_Page",
@@ -106,14 +106,14 @@
             "geo_facet": [
                 "Austin (Tex)"
             ],
-            "short_news_news_url": "https://nyti.ms/3G2ldmj"
+            "short_news_url": "https://nyti.ms/3G2ldmj"
         }
     },
     {
         "title": "A \u2018Summer House\u2019 Wedding Five Seasons in the Making",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "news_news_url": "https://www.nytimes.com/2021/10/15/style/amanda-batula-kyle-cooke-wedding.html",
+        "news_url": "https://www.nytimes.com/2021/10/15/style/amanda-batula-kyle-cooke-wedding.html",
         "content": "Not a pandemic nor a shared canned-cocktail business nor a Bravo reality series could tear apart Amanda Batula and Kyle Cooke.",
         "ranked": 3,
         "placed": "First_Page",
@@ -134,14 +134,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3AKvJdK"
+            "short_news_url": "https://nyti.ms/3AKvJdK"
         }
     },
     {
         "title": "Netflix Loses Its Glow as Critics Target Chappelle Special",
         "date_raw": "October 14, 2021",
         "date": "2021-10-14",
-        "news_news_url": "https://www.nytimes.com/2021/10/14/business/media/dave-chappelle-closer-netflix.html",
+        "news_url": "https://www.nytimes.com/2021/10/14/business/media/dave-chappelle-closer-netflix.html",
         "content": "The comedian Dave Chappelle\u2019s comments on transgender people and gender in \u201cThe Closer\u201d have led to outside criticism and internal unrest at the company that upended Hollywood.",
         "ranked": 4,
         "placed": "First_Page",
@@ -174,14 +174,14 @@
                 "Sarandos, Ted"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3mPf3wW"
+            "short_news_url": "https://nyti.ms/3mPf3wW"
         }
     },
     {
         "title": "Colin Powell, Who Shaped U.S. National Security, Dies at 84",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/colin-powell-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/colin-powell-dead.html",
         "content": "A former chairman of the Joint Chiefs of Staff, secretary of state and national security adviser, Mr. Powell died of complications of Covid-19, his family said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -213,14 +213,14 @@
                 "Cheney, Dick"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3DLPF1U"
+            "short_news_url": "https://nyti.ms/3DLPF1U"
         }
     },
     {
         "title": "Trump Missed the Part About No Do-Overs",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/opinion/trump-biden-columbus-jefferson.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/opinion/trump-biden-columbus-jefferson.html",
         "content": "And apparently no one from his party is going to explain it to him.\u00a0",
         "ranked": 6,
         "placed": "First_Page",
@@ -250,14 +250,14 @@
                 "Jefferson, Thomas"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2YZVmtT"
+            "short_news_url": "https://nyti.ms/2YZVmtT"
         }
     },
     {
         "title": "The Best Olive Oil in the World? This Village Thinks So.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/dining/best-olive-oil-rameh-israel.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/dining/best-olive-oil-rameh-israel.html",
         "content": "Rameh, a Palestinian town surrounded by olive groves, has long had a reputation for producing especially good oil.",
         "ranked": 7,
         "placed": "First_Page",
@@ -283,7 +283,7 @@
                 "Sea of Galilee (Israel)",
                 "Rameh (Israel)"
             ],
-            "short_news_news_url": ""
+            "short_news_url": ""
         }
     }
 ]

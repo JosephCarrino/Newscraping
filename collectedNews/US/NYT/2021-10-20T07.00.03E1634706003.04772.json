@@ -3,7 +3,7 @@
         "title": "Texas Man Is Sentenced for Using Dating App to Target Gay Men",
         "date_raw": "October 14, 2021",
         "date": "2021-10-14",
-        "news_news_url": "https://www.nytimes.com/2021/10/14/us/daniel-jenkins-gay-men-target-texas.html",
+        "news_url": "https://www.nytimes.com/2021/10/14/us/daniel-jenkins-gay-men-target-texas.html",
         "content": "The man, Daniel Jenkins, was part of a group that used the app Grindr to lure gay men to an apartment complex in Dallas to rob and assault them, prosecutors said.",
         "ranked": 0,
         "placed": "First_Page",
@@ -32,14 +32,14 @@
             "geo_facet": [
                 "Dallas (Tex)"
             ],
-            "short_news_news_url": "https://nyti.ms/2YUUHu7"
+            "short_news_url": "https://nyti.ms/2YUUHu7"
         }
     },
     {
         "title": "Decoding Kyrsten Sinema\u2019s Style",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 1,
         "placed": "First_Page",
@@ -71,14 +71,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3n82nRS"
+            "short_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "The Austin Bungalow Had Charm. But It \u2018Needed Everything.\u2019",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/realestate/the-austin-bungalow-had-charm-but-it-needed-everything.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/realestate/the-austin-bungalow-had-charm-but-it-needed-everything.html",
         "content": "After noticing a realtor \u2018sitting, literally head in hand, on the front steps,\u2019 a Texas couple decided to buy the house. That was two renovations ago.",
         "ranked": 2,
         "placed": "First_Page",
@@ -106,14 +106,14 @@
             "geo_facet": [
                 "Austin (Tex)"
             ],
-            "short_news_news_url": "https://nyti.ms/3G2ldmj"
+            "short_news_url": "https://nyti.ms/3G2ldmj"
         }
     },
     {
         "title": "Adam Schiff: What He Saw at the Trump Revolution",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/books/review/adam-schiff-midnight-in-washington.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/books/review/adam-schiff-midnight-in-washington.html",
         "content": "Schiff\u2019s \u201cMidnight in Washington\u201d is that rare memoir by a politician that actually has something to say.",
         "ranked": 3,
         "placed": "First_Page",
@@ -144,14 +144,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3aUww1k"
+            "short_news_url": "https://nyti.ms/3aUww1k"
         }
     },
     {
         "title": "As a Woman Was Raped, Train Riders Failed to Intervene, Police Say",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_news_url": "https://www.nytimes.com/2021/10/17/us/riders-watched-woman-raped-septa.html",
+        "news_url": "https://www.nytimes.com/2021/10/17/us/riders-watched-woman-raped-septa.html",
         "content": "The SEPTA train car near Philadelphia had several passengers aboard but none called 911 while the woman was sexually assaulted, the authorities said.",
         "ranked": 4,
         "placed": "First_Page",
@@ -180,14 +180,14 @@
                 "Philadelphia (Pa)",
                 "Upper Darby (Pa)"
             ],
-            "short_news_news_url": "https://nyti.ms/3vjpDjw"
+            "short_news_url": "https://nyti.ms/3vjpDjw"
         }
     },
     {
         "title": "The Economic Rebound Is Still Waiting for Workers",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
         "content": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
         "ranked": 5,
         "placed": "First_Page",
@@ -218,14 +218,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3C47g4Y"
+            "short_news_url": "https://nyti.ms/3C47g4Y"
         }
     },
     {
         "title": "In a First, Surgeons Attached a Pig Kidney to a Human \u2014 and It Worked",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html",
         "content": "A kidney grown in a genetically altered pig seemed to function normally, potentially a new source for desperately needed transplant organs.",
         "ranked": 6,
         "placed": "First_Page",
@@ -255,14 +255,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3jl5jtl"
+            "short_news_url": "https://nyti.ms/3jl5jtl"
         }
     },
     {
         "title": "Couple in Submarine Spy Case Stewed Over Money and Politics",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
         "content": "Jonathan and Diana Toebbe, charged with trying to sell classified nuclear secrets to a foreign power, struggled with finances, family and the state of America.",
         "ranked": 7,
         "placed": "First_Page",
@@ -296,7 +296,7 @@
             "geo_facet": [
                 "Washington Navy Yard (Washington, DC)"
             ],
-            "short_news_news_url": "https://nyti.ms/3vtZEGd"
+            "short_news_url": "https://nyti.ms/3vtZEGd"
         }
     }
 ]

@@ -3,7 +3,7 @@
         "title": "Nadia Chaudhri, Scientist With an End-of-Life Mission, Dies at 43",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_news_url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
         "content": "She documented her last months with ovarian cancer on Twitter while raising funds to support students from backgrounds that are underrepresented in the sciences.",
         "ranked": 0,
         "placed": "First_Page",
@@ -33,14 +33,14 @@
                 "Chaudhri, Nadia (1978-2021)"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2ZdrhaT"
+            "short_news_url": "https://nyti.ms/2ZdrhaT"
         }
     },
     {
         "title": "Review: \u2018Song of Solomon,\u2019 by Toni Morrison",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/books/review/song-of-solomon-toni-morrison.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/books/review/song-of-solomon-toni-morrison.html",
         "content": "In the deep, sprawling 1977 story of Milkman Dead, the reviewer Reynolds Price found evidence for \u201cthe possibility of transcendence within human life.\u201d",
         "ranked": 1,
         "placed": "First_Page",
@@ -64,14 +64,14 @@
                 "Morrison, Toni"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3m11gnG"
+            "short_news_url": "https://nyti.ms/3m11gnG"
         }
     },
     {
         "title": "The Best Workout for Middle-Aged Bodies",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
         "content": "Research shows that becoming fit in middle age will give you more years of good health \u2014 and the most effective exercise for a middle-aged body can be easier and faster than you might think.",
         "ranked": 2,
         "placed": "First_Page",
@@ -94,14 +94,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3G6e18N"
+            "short_news_url": "https://nyti.ms/3G6e18N"
         }
     },
     {
         "title": "How I Became a Sick Person",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
         "content": "A sudden descent into a chronic illness. ",
         "ranked": 3,
         "placed": "First_Page",
@@ -130,14 +130,14 @@
             "geo_facet": [
                 "Connecticut"
             ],
-            "short_news_news_url": "https://nyti.ms/3npekCS"
+            "short_news_url": "https://nyti.ms/3npekCS"
         }
     },
     {
         "title": "Democrats\u2019 Divide: Should Obama-Era Economic Ideas Prevail in 2021?",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/upshot/deficit-public-debt-debate.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/upshot/deficit-public-debt-debate.html",
         "content": "A more traditional view is competing against a newer approach that has become mainstream among economists.",
         "ranked": 4,
         "placed": "First_Page",
@@ -165,14 +165,14 @@
                 "Obama, Barack"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2Z2v7Um"
+            "short_news_url": "https://nyti.ms/2Z2v7Um"
         }
     },
     {
         "title": "Alec Baldwin Was Told Gun in Fatal Shooting on Set Was Safe, Officials Say",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
         "content": "The actor was told a gun being used as a prop was safe before he fired it on the set of \u201cRust,\u201d killing the film\u2019s cinematographer and wounding its director, law enforcement officials said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -203,14 +203,14 @@
                 "Santa Fe (NM)",
                 "New Mexico"
             ],
-            "short_news_news_url": "https://nyti.ms/30FtFrc"
+            "short_news_url": "https://nyti.ms/30FtFrc"
         }
     },
     {
         "title": "Alec Baldwin Film Set Had Previous Accidental Gun Discharges, Crew Members Say",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/us/alec-baldwin-rust-shooting.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/us/alec-baldwin-rust-shooting.html",
         "content": "They expressed concerns over gun mishaps and working conditions just days before the shooting that killed the cinematographer Halyna Hutchins.",
         "ranked": 6,
         "placed": "First_Page",
@@ -242,14 +242,14 @@
                 "Albuquerque (NM)",
                 "Santa Fe (NM)"
             ],
-            "short_news_news_url": "https://nyti.ms/3nltFEG"
+            "short_news_url": "https://nyti.ms/3nltFEG"
         }
     },
     {
         "title": "\u2018Needle Spiking\u2019 of Women in Britain Stirs Alarm Over New Kind of Assault",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html",
         "content": "Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. \u201cThis is a new depth,\u2019\u2019 said a former chief of police.",
         "ranked": 7,
         "placed": "First_Page",
@@ -277,7 +277,7 @@
                 "England",
                 "Great Britain"
             ],
-            "short_news_news_url": "https://nyti.ms/3nhbgZr"
+            "short_news_url": "https://nyti.ms/3nhbgZr"
         }
     }
 ]

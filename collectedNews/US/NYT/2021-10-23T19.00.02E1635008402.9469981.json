@@ -3,7 +3,7 @@
         "title": "Stymied Before, Trump Finds Backing for His Own Media Venture",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_news_url": "https://www.nytimes.com/2021/10/20/us/politics/trump-media-spac.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/us/politics/trump-media-spac.html",
         "content": "A merger could give the former president access to nearly $300 million in cash \u2014 and perhaps a new platform.",
         "ranked": 0,
         "placed": "First_Page",
@@ -31,14 +31,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3vzXVPF"
+            "short_news_url": "https://nyti.ms/3vzXVPF"
         }
     },
     {
         "title": "The Best Workout for Middle-Aged Bodies",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
         "content": "Research shows that becoming fit in middle age will give you more years of good health \u2014 and the most effective exercise for a middle-aged body can be easier and faster than you might think.",
         "ranked": 1,
         "placed": "First_Page",
@@ -61,14 +61,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3G6e18N"
+            "short_news_url": "https://nyti.ms/3G6e18N"
         }
     },
     {
         "title": "Beef Has Issues. This Seattle Steakhouse Agrees.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_news_url": "https://www.nytimes.com/2021/10/19/dining/beef-steakhouse-climate-change.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/dining/beef-steakhouse-climate-change.html",
         "content": "Bateau aims to reinvent the steak restaurant by showing how to sidestep the waste and environmental damage caused by the meat industry.",
         "ranked": 2,
         "placed": "First_Page",
@@ -102,14 +102,14 @@
             "geo_facet": [
                 "Seattle (Wash)"
             ],
-            "short_news_news_url": "https://nyti.ms/3vxXh5q"
+            "short_news_url": "https://nyti.ms/3vxXh5q"
         }
     },
     {
         "title": "Kyrsten Sinema\u2019s Style Keeps Us Guessing",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 3,
         "placed": "First_Page",
@@ -140,14 +140,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3n82nRS"
+            "short_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "Online Furor Over a Student\u2019s Hijab Engulfs a Liberal Town",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_news_url": "https://www.nytimes.com/2021/10/22/nyregion/hijab-muslim-nj-student.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/nyregion/hijab-muslim-nj-student.html",
         "content": "A 7-year-old told her mother that she resisted a New Jersey teacher\u2019s attempt to pull off her Muslim head covering. It spiraled from there.",
         "ranked": 4,
         "placed": "First_Page",
@@ -178,14 +178,14 @@
             "geo_facet": [
                 "Maplewood (NJ)"
             ],
-            "short_news_news_url": "https://nyti.ms/3jsXrpJ"
+            "short_news_url": "https://nyti.ms/3jsXrpJ"
         }
     },
     {
         "title": "Vinyl Is Selling So Well That It\u2019s Getting Hard to Sell Vinyl",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/arts/music/vinyl-records-delays.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/arts/music/vinyl-records-delays.html",
         "content": "Left for dead in the 1980s, vinyl records are now the music industry\u2019s most popular and highest-grossing physical format. Getting them manufactured, however, is increasingly a challenge.",
         "ranked": 5,
         "placed": "First_Page",
@@ -215,14 +215,14 @@
                 "Hofstetter, Karl"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2ZhjOaT"
+            "short_news_url": "https://nyti.ms/2ZhjOaT"
         }
     },
     {
         "title": "Fear on Cape Cod as Sharks Hunt Again",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_news_url": "https://www.nytimes.com/interactive/2021/10/20/magazine/sharks-cape-cod.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/20/magazine/sharks-cape-cod.html",
         "content": "The apex predator is back along New England\u2019s beaches. What will it take to keep people safe?",
         "ranked": 6,
         "placed": "First_Page",
@@ -265,14 +265,14 @@
                 "Cape Cod (Mass)",
                 "Nova Scotia (Canada)"
             ],
-            "short_news_news_url": "https://nyti.ms/3jjqax2"
+            "short_news_url": "https://nyti.ms/3jjqax2"
         }
     },
     {
         "title": "I Was Wrong About Donald Trump",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_news_url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
         "content": "Democrats need a bigger, bolder campaign blueprint to save democracy that doesn\u2019t hinge on the whims of Congress.",
         "ranked": 7,
         "placed": "First_Page",
@@ -306,14 +306,14 @@
                 "Virginia",
                 "Georgia"
             ],
-            "short_news_news_url": "https://nyti.ms/3nbFbm0"
+            "short_news_url": "https://nyti.ms/3nbFbm0"
         }
     },
     {
         "title": "The True Cost of Upgrading Your Phone",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_news_url": "https://www.nytimes.com/2021/10/20/technology/personaltech/iphone-upgrades-cost.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/technology/personaltech/iphone-upgrades-cost.html",
         "content": "Buying a $1,000 iPhone can be equivalent to giving up $17,000 in retirement savings or 2,500 cups of coffee.",
         "ranked": 8,
         "placed": "First_Page",
@@ -341,7 +341,7 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3m6HM1j"
+            "short_news_url": "https://nyti.ms/3m6HM1j"
         }
     }
 ]

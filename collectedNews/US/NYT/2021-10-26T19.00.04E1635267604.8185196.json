@@ -3,7 +3,7 @@
         "title": "Birx testifies that Trump\u2019s White House failed to take steps to prevent more virus deaths.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/us/politics/birx-trump-covid-deaths.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/politics/birx-trump-covid-deaths.html",
         "content": "Dr. Deborah Birx, who helped run the pandemic response for former President Donald J. Trump, lashed out at Dr. Scott Atlas, a former Stanford neuroradiologist who advised Mr. Trump and advocated for allowing the virus to spread through much of the population.",
         "ranked": 0,
         "placed": "Politics",
@@ -28,14 +28,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2XQcsui"
+            "short_news_url": "https://nyti.ms/2XQcsui"
         }
     },
     {
         "title": "Here\u2019s what happens next if an F.D.A. panel recommends pediatric Covid shots.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/us/politics/covid-children-kids-vaccine.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/politics/covid-children-kids-vaccine.html",
         "content": "Once the experts weigh in, the Food and Drug Administration itself makes a decision and then a similar process happens at the Centers for Disease Control and Prevention.",
         "ranked": 1,
         "placed": "Politics",
@@ -65,14 +65,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3jzy31t"
+            "short_news_url": "https://nyti.ms/3jzy31t"
         }
     },
     {
         "title": "An F.D.A. panel is considering whether Pfizer-BioNTech\u2019s vaccine should be authorized for young children.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/us/pfizer-fda-covid-vaccine-kids.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/pfizer-fda-covid-vaccine-kids.html",
         "content": "Federal officials hope the pediatric dose can help close a major gap in the nation\u2019s vaccine campaign that has worried parents, educators and public health leaders.",
         "ranked": 2,
         "placed": "Politics",
@@ -98,14 +98,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3EgA4rp"
+            "short_news_url": "https://nyti.ms/3EgA4rp"
         }
     },
     {
         "title": "Rising Prices, Once Seen as Temporary, Threaten Biden\u2019s Agenda",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/business/economy/biden-inflation.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/business/economy/biden-inflation.html",
         "content": "Supply chain disruptions, a worker shortage and pain at the gasoline pump have made inflation an economic and political problem for the White House.",
         "ranked": 3,
         "placed": "Politics",
@@ -132,14 +132,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3EbFF2a"
+            "short_news_url": "https://nyti.ms/3EbFF2a"
         }
     },
     {
         "title": "In Virginia Governor\u2019s Race, Biden Barely Rates a Mention",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/us/politics/terry-mcauliffe-biden.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/politics/terry-mcauliffe-biden.html",
         "content": "Terry McAuliffe attacks Trump, but avoids talking about his Democratic ally in the White House \u2014 pointing up a vulnerability for the party next Tuesday, and beyond.",
         "ranked": 4,
         "placed": "Politics",
@@ -168,14 +168,14 @@
             "geo_facet": [
                 "Virginia"
             ],
-            "short_news_news_url": "https://nyti.ms/3pzVZpu"
+            "short_news_url": "https://nyti.ms/3pzVZpu"
         }
     },
     {
         "title": "White House to Name Rosenworcel as F.C.C.\u2019s First Female Leader",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_news_url": "https://www.nytimes.com/2021/10/26/us/politics/jessica-rosenworcel-fcc.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/politics/jessica-rosenworcel-fcc.html",
         "content": "Jessica Rosenworcel, the acting chairwoman of the powerful regulator, campaigned vigorously for a permanent appointment.",
         "ranked": 5,
         "placed": "Politics",
@@ -208,14 +208,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/30REPJw"
+            "short_news_url": "https://nyti.ms/30REPJw"
         }
     },
     {
         "title": "Biden and Democrats Push for Budget Deal This Week as Rifts Remain",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/us/politics/biden-democrats-reconciliation-bill.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/us/politics/biden-democrats-reconciliation-bill.html",
         "content": "Negotiators were closing in on a deal that could spend around $1.75 trillion, but lawmakers were still haggling over critical disagreements on the sprawling social policy bill.",
         "ranked": 6,
         "placed": "Politics",
@@ -253,14 +253,14 @@
                 "Schumer, Charles E"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3jBzddb"
+            "short_news_url": "https://nyti.ms/3jBzddb"
         }
     },
     {
         "title": "Manchin pushes for more climate cuts from the budget bill.",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/us/politics/manchin-climate-budget.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/us/politics/manchin-climate-budget.html",
         "content": "He has already effectively succeeded in stripping the bill of its most powerful climate change provision.",
         "ranked": 7,
         "placed": "Politics",
@@ -285,14 +285,14 @@
             "geo_facet": [
                 "Glasgow (Scotland)"
             ],
-            "short_news_news_url": "https://nyti.ms/3CiEgpW"
+            "short_news_url": "https://nyti.ms/3CiEgpW"
         }
     },
     {
         "title": "Proposed Tax on Billionaires Raises Question: What\u2019s Income?",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/upshot/biden-tax-billionaires.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/upshot/biden-tax-billionaires.html",
         "content": "Democrats are homing in on unrealized capital gains raises as a way to help fund their social spending bill.",
         "ranked": 8,
         "placed": "Politics",
@@ -321,14 +321,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3BbMn6A"
+            "short_news_url": "https://nyti.ms/3BbMn6A"
         }
     },
     {
         "title": "Unvaccinated children and some people from countries with low rates will be exempted from new U.S. travel rules.",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/us/politics/vaccine-mandate-travel-us.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/us/politics/vaccine-mandate-travel-us.html",
         "content": "The Biden administration has announced that it would lift travel restrictions on Nov. 8 and reopen the United States to fully vaccinated international travelers.",
         "ranked": 9,
         "placed": "Politics",
@@ -354,14 +354,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_news_news_url": "https://nyti.ms/3nqMSoq"
+            "short_news_url": "https://nyti.ms/3nqMSoq"
         }
     },
     {
         "title": "Missing Foreign Workers Add to Hiring Challenges",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/business/economy/foreign-workers-shortage-hiring.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/business/economy/foreign-workers-shortage-hiring.html",
         "content": "Fewer foreign people have been able to work in the U.S. amid the coronavirus, leaving a hole in the potential labor force.",
         "ranked": 10,
         "placed": "Politics",
@@ -394,14 +394,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/2ZnaMZH"
+            "short_news_url": "https://nyti.ms/2ZnaMZH"
         }
     },
     {
         "title": "Border Patrol Repeatedly Gave Agents Light Punishments, Report Finds",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/us/politics/border-patrol-discipline.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/us/politics/border-patrol-discipline.html",
         "content": "After an inquiry into a private Facebook group where racist memes were shared, 60 employees were found to have violated the agency\u2019s code of conduct. Two were fired.",
         "ranked": 11,
         "placed": "Politics",
@@ -434,14 +434,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/314cP5P"
+            "short_news_url": "https://nyti.ms/314cP5P"
         }
     },
     {
         "title": "Biden\u2019s visit to New Jersey highlights a debate over SALT.",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/us/politics/bidens-new-jersey-highlights-salt.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/us/politics/bidens-new-jersey-highlights-salt.html",
         "content": "The SALT limit helped Democrats capture some House seats previously held by Republicans in New Jersey, California and elsewhere. Many of those representatives are pushing to lift the cap now.",
         "ranked": 12,
         "placed": "Politics",
@@ -466,14 +466,14 @@
             "geo_facet": [
                 "New Jersey"
             ],
-            "short_news_news_url": "https://nyti.ms/3pACfSL"
+            "short_news_url": "https://nyti.ms/3pACfSL"
         }
     },
     {
         "title": "The World \u2018Has Found a Way to Do This\u2019: The U.S. Lags on Paid Leave",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html",
         "content": "The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier.",
         "ranked": 13,
         "placed": "Politics",
@@ -500,14 +500,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_news_news_url": "https://nyti.ms/30XORci"
+            "short_news_url": "https://nyti.ms/30XORci"
         }
     },
     {
         "title": "Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_news_url": "https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html",
         "content": "The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world.",
         "ranked": 14,
         "placed": "Politics",
@@ -541,14 +541,14 @@
             "geo_facet": [
                 "Russia"
             ],
-            "short_news_news_url": "https://nyti.ms/3B9GuH2"
+            "short_news_url": "https://nyti.ms/3B9GuH2"
         }
     },
     {
         "title": "Biden Meets With Manchin and Schumer as Democrats Race to Finish Social Policy Bill",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_news_url": "https://www.nytimes.com/2021/10/24/us/politics/biden-manchin-schumer-spending-bill.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/us/politics/biden-manchin-schumer-spending-bill.html",
         "content": "Speaker Nancy Pelosi said she hoped to pass an infrastructure bill and have a deal in hand on the social policy bill by the end of the week.",
         "ranked": 15,
         "placed": "Politics",
@@ -581,14 +581,14 @@
                 "Schumer, Charles E"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3jto0es"
+            "short_news_url": "https://nyti.ms/3jto0es"
         }
     },
     {
         "title": "A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_news_url": "https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html",
         "content": "The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years.",
         "ranked": 16,
         "placed": "Politics",
@@ -625,14 +625,14 @@
                 "Somalia",
                 "Mogadishu (Somalia)"
             ],
-            "short_news_news_url": "https://nyti.ms/3npsu7a"
+            "short_news_url": "https://nyti.ms/3npsu7a"
         }
     },
     {
         "title": "Where Facts Were No Match for Fear",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
         "content": "Civic boosters in central Montana hoped for some federal money to promote tourism. A disinformation campaign got in the way.",
         "ranked": 17,
         "placed": "Politics",
@@ -669,14 +669,14 @@
                 "Cascade County (Mont)",
                 "Montana"
             ],
-            "short_news_news_url": "https://nyti.ms/3EawhvP"
+            "short_news_url": "https://nyti.ms/3EawhvP"
         }
     },
     {
         "title": "Biden delays the release of remaining J.F.K. assassination records, citing the pandemic.",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/us/politics/jfk-assassination-pandemic.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/us/politics/jfk-assassination-pandemic.html",
         "content": "The National Archives require additional time to work on redactions, a White House statement on Friday said.",
         "ranked": 18,
         "placed": "Politics",
@@ -704,14 +704,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3Ce0f1x"
+            "short_news_url": "https://nyti.ms/3Ce0f1x"
         }
     },
     {
         "title": "Letitia James Isn\u2019t Saying Whether She\u2019s Running for Governor. But She Is Hiring.",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/nyregion/letitia-james-new-york-governor.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/nyregion/letitia-james-new-york-governor.html",
         "content": "Ms. James, the New York attorney general, has recently recruited several advisers and fund-raisers ahead of a possible run for the state\u2019s top office.",
         "ranked": 19,
         "placed": "Politics",
@@ -742,14 +742,14 @@
             "geo_facet": [
                 "New York State"
             ],
-            "short_news_news_url": "https://nyti.ms/3Gq485Y"
+            "short_news_url": "https://nyti.ms/3Gq485Y"
         }
     },
     {
         "title": "U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html",
         "content": "No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain.",
         "ranked": 20,
         "placed": "Politics",
@@ -783,14 +783,14 @@
                 "Kosovo",
                 "Afghanistan"
             ],
-            "short_news_news_url": "https://nyti.ms/3vBOjUy"
+            "short_news_url": "https://nyti.ms/3vBOjUy"
         }
     },
     {
         "title": "Biden the Dealmaker Finds That Compromise Can Have Consequences",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_news_url": "https://www.nytimes.com/2021/10/23/us/politics/biden-polls-spending-bill.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/us/politics/biden-polls-spending-bill.html",
         "content": "The president pushed for an expansive agenda knowing that he would most likely have to pare it back, leaving a sense of disappointment that could hurt his party at the polls.",
         "ranked": 21,
         "placed": "Politics",
@@ -819,7 +819,7 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_news_url": "https://nyti.ms/3pzHuls"
+            "short_news_url": "https://nyti.ms/3pzHuls"
         }
     }
 ]
