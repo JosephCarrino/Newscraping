@@ -3,7 +3,7 @@
         "title": "Hat jemand gelacht?",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/kultur/2021-10/david-chappelle-closer-netflix-kommentar",
+        "news_url": "https://www.zeit.de/kultur/2021-10/david-chappelle-closer-netflix-kommentar",
         "content": "Dem US-Comedian David Chappelle wird Transphobie vorgeworfen. Netflix solle die Show absetzen. Der Kritik liegt ein tiefes Missverst\u00e4ndnis von Erz\u00e4hlkunst zugrunde.",
         "ranked": 0,
         "epoch": 1634656085.8677843
@@ -12,7 +12,7 @@
         "title": "Ippen pr\u00fcft Ver\u00f6ffentlichung weiterer Recherchen zu Julian Reichelt",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/wirtschaft/unternehmen/2021-10/dirk-ippen-julian-reichelt-recherche-bild-spiegel-veroeffentlichung",
+        "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-10/dirk-ippen-julian-reichelt-recherche-bild-spiegel-veroeffentlichung",
         "content": "Verleger Ippen hatte die Ver\u00f6ffentlichung der Recherche zur \"Bild\"-Zeitung gestoppt, sie erschien dann teils im \"Spiegel\". Nun k\u00f6nnte weiteres Material publiziert werden.",
         "ranked": 1,
         "epoch": 1634656085.8677871
@@ -21,7 +21,7 @@
         "title": "Warum die Politik schuld an \u00dcbergewicht sein k\u00f6nnte",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/gesundheit/2021-10/ernaehrung-uebergewicht-essen-gesundheit-diabetes-gesundheit",
+        "news_url": "https://www.zeit.de/gesundheit/2021-10/ernaehrung-uebergewicht-essen-gesundheit-diabetes-gesundheit",
         "content": "Junkfood ist zu g\u00fcnstig, Kantinenessen ungesund. Und was macht die Politik dagegen? Viel zu wenig. Experten erkl\u00e4ren, wie sie Menschen zu gesundem Essen bewegen sollte.",
         "ranked": 2,
         "epoch": 1634656085.8677886
@@ -30,7 +30,7 @@
         "title": "Mehr als 10.000 Kinder im B\u00fcrgerkrieg im Jemen verwundet oder get\u00f6tet",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/politik/ausland/2021-10/jemen-buergerkrieg-unicef-kinder-10000-verwundet-getoetet",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/jemen-buergerkrieg-unicef-kinder-10000-verwundet-getoetet",
         "content": "Seit 2015 herrscht B\u00fcrgerkrieg im Jemen \u2013 laut UN die schlimmste humanit\u00e4re Krise der Welt. Vor allem Kinder leiden: Tausende wurden get\u00f6tet, Zehntausende vertrieben.",
         "ranked": 3,
         "epoch": 1634656085.8677895
@@ -39,7 +39,7 @@
         "title": "Die Jagd auf Julian Assange",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/gesellschaft/2021-10/julian-assange-wikileaks-gruender-verbrechen-podcast",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-10/julian-assange-wikileaks-gruender-verbrechen-podcast",
         "content": "Er war der Star der Enth\u00fcllungsszene und legte sich mit der Weltmacht USA an. Jetzt sitzt er im Gef\u00e4ngnis. Was geschah mit Julian Assange?",
         "ranked": 4,
         "epoch": 1634656085.8677907
@@ -48,7 +48,7 @@
         "title": "Wieder ungefilterte Realit\u00e4t",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/kultur/literatur/2021-10/frankfurter-buchmesse-corona-markenkern-handeln-wirtschaftsmesse",
+        "news_url": "https://www.zeit.de/kultur/literatur/2021-10/frankfurter-buchmesse-corona-markenkern-handeln-wirtschaftsmesse",
         "content": "An diesem Mittwoch er\u00f6ffnet die Buchmesse in Frankfurt. Sie ist gr\u00f6\u00dfer als im ersten Jahr der Pandemie. Dass sie wieder so wird wie davor, ist unwahrscheinlich.",
         "ranked": 5,
         "epoch": 1634656085.8677945
@@ -57,7 +57,7 @@
         "title": "Die europ\u00e4ische Spitze ist das Ziel",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/sport/2021-10/ajax-amsterdam-fussball-verein-liga-europa",
+        "news_url": "https://www.zeit.de/sport/2021-10/ajax-amsterdam-fussball-verein-liga-europa",
         "content": "Lange galt Ajax Amsterdam als abgeh\u00e4ngter Traditionsverein. Doch der Club hofft auf ein Combeack. Eine neue Liga k\u00f6nnte dabei helfen.",
         "ranked": 6,
         "epoch": 1634656085.8677955
@@ -66,7 +66,7 @@
         "title": "Urlaub, so viel man will",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/arbeit/2021-09/unbegrenzte-urlaubstage-hamburg-appino-netflix-zufriedenheit-mitarbeiter-leistung-nachteile",
+        "news_url": "https://www.zeit.de/arbeit/2021-09/unbegrenzte-urlaubstage-hamburg-appino-netflix-zufriedenheit-mitarbeiter-leistung-nachteile",
         "content": "Einige Firmen bieten ihren Angestellten unbegrenzt Urlaub an, weil Vorreiter wie Netflix damit Erfolg haben. Doch die Mitarbeiter nehmen oft weniger frei als gew\u00fcnscht.",
         "ranked": 7,
         "epoch": 1634656085.8677962
@@ -75,7 +75,7 @@
         "title": "Flughafen Frankfurt-Hahn ist insolvent",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/wirtschaft/unternehmen/2021-10/flughafen-frankfurt-hahn-amtsgericht-bad-kreuznach-insolvenz",
+        "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-10/flughafen-frankfurt-hahn-amtsgericht-bad-kreuznach-insolvenz",
         "content": "Vor der Corona-Pandemie war der Flughafen Frankfurt-Hahn der zehntgr\u00f6\u00dfte Passagierflughafen Deutschlands. Nun ist der Airport in Rheinland-Pfalz insolvent.",
         "ranked": 8,
         "epoch": 1634656085.867797
@@ -84,7 +84,7 @@
         "title": "Keine Impfung, keine Spiele",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/sport/2021-10/nba-corona-impfung-kyrie-irving-suspendierung",
+        "news_url": "https://www.zeit.de/sport/2021-10/nba-corona-impfung-kyrie-irving-suspendierung",
         "content": "Impfen ist Privatsache? Nicht f\u00fcr die Profis der NBA, die in dieser Woche startet. Einer ihrer gr\u00f6\u00dften Stars wurde nun suspendiert \u2013 weil er den Piks verweigert.",
         "ranked": 9,
         "epoch": 1634656085.8677979
@@ -93,7 +93,7 @@
         "title": "Anklage gegen Ex-Sekret\u00e4rin des Konzentrationslagers Stutthof verlesen",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/kz-sekretaerin-stutthof-prozess-nationalsozialismus-mord",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/kz-sekretaerin-stutthof-prozess-nationalsozialismus-mord",
         "content": "Vor dem Prozessbeginn ist sie kurz untergetaucht. Nun muss sich die fr\u00fchere KZ-Sekret\u00e4rin Irmgard F. vor Gericht wegen Beihilfe zum Mord in Tausenden F\u00e4llen verantworten.",
         "ranked": 10,
         "epoch": 1634656085.8677988
@@ -102,7 +102,7 @@
         "title": "Baukasten im Wok",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-10/thailaendisches-kuerbis-huhn-curry-herbstrezept",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-10/thailaendisches-kuerbis-huhn-curry-herbstrezept",
         "content": "Wer einer Handvoll Regeln folgt, kann beim Curry nichts falsch machen. Aus Lauch, \u00d6l, Paste und Gem\u00fcse wird so ein buntes Miteinander.",
         "ranked": 11,
         "epoch": 1634656085.8677995
@@ -111,7 +111,7 @@
         "title": "Claudia Roth bewirbt sich um Posten im Bundestagspr\u00e4sidium",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/politik/deutschland/2021-10/bundestag-praesidentin-claudia-roth-gruene-posten",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-10/bundestag-praesidentin-claudia-roth-gruene-posten",
         "content": "Die Gr\u00fcnen-Politikerin kennt die Aufgaben als Vizepr\u00e4sidentin des Bundestags sehr gut: Sie hat das Amt seit 2013 inne. Sie will den Job auch in Zukunft weiterf\u00fchren.",
         "ranked": 12,
         "epoch": 1634656085.8678002
@@ -120,7 +120,7 @@
         "title": "Viele Milliarden f\u00fcr Jobs, die kaum zum Leben reichen",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/wirtschaft/2021-10/ampel-koalition-sondierungsergebnis-grundsicherung-minijob-mindestlohn-rente",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-10/ampel-koalition-sondierungsergebnis-grundsicherung-minijob-mindestlohn-rente",
         "content": "Zw\u00f6lf Euro Mindestlohn, ein B\u00fcrgergeld und Minijob-Reformen: Viele Pl\u00e4ne von SPD, FDP und Gr\u00fcne klingen gut. Doch ein radikaler Systemwechsel ist es nicht.",
         "ranked": 13,
         "epoch": 1634656085.8678012
@@ -129,7 +129,7 @@
         "title": "W\u00fcrden Die 49 Cannabis legalisieren?",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/gesellschaft/2021-10/cannabis-legalisierung-ampel-koalition-drogen-verbot-die-49",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-10/cannabis-legalisierung-ampel-koalition-drogen-verbot-die-49",
         "content": "Wenn SPD, Gr\u00fcne und FDP gemeinsam regieren, k\u00f6nnten sie das Verbot von Cannabis kippen. Na endlich \u2013 oder doch: Bitte nicht? Wie Die 49 zur Freigabe stehen.",
         "ranked": 14,
         "epoch": 1634656085.867802
@@ -138,7 +138,7 @@
         "title": "Pr\u00e4sident von Ecuador ruft Notstand aus",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/politik/ausland/2021-10/ecuador-notstand-guillermo-lasso-kriminalitaet-drogen-suedamerika",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/ecuador-notstand-guillermo-lasso-kriminalitaet-drogen-suedamerika",
         "content": "Wegen der Drogenkriminalit\u00e4t kommt es in Ecuador immer wieder zu Gewalt \u2013 vor allem in Gef\u00e4ngnissen. Der Pr\u00e4sident reagiert nun mit Milit\u00e4rpr\u00e4senz auf den Stra\u00dfen.",
         "ranked": 15,
         "epoch": 1634656085.8678026
@@ -147,7 +147,7 @@
         "title": "Lkw-Fahrer verdienen in Deutschland unterdurchschnittlich",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/wirtschaft/2021-10/lkw-stundenlohn-unter-durchnschnitt-fachkraefte-verdienst",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-10/lkw-stundenlohn-unter-durchnschnitt-fachkraefte-verdienst",
         "content": "In Deutschland verdienen angelernte Arbeiter durchschnittlich mehr, als ausgebildete Lkw-Fahrer. Dabei sind die Fernfahrer nicht erst seit dem Brexit gefragt und wichtig.",
         "ranked": 16,
         "epoch": 1634656085.8678033
@@ -156,7 +156,7 @@
         "title": "Studie bescheinigt Deutschland mangelhafte Ern\u00e4hrungspolitik",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/gesundheit/2021-10/food-epi-deutschland-ernaehrungspolitik-mangelhaft-studie-adipositas-diabetes",
+        "news_url": "https://www.zeit.de/gesundheit/2021-10/food-epi-deutschland-ernaehrungspolitik-mangelhaft-studie-adipositas-diabetes",
         "content": "Zahlreiche verbreitete Krankheiten gehen auf schlechte Ern\u00e4hrung zur\u00fcck. Die deutschen Bem\u00fchungen, gesundes Essen zu f\u00f6rdern, entt\u00e4uschen im internationalen Vergleich.",
         "ranked": 17,
         "epoch": 1634656085.867804
@@ -165,7 +165,7 @@
         "title": "Klimawandel trifft Afrika unverh\u00e4ltnism\u00e4\u00dfig stark",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/politik/ausland/2021-10/klimakrise-afrika-un-klimabericht-flucht-armut",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/klimakrise-afrika-un-klimabericht-flucht-armut",
         "content": "Gletscher schmelzen, Millionen Menschen sind aus Hunger auf der Flucht: Die Klimakrise hat in Afrika laut UN-Klimabericht weitreichendere Folgen als bislang angenommen.",
         "ranked": 18,
         "epoch": 1634656085.8678074
@@ -174,7 +174,7 @@
         "title": "Polen wirft der EU Erpressung vor",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.zeit.de/politik/ausland/2021-10/polen-eu-recht-sanktionen-ursula-von-der-leyen-kommission",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/polen-eu-recht-sanktionen-ursula-von-der-leyen-kommission",
         "content": "Die EU-Kommission droht Polen mit Sanktionen, weil der Staat EU-Recht infrage stellt. Regierungschef Morawiecki spricht von Erpressung \u2013 will aber in der EU bleiben.",
         "ranked": 19,
         "epoch": 1634656085.8678083

@@ -3,7 +3,7 @@
         "title": "Salmonella Outbreak Linked to Onions Sickens More Than 650",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/us/onions-salmonella-outbreak-recall.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/us/onions-salmonella-outbreak-recall.html",
         "content": "The C.D.C. urged consumers to throw away any whole red, white or yellow onions they purchased that do not have a sticker or packaging.",
         "ranked": 0,
         "placed": "First_Page",
@@ -35,14 +35,14 @@
                 "Chihuahua (Mexico)",
                 "Idaho"
             ],
-            "short_url": "https://nyti.ms/3jlRxqw"
+            "short_news_url": "https://nyti.ms/3jlRxqw"
         }
     },
     {
         "title": "She Searched the East Side of Manhattan With a $625,000 Budget. Which Apartment Would You Choose?",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/interactive/2021/10/21/realestate/21hunt-small.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/21/realestate/21hunt-small.html",
         "content": "A lifelong New Yorker hoped to realize her dream of owning a home in Manhattan, but could she afford a one-bedroom near her office? Here\u2019s what she found.",
         "ranked": 1,
         "placed": "First_Page",
@@ -66,14 +66,14 @@
                 "Stuyvesant Square (Manhattan, NY)",
                 "Gramercy Park (Manhattan, NY)"
             ],
-            "short_url": "https://nyti.ms/3nhOcty"
+            "short_news_url": "https://nyti.ms/3nhOcty"
         }
     },
     {
         "title": "Kyrsten Sinema\u2019s Style Keeps Us Guessing",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 2,
         "placed": "First_Page",
@@ -104,14 +104,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n82nRS"
+            "short_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "Texas Nurse Is Found Guilty of Killing 4 Patients by Injecting Them With Air",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/us/texas-nurse-air-injections.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/us/texas-nurse-air-injections.html",
         "content": "William Davis \u2014 who worked at Christus Mother Frances Hospital in Tyler, Texas \u2014 could face the death penalty. The victims had undergone heart surgery.",
         "ranked": 3,
         "placed": "First_Page",
@@ -143,14 +143,14 @@
                 "Tyler (Tex)",
                 "Texas"
             ],
-            "short_url": "https://nyti.ms/3DWBFmb"
+            "short_news_url": "https://nyti.ms/3DWBFmb"
         }
     },
     {
         "title": "Fear on Cape Cod as Sharks Hunt Again",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/interactive/2021/10/20/magazine/sharks-cape-cod.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/20/magazine/sharks-cape-cod.html",
         "content": "The apex predator is back along New England\u2019s beaches. What will it take to keep people safe?",
         "ranked": 4,
         "placed": "First_Page",
@@ -193,14 +193,14 @@
                 "Cape Cod (Mass)",
                 "Nova Scotia (Canada)"
             ],
-            "short_url": "https://nyti.ms/3jjqax2"
+            "short_news_url": "https://nyti.ms/3jjqax2"
         }
     },
     {
         "title": "Alec Baldwin Fatally Shoots Crew Member With Prop Firearm, Authorities Say",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
         "content": "The movie\u2019s director of photography was killed and the director was injured on the set of \u201cRust,\u201d a Western, a sheriff\u2019s office in New Mexico said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -231,14 +231,14 @@
                 "Santa Fe (NM)",
                 "New Mexico"
             ],
-            "short_url": "https://nyti.ms/30FtFrc"
+            "short_news_url": "https://nyti.ms/30FtFrc"
         }
     },
     {
         "title": "I Was Wrong About Donald Trump",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
         "content": "Democrats need a bigger, bolder campaign blueprint to save democracy that doesn\u2019t hinge on the whims of Congress.",
         "ranked": 6,
         "placed": "First_Page",
@@ -272,14 +272,14 @@
                 "Virginia",
                 "Georgia"
             ],
-            "short_url": "https://nyti.ms/3nbFbm0"
+            "short_news_url": "https://nyti.ms/3nbFbm0"
         }
     },
     {
         "title": "Why the Popularity of \u2018Squid Game\u2019 Terrifies Me",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/opinion/squid-game-violence.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/opinion/squid-game-violence.html",
         "content": "What does the appeal of this violent, dystopian fantasy say about us?",
         "ranked": 7,
         "placed": "First_Page",
@@ -309,14 +309,14 @@
             "geo_facet": [
                 "South Korea"
             ],
-            "short_url": "https://nyti.ms/3vwscz0"
+            "short_news_url": "https://nyti.ms/3vwscz0"
         }
     },
     {
         "title": "Liz Cheney\u2019s Consultants Are Given an Ultimatum: Drop Her, or Be Dropped",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/us/politics/liz-cheney-kevin-mccarthy.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/liz-cheney-kevin-mccarthy.html",
         "content": "The message, delivered by a lobbyist close to the House minority leader, Kevin McCarthy, has already led one Republican firm to cut ties.",
         "ranked": 8,
         "placed": "First_Page",
@@ -347,7 +347,7 @@
             "geo_facet": [
                 "Wyoming"
             ],
-            "short_url": "https://nyti.ms/3E0xe9S"
+            "short_news_url": "https://nyti.ms/3E0xe9S"
         }
     }
 ]

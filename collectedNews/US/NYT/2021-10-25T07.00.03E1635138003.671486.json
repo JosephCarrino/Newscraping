@@ -3,7 +3,7 @@
         "title": "Long Arm of Russian Law Reaches Obscure Siberian Church",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html",
         "content": "The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest.",
         "ranked": 0,
         "placed": "Abroad",
@@ -37,14 +37,14 @@
                 "Russia",
                 "Siberia"
             ],
-            "short_url": "https://nyti.ms/3vEb3TW"
+            "short_news_url": "https://nyti.ms/3vEb3TW"
         }
     },
     {
         "title": "A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html",
         "content": "The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years.",
         "ranked": 1,
         "placed": "Abroad",
@@ -76,14 +76,14 @@
                 "Somalia",
                 "Mogadishu (Somalia)"
             ],
-            "short_url": "https://nyti.ms/3npsu7a"
+            "short_news_url": "https://nyti.ms/3npsu7a"
         }
     },
     {
         "title": "Heavy Is the Burden on Japan\u2019s Royal Women",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html",
         "content": "A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles.",
         "ranked": 2,
         "placed": "Abroad",
@@ -114,14 +114,14 @@
             "geo_facet": [
                 "Japan"
             ],
-            "short_url": "https://nyti.ms/3nhVu0w"
+            "short_news_url": "https://nyti.ms/3nhVu0w"
         }
     },
     {
         "title": "Please Don\u2019t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html",
         "content": "The chance to swim with the world\u2019s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around.",
         "ranked": 3,
         "placed": "Abroad",
@@ -150,14 +150,14 @@
             "geo_facet": [
                 "Philippines"
             ],
-            "short_url": "https://nyti.ms/3vEwpR3"
+            "short_news_url": "https://nyti.ms/3vEwpR3"
         }
     },
     {
         "title": "As Hong Kong\u2019s Civil Society Buckles, One Group Tries to Hold On",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html",
         "content": "Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate.",
         "ranked": 4,
         "placed": "Abroad",
@@ -186,14 +186,14 @@
             "geo_facet": [
                 "Hong Kong"
             ],
-            "short_url": "https://nyti.ms/3Gh0Wcv"
+            "short_news_url": "https://nyti.ms/3Gh0Wcv"
         }
     },
     {
         "title": "I Was Hacked. The Spyware Used Against Me Makes Us All Vulnerable.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/insider/hacking-nso-surveillance.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/insider/hacking-nso-surveillance.html",
         "content": "Invasive hacking software sold to countries to fight terrorism is easily abused. Researchers say my phone was hacked twice, probably by Saudi Arabia.",
         "ranked": 5,
         "placed": "Abroad",
@@ -229,14 +229,14 @@
                 "Israel",
                 "Saudi Arabia"
             ],
-            "short_url": "https://nyti.ms/3jwVgBr"
+            "short_news_url": "https://nyti.ms/3jwVgBr"
         }
     },
     {
         "title": "She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html",
         "content": "Sanitary pads and makeup: A Chinese astronaut\u2019s six-month stay aboard the country\u2019s space station has revealed conflicted cultural values toward gender.",
         "ranked": 6,
         "placed": "Abroad",
@@ -267,14 +267,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_url": "https://nyti.ms/3b4KMVu"
+            "short_news_url": "https://nyti.ms/3b4KMVu"
         }
     },
     {
         "title": "For India and Pakistan, Cricket Is Never Just a Game",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html",
         "content": "It\u2019s one of the greatest rivalries in sports, when war off the field allows it \u2014 a contest of national identities that will be renewed this Sunday in a World Cup match.",
         "ranked": 7,
         "placed": "Abroad",
@@ -302,14 +302,14 @@
                 "India",
                 "Kashmir and Jammu (India)"
             ],
-            "short_url": "https://nyti.ms/3GhdlNA"
+            "short_news_url": "https://nyti.ms/3GhdlNA"
         }
     },
     {
         "title": "Turkish Opposition Begins Joining Ranks Against Erdogan",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/middleeast/turkey-election-erdogan-opposition.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/middleeast/turkey-election-erdogan-opposition.html",
         "content": "With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system.",
         "ranked": 8,
         "placed": "Abroad",
@@ -343,14 +343,14 @@
             "geo_facet": [
                 "Turkey"
             ],
-            "short_url": "https://nyti.ms/2Zg888s"
+            "short_news_url": "https://nyti.ms/2Zg888s"
         }
     },
     {
         "title": "Taliban Honor Suicide Bombers\u2019 \u2018Sacrifices\u2019 in Bid to Rewrite History",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/asia/afghanistan-taliban-suicide-bombers.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/asia/afghanistan-taliban-suicide-bombers.html",
         "content": "The new government brought together the bombers\u2019 families at a publicized event, praising their actions but alienating those who have suffered at their hands.",
         "ranked": 9,
         "placed": "Abroad",
@@ -379,14 +379,14 @@
             "geo_facet": [
                 "Afghanistan"
             ],
-            "short_url": "https://nyti.ms/30L5Eiw"
+            "short_news_url": "https://nyti.ms/30L5Eiw"
         }
     },
     {
         "title": "\u2018Completely Lost\u2019: For Some Afghans, Returning Home Is as Difficult as Fleeing",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/asia/afghans-india-return-home.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/asia/afghans-india-return-home.html",
         "content": "Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home.",
         "ranked": 10,
         "placed": "Abroad",
@@ -413,14 +413,14 @@
                 "Delhi (India)",
                 "India"
             ],
-            "short_url": "https://nyti.ms/3B32pQ4"
+            "short_news_url": "https://nyti.ms/3B32pQ4"
         }
     },
     {
         "title": "\u2018Needle Spiking\u2019 of Women in Britain Stirs Alarm Over New Kind of Assault",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html",
         "content": "Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. \u201cThis is a new depth,\u2019\u2019 said a former chief of police.",
         "ranked": 11,
         "placed": "Abroad",
@@ -448,14 +448,14 @@
                 "England",
                 "Great Britain"
             ],
-            "short_url": "https://nyti.ms/3nhbgZr"
+            "short_news_url": "https://nyti.ms/3nhbgZr"
         }
     },
     {
         "title": "Erdogan Threatens to Expel 10 Western Ambassadors",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html",
         "content": "The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017.",
         "ranked": 12,
         "placed": "Abroad",
@@ -484,14 +484,14 @@
             "geo_facet": [
                 "Turkey"
             ],
-            "short_url": "https://nyti.ms/3BcJT7Q"
+            "short_news_url": "https://nyti.ms/3BcJT7Q"
         }
     },
     {
         "title": "How Russia Is Cashing In on Climate Change",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/europe/russia-arctic-climate-change-putin.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/europe/russia-arctic-climate-change-putin.html",
         "content": "Global warming may pose grave dangers around the world, but as one tiny Russian town on the Arctic Ocean shows, it can also be a ticket to prosperity.",
         "ranked": 13,
         "placed": "Abroad",
@@ -520,14 +520,14 @@
                 "Siberia",
                 "Suez Canal"
             ],
-            "short_url": "https://nyti.ms/3b3W78h"
+            "short_news_url": "https://nyti.ms/3b3W78h"
         }
     },
     {
         "title": "Sudan Rocked by Protests Amid Warnings of a Coup",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/world/africa/sudan-protests.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/africa/sudan-protests.html",
         "content": "Demonstrators burned tires and chanted slogans in the capital, Khartoum, and there was a \u201csignificant disruption\u201d to the internet.",
         "ranked": 14,
         "placed": "Abroad",
@@ -555,14 +555,14 @@
                 "Sudan",
                 "Africa"
             ],
-            "short_url": "https://nyti.ms/3pNFeYb"
+            "short_news_url": "https://nyti.ms/3pNFeYb"
         }
     },
     {
         "title": "Your Monday Briefing",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html",
         "content": "A failed playbook in Somalia.",
         "ranked": 15,
         "placed": "Abroad",
@@ -581,14 +581,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2ZkQ7FD"
+            "short_news_url": "https://nyti.ms/2ZkQ7FD"
         }
     },
     {
         "title": "Your Monday Briefing",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html",
         "content": "Facebook spreads misinformation in India.",
         "ranked": 16,
         "placed": "Abroad",
@@ -607,14 +607,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3m7uS2Y"
+            "short_news_url": "https://nyti.ms/3m7uS2Y"
         }
     },
     {
         "title": "Singer Ed Sheeran announces he has tested positive for the coronavirus.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/ed-sheeran-covid-positive.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/ed-sheeran-covid-positive.html",
         "content": "Mr. Sheeran said he would cancel upcoming public appearances while he is \u201cself-isolating and following government guidelines.\u201d",
         "ranked": 17,
         "placed": "Abroad",
@@ -638,14 +638,14 @@
                 "Sheeran, Ed"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vE3jS2"
+            "short_news_url": "https://nyti.ms/3vE3jS2"
         }
     },
     {
         "title": "Kenyan Olympian\u2019s Killing Exposes Surge of Violence Against Women",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html",
         "content": "Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested.",
         "ranked": 18,
         "placed": "Abroad",
@@ -673,14 +673,14 @@
                 "Kenya",
                 "Nairobi (Kenya)"
             ],
-            "short_url": "https://nyti.ms/2ZhDUkK"
+            "short_news_url": "https://nyti.ms/2ZhDUkK"
         }
     },
     {
         "title": "Cases grow in Germany, as a national state of emergency is set to expire next month.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/germany-covid-surge.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/germany-covid-surge.html",
         "content": "Infections have increased by 57 percent in the past two weeks, while deaths on average in the same period have increased by 11 percent.",
         "ranked": 19,
         "placed": "Abroad",
@@ -704,14 +704,14 @@
             "geo_facet": [
                 "Germany"
             ],
-            "short_url": "https://nyti.ms/3jxw9OV"
+            "short_news_url": "https://nyti.ms/3jxw9OV"
         }
     },
     {
         "title": "The U.S. and Israel were early world leaders on vaccinations. Now they are trailing.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html",
         "content": "The big barrier to higher rates in both countries is stiff resistance among specific groups.",
         "ranked": 20,
         "placed": "Abroad",
@@ -736,14 +736,14 @@
                 "United States",
                 "Israel"
             ],
-            "short_url": "https://nyti.ms/3b80wXU"
+            "short_news_url": "https://nyti.ms/3b80wXU"
         }
     },
     {
         "title": "A World-Class World Expo",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/world-expo-dubai.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/world-expo-dubai.html",
         "content": "The event in Dubai dazzles with extraordinary architectural achievements and a focus on the future of the planet.",
         "ranked": 21,
         "placed": "Abroad",
@@ -769,14 +769,14 @@
             "geo_facet": [
                 "Dubai (United Arab Emirates)"
             ],
-            "short_url": "https://nyti.ms/3jswEK3"
+            "short_news_url": "https://nyti.ms/3jswEK3"
         }
     },
     {
         "title": "At the World Expo Pavilions, Future Visions Combine Past and Present",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html",
         "content": "Conversations with three figures integral to the conception of the expo.",
         "ranked": 22,
         "placed": "Abroad",
@@ -803,14 +803,14 @@
             "geo_facet": [
                 "Dubai (United Arab Emirates)"
             ],
-            "short_url": "https://nyti.ms/2ZjlxN0"
+            "short_news_url": "https://nyti.ms/2ZjlxN0"
         }
     },
     {
         "title": "Biden delays the release of remaining J.F.K. assassination records, citing the pandemic.",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html",
         "content": "The National Archives require additional time to work on redactions, a White House statement on Friday said.",
         "ranked": 23,
         "placed": "Abroad",
@@ -838,14 +838,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jxXuk7"
+            "short_news_url": "https://nyti.ms/3jxXuk7"
         }
     },
     {
         "title": "In India, Facebook Grapples With an Amplified Version of Its Problems",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html",
         "content": "Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company\u2019s biggest market.",
         "ranked": 24,
         "placed": "Abroad",
@@ -882,14 +882,14 @@
                 "India",
                 "Pakistan"
             ],
-            "short_url": "https://nyti.ms/3C8RRjz"
+            "short_news_url": "https://nyti.ms/3C8RRjz"
         }
     },
     {
         "title": "Singapore will require vaccination or daily tests for workplace access next year.",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/singapore-will-require-vaccination-or-daily-tests-for-workplace-access-next-year.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/singapore-will-require-vaccination-or-daily-tests-for-workplace-access-next-year.html",
         "content": "",
         "ranked": 25,
         "placed": "Abroad",
@@ -914,14 +914,14 @@
             "geo_facet": [
                 "Singapore"
             ],
-            "short_url": "https://nyti.ms/3GdwnVb"
+            "short_news_url": "https://nyti.ms/3GdwnVb"
         }
     },
     {
         "title": "U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html",
         "content": "No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain.",
         "ranked": 26,
         "placed": "Abroad",
@@ -955,14 +955,14 @@
                 "Kosovo",
                 "Afghanistan"
             ],
-            "short_url": "https://nyti.ms/3vBOjUy"
+            "short_news_url": "https://nyti.ms/3vBOjUy"
         }
     },
     {
         "title": "Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/24/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html",
         "content": "",
         "ranked": 27,
         "placed": "Abroad",
@@ -981,14 +981,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BcGPbI"
+            "short_news_url": "https://nyti.ms/3BcGPbI"
         }
     },
     {
         "title": "On the Scene: Needle Spiking in the U.K.",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/interactive/2021/10/23/world/europe/uk-needle-spiking-clubs-bars.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/23/world/europe/uk-needle-spiking-clubs-bars.html",
         "content": "We're covering the troubling reports of young women who say their drinks have been spiked on nights out.",
         "ranked": 28,
         "placed": "Abroad",
@@ -1015,14 +1015,14 @@
                 "Nottingham (England)",
                 "England"
             ],
-            "short_url": "https://nyti.ms/3b3LHp7"
+            "short_news_url": "https://nyti.ms/3b3LHp7"
         }
     },
     {
         "title": "Illegal Border Crossings, Driven by Pandemic and Natural Disasters, Soar to Record High",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/us/politics/border-crossings-immigration-record-high.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/us/politics/border-crossings-immigration-record-high.html",
         "content": "Migrants were encountered 1.7 million times in the last 12 months, the highest number of illegal crossings recorded since at least 1960.",
         "ranked": 29,
         "placed": "Abroad",
@@ -1051,14 +1051,14 @@
                 "Mexico",
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3Gb1BMJ"
+            "short_news_url": "https://nyti.ms/3Gb1BMJ"
         }
     },
     {
         "title": "Israel Accuses 6 Palestinian Rights Groups of Terrorism",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html",
         "content": "The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses.",
         "ranked": 30,
         "placed": "Abroad",
@@ -1085,14 +1085,14 @@
             "geo_facet": [
                 "Israel"
             ],
-            "short_url": "https://nyti.ms/2ZdPb5C"
+            "short_news_url": "https://nyti.ms/2ZdPb5C"
         }
     },
     {
         "title": "Barbados Elects Its First Head of State, Replacing Queen Elizabeth",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html",
         "content": "The country\u2019s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados\u2019s colonial past.",
         "ranked": 31,
         "placed": "Abroad",
@@ -1124,14 +1124,14 @@
                 "Great Britain",
                 "Caribbean Area"
             ],
-            "short_url": "https://nyti.ms/2ZjaAed"
+            "short_news_url": "https://nyti.ms/2ZjaAed"
         }
     },
     {
         "title": "U.N. Flight Thwarted as Fighting Grows in Ethiopia",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html",
         "content": "A humanitarian flight was ordered to abort a landing in the capital of Ethiopia\u2019s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day.",
         "ranked": 32,
         "placed": "Abroad",
@@ -1159,14 +1159,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BifTrr"
+            "short_news_url": "https://nyti.ms/3BifTrr"
         }
     },
     {
         "title": "Geert Jan van Oldenborgh, 59, Dies; Linked Weather Disasters to Climate Change",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html",
         "content": "With a colleague, he founded a group that quickly analyzes heat waves and other extreme events for signs of global warming\u2019s influence.",
         "ranked": 33,
         "placed": "Abroad",
@@ -1195,14 +1195,14 @@
                 "van Oldenborgh, Geert Jan (1961-2021)"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3b2asSM"
+            "short_news_url": "https://nyti.ms/3b2asSM"
         }
     },
     {
         "title": "Alberta Took on Environmental Groups, but Only Proved They Did Nothing Wrong",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html",
         "content": "The report from a provincial inquiry into \u201canti-Alberta energy campaigns\u201d didn\u2019t back up Premier Jason Kenney\u2019s allegations.",
         "ranked": 34,
         "placed": "Abroad",
@@ -1228,14 +1228,14 @@
                 "Alberta (Canada)",
                 "Canada"
             ],
-            "short_url": "https://nyti.ms/3vyjm3K"
+            "short_news_url": "https://nyti.ms/3vyjm3K"
         }
     },
     {
         "title": "\u2018Morally, They Are Lost\u2019: Gangs in Haiti, Breaking a Taboo, Target the Church",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html",
         "content": "A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom.",
         "ranked": 35,
         "placed": "Abroad",
@@ -1263,14 +1263,14 @@
             "geo_facet": [
                 "Haiti"
             ],
-            "short_url": "https://nyti.ms/3G98gXM"
+            "short_news_url": "https://nyti.ms/3G98gXM"
         }
     },
     {
         "title": "Amanda Knox Was Exonerated. That Doesn\u2019t Mean She\u2019s Free.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
         "content": "Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms.",
         "ranked": 36,
         "placed": "Abroad",
@@ -1300,14 +1300,14 @@
                 "Perugia (Italy)",
                 "Seattle (Wash)"
             ],
-            "short_url": "https://nyti.ms/3GajqeX"
+            "short_news_url": "https://nyti.ms/3GajqeX"
         }
     },
     {
         "title": "Poland\u2019s Attacks on Rule of Law Leave Europe at Odds With Itself",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html",
         "content": "E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club?",
         "ranked": 37,
         "placed": "Abroad",
@@ -1339,7 +1339,7 @@
                 "Poland",
                 "Hungary"
             ],
-            "short_url": "https://nyti.ms/3pmPMNA"
+            "short_news_url": "https://nyti.ms/3pmPMNA"
         }
     }
 ]

@@ -3,7 +3,7 @@
         "title": "She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html",
         "content": "Sanitary pads and makeup: A Chinese astronaut\u2019s six-month stay aboard the country\u2019s space station has revealed conflicted cultural values toward gender.",
         "ranked": 0,
         "placed": "Abroad",
@@ -33,14 +33,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_url": "https://nyti.ms/3b4KMVu"
+            "short_news_url": "https://nyti.ms/3b4KMVu"
         }
     },
     {
         "title": "For India and Pakistan, Cricket Is Never Just a Game",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html",
         "content": "It\u2019s one of the greatest rivalries in sports, when war off the field allows it \u2014 a contest of national identities that will be renewed this Sunday in a World Cup match.",
         "ranked": 1,
         "placed": "Abroad",
@@ -68,14 +68,14 @@
                 "India",
                 "Kashmir and Jammu (India)"
             ],
-            "short_url": "https://nyti.ms/3GhdlNA"
+            "short_news_url": "https://nyti.ms/3GhdlNA"
         }
     },
     {
         "title": "Turkish Opposition Begins Joining Ranks Against Erdogan",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/middleeast/turkey-erdogan-opposition.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/middleeast/turkey-erdogan-opposition.html",
         "content": "With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system.",
         "ranked": 2,
         "placed": "Abroad",
@@ -109,14 +109,14 @@
             "geo_facet": [
                 "Turkey"
             ],
-            "short_url": "https://nyti.ms/3m2t8I9"
+            "short_news_url": "https://nyti.ms/3m2t8I9"
         }
     },
     {
         "title": "\u2018Needle Spiking\u2019 of Women in Britain Stirs Alarm Over New Kind of Assault",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html",
         "content": "Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. \u201cThis is a new depth,\u2019\u2019 said a former chief of police.",
         "ranked": 3,
         "placed": "Abroad",
@@ -144,14 +144,14 @@
                 "England",
                 "Great Britain"
             ],
-            "short_url": "https://nyti.ms/3nhbgZr"
+            "short_news_url": "https://nyti.ms/3nhbgZr"
         }
     },
     {
         "title": "How Russia Is Cashing In on Climate Change",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/europe/russia-arctic-climate-change-putin.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/europe/russia-arctic-climate-change-putin.html",
         "content": "Global warming may pose grave dangers around the world, but as one tiny Russian town on the Arctic Ocean shows, it can also be a ticket to prosperity.",
         "ranked": 4,
         "placed": "Abroad",
@@ -180,14 +180,14 @@
                 "Siberia",
                 "Suez Canal"
             ],
-            "short_url": "https://nyti.ms/3b3W78h"
+            "short_news_url": "https://nyti.ms/3b3W78h"
         }
     },
     {
         "title": "\u2018Morally, They Are Lost\u2019: Gangs in Haiti, Breaking a Taboo, Target the Church",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html",
         "content": "A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom.",
         "ranked": 5,
         "placed": "Abroad",
@@ -215,14 +215,14 @@
             "geo_facet": [
                 "Haiti"
             ],
-            "short_url": "https://nyti.ms/3G98gXM"
+            "short_news_url": "https://nyti.ms/3G98gXM"
         }
     },
     {
         "title": "Violence Strikes, and India\u2019s Farmers Want You to See It",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/asia/india-farmers-protests-modi.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/asia/india-farmers-protests-modi.html",
         "content": "A year on, protesters against the country\u2019s agricultural laws are taking an increasingly confrontational approach with the country\u2019s leaders.",
         "ranked": 6,
         "placed": "Abroad",
@@ -254,14 +254,14 @@
                 "New Delhi (India)",
                 "Uttar Pradesh State (India)"
             ],
-            "short_url": "https://nyti.ms/3b7gMbj"
+            "short_news_url": "https://nyti.ms/3b7gMbj"
         }
     },
     {
         "title": "Rambo, Romeo, Rome: His Posters Capture Films\u2019 Essential Moments",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/europe/renato-casaro-movie-posters.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/europe/renato-casaro-movie-posters.html",
         "content": "Renato Casaro\u2019s hand-drawn art has hooked movie audiences around the world since the 1950s. Tarantino and Stallone are big fans. One secret to his success? \u201cYou can\u2019t cheat.\u201d",
         "ranked": 7,
         "placed": "Abroad",
@@ -296,14 +296,14 @@
                 "Rome (Italy)",
                 "Italy"
             ],
-            "short_url": "https://nyti.ms/3C6mDtw"
+            "short_news_url": "https://nyti.ms/3C6mDtw"
         }
     },
     {
         "title": "Poland\u2019s Attacks on Rule of Law Leave Europe at Odds With Itself",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html",
         "content": "E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club?",
         "ranked": 8,
         "placed": "Abroad",
@@ -335,14 +335,14 @@
                 "Poland",
                 "Hungary"
             ],
-            "short_url": "https://nyti.ms/3pmPMNA"
+            "short_news_url": "https://nyti.ms/3pmPMNA"
         }
     },
     {
         "title": "U.N. Flight Thwarted as Fighting Grows in Ethiopia",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html",
         "content": "A humanitarian flight was ordered to abort a landing in the capital of Ethiopia\u2019s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day.",
         "ranked": 9,
         "placed": "Abroad",
@@ -370,14 +370,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BifTrr"
+            "short_news_url": "https://nyti.ms/3BifTrr"
         }
     },
     {
         "title": "Israel Accuses 6 Palestinian Rights Groups of Terrorism",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html",
         "content": "The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses.",
         "ranked": 10,
         "placed": "Abroad",
@@ -404,14 +404,14 @@
             "geo_facet": [
                 "Israel"
             ],
-            "short_url": "https://nyti.ms/2ZdPb5C"
+            "short_news_url": "https://nyti.ms/2ZdPb5C"
         }
     },
     {
         "title": "Barbados Elects Its First Head of State, Replacing Queen Elizabeth",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html",
         "content": "The country\u2019s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados\u2019s colonial past.",
         "ranked": 11,
         "placed": "Abroad",
@@ -443,14 +443,14 @@
                 "Great Britain",
                 "Caribbean Area"
             ],
-            "short_url": "https://nyti.ms/2ZjaAed"
+            "short_news_url": "https://nyti.ms/2ZjaAed"
         }
     },
     {
         "title": "Russia Is Censoring the Internet, With Coercion and Black Boxes",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html",
         "content": "Quietly built over two years, the Kremlin\u2019s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation.",
         "ranked": 12,
         "placed": "Abroad",
@@ -485,14 +485,14 @@
             "geo_facet": [
                 "Russia"
             ],
-            "short_url": "https://nyti.ms/3aYvkdB"
+            "short_news_url": "https://nyti.ms/3aYvkdB"
         }
     },
     {
         "title": "New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html",
         "content": "The country\u2019s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities.",
         "ranked": 13,
         "placed": "Abroad",
@@ -519,14 +519,14 @@
             "geo_facet": [
                 "New Zealand"
             ],
-            "short_url": "https://nyti.ms/3nkFD14"
+            "short_news_url": "https://nyti.ms/3nkFD14"
         }
     },
     {
         "title": "\u2018Completely Lost\u2019: For Some Afghans, Returning Home Is as Difficult as Fleeing",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/world/asia/afghans-returning-home.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/world/asia/afghans-returning-home.html",
         "content": "Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home.",
         "ranked": 14,
         "placed": "Abroad",
@@ -553,14 +553,14 @@
                 "Delhi (India)",
                 "India"
             ],
-            "short_url": "https://nyti.ms/3EdGHuL"
+            "short_news_url": "https://nyti.ms/3EdGHuL"
         }
     },
     {
         "title": "U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html",
         "content": "No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain.",
         "ranked": 15,
         "placed": "Abroad",
@@ -594,14 +594,14 @@
                 "Kosovo",
                 "Afghanistan"
             ],
-            "short_url": "https://nyti.ms/3vBOjUy"
+            "short_news_url": "https://nyti.ms/3vBOjUy"
         }
     },
     {
         "title": "On the Scene: Needle Spiking in the U.K.",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/interactive/2021/10/23/world/europe/uk-needle-spiking-clubs-bars.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/23/world/europe/uk-needle-spiking-clubs-bars.html",
         "content": "We're covering the troubling reports of young women who say their drinks have been spiked on nights out.",
         "ranked": 16,
         "placed": "Abroad",
@@ -628,14 +628,14 @@
                 "Nottingham (England)",
                 "England"
             ],
-            "short_url": "https://nyti.ms/3b3LHp7"
+            "short_news_url": "https://nyti.ms/3b3LHp7"
         }
     },
     {
         "title": "Geert Jan van Oldenborgh, 59, Dies; Linked Weather Disasters to Climate Change",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html",
         "content": "With a colleague, he founded a group that quickly analyzes heat waves and other extreme events for signs of global warming\u2019s influence.",
         "ranked": 17,
         "placed": "Abroad",
@@ -664,14 +664,14 @@
                 "van Oldenborgh, Geert Jan (1961-2021)"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3b2asSM"
+            "short_news_url": "https://nyti.ms/3b2asSM"
         }
     },
     {
         "title": "Alberta Took on Environmental Groups, but Only Proved They Did Nothing Wrong",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html",
         "content": "The report from a provincial inquiry into \u201canti-Alberta energy campaigns\u201d didn\u2019t back up Premier Jason Kenney\u2019s allegations.",
         "ranked": 18,
         "placed": "Abroad",
@@ -697,14 +697,14 @@
                 "Alberta (Canada)",
                 "Canada"
             ],
-            "short_url": "https://nyti.ms/3vyjm3K"
+            "short_news_url": "https://nyti.ms/3vyjm3K"
         }
     },
     {
         "title": "Amanda Knox Was Exonerated. That Doesn\u2019t Mean She\u2019s Free.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
         "content": "Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms.",
         "ranked": 19,
         "placed": "Abroad",
@@ -734,14 +734,14 @@
                 "Perugia (Italy)",
                 "Seattle (Wash)"
             ],
-            "short_url": "https://nyti.ms/3GajqeX"
+            "short_news_url": "https://nyti.ms/3GajqeX"
         }
     },
     {
         "title": "Bali reopens to foreign tourists, but government rules keep them away.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/bali-reopens-to-foreign-tourists-but-government-rules-keep-them-away.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/bali-reopens-to-foreign-tourists-but-government-rules-keep-them-away.html",
         "content": "",
         "ranked": 20,
         "placed": "Abroad",
@@ -760,14 +760,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jtMKmS"
+            "short_news_url": "https://nyti.ms/3jtMKmS"
         }
     },
     {
         "title": "New Zealand announces a plan to move away from lockdowns.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/new-zealand-announces-a-plan-to-move-away-from-lockdowns.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/new-zealand-announces-a-plan-to-move-away-from-lockdowns.html",
         "content": "",
         "ranked": 21,
         "placed": "Abroad",
@@ -786,14 +786,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3GgzuM0"
+            "short_news_url": "https://nyti.ms/3GgzuM0"
         }
     },
     {
         "title": "Britain opened up with hardly any restrictions, a gamble now facing its toughest test.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/britain-opened-up-with-hardly-any-restrictions-a-gamble-now-facing-its-toughest-test.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/britain-opened-up-with-hardly-any-restrictions-a-gamble-now-facing-its-toughest-test.html",
         "content": "",
         "ranked": 22,
         "placed": "Abroad",
@@ -812,14 +812,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jv4M8d"
+            "short_news_url": "https://nyti.ms/3jv4M8d"
         }
     },
     {
         "title": "An Arctic Dispatch",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/briefing/russia-climate-change-arctic.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/briefing/russia-climate-change-arctic.html",
         "content": "We visit a Russian town on the Arctic Ocean that sees climate change as an economic opportunity.",
         "ranked": 23,
         "placed": "Abroad",
@@ -838,14 +838,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3m2FCPT"
+            "short_news_url": "https://nyti.ms/3m2FCPT"
         }
     },
     {
         "title": "Thailand will let in vaccinated travelers from more countries.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/asia/thailand-covid-travel-quarantine.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/asia/thailand-covid-travel-quarantine.html",
         "content": "",
         "ranked": 24,
         "placed": "Abroad",
@@ -872,14 +872,14 @@
                 "Phuket (Thailand)",
                 "Bangkok (Thailand)"
             ],
-            "short_url": "https://nyti.ms/3pxE6HM"
+            "short_news_url": "https://nyti.ms/3pxE6HM"
         }
     },
     {
         "title": "Melbourne, after 262 days in lockdown, celebrates a reopening.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html",
         "content": "After hitting a vaccination target, Australia\u2019s second largest city now has many fewer restrictions.",
         "ranked": 25,
         "placed": "Abroad",
@@ -908,14 +908,14 @@
                 "Victoria (Australia)",
                 "Australia"
             ],
-            "short_url": "https://nyti.ms/3G7ux8m"
+            "short_news_url": "https://nyti.ms/3G7ux8m"
         }
     },
     {
         "title": "Flying With Your Pet? It Just Got a Lot More Difficult.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html",
         "content": "A recent C.D.C. rabies rule, pricey pet \u2018tickets\u2019 and limits on animals in airline cabins are making traveling with a pet more complicated.",
         "ranked": 26,
         "placed": "Abroad",
@@ -942,14 +942,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3vHkIsX"
+            "short_news_url": "https://nyti.ms/3vHkIsX"
         }
     },
     {
         "title": "The U.S. starts giving Covid boosters to millions, as people in poor nations await their first doses.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/world/covid-vaccine-disparities.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/world/covid-vaccine-disparities.html",
         "content": "The booster program underlines the disparity in vaccine access, with wealthier nations accounting for more than three-quarters of all doses administered so far.",
         "ranked": 27,
         "placed": "Abroad",
@@ -975,14 +975,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3nltFUS"
+            "short_news_url": "https://nyti.ms/3nltFUS"
         }
     },
     {
         "title": "Your Friday Briefing",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html",
         "content": "The geopolitical risks of climate change.",
         "ranked": 28,
         "placed": "Abroad",
@@ -1001,14 +1001,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jmVJX6"
+            "short_news_url": "https://nyti.ms/3jmVJX6"
         }
     },
     {
         "title": "Searching for Australia\u2019s Climate Tipping Point",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/world/australia/climate-change-tipping-point.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/world/australia/climate-change-tipping-point.html",
         "content": "The world, and most Australians, are increasingly disappointed by Australia\u2019s lackluster approach to addressing climate change.",
         "ranked": 29,
         "placed": "Abroad",
@@ -1035,14 +1035,14 @@
                 "Australia",
                 "Great Barrier Reef (Australia)"
             ],
-            "short_url": "https://nyti.ms/3pn4T9K"
+            "short_news_url": "https://nyti.ms/3pn4T9K"
         }
     },
     {
         "title": "Chinese Pianist Is Held on Prostitution Suspicion, State Media Says",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/arts/music/li-yundi-china-prostitution.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/arts/music/li-yundi-china-prostitution.html",
         "content": "Li Yundi, a famous performer, was accused of soliciting a woman, state news outlets said. Officials often use such accusations against their enemies.",
         "ranked": 30,
         "placed": "Abroad",
@@ -1071,14 +1071,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_url": "https://nyti.ms/3vxxLgC"
+            "short_news_url": "https://nyti.ms/3vxxLgC"
         }
     },
     {
         "title": "Queen Elizabeth Was Hospitalized, Palace Discloses",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html",
         "content": "She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland.",
         "ranked": 31,
         "placed": "Abroad",
@@ -1104,14 +1104,14 @@
             "geo_facet": [
                 "Great Britain"
             ],
-            "short_url": "https://nyti.ms/3B8BIJz"
+            "short_news_url": "https://nyti.ms/3B8BIJz"
         }
     },
     {
         "title": "Burned-out health care workers are nearing a breaking point, the W.H.O. warns.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html",
         "content": "The agency\u2019s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South.",
         "ranked": 32,
         "placed": "Abroad",
@@ -1138,14 +1138,14 @@
                 "Tedros Adhanom Ghebreyesus"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3pqQGsy"
+            "short_news_url": "https://nyti.ms/3pqQGsy"
         }
     },
     {
         "title": "Haitian Kidnappers Threaten to Kill Missionaries",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html",
         "content": "As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives.",
         "ranked": 33,
         "placed": "Abroad",
@@ -1171,14 +1171,14 @@
             "geo_facet": [
                 "Haiti"
             ],
-            "short_url": "https://nyti.ms/2XzMU4l"
+            "short_news_url": "https://nyti.ms/2XzMU4l"
         }
     },
     {
         "title": "Your Friday Briefing",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html",
         "content": "Why Australia won\u2019t commit to emissions reductions.",
         "ranked": 34,
         "placed": "Abroad",
@@ -1197,14 +1197,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Zikf4z"
+            "short_news_url": "https://nyti.ms/2Zikf4z"
         }
     },
     {
         "title": "Israel moves to allow tourists back in \u2014 if they are vaccinated.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/world/travel-to-israel-covid.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/world/travel-to-israel-covid.html",
         "content": "The plan to reopen to international tourists for the first time since the pandemic began comes as infections are steadily declining in Israel after a fourth wave.",
         "ranked": 35,
         "placed": "Abroad",
@@ -1232,14 +1232,14 @@
             "geo_facet": [
                 "Israel"
             ],
-            "short_url": "https://nyti.ms/3vx6x9X"
+            "short_news_url": "https://nyti.ms/3vx6x9X"
         }
     },
     {
         "title": "Syria Executes 24 People for Setting Wildfires, Calling It \u2018Terrorism\u2019",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/world/middleeast/syria-wildfire-executions.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/world/middleeast/syria-wildfire-executions.html",
         "content": "The sentences shocked rights groups, who saw it as a move by President Bashar al-Assad to appear tough after a crisis that hurt his loyalists.",
         "ranked": 36,
         "placed": "Abroad",
@@ -1266,7 +1266,7 @@
             "geo_facet": [
                 "Syria"
             ],
-            "short_url": "https://nyti.ms/3E7Z7Nr"
+            "short_news_url": "https://nyti.ms/3E7Z7Nr"
         }
     }
 ]

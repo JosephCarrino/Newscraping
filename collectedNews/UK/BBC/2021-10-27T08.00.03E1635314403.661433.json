@@ -2,7 +2,7 @@
     {
         "title": "Russia threatens gas supply in Europe's poorest state",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59048894",
+        "news_url": "https://www.bbc.com/news/world-europe-59048894",
         "content": "Moldova has made history by buying gas from somewhere other than Russia. How will the Kremlin react?",
         "placed": "Abroad",
         "epoch": 1635314403.6611433
@@ -10,7 +10,7 @@
     {
         "title": "Russia threatens gas supply in Europe's poorest state",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59048894",
+        "news_url": "https://www.bbc.com/news/world-europe-59048894",
         "content": "Moldova has made history by buying gas from somewhere other than Russia. How will the Kremlin react?",
         "placed": "Abroad",
         "epoch": 1635314403.6611693
@@ -18,7 +18,7 @@
     {
         "title": "Senators back criminal charges against Bolsonaro",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-latin-america-59051105",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59051105",
         "content": "A Brazilian senate inquiry recommends the president face charges for his handling of the pandemic.",
         "placed": "Abroad",
         "epoch": 1635314403.6611884
@@ -26,7 +26,7 @@
     {
         "title": "US experts back Pfizer jab for children over five",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-us-canada-59048318",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59048318",
         "content": "Health experts say the benefits outweigh the risks and recommend the FDA authorise the vaccine.",
         "placed": "Abroad",
         "epoch": 1635314403.661205
@@ -34,7 +34,7 @@
     {
         "title": "Clinton aide details sexual assault by US senator",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59059289",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59059289",
         "content": "In a new book, Huma Abedin says she was assaulted after a senator invited her into his home.",
         "placed": "Abroad",
         "epoch": 1635314403.6612208
@@ -42,7 +42,7 @@
     {
         "title": "Australia confirms end to citizen travel ban",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-australia-59058945",
+        "news_url": "https://www.bbc.com/news/world-australia-59058945",
         "content": "For the first time in 19 months, Australians will not need an exemption to travel overseas.",
         "placed": "Abroad",
         "epoch": 1635314403.6612372
@@ -50,7 +50,7 @@
     {
         "title": "US comic legend Mort Sahl dies at age 94",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59058489",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59058489",
         "content": "His political satire spared no side and revolutionised how stand-up comedy is now performed.",
         "placed": "Abroad",
         "epoch": 1635314403.6612532
@@ -58,7 +58,7 @@
     {
         "title": "Surviving in Kuwait's 'unbearable' heat",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/world-middle-east-59054893",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59054893",
         "content": "The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life.",
         "placed": "Abroad",
         "epoch": 1635314403.6612651
@@ -66,7 +66,7 @@
     {
         "title": "Russia threatens gas supply in Europe's poorest state",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-europe-59048894",
+        "news_url": "https://www.bbc.com/news/world-europe-59048894",
         "content": "Moldova has made history by buying gas from somewhere other than Russia. How will the Kremlin react?",
         "placed": "Abroad",
         "epoch": 1635314403.6612802
@@ -74,7 +74,7 @@
     {
         "title": "Senators back criminal charges against Bolsonaro",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-latin-america-59051105",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59051105",
         "content": "A Brazilian senate inquiry recommends the president face charges for his handling of the pandemic.",
         "placed": "Abroad",
         "epoch": 1635314403.6612954
@@ -82,7 +82,7 @@
     {
         "title": "US experts back Pfizer jab for children over five",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59048318",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59048318",
         "content": "Health experts say the benefits outweigh the risks and recommend the FDA authorise the vaccine.",
         "placed": "Abroad",
         "epoch": 1635314403.66131
@@ -90,7 +90,7 @@
     {
         "title": "Clinton aide details sexual assault by US senator",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-us-canada-59059289",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59059289",
         "content": "In a new book, Huma Abedin says she was assaulted after a senator invited her into his home.",
         "placed": "Abroad",
         "epoch": 1635314403.6613247
@@ -98,7 +98,7 @@
     {
         "title": "Australia confirms end to citizen travel ban",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-australia-59058945",
+        "news_url": "https://www.bbc.com/news/world-australia-59058945",
         "content": "For the first time in 19 months, Australians will not need an exemption to travel overseas.",
         "placed": "Abroad",
         "epoch": 1635314403.6613393
@@ -106,7 +106,7 @@
     {
         "title": "US comic legend Mort Sahl dies at age 94",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59058489",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59058489",
         "content": "His political satire spared no side and revolutionised how stand-up comedy is now performed.",
         "placed": "Abroad",
         "epoch": 1635314403.6613543
@@ -114,7 +114,7 @@
     {
         "title": "Surviving in Kuwait's 'unbearable' heat",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-middle-east-59054893",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59054893",
         "content": "The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life.",
         "placed": "Abroad",
         "epoch": 1635314403.6613688
@@ -122,7 +122,7 @@
     {
         "title": "Senators back criminal charges against Bolsonaro",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/world-latin-america-59051105",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59051105",
         "content": "A Brazilian senate inquiry recommends the president face charges for his handling of the pandemic.",
         "placed": "Abroad",
         "epoch": 1635314403.6613765
@@ -130,7 +130,7 @@
     {
         "title": "US experts back Pfizer jab for children over five",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-us-canada-59048318",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59048318",
         "content": "Health experts say the benefits outweigh the risks and recommend the FDA authorise the vaccine.",
         "placed": "Abroad",
         "epoch": 1635314403.6613908
@@ -138,7 +138,7 @@
     {
         "title": "Clinton aide details sexual assault by US senator",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59059289",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59059289",
         "content": "In a new book, Huma Abedin says she was assaulted after a senator invited her into his home.",
         "placed": "Abroad",
         "epoch": 1635314403.6614053

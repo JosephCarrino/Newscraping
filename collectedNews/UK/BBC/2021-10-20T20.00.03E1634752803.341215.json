@@ -2,7 +2,7 @@
     {
         "title": "Parkland school shooter pleads guilty to murder",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-us-canada-58983965",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58983965",
         "content": "Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting.",
         "placed": "First_Page",
         "epoch": 1634752803.3409152
@@ -10,7 +10,7 @@
     {
         "title": "Parkland school shooter pleads guilty to murder",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-us-canada-58983965",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58983965",
         "content": "Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting.",
         "placed": "First_Page",
         "epoch": 1634752803.3409457
@@ -18,7 +18,7 @@
     {
         "title": "'I was warned I'd die very quickly in Russian jail'",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-europe-58978613",
+        "news_url": "https://www.bbc.com/news/world-europe-58978613",
         "content": "Sergey Savelyev is seeking asylum in France after he leaked videos showing abuse in Russian prisons.",
         "placed": "First_Page",
         "epoch": 1634752803.3409643
@@ -26,7 +26,7 @@
     {
         "title": "'The massacre without blood or bodies'",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/world-africa-58975493",
+        "news_url": "https://www.bbc.com/news/world-africa-58975493",
         "content": "The BBC investigates what happened on the night 20 October 2020, when the Nigerian army opened fire on peaceful protesters in Lagos.",
         "placed": "First_Page",
         "epoch": 1634752803.340975
@@ -34,7 +34,7 @@
     {
         "title": "Queen cancels Northern Ireland trip on medical advice",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-58979992",
+        "news_url": "https://www.bbc.com/news/uk-58979992",
         "content": "Buckingham Palace says she has \"reluctantly accepted medical advice to rest for the next few days\".",
         "placed": "First_Page",
         "epoch": 1634752803.3409965
@@ -42,7 +42,7 @@
     {
         "title": "UK Covid cases could hit 100,000 a day this winter",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/live/uk-58978351",
+        "news_url": "https://www.bbc.com/news/live/uk-58978351",
         "content": "The warning comes amid calls for social distancing rules to be reintroduced.",
         "placed": "First_Page",
         "epoch": 1634752803.3410118
@@ -50,7 +50,7 @@
     {
         "title": "Romance scam suspects defrauded 100 women - FBI",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-africa-58978287",
+        "news_url": "https://www.bbc.com/news/world-africa-58978287",
         "content": "Eight Nigerian men are charged in South Africa after an international operation involving Interpol.",
         "placed": "First_Page",
         "epoch": 1634752803.3410258
@@ -58,7 +58,7 @@
     {
         "title": "Bolsonaro should face charges over pandemic - report",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-latin-america-58976197",
+        "news_url": "https://www.bbc.com/news/world-latin-america-58976197",
         "content": "Brazil's president should be charged with crimes against humanity, a Senate-led inquiry says.",
         "placed": "First_Page",
         "epoch": 1634752803.3410392
@@ -66,7 +66,7 @@
     {
         "title": "Deadly bomb blasts hit military bus in Damascus",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-middle-east-58930309",
+        "news_url": "https://www.bbc.com/news/world-middle-east-58930309",
         "content": "At least 14 people are reported to have died in the bloodiest attack in the Syrian capital in years.",
         "placed": "First_Page",
         "epoch": 1634752803.3410556
@@ -74,7 +74,7 @@
     {
         "title": "Ex-German troops arrested over alleged terror plot",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-europe-58978612",
+        "news_url": "https://www.bbc.com/news/world-europe-58978612",
         "content": "The former soldiers are accused of trying to form a mercenary force to fight in Yemen's civil war.",
         "placed": "First_Page",
         "epoch": 1634752803.3410692
@@ -82,7 +82,7 @@
     {
         "title": "Spain to extradite Venezuela's ex-spy chief to US",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-latin-america-58984103",
+        "news_url": "https://www.bbc.com/news/world-latin-america-58984103",
         "content": "Hugo Carvajal faces drugs charges but may also have incriminating evidence against President Maduro.",
         "placed": "First_Page",
         "epoch": 1634752803.3410826
@@ -90,7 +90,7 @@
     {
         "title": "US lawmakers vote to hold Steve Bannon in contempt",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-us-canada-58976196",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58976196",
         "content": "Steve Bannon could be prosecuted for refusing to give evidence on the Capitol riot.",
         "placed": "First_Page",
         "epoch": 1634752803.3411028
@@ -98,7 +98,7 @@
     {
         "title": "Spain to extradite Venezuela's ex-spy chief to US",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-latin-america-58984103",
+        "news_url": "https://www.bbc.com/news/world-latin-america-58984103",
         "content": "Hugo Carvajal faces drugs charges but may also have incriminating evidence against President Maduro.",
         "placed": "First_Page",
         "epoch": 1634752803.3411164
@@ -106,7 +106,7 @@
     {
         "title": "US lawmakers vote to hold Steve Bannon in contempt",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-us-canada-58976196",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58976196",
         "content": "Steve Bannon could be prosecuted for refusing to give evidence on the Capitol riot.",
         "placed": "First_Page",
         "epoch": 1634752803.341129
@@ -114,7 +114,7 @@
     {
         "title": "Former soldiers attack Guatemala Congress building",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-latin-america-58978584",
+        "news_url": "https://www.bbc.com/news/world-latin-america-58978584",
         "content": "Riot police were deployed and lawmakers had to be evacuated amid the protests.",
         "placed": "First_Page",
         "epoch": 1634752803.3411415
@@ -122,7 +122,7 @@
     {
         "title": "Phone thief held after livestreaming his own face",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/world-middle-east-58980533",
+        "news_url": "https://www.bbc.com/news/world-middle-east-58980533",
         "content": "The Egyptian man accidentally showed his face after stealing a journalist's phone mid-livestream.",
         "placed": "First_Page",
         "epoch": 1634752803.3411486
@@ -130,7 +130,7 @@
     {
         "title": "Manager Bruce leaves Newcastle after Saudi takeover",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/sport/football/58775879",
+        "news_url": "https://www.bbc.com/sport/football/58775879",
         "content": "Manager Steve Bruce leaves Newcastle United by mutual consent just 13 days after the Saudi Arabia-backed £305m takeover of the Premier League side was completed.",
         "placed": "First_Page",
         "epoch": 1634752803.3411617
@@ -138,7 +138,7 @@
     {
         "title": "Ros Atkins on… Europe's climate challenge",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/science-environment-58970153",
+        "news_url": "https://www.bbc.com/news/science-environment-58970153",
         "content": "The latest global news, sport, weather and documentaries",
         "placed": "First_Page",
         "epoch": 1634752803.3411758
@@ -146,7 +146,7 @@
     {
         "title": "Why does a climate summit need 25,000 people?",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/science-environment-58925049",
+        "news_url": "https://www.bbc.com/news/science-environment-58925049",
         "content": "Stories from around the world",
         "placed": "First_Page",
         "epoch": 1634752803.3411908

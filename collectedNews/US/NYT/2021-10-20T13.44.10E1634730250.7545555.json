@@ -3,7 +3,7 @@
         "title": "The Economic Rebound Is Still Waiting for Workers",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
         "content": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
         "ranked": 0,
         "placed": "Economics",
@@ -34,14 +34,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3C47g4Y"
+            "short_news_url": "https://nyti.ms/3C47g4Y"
         }
     },
     {
         "title": "Netflix beats estimates and expects even better results thanks to hits like \u2018Squid Game.\u2019",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/media/netlix-earnings-q3-2021.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/media/netlix-earnings-q3-2021.html",
         "content": "The company has 222 million customers, with 67 million in the U.S., and expects to add 8.5 million subscribers in the December quarter.",
         "ranked": 1,
         "placed": "Economics",
@@ -69,14 +69,14 @@
                 "Chappelle, Dave"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3AXArVZ"
+            "short_news_url": "https://nyti.ms/3AXArVZ"
         }
     },
     {
         "title": "As Evergrande Teeters, Chinese Media Walks a Fine Line",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/evergrande-media-china.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/evergrande-media-china.html",
         "content": "Officials want to avert public panic about the property developer\u2019s financial woes. But they also want to send a message to spendthrift corporations.",
         "ranked": 2,
         "placed": "Economics",
@@ -108,14 +108,14 @@
                 "Beijing (China)",
                 "China"
             ],
-            "short_url": "https://nyti.ms/3nda9Ky"
+            "short_news_url": "https://nyti.ms/3nda9Ky"
         }
     },
     {
         "title": "Facebook will pay up to $14 million to settle claims it favored foreign workers.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/technology/facebook-foreign-workers.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/technology/facebook-foreign-workers.html",
         "content": "The Justice Department sued the company in December, arguing that Facebook had declined to \u201crecruit, consider or hire\u201d qualified United States workers for more than 2,000 positions.",
         "ranked": 3,
         "placed": "Economics",
@@ -144,14 +144,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vpFopk"
+            "short_news_url": "https://nyti.ms/3vpFopk"
         }
     },
     {
         "title": "YouTube Sued Over Animal Abuse Videos, Accused of Not Enforcing Ban",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/technology/youtube-sued-animal-abuse.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/technology/youtube-sued-animal-abuse.html",
         "content": "An animal rights group said the site had ignored efforts to get clear violations taken down. YouTube said it had removed hundreds of thousands.",
         "ranked": 4,
         "placed": "Economics",
@@ -178,14 +178,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n0s2Mo"
+            "short_news_url": "https://nyti.ms/3n0s2Mo"
         }
     },
     {
         "title": "Boeing Deepens Probe Into Astronaut Capsule Woes, Prompting More Delays",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/science/nasa-boeing-starliner.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/science/nasa-boeing-starliner.html",
         "content": "The Starliner capsule for NASA crews is now unlikely to have another orbital flight test until the middle of next year.",
         "ranked": 5,
         "placed": "Economics",
@@ -213,14 +213,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jhPPXa"
+            "short_news_url": "https://nyti.ms/3jhPPXa"
         }
     },
     {
         "title": "As Starbucks Workers Seek a Union, Company Officials Converge on Stores",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/business/economy/starbucks-union-buffalo.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/business/economy/starbucks-union-buffalo.html",
         "content": "A push in the Buffalo area could produce the first union at company-owned stores in the U.S. But backers say moves by management are having a chilling effect.",
         "ranked": 6,
         "placed": "Economics",
@@ -247,14 +247,14 @@
             "geo_facet": [
                 "Buffalo (NY)"
             ],
-            "short_url": "https://nyti.ms/3aQ1R5f"
+            "short_news_url": "https://nyti.ms/3aQ1R5f"
         }
     },
     {
         "title": "Succession at Scholastic Seemed to Be a Shock, Even to the New Chairwoman",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/business/scholastic-iole-lucchese-succession-battle.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/business/scholastic-iole-lucchese-succession-battle.html",
         "content": "The powerhouse children\u2019s publisher, known for Harry Potter, had been passed from father to son until Iole Lucchese, a top executive, was given control.",
         "ranked": 7,
         "placed": "Economics",
@@ -284,14 +284,14 @@
                 "Warwick, Peter"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jepGZk"
+            "short_news_url": "https://nyti.ms/3jepGZk"
         }
     },
     {
         "title": "Treasury Warns That Digital Currencies Could Weaken U.S. Sanctions",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/us/politics/sanctions-cryptocurrency-treasury.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/sanctions-cryptocurrency-treasury.html",
         "content": "A review found that the sanctions program must be modernized to maintain its effectiveness.",
         "ranked": 8,
         "placed": "Economics",
@@ -318,14 +318,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BUL6Su"
+            "short_news_url": "https://nyti.ms/3BUL6Su"
         }
     },
     {
         "title": "Jens Weidmann, the longtime German central bank chief, will step down.",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/business/jens-weidmann-bundesbank.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/business/jens-weidmann-bundesbank.html",
         "content": "A prominent critic of loose fiscal policies, his departure comes amid disagreements with the European Central Bank over its low-interest-rate policies.",
         "ranked": 9,
         "placed": "Economics",
@@ -355,14 +355,14 @@
                 "Weidmann, Jens"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Cbx5je"
+            "short_news_url": "https://nyti.ms/3Cbx5je"
         }
     },
     {
         "title": "Meet the Lineup for the DealBook Online Summit",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/business/dealbook/dealbook-summit-cook-barra-mcconaughey.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/business/dealbook/dealbook-summit-cook-barra-mcconaughey.html",
         "content": "Tim Cook, Mary Barra and Matthew McConaughey are among the headliners.",
         "ranked": 10,
         "placed": "Economics",
@@ -388,18 +388,18 @@
             "per_facet": [
                 "Barra, Mary T",
                 "Cook, Timothy D",
-                "Bourla, Albert",
+                "Bonews_urla, Albert",
                 "McConaughey, Matthew"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3B0EzUS"
+            "short_news_url": "https://nyti.ms/3B0EzUS"
         }
     },
     {
         "title": "In Washington, a Beloved Birthplace for Artistic Giants",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/arts/design/walla-walla-foundry-art.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/arts/design/walla-walla-foundry-art.html",
         "content": "At the Walla Walla Foundry, one of the largest contemporary fine-art foundries in the world, all sorts of artistic behemoths rise. Yet it\u2019s little-known outside of the art world.",
         "ranked": 11,
         "placed": "Economics",
@@ -425,14 +425,14 @@
             "geo_facet": [
                 "Walla Walla (Wash)"
             ],
-            "short_url": "https://nyti.ms/3BYjJH3"
+            "short_news_url": "https://nyti.ms/3BYjJH3"
         }
     },
     {
         "title": "Boris Johnson Claims a Positive in Britain\u2019s Shortages. Economists Disagree.",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html",
         "content": "Wages in some industries are rising because employers can\u2019t find enough workers. That\u2019s not a path to long-term growth, analysts say.",
         "ranked": 12,
         "placed": "Economics",
@@ -464,14 +464,14 @@
             "geo_facet": [
                 "Great Britain"
             ],
-            "short_url": "https://nyti.ms/3B9TXPb"
+            "short_news_url": "https://nyti.ms/3B9TXPb"
         }
     },
     {
         "title": "Waiting on U.S. Mandate, Some Nursing Homes Are Slow to Vaccinate Staff",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/health/nursing-homes-covid-vaccine-mandate.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/health/nursing-homes-covid-vaccine-mandate.html",
         "content": "Less than half of workers are still not immunized at facilities in several states. \u201cI just feel like a sitting duck,\u201d one resident said.",
         "ranked": 13,
         "placed": "Economics",
@@ -501,14 +501,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3ATj1cN"
+            "short_news_url": "https://nyti.ms/3ATj1cN"
         }
     },
     {
         "title": "Help! How Do I Find a Coronavirus Test to Get Back Into the U.S.?",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/travel/coronavirus-test-overseas.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/travel/coronavirus-test-overseas.html",
         "content": "Although testing isn\u2019t as widely available as it is at hotels in Mexico or the Caribbean, travelers in Europe can still find testing facilities at pharmacies, medical clinics and dedicated sites.",
         "ranked": 14,
         "placed": "Economics",
@@ -538,14 +538,14 @@
             "geo_facet": [
                 "Europe"
             ],
-            "short_url": "https://nyti.ms/3ATiY0B"
+            "short_news_url": "https://nyti.ms/3ATiY0B"
         }
     },
     {
         "title": "OSHA, citing Covid failures, moves to strip three states of workplace safety authority.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/economy/osha-covid-workplace-safety-states.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/economy/osha-covid-workplace-safety-states.html",
         "content": "The agency said Arizona, South Carolina and Utah had failed to adopt rules protecting workers from the coronavirus.",
         "ranked": 15,
         "placed": "Economics",
@@ -576,14 +576,14 @@
                 "Utah",
                 "Arizona"
             ],
-            "short_url": "https://nyti.ms/3AYaKEG"
+            "short_news_url": "https://nyti.ms/3AYaKEG"
         }
     },
     {
         "title": "General Electric will require vaccines for its 56,000 U.S. workers.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/general-electric-vaccine-mandate.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/general-electric-vaccine-mandate.html",
         "content": "Large companies, including G.E., have cited a requirement, which President Biden announced in September, that federal contractors be vaccinated when introducing mandates.",
         "ranked": 16,
         "placed": "Economics",
@@ -609,14 +609,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jkiISm"
+            "short_news_url": "https://nyti.ms/3jkiISm"
         }
     },
     {
         "title": "United Airlines earned $473 million in the third quarter as travel demand stayed strong.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/united-airlines-q3-2021-earnings.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/united-airlines-q3-2021-earnings.html",
         "content": "With government officials around the world slowly easing travel restrictions, and companies starting to send employees on more business trips, United\u2019s executives expressed optimism about the coming months.",
         "ranked": 17,
         "placed": "Economics",
@@ -644,14 +644,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jh3PAy"
+            "short_news_url": "https://nyti.ms/3jh3PAy"
         }
     },
     {
         "title": "Credit Suisse agrees to pay $475 million in fines over the \u2018tuna bond\u2019 affair in Mozambique.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/credit-suisse-tuna-bond-fines.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/credit-suisse-tuna-bond-fines.html",
         "content": "Investigators said more than $200 million was used to pay bribes and kickbacks to enrich foreign officials and former bankers at Credit Suisse.",
         "ranked": 18,
         "placed": "Economics",
@@ -670,14 +670,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3pgzCVM"
+            "short_news_url": "https://nyti.ms/3pgzCVM"
         }
     },
     {
         "title": "JPay, a prison contractor, was fined over fees it charged to former prisoners.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/jpay-prison-card-fees.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/jpay-prison-card-fees.html",
         "content": "Since 2011, more than 500,000 of the 1.2 million people who received prepaid cards from JPay were forced to pay fees to retrieve their money, the Consumer Financial Protection Bureau said.",
         "ranked": 19,
         "placed": "Economics",
@@ -704,14 +704,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2XsImwB"
+            "short_news_url": "https://nyti.ms/2XsImwB"
         }
     },
     {
         "title": "David Finn, Co-Founder of a Public Relations Power, Dies at 100",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/david-finn-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/david-finn-dead.html",
         "content": "While running Ruder Finn, with big clients like Philip Morris, Exxon and Coca-Cola, Mr. Finn pursued a parallel career as a painter, photographer and sculptor.",
         "ranked": 20,
         "placed": "Economics",
@@ -741,14 +741,14 @@
                 "Ruder, Bill (1921-2011)"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3C4489e"
+            "short_news_url": "https://nyti.ms/3C4489e"
         }
     },
     {
         "title": "Netflix workers plan a walkout as the fallout over Dave Chappelle continues.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/media/netflix-dave-chappelle-employee-walkout.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/media/netflix-dave-chappelle-employee-walkout.html",
         "content": "The virtual walkout planned for Wednesday is the latest example of how the internal backlash over the comedian\u2019s new special has roiled the streaming service.",
         "ranked": 21,
         "placed": "Economics",
@@ -778,14 +778,14 @@
                 "Sarandos, Ted"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CbBW4l"
+            "short_news_url": "https://nyti.ms/3CbBW4l"
         }
     },
     {
         "title": "The economic rebound is still waiting for workers.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/the-economic-rebound-is-still-waiting-for-workers.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/the-economic-rebound-is-still-waiting-for-workers.html",
         "content": "",
         "ranked": 22,
         "placed": "Economics",
@@ -804,14 +804,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3G10Sh2"
+            "short_news_url": "https://nyti.ms/3G10Sh2"
         }
     },
     {
         "title": "Stocks rise for a fifth day, and Bitcoin nears a record high.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/bitcoin-stock-market-today.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/bitcoin-stock-market-today.html",
         "content": "On Tuesday, ProShares offered a long-awaited exchange-traded fund on the New York Stock Exchange linked to Bitcoin futures, and Bitcoin has been trading at prices not seen since April.",
         "ranked": 23,
         "placed": "Economics",
@@ -834,14 +834,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": ""
+            "short_news_url": ""
         }
     },
     {
         "title": "Democrats, facing a Republican barrage, scale back plans for a crackdown on tax cheating.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/irs-bank-account-reporting-requirement.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/irs-bank-account-reporting-requirement.html",
         "content": "Banks would have to provide data on accounts with annual deposits or withdrawals exceeding $10,000, not including payroll and beneficiary deposits, rather than $600.",
         "ranked": 24,
         "placed": "Economics",
@@ -876,14 +876,14 @@
                 "Yellen, Janet L"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3GbX7pl"
+            "short_news_url": "https://nyti.ms/3GbX7pl"
         }
     },
     {
         "title": "Mix-and-Match Covid Boosters: Why They Just Might Work",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html",
         "content": "The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising.",
         "ranked": 25,
         "placed": "Economics",
@@ -914,14 +914,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3G4Rklo"
+            "short_news_url": "https://nyti.ms/3G4Rklo"
         }
     },
     {
         "title": "Recent Commercial Real Estate Transactions",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/new-york-commercial-real-estate.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/new-york-commercial-real-estate.html",
         "content": "Recent commercial real estate transactions in New York.",
         "ranked": 26,
         "placed": "Economics",
@@ -947,14 +947,14 @@
                 "Midtown Area (Manhattan, NY)",
                 "Union Square (Manhattan, NY)"
             ],
-            "short_url": "https://nyti.ms/3G3MuVa"
+            "short_news_url": "https://nyti.ms/3G3MuVa"
         }
     },
     {
         "title": "Global economic growth will stabilize next year, but supply chain shock remains a risk, a report says.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/global-economic-growth-pandemic-oecd.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/global-economic-growth-pandemic-oecd.html",
         "content": "Governments must start addressing the soaring debt used to finance pandemic aid measures, the Organization for Economic Cooperation and Development said.",
         "ranked": 27,
         "placed": "Economics",
@@ -981,14 +981,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3FZsvHi"
+            "short_news_url": "https://nyti.ms/3FZsvHi"
         }
     },
     {
         "title": "When will oil prices peak? Traders and analysts are rethinking their forecasts.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/oil-prices-peak.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/oil-prices-peak.html",
         "content": "A global energy crunch has pushed oil prices up to seven-year highs, and some traders are betting they will rise much more.",
         "ranked": 28,
         "placed": "Economics",
@@ -1010,14 +1010,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n6fAe6"
+            "short_news_url": "https://nyti.ms/3n6fAe6"
         }
     },
     {
         "title": "The S.E.C. Weighs In on Meme-Stock Mania",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/dealbook/gamestop-meme-stocks-report.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/dealbook/gamestop-meme-stocks-report.html",
         "content": "What a long-awaited report on trading in GameStop and other internet favorites says, and doesn\u2019t say, about online-fueled stock-trading booms.",
         "ranked": 29,
         "placed": "Economics",
@@ -1045,14 +1045,14 @@
                 "Powell, Colin L"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Z0Qtl3"
+            "short_news_url": "https://nyti.ms/2Z0Qtl3"
         }
     },
     {
         "title": "A New Meaning to \u2018Working in the Garden\u2019",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/home-office-garden.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/home-office-garden.html",
         "content": "With the work-at-home lifestyle likely here to stay, people are taking things outdoors, creating spaces meant for privacy and comfort.",
         "ranked": 30,
         "placed": "Economics",
@@ -1082,14 +1082,14 @@
                 "Great Britain",
                 "London (England)"
             ],
-            "short_url": "https://nyti.ms/3DOLpyG"
+            "short_news_url": "https://nyti.ms/3DOLpyG"
         }
     },
     {
         "title": "The Zoom Room Design",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/home-design-zoom.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/home-design-zoom.html",
         "content": "Looking for a designer who will update your space from afar? Your dream has come true.",
         "ranked": 31,
         "placed": "Economics",
@@ -1116,14 +1116,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n0hVqI"
+            "short_news_url": "https://nyti.ms/3n0hVqI"
         }
     },
     {
         "title": "One Size Doesn\u2019t Fit All: Employees\u2019 Needs Are Changing Work Spaces",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/work-spaces-design-employees.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/work-spaces-design-employees.html",
         "content": "As workers return, offices are likely to be forever transformed.",
         "ranked": 32,
         "placed": "Economics",
@@ -1149,14 +1149,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n7BXzN"
+            "short_news_url": "https://nyti.ms/3n7BXzN"
         }
     },
     {
         "title": "What\u2019s Your Pleasure? How About a T-shirt?",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/bar-merchandise-alcohol.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/bar-merchandise-alcohol.html",
         "content": "In part because of Covid lockdowns, bars have gotten into the merchandise game.",
         "ranked": 33,
         "placed": "Economics",
@@ -1187,7 +1187,7 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3natVWG"
+            "short_news_url": "https://nyti.ms/3natVWG"
         }
     }
 ]

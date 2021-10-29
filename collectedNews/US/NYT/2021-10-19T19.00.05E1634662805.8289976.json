@@ -3,7 +3,7 @@
         "title": "The Economic Rebound Is Still Waiting for Workers",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/economy/economy-workers-labor-force.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/economy/economy-workers-labor-force.html",
         "content": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
         "ranked": 0,
         "placed": "Economics",
@@ -34,14 +34,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3GbWDQ3"
+            "short_news_url": "https://nyti.ms/3GbWDQ3"
         }
     },
     {
         "title": "As Evergrande Teeters, Chinese Media Walks a Fine Line",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/evergrande-media-china.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/evergrande-media-china.html",
         "content": "Officials want to avert public panic about the property developer\u2019s financial woes. But they also want to send a message to spendthrift corporations.",
         "ranked": 1,
         "placed": "Economics",
@@ -73,14 +73,14 @@
                 "Beijing (China)",
                 "China"
             ],
-            "short_url": "https://nyti.ms/3nda9Ky"
+            "short_news_url": "https://nyti.ms/3nda9Ky"
         }
     },
     {
         "title": "YouTube Sued Over Animal Abuse Videos, Accused of Not Enforcing Ban",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/technology/youtube-sued-animal-abuse.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/technology/youtube-sued-animal-abuse.html",
         "content": "An animal rights group said the site had ignored efforts to get clear violations taken down. YouTube said it had removed hundreds of thousands.",
         "ranked": 2,
         "placed": "Economics",
@@ -107,14 +107,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n0s2Mo"
+            "short_news_url": "https://nyti.ms/3n0s2Mo"
         }
     },
     {
         "title": "As Starbucks Workers Seek a Union, Company Officials Converge on Stores",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/business/economy/starbucks-union-buffalo.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/business/economy/starbucks-union-buffalo.html",
         "content": "A push in the Buffalo area could produce the first union at company-owned stores in the U.S. But backers say moves by management are having a chilling effect.",
         "ranked": 3,
         "placed": "Economics",
@@ -141,14 +141,14 @@
             "geo_facet": [
                 "Buffalo (NY)"
             ],
-            "short_url": "https://nyti.ms/3aQ1R5f"
+            "short_news_url": "https://nyti.ms/3aQ1R5f"
         }
     },
     {
         "title": "Succession at Scholastic Seemed to Be a Shock, Even to the New Chairwoman",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/business/scholastic-iole-lucchese-succession-battle.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/business/scholastic-iole-lucchese-succession-battle.html",
         "content": "The powerhouse children\u2019s publisher, known for Harry Potter, had been passed from father to son until Iole Lucchese, a top executive, was given control.",
         "ranked": 4,
         "placed": "Economics",
@@ -178,14 +178,14 @@
                 "Warwick, Peter"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jepGZk"
+            "short_news_url": "https://nyti.ms/3jepGZk"
         }
     },
     {
         "title": "Treasury Warns That Digital Currencies Could Weaken U.S. Sanctions",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/us/politics/sanctions-cryptocurrency-treasury.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/sanctions-cryptocurrency-treasury.html",
         "content": "A review found that the sanctions program must be modernized to maintain its effectiveness.",
         "ranked": 5,
         "placed": "Economics",
@@ -212,14 +212,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BUL6Su"
+            "short_news_url": "https://nyti.ms/3BUL6Su"
         }
     },
     {
         "title": "Nuclear Fusion Edges Toward the Mainstream",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/business/fusion-energy.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/business/fusion-energy.html",
         "content": "Long-shot money is flowing into start-ups that seek the energy of the stars. Driving the investments is a rising alarm about global warming.",
         "ranked": 6,
         "placed": "Economics",
@@ -251,14 +251,14 @@
             "geo_facet": [
                 "Great Britain"
             ],
-            "short_url": "https://nyti.ms/3vkcnes"
+            "short_news_url": "https://nyti.ms/3vkcnes"
         }
     },
     {
         "title": "Microsoft leaders warned Bill Gates over \u2018inappropriate\u2019 emails.",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/business/bill-gates-microsoft.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/business/bill-gates-microsoft.html",
         "content": "Mr. Gates, who at the time was Microsoft\u2019s chairman, had asked a female employee out on a date, a Microsoft spokesman said.",
         "ranked": 7,
         "placed": "Economics",
@@ -286,14 +286,14 @@
                 "Gates, Bill"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3AS4YEv"
+            "short_news_url": "https://nyti.ms/3AS4YEv"
         }
     },
     {
         "title": "Stocks rise for a fifth day, and Bitcoin nears a record high.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/bitcoin-stock-market-today.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/bitcoin-stock-market-today.html",
         "content": "On Tuesday, ProShares will offer a long-awaiting exchange-traded fund on the New York Stock Exchange linked to Bitcoin futures, and Bitcoin has been trading at prices not seen since April.",
         "ranked": 8,
         "placed": "Economics",
@@ -316,14 +316,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": ""
+            "short_news_url": ""
         }
     },
     {
         "title": "Democrats will scale back a proposal to require banks to report balances to the I.R.S.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/irs-bank-account-reporting-requirement.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/irs-bank-account-reporting-requirement.html",
         "content": "Under the new plan, banks would only be required to provide data on accounts with total annual deposits or withdrawals worth more than $10,000, not including payroll and beneficiary deposits, rather than the $600 threshold that was initially proposed.",
         "ranked": 9,
         "placed": "Economics",
@@ -358,14 +358,14 @@
                 "Yellen, Janet L"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3GbX7pl"
+            "short_news_url": "https://nyti.ms/3GbX7pl"
         }
     },
     {
         "title": "Mix-and-Match Covid Boosters: Why They Just Might Work",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html",
         "content": "The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising.",
         "ranked": 10,
         "placed": "Economics",
@@ -396,14 +396,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3G4Rklo"
+            "short_news_url": "https://nyti.ms/3G4Rklo"
         }
     },
     {
         "title": "Recent Commercial Real Estate Transactions",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/new-york-commercial-real-estate.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/new-york-commercial-real-estate.html",
         "content": "Recent commercial real estate transactions in New York.",
         "ranked": 11,
         "placed": "Economics",
@@ -429,14 +429,14 @@
                 "Midtown Area (Manhattan, NY)",
                 "Union Square (Manhattan, NY)"
             ],
-            "short_url": "https://nyti.ms/3G3MuVa"
+            "short_news_url": "https://nyti.ms/3G3MuVa"
         }
     },
     {
         "title": "Global economic growth will stabilize next year, but pandemic debt woes will linger, a report says.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/global-economic-growth-pandemic-oecd.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/global-economic-growth-pandemic-oecd.html",
         "content": "Governments must start addressing the soaring debt used to finance pandemic aid measures, the Organization for Economic Cooperation and Development said.",
         "ranked": 12,
         "placed": "Economics",
@@ -463,14 +463,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3FZsvHi"
+            "short_news_url": "https://nyti.ms/3FZsvHi"
         }
     },
     {
         "title": "When will oil prices peak? Traders and analysts are rethinking their forecasts.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/oil-prices-peak.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/oil-prices-peak.html",
         "content": "A global energy crunch has pushed oil prices up to seven-year highs, and some traders are betting they will rise much more.",
         "ranked": 13,
         "placed": "Economics",
@@ -492,14 +492,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n6fAe6"
+            "short_news_url": "https://nyti.ms/3n6fAe6"
         }
     },
     {
         "title": "The S.E.C. Weighs In on Meme-Stock Mania",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/dealbook/gamestop-meme-stocks-report.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/dealbook/gamestop-meme-stocks-report.html",
         "content": "What a long-awaited report on trading in GameStop and other internet favorites says, and doesn\u2019t say, about online-fueled stock-trading booms.",
         "ranked": 14,
         "placed": "Economics",
@@ -527,14 +527,14 @@
                 "Powell, Colin L"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Z0Qtl3"
+            "short_news_url": "https://nyti.ms/2Z0Qtl3"
         }
     },
     {
         "title": "A New Meaning to \u2018Working in the Garden\u2019",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/home-office-garden.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/home-office-garden.html",
         "content": "With the work-at-home lifestyle likely here to stay, people are taking things outdoors, creating spaces meant for privacy and comfort.",
         "ranked": 15,
         "placed": "Economics",
@@ -563,14 +563,14 @@
                 "Great Britain",
                 "London (England)"
             ],
-            "short_url": "https://nyti.ms/3DOLpyG"
+            "short_news_url": "https://nyti.ms/3DOLpyG"
         }
     },
     {
         "title": "The Zoom Room Design",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/home-design-zoom.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/home-design-zoom.html",
         "content": "Looking for a designer who will update your space from afar? Your dream has come true.",
         "ranked": 16,
         "placed": "Economics",
@@ -599,14 +599,14 @@
                 "Segal, Gillian"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n0hVqI"
+            "short_news_url": "https://nyti.ms/3n0hVqI"
         }
     },
     {
         "title": "One Size Doesn\u2019t Fit All: Employees\u2019 Needs Are Changing Work Spaces",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/work-spaces-design-employees.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/work-spaces-design-employees.html",
         "content": "As workers return, offices are likely to be forever transformed.",
         "ranked": 17,
         "placed": "Economics",
@@ -632,14 +632,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n7BXzN"
+            "short_news_url": "https://nyti.ms/3n7BXzN"
         }
     },
     {
         "title": "What\u2019s Your Pleasure? How About a T-shirt?",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/bar-merchandise-alcohol.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/bar-merchandise-alcohol.html",
         "content": "In part because of Covid lockdowns, bars have gotten into the merchandise game.",
         "ranked": 18,
         "placed": "Economics",
@@ -670,14 +670,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3natVWG"
+            "short_news_url": "https://nyti.ms/3natVWG"
         }
     },
     {
         "title": "Please Unmute Your Mutt",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/dogs-video-training.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/dogs-video-training.html",
         "content": "Dog trainers are turning to video sessions to work with pets and their owners.",
         "ranked": 19,
         "placed": "Economics",
@@ -706,14 +706,14 @@
             "geo_facet": [
                 "Brooklyn (NYC)"
             ],
-            "short_url": "https://nyti.ms/3jaPpSn"
+            "short_news_url": "https://nyti.ms/3jaPpSn"
         }
     },
     {
         "title": "Beef Is a Problem. This Seattle Steakhouse Wants to Be Part of the Solution.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/dining/beef-steakhouse-climate-change.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/dining/beef-steakhouse-climate-change.html",
         "content": "Bateau aims to reinvent the steak restaurant by showing how to sidestep the waste and environmental damage caused by the meat industry.",
         "ranked": 20,
         "placed": "Economics",
@@ -745,14 +745,14 @@
             "geo_facet": [
                 "Seattle (Wash)"
             ],
-            "short_url": "https://nyti.ms/3vxXh5q"
+            "short_news_url": "https://nyti.ms/3vxXh5q"
         }
     },
     {
         "title": "Those Gifts You Want for the Holidays? Don\u2019t Wait Too Long.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html",
         "content": "The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore.",
         "ranked": 21,
         "placed": "Economics",
@@ -777,14 +777,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3phE3zB"
+            "short_news_url": "https://nyti.ms/3phE3zB"
         }
     },
     {
         "title": "Gillian Wearing Has Turned Masks Into an Art Form",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/arts/gillian-wearing-masks.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/arts/gillian-wearing-masks.html",
         "content": "The Guggenheim will show the work of the conceptual artist who probes questions of identity.",
         "ranked": 22,
         "placed": "Economics",
@@ -815,14 +815,14 @@
             "geo_facet": [
                 "Manhattan (NYC)"
             ],
-            "short_url": "https://nyti.ms/3n9zMvw"
+            "short_news_url": "https://nyti.ms/3n9zMvw"
         }
     },
     {
         "title": "Hotels Ponder a Puzzling Future",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/hotels-pandemic-options.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/hotels-pandemic-options.html",
         "content": "Across the industry, the pandemic forced changes that may have to become permanent if the industry is to fully rebound.",
         "ranked": 23,
         "placed": "Economics",
@@ -863,14 +863,14 @@
                 "New York City",
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3DOGJsw"
+            "short_news_url": "https://nyti.ms/3DOGJsw"
         }
     },
     {
         "title": "Desperate for Workers, Restaurants Turn to Robots",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/restaurants-robots-workers.html",
         "content": "They can make French fries, mix drinks and even clean toilets, and they never ask for a raise. But they also break down.",
         "ranked": 24,
         "placed": "Economics",
@@ -898,14 +898,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n8VFel"
+            "short_news_url": "https://nyti.ms/3n8VFel"
         }
     },
     {
         "title": "The Transformation of the Fitness Industry",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/fitness-industry-remote.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/fitness-industry-remote.html",
         "content": "Workouts, like work itself, can be done at home, and clubs are learning how to lure customers back.",
         "ranked": 25,
         "placed": "Economics",
@@ -929,14 +929,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n6cw1F"
+            "short_news_url": "https://nyti.ms/3n6cw1F"
         }
     },
     {
         "title": "The \u2018TikTok Necklace\u2019 Sparks a Vivienne Westwood Renaissance",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/style/vivienne-westwood-tiktok-necklace-nana.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/style/vivienne-westwood-tiktok-necklace-nana.html",
         "content": "Following a social media frenzy, resale sites have seen a spike in searches for the fashion designer\u2019s vintage corsets, jewelry and other items.",
         "ranked": 26,
         "placed": "Economics",
@@ -961,14 +961,14 @@
                 "Westwood, Vivienne"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3DS5yUC"
+            "short_news_url": "https://nyti.ms/3DS5yUC"
         }
     },
     {
         "title": "Is It OK for My Boss to Use a Fake Identity With Customers?",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/magazine/is-it-ok-for-my-boss-to-use-a-fake-identity-with-customers.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/magazine/is-it-ok-for-my-boss-to-use-a-fake-identity-with-customers.html",
         "content": "The magazine\u2019s Ethicist columnist on workplace deceptions.",
         "ranked": 27,
         "placed": "Economics",
@@ -991,14 +991,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jfppFz"
+            "short_news_url": "https://nyti.ms/3jfppFz"
         }
     },
     {
         "title": "Biden\u2019s Paid Leave Plan at Risk as Lawmakers Look to Shrink Package",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/us/politics/biden-paid-leave.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/biden-paid-leave.html",
         "content": "An initial proposal to offer workers 12 weeks of paid leave could be whittled down as Democrats try to trim their $3.5 trillion social policy bill.",
         "ranked": 28,
         "placed": "Economics",
@@ -1027,14 +1027,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jflhoW"
+            "short_news_url": "https://nyti.ms/3jflhoW"
         }
     },
     {
         "title": "F.D.A. to Allow \u2018Mix and Match\u2019 Approach for Covid Booster Shots",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/us/politics/fda-mix-and-match-boosters.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/fda-mix-and-match-boosters.html",
         "content": "The agency may act this week, when it is expected to authorize booster shots for recipients of the Moderna and Johnson & Johnson vaccines.",
         "ranked": 29,
         "placed": "Economics",
@@ -1065,14 +1065,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n7y6mo"
+            "short_news_url": "https://nyti.ms/3n7y6mo"
         }
     },
     {
         "title": "Robert Haas, Financier and Aerial Photographer, Dies at 74",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/business/robert-haas-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/business/robert-haas-dead.html",
         "content": "He specialized in leveraged buyouts in the 1980s, shot distant landscapes and wildlife from helicopters, then collected so many motorcycles that he opened a museum.",
         "ranked": 30,
         "placed": "Economics",
@@ -1099,14 +1099,14 @@
                 "Haas, Robert B"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Z2Wop1"
+            "short_news_url": "https://nyti.ms/2Z2Wop1"
         }
     },
     {
         "title": "S.E.C. Describes the GameStop Frenzy, but Not What to Do About It",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/business/sec-gamestop-meme-report.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/business/sec-gamestop-meme-report.html",
         "content": "A long-anticipated report did not suggest any policy changes in response to the meme stock frenzy that caused some little-regarded shares to soar.",
         "ranked": 31,
         "placed": "Economics",
@@ -1136,14 +1136,14 @@
                 "Gensler, Gary S"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3aNX83Y"
+            "short_news_url": "https://nyti.ms/3aNX83Y"
         }
     },
     {
         "title": "Dawn Hudson, the C.E.O. of the Motion Picture Academy, will step down in 2023.",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/business/media/dawn-hudson-motion-picture-academy.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/business/media/dawn-hudson-motion-picture-academy.html",
         "content": "Under her leadership, the Academy has taken steps to diversify and expand its membership.",
         "ranked": 32,
         "placed": "Economics",
@@ -1170,7 +1170,7 @@
                 "Hudson, Dawn"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2XoPlqt"
+            "short_news_url": "https://nyti.ms/2XoPlqt"
         }
     }
 ]

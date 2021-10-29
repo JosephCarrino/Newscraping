@@ -2,7 +2,7 @@
     {
         "title": "Terror threat against MPs raised to 'substantial'",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-politics-58989053",
+        "news_url": "https://www.bbc.com/news/uk-politics-58989053",
         "content": "Home Secretary Priti Patel says police will change their plans to \"properly\" reflect the situation.",
         "placed": "Politics",
         "epoch": 1634774405.0169613
@@ -10,7 +10,7 @@
     {
         "title": "Terror threat against MPs raised to 'substantial'",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-politics-58989053",
+        "news_url": "https://www.bbc.com/news/uk-politics-58989053",
         "content": "Home Secretary Priti Patel says police will change their plans to \"properly\" reflect the situation.",
         "placed": "Politics",
         "epoch": 1634774405.016986
@@ -18,7 +18,7 @@
     {
         "title": "UK agrees free trade deal with New Zealand",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/business-58988711",
+        "news_url": "https://www.bbc.com/news/business-58988711",
         "content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
         "placed": "Politics",
         "epoch": 1634774405.0170038
@@ -26,7 +26,7 @@
     {
         "title": "Clean out online cesspit now, Starmer tells PM",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-politics-58980384",
+        "news_url": "https://www.bbc.com/news/uk-politics-58980384",
         "content": "Boris Johnson promises to push through \"tough\" online safety laws, at Prime Minister's Questions.",
         "placed": "Politics",
         "epoch": 1634774405.0170197
@@ -34,7 +34,7 @@
     {
         "title": "Political editor",
         "date_raw": "2021-10-19",
-        "url": "https://www.bbc.com/news/uk-politics-58958244",
+        "news_url": "https://www.bbc.com/news/uk-politics-58958244",
         "content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
         "placed": "Politics",
         "epoch": 1634774405.017035
@@ -42,7 +42,7 @@
     {
         "title": "Can new law tackle social media abuse of MPs?",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-politics-58987040",
+        "news_url": "https://www.bbc.com/news/uk-politics-58987040",
         "content": "MPs call the action by anti-vaccine protesters \"scandalous\" in the week after Sir David Amess's death.",
         "placed": "Politics",
         "epoch": 1634774405.0170498
@@ -50,7 +50,7 @@
     {
         "title": "Arrest after mock gallows put up near Parliament",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-58985617",
+        "news_url": "https://www.bbc.com/news/uk-58985617",
         "content": "Additional measures are not needed in England at this point, the health secretary says.",
         "placed": "Politics",
         "epoch": 1634774405.0170643
@@ -58,7 +58,7 @@
     {
         "title": "Get Covid jab or restrictions more likely - Javid",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-politics-58989053",
+        "news_url": "https://www.bbc.com/news/uk-politics-58989053",
         "content": "Home Secretary Priti Patel says police will change their plans to \"properly\" reflect the situation.",
         "placed": "Politics",
         "epoch": 1634774405.0170794
@@ -66,7 +66,7 @@
     {
         "title": "Terror threat against MPs raised to 'substantial'",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/business-58988711",
+        "news_url": "https://www.bbc.com/news/business-58988711",
         "content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
         "placed": "Politics",
         "epoch": 1634774405.0170941
@@ -74,7 +74,7 @@
     {
         "title": "UK agrees free trade deal with New Zealand",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-politics-58980384",
+        "news_url": "https://www.bbc.com/news/uk-politics-58980384",
         "content": "Boris Johnson promises to push through \"tough\" online safety laws, at Prime Minister's Questions.",
         "placed": "Politics",
         "epoch": 1634774405.0171087
@@ -82,7 +82,7 @@
     {
         "title": "Clean out online cesspit now, Starmer tells PM",
         "date_raw": "2021-10-19",
-        "url": "https://www.bbc.com/news/uk-politics-58958244",
+        "news_url": "https://www.bbc.com/news/uk-politics-58958244",
         "content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
         "placed": "Politics",
         "epoch": 1634774405.017123
@@ -90,7 +90,7 @@
     {
         "title": "Political editor",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-politics-58987040",
+        "news_url": "https://www.bbc.com/news/uk-politics-58987040",
         "content": "MPs call the action by anti-vaccine protesters \"scandalous\" in the week after Sir David Amess's death.",
         "placed": "Politics",
         "epoch": 1634774405.0171373
@@ -98,7 +98,7 @@
     {
         "title": "Can new law tackle social media abuse of MPs?",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-58985617",
+        "news_url": "https://www.bbc.com/news/uk-58985617",
         "content": "Additional measures are not needed in England at this point, the health secretary says.",
         "placed": "Politics",
         "epoch": 1634774405.0171518
@@ -106,7 +106,7 @@
     {
         "title": "Arrest after mock gallows put up near Parliament",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/business-58988711",
+        "news_url": "https://www.bbc.com/news/business-58988711",
         "content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
         "placed": "Politics",
         "epoch": 1634774405.0171661
@@ -114,7 +114,7 @@
     {
         "title": "Get Covid jab or restrictions more likely - Javid",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-politics-58980384",
+        "news_url": "https://www.bbc.com/news/uk-politics-58980384",
         "content": "Boris Johnson promises to push through \"tough\" online safety laws, at Prime Minister's Questions.",
         "placed": "Politics",
         "epoch": 1634774405.0171802

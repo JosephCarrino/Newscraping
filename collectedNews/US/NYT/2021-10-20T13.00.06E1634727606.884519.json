@@ -3,7 +3,7 @@
         "title": "A New Strategy to Persuade Voters: Listen Carefully. And Don\u2019t Hurry.",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/us/politics/minneapolis-deep-canvassing.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/us/politics/minneapolis-deep-canvassing.html",
         "content": "Canvassers usually knock on doors hoping to chat briefly. With deep canvassing, the idea is to engage voters in more meaningful conversations.",
         "ranked": 0,
         "placed": "Politics",
@@ -29,14 +29,14 @@
             "geo_facet": [
                 "Minneapolis (Minn)"
             ],
-            "short_url": "https://nyti.ms/3b9GkoB"
+            "short_news_url": "https://nyti.ms/3b9GkoB"
         }
     },
     {
         "title": "House Democratic Retirements Pile Up as Party Fears Losing Majority",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/us/politics/house-democrat-retirements.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/us/politics/house-democrat-retirements.html",
         "content": "As they survey a grim political landscape for their party, three senior House Democrats opt for retirement and lament the factionalism within their ranks.",
         "ranked": 1,
         "placed": "Politics",
@@ -65,14 +65,14 @@
                 "Doyle, Mike (1972- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3C13w3R"
+            "short_news_url": "https://nyti.ms/3C13w3R"
         }
     },
     {
         "title": "Small Needles, Short Lines and Few Tears: Biden\u2019s Plan to Vaccinate Young Children",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/us/politics/kids-covid-vaccination.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/us/politics/kids-covid-vaccination.html",
         "content": "White House officials, anticipating the approval of coronavirus shots for 5- to 11-year-olds within weeks, will rely on doctors, clinics and pharmacies instead of mass inoculation sites.",
         "ranked": 2,
         "placed": "Politics",
@@ -101,14 +101,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vsfPUD"
+            "short_news_url": "https://nyti.ms/3vsfPUD"
         }
     },
     {
         "title": "Trump Interviewed for 4.5 Hours in Protesters\u2019 Lawsuit",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/nyregion/trump-protest-lawsuit-testimony.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/nyregion/trump-protest-lawsuit-testimony.html",
         "content": "The former president was deposed as part of a lawsuit accusing his security guards of roughing up protesters in 2015.",
         "ranked": 3,
         "placed": "Politics",
@@ -139,14 +139,14 @@
             "geo_facet": [
                 "Manhattan (NYC)"
             ],
-            "short_url": "https://nyti.ms/3piZqRh"
+            "short_news_url": "https://nyti.ms/3piZqRh"
         }
     },
     {
         "title": "Democrats, Scaling Back Budget Bill, Press for Compromise by Week\u2019s End",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/democrats-budget-bill.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/democrats-budget-bill.html",
         "content": "As they worked to shrink their marquee domestic policy bill, President Biden told Democrats that a proposal to provide two years of free community college would most likely have to be dropped.",
         "ranked": 4,
         "placed": "Politics",
@@ -177,14 +177,14 @@
                 "Jayapal, Pramila"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BTyn2m"
+            "short_news_url": "https://nyti.ms/3BTyn2m"
         }
     },
     {
         "title": "Republicans Set to Block Voting Bill Again, Raising Stakes on Filibuster",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/senate-filibuster.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/senate-filibuster.html",
         "content": "Lawmakers and activists are becoming increasingly alarmed that the proposed legislation will stall and put Democrats at a disadvantage in coming elections.",
         "ranked": 5,
         "placed": "Politics",
@@ -218,14 +218,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3lSWaKi"
+            "short_news_url": "https://nyti.ms/3lSWaKi"
         }
     },
     {
         "title": "House Panel Recommends Contempt Charge Against Bannon",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/steve-bannon-contempt.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/steve-bannon-contempt.html",
         "content": "The committee scrutinizing the Jan. 6 Capitol riot said the former White House counselor had \u201cmultiple roles relevant to this investigation.\u201d",
         "ranked": 6,
         "placed": "Politics",
@@ -255,14 +255,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3lWFJNa"
+            "short_news_url": "https://nyti.ms/3lWFJNa"
         }
     },
     {
         "title": "Nebraska Congressman Indicted in Campaign Finance Case",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/jeff-fortenberry-indicted-campaign-finance.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/jeff-fortenberry-indicted-campaign-finance.html",
         "content": "Representative Jeff Fortenberry, Republican of Nebraska, was accused of lying to F.B.I. agents investigating illegal foreign donations. He said he would fight the charges.",
         "ranked": 7,
         "placed": "Politics",
@@ -291,14 +291,14 @@
                 "Chagoury, Gilbert R"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BYnBbc"
+            "short_news_url": "https://nyti.ms/3BYnBbc"
         }
     },
     {
         "title": "What We Learned in the Latest Campaign Cash Reports",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/campaign-finance-reports.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/campaign-finance-reports.html",
         "content": "Financial disclosures show who has the early money edge in key races, as well as the value of a Trump endorsement.",
         "ranked": 8,
         "placed": "Politics",
@@ -328,14 +328,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3lWIjCQ"
+            "short_news_url": "https://nyti.ms/3lWIjCQ"
         }
     },
     {
         "title": "Couple in Submarine Spy Case Stewed Over Money and Politics",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
         "content": "Jonathan and Diana Toebbe, charged with trying to sell classified nuclear secrets to a foreign power, struggled with finances, family and the state of America.",
         "ranked": 9,
         "placed": "Politics",
@@ -369,14 +369,14 @@
             "geo_facet": [
                 "Washington Navy Yard (Washington, DC)"
             ],
-            "short_url": "https://nyti.ms/3vtZEGd"
+            "short_news_url": "https://nyti.ms/3vtZEGd"
         }
     },
     {
         "title": "OSHA, citing Covid failures, moves to strip three states of workplace safety authority.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/economy/osha-covid-workplace-safety-states.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/economy/osha-covid-workplace-safety-states.html",
         "content": "The agency said Arizona, South Carolina and Utah had failed to adopt rules protecting workers from the coronavirus.",
         "ranked": 10,
         "placed": "Politics",
@@ -407,14 +407,14 @@
                 "Utah",
                 "Arizona"
             ],
-            "short_url": "https://nyti.ms/3AYaKEG"
+            "short_news_url": "https://nyti.ms/3AYaKEG"
         }
     },
     {
         "title": "Trump\u2019s Pentagon Chief Quashed Idea to Send 250,000 Troops to the Border",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/trump-border.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/trump-border.html",
         "content": "Top national security aides to former President Trump also talked him out of launching military raids against drug cartels inside Mexico.",
         "ranked": 11,
         "placed": "Politics",
@@ -442,14 +442,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3pidQRz"
+            "short_news_url": "https://nyti.ms/3pidQRz"
         }
     },
     {
         "title": "If China Tested a New Orbital Weapon, It\u2019s Not Much of a Surprise",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/science/china-orbital-weapon.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/science/china-orbital-weapon.html",
         "content": "Experts report that similar technologies were developed by Russia and the United States starting more than a half century ago.",
         "ranked": 12,
         "placed": "Politics",
@@ -476,14 +476,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_url": "https://nyti.ms/3lTVTXo"
+            "short_news_url": "https://nyti.ms/3lTVTXo"
         }
     },
     {
         "title": "Iowa Democratic Chair Says He Received Lynching Threat After Criticizing Trump",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/ross-wilburn-trump.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/ross-wilburn-trump.html",
         "content": "Ross Wilburn, the first Black person to lead Iowa\u2019s Democratic Party, said he received several racist messages after writing a column in The Des Moines Register.",
         "ranked": 13,
         "placed": "Politics",
@@ -515,14 +515,14 @@
                 "Iowa",
                 "Des Moines (Iowa)"
             ],
-            "short_url": "https://nyti.ms/3BYhmnM"
+            "short_news_url": "https://nyti.ms/3BYhmnM"
         }
     },
     {
         "title": "The homeland security secretary, Alejandro Mayorkas, tests positive for the coronavirus.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/alejandro-mayorkas-covid-positive.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/alejandro-mayorkas-covid-positive.html",
         "content": "Mr. Mayorkas had been vaccinated and was \u201cexperiencing only mild congestion,\u201d a spokeswoman said. The infection was caught by routine testing ahead of a trip abroad.",
         "ranked": 14,
         "placed": "Politics",
@@ -546,14 +546,14 @@
                 "Mayorkas, Alejandro"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3aYTS5T"
+            "short_news_url": "https://nyti.ms/3aYTS5T"
         }
     },
     {
         "title": "F.B.I. Raids Homes Linked to Russian Oligarch",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/oleg-deripaska-fbi-raid.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/oleg-deripaska-fbi-raid.html",
         "content": "Agents investigating whether Oleg Deripaska violated U.S. sanctions searched homes he has used in New York and Washington, D.C.",
         "ranked": 15,
         "placed": "Politics",
@@ -582,14 +582,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3AWjjzP"
+            "short_news_url": "https://nyti.ms/3AWjjzP"
         }
     },
     {
         "title": "In Virginia, a Test of Messages and Candidates Ahead of the Midterms",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/virginia-governor-race-terry-mcauliffe-glenn-youngkin.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/virginia-governor-race-terry-mcauliffe-glenn-youngkin.html",
         "content": "The tight governor\u2019s race in Virginia is a proving ground for strategies that could help determine control of Congress next year.",
         "ranked": 16,
         "placed": "Politics",
@@ -616,14 +616,14 @@
             "geo_facet": [
                 "Virginia"
             ],
-            "short_url": "https://nyti.ms/3C10hJK"
+            "short_news_url": "https://nyti.ms/3C10hJK"
         }
     },
     {
         "title": "U.S.-Venezuela Tensions Heat Up Again After Extradition of Maduro Ally",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/venezuela-maduro-biden.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/venezuela-maduro-biden.html",
         "content": "As Secretary of State Antony Blinken heads to the region, the window of opportunity for a political resolution has slammed shut. At least for now.",
         "ranked": 17,
         "placed": "Politics",
@@ -657,14 +657,14 @@
             "geo_facet": [
                 "Venezuela"
             ],
-            "short_url": "https://nyti.ms/3peddIR"
+            "short_news_url": "https://nyti.ms/3peddIR"
         }
     },
     {
         "title": "Facebook will pay up to $14 million to settle claims it favored foreign workers.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/technology/facebook-foreign-workers.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/technology/facebook-foreign-workers.html",
         "content": "The Justice Department sued the company in December, arguing that Facebook had declined to \u201crecruit, consider or hire\u201d qualified United States workers for more than 2,000 positions.",
         "ranked": 18,
         "placed": "Politics",
@@ -693,14 +693,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vpFopk"
+            "short_news_url": "https://nyti.ms/3vpFopk"
         }
     },
     {
         "title": "Trump\u2019s Claim of Executive Privilege in the Jan. 6 Inquiry, Explained",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/trump-executive-privilege.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/trump-executive-privilege.html",
         "content": "A new lawsuit by the ex-president and a move to hold Stephen Bannon in contempt of Congress are raising untested issues about secrecy powers.",
         "ranked": 19,
         "placed": "Politics",
@@ -730,14 +730,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n619Xr"
+            "short_news_url": "https://nyti.ms/3n619Xr"
         }
     },
     {
         "title": "Democrats, facing a Republican barrage, scale back plans for a crackdown on tax cheating.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/irs-bank-account-reporting-requirement.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/irs-bank-account-reporting-requirement.html",
         "content": "Banks would have to provide data on accounts with annual deposits or withdrawals exceeding $10,000, not including payroll and beneficiary deposits, rather than $600.",
         "ranked": 20,
         "placed": "Politics",
@@ -772,14 +772,14 @@
                 "Yellen, Janet L"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3GbX7pl"
+            "short_news_url": "https://nyti.ms/3GbX7pl"
         }
     },
     {
         "title": "A transgender U.S. public health official breaks ground on the pandemic\u2019s front line.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html",
         "content": "Admiral Rachel Levine is the first female four-star admiral in the history of the he U.S. Public Health Service Commissioned Corps, which she already leads in her role as assistant secretary.",
         "ranked": 21,
         "placed": "Politics",
@@ -804,14 +804,14 @@
                 "Levine, Rachel (1957- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vqvy6q"
+            "short_news_url": "https://nyti.ms/3vqvy6q"
         }
     },
     {
         "title": "How the American Right Fell in Love With Hungary",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/magazine/viktor-orban-rod-dreher.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/magazine/viktor-orban-rod-dreher.html",
         "content": "Some U.S. conservatives are taking a cue from Prime Minister Viktor Orban \u2014 how to use the power of the state to win the culture wars.",
         "ranked": 22,
         "placed": "Politics",
@@ -850,14 +850,14 @@
                 "Orban, Viktor"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3phzmpO"
+            "short_news_url": "https://nyti.ms/3phzmpO"
         }
     },
     {
         "title": "Democrats\u2019 Divide: Should Obama-Era Economic Ideas Prevail in 2021?",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/upshot/deficit-public-debt-debate.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/upshot/deficit-public-debt-debate.html",
         "content": "A more traditional view is competing against a newer approach that has become mainstream among economists.",
         "ranked": 23,
         "placed": "Politics",
@@ -885,14 +885,14 @@
                 "Obama, Barack"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Z2v7Um"
+            "short_news_url": "https://nyti.ms/2Z2v7Um"
         }
     },
     {
         "title": "After Del Rio, Calls for Fairer Treatment of Black Migrants",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html",
         "content": "The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change.",
         "ranked": 24,
         "placed": "Politics",
@@ -929,7 +929,7 @@
                 "Del Rio (Tex)",
                 "Haiti"
             ],
-            "short_url": "https://nyti.ms/2YZUlmh"
+            "short_news_url": "https://nyti.ms/2YZUlmh"
         }
     }
 ]

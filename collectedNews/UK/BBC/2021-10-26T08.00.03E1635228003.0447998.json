@@ -2,7 +2,7 @@
     {
         "title": "Climate laggard Australia vows to reach net zero",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-australia-59046032",
+        "news_url": "https://www.bbc.com/news/world-australia-59046032",
         "content": "The 2050 target controversially omits new short-term goals and cuts to fossil fuel industries.",
         "placed": "First_Page",
         "epoch": 1635228003.0445037
@@ -10,7 +10,7 @@
     {
         "title": "Climate laggard Australia vows to reach net zero",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-australia-59046032",
+        "news_url": "https://www.bbc.com/news/world-australia-59046032",
         "content": "The 2050 target controversially omits new short-term goals and cuts to fossil fuel industries.",
         "placed": "First_Page",
         "epoch": 1635228003.0445325
@@ -18,7 +18,7 @@
     {
         "title": "Japan princess in muted wedding after controversy",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-asia-59046476",
+        "news_url": "https://www.bbc.com/news/world-asia-59046476",
         "content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
         "placed": "First_Page",
         "epoch": 1635228003.0445526
@@ -26,7 +26,7 @@
     {
         "title": "Afghan baby girl sold for $500 by starving family",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/world-asia-59034650",
+        "news_url": "https://www.bbc.com/news/world-asia-59034650",
         "content": "The BBC’s Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan.",
         "placed": "First_Page",
         "epoch": 1635228003.0445635
@@ -34,7 +34,7 @@
     {
         "title": "Protesters killed and wounded after Sudan coup",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/world-africa-59045020",
+        "news_url": "https://www.bbc.com/news/world-africa-59045020",
         "content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
         "placed": "First_Page",
         "epoch": 1635228003.0445805
@@ -42,7 +42,7 @@
     {
         "title": "Signs of first planet found outside our galaxy",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/science-environment-59044650",
+        "news_url": "https://www.bbc.com/news/science-environment-59044650",
         "content": "Astronomers have found hints of what could be the first planet ever to be discovered outside our galaxy.",
         "placed": "First_Page",
         "epoch": 1635228003.044597
@@ -50,7 +50,7 @@
     {
         "title": "Chappelle slams cancel culture amid Netflix furore",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/world-us-canada-59046022",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046022",
         "content": "\"I am not bending to anybody's demands,\" says the US comic of the transgender backlash he faces.",
         "placed": "First_Page",
         "epoch": 1635228003.0446126
@@ -58,7 +58,7 @@
     {
         "title": "Biden sets new Covid rules as US air travel reopens",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-us-canada-59044856",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044856",
         "content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
         "placed": "First_Page",
         "epoch": 1635228003.0446272
@@ -66,7 +66,7 @@
     {
         "title": "Jeff Bezos unveils plans for 'space business park'",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/world-us-canada-59046076",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046076",
         "content": "His space company Blue Origin hopes its venture will replace the International Space Station.",
         "placed": "First_Page",
         "epoch": 1635228003.0446448
@@ -74,7 +74,7 @@
     {
         "title": "Facebook earns $9bn despite whistleblower scandal",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/business-59046002",
+        "news_url": "https://www.bbc.com/news/business-59046002",
         "content": "The firm posts strong profits as it continues to face negative press over leaked internal documents.",
         "placed": "First_Page",
         "epoch": 1635228003.0446594
@@ -82,7 +82,7 @@
     {
         "title": "Attenborough in 'act now' warning over climate",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/science-environment-59039485",
+        "news_url": "https://www.bbc.com/news/science-environment-59039485",
         "content": "\"If we don't act now, it'll be too late,\" warns Sir David Attenborough ahead of the COP26 climate summit.",
         "placed": "First_Page",
         "epoch": 1635228003.0446742
@@ -90,7 +90,7 @@
     {
         "title": "US serial killer's victim identified after 45 years",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/world-us-canada-59040381",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59040381",
         "content": "Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s.",
         "placed": "First_Page",
         "epoch": 1635228003.044692
@@ -98,7 +98,7 @@
     {
         "title": "Attenborough in 'act now' warning over climate",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/science-environment-59039485",
+        "news_url": "https://www.bbc.com/news/science-environment-59039485",
         "content": "\"If we don't act now, it'll be too late,\" warns Sir David Attenborough ahead of the COP26 climate summit.",
         "placed": "First_Page",
         "epoch": 1635228003.044706
@@ -106,7 +106,7 @@
     {
         "title": "US serial killer's victim identified after 45 years",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/world-us-canada-59040381",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59040381",
         "content": "Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s.",
         "placed": "First_Page",
         "epoch": 1635228003.04472
@@ -114,7 +114,7 @@
     {
         "title": "Tesla surpasses a $1 trillion valuation",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/business-59045100",
+        "news_url": "https://www.bbc.com/news/business-59045100",
         "content": "The electric carmaker becomes the fifth such company to reach the milestone after its shares rise 12%.",
         "placed": "First_Page",
         "epoch": 1635228003.0447335
@@ -122,7 +122,7 @@
     {
         "title": "Baldwin was pointing gun at camera on film set",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/entertainment-arts-59035483",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59035483",
         "content": "Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results.",
         "placed": "First_Page",
         "epoch": 1635228003.0447474
@@ -130,7 +130,7 @@
     {
         "title": "Collector returns Mayan artefact to Guatemala",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/world-latin-america-59032480",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59032480",
         "content": "Plans to auction the fragment, which depicts the head of an ancient ruler, sparked a row in 2019.",
         "placed": "First_Page",
         "epoch": 1635228003.0447612
@@ -138,7 +138,7 @@
     {
         "title": "Four things you can do to help fight climate change",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/science-environment-58171814",
+        "news_url": "https://www.bbc.com/news/science-environment-58171814",
         "content": "The latest global news, sport, weather and documentaries",
         "placed": "First_Page",
         "epoch": 1635228003.044775
@@ -146,7 +146,7 @@
     {
         "title": "Can your sex life be eco-friendly?",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/science-environment-59046518",
+        "news_url": "https://www.bbc.com/news/science-environment-59046518",
         "content": "Stories from around the world",
         "placed": "First_Page",
         "epoch": 1635228003.0447886

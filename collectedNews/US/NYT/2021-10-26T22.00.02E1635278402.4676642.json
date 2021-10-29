@@ -3,7 +3,7 @@
         "title": "Coronavirus Briefing: What Happened Today",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/us/coronavirus-briefing-what-happened-today-quit.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/us/coronavirus-briefing-what-happened-today-quit.html",
         "content": "The Big Quit.",
         "ranked": 0,
         "placed": "First_Page",
@@ -22,14 +22,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3nm2Cck"
+            "short_news_url": "https://nyti.ms/3nm2Cck"
         }
     },
     {
         "title": "At 90, a Composer Is Still Sending Out Blasts",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/arts/music/sofia-gubaidulina-at-90.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/arts/music/sofia-gubaidulina-at-90.html",
         "content": "Sofia Gubaidulina and her richly colored, rhythmically adventurous music are being celebrated around the world this season.",
         "ranked": 1,
         "placed": "First_Page",
@@ -55,14 +55,14 @@
                 "Gubaidulina, Sofia"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3G7eCH1"
+            "short_news_url": "https://nyti.ms/3G7eCH1"
         }
     },
     {
         "title": "\u2018Dune\u2019 Is the Movie We Always Wanted",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/opinion/dune-movie-foundation-series.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/opinion/dune-movie-foundation-series.html",
         "content": "Of sandworms and social science.",
         "ranked": 2,
         "placed": "First_Page",
@@ -89,14 +89,14 @@
                 "Herbert, Frank"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Cio9ZE"
+            "short_news_url": "https://nyti.ms/3Cio9ZE"
         }
     },
     {
         "title": "Suffering From Confounding Symptoms, a Patient Treats Himself",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/books/review/the-deep-places-ross-douthat.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/books/review/the-deep-places-ross-douthat.html",
         "content": "In \u201cThe Deep Places,\u201d Ross Douthat chronicles the illness that continued to plague him no matter what he threw at it.",
         "ranked": 3,
         "placed": "First_Page",
@@ -128,14 +128,14 @@
                 "Connecticut",
                 "Lyme (Conn)"
             ],
-            "short_url": "https://nyti.ms/3pxXggO"
+            "short_news_url": "https://nyti.ms/3pxXggO"
         }
     },
     {
         "title": "Salmonella Outbreak Linked to Onions Sickens More Than 650",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/us/onions-salmonella-outbreak-recall.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/us/onions-salmonella-outbreak-recall.html",
         "content": "The C.D.C. urged consumers to throw away any whole red, white or yellow onions they purchased that do not have a sticker or packaging.",
         "ranked": 4,
         "placed": "First_Page",
@@ -167,14 +167,14 @@
                 "Chihuahua (Mexico)",
                 "Idaho"
             ],
-            "short_url": "https://nyti.ms/3jlRxqw"
+            "short_news_url": "https://nyti.ms/3jlRxqw"
         }
     },
     {
         "title": "Alec Baldwin Was Rehearsing Pointing Gun at Camera, Affidavit Says",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/arts/baldwin-shooting-details.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/arts/baldwin-shooting-details.html",
         "content": "The director of \u201cRust\u201d gave the authorities the most detailed account yet of how the actor fatally shot the film\u2019s cinematographer.",
         "ranked": 5,
         "placed": "First_Page",
@@ -200,14 +200,14 @@
                 "Souza, Joel (1973- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Zia5RL"
+            "short_news_url": "https://nyti.ms/2Zia5RL"
         }
     },
     {
         "title": "At Last, a Royal Wedding. But No Trumpets, Just a News Conference.",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
         "content": "The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad.",
         "ranked": 6,
         "placed": "First_Page",
@@ -235,14 +235,14 @@
             "geo_facet": [
                 "Japan"
             ],
-            "short_url": "https://nyti.ms/3jygTRR"
+            "short_news_url": "https://nyti.ms/3jygTRR"
         }
     },
     {
         "title": "The First Thing We Do, Let\u2019s Kill All the Leaf Blowers",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html",
         "content": "Nearly everything about how Americans \u201ccare\u201d for their lawns is deadly, but these machines exist in a category of environmental hell all their own.",
         "ranked": 7,
         "placed": "First_Page",
@@ -267,14 +267,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Gfut6y"
+            "short_news_url": "https://nyti.ms/3Gfut6y"
         }
     },
     {
         "title": "Cori Bush and A.O.C. Are Right About Jan. 6 and 1866",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/opinion/jan-6-congress-republicans.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/opinion/jan-6-congress-republicans.html",
         "content": "The Fourteenth Amendment shouldn\u2019t just be about the Civil War.",
         "ranked": 8,
         "placed": "First_Page",
@@ -310,7 +310,7 @@
             "geo_facet": [
                 "Washington (DC)"
             ],
-            "short_url": "https://nyti.ms/3EfqHIp"
+            "short_news_url": "https://nyti.ms/3EfqHIp"
         }
     }
 ]

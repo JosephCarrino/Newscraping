@@ -2,7 +2,7 @@
     {
         "title": "Colombia's most wanted drug lord captured",
         "date_raw": "2021-10-24",
-        "url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
         "content": "The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel.",
         "placed": "First_Page",
         "epoch": 1635055202.9122214
@@ -10,7 +10,7 @@
     {
         "title": "Colombia's most wanted drug lord captured",
         "date_raw": "2021-10-24",
-        "url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
         "content": "The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel.",
         "placed": "First_Page",
         "epoch": 1635055202.9122798
@@ -18,7 +18,7 @@
     {
         "title": "Injured filmmaker 'gutted' at movie set death",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-us-canada-59024820",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59024820",
         "content": "Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins.",
         "placed": "First_Page",
         "epoch": 1635055202.9122996
@@ -26,7 +26,7 @@
     {
         "title": "Turkey moves to throw out US envoy and nine others",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-europe-59023465",
+        "news_url": "https://www.bbc.com/news/world-europe-59023465",
         "content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
         "placed": "First_Page",
         "epoch": 1635055202.9123156
@@ -34,7 +34,7 @@
     {
         "title": "Picasso works fetch nearly $110m in Las Vegas sale",
         "date_raw": "2021-10-24",
-        "url": "https://www.bbc.com/news/world-us-canada-59026220",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59026220",
         "content": "The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio.",
         "placed": "First_Page",
         "epoch": 1635055202.9123313
@@ -42,7 +42,7 @@
     {
         "title": "Greta on Greta: I'm a different person in private",
         "date_raw": "P",
-        "url": "https://www.bbc.com/news/science-environment-59024667",
+        "news_url": "https://www.bbc.com/news/science-environment-59024667",
         "content": "The activist says she's unrecognisable when she isn't campaigning for climate action.",
         "placed": "First_Page",
         "epoch": 1635055202.9123423
@@ -50,7 +50,7 @@
     {
         "title": "UK textbook pulled over Native American question",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/education-59024961",
+        "news_url": "https://www.bbc.com/news/education-59024961",
         "content": "An exam board apologises and says the textbook should never have been approved.",
         "placed": "First_Page",
         "epoch": 1635055202.9123578
@@ -58,7 +58,7 @@
     {
         "title": "Record-breaking ferris wheel opens in Dubai",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-middle-east-59024669",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59024669",
         "content": "The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion.",
         "placed": "First_Page",
         "epoch": 1635055202.9123728
@@ -66,7 +66,7 @@
     {
         "title": "Italy's Salvini on trial for blocking migrant boat",
         "date_raw": "",
-        "url": "https://www.bbc.com/news/world-europe-59020839",
+        "news_url": "https://www.bbc.com/news/world-europe-59020839",
         "content": "The right-wing politician is charged with kidnapping and dereliction of duty, which he denies.",
         "placed": "First_Page",
         "epoch": 1635055202.912381
@@ -74,7 +74,7 @@
     {
         "title": "Police probe banner opposing Saudi Newcastle takeover",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/sport/football/59025887",
+        "news_url": "https://www.bbc.com/sport/football/59025887",
         "content": "The banner was held by Crystal Palace fans at their Premier League match on Saturday.",
         "placed": "First_Page",
         "epoch": 1635055202.9123952
@@ -82,7 +82,7 @@
     {
         "title": "China passes law to lift homework pressure",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-asia-china-59020837",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59020837",
         "content": "A new law urges parents to allow children time for rest and exercise, and restrict time spent online.",
         "placed": "First_Page",
         "epoch": 1635055202.9124098
@@ -90,7 +90,7 @@
     {
         "title": "Greta: We need public pressure, not just summits",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/science-environment-59022846",
+        "news_url": "https://www.bbc.com/news/science-environment-59022846",
         "content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
         "placed": "First_Page",
         "epoch": 1635055202.912429
@@ -98,7 +98,7 @@
     {
         "title": "China passes law to lift homework pressure",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-asia-china-59020837",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59020837",
         "content": "A new law urges parents to allow children time for rest and exercise, and restrict time spent online.",
         "placed": "First_Page",
         "epoch": 1635055202.9124463
@@ -106,7 +106,7 @@
     {
         "title": "Greta: We need public pressure, not just summits",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/science-environment-59022846",
+        "news_url": "https://www.bbc.com/news/science-environment-59022846",
         "content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
         "placed": "First_Page",
         "epoch": 1635055202.91246
@@ -114,7 +114,7 @@
     {
         "title": "Saudi Arabia commits to net zero emissions by 2060",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-middle-east-58955584",
+        "news_url": "https://www.bbc.com/news/world-middle-east-58955584",
         "content": "The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels.",
         "placed": "First_Page",
         "epoch": 1635055202.912474
@@ -122,7 +122,7 @@
     {
         "title": "England crush West Indies in T20 opener",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/sport/cricket/59022656",
+        "news_url": "https://www.bbc.com/sport/cricket/59022656",
         "content": "England bowl West Indies out for 55 as they make a stunning start to their Men's T20 World Cup campaign with a six-wicket win in Dubai.",
         "placed": "First_Page",
         "epoch": 1635055202.9124875
@@ -130,7 +130,7 @@
     {
         "title": "Ecuador sprinter Alex Quiñónez shot dead",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-latin-america-59024487",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59024487",
         "content": "Quiñónez, one of the country's best known athletes, was shot in the city of Guayaquil.",
         "placed": "First_Page",
         "epoch": 1635055202.9125013
@@ -138,7 +138,7 @@
     {
         "title": "How adjusting flight plans can help the climate",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/business-58769351",
+        "news_url": "https://www.bbc.com/news/business-58769351",
         "content": "The latest global news, sport, weather and documentaries",
         "placed": "First_Page",
         "epoch": 1635055202.9125152
@@ -146,7 +146,7 @@
     {
         "title": "Why Australia refuses to give up coal",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-australia-57925798",
+        "news_url": "https://www.bbc.com/news/world-australia-57925798",
         "content": "Stories from around the world",
         "placed": "First_Page",
         "epoch": 1635055202.9125288

@@ -3,7 +3,7 @@
         "title": "Nadia Chaudhri, Scientist With an End-of-Life Mission, Dies at 43",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
         "content": "She documented her last months with ovarian cancer on Twitter while raising funds to support students from backgrounds that are underrepresented in the sciences.",
         "ranked": 0,
         "placed": "First_Page",
@@ -33,14 +33,14 @@
                 "Chaudhri, Nadia (1978-2021)"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2ZdrhaT"
+            "short_news_url": "https://nyti.ms/2ZdrhaT"
         }
     },
     {
         "title": "Jason Sudeikis Returns to Play Joe Biden on \u2018Saturday Night Live\u2019",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/arts/television/snl-jason-sudeikis.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/arts/television/snl-jason-sudeikis.html",
         "content": "Sudeikis, the \u201cTed Lasso\u201d star and \u201cS.N.L.\u201d alum, revisited some of the characters and sketch formats he popularized as a cast member on the show.",
         "ranked": 1,
         "placed": "First_Page",
@@ -68,14 +68,14 @@
                 "Jost, Colin"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jwMvrc"
+            "short_news_url": "https://nyti.ms/3jwMvrc"
         }
     },
     {
         "title": "Kyrsten Sinema\u2019s Style Keeps Us Guessing",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 2,
         "placed": "First_Page",
@@ -106,14 +106,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n82nRS"
+            "short_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "Heavy Is the Burden on Japan\u2019s Royal Women",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html",
         "content": "A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles.",
         "ranked": 3,
         "placed": "First_Page",
@@ -144,14 +144,14 @@
             "geo_facet": [
                 "Japan"
             ],
-            "short_url": "https://nyti.ms/3nhVu0w"
+            "short_news_url": "https://nyti.ms/3nhVu0w"
         }
     },
     {
         "title": "Prosecutor Casts Doubt on Account of Train Passengers Not Intervening in Rape",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/us/septa-assault-passengers.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/septa-assault-passengers.html",
         "content": "A local prosecutor disputed accounts, put forth by other authorities, that passengers on the train near Philadelphia had watched the assault happen and done nothing in response.",
         "ranked": 4,
         "placed": "First_Page",
@@ -180,14 +180,14 @@
             "geo_facet": [
                 "Philadelphia (Pa)"
             ],
-            "short_url": "https://nyti.ms/3vzBN8a"
+            "short_news_url": "https://nyti.ms/3vzBN8a"
         }
     },
     {
         "title": "Alec Baldwin Was Told Gun in Fatal Shooting on Set Was Safe, Officials Say",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
         "content": "The actor was told a gun being used as a prop was safe before he fired it on the set of \u201cRust,\u201d killing the film\u2019s cinematographer and wounding its director, law enforcement officials said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -218,14 +218,14 @@
                 "Santa Fe (NM)",
                 "New Mexico"
             ],
-            "short_url": "https://nyti.ms/30FtFrc"
+            "short_news_url": "https://nyti.ms/30FtFrc"
         }
     },
     {
         "title": "Where Facts Were No Match for Fear",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
         "content": "Civic boosters in central Montana hoped for some federal money to promote tourism. A disinformation campaign got in the way.",
         "ranked": 6,
         "placed": "First_Page",
@@ -258,14 +258,14 @@
                 "Great Falls (Mont)",
                 "Montana"
             ],
-            "short_url": "https://nyti.ms/3EawhvP"
+            "short_news_url": "https://nyti.ms/3EawhvP"
         }
     },
     {
         "title": "Their Jobs Made Them Get Vaccinated. They Refused.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
         "content": "The willingness of some workers to give up their livelihoods helps explain the country\u2019s struggle to contain the pandemic.",
         "ranked": 7,
         "placed": "First_Page",
@@ -295,14 +295,14 @@
                 "New York City",
                 "New York State"
             ],
-            "short_url": "https://nyti.ms/3GrMxuv"
+            "short_news_url": "https://nyti.ms/3GrMxuv"
         }
     },
     {
         "title": "How I Became a Sick Person",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
         "content": "A sudden descent into a chronic illness. ",
         "ranked": 8,
         "placed": "First_Page",
@@ -331,7 +331,7 @@
             "geo_facet": [
                 "Connecticut"
             ],
-            "short_url": "https://nyti.ms/3npekCS"
+            "short_news_url": "https://nyti.ms/3npekCS"
         }
     }
 ]

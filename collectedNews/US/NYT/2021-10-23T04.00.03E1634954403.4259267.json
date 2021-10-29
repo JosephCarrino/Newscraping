@@ -3,7 +3,7 @@
         "title": "Prosecutor Casts Doubt on Account of Train Passengers Not Intervening in Rape",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/us/septa-assault-passengers.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/septa-assault-passengers.html",
         "content": "A local prosecutor disputed accounts, put forth by other authorities, that passengers on the train near Philadelphia had watched the assault happen and done nothing in response.",
         "ranked": 0,
         "placed": "First_Page",
@@ -32,14 +32,14 @@
             "geo_facet": [
                 "Philadelphia (Pa)"
             ],
-            "short_url": "https://nyti.ms/3vzBN8a"
+            "short_news_url": "https://nyti.ms/3vzBN8a"
         }
     },
     {
         "title": "The Best Workout for Middle-Aged Bodies",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
         "content": "Research shows that becoming fit in middle age will give you more years of good health \u2014 and the most effective exercise for a middle-aged body can be easier and faster than you might think.",
         "ranked": 1,
         "placed": "First_Page",
@@ -62,14 +62,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3G6e18N"
+            "short_news_url": "https://nyti.ms/3G6e18N"
         }
     },
     {
         "title": "Two Wrongs Don\u2019t Make Mr. Right",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/style/modern-love-hinge-date-not-mr-right.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/modern-love-hinge-date-not-mr-right.html",
         "content": "He wanted to get really serious really fast, which felt good until it didn\u2019t.",
         "ranked": 2,
         "placed": "First_Page",
@@ -91,14 +91,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2ZbOUA6"
+            "short_news_url": "https://nyti.ms/2ZbOUA6"
         }
     },
     {
         "title": "Nadia Chaudhri, Scientist With an End-of-Life Mission, Dies at 43",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
         "content": "She documented her last months with ovarian cancer on Twitter while raising funds to support students from backgrounds that are underrepresented in the sciences.",
         "ranked": 3,
         "placed": "First_Page",
@@ -128,14 +128,14 @@
                 "Chaudhri, Nadia (1978-2021)"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2ZdrhaT"
+            "short_news_url": "https://nyti.ms/2ZdrhaT"
         }
     },
     {
         "title": "Online Furor Over a Student\u2019s Hijab Engulfs a Liberal Town",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/nyregion/hijab-muslim-nj-student.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/nyregion/hijab-muslim-nj-student.html",
         "content": "A 7-year-old told her mother that she resisted a New Jersey teacher\u2019s attempt to pull off her Muslim head covering. It spiraled from there.",
         "ranked": 4,
         "placed": "First_Page",
@@ -166,14 +166,14 @@
             "geo_facet": [
                 "Maplewood (NJ)"
             ],
-            "short_url": "https://nyti.ms/3jsXrpJ"
+            "short_news_url": "https://nyti.ms/3jsXrpJ"
         }
     },
     {
         "title": "Alec Baldwin Was Told Gun in Fatal Shooting on Set Was Safe, Officials Say",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
         "content": "The actor was told a gun being used as a prop was safe before he fired it on the set of \u201cRust,\u201d killing the film\u2019s cinematographer and wounding its director, law enforcement officials said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -204,14 +204,14 @@
                 "Santa Fe (NM)",
                 "New Mexico"
             ],
-            "short_url": "https://nyti.ms/30FtFrc"
+            "short_news_url": "https://nyti.ms/30FtFrc"
         }
     },
     {
         "title": "I Was Wrong About Donald Trump",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
         "content": "Democrats need a bigger, bolder campaign blueprint to save democracy that doesn\u2019t hinge on the whims of Congress.",
         "ranked": 6,
         "placed": "First_Page",
@@ -245,14 +245,14 @@
                 "Virginia",
                 "Georgia"
             ],
-            "short_url": "https://nyti.ms/3nbFbm0"
+            "short_news_url": "https://nyti.ms/3nbFbm0"
         }
     },
     {
         "title": "Amanda Knox Was Exonerated. That Doesn\u2019t Mean She\u2019s Free.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
         "content": "Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms.",
         "ranked": 7,
         "placed": "First_Page",
@@ -277,7 +277,7 @@
                 "Knox, Amanda",
                 "Lewinsky, Monica S",
                 "Guede, Rudy Hermann",
-                "Burleigh, Nina"
+                "Bnews_urleigh, Nina"
             ],
             "geo_facet": [
                 "Italy",
@@ -286,14 +286,14 @@
                 "Vashon Island (Wash)",
                 "Puget Sound"
             ],
-            "short_url": "https://nyti.ms/3GajqeX"
+            "short_news_url": "https://nyti.ms/3GajqeX"
         }
     },
     {
         "title": "Peter Scolari, \u2018Newhart\u2019 and \u2018Girls\u2019 Actor, Is Dead at 66",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/arts/peter-scolari-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/arts/peter-scolari-dead.html",
         "content": "His first big break came as Tom Hanks\u2019s co-star on the TV comedy \u201cBosom Buddies\u201d in the early 1980s. He also worked on the stage, occasionally on Broadway.",
         "ranked": 8,
         "placed": "First_Page",
@@ -327,7 +327,7 @@
                 "Hanks, Tom"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3EaV96q"
+            "short_news_url": "https://nyti.ms/3EaV96q"
         }
     }
 ]

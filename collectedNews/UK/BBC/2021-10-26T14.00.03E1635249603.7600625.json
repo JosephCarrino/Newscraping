@@ -2,7 +2,7 @@
     {
         "title": "Australia's 2050 net zero pledge draws criticism",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-australia-59046032",
+        "news_url": "https://www.bbc.com/news/world-australia-59046032",
         "content": "The target controversially omits new short-term goals and cuts to fossil fuel industries.",
         "placed": "Abroad",
         "epoch": 1635249603.7597842
@@ -10,7 +10,7 @@
     {
         "title": "Australia's 2050 net zero pledge draws criticism",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-australia-59046032",
+        "news_url": "https://www.bbc.com/news/world-australia-59046032",
         "content": "The target controversially omits new short-term goals and cuts to fossil fuel industries.",
         "placed": "Abroad",
         "epoch": 1635249603.7598097
@@ -18,7 +18,7 @@
     {
         "title": "Protests rock Sudan after military coup",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-africa-59045020",
+        "news_url": "https://www.bbc.com/news/world-africa-59045020",
         "content": "Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup.",
         "placed": "Abroad",
         "epoch": 1635249603.759829
@@ -26,7 +26,7 @@
     {
         "title": "Biden sets new Covid rules as US air travel reopens",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/world-us-canada-59044856",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044856",
         "content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
         "placed": "Abroad",
         "epoch": 1635249603.759846
@@ -34,7 +34,7 @@
     {
         "title": "Japanese princess in muted wedding after controversy",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-asia-59046476",
+        "news_url": "https://www.bbc.com/news/world-asia-59046476",
         "content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
         "placed": "Abroad",
         "epoch": 1635249603.7598615
@@ -42,7 +42,7 @@
     {
         "title": "Chappelle slams cancel culture amid Netflix furore",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-us-canada-59046022",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046022",
         "content": "\"I am not bending to anybody's demands,\" says the US comic of the transgender backlash he faces.",
         "placed": "Abroad",
         "epoch": 1635249603.7598772
@@ -50,7 +50,7 @@
     {
         "title": "Jeff Bezos unveils plans for 'space business park'",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-us-canada-59046076",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046076",
         "content": "His space company Blue Origin hopes its venture will replace the International Space Station.",
         "placed": "Abroad",
         "epoch": 1635249603.759892
@@ -58,7 +58,7 @@
     {
         "title": "Signs of first planet found outside our galaxy",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/science-environment-59044650",
+        "news_url": "https://www.bbc.com/news/science-environment-59044650",
         "content": "Astronomers have found hints of what could be the first planet ever to be discovered outside our galaxy.",
         "placed": "Abroad",
         "epoch": 1635249603.7599065
@@ -66,7 +66,7 @@
     {
         "title": "Australia's 2050 net zero pledge draws criticism",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-australia-59046032",
+        "news_url": "https://www.bbc.com/news/world-australia-59046032",
         "content": "The target controversially omits new short-term goals and cuts to fossil fuel industries.",
         "placed": "Abroad",
         "epoch": 1635249603.7599208
@@ -74,7 +74,7 @@
     {
         "title": "Protests rock Sudan after military coup",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-africa-59045020",
+        "news_url": "https://www.bbc.com/news/world-africa-59045020",
         "content": "Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup.",
         "placed": "Abroad",
         "epoch": 1635249603.7599354
@@ -82,7 +82,7 @@
     {
         "title": "Biden sets new Covid rules as US air travel reopens",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/world-us-canada-59044856",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044856",
         "content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
         "placed": "Abroad",
         "epoch": 1635249603.7599502
@@ -90,7 +90,7 @@
     {
         "title": "Japanese princess in muted wedding after controversy",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-asia-59046476",
+        "news_url": "https://www.bbc.com/news/world-asia-59046476",
         "content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
         "placed": "Abroad",
         "epoch": 1635249603.7599645
@@ -98,7 +98,7 @@
     {
         "title": "Chappelle slams cancel culture amid Netflix furore",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-us-canada-59046022",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046022",
         "content": "\"I am not bending to anybody's demands,\" says the US comic of the transgender backlash he faces.",
         "placed": "Abroad",
         "epoch": 1635249603.759979
@@ -106,7 +106,7 @@
     {
         "title": "Jeff Bezos unveils plans for 'space business park'",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-us-canada-59046076",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046076",
         "content": "His space company Blue Origin hopes its venture will replace the International Space Station.",
         "placed": "Abroad",
         "epoch": 1635249603.7599928
@@ -114,7 +114,7 @@
     {
         "title": "Signs of first planet found outside our galaxy",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/science-environment-59044650",
+        "news_url": "https://www.bbc.com/news/science-environment-59044650",
         "content": "Astronomers have found hints of what could be the first planet ever to be discovered outside our galaxy.",
         "placed": "Abroad",
         "epoch": 1635249603.7600071
@@ -122,7 +122,7 @@
     {
         "title": "Protests rock Sudan after military coup",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-africa-59045020",
+        "news_url": "https://www.bbc.com/news/world-africa-59045020",
         "content": "Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup.",
         "placed": "Abroad",
         "epoch": 1635249603.7600212
@@ -130,7 +130,7 @@
     {
         "title": "Biden sets new Covid rules as US air travel reopens",
         "date_raw": "2021-10-25",
-        "url": "https://www.bbc.com/news/world-us-canada-59044856",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044856",
         "content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
         "placed": "Abroad",
         "epoch": 1635249603.7600353
@@ -138,7 +138,7 @@
     {
         "title": "Japanese princess in muted wedding after controversy",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-asia-59046476",
+        "news_url": "https://www.bbc.com/news/world-asia-59046476",
         "content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
         "placed": "Abroad",
         "epoch": 1635249603.7600498

@@ -3,7 +3,7 @@
         "title": "Nadia Chaudhri, Scientist With an End-of-Life Mission, Dies at 43",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
         "content": "She documented her last months with ovarian cancer on Twitter while raising funds to support students from backgrounds that are underrepresented in the sciences.",
         "ranked": 0,
         "placed": "First_Page",
@@ -33,14 +33,14 @@
                 "Chaudhri, Nadia (1978-2021)"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2ZdrhaT"
+            "short_news_url": "https://nyti.ms/2ZdrhaT"
         }
     },
     {
         "title": "Human Remains Found in Search for Brian Laundrie in Florida, F.B.I. Says",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/us/brian-laundrie-body-found-florida-park.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/us/brian-laundrie-body-found-florida-park.html",
         "content": "After searching a thickly wooded park in Sarasota County, the authorities said they had found human remains near items belonging to Mr. Laundrie, a \u201cperson of interest\u201d in the murder of his fianc\u00e9e, Gabrielle Petito.",
         "ranked": 1,
         "placed": "First_Page",
@@ -70,14 +70,14 @@
                 "Wyoming",
                 "Grand Teton National Park (Wyo)"
             ],
-            "short_url": "https://nyti.ms/2Z6fqvr"
+            "short_news_url": "https://nyti.ms/2Z6fqvr"
         }
     },
     {
         "title": "Salmonella Outbreak Linked to Onions Sickens More Than 650",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/us/onions-salmonella-outbreak-recall.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/us/onions-salmonella-outbreak-recall.html",
         "content": "The C.D.C. urged consumers to throw away any whole red, white or yellow onions they purchased that do not have a sticker or packaging.",
         "ranked": 2,
         "placed": "First_Page",
@@ -109,14 +109,14 @@
                 "Chihuahua (Mexico)",
                 "Idaho"
             ],
-            "short_url": "https://nyti.ms/3jlRxqw"
+            "short_news_url": "https://nyti.ms/3jlRxqw"
         }
     },
     {
         "title": "A Subway Rider Confronted Unmasked Police Officers. They Kicked Him Out.",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/nyregion/nypd-unmasked-covid.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/nyregion/nypd-unmasked-covid.html",
         "content": "Andrew Gilbert said he repeatedly asked two officers to wear masks in accordance with M.T.A. and Police Department policy. He was eventually pushed out of the station.",
         "ranked": 3,
         "placed": "First_Page",
@@ -147,14 +147,14 @@
             "geo_facet": [
                 "New York City"
             ],
-            "short_url": "https://nyti.ms/2XuoM34"
+            "short_news_url": "https://nyti.ms/2XuoM34"
         }
     },
     {
         "title": "Fear on Cape Cod as Sharks Hunt Again",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/interactive/2021/10/20/magazine/sharks-cape-cod.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/20/magazine/sharks-cape-cod.html",
         "content": "The apex predator is back along New England\u2019s beaches. What will it take to keep people safe?",
         "ranked": 4,
         "placed": "First_Page",
@@ -197,14 +197,14 @@
                 "Cape Cod (Mass)",
                 "Nova Scotia (Canada)"
             ],
-            "short_url": "https://nyti.ms/3jjqax2"
+            "short_news_url": "https://nyti.ms/3jjqax2"
         }
     },
     {
         "title": "The True Cost of Upgrading Your Phone",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/technology/personaltech/iphone-upgrades-cost.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/technology/personaltech/iphone-upgrades-cost.html",
         "content": "Buying a $1,000 iPhone can be equivalent to giving up $17,000 in retirement savings or 2,500 cups of coffee.",
         "ranked": 5,
         "placed": "First_Page",
@@ -236,14 +236,14 @@
                 "Orman, Suze"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3m6HM1j"
+            "short_news_url": "https://nyti.ms/3m6HM1j"
         }
     },
     {
         "title": "Vikings Were in the Americas Exactly 1,000 Years Ago",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
         "content": "By studying tree rings and using a dash of astrophysics, researchers have pinned down a precise year that settlers from Europe were on land that would come to be known as Newfoundland.",
         "ranked": 6,
         "placed": "First_Page",
@@ -275,14 +275,14 @@
                 "Newfoundland (Canada)",
                 "Canada"
             ],
-            "short_url": "https://nyti.ms/3jkQrey"
+            "short_news_url": "https://nyti.ms/3jkQrey"
         }
     },
     {
         "title": "Trump Organization, Already Under Indictment, Faces New Criminal Inquiry",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
         "content": "The investigation, by the Westchester County district attorney\u2019s office, increases the legal scrutiny of the former president and his family business.",
         "ranked": 7,
         "placed": "First_Page",
@@ -319,14 +319,14 @@
                 "Ossining (NY)",
                 "Westchester County (NY)"
             ],
-            "short_url": "https://nyti.ms/2Z3McwO"
+            "short_news_url": "https://nyti.ms/2Z3McwO"
         }
     },
     {
         "title": "It\u2019s Quitting Season",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/opinion/quitting-jobs-resignation-employment.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/opinion/quitting-jobs-resignation-employment.html",
         "content": "Time to stop being a martyr to grit.",
         "ranked": 8,
         "placed": "First_Page",
@@ -350,7 +350,7 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Z3MhR8"
+            "short_news_url": "https://nyti.ms/2Z3MhR8"
         }
     }
 ]

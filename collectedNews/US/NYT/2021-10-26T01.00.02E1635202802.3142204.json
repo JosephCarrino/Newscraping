@@ -3,7 +3,7 @@
         "title": "Coronavirus Briefing: What Happened Today",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/us/coronavirus-briefing-what-happened-today-fired-quit-vaccine-mandates.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/us/coronavirus-briefing-what-happened-today-fired-quit-vaccine-mandates.html",
         "content": "They lost their jobs to vaccine mandates.",
         "ranked": 0,
         "placed": "First_Page",
@@ -22,14 +22,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Be4cli"
+            "short_news_url": "https://nyti.ms/3Be4cli"
         }
     },
     {
         "title": "Is It Covid-19 or the Flu?",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/interactive/2021/10/25/well/live/covid-or-flu.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/25/well/live/covid-or-flu.html",
         "content": "Though the symptoms of flu and Covid-19 can be similar, there are ways to tell them apart. Here\u2019s how.",
         "ranked": 1,
         "placed": "First_Page",
@@ -52,14 +52,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2XO7MoM"
+            "short_news_url": "https://nyti.ms/2XO7MoM"
         }
     },
     {
         "title": "Queen Elizabeth Was Hospitalized, Palace Discloses",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html",
         "content": "She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland.",
         "ranked": 2,
         "placed": "First_Page",
@@ -85,14 +85,14 @@
             "geo_facet": [
                 "Great Britain"
             ],
-            "short_url": "https://nyti.ms/3B8BIJz"
+            "short_news_url": "https://nyti.ms/3B8BIJz"
         }
     },
     {
         "title": "The 31st Date Was a Charm",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/style/gabi-conti-daren-johnson-wedding.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/gabi-conti-daren-johnson-wedding.html",
         "content": "Gabi Conti\u2019s romantic losing streak was broken when she met Daren Johnson \u2014 and gave him a much-needed attitude adjustment.",
         "ranked": 3,
         "placed": "First_Page",
@@ -113,14 +113,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3b1HX7C"
+            "short_news_url": "https://nyti.ms/3b1HX7C"
         }
     },
     {
         "title": "Their Chemistry Developed Organically",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/style/ashley-chiang-roy-xiao-wedding.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/ashley-chiang-roy-xiao-wedding.html",
         "content": "Ashley Chiang and Dr. Roy Xiao met on the first day of freshmen orientation at Princeton, but their relationship didn\u2019t take off until sophomore year.",
         "ranked": 4,
         "placed": "First_Page",
@@ -141,14 +141,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CcrIkc"
+            "short_news_url": "https://nyti.ms/3CcrIkc"
         }
     },
     {
         "title": "Alec Baldwin Was Rehearsing Pointing Gun at Camera, Affidavit Says",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/arts/baldwin-shooting-details.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/arts/baldwin-shooting-details.html",
         "content": "The director of \u201cRust\u201d gave the authorities the most detailed account yet of how the actor fatally shot the film\u2019s cinematographer.",
         "ranked": 5,
         "placed": "First_Page",
@@ -174,14 +174,14 @@
                 "Souza, Joel (1973- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Zia5RL"
+            "short_news_url": "https://nyti.ms/2Zia5RL"
         }
     },
     {
         "title": "Their Jobs Made Them Get Vaccinated. They Refused.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
         "content": "The willingness of some workers to give up their livelihoods helps explain the country\u2019s struggle to contain the pandemic.",
         "ranked": 6,
         "placed": "First_Page",
@@ -212,14 +212,14 @@
                 "New York City",
                 "New York State"
             ],
-            "short_url": "https://nyti.ms/3GrMxuv"
+            "short_news_url": "https://nyti.ms/3GrMxuv"
         }
     },
     {
         "title": "Where Facts Were No Match for Fear",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
         "content": "Civic boosters in central Montana hoped for some federal money to promote tourism. A disinformation campaign got in the way.",
         "ranked": 7,
         "placed": "First_Page",
@@ -256,14 +256,14 @@
                 "Cascade County (Mont)",
                 "Montana"
             ],
-            "short_url": "https://nyti.ms/3EawhvP"
+            "short_news_url": "https://nyti.ms/3EawhvP"
         }
     },
     {
         "title": "The Rotten Core of the Republican Party",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/opinion/republicans-tax-evasion.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/opinion/republicans-tax-evasion.html",
         "content": "By enabling resistance to lawful taxation, Republicans are undermining democracy.",
         "ranked": 8,
         "placed": "First_Page",
@@ -293,7 +293,7 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Gj8Rq0"
+            "short_news_url": "https://nyti.ms/3Gj8Rq0"
         }
     }
 ]

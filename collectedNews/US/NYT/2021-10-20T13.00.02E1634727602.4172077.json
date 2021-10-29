@@ -3,7 +3,7 @@
         "title": "Female Judges in Afghanistan, Now Jobless and in Hiding",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html",
         "content": "They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. \u201cWe have lost everything \u2014 our jobs, our homes, the way we lived.\u201d",
         "ranked": 0,
         "placed": "First_Page",
@@ -30,14 +30,14 @@
             "geo_facet": [
                 "Afghanistan"
             ],
-            "short_url": "https://nyti.ms/3BY1ykQ"
+            "short_news_url": "https://nyti.ms/3BY1ykQ"
         }
     },
     {
         "title": "In Minneapolis, a Thriving Center for Indigenous Art",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/arts/minneapolis-native-american-culture.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/arts/minneapolis-native-american-culture.html",
         "content": "The eight-block American Indian Cultural Corridor celebrates Native American art and commerce.",
         "ranked": 1,
         "placed": "First_Page",
@@ -65,14 +65,14 @@
             "geo_facet": [
                 "Minneapolis (Minn)"
             ],
-            "short_url": "https://nyti.ms/3AW91zt"
+            "short_news_url": "https://nyti.ms/3AW91zt"
         }
     },
     {
         "title": "The Strange Appeal of Shelter TikTok",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/magazine/tiktok-home-design.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/magazine/tiktok-home-design.html",
         "content": "TikTok has developed its own approach to home-design content: Skip over the home to obsess over the objects inside.",
         "ranked": 2,
         "placed": "First_Page",
@@ -102,14 +102,14 @@
                 "Johnson, Dakota"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3aSRkpU"
+            "short_news_url": "https://nyti.ms/3aSRkpU"
         }
     },
     {
         "title": "Pablo Picasso\u2019s Life Under Surveillance",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/arts/pablo-picasso-france.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/arts/pablo-picasso-france.html",
         "content": "A museum show in Paris explores the Spanish artist\u2019s time in France, where his connections and celebrity made him a suspect in the eyes of officials.",
         "ranked": 3,
         "placed": "First_Page",
@@ -137,14 +137,14 @@
                 "Cohen-Solal, Annie"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Xz2cXe"
+            "short_news_url": "https://nyti.ms/2Xz2cXe"
         }
     },
     {
         "title": "Waiting on U.S. Mandate, Some Nursing Homes Are Slow to Vaccinate Staff",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/health/nursing-homes-covid-vaccine-mandate.html",
+        "news_url": "https://www.nytimes.com/2021/10/20/health/nursing-homes-covid-vaccine-mandate.html",
         "content": "Less than half of workers are still not immunized at facilities in several states. \u201cI just feel like a sitting duck,\u201d one resident said.",
         "ranked": 4,
         "placed": "First_Page",
@@ -174,14 +174,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3ATj1cN"
+            "short_news_url": "https://nyti.ms/3ATj1cN"
         }
     },
     {
         "title": "The Economic Rebound Is Still Waiting for Workers",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
         "content": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
         "ranked": 5,
         "placed": "First_Page",
@@ -212,14 +212,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3C47g4Y"
+            "short_news_url": "https://nyti.ms/3C47g4Y"
         }
     },
     {
         "title": "Couple in Submarine Spy Case Stewed Over Money and Politics",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
         "content": "Jonathan and Diana Toebbe, charged with trying to sell classified nuclear secrets to a foreign power, struggled with finances, family and the state of America.",
         "ranked": 6,
         "placed": "First_Page",
@@ -253,14 +253,14 @@
             "geo_facet": [
                 "Washington Navy Yard (Washington, DC)"
             ],
-            "short_url": "https://nyti.ms/3vtZEGd"
+            "short_news_url": "https://nyti.ms/3vtZEGd"
         }
     },
     {
         "title": "In a First, Surgeons Attached a Pig Kidney to a Human \u2014 and It Worked",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html",
         "content": "A kidney grown in a genetically altered pig seemed to function normally, potentially a new source for desperately needed transplant organs.",
         "ranked": 7,
         "placed": "First_Page",
@@ -290,14 +290,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jl5jtl"
+            "short_news_url": "https://nyti.ms/3jl5jtl"
         }
     },
     {
         "title": "Trump Interviewed for 4.5 Hours in Protesters\u2019 Lawsuit",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/nyregion/trump-protest-lawsuit-testimony.html",
+        "news_url": "https://www.nytimes.com/2021/10/19/nyregion/trump-protest-lawsuit-testimony.html",
         "content": "The former president was deposed as part of a lawsuit accusing his security guards of roughing up protesters in 2015.",
         "ranked": 8,
         "placed": "First_Page",
@@ -328,7 +328,7 @@
             "geo_facet": [
                 "Manhattan (NYC)"
             ],
-            "short_url": "https://nyti.ms/3piZqRh"
+            "short_news_url": "https://nyti.ms/3piZqRh"
         }
     }
 ]

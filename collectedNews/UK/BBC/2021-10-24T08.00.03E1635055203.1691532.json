@@ -2,7 +2,7 @@
     {
         "title": "Colombia's most wanted drug lord captured",
         "date_raw": "2021-10-24",
-        "url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
         "content": "The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel.",
         "placed": "Abroad",
         "epoch": 1635055203.1688836
@@ -10,7 +10,7 @@
     {
         "title": "Colombia's most wanted drug lord captured",
         "date_raw": "2021-10-24",
-        "url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
         "content": "The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel.",
         "placed": "Abroad",
         "epoch": 1635055203.1689095
@@ -18,7 +18,7 @@
     {
         "title": "Turkey moves to throw out US envoy and nine others",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-europe-59023465",
+        "news_url": "https://www.bbc.com/news/world-europe-59023465",
         "content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
         "placed": "Abroad",
         "epoch": 1635055203.168929
@@ -26,7 +26,7 @@
     {
         "title": "Injured filmmaker 'gutted' at movie set death",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-us-canada-59024820",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59024820",
         "content": "Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins.",
         "placed": "Abroad",
         "epoch": 1635055203.1689453
@@ -34,7 +34,7 @@
     {
         "title": "Picasso works fetch nearly $110m in Las Vegas sale",
         "date_raw": "2021-10-24",
-        "url": "https://www.bbc.com/news/world-us-canada-59026220",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59026220",
         "content": "The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio Hotel.",
         "placed": "Abroad",
         "epoch": 1635055203.1689606
@@ -42,7 +42,7 @@
     {
         "title": "Saudi Arabia commits to net zero emissions by 2060",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-middle-east-58955584",
+        "news_url": "https://www.bbc.com/news/world-middle-east-58955584",
         "content": "The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels.",
         "placed": "Abroad",
         "epoch": 1635055203.1689758
@@ -50,7 +50,7 @@
     {
         "title": "Record-breaking ferris wheel opens in Dubai",
         "date_raw": "",
-        "url": "https://www.bbc.com/news/world-middle-east-59024669",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59024669",
         "content": "The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion.",
         "placed": "Abroad",
         "epoch": 1635055203.168989
@@ -58,7 +58,7 @@
     {
         "title": "Greta: We need public pressure, not just summits",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/science-environment-59022846",
+        "news_url": "https://www.bbc.com/news/science-environment-59022846",
         "content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
         "placed": "Abroad",
         "epoch": 1635055203.1690042
@@ -66,7 +66,7 @@
     {
         "title": "Colombia's most wanted drug lord captured",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
         "content": "The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel.",
         "placed": "Abroad",
         "epoch": 1635055203.169019
@@ -74,7 +74,7 @@
     {
         "title": "Turkey moves to throw out US envoy and nine others",
         "date_raw": "2021-10-24",
-        "url": "https://www.bbc.com/news/world-europe-59023465",
+        "news_url": "https://www.bbc.com/news/world-europe-59023465",
         "content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
         "placed": "Abroad",
         "epoch": 1635055203.1690335
@@ -82,7 +82,7 @@
     {
         "title": "Injured filmmaker 'gutted' at movie set death",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-us-canada-59024820",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59024820",
         "content": "Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins.",
         "placed": "Abroad",
         "epoch": 1635055203.1690476
@@ -90,7 +90,7 @@
     {
         "title": "Picasso works fetch nearly $110m in Las Vegas sale",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-us-canada-59026220",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59026220",
         "content": "The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio Hotel.",
         "placed": "Abroad",
         "epoch": 1635055203.1690617
@@ -98,7 +98,7 @@
     {
         "title": "Saudi Arabia commits to net zero emissions by 2060",
         "date_raw": "2021-10-24",
-        "url": "https://www.bbc.com/news/world-middle-east-58955584",
+        "news_url": "https://www.bbc.com/news/world-middle-east-58955584",
         "content": "The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels.",
         "placed": "Abroad",
         "epoch": 1635055203.1690757
@@ -106,7 +106,7 @@
     {
         "title": "Record-breaking ferris wheel opens in Dubai",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-middle-east-59024669",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59024669",
         "content": "The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion.",
         "placed": "Abroad",
         "epoch": 1635055203.1690898
@@ -114,7 +114,7 @@
     {
         "title": "Greta: We need public pressure, not just summits",
         "date_raw": "",
-        "url": "https://www.bbc.com/news/science-environment-59022846",
+        "news_url": "https://www.bbc.com/news/science-environment-59022846",
         "content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
         "placed": "Abroad",
         "epoch": 1635055203.1690974
@@ -122,7 +122,7 @@
     {
         "title": "Turkey moves to throw out US envoy and nine others",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-europe-59023465",
+        "news_url": "https://www.bbc.com/news/world-europe-59023465",
         "content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
         "placed": "Abroad",
         "epoch": 1635055203.1691117
@@ -130,7 +130,7 @@
     {
         "title": "Injured filmmaker 'gutted' at movie set death",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-us-canada-59024820",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59024820",
         "content": "Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins.",
         "placed": "Abroad",
         "epoch": 1635055203.1691258
@@ -138,7 +138,7 @@
     {
         "title": "Picasso works fetch nearly $110m in Las Vegas sale",
         "date_raw": "2021-10-23",
-        "url": "https://www.bbc.com/news/world-us-canada-59026220",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59026220",
         "content": "The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio Hotel.",
         "placed": "Abroad",
         "epoch": 1635055203.1691399
