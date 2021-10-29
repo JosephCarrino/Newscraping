@@ -3,7 +3,7 @@
         "title": "Texas Urges Supreme Court to Leave Its Restrictive Abortion Law in Place",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/us/politics/texas-abortion-law-supreme-court.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/texas-abortion-law-supreme-court.html",
         "content": "The Biden administration had asked the court to block the law. State officials called the request procedurally flawed, saying the court was powerless to grant it.",
         "ranked": 0,
         "placed": "First_Page",
@@ -36,14 +36,14 @@
             "geo_facet": [
                 "Texas"
             ],
-            "short_url": "https://nyti.ms/3DUAxPY"
+            "short_news_url": "https://nyti.ms/3DUAxPY"
         }
     },
     {
         "title": "What to Do With All Those Apples",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/dining/apple-recipes-weeknight.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/dining/apple-recipes-weeknight.html",
         "content": "Did you bring home a ton from the orchard, too? Here\u2019s how to use them.",
         "ranked": 1,
         "placed": "First_Page",
@@ -66,14 +66,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3m7hSdM"
+            "short_news_url": "https://nyti.ms/3m7hSdM"
         }
     },
     {
         "title": "6 Marathons in 6 Weeks",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/interactive/2021/10/21/sports/shalane-flanagan-marathon-challenge.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/21/sports/shalane-flanagan-marathon-challenge.html",
         "content": "In her quest to run all six major marathons in this closely packed fall season, Flanagan will run Chicago on Sunday and Boston on Monday.",
         "ranked": 2,
         "placed": "First_Page",
@@ -101,14 +101,14 @@
                 "Flanagan, Shalane"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3B0TyhH"
+            "short_news_url": "https://nyti.ms/3B0TyhH"
         }
     },
     {
         "title": "11 Days After Driveway Killing, Texas Man Is Arrested",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/us/texas-driveway-killing.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/texas-driveway-killing.html",
         "content": "Terry Turner, a 65-year-old Texas man, told a 911 dispatcher that he \u201ckilled a guy\u201d who was sitting in a car in his driveway, an affidavit said. A grand jury is deciding on charges, his lawyer said.",
         "ranked": 3,
         "placed": "First_Page",
@@ -135,14 +135,14 @@
             "geo_facet": [
                 "Martindale (Tex)"
             ],
-            "short_url": "https://nyti.ms/3vL8rDM"
+            "short_news_url": "https://nyti.ms/3vL8rDM"
         }
     },
     {
         "title": "At Last, a Royal Wedding. But No Trumpets, Just a News Conference.",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
         "content": "The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad.",
         "ranked": 4,
         "placed": "First_Page",
@@ -170,14 +170,14 @@
             "geo_facet": [
                 "Japan"
             ],
-            "short_url": "https://nyti.ms/3jygTRR"
+            "short_news_url": "https://nyti.ms/3jygTRR"
         }
     },
     {
         "title": "\u2018Dune\u2019 Is the Movie We Always Wanted",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/opinion/dune-movie-foundation-series.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/opinion/dune-movie-foundation-series.html",
         "content": "Of sandworms and social science.",
         "ranked": 5,
         "placed": "First_Page",
@@ -204,14 +204,14 @@
                 "Herbert, Frank"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Cio9ZE"
+            "short_news_url": "https://nyti.ms/3Cio9ZE"
         }
     },
     {
         "title": "Criminal Charges Possible in Shooting on Alec Baldwin Set, D.A. Says",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/movies/criminal-charges-shooting-alec-baldwin.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/movies/criminal-charges-shooting-alec-baldwin.html",
         "content": "An inquiry into how a cinematographer was killed with a gun the actor was rehearsing with, which was not supposed to have live rounds in it, could take weeks.",
         "ranked": 6,
         "placed": "First_Page",
@@ -243,14 +243,14 @@
             "geo_facet": [
                 "Santa Fe (NM)"
             ],
-            "short_url": "https://nyti.ms/3jEdOQC"
+            "short_news_url": "https://nyti.ms/3jEdOQC"
         }
     },
     {
         "title": "The Moral Chasm That Has Opened Up Between Left and Right Is Widening",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
         "content": "The things that are driving us apart are going to keep driving us apart.\u00a0",
         "ranked": 7,
         "placed": "First_Page",
@@ -280,7 +280,7 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BirpTE"
+            "short_news_url": "https://nyti.ms/3BirpTE"
         }
     }
 ]

@@ -2,7 +2,7 @@
     {
         "title": "WHO warns pandemic will drag on into 2022",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/health-58973697",
+        "news_news_url": "https://www.bbc.com/news/health-58973697",
         "content": "Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say.",
         "placed": "Abroad",
         "epoch": 1634796003.42603
@@ -10,7 +10,7 @@
     {
         "title": "WHO warns pandemic will drag on into 2022",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/health-58973697",
+        "news_news_url": "https://www.bbc.com/news/health-58973697",
         "content": "Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say.",
         "placed": "Abroad",
         "epoch": 1634796003.4260645
@@ -18,7 +18,7 @@
     {
         "title": "Trump to launch social media platform TRUTH Social",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-us-canada-58990330",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58990330",
         "content": "The former US president said it would be used to \"stand up to the tyranny of big tech\".",
         "placed": "Abroad",
         "epoch": 1634796003.4260838
@@ -26,7 +26,7 @@
     {
         "title": "Leak reveals lobbying to change key climate report",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/science-environment-58982445",
+        "news_news_url": "https://www.bbc.com/news/science-environment-58982445",
         "content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
         "placed": "Abroad",
         "epoch": 1634796003.4261012
@@ -34,7 +34,7 @@
     {
         "title": "Remains found in hunt for blogger's fiancé - FBI",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-us-canada-58989242",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58989242",
         "content": "Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida.",
         "placed": "Abroad",
         "epoch": 1634796003.426118
@@ -42,7 +42,7 @@
     {
         "title": "Evergrande shares plunge as trading resumes",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/business-58976991",
+        "news_news_url": "https://www.bbc.com/news/business-58976991",
         "content": "Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong.",
         "placed": "Abroad",
         "epoch": 1634796003.4261334
@@ -50,7 +50,7 @@
     {
         "title": "Death toll passes 150 in Nepal-India floods",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-asia-india-58951456",
+        "news_news_url": "https://www.bbc.com/news/world-asia-india-58951456",
         "content": "Heavy rain triggers flash floods and landslides in parts of India and Nepal.",
         "placed": "Abroad",
         "epoch": 1634796003.426149
@@ -58,7 +58,7 @@
     {
         "title": "'Greed causing death and destruction in Himalayas'",
         "date_raw": "P",
-        "url": "https://www.bbc.com/news/world-asia-india-58895752",
+        "news_news_url": "https://www.bbc.com/news/world-asia-india-58895752",
         "content": "Locals in the Indian state of Himachal Pradesh are demanding a stop to new hydro-power projects.",
         "placed": "Abroad",
         "epoch": 1634796003.426161
@@ -66,7 +66,7 @@
     {
         "title": "WHO warns pandemic will drag on into 2022",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/health-58973697",
+        "news_news_url": "https://www.bbc.com/news/health-58973697",
         "content": "Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say.",
         "placed": "Abroad",
         "epoch": 1634796003.42618
@@ -74,7 +74,7 @@
     {
         "title": "Trump to launch social media platform TRUTH Social",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-us-canada-58990330",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58990330",
         "content": "The former US president said it would be used to \"stand up to the tyranny of big tech\".",
         "placed": "Abroad",
         "epoch": 1634796003.4261954
@@ -82,7 +82,7 @@
     {
         "title": "Leak reveals lobbying to change key climate report",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/science-environment-58982445",
+        "news_news_url": "https://www.bbc.com/news/science-environment-58982445",
         "content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
         "placed": "Abroad",
         "epoch": 1634796003.4262133
@@ -90,7 +90,7 @@
     {
         "title": "Remains found in hunt for blogger's fiancé - FBI",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-us-canada-58989242",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58989242",
         "content": "Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida.",
         "placed": "Abroad",
         "epoch": 1634796003.4262285
@@ -98,7 +98,7 @@
     {
         "title": "Evergrande shares plunge as trading resumes",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/business-58976991",
+        "news_news_url": "https://www.bbc.com/news/business-58976991",
         "content": "Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong.",
         "placed": "Abroad",
         "epoch": 1634796003.4262466
@@ -106,7 +106,7 @@
     {
         "title": "Death toll passes 150 in Nepal-India floods",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-asia-india-58951456",
+        "news_news_url": "https://www.bbc.com/news/world-asia-india-58951456",
         "content": "Heavy rain triggers flash floods and landslides in parts of India and Nepal.",
         "placed": "Abroad",
         "epoch": 1634796003.4262614
@@ -114,7 +114,7 @@
     {
         "title": "'Greed causing death and destruction in Himalayas'",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-asia-india-58895752",
+        "news_news_url": "https://www.bbc.com/news/world-asia-india-58895752",
         "content": "Locals in the Indian state of Himachal Pradesh are demanding a stop to new hydro-power projects.",
         "placed": "Abroad",
         "epoch": 1634796003.4262762
@@ -122,7 +122,7 @@
     {
         "title": "Trump to launch social media platform TRUTH Social",
         "date_raw": "P",
-        "url": "https://www.bbc.com/news/world-us-canada-58990330",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58990330",
         "content": "The former US president said it would be used to \"stand up to the tyranny of big tech\".",
         "placed": "Abroad",
         "epoch": 1634796003.4262838
@@ -130,7 +130,7 @@
     {
         "title": "Leak reveals lobbying to change key climate report",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/science-environment-58982445",
+        "news_news_url": "https://www.bbc.com/news/science-environment-58982445",
         "content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
         "placed": "Abroad",
         "epoch": 1634796003.4262986
@@ -138,7 +138,7 @@
     {
         "title": "Remains found in hunt for blogger's fiancé - FBI",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-us-canada-58989242",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58989242",
         "content": "Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida.",
         "placed": "Abroad",
         "epoch": 1634796003.4263165

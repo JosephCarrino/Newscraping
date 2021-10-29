@@ -2,7 +2,7 @@
     {
         "title": "Senators back criminal charges against Bolsonaro",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-latin-america-59051105",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59051105",
         "content": "Senators in Brazil vote to recommend charging the president over his handling of the pandemic.",
         "placed": "Abroad",
         "epoch": 1635336003.6170673
@@ -10,7 +10,7 @@
     {
         "title": "Senators back criminal charges against Bolsonaro",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-latin-america-59051105",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59051105",
         "content": "Senators in Brazil vote to recommend charging the president over his handling of the pandemic.",
         "placed": "Abroad",
         "epoch": 1635336003.617094
@@ -18,7 +18,7 @@
     {
         "title": "Russia threatens gas supply in Europe's poorest state",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59048894",
+        "news_url": "https://www.bbc.com/news/world-europe-59048894",
         "content": "Moldova has made history by buying gas from somewhere other than Russia. How will the Kremlin react?",
         "placed": "Abroad",
         "epoch": 1635336003.6171136
@@ -26,7 +26,7 @@
     {
         "title": "Clinton aide details sexual assault by US senator",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59059289",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59059289",
         "content": "In a new book, Huma Abedin says she was assaulted after a senator invited her into his home.",
         "placed": "Abroad",
         "epoch": 1635336003.61713
@@ -34,7 +34,7 @@
     {
         "title": "Sister of Bataclan victim: 'We don't hate you'",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59062002",
+        "news_url": "https://www.bbc.com/news/world-europe-59062002",
         "content": "Nick Alexander died at a Paris rock gig during the assault by Islamic State (IS) extremists in 2015.",
         "placed": "Abroad",
         "epoch": 1635336003.617145
@@ -42,7 +42,7 @@
     {
         "title": "Campaigning Hiroshima survivor dies aged 96",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-asia-59060950",
+        "news_url": "https://www.bbc.com/news/world-asia-59060950",
         "content": "Sunao Tsuboi met Barack Obama on his historic visit to the site of the world's first nuclear attack.",
         "placed": "Abroad",
         "epoch": 1635336003.617161
@@ -50,7 +50,7 @@
     {
         "title": "Hong Kong passes film censorship law",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-asia-china-59047633",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59047633",
         "content": "Authorities will have the power to ban films deemed to violate China's national security interests.",
         "placed": "Abroad",
         "epoch": 1635336003.6171753
@@ -58,7 +58,7 @@
     {
         "title": "Spain grants joint custody of dog in rare ruling",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59062132",
+        "news_url": "https://www.bbc.com/news/world-europe-59062132",
         "content": "A lawyer calls the ruling pioneering as her client could declare herself as a \"co-carer\".",
         "placed": "Abroad",
         "epoch": 1635336003.6171901
@@ -66,7 +66,7 @@
     {
         "title": "Senators back criminal charges against Bolsonaro",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-latin-america-59051105",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59051105",
         "content": "Senators in Brazil vote to recommend charging the president over his handling of the pandemic.",
         "placed": "Abroad",
         "epoch": 1635336003.6172042
@@ -74,7 +74,7 @@
     {
         "title": "Russia threatens gas supply in Europe's poorest state",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59048894",
+        "news_url": "https://www.bbc.com/news/world-europe-59048894",
         "content": "Moldova has made history by buying gas from somewhere other than Russia. How will the Kremlin react?",
         "placed": "Abroad",
         "epoch": 1635336003.6172187
@@ -82,7 +82,7 @@
     {
         "title": "Clinton aide details sexual assault by US senator",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59059289",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59059289",
         "content": "In a new book, Huma Abedin says she was assaulted after a senator invited her into his home.",
         "placed": "Abroad",
         "epoch": 1635336003.6172335
@@ -90,7 +90,7 @@
     {
         "title": "Sister of Bataclan victim: 'We don't hate you'",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59062002",
+        "news_url": "https://www.bbc.com/news/world-europe-59062002",
         "content": "Nick Alexander died at a Paris rock gig during the assault by Islamic State (IS) extremists in 2015.",
         "placed": "Abroad",
         "epoch": 1635336003.6172476
@@ -98,7 +98,7 @@
     {
         "title": "Campaigning Hiroshima survivor dies aged 96",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-asia-59060950",
+        "news_url": "https://www.bbc.com/news/world-asia-59060950",
         "content": "Sunao Tsuboi met Barack Obama on his historic visit to the site of the world's first nuclear attack.",
         "placed": "Abroad",
         "epoch": 1635336003.617262
@@ -106,7 +106,7 @@
     {
         "title": "Hong Kong passes film censorship law",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-asia-china-59047633",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59047633",
         "content": "Authorities will have the power to ban films deemed to violate China's national security interests.",
         "placed": "Abroad",
         "epoch": 1635336003.6172757
@@ -114,7 +114,7 @@
     {
         "title": "Spain grants joint custody of dog in rare ruling",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59062132",
+        "news_url": "https://www.bbc.com/news/world-europe-59062132",
         "content": "A lawyer calls the ruling pioneering as her client could declare herself as a \"co-carer\".",
         "placed": "Abroad",
         "epoch": 1635336003.6172898
@@ -122,7 +122,7 @@
     {
         "title": "Russia threatens gas supply in Europe's poorest state",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59048894",
+        "news_url": "https://www.bbc.com/news/world-europe-59048894",
         "content": "Moldova has made history by buying gas from somewhere other than Russia. How will the Kremlin react?",
         "placed": "Abroad",
         "epoch": 1635336003.6173038
@@ -130,7 +130,7 @@
     {
         "title": "Clinton aide details sexual assault by US senator",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59059289",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59059289",
         "content": "In a new book, Huma Abedin says she was assaulted after a senator invited her into his home.",
         "placed": "Abroad",
         "epoch": 1635336003.6173174
@@ -138,7 +138,7 @@
     {
         "title": "Sister of Bataclan victim: 'We don't hate you'",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59062002",
+        "news_url": "https://www.bbc.com/news/world-europe-59062002",
         "content": "Nick Alexander died at a Paris rock gig during the assault by Islamic State (IS) extremists in 2015.",
         "placed": "Abroad",
         "epoch": 1635336003.6173313

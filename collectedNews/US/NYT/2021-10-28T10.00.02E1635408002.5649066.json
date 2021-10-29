@@ -3,7 +3,7 @@
         "title": "What Previous Covid-19 Waves Tell Us About the Virus Now",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/interactive/2021/10/23/us/covid-surges.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/23/us/covid-surges.html",
         "content": "Looking back at the outbreak so far can provide some clues about how the virus may spread in the future.",
         "ranked": 0,
         "placed": "First_Page",
@@ -27,14 +27,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3jugNuA"
+            "short_news_url": "https://nyti.ms/3jugNuA"
         }
     },
     {
         "title": "Biden Crafts a Climate Plan B: Tax Credits, Regulation and State Action",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/climate/biden-climate-plan.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/climate/biden-climate-plan.html",
         "content": "The new strategy could deeply cut greenhouse gases that are heating the planet but it will still face considerable political, logistical and legal hurdles.",
         "ranked": 1,
         "placed": "First_Page",
@@ -65,14 +65,14 @@
                 "Manchin, Joe III"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3b0PNhA"
+            "short_news_url": "https://nyti.ms/3b0PNhA"
         }
     },
     {
         "title": "Decoding Eric Adams",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/nyregion/decoding-eric-adams.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/nyregion/decoding-eric-adams.html",
         "content": "He is poised to become the next mayor. He could be the biggest City Hall wild card in decades.",
         "ranked": 2,
         "placed": "First_Page",
@@ -100,14 +100,14 @@
             "geo_facet": [
                 "New York City"
             ],
-            "short_url": "https://nyti.ms/3njjWOU"
+            "short_news_url": "https://nyti.ms/3njjWOU"
         }
     },
     {
         "title": "Syria Executes 24 People for Setting Wildfires, Calling It \u2018Terrorism\u2019",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/world/middleeast/syria-wildfire-executions.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/world/middleeast/syria-wildfire-executions.html",
         "content": "The sentences shocked rights groups, who saw it as a move by President Bashar al-Assad to appear tough after a crisis that hurt his loyalists.",
         "ranked": 3,
         "placed": "First_Page",
@@ -134,14 +134,14 @@
             "geo_facet": [
                 "Syria"
             ],
-            "short_url": "https://nyti.ms/3E7Z7Nr"
+            "short_news_url": "https://nyti.ms/3E7Z7Nr"
         }
     },
     {
         "title": "Lawyer Who Won $9.5 Billion Settlement Against Chevron Reports to Prison",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/energy-environment/steven-donziger-chevron.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/energy-environment/steven-donziger-chevron.html",
         "content": "Steven Donziger, an environmental activist who won what is considered the largest ever lawsuit against an oil company, was found guilty of contempt of court in July.",
         "ranked": 4,
         "placed": "First_Page",
@@ -169,14 +169,14 @@
             "geo_facet": [
                 "Ecuador"
             ],
-            "short_url": "https://nyti.ms/2Zn4x85"
+            "short_news_url": "https://nyti.ms/2Zn4x85"
         }
     },
     {
         "title": "He Unleashed a California Massacre. Should This School Be Named for Him?",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/hastings-college-law-native-massacre.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/hastings-college-law-native-massacre.html",
         "content": "The founder of the Hastings College of the Law masterminded the killings of hundreds of Native Americans. The school, tribal members and alumni disagree about what should be done now.",
         "ranked": 5,
         "placed": "First_Page",
@@ -210,14 +210,14 @@
             "geo_facet": [
                 "California"
             ],
-            "short_url": "https://nyti.ms/3bcnwou"
+            "short_news_url": "https://nyti.ms/3bcnwou"
         }
     },
     {
         "title": "The Moral Chasm That Has Opened Up Between Left and Right Is Widening",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
         "content": "The things that are driving us apart are going to keep driving us apart.\u00a0",
         "ranked": 6,
         "placed": "First_Page",
@@ -247,14 +247,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BirpTE"
+            "short_news_url": "https://nyti.ms/3BirpTE"
         }
     },
     {
         "title": "G.O.P. Attack Involving Toni Morrison Novel Inflames Virginia Contest",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html",
         "content": "A Republican ad featured a mother who had tried to have \u201cBeloved\u201d banned from her son\u2019s curriculum. Democrats saw a coded racist message.",
         "ranked": 7,
         "placed": "First_Page",
@@ -281,14 +281,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jJEgrU"
+            "short_news_url": "https://nyti.ms/3jJEgrU"
         }
     },
     {
         "title": "Trooper Charged With Murder in Death of Girl, 11, in a High-Speed Chase",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/nyregion/monica-goods-christopher-baldner.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/nyregion/monica-goods-christopher-baldner.html",
         "content": "The trooper, Christopher Baldner, killed the girl, Monica Goods, by ramming her family\u2019s car after a late-night traffic stop, officials said.",
         "ranked": 8,
         "placed": "First_Page",
@@ -317,7 +317,7 @@
                 "Ulster County (NY)",
                 "Brooklyn (NYC)"
             ],
-            "short_url": "https://nyti.ms/3bkD0a9"
+            "short_news_url": "https://nyti.ms/3bkD0a9"
         }
     }
 ]

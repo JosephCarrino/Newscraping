@@ -2,7 +2,7 @@
     {
         "title": "How Belarus is helping ‘tourists’ break into the EU",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-58952867",
+        "news_news_url": "https://www.bbc.com/news/world-58952867",
         "content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
         "placed": "Abroad",
         "epoch": 1634882408.3451078
@@ -10,7 +10,7 @@
     {
         "title": "How Belarus is helping ‘tourists’ break into the EU",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-58952867",
+        "news_news_url": "https://www.bbc.com/news/world-58952867",
         "content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
         "placed": "Abroad",
         "epoch": 1634882408.3451467
@@ -18,7 +18,7 @@
     {
         "title": "Biden says US will defend Taiwan if China attacks",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/world-asia-59005300",
+        "news_news_url": "https://www.bbc.com/news/world-asia-59005300",
         "content": "His comments are an apparent departure from the long-held US policy of \"strategic ambiguity\".",
         "placed": "Abroad",
         "epoch": 1634882408.3451672
@@ -26,7 +26,7 @@
     {
         "title": "Alec Baldwin fatally shoots woman with prop gun",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/world-us-canada-59005500",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59005500",
         "content": "A man is also being treated in hospital after the firearm was discharged on set in New Mexico.",
         "placed": "Abroad",
         "epoch": 1634882408.3451848
@@ -34,7 +34,7 @@
     {
         "title": "Fiancé wanted in US blogger's murder is found dead",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/world-us-canada-59004831",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59004831",
         "content": "A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death.",
         "placed": "Abroad",
         "epoch": 1634882408.3452008
@@ -42,7 +42,7 @@
     {
         "title": "Northern white rhino retired from breeding scheme",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/world-africa-59005006",
+        "news_news_url": "https://www.bbc.com/news/world-africa-59005006",
         "content": "Najin, 32, has been part of a programme in Kenya trying to save her species from extinction.",
         "placed": "Abroad",
         "epoch": 1634882408.3452168
@@ -50,7 +50,7 @@
     {
         "title": "Climate change will bring global tension - US spies",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/science-environment-59004088",
+        "news_news_url": "https://www.bbc.com/news/science-environment-59004088",
         "content": "Countries will argue over a response and the poorest will suffer most, US intelligence says.",
         "placed": "Abroad",
         "epoch": 1634882408.3452315
@@ -58,7 +58,7 @@
     {
         "title": "Evergrande shares up on report of interest payment",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/business-58991340",
+        "news_news_url": "https://www.bbc.com/news/business-58991340",
         "content": "Shares opened up 6% after reports the Chinese property giant made a payment before a crucial deadline.",
         "placed": "Abroad",
         "epoch": 1634882408.3452458
@@ -66,7 +66,7 @@
     {
         "title": "How Belarus is helping ‘tourists’ break into the EU",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-58952867",
+        "news_news_url": "https://www.bbc.com/news/world-58952867",
         "content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
         "placed": "Abroad",
         "epoch": 1634882408.3452606
@@ -74,7 +74,7 @@
     {
         "title": "Biden says US will defend Taiwan if China attacks",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/world-asia-59005300",
+        "news_news_url": "https://www.bbc.com/news/world-asia-59005300",
         "content": "His comments are an apparent departure from the long-held US policy of \"strategic ambiguity\".",
         "placed": "Abroad",
         "epoch": 1634882408.3452756
@@ -82,7 +82,7 @@
     {
         "title": "Alec Baldwin fatally shoots woman with prop gun",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/world-us-canada-59005500",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59005500",
         "content": "A man is also being treated in hospital after the firearm was discharged on set in New Mexico.",
         "placed": "Abroad",
         "epoch": 1634882408.3452904
@@ -90,7 +90,7 @@
     {
         "title": "Fiancé wanted in US blogger's murder is found dead",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/world-us-canada-59004831",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59004831",
         "content": "A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death.",
         "placed": "Abroad",
         "epoch": 1634882408.3453052
@@ -98,7 +98,7 @@
     {
         "title": "Northern white rhino retired from breeding scheme",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/world-africa-59005006",
+        "news_news_url": "https://www.bbc.com/news/world-africa-59005006",
         "content": "Najin, 32, has been part of a programme in Kenya trying to save her species from extinction.",
         "placed": "Abroad",
         "epoch": 1634882408.3453195
@@ -106,7 +106,7 @@
     {
         "title": "Climate change will bring global tension - US spies",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/science-environment-59004088",
+        "news_news_url": "https://www.bbc.com/news/science-environment-59004088",
         "content": "Countries will argue over a response and the poorest will suffer most, US intelligence says.",
         "placed": "Abroad",
         "epoch": 1634882408.3453336
@@ -114,7 +114,7 @@
     {
         "title": "Evergrande shares up on report of interest payment",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/business-58991340",
+        "news_news_url": "https://www.bbc.com/news/business-58991340",
         "content": "Shares opened up 6% after reports the Chinese property giant made a payment before a crucial deadline.",
         "placed": "Abroad",
         "epoch": 1634882408.3453481
@@ -122,7 +122,7 @@
     {
         "title": "Biden says US will defend Taiwan if China attacks",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/world-asia-59005300",
+        "news_news_url": "https://www.bbc.com/news/world-asia-59005300",
         "content": "His comments are an apparent departure from the long-held US policy of \"strategic ambiguity\".",
         "placed": "Abroad",
         "epoch": 1634882408.3453627
@@ -130,7 +130,7 @@
     {
         "title": "Alec Baldwin fatally shoots woman with prop gun",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/world-us-canada-59005500",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59005500",
         "content": "A man is also being treated in hospital after the firearm was discharged on set in New Mexico.",
         "placed": "Abroad",
         "epoch": 1634882408.3453767
@@ -138,7 +138,7 @@
     {
         "title": "Fiancé wanted in US blogger's murder is found dead",
         "date_raw": "2021-10-22",
-        "url": "https://www.bbc.com/news/world-us-canada-59004831",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59004831",
         "content": "A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death.",
         "placed": "Abroad",
         "epoch": 1634882408.3453915

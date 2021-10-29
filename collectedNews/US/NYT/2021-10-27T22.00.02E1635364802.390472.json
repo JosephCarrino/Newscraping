@@ -3,7 +3,7 @@
         "title": "Iran Will Rejoin Nuclear Talks, Top Negotiator Says",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html",
         "content": "Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them.",
         "ranked": 0,
         "placed": "First_Page",
@@ -33,14 +33,14 @@
                 "Iran",
                 "United States"
             ],
-            "short_url": "https://nyti.ms/2XR60mF"
+            "short_news_url": "https://nyti.ms/2XR60mF"
         }
     },
     {
         "title": "A Hot, Dusty Town in the Middle of Nowhere? We\u2019ll Take It.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/australia/free-land.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/australia/free-land.html",
         "content": "A tiny town in Australia\u2019s outback where the temperature can hit 113 degrees Fahrenheit drew global inquiries when it offered \u201cfree\u201d land in a bid to expand its population.",
         "ranked": 1,
         "placed": "First_Page",
@@ -64,14 +64,14 @@
             "geo_facet": [
                 "Australia"
             ],
-            "short_url": "https://nyti.ms/3Bn8lmW"
+            "short_news_url": "https://nyti.ms/3Bn8lmW"
         }
     },
     {
         "title": "B.J. Novak\u2019s Face Is on Products Worldwide. He\u2019s Not Sure Why.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html",
         "content": "Someone put his image into the public domain, and now the actor and writer appears on an eclectic mix of products from China to Uruguay. \u201cI am too amused to do anything about it,\u201d he said on Instagram.",
         "ranked": 2,
         "placed": "First_Page",
@@ -97,14 +97,14 @@
                 "Novak, B J"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mmyOwZ"
+            "short_news_url": "https://nyti.ms/3mmyOwZ"
         }
     },
     {
         "title": "In Watchmaking, the Pleasing Principles of Phi",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/fashion/watches-golden-ratio-bianchet-switzerland.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/fashion/watches-golden-ratio-bianchet-switzerland.html",
         "content": "A husband-and-wife team has introduced a watch using the mathematical formula said to create the most appealing results.",
         "ranked": 3,
         "placed": "First_Page",
@@ -131,14 +131,14 @@
                 "Festa Bianchet, Rodolfo"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3pnaZXH"
+            "short_news_url": "https://nyti.ms/3pnaZXH"
         }
     },
     {
         "title": "$3 Million Homes in New York, California and Wyoming",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/realestate/home-prices-new-york-california-and-wyoming.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/realestate/home-prices-new-york-california-and-wyoming.html",
         "content": "A 1765 Georgian house in Kinderhook, a 1927 Spanish-style home in Los Angeles and a cabin in Jackson.",
         "ranked": 4,
         "placed": "First_Page",
@@ -163,14 +163,14 @@
                 "Kinderhook (NY)",
                 "Los Angeles (Calif)"
             ],
-            "short_url": "https://nyti.ms/3EjqDaK"
+            "short_news_url": "https://nyti.ms/3EjqDaK"
         }
     },
     {
         "title": "At Last, a Royal Wedding. But No Trumpets, Just a News Conference.",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
         "content": "The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad.",
         "ranked": 5,
         "placed": "First_Page",
@@ -198,14 +198,14 @@
             "geo_facet": [
                 "Japan"
             ],
-            "short_url": "https://nyti.ms/3jygTRR"
+            "short_news_url": "https://nyti.ms/3jygTRR"
         }
     },
     {
         "title": "\u2018Dune\u2019 Is the Movie We Always Wanted",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/opinion/dune-movie-foundation-series.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/opinion/dune-movie-foundation-series.html",
         "content": "Of sandworms and social science.",
         "ranked": 6,
         "placed": "First_Page",
@@ -233,14 +233,14 @@
                 "Herbert, Frank"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Cio9ZE"
+            "short_news_url": "https://nyti.ms/3Cio9ZE"
         }
     },
     {
         "title": "The Moral Chasm That Has Opened Up Between Left and Right Is Widening",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
         "content": "The things that are driving us apart are going to keep driving us apart.\u00a0",
         "ranked": 7,
         "placed": "First_Page",
@@ -270,14 +270,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BirpTE"
+            "short_news_url": "https://nyti.ms/3BirpTE"
         }
     },
     {
         "title": "Criminal Charges Possible in Shooting on Alec Baldwin Set, D.A. Says",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/movies/criminal-charges-shooting-alec-baldwin.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/movies/criminal-charges-shooting-alec-baldwin.html",
         "content": "An inquiry into how a cinematographer was killed with a gun the actor was rehearsing with, which was not supposed to have live rounds in it, could take weeks.",
         "ranked": 8,
         "placed": "First_Page",
@@ -309,7 +309,7 @@
             "geo_facet": [
                 "Santa Fe (NM)"
             ],
-            "short_url": "https://nyti.ms/3jEdOQC"
+            "short_news_url": "https://nyti.ms/3jEdOQC"
         }
     }
 ]

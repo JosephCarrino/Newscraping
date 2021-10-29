@@ -3,7 +3,7 @@
         "title": "Briefs Draw Battle Lines as Texas Abortion Law Nears Supreme Court",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/supreme-court-texas-abortion.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/supreme-court-texas-abortion.html",
         "content": "The justices, who will hear arguments on Monday in two cases challenging the state\u2019s near-total ban, required the parties to file their briefs with extraordinary speed.",
         "ranked": 0,
         "placed": "Politics",
@@ -39,14 +39,14 @@
             "geo_facet": [
                 "Texas"
             ],
-            "short_url": "https://nyti.ms/3bhGlqA"
+            "short_news_url": "https://nyti.ms/3bhGlqA"
         }
     },
     {
         "title": "\u2018Zero Risk\u2019 Security Constraints Put U.S. Diplomats at a Disadvantage, Blinken Says",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/diplomats-security-blinken.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/diplomats-security-blinken.html",
         "content": "The State Department is easing some restrictions after employees said that their jobs overseas were harder than they needed to be.",
         "ranked": 1,
         "placed": "Politics",
@@ -76,14 +76,14 @@
                 "Blinken, Antony J"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3pJpyVN"
+            "short_news_url": "https://nyti.ms/3pJpyVN"
         }
     },
     {
         "title": "A paid family leave program is likely to be dropped from the social policy bill at Manchin\u2019s urging.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/paid-family-leave-manchin.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/paid-family-leave-manchin.html",
         "content": "Democrats had already scaled back the proposal to four weeks from 12 weeks as they worked to shrink the cost of the bill amid resistance from centrist holdouts.",
         "ranked": 2,
         "placed": "Politics",
@@ -108,14 +108,14 @@
                 "Manchin, Joe III"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vY8A71"
+            "short_news_url": "https://nyti.ms/3vY8A71"
         }
     },
     {
         "title": "Transgender Athletes Face Bans From Girls\u2019 Sports in 10 U.S. States",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/article/transgender-athlete-ban.html",
+        "news_url": "https://www.nytimes.com/article/transgender-athlete-ban.html",
         "content": "Over the past two years, nine states have enacted laws to bar transgender girls and women from competing in girls\u2019 and women\u2019s sports. Another relied on an executive order for a ban.",
         "ranked": 3,
         "placed": "Politics",
@@ -143,14 +143,14 @@
                 "Abbott, Gregory W (1957- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jHH3BX"
+            "short_news_url": "https://nyti.ms/3jHH3BX"
         }
     },
     {
         "title": "Why Is \u2018Beloved\u2019 in the News?",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/interactive/2021/10/27/books/beloved-book-virginia-governor-race.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/27/books/beloved-book-virginia-governor-race.html",
         "content": "Toni Morrison\u2019s novel \u201cBeloved\u201d became a point of controversy in the Virginia governor\u2019s race. Here is some background about the book.",
         "ranked": 4,
         "placed": "Politics",
@@ -177,14 +177,14 @@
                 "Morrison, Toni"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3ntkC4k"
+            "short_news_url": "https://nyti.ms/3ntkC4k"
         }
     },
     {
         "title": "Shut Out on Budget Bill, Republicans Take Shots From the Sidelines",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/budget-bill-republicans.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/budget-bill-republicans.html",
         "content": "The party is stepping up its attacks on the safety net measure that Democrats are shaping entirely on their own.",
         "ranked": 5,
         "placed": "Politics",
@@ -213,14 +213,14 @@
                 "McConnell, Mitch"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3EmQ8I9"
+            "short_news_url": "https://nyti.ms/3EmQ8I9"
         }
     },
     {
         "title": "You Have Election Questions. We Have Answers.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/election-day-2021-voting-guide.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/election-day-2021-voting-guide.html",
         "content": "Local and statewide elections are being held around the country on Tuesday. Here are some of the Election Day basics.",
         "ranked": 6,
         "placed": "Politics",
@@ -243,14 +243,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3EhkknW"
+            "short_news_url": "https://nyti.ms/3EhkknW"
         }
     },
     {
         "title": "Ahead of a U.N. climate summit, Democrats push to secure policies Biden can promote.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/biden-un-climate-summit-democrats.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/biden-un-climate-summit-democrats.html",
         "content": "Some U.S. lawmakers say they have not given up on the idea of a tax on planet-warming carbon dioxide pollution, which would help meet the president\u2019s promise to sharply cut U.S. emissions.",
         "ranked": 7,
         "placed": "Politics",
@@ -277,14 +277,14 @@
             "geo_facet": [
                 "Glasgow (Va)"
             ],
-            "short_url": "https://nyti.ms/3nG201s"
+            "short_news_url": "https://nyti.ms/3nG201s"
         }
     },
     {
         "title": "New Guidance Bars Immigration Enforcement in \u2018Protected Areas\u2019",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/biden-immigration-ice-schools-hospitals.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/biden-immigration-ice-schools-hospitals.html",
         "content": "The Biden administration included schools, hospitals, parades and places of worship on a list of areas off limits to immigration arrests or other types of enforcement.",
         "ranked": 8,
         "placed": "Politics",
@@ -315,14 +315,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Zshuxo"
+            "short_news_url": "https://nyti.ms/2Zshuxo"
         }
     },
     {
         "title": "These 8 Black Women Run Some of the Biggest U.S. Cities",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/black-women-mayor-us-cities.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/black-women-mayor-us-cities.html",
         "content": "Black women achieved a historic milestone as mayors of eight major American cities this year. Political analysts say the record number points to \u201cthe age of Black women in politics.\u201d",
         "ranked": 9,
         "placed": "Politics",
@@ -361,14 +361,14 @@
                 "Weaver, Karen Williams (1959- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vQMl2H"
+            "short_news_url": "https://nyti.ms/3vQMl2H"
         }
     },
     {
         "title": "China\u2019s Weapon Tests Close to a \u2018Sputnik Moment,\u2019 U.S. General Says",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html",
         "content": "Gen. Mark A. Milley said China\u2019s testing of a hypersonic missile \u201chas all of our attention.\u201d",
         "ranked": 10,
         "placed": "Politics",
@@ -399,14 +399,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_url": "https://nyti.ms/3mlCCi4"
+            "short_news_url": "https://nyti.ms/3mlCCi4"
         }
     },
     {
         "title": "Manchin denounces the Democrats\u2019 plan to tax billionaires as divisive.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/manchin-billionaires-tax.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/manchin-billionaires-tax.html",
         "content": "The plan stakes out new territory by putting levies on unrealized gains in the value of billionaires\u2019 liquid assets, such as stocks, bonds and cash.",
         "ranked": 11,
         "placed": "Politics",
@@ -433,14 +433,14 @@
                 "Manchin, Joe III"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3pQmXcm"
+            "short_news_url": "https://nyti.ms/3pQmXcm"
         }
     },
     {
         "title": "Oil Executives to Face Congress on Climate Disinformation",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/climate/oil-congress-climate-disinformation.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/climate/oil-congress-climate-disinformation.html",
         "content": "The heads of Exxon Mobil, Shell, Chevron and BP will testify Thursday in the first congressional inquiry into industry efforts to hinder action on climate change.",
         "ranked": 12,
         "placed": "Politics",
@@ -470,14 +470,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3bi8Y70"
+            "short_news_url": "https://nyti.ms/3bi8Y70"
         }
     },
     {
         "title": "How Democrats Would Tax Billionaires to Pay for Their Agenda",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/billionaires-tax.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/billionaires-tax.html",
         "content": "The plan stakes out new territory by putting levies on unrealized gains in the value of billionaires\u2019 liquid assets, such as stocks, bonds and cash.",
         "ranked": 13,
         "placed": "Politics",
@@ -511,14 +511,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CiYS1m"
+            "short_news_url": "https://nyti.ms/3CiYS1m"
         }
     },
     {
         "title": "Pastries and Persuasion: How a Global Tax Deal Got Done",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html",
         "content": "Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world\u2019s tax architecture were revived.",
         "ranked": 14,
         "placed": "Politics",
@@ -553,14 +553,14 @@
             "geo_facet": [
                 "Ireland"
             ],
-            "short_url": "https://nyti.ms/3jJ8fjA"
+            "short_news_url": "https://nyti.ms/3jJ8fjA"
         }
     },
     {
         "title": "This May Be Democrats\u2019 Best Chance to Lower Drug Prices",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/upshot/drug-prices-democrats.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/upshot/drug-prices-democrats.html",
         "content": "For patients with certain cancers, out-of-pocket spending can exceed $15,000 a year. Legislation could take aim at prices and the amounts Medicare patients are charged.",
         "ranked": 15,
         "placed": "Politics",
@@ -587,14 +587,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BpCt1m"
+            "short_news_url": "https://nyti.ms/3BpCt1m"
         }
     },
     {
         "title": "In Virginia, Early Voting Has an Impact. And a Long Run.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/virginia-early-voting-governor.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/virginia-early-voting-governor.html",
         "content": "The pandemic has helped convert more and more voters into early voters, as hundreds of thousands of Virginians have made clear in recent weeks.",
         "ranked": 16,
         "placed": "Politics",
@@ -623,14 +623,14 @@
             "geo_facet": [
                 "Virginia"
             ],
-            "short_url": "https://nyti.ms/3mh9UP1"
+            "short_news_url": "https://nyti.ms/3mh9UP1"
         }
     },
     {
         "title": "Democrats Hammer Out Novel Plan to Tax Billionaires and Corporate Giants",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/us/politics/democrats-billionaires-tax.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/politics/democrats-billionaires-tax.html",
         "content": "New proposals would fund social and climate programs by tapping billionaires\u2019 unrealized gains and by ensuring that the biggest companies cannot avoid income taxes altogether.",
         "ranked": 17,
         "placed": "Politics",
@@ -666,14 +666,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3nyu32I"
+            "short_news_url": "https://nyti.ms/3nyu32I"
         }
     },
     {
         "title": "Manchin Is in the Middle, With Biden\u2019s Agenda in the Balance",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/us/politics/joe-manchin-biden.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/politics/joe-manchin-biden.html",
         "content": "Democrats, including President Biden, are lobbying for Senator Joe Manchin III\u2019s support, knowing he is a crucial swing vote on their domestic agenda.",
         "ranked": 18,
         "placed": "Politics",
@@ -702,14 +702,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/319q993"
+            "short_news_url": "https://nyti.ms/319q993"
         }
     },
     {
         "title": "Biden Wanted an F.D.R. Presidency. How\u2019s He Doing So Far?",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/us/politics/biden-wanted-an-fdr-presidency-hows-he-doing-so-far.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/politics/biden-wanted-an-fdr-presidency-hows-he-doing-so-far.html",
         "content": "We take a look at how Build Back Better stacks up against the New Deal, 10 months into the Biden presidency.",
         "ranked": 19,
         "placed": "Politics",
@@ -735,14 +735,14 @@
                 "Roosevelt, Franklin Delano"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3EgiT9x"
+            "short_news_url": "https://nyti.ms/3EgiT9x"
         }
     },
     {
         "title": "Democrats lobby Manchin as they race to seal a deal on their domestic agenda.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/us/politics/manchin-budget-democrats.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/politics/manchin-budget-democrats.html",
         "content": "In an evenly divided Senate, the fate of President Biden\u2019s domestic agenda could hinge on any one Democratic senator willing to withhold his vote.",
         "ranked": 20,
         "placed": "Politics",
@@ -767,14 +767,14 @@
                 "Manchin, Joe III"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3medrxJ"
+            "short_news_url": "https://nyti.ms/3medrxJ"
         }
     },
     {
         "title": "Authorities on 3 Continents Crack Down on Dark Web Drug Sales",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/us/politics/dark-web-drug-sales.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/politics/dark-web-drug-sales.html",
         "content": "The Justice Department said the global operation led to the arrests of over 150 people and the seizure of large quantities of opioids and other drugs.",
         "ranked": 21,
         "placed": "Politics",
@@ -804,14 +804,14 @@
                 "Monaco, Lisa O"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2XQtWXs"
+            "short_news_url": "https://nyti.ms/2XQtWXs"
         }
     },
     {
         "title": "Birx testifies that Trump\u2019s White House failed to take steps to prevent more virus deaths.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/us/politics/birx-trump-covid-deaths.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/politics/birx-trump-covid-deaths.html",
         "content": "Dr. Deborah Birx, who helped run the pandemic response for former President Donald J. Trump, lashed out at Dr. Scott Atlas, a former Stanford neuroradiologist who advised Mr. Trump and advocated for allowing the virus to spread through much of the population.",
         "ranked": 22,
         "placed": "Politics",
@@ -836,7 +836,7 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2XQcsui"
+            "short_news_url": "https://nyti.ms/2XQcsui"
         }
     }
 ]

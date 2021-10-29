@@ -3,7 +3,7 @@
         "title": "As a Woman Was Raped, Train Riders Failed to Intervene, Police Say",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "url": "https://www.nytimes.com/2021/10/17/us/riders-watched-woman-raped-septa.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/us/riders-watched-woman-raped-septa.html",
         "content": "The SEPTA train car near Philadelphia had several passengers aboard but none called 911 while the woman was sexually assaulted, the authorities said.",
         "ranked": 0,
         "placed": "First_Page",
@@ -32,14 +32,14 @@
                 "Philadelphia (Pa)",
                 "Upper Darby (Pa)"
             ],
-            "short_url": "https://nyti.ms/3vjpDjw"
+            "short_news_news_url": "https://nyti.ms/3vjpDjw"
         }
     },
     {
         "title": "Aack! A Millennial\u2019s Audio Odyssey Through the \u2018Cathy\u2019 Comic Strip",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/arts/jamie-loftus-cathy-comic-podcast.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/arts/jamie-loftus-cathy-comic-podcast.html",
         "content": "The comedian Jamie Loftus returns with another limited-run podcast, this time exploring white boomer women through the lens of a much-maligned comic strip.",
         "ranked": 1,
         "placed": "First_Page",
@@ -67,14 +67,14 @@
                 "Loftus, Jamie (1993- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mZ9xrE"
+            "short_news_news_url": "https://nyti.ms/3mZ9xrE"
         }
     },
     {
         "title": "Lee Jung-jae Thinks \u2018Squid Game\u2019 Critics Should Watch It Again",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/arts/television/squid-game-lee-jung-jae.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/arts/television/squid-game-lee-jung-jae.html",
         "content": "In an interview, the star of the Netflix phenomenon discusses the message of the series and possibilities for a Season 2.",
         "ranked": 2,
         "placed": "First_Page",
@@ -104,14 +104,14 @@
             "geo_facet": [
                 "South Korea"
             ],
-            "short_url": "https://nyti.ms/3DRWv69"
+            "short_news_news_url": "https://nyti.ms/3DRWv69"
         }
     },
     {
         "title": "How Top Runners Reframe Their Races",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "url": "https://www.nytimes.com/2021/10/17/sports/reframing-marathon-performances.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/sports/reframing-marathon-performances.html",
         "content": "\u201cOut there, you have to do whatever you can to stay positive, and I did stay positive the whole time,\u201d Sara Hall said after placing third in the Chicago Marathon. \u201cThat was a win in itself.\u201d",
         "ranked": 3,
         "placed": "First_Page",
@@ -137,14 +137,14 @@
                 "Hall, Ryan"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/30tnNBf"
+            "short_news_news_url": "https://nyti.ms/30tnNBf"
         }
     },
     {
         "title": "A \u2018Holy Grail\u2019 of American Folk Art, Hiding in Plain Sight",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/arts/design/william-edmondson-sculpture.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/arts/design/william-edmondson-sculpture.html",
         "content": "A collector\u2019s keen eye \u2014 and willingness to knock on a stranger\u2019s door \u2014 led to the rediscovery of a sculpture by a renowned stone carver, William Edmondson.",
         "ranked": 4,
         "placed": "First_Page",
@@ -177,14 +177,14 @@
             "geo_facet": [
                 "St Louis (Mo)"
             ],
-            "short_url": "https://nyti.ms/3BUtPZI"
+            "short_news_news_url": "https://nyti.ms/3BUtPZI"
         }
     },
     {
         "title": "Colin Powell, Who Shaped U.S. National Security, Dies at 84",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/us/politics/colin-powell-dead.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/colin-powell-dead.html",
         "content": "A former chairman of the Joint Chiefs of Staff, secretary of state and national security adviser, Mr. Powell died of complications of Covid-19, his family said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -216,14 +216,14 @@
                 "Cheney, Dick"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3DLPF1U"
+            "short_news_news_url": "https://nyti.ms/3DLPF1U"
         }
     },
     {
         "title": "Trump Missed the Part About No Do-Overs",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/opinion/trump-biden-columbus-jefferson.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/opinion/trump-biden-columbus-jefferson.html",
         "content": "And apparently no one from his party is going to explain it to him.\u00a0",
         "ranked": 6,
         "placed": "First_Page",
@@ -258,14 +258,14 @@
                 "Columbus, Christopher"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2YZVmtT"
+            "short_news_news_url": "https://nyti.ms/2YZVmtT"
         }
     },
     {
         "title": "Joe Manchin Doesn\u2019t Like What Joe Biden Is Doing",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/opinion/manchin-biden-child-tax-credit.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/opinion/manchin-biden-child-tax-credit.html",
         "content": "Why is that?",
         "ranked": 7,
         "placed": "First_Page",
@@ -300,7 +300,7 @@
                 "Roosevelt, Franklin Delano"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3ph5PfY"
+            "short_news_news_url": "https://nyti.ms/3ph5PfY"
         }
     }
 ]

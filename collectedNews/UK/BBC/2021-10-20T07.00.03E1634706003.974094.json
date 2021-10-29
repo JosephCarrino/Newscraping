@@ -2,7 +2,7 @@
     {
         "title": "House panel votes to hold ex-Trump aide in contempt",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-us-canada-58976196",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58976196",
         "content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
         "placed": "First_Page",
         "epoch": 1634706003.973779
@@ -10,7 +10,7 @@
     {
         "title": "House panel votes to hold ex-Trump aide in contempt",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-us-canada-58976196",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58976196",
         "content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
         "placed": "First_Page",
         "epoch": 1634706003.9738204
@@ -18,7 +18,7 @@
     {
         "title": "Fossil fuel production set to soar in next decade",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/science-environment-58971131",
+        "news_news_url": "https://www.bbc.com/news/science-environment-58971131",
         "content": "Government plans to extract coal, oil and gas are incompatible with safe temperatures, says the UN.",
         "placed": "First_Page",
         "epoch": 1634706003.973848
@@ -26,7 +26,7 @@
     {
         "title": "North Korea claims new harder-to-track sub missile",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-asia-58976195",
+        "news_news_url": "https://www.bbc.com/news/world-asia-58976195",
         "content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
         "placed": "First_Page",
         "epoch": 1634706003.9738667
@@ -34,7 +34,7 @@
     {
         "title": "Myanmar: 'I thought I wouldn't come out alive'",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/world-asia-58976296",
+        "news_news_url": "https://www.bbc.com/news/world-asia-58976296",
         "content": "Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail.",
         "placed": "First_Page",
         "epoch": 1634706003.9738777
@@ -42,7 +42,7 @@
     {
         "title": "Squid Game helps Netflix subscriptions pick up",
         "date_raw": "2021-10-19",
-        "url": "https://www.bbc.com/news/business-58976204",
+        "news_news_url": "https://www.bbc.com/news/business-58976204",
         "content": "The streaming giant added 4.4 million new users in the third quarter as foreign language shows continued to fly.",
         "placed": "First_Page",
         "epoch": 1634706003.9738941
@@ -50,7 +50,7 @@
     {
         "title": "Transgender official sworn in as four-star admiral",
         "date_raw": "2021-10-19",
-        "url": "https://www.bbc.com/news/world-us-canada-58974627",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58974627",
         "content": "Dr Rachel Levine is already the nation's most prominent openly transgender federal official.",
         "placed": "First_Page",
         "epoch": 1634706003.97391
@@ -58,7 +58,7 @@
     {
         "title": "Navy report blames ship fire on command chain",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-us-canada-58975431",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58975431",
         "content": "The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days.",
         "placed": "First_Page",
         "epoch": 1634706003.973925
@@ -66,7 +66,7 @@
     {
         "title": "FBI searches US homes linked to Russian oligarch",
         "date_raw": "2021-10-19",
-        "url": "https://www.bbc.com/news/world-us-canada-58971032",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58971032",
         "content": "Agents are sweeping homes linked to Oleg Deripaska, a Russian oligarch who is under US sanctions.",
         "placed": "First_Page",
         "epoch": 1634706003.9739392
@@ -74,7 +74,7 @@
     {
         "title": "Hospital bosses urge return of England Covid rules",
         "date_raw": "2021-10-19",
-        "url": "https://www.bbc.com/news/uk-58976577",
+        "news_news_url": "https://www.bbc.com/news/uk-58976577",
         "content": "NHS chiefs warn of a winter crisis amid rising cases, but ministers have no plans for new measures. ",
         "placed": "First_Page",
         "epoch": 1634706003.9739537
@@ -82,7 +82,7 @@
     {
         "title": "Australian ex-cricketer Michael Slater arrested",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-australia-58976768",
+        "news_news_url": "https://www.bbc.com/news/world-australia-58976768",
         "content": "The former batsman was arrested in Sydney over an alleged domestic violence incident.",
         "placed": "First_Page",
         "epoch": 1634706003.973968
@@ -90,7 +90,7 @@
     {
         "title": "IMF: Afghanistan economic woes to hurt neighbours",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/business-58950560",
+        "news_news_url": "https://www.bbc.com/news/business-58950560",
         "content": "Afghanistan's economic turmoil will fuel a refugee crisis impacting nearby countries, the fund warned.",
         "placed": "First_Page",
         "epoch": 1634706003.9739819
@@ -98,7 +98,7 @@
     {
         "title": "Australian ex-cricketer Michael Slater arrested",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-australia-58976768",
+        "news_news_url": "https://www.bbc.com/news/world-australia-58976768",
         "content": "The former batsman was arrested in Sydney over an alleged domestic violence incident.",
         "placed": "First_Page",
         "epoch": 1634706003.9739954
@@ -106,7 +106,7 @@
     {
         "title": "IMF: Afghanistan economic woes to hurt neighbours",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/business-58950560",
+        "news_news_url": "https://www.bbc.com/news/business-58950560",
         "content": "Afghanistan's economic turmoil will fuel a refugee crisis impacting nearby countries, the fund warned.",
         "placed": "First_Page",
         "epoch": 1634706003.974009
@@ -114,7 +114,7 @@
     {
         "title": "At least 46 killed in floods in Himalayan state",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-asia-india-58951456",
+        "news_news_url": "https://www.bbc.com/news/world-asia-india-58951456",
         "content": "Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand.",
         "placed": "First_Page",
         "epoch": 1634706003.9740226
@@ -122,7 +122,7 @@
     {
         "title": "School steps in to give classes to Afghan children",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/uk-58890916",
+        "news_news_url": "https://www.bbc.com/news/uk-58890916",
         "content": "Hear from Afghan teenagers who are receiving English lessons, thanks to a local school.",
         "placed": "First_Page",
         "epoch": 1634706003.9740357
@@ -130,7 +130,7 @@
     {
         "title": "Commuters fail to report rape on Philadelphia train",
         "date_raw": "PT2",
-        "url": "https://www.bbc.com/news/world-us-canada-58949611",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58949611",
         "content": "A woman was assaulted by another passenger and some riders may have filmed the incident, police say.",
         "placed": "First_Page",
         "epoch": 1634706003.9740434
@@ -138,7 +138,7 @@
     {
         "title": "Ros Atkins on… Europe's climate challenge",
         "date_raw": "2021-10-19",
-        "url": "https://www.bbc.com/news/science-environment-58970153",
+        "news_news_url": "https://www.bbc.com/news/science-environment-58970153",
         "content": "The latest global news, sport, weather and documentaries",
         "placed": "First_Page",
         "epoch": 1634706003.9740615
@@ -146,7 +146,7 @@
     {
         "title": "Why does a climate summit need 25,000 people?",
         "date_raw": "2021-10-19",
-        "url": "https://www.bbc.com/news/science-environment-58925049",
+        "news_news_url": "https://www.bbc.com/news/science-environment-58925049",
         "content": "Stories from around the world",
         "placed": "First_Page",
         "epoch": 1634706003.9740818

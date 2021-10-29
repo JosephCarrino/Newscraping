@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Mindestens 15 Menschen sterben bei Explosion in Sprengstofffabrik",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/russland-explosion-sprengstoff-fabrik-rjasan-moskau-15-tote",
+        "content": "Durch eine Explosion ist rund 200 Kilometer s\u00fcd\u00f6stlich von Moskau eine Produktionshalle f\u00fcr Industriesprengstoff fast komplett zerst\u00f6rt worden. Die Ursache ist unklar.",
+        "ranked": 0,
+        "epoch": 1634900406.3054283
+    },
+    {
+        "title": "Schwere Rechtsverst\u00f6\u00dfe bei Saisonarbeit in der Landwirtschaft",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/wirtschaft/2021-10/saisonarbeit-landwirtschaft-arbeitsbedingungen-rechtsverstoesse-lohn-infektionsschutz-gewerkschaft-ig-bau",
+        "content": "Ob L\u00f6hne, Unterk\u00fcnfte oder Infektionsschutz: Die IG BAU hat eklatante M\u00e4ngel in der diesj\u00e4hrigen Saisonarbeit festgestellt. Der Staat m\u00fcsse gegen die Ausbeutung vorgehen.",
+        "ranked": 1,
+        "epoch": 1634900406.3054311
+    },
+    {
+        "title": "Schluss mit den gigantischen Subventionen f\u00fcr Kohle, \u00d6l und Gas",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/wirtschaft/2021-10/fossile-energietraeger-subventionen-abbau-iwf-energiewende-klimaschutz-energiepreis",
+        "content": "Die \u00f6kologische Transformation ist weniger teuer, als viele annehmen. Es w\u00e4ren ausreichend Finanzmittel vorhanden, wenn die Preise f\u00fcr fossile Energietr\u00e4ger stiegen.",
+        "ranked": 2,
+        "epoch": 1634900406.3054326
+    },
+    {
+        "title": "Wirsing von der Rolle",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-10/wirsingwickel-sahne-pilzsosse-kohl-kartoffeln",
+        "content": "Fr\u00fcher umh\u00fcllte Wirsing gern Taubenbrust. Das schmeckt immer noch, aber eben nicht allen. Darum wickeln wir Vegetarisches in die krausen Bl\u00e4tter. Aber bitte mit Sahne.",
+        "ranked": 3,
+        "epoch": 1634900406.3054335
+    },
+    {
+        "title": "\"Die ersten Wochen waren erschreckend\"",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/zeit-magazin/leben/2021-10/schulstart-corona-erstklaessler-probleme-unterschiede-voraussetzungen-grundschullehrerin-interview",
+        "content": "Viele Erstkl\u00e4ssler waren kaum auf die Schule vorbereitet, sagt eine Berliner Lehrerin. Das betr\u00e4fe soziale Kompetenz ebenso wie kognitive und motorische F\u00e4higkeiten.",
+        "ranked": 4,
+        "epoch": 1634900406.3054347
+    },
+    {
+        "title": "Erst kam Covid, dann die Depression",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/gesundheit/2021-10/long-covid-corona-spaetfolgen-psychologie-depression-angststoerung-panikattacken",
+        "content": "Panikattacken, Verzweiflung, Antriebslosigkeit: Nach einer Corona-Infektion werden manche Menschen psychisch krank. Liegt das an Ver\u00e4nderungen im Gehirn?",
+        "ranked": 5,
+        "epoch": 1634900406.3054402
+    },
+    {
+        "title": "Komponist Udo Zimmermann gestorben",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/kultur/musik/2021-10/udo-zimmermann-komponist-intendant-oper-tod-dresden",
+        "content": "Er war Komponist, Dirigent und Opernintendant: Zimmermann ist im Alter von 78 gestorben. Er litt an einer seltenen Erkrankung und musste das Komponieren zuletzt aufgeben.",
+        "ranked": 6,
+        "epoch": 1634900406.3054411
+    },
+    {
+        "title": "\"Die Unionsfraktion wird demn\u00e4chst oft rechts blinken\"",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/politik/deutschland/2021-10/afd-politiker-frank-rinck-bundestag-abgeordneter-nrw-landwirt-bundestagswahl",
+        "content": "Frank Rinck ist Landwirt und sitzt neu f\u00fcr die AfD im Bundestag. Wie blickt er auf die menschenfeindlichen Schm\u00e4hreden seiner Partei und den Parlamentsbetrieb?",
+        "ranked": 7,
+        "epoch": 1634900406.3054419
+    },
+    {
+        "title": "Herbststurm sorgt f\u00fcr Sch\u00e4den \u2013 und flaut langsam ab",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/unwetter-deutschland-herbststurm-sturmtief-schaeden-feuerwehr",
+        "content": "In vielen Teilen des Landes riss der Sturm B\u00e4ume und Strommasten um, der Hamburger Fischmarkt wurde \u00fcberschwemmt. In Brandenburg starb ein Lokf\u00fchrer bei einem Einsatz.",
+        "ranked": 8,
+        "epoch": 1634900406.3054426
+    },
+    {
+        "title": "Pr\u00e4senzlehre? Von wegen! Der Frust der Studis zum Semesterstart",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/hamburg/2021-10/elbvertiefung-22-10-2021",
+        "content": "Im Wintersemester sollten die Studierenden an die Hamburger Unis zur\u00fcckkehren. Und: Alle Jahre wieder: Der HVV erh\u00f6ht die Preise, Sturmtief Ignatz macht Fischmarkt nass",
+        "ranked": 9,
+        "epoch": 1634900406.3054435
+    },
+    {
+        "title": "Darf ich Dich mal etwas fragen?",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/kultur/film/2021-10/walchensee-forever-janna-ji-wonders-dokumentarfilm",
+        "content": "Janna Ji Wonders hat fast 100 Jahre ihrer Familiengeschichte filmisch dokumentiert. \"Walchensee Forever\" erz\u00e4hlt von drei Frauengenerationen und der Suche nach Freiheit.",
+        "ranked": 10,
+        "epoch": 1634900406.3054442
+    },
+    {
+        "title": "Simson und Delila",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/gesellschaft/2021-10/simson-dlila-buch-der-richter-liebe-tragoedie-bibelpodcast",
+        "content": "Simson ist der Herakles des Alten Testaments: ein Kraftprotz voller Wut und ohne Anstand. Und mit einer verh\u00e4ngnisvollen Leidenschaft f\u00fcr die sch\u00f6ne Delila",
+        "ranked": 11,
+        "epoch": 1634900406.3054452
+    },
+    {
+        "title": "So machen Sie Ihren Garten zum winterfesten Tierparadies",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/green/2021-10/garten-tierschutz-igel-natur-winter",
+        "content": "Naturg\u00e4rten sind Heim f\u00fcr Falter und Meise, Igel und Molch. Die richtige Gartenpflege im Herbst hilft den kleinen Freunden beim \u00dcberleben. Eine Anleitung in vier Stufen",
+        "ranked": 12,
+        "epoch": 1634900406.305446
+    },
+    {
+        "title": "Kamerafrau am Filmset von Alec Baldwin mit Requisitenwaffe erschossen",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/kultur/film/2021-10/alec-baldwin-unfall-dreharbeiten-filmset-requisitenwaffe-kamerafrau-usa",
+        "content": "Bei Dreharbeiten in den USA hat Baldwin eine Waffe aus der Requisite abgefeuert, die Kamerafrau Halyna Hutchins wurde dabei t\u00f6dlich verletzt. Die Polizei befragt Zeugen.",
+        "ranked": 13,
+        "epoch": 1634900406.3054466
+    },
+    {
+        "title": "Freedom Day ohne H\u00e4nde, okay?",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/corona-freedom-day-begruessung-handeschuetteln-alternativen-5vor8",
+        "content": "Der Freiheitsdrang w\u00e4chst und Jens Spahn will die epidemische Lage beenden. Soll er machen, wenn wir auch kurz dar\u00fcber sprechen, was nie wiederkommen soll: H\u00e4ndesch\u00fctteln",
+        "ranked": 14,
+        "epoch": 1634900406.3054473
+    },
+    {
+        "title": "EU-Staaten finden keine L\u00f6sung im Streit mit Polen",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/politik/ausland/2021-10/justizstreit-eu-gipfel-polen-rechtsstaatlichkeit-angela-merkel",
+        "content": "Justizstreit mit Polen und das Vorgehen gegen hohe Energiepreise: Die EU-Staats- und Regierungschef haben keine Einigung erzielt. Der Ton sei aber freundlich geblieben.",
+        "ranked": 15,
+        "epoch": 1634900406.3054478
+    },
+    {
+        "title": "EU-Gipfel, Sturm Ignatz, exklusiver Stoff",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-10/nato-ignatz-buchmesse-2021-10-22",
+        "content": "Sturm Ignatz sorgt f\u00fcr Zugausf\u00e4lle, die EU verhandelt weiter und die Nato r\u00fcstet sich f\u00fcr einen h\u00e4rteren Kurs gegen Russland. Der Morgen\u00fcberblick",
+        "ranked": 16,
+        "epoch": 1634900406.3054488
+    },
+    {
+        "title": "Was Autok\u00e4ufer jetzt wissen sollten",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/mobilitaet/2021-10/autokauf-chipkrise-halbleitermangel-lieferfristen-neuwagen-gebrauchtwagen-leasing-tipps",
+        "content": "Wegen der Chipkrise muss man derzeit oft lange auf die Auslieferung eines neuen Autos warten. Es gibt Alternativen \u2013 nur wie gut sind die?",
+        "ranked": 17,
+        "epoch": 1634900406.3054497
+    },
+    {
+        "title": "USA w\u00fcrden Taiwan gegen Angriff Chinas verteidigen",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/politik/ausland/2021-10/usa-joe-biden-china-taiwan-cnn-townhall",
+        "content": "US-Pr\u00e4sident Joe Biden hat sich \u00fcberraschend klar zum Taiwan-Konflikt ge\u00e4u\u00dfert: Sollte China die Insel attackieren, w\u00fcrden die USA milit\u00e4risch eingreifen.",
+        "ranked": 18,
+        "epoch": 1634900406.305453
+    },
+    {
+        "title": "Derzeit nicht lieferbar",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_news_url": "https://www.zeit.de/politik/2021-10/globale-lieferengpaesse-folgen-deutschland-hendrik-wuest-armin-laschet",
+        "content": "Die globalen Lieferengp\u00e4sse sind auch in Deutschland sp\u00fcrbar. Was bedeutet das f\u00fcr die Wirtschaft? Und: Wer ist der Nachfolger Armin Laschets in NRW, Hendrik W\u00fcst?",
+        "ranked": 19,
+        "epoch": 1634900406.305454
+    }
+]

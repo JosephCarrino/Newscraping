@@ -2,7 +2,7 @@
     {
         "title": "Senators back criminal charges against Bolsonaro",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-latin-america-59051105",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59051105",
         "content": "Senators in Brazil vote to recommend charging the president over his handling of the pandemic.",
         "placed": "First_Page",
         "epoch": 1635336003.362739
@@ -10,7 +10,7 @@
     {
         "title": "Senators back criminal charges against Bolsonaro",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-latin-america-59051105",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59051105",
         "content": "Senators in Brazil vote to recommend charging the president over his handling of the pandemic.",
         "placed": "First_Page",
         "epoch": 1635336003.3627667
@@ -18,7 +18,7 @@
     {
         "title": "Russia threatens gas supply in Europe's poorest state",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59048894",
+        "news_url": "https://www.bbc.com/news/world-europe-59048894",
         "content": "Moldova has made history by buying gas from somewhere other than Russia. How will the Kremlin react?",
         "placed": "First_Page",
         "epoch": 1635336003.3627863
@@ -26,7 +26,7 @@
     {
         "title": "Sister of UK Bataclan victim: 'We don't hate you'",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59062002",
+        "news_url": "https://www.bbc.com/news/world-europe-59062002",
         "content": "Nick Alexander died at a Paris rock gig during the assault by Islamic State (IS) extremists in 2015.",
         "placed": "First_Page",
         "epoch": 1635336003.3628035
@@ -34,7 +34,7 @@
     {
         "title": "Clinton aide details sexual assault by US senator",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59059289",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59059289",
         "content": "In a new book, Huma Abedin says she was assaulted after a senator invited her into his home.",
         "placed": "First_Page",
         "epoch": 1635336003.3628197
@@ -42,7 +42,7 @@
     {
         "title": "Why is Julian Assange's case back in court?",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/uk-59053803",
+        "news_url": "https://www.bbc.com/news/uk-59053803",
         "content": "The US begins its appeal in order to extradite the WikiLeaks founder. We explain how we got here.",
         "placed": "First_Page",
         "epoch": 1635336003.3628302
@@ -50,7 +50,7 @@
     {
         "title": "Footballer Josh Cavallo comes out as gay",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/newsbeat-59060323",
+        "news_url": "https://www.bbc.com/news/newsbeat-59060323",
         "content": "The Adelaide United footballer has become the only current top-flight male professional to do so.",
         "placed": "First_Page",
         "epoch": 1635336003.3628457
@@ -58,7 +58,7 @@
     {
         "title": "Campaigning Hiroshima survivor dies aged 96",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-asia-59060950",
+        "news_url": "https://www.bbc.com/news/world-asia-59060950",
         "content": "Sunao Tsuboi met Barack Obama on his historic visit to the site of the world's first nuclear attack.",
         "placed": "First_Page",
         "epoch": 1635336003.362861
@@ -66,7 +66,7 @@
     {
         "title": "Hong Kong passes film censorship law",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-asia-china-59047633",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59047633",
         "content": "Authorities will have the power to ban films deemed to violate China's national security interests.",
         "placed": "First_Page",
         "epoch": 1635336003.362875
@@ -74,7 +74,7 @@
     {
         "title": "Queen will miss COP26 climate summit",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/uk-59056725",
+        "news_url": "https://www.bbc.com/news/uk-59056725",
         "content": "Buckingham Palace says the Queen, who has been advised to rest, is \"disappointed\" not to attend.",
         "placed": "First_Page",
         "epoch": 1635336003.3628893
@@ -82,7 +82,7 @@
     {
         "title": "Australia confirms end to citizen travel ban",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-australia-59058945",
+        "news_url": "https://www.bbc.com/news/world-australia-59058945",
         "content": "For the first time in 19 months, Australians will not need an exemption to travel overseas.",
         "placed": "First_Page",
         "epoch": 1635336003.3629034
@@ -90,7 +90,7 @@
     {
         "title": "Sunak unveils spending plans in Budget for 'new age'",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/live/uk-59035120",
+        "news_url": "https://www.bbc.com/news/live/uk-59035120",
         "content": "The chancellor is announcing his plans in the Commons as he faces pressure to help people with rising prices.",
         "placed": "First_Page",
         "epoch": 1635336003.3629174
@@ -98,7 +98,7 @@
     {
         "title": "Australia confirms end to citizen travel ban",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-australia-59058945",
+        "news_url": "https://www.bbc.com/news/world-australia-59058945",
         "content": "For the first time in 19 months, Australians will not need an exemption to travel overseas.",
         "placed": "First_Page",
         "epoch": 1635336003.3629313
@@ -106,7 +106,7 @@
     {
         "title": "Sunak unveils spending plans in Budget for 'new age'",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/live/uk-59035120",
+        "news_url": "https://www.bbc.com/news/live/uk-59035120",
         "content": "The chancellor is announcing his plans in the Commons as he faces pressure to help people with rising prices.",
         "placed": "First_Page",
         "epoch": 1635336003.3629448
@@ -114,7 +114,7 @@
     {
         "title": "Spain grants joint custody of dog in rare ruling",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59062132",
+        "news_url": "https://www.bbc.com/news/world-europe-59062132",
         "content": "A lawyer calls the ruling pioneering as her client could declare herself as a \"co-carer\".",
         "placed": "First_Page",
         "epoch": 1635336003.3629582
@@ -122,7 +122,7 @@
     {
         "title": "Twitter profits slump after settling $809m lawsuit",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/business-59059089",
+        "news_url": "https://www.bbc.com/news/business-59059089",
         "content": "The social media giant paid out after it was accused of misleading investors in 2015.",
         "placed": "First_Page",
         "epoch": 1635336003.3629656
@@ -130,7 +130,7 @@
     {
         "title": "Charlize Theron: We have to share Covid vaccines",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/world-africa-59054894",
+        "news_url": "https://www.bbc.com/news/world-africa-59054894",
         "content": "The actress tells the BBC nations must start sharing jabs to help reach the WHO's vaccination goals.",
         "placed": "First_Page",
         "epoch": 1635336003.3629794
@@ -138,7 +138,7 @@
     {
         "title": "Four things you can do to reduce emissions",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/science-environment-58171814",
+        "news_url": "https://www.bbc.com/news/science-environment-58171814",
         "content": "The latest global news, sport, weather and documentaries",
         "placed": "First_Page",
         "epoch": 1635336003.3629935
@@ -146,7 +146,7 @@
     {
         "title": "Can your sex life be eco-friendly?",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/science-environment-59046518",
+        "news_url": "https://www.bbc.com/news/science-environment-59046518",
         "content": "Stories from around the world",
         "placed": "First_Page",
         "epoch": 1635336003.3630104

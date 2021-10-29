@@ -3,7 +3,7 @@
         "title": "Salmonella Outbreak Linked to Onions Sickens More Than 650",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/us/onions-salmonella-outbreak-recall.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/us/onions-salmonella-outbreak-recall.html",
         "content": "The C.D.C. urged consumers to throw away any whole red, white or yellow onions they purchased that do not have a sticker or packaging.",
         "ranked": 0,
         "placed": "First_Page",
@@ -35,14 +35,14 @@
                 "Chihuahua (Mexico)",
                 "Idaho"
             ],
-            "short_url": "https://nyti.ms/3jlRxqw"
+            "short_news_news_url": "https://nyti.ms/3jlRxqw"
         }
     },
     {
         "title": "She Searched the East Side of Manhattan With a $625,000 Budget. Which Apartment Would You Choose?",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/interactive/2021/10/21/realestate/21hunt-small.html",
+        "news_news_url": "https://www.nytimes.com/interactive/2021/10/21/realestate/21hunt-small.html",
         "content": "A lifelong New Yorker hoped to realize her dream of owning a home in Manhattan, but could she afford a one-bedroom near her office? Here\u2019s what she found.",
         "ranked": 1,
         "placed": "First_Page",
@@ -66,14 +66,14 @@
                 "Stuyvesant Square (Manhattan, NY)",
                 "Gramercy Park (Manhattan, NY)"
             ],
-            "short_url": "https://nyti.ms/3nhOcty"
+            "short_news_news_url": "https://nyti.ms/3nhOcty"
         }
     },
     {
         "title": "Kyrsten Sinema\u2019s Style Keeps Us Guessing",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 2,
         "placed": "First_Page",
@@ -104,14 +104,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n82nRS"
+            "short_news_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "Texas Nurse Is Found Guilty of Killing 4 Patients by Injecting Them With Air",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/us/texas-nurse-air-injections.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/us/texas-nurse-air-injections.html",
         "content": "William Davis \u2014 who worked at Christus Mother Frances Hospital in Tyler, Texas \u2014 could face the death penalty. The victims had undergone heart surgery.",
         "ranked": 3,
         "placed": "First_Page",
@@ -143,14 +143,14 @@
                 "Tyler (Tex)",
                 "Texas"
             ],
-            "short_url": "https://nyti.ms/3DWBFmb"
+            "short_news_news_url": "https://nyti.ms/3DWBFmb"
         }
     },
     {
         "title": "Fear on Cape Cod as Sharks Hunt Again",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/interactive/2021/10/20/magazine/sharks-cape-cod.html",
+        "news_news_url": "https://www.nytimes.com/interactive/2021/10/20/magazine/sharks-cape-cod.html",
         "content": "The apex predator is back along New England\u2019s beaches. What will it take to keep people safe?",
         "ranked": 4,
         "placed": "First_Page",
@@ -193,14 +193,14 @@
                 "Cape Cod (Mass)",
                 "Nova Scotia (Canada)"
             ],
-            "short_url": "https://nyti.ms/3jjqax2"
+            "short_news_news_url": "https://nyti.ms/3jjqax2"
         }
     },
     {
         "title": "In a First, Surgeons Attached a Pig Kidney to a Human, and It Worked",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html",
         "content": "A kidney grown in a genetically altered pig functions normally, scientists reported. The procedure may open the door to a renewable source of desperately needed organs.",
         "ranked": 5,
         "placed": "First_Page",
@@ -230,14 +230,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jl5jtl"
+            "short_news_news_url": "https://nyti.ms/3jl5jtl"
         }
     },
     {
         "title": "China\u2019s Bullying Is Becoming a Danger to the World and Itself",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/opinion/china-microchips.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/opinion/china-microchips.html",
         "content": "Does Xi understand the cost of the distrust he\u2019s fostering at home and abroad?",
         "ranked": 6,
         "placed": "First_Page",
@@ -271,14 +271,14 @@
                 "China",
                 "Taiwan"
             ],
-            "short_url": "https://nyti.ms/3G1SEp6"
+            "short_news_news_url": "https://nyti.ms/3G1SEp6"
         }
     },
     {
         "title": "The Secret Toll of Racial Ambiguity",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/magazine/rebecca-hall-passing.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/magazine/rebecca-hall-passing.html",
         "content": "Rebecca Hall\u2019s new film adaptation of the 1929 novel \u201cPassing\u201d has cracked open a public conversation about colorism and privilege.",
         "ranked": 7,
         "placed": "First_Page",
@@ -307,14 +307,14 @@
                 "Negga, Ruth (1982- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3aUHR1w"
+            "short_news_news_url": "https://nyti.ms/3aUHR1w"
         }
     },
     {
         "title": "Vikings Were in the Americas Exactly 1,000 Years Ago",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
         "content": "By studying tree rings and using a dash of astrophysics, researchers have pinned down a precise year that settlers from Europe were on land that would come to be known as Newfoundland.",
         "ranked": 8,
         "placed": "First_Page",
@@ -346,7 +346,7 @@
                 "Newfoundland (Canada)",
                 "Canada"
             ],
-            "short_url": "https://nyti.ms/3jkQrey"
+            "short_news_news_url": "https://nyti.ms/3jkQrey"
         }
     }
 ]

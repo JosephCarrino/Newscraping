@@ -3,7 +3,7 @@
         "title": "\u2018I Only Wish I Had Met Her Sooner\u2019",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/style/noelle-jasmine-kennedy-white-charles-joseph-mahoney-iv-wedding.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/noelle-jasmine-kennedy-white-charles-joseph-mahoney-iv-wedding.html",
         "content": "A mutual friend had tried for three years to introduce Noelle Jasmine Kennedy-White to Charles Joseph Mahoney IV.",
         "ranked": 0,
         "placed": "First_Page",
@@ -24,14 +24,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3C98ifK"
+            "short_news_url": "https://nyti.ms/3C98ifK"
         }
     },
     {
         "title": "$3 Million Homes in New York, California and Wyoming",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/realestate/home-prices-new-york-california-and-wyoming.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/realestate/home-prices-new-york-california-and-wyoming.html",
         "content": "A 1765 Georgian house in Kinderhook, a 1927 Spanish-style home in Los Angeles and a cabin in Jackson.",
         "ranked": 1,
         "placed": "First_Page",
@@ -56,14 +56,14 @@
                 "Kinderhook (NY)",
                 "Los Angeles (Calif)"
             ],
-            "short_url": "https://nyti.ms/3EjqDaK"
+            "short_news_url": "https://nyti.ms/3EjqDaK"
         }
     },
     {
         "title": "The Best Workout for Middle-Aged Bodies",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
         "content": "Research shows that becoming fit in middle age will give you more years of good health \u2014 and the most effective exercise for a middle-aged body can be  easier and faster than you might think.",
         "ranked": 2,
         "placed": "First_Page",
@@ -86,14 +86,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3G6e18N"
+            "short_news_url": "https://nyti.ms/3G6e18N"
         }
     },
     {
         "title": "Russia Reopens the Last Czar\u2019s Palace, a Century After His Execution",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/style/alexander-palace-russia-restoration.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/style/alexander-palace-russia-restoration.html",
         "content": "The last home of Nicholas II has been restored and opened to the public as a museum outside of St. Petersburg.",
         "ranked": 3,
         "placed": "First_Page",
@@ -118,14 +118,14 @@
                 "Romanov Family"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CjVXpj"
+            "short_news_url": "https://nyti.ms/3CjVXpj"
         }
     },
     {
         "title": "Dinner for 10? Make This Party Wreath.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/magazine/party-wreath-recipe.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/magazine/party-wreath-recipe.html",
         "content": "This festively retro dish will delight a dinner with friends, however many you invite.",
         "ranked": 4,
         "placed": "First_Page",
@@ -148,14 +148,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3ClWerB"
+            "short_news_url": "https://nyti.ms/3ClWerB"
         }
     },
     {
         "title": "At Last, a Royal Wedding. But No Trumpets, Just a News Conference.",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
         "content": "The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad.",
         "ranked": 5,
         "placed": "First_Page",
@@ -183,14 +183,14 @@
             "geo_facet": [
                 "Japan"
             ],
-            "short_url": "https://nyti.ms/3jygTRR"
+            "short_news_url": "https://nyti.ms/3jygTRR"
         }
     },
     {
         "title": "\u2018Dune\u2019 Is the Movie We Always Wanted",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/opinion/dune-movie-foundation-series.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/opinion/dune-movie-foundation-series.html",
         "content": "Of sandworms and social science.",
         "ranked": 6,
         "placed": "First_Page",
@@ -218,14 +218,14 @@
                 "Herbert, Frank"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Cio9ZE"
+            "short_news_url": "https://nyti.ms/3Cio9ZE"
         }
     },
     {
         "title": "The Moral Chasm That Has Opened Up Between Left and Right Is Widening",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
         "content": "The things that are driving us apart are going to keep driving us apart.\u00a0",
         "ranked": 7,
         "placed": "First_Page",
@@ -255,14 +255,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BirpTE"
+            "short_news_url": "https://nyti.ms/3BirpTE"
         }
     },
     {
         "title": "Criminal Charges Possible in Shooting on Alec Baldwin Set, D.A. Says",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/movies/criminal-charges-shooting-alec-baldwin.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/movies/criminal-charges-shooting-alec-baldwin.html",
         "content": "An inquiry into how a cinematographer was killed with a gun the actor was rehearsing with, which was not supposed to have live rounds in it, could take weeks.",
         "ranked": 8,
         "placed": "First_Page",
@@ -294,7 +294,7 @@
             "geo_facet": [
                 "Santa Fe (NM)"
             ],
-            "short_url": "https://nyti.ms/3jEdOQC"
+            "short_news_url": "https://nyti.ms/3jEdOQC"
         }
     }
 ]

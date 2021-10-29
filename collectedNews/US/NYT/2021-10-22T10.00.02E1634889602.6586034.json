@@ -3,7 +3,7 @@
         "title": "Minneapolis Police Officer Receives Shorter Sentence in Fatal Shooting",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/us/mohamed-noor-minneapolis-sentenced.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/us/mohamed-noor-minneapolis-sentenced.html",
         "content": "Mohamed Noor shot a resident who had called 911 seeking help. His conviction was seen as a rare example of an officer facing serious consequences for an unjustified shooting.",
         "ranked": 0,
         "placed": "First_Page",
@@ -31,14 +31,14 @@
             "geo_facet": [
                 "Minneapolis (Minn)"
             ],
-            "short_url": "https://nyti.ms/3jqk5iF"
+            "short_news_news_url": "https://nyti.ms/3jqk5iF"
         }
     },
     {
         "title": "Can the Red Sox Get Back on Track? \u2018We Did It Before.\u2019",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/sports/baseball/red-sox-alcs.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/sports/baseball/red-sox-alcs.html",
         "content": "A pair of ugly losses in a row has Boston reeling. But as the A.L.C.S. shifts to Houston, the Red Sox are buoyed by the idea that they have overcome worse deficits in the past.",
         "ranked": 1,
         "placed": "First_Page",
@@ -65,14 +65,14 @@
                 "Eovaldi, Nathan"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3lZEtbP"
+            "short_news_news_url": "https://nyti.ms/3lZEtbP"
         }
     },
     {
         "title": "Bones or No Bones? A Dog on TikTok Is Setting Today\u2019s Mood.",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/style/bones-day-noodle-tiktok-dog.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/style/bones-day-noodle-tiktok-dog.html",
         "content": "Millions of people are checking TikTok posts about a pug as a horoscope of sorts to see what kind of day they will have based on whether the dog rises or stays in bed.",
         "ranked": 2,
         "placed": "First_Page",
@@ -98,14 +98,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jprmPL"
+            "short_news_news_url": "https://nyti.ms/3jprmPL"
         }
     },
     {
         "title": "She Searched the East Side of Manhattan With a $625,000 Budget. Which Apartment Would You Choose?",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/interactive/2021/10/21/realestate/21hunt-small.html",
+        "news_news_url": "https://www.nytimes.com/interactive/2021/10/21/realestate/21hunt-small.html",
         "content": "A lifelong New Yorker hoped to realize her dream of owning a home in Manhattan, but could she afford a one-bedroom near her office? Here\u2019s what she found.",
         "ranked": 3,
         "placed": "First_Page",
@@ -129,14 +129,14 @@
                 "Stuyvesant Square (Manhattan, NY)",
                 "Gramercy Park (Manhattan, NY)"
             ],
-            "short_url": "https://nyti.ms/3nhOcty"
+            "short_news_news_url": "https://nyti.ms/3nhOcty"
         }
     },
     {
         "title": "New Zealand\u2019s Chief Coroner Opens New Inquiry Into Mosque Attacks",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html",
         "content": "The move came after pleas from dozens of families of those killed in Christchurch in 2019 when a white supremacist opened fire on Muslims at prayer.",
         "ranked": 4,
         "placed": "First_Page",
@@ -162,14 +162,14 @@
                 "Tarrant, Brenton Harrison"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vwniC6"
+            "short_news_news_url": "https://nyti.ms/3vwniC6"
         }
     },
     {
         "title": "Alec Baldwin Fatally Shoots Crew Member With Prop Firearm on Film Set, Authorities Say",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
         "content": "The movie\u2019s director of photography was killed and the director was injured on the set of \u201cRust,\u201d a Western, a sheriff\u2019s office in New Mexico said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -197,14 +197,14 @@
                 "Santa Fe (NM)",
                 "New Mexico"
             ],
-            "short_url": "https://nyti.ms/30FtFrc"
+            "short_news_news_url": "https://nyti.ms/30FtFrc"
         }
     },
     {
         "title": "I Was Wrong About Donald Trump",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
         "content": "Democrats need a bigger, bolder campaign blueprint to save democracy that doesn\u2019t hinge on the whims of Congress.",
         "ranked": 6,
         "placed": "First_Page",
@@ -238,14 +238,14 @@
                 "Virginia",
                 "Georgia"
             ],
-            "short_url": "https://nyti.ms/3nbFbm0"
+            "short_news_news_url": "https://nyti.ms/3nbFbm0"
         }
     },
     {
         "title": "Why the Popularity of \u2018Squid Game\u2019 Terrifies Me",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/opinion/squid-game-violence.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/opinion/squid-game-violence.html",
         "content": "What does the appeal of this violent, dystopian fantasy say about us?",
         "ranked": 7,
         "placed": "First_Page",
@@ -274,14 +274,14 @@
             "geo_facet": [
                 "South Korea"
             ],
-            "short_url": "https://nyti.ms/3vwscz0"
+            "short_news_news_url": "https://nyti.ms/3vwscz0"
         }
     },
     {
         "title": "Liz Cheney\u2019s Consultants Are Given an Ultimatum: Drop Her, or Be Dropped",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/us/politics/liz-cheney-kevin-mccarthy.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/us/politics/liz-cheney-kevin-mccarthy.html",
         "content": "The message, delivered by a lobbyist close to the House minority leader, Kevin McCarthy, has already led one Republican firm to cut ties.",
         "ranked": 8,
         "placed": "First_Page",
@@ -312,7 +312,7 @@
             "geo_facet": [
                 "Wyoming"
             ],
-            "short_url": "https://nyti.ms/3E0xe9S"
+            "short_news_news_url": "https://nyti.ms/3E0xe9S"
         }
     }
 ]

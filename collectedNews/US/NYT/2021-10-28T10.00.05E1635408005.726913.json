@@ -3,7 +3,7 @@
         "title": "Anonymity No More? Age Checks Come to the Web.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/technology/internet-age-check-proof.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/technology/internet-age-check-proof.html",
         "content": "To protect children online, more companies and governments are forcing users to prove how old they are.",
         "ranked": 0,
         "placed": "Economics",
@@ -37,14 +37,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CnanVu"
+            "short_news_url": "https://nyti.ms/3CnanVu"
         }
     },
     {
         "title": "Higher Food Prices Hit the Poor and Those Who Help Them",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/economy/food-prices-us.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/economy/food-prices-us.html",
         "content": "Many households are being forced to adjust their shopping lists or seek assistance. But food banks, too, are feeling the pinch.",
         "ranked": 1,
         "placed": "Economics",
@@ -73,14 +73,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CjlhvH"
+            "short_news_url": "https://nyti.ms/3CjlhvH"
         }
     },
     {
         "title": "Pastries and Persuasion: How a Global Tax Deal Got Done",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html",
         "content": "Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world\u2019s tax architecture were revived.",
         "ranked": 2,
         "placed": "Economics",
@@ -115,14 +115,14 @@
             "geo_facet": [
                 "Ireland"
             ],
-            "short_url": "https://nyti.ms/3jJ8fjA"
+            "short_news_url": "https://nyti.ms/3jJ8fjA"
         }
     },
     {
         "title": "Chip Shortage Dents Earnings at G.M. and Ford",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/general-motors-earnings.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/general-motors-earnings.html",
         "content": "The automakers said the profit outlook for the full year had improved, and higher car prices eased the impact of reduced production.",
         "ranked": 3,
         "placed": "Economics",
@@ -151,14 +151,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CmcIjx"
+            "short_news_url": "https://nyti.ms/3CmcIjx"
         }
     },
     {
         "title": "Hunting for Money, Democrats Rush to Rewrite Tax Code",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/democrats-rush-rewrite-tax-code.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/democrats-rush-rewrite-tax-code.html",
         "content": "Lawmakers are racing to finalize legislation to pay for new spending initiatives. The process usually takes months, but they are trying to do it in days.",
         "ranked": 4,
         "placed": "Economics",
@@ -188,14 +188,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": ""
+            "short_news_url": ""
         }
     },
     {
         "title": "Japan Stays Tough on Cannabis as Other Nations Loosen Up",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/cbd-japan-cannabis-marijuana.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/cbd-japan-cannabis-marijuana.html",
         "content": "Some Japanese who have gone abroad and been exposed to the benefits of cannabis derivatives, particularly CBD, are hoping Japan will change course. But the government shows little inclination.",
         "ranked": 5,
         "placed": "Economics",
@@ -222,14 +222,14 @@
                 "Japan",
                 "Kobe (Japan)"
             ],
-            "short_url": "https://nyti.ms/3CkzNmO"
+            "short_news_url": "https://nyti.ms/3CkzNmO"
         }
     },
     {
         "title": "The Bond Market Says Inflation Will Last. You Should Be Listening.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/business/inflation-interest-rates-treasury-bonds.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/business/inflation-interest-rates-treasury-bonds.html",
         "content": "Inflation is as much a psychological process as an economic one. And a key indicator of inflation expectations has risen in recent days, which could ultimately lead to higher interest rates.",
         "ranked": 6,
         "placed": "Economics",
@@ -258,14 +258,14 @@
                 "Powell, Jerome H"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3bcxuq8"
+            "short_news_url": "https://nyti.ms/3bcxuq8"
         }
     },
     {
         "title": "Netflix Eyes New Jersey Army Base for Major Production Hub",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/business/media/netflix-new-jersey-fort-monmouth.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/business/media/netflix-new-jersey-fort-monmouth.html",
         "content": "The streaming service said it would bid for a nearly 300-acre chunk of Fort Monmouth and it has the support of Gov. Phil Murphy.",
         "ranked": 7,
         "placed": "Economics",
@@ -294,14 +294,14 @@
                 "Fort Monmouth (NJ)",
                 "New Jersey"
             ],
-            "short_url": "https://nyti.ms/2ZztuO7"
+            "short_news_url": "https://nyti.ms/2ZztuO7"
         }
     },
     {
         "title": "Facebook Faces a Public Relations Crisis. What About a Legal One?",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/technology/facebook-sec-complaints.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/technology/facebook-sec-complaints.html",
         "content": "One of the most pressing questions is whether the Securities and Exchange Commission will significantly add to the company\u2019s woes.",
         "ranked": 8,
         "placed": "Economics",
@@ -334,14 +334,14 @@
                 "Zuckerberg, Mark E"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3baJgRB"
+            "short_news_url": "https://nyti.ms/3baJgRB"
         }
     },
     {
         "title": "Old Power Gear Is Slowing Use of Clean Energy and Electric Cars",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/energy-environment/electric-grid-overload-solar-ev.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/energy-environment/electric-grid-overload-solar-ev.html",
         "content": "Some people and businesses seeking to use solar panels, batteries and electric vehicles find they can\u2019t because utility equipment needs an upgrade.",
         "ranked": 9,
         "placed": "Economics",
@@ -370,14 +370,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2ZFIf1L"
+            "short_news_url": "https://nyti.ms/2ZFIf1L"
         }
     },
     {
         "title": "Roller Derby Team Sues Cleveland M.L.B. Club Over \u2018Guardians\u2019 Name Change",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/sports/mlb-roller-derby-cleveland-guardians-lawsuit.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/sports/mlb-roller-derby-cleveland-guardians-lawsuit.html",
         "content": "\u201cTo be blunt, Plaintiff was here first,\u201d the Cleveland Guardians roller derby team said in filing a suit claiming trademark infringement.",
         "ranked": 10,
         "placed": "Economics",
@@ -409,14 +409,14 @@
                 "Cleveland (Ohio)",
                 "Ohio"
             ],
-            "short_url": "https://nyti.ms/3CtN1hi"
+            "short_news_url": "https://nyti.ms/3CtN1hi"
         }
     },
     {
         "title": "Lawyer Who Won $9.5 Billion Settlement Against Chevron Reports to Prison",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/energy-environment/steven-donziger-chevron.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/energy-environment/steven-donziger-chevron.html",
         "content": "Steven Donziger, an environmental activist who won what is considered the largest ever lawsuit against an oil company, was found guilty of contempt of court in July.",
         "ranked": 11,
         "placed": "Economics",
@@ -444,14 +444,14 @@
             "geo_facet": [
                 "Ecuador"
             ],
-            "short_url": "https://nyti.ms/2Zn4x85"
+            "short_news_url": "https://nyti.ms/2Zn4x85"
         }
     },
     {
         "title": "Patients Must Be Warned of Breast Implant Risks, F.D.A. Says",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/health/breast-implants-cancer-fda.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/health/breast-implants-cancer-fda.html",
         "content": "A decade after scientists identified a link between certain implants and cancer, the agency ordered \u201cblack box\u201d warnings and a new checklist of risks for patients to review.",
         "ranked": 12,
         "placed": "Economics",
@@ -484,14 +484,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3pK2FBm"
+            "short_news_url": "https://nyti.ms/3pK2FBm"
         }
     },
     {
         "title": "Gun Handed to Alec Baldwin Was Not Thoroughly Checked, Affidavit Says",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/movies/rust-shooting-investigation-dave-halls.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/movies/rust-shooting-investigation-dave-halls.html",
         "content": "The bullet that killed the cinematographer on the film \u201cRust\u201d has been recovered, the Santa Fe County Sheriff said, and investigators believe there were more live rounds on the set.",
         "ranked": 13,
         "placed": "Economics",
@@ -523,14 +523,14 @@
             "geo_facet": [
                 "Santa Fe (NM)"
             ],
-            "short_url": "https://nyti.ms/3vThoed"
+            "short_news_url": "https://nyti.ms/3vThoed"
         }
     },
     {
         "title": "Key takeaways from Week 9 of the Elizabeth Holmes trial.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/technology/elizabeth-holmes-trial-takeaways.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/technology/elizabeth-holmes-trial-takeaways.html",
         "content": "A major investor testifies.",
         "ranked": 14,
         "placed": "Economics",
@@ -559,14 +559,14 @@
                 "Holmes, Elizabeth (1984- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3nxaE29"
+            "short_news_url": "https://nyti.ms/3nxaE29"
         }
     },
     {
         "title": "Ford\u2019s profit declines as automakers deal with supply-chain troubles.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/fords-profit-declines-as-automakers-deal-with-supply-chain-troubles.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/fords-profit-declines-as-automakers-deal-with-supply-chain-troubles.html",
         "content": "Revenue fell 5 percent from a year earlier, but the automaker said chip availability had \u201cmarkedly improved\u201d since the previous quarter.",
         "ranked": 15,
         "placed": "Economics",
@@ -593,14 +593,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3ClCpAF"
+            "short_news_url": "https://nyti.ms/3ClCpAF"
         }
     },
     {
         "title": "Despite higher prices, McDonald\u2019s, Kraft Heinz and Coca-Cola post solid earnings.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/mcdonalds-kraft-heinz-coca-cola-earnings.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/mcdonalds-kraft-heinz-coca-cola-earnings.html",
         "content": "Americans are paying more for food and beverages as large corporations are able to pass on higher costs brought on by supply chain delays and labor shortages.",
         "ranked": 16,
         "placed": "Economics",
@@ -629,14 +629,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3GqOJ5l"
+            "short_news_url": "https://nyti.ms/3GqOJ5l"
         }
     },
     {
         "title": "Facebook tells employees to preserve all communications for legal reasons.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/technology/facebook-legal-communications.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/technology/facebook-legal-communications.html",
         "content": "The move follows intense scrutiny after a whistle-blower provided documents about the social network\u2019s inner workings.",
         "ranked": 17,
         "placed": "Economics",
@@ -665,14 +665,14 @@
                 "Haugen, Frances"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3nCKvie"
+            "short_news_url": "https://nyti.ms/3nCKvie"
         }
     },
     {
         "title": "B.J. Novak\u2019s Face Is on Products Worldwide. He\u2019s Not Sure Why.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html",
         "content": "An image of the actor appears on an eclectic mix of products from China to Uruguay. \u201cI am too amused to do anything about it,\u201d he said on Instagram.",
         "ranked": 18,
         "placed": "Economics",
@@ -698,14 +698,14 @@
                 "Novak, B J"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mmyOwZ"
+            "short_news_url": "https://nyti.ms/3mmyOwZ"
         }
     },
     {
         "title": "The Latest on Food Prices",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/interactive/2021/10/27/business/economy/food-prices-what-to-know.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/27/business/economy/food-prices-what-to-know.html",
         "content": "The cost of food is soaring \u2014 and it\u2019s changing shopping and eating habits for tens of millions of Americans.",
         "ranked": 19,
         "placed": "Economics",
@@ -730,14 +730,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jGHD2R"
+            "short_news_url": "https://nyti.ms/3jGHD2R"
         }
     },
     {
         "title": "Britain prepares for a post-pandemic economy, and keeps spending.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/britain-budget-sunak.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/britain-budget-sunak.html",
         "content": "\u201cA new age of optimism\u201d is coming, said Chancellor Rishi Sunak, while inflation and shortages still bedevil the country.",
         "ranked": 20,
         "placed": "Economics",
@@ -766,14 +766,14 @@
                 "Johnson, Boris"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CnU9vg"
+            "short_news_url": "https://nyti.ms/3CnU9vg"
         }
     },
     {
         "title": "Dreamliner delays drag down Boeing\u2019s quarterly earnings.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/boeing-3q-2021-earnings.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/boeing-3q-2021-earnings.html",
         "content": "The aircraft maker reported $15.3 billion in revenue in the third quarter, up about 8 percent from the same period last year and just below analyst expectations.",
         "ranked": 21,
         "placed": "Economics",
@@ -800,14 +800,14 @@
                 "Calhoun, David L"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vPIVNF"
+            "short_news_url": "https://nyti.ms/3vPIVNF"
         }
     },
     {
         "title": "Why This Billionaire Is Worried About Green Investing",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/dealbook/schwarzman-energy-crunch.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/dealbook/schwarzman-energy-crunch.html",
         "content": "The world is facing an energy credit crunch in part because of Wall Street\u2019s E.S.G. focus, warned Steve Schwarzman of Blackstone.",
         "ranked": 22,
         "placed": "Economics",
@@ -836,14 +836,14 @@
                 "Schwarzman, Stephen A"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2ZtODJE"
+            "short_news_url": "https://nyti.ms/2ZtODJE"
         }
     },
     {
         "title": "Rent the Runway, a secondhand fashion site, makes its trading debut.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/rent-the-runway-ipo.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/rent-the-runway-ipo.html",
         "content": "Shares of the clothing rental company, which is trying to rebound from a loss of business during the pandemic, closed below the initial trading price on Wednesday.",
         "ranked": 23,
         "placed": "Economics",
@@ -870,14 +870,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3nwVrxW"
+            "short_news_url": "https://nyti.ms/3nwVrxW"
         }
     },
     {
         "title": "Merck Will Share Formula for Its Covid Pill With Poor Countries",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html",
         "content": "The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations.",
         "ranked": 24,
         "placed": "Economics",
@@ -908,14 +908,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3bf2ju5"
+            "short_news_url": "https://nyti.ms/3bf2ju5"
         }
     },
     {
         "title": "At McKinsey, Widespread Furor Over Work With Planet\u2019s Biggest Polluters",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/mckinsey-climate-change.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/mckinsey-climate-change.html",
         "content": "A letter signed by more than 1,100 employees has called for change at the consulting firm, which has advised at least 43 of the 100 most environmentally damaging companies.",
         "ranked": 25,
         "placed": "Economics",
@@ -952,14 +952,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vO7pac"
+            "short_news_url": "https://nyti.ms/3vO7pac"
         }
     },
     {
         "title": "How Democrats Would Tax Billionaires to Pay for Their Agenda",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/billionaires-tax.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/billionaires-tax.html",
         "content": "The plan stakes out new territory by putting levies on unrealized gains in the value of billionaires\u2019 liquid assets, such as stocks, bonds and cash.",
         "ranked": 26,
         "placed": "Economics",
@@ -993,14 +993,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CiYS1m"
+            "short_news_url": "https://nyti.ms/3CiYS1m"
         }
     },
     {
         "title": "F.D.A. Panel Recommends Covid Shots for Children 5 to 11",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/us/fda-pfizer-covid-vaccine-kids.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/fda-pfizer-covid-vaccine-kids.html",
         "content": "Covid-19 was \u201cthe eighth-highest killer of kids in this age group over the past year,\u201d said a C.D.C. official in favor of broader authorization.",
         "ranked": 27,
         "placed": "Economics",
@@ -1031,14 +1031,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/30VdqGE"
+            "short_news_url": "https://nyti.ms/30VdqGE"
         }
     },
     {
         "title": "The Newest Power Player in Luxury\u2019s First Family",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/style/frederic-arnault-tag-heuer-lvmh-succession.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/style/frederic-arnault-tag-heuer-lvmh-succession.html",
         "content": "Fr\u00e9d\u00e9ric Arnault is making big moves as chief executive of TAG Heuer. Just don\u2019t mention the show \u201cSuccession.\u201d",
         "ranked": 28,
         "placed": "Economics",
@@ -1070,14 +1070,14 @@
                 "Bianchi, Stephane"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Ci9rSx"
+            "short_news_url": "https://nyti.ms/3Ci9rSx"
         }
     },
     {
         "title": "Microsoft profit soars 48%, to $20.5 billion.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/business/microsoft-profit-soars-48-to-20-5-billion.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/business/microsoft-profit-soars-48-to-20-5-billion.html",
         "content": "The earnings were driven by success in the company\u2019s Microsoft Cloud business, which includes Office 365 subscriptions and Azure.",
         "ranked": 29,
         "placed": "Economics",
@@ -1102,14 +1102,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jFIVLj"
+            "short_news_url": "https://nyti.ms/3jFIVLj"
         }
     },
     {
         "title": "Google\u2019s profit and revenue soared in the third quarter.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/technology/google-profit-third-quarter.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/technology/google-profit-third-quarter.html",
         "content": "The results easily topped analysts\u2019 forecasts.",
         "ranked": 30,
         "placed": "Economics",
@@ -1137,14 +1137,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vOHdMP"
+            "short_news_url": "https://nyti.ms/3vOHdMP"
         }
     },
     {
         "title": "Twitter\u2019s revenue rises 37 percent in the third quarter.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/technology/twitter-third-quarter-2021-earnings.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/technology/twitter-third-quarter-2021-earnings.html",
         "content": "The social media company said the effects of Apple\u2019s privacy changes had not been as severe for its advertising business as for other companies.",
         "ranked": 31,
         "placed": "Economics",
@@ -1171,14 +1171,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mgkGFm"
+            "short_news_url": "https://nyti.ms/3mgkGFm"
         }
     },
     {
         "title": "Britain moves to attract financing for nuclear plants.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/business/britain-nuclear-plants.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/business/britain-nuclear-plants.html",
         "content": "The government wants to bolster electricity supply and ease dependence on foreign developers like China.",
         "ranked": 32,
         "placed": "Economics",
@@ -1209,14 +1209,14 @@
                 "China",
                 "Great Britain"
             ],
-            "short_url": "https://nyti.ms/3CkACMi"
+            "short_news_url": "https://nyti.ms/3CkACMi"
         }
     },
     {
         "title": "As Risks of Climate Change Rise, Investors Seek Greener Buildings",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/business/climate-change-sustainable-real-estate.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/business/climate-change-sustainable-real-estate.html",
         "content": "New technology and stricter standards allow them to better track a development\u2019s carbon footprint.",
         "ranked": 33,
         "placed": "Economics",
@@ -1247,7 +1247,7 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3pAEB3W"
+            "short_news_url": "https://nyti.ms/3pAEB3W"
         }
     }
 ]

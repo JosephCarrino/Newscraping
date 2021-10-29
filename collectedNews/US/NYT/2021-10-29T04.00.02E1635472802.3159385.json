@@ -3,7 +3,7 @@
         "title": "He Unleashed a California Massacre. Should This School Be Named for Him?",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/hastings-college-law-native-massacre.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/hastings-college-law-native-massacre.html",
         "content": "The founder of the Hastings College of the Law masterminded the killings of hundreds of Native Americans. The school, tribal members and alumni disagree about what should be done now.",
         "ranked": 0,
         "placed": "First_Page",
@@ -37,14 +37,14 @@
             "geo_facet": [
                 "California"
             ],
-            "short_url": "https://nyti.ms/3bcnwou"
+            "short_news_url": "https://nyti.ms/3bcnwou"
         }
     },
     {
         "title": "A Farewell to Readers, With Hope",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/opinion/sunday/nick-kristof-farewell.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/opinion/sunday/nick-kristof-farewell.html",
         "content": "A columnist offers lessons learned from decades on the front lines of reporting and explains why he is leaving to run for office.",
         "ranked": 1,
         "placed": "First_Page",
@@ -78,14 +78,14 @@
                 "Yamhill (Ore)",
                 "United States"
             ],
-            "short_url": "https://nyti.ms/2XTqJq7"
+            "short_news_url": "https://nyti.ms/2XTqJq7"
         }
     },
     {
         "title": "The 37-Year-Olds Are Afraid of the 23-Year-Olds Who Work for Them",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/gen-z-workplace-culture.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/gen-z-workplace-culture.html",
         "content": "Twenty-somethings rolling their eyes at the habits of their elders is a longstanding trend, but many employers said there\u2019s a new boldness in the way Gen Z dictates taste.",
         "ranked": 2,
         "placed": "First_Page",
@@ -116,14 +116,14 @@
                 "Dunn, Andy"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BnAMkI"
+            "short_news_url": "https://nyti.ms/3BnAMkI"
         }
     },
     {
         "title": "The Moral Chasm That Has Opened Up Between Left and Right Is Widening",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
         "content": "The things that are driving us apart are going to keep driving us apart.\u00a0",
         "ranked": 3,
         "placed": "First_Page",
@@ -153,14 +153,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BirpTE"
+            "short_news_url": "https://nyti.ms/3BirpTE"
         }
     },
     {
         "title": "Who Had Covid-19 Vaccine Breakthrough Cases?",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/interactive/2021/10/28/us/covid-breakthrough-cases.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/28/us/covid-breakthrough-cases.html",
         "content": "Data shows the vaccines kept working through the Delta surge, though some groups were at higher risk of breakthrough infections or death.",
         "ranked": 4,
         "placed": "First_Page",
@@ -186,14 +186,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3nFvITV"
+            "short_news_url": "https://nyti.ms/3nFvITV"
         }
     },
     {
         "title": "J.D. Vance and Mar-a-Loco",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/opinion/jd-vance-trump-hypocrisy.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/opinion/jd-vance-trump-hypocrisy.html",
         "content": "His Trump-flattering campaign for the Senate is an elegy for decency.",
         "ranked": 5,
         "placed": "First_Page",
@@ -224,7 +224,7 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3nAgEal"
+            "short_news_url": "https://nyti.ms/3nAgEal"
         }
     }
 ]

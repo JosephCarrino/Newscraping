@@ -3,7 +3,7 @@
         "title": "Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html",
         "content": "A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse.",
         "ranked": 0,
         "placed": "Abroad",
@@ -35,14 +35,14 @@
                 "Haiti",
                 "Port-au-Prince (Haiti)"
             ],
-            "short_url": "https://nyti.ms/3ClfHZI"
+            "short_news_url": "https://nyti.ms/3ClfHZI"
         }
     },
     {
         "title": "Hellishly Hot Tiny Town Offers \u2018Free\u2019 Land. Hundreds of Calls Came In.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/australia/free-land.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/australia/free-land.html",
         "content": "The town in Australia\u2019s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered \u201cfree\u201d land in a bid to expand its population.",
         "ranked": 1,
         "placed": "Abroad",
@@ -66,14 +66,14 @@
             "geo_facet": [
                 "Australia"
             ],
-            "short_url": "https://nyti.ms/3Bn8lmW"
+            "short_news_url": "https://nyti.ms/3Bn8lmW"
         }
     },
     {
         "title": "Taliban Allow Girls to Return to Some High Schools, but With Big Caveats",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html",
         "content": "In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule.",
         "ranked": 2,
         "placed": "Abroad",
@@ -100,14 +100,14 @@
                 "Afghanistan",
                 "Mazar-i-Sharif (Afghanistan)"
             ],
-            "short_url": "https://nyti.ms/3bcQ8OB"
+            "short_news_url": "https://nyti.ms/3bcQ8OB"
         }
     },
     {
         "title": "Pope Expresses \u2018Willingness\u2019 to Visit Canada for Indigenous Reconciliation",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html",
         "content": "A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children.",
         "ranked": 3,
         "placed": "Abroad",
@@ -135,14 +135,14 @@
             "geo_facet": [
                 "Canada"
             ],
-            "short_url": "https://nyti.ms/3vNVPMp"
+            "short_news_url": "https://nyti.ms/3vNVPMp"
         }
     },
     {
         "title": "Israel Advances Plan for New Settlements, in First for Bennett Era",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html",
         "content": "Approved despite the objections of the United States, critics say the new homes will consolidate Israel\u2019s presence in the West Bank and make it harder to create a Palestinian state.",
         "ranked": 4,
         "placed": "Abroad",
@@ -173,14 +173,14 @@
             "geo_facet": [
                 "Jerusalem (Israel)"
             ],
-            "short_url": "https://nyti.ms/3Cl9pcl"
+            "short_news_url": "https://nyti.ms/3Cl9pcl"
         }
     },
     {
         "title": "Japan Stays Tough on Cannabis as Other Nations Loosen Up",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/cbd-japan-cannabis-marijuana.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/cbd-japan-cannabis-marijuana.html",
         "content": "Some Japanese who have gone abroad and been exposed to the benefits of cannabis derivatives, particularly CBD, are hoping Japan will change course. But the government shows little inclination.",
         "ranked": 5,
         "placed": "Abroad",
@@ -207,14 +207,14 @@
                 "Japan",
                 "Kobe (Japan)"
             ],
-            "short_url": "https://nyti.ms/3CkzNmO"
+            "short_news_url": "https://nyti.ms/3CkzNmO"
         }
     },
     {
         "title": "Wonders, and Horrors, Drawn From Boyhood in a War Zone",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html",
         "content": "Petrit Halilaj became one of Kosovo\u2019s most acclaimed artists with work that reflects on his country\u2019s past. Now, he\u2019s getting personal.",
         "ranked": 6,
         "placed": "Abroad",
@@ -245,14 +245,14 @@
                 "Serbia",
                 "St Ives (England)"
             ],
-            "short_url": "https://nyti.ms/3vNJojq"
+            "short_news_url": "https://nyti.ms/3vNJojq"
         }
     },
     {
         "title": "Iran Will Rejoin Nuclear Talks, Top Negotiator Says",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html",
         "content": "Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them.",
         "ranked": 7,
         "placed": "Abroad",
@@ -282,14 +282,14 @@
                 "Iran",
                 "United States"
             ],
-            "short_url": "https://nyti.ms/2XR60mF"
+            "short_news_url": "https://nyti.ms/2XR60mF"
         }
     },
     {
         "title": "Japan\u2019s Communists Are Hardly Radical, but Make a Handy Election Target",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html",
         "content": "They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power.",
         "ranked": 8,
         "placed": "Abroad",
@@ -315,14 +315,14 @@
             "geo_facet": [
                 "Japan"
             ],
-            "short_url": "https://nyti.ms/3jInEAL"
+            "short_news_url": "https://nyti.ms/3jInEAL"
         }
     },
     {
         "title": "Your Thursday Briefing",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html",
         "content": "A Covid pill could help hundreds of countries.",
         "ranked": 9,
         "placed": "Abroad",
@@ -341,14 +341,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3GqVHr1"
+            "short_news_url": "https://nyti.ms/3GqVHr1"
         }
     },
     {
         "title": "Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html",
         "content": "In charge of the plant in Ukraine, he was held responsible for the world\u2019s worst nuclear-power disaster and imprisoned.",
         "ranked": 10,
         "placed": "Abroad",
@@ -377,14 +377,14 @@
                 "Chernobyl (Ukraine)",
                 "USSR (Former Soviet Union)"
             ],
-            "short_url": "https://nyti.ms/3Cl6qkp"
+            "short_news_url": "https://nyti.ms/3Cl6qkp"
         }
     },
     {
         "title": "B.J. Novak\u2019s Face Is on Products Worldwide. He\u2019s Not Sure Why.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html",
         "content": "An image of the actor appears on an eclectic mix of products from China to Uruguay. \u201cI am too amused to do anything about it,\u201d he said on Instagram.",
         "ranked": 11,
         "placed": "Abroad",
@@ -410,14 +410,14 @@
                 "Novak, B J"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mmyOwZ"
+            "short_news_url": "https://nyti.ms/3mmyOwZ"
         }
     },
     {
         "title": "Unequal vaccine access is widening the global economic gap, a U.N. agency says.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html",
         "content": "Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said.",
         "ranked": 12,
         "placed": "Abroad",
@@ -445,14 +445,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3GoyHsN"
+            "short_news_url": "https://nyti.ms/3GoyHsN"
         }
     },
     {
         "title": "China\u2019s Weapon Tests Close to a \u2018Sputnik Moment,\u2019 U.S. General Says",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html",
         "content": "Gen. Mark A. Milley said China\u2019s testing of a hypersonic missile \u201chas all of our attention.\u201d",
         "ranked": 13,
         "placed": "Abroad",
@@ -483,14 +483,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_url": "https://nyti.ms/3mlCCi4"
+            "short_news_url": "https://nyti.ms/3mlCCi4"
         }
     },
     {
         "title": "The Mushy Middle",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/briefing/abortion-texas-roe-v-wade.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/briefing/abortion-texas-roe-v-wade.html",
         "content": "We look at public opinion about abortion in Texas.",
         "ranked": 14,
         "placed": "Abroad",
@@ -509,14 +509,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3ClxP5G"
+            "short_news_url": "https://nyti.ms/3ClxP5G"
         }
     },
     {
         "title": "Merck Will Share Formula for Its Covid Pill With Poor Countries",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html",
         "content": "The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations.",
         "ranked": 15,
         "placed": "Abroad",
@@ -547,14 +547,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3bf2ju5"
+            "short_news_url": "https://nyti.ms/3bf2ju5"
         }
     },
     {
         "title": "Australians will soon be allowed to travel abroad freely if they are fully vaccinated.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html",
         "content": "The eased restrictions will be the first stage in the country\u2019s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas.",
         "ranked": 16,
         "placed": "Abroad",
@@ -579,14 +579,14 @@
                 "Australia",
                 "Canberra (Australia)"
             ],
-            "short_url": "https://nyti.ms/3EkeZwq"
+            "short_news_url": "https://nyti.ms/3EkeZwq"
         }
     },
     {
         "title": "He Won the Nobel. Why Are His Books So Hard to Find?",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html",
         "content": "After Abdulrazak Gurnah was awarded this year\u2019s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate.",
         "ranked": 17,
         "placed": "Abroad",
@@ -615,14 +615,14 @@
                 "Gurnah, Abdulrazak"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vOXuRB"
+            "short_news_url": "https://nyti.ms/3vOXuRB"
         }
     },
     {
         "title": "Pastries and Persuasion: How a Global Tax Deal Got Done",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html",
         "content": "Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world\u2019s tax architecture were revived.",
         "ranked": 18,
         "placed": "Abroad",
@@ -657,14 +657,14 @@
             "geo_facet": [
                 "Ireland"
             ],
-            "short_url": "https://nyti.ms/3jJ8fjA"
+            "short_news_url": "https://nyti.ms/3jJ8fjA"
         }
     },
     {
         "title": "Your Wednesday Briefing",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/briefing/climate-change-children-vaccines.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/briefing/climate-change-children-vaccines.html",
         "content": "Emissions plans fall short.",
         "ranked": 19,
         "placed": "Abroad",
@@ -683,14 +683,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vPiach"
+            "short_news_url": "https://nyti.ms/3vPiach"
         }
     },
     {
         "title": "Narrowly Returned to Power, Trudeau Promises an Activist Government",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html",
         "content": "The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet.",
         "ranked": 20,
         "placed": "Abroad",
@@ -719,14 +719,14 @@
             "geo_facet": [
                 "Canada"
             ],
-            "short_url": "https://nyti.ms/3CnK1mo"
+            "short_news_url": "https://nyti.ms/3CnK1mo"
         }
     },
     {
         "title": "Your Wednesday Briefing",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html",
         "content": "\u2018Imminent peril\u2019 from global warming.",
         "ranked": 21,
         "placed": "Abroad",
@@ -745,14 +745,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3miSYaQ"
+            "short_news_url": "https://nyti.ms/3miSYaQ"
         }
     },
     {
         "title": "Queen Elizabeth, Advised to Rest, Will Skip Climate Summit in Glasgow",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html",
         "content": "The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history.",
         "ranked": 22,
         "placed": "Abroad",
@@ -781,14 +781,14 @@
                 "Great Britain",
                 "Glasgow (Scotland)"
             ],
-            "short_url": "https://nyti.ms/3EiQa3Y"
+            "short_news_url": "https://nyti.ms/3EiQa3Y"
         }
     },
     {
         "title": "Poland\u2019s Heartland Would Rather Keep E.U. Money Than Break With Bloc",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html",
         "content": "Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland\u2019s ruling party are dependent on millions of euros in aid, and don\u2019t want to risk it.",
         "ranked": 23,
         "placed": "Abroad",
@@ -820,14 +820,14 @@
                 "Poland",
                 "Europe"
             ],
-            "short_url": "https://nyti.ms/3vMvQ7W"
+            "short_news_url": "https://nyti.ms/3vMvQ7W"
         }
     },
     {
         "title": "Iranian Motorists Hit With Cyberattack at Filling Stations",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html",
         "content": "Iranian news agencies reported that a cyberattack of unidentified origin had sabotaged a payment system.",
         "ranked": 24,
         "placed": "Abroad",
@@ -854,14 +854,14 @@
             "geo_facet": [
                 "Iran"
             ],
-            "short_url": "https://nyti.ms/3mgSrXe"
+            "short_news_url": "https://nyti.ms/3mgSrXe"
         }
     },
     {
         "title": "3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html",
         "content": "Migrant crossings are down and so are deaths at sea, but Tuesday\u2019s incident was a reminder that dangers remain.",
         "ranked": 25,
         "placed": "Abroad",
@@ -890,14 +890,14 @@
                 "Greece",
                 "Aegean Sea"
             ],
-            "short_url": "https://nyti.ms/3mgi8XJ"
+            "short_news_url": "https://nyti.ms/3mgi8XJ"
         }
     },
     {
         "title": "Self Esteem, a Pop Singer Who Wants Britain to \u2018Prioritise Pleasure\u2019",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html",
         "content": "Rebecca Lucy Taylor is touching a nerve with brutally honest songs about not having it all figured out.",
         "ranked": 26,
         "placed": "Abroad",
@@ -921,14 +921,14 @@
                 "Taylor, Rebecca Lucy (Self Esteem)"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BghpdA"
+            "short_news_url": "https://nyti.ms/3BghpdA"
         }
     },
     {
         "title": "Trial Begins for Men Accused in Killing of Holocaust Survivor in France",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html",
         "content": "Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews.",
         "ranked": 27,
         "placed": "Abroad",
@@ -958,14 +958,14 @@
             "geo_facet": [
                 "France"
             ],
-            "short_url": "https://nyti.ms/317UMM5"
+            "short_news_url": "https://nyti.ms/317UMM5"
         }
     },
     {
         "title": "2 Days After Cricket Victory Over India, Pakistan Still Feels the High",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html",
         "content": "The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai.",
         "ranked": 28,
         "placed": "Abroad",
@@ -992,14 +992,14 @@
                 "Pakistan",
                 "India"
             ],
-            "short_url": "https://nyti.ms/317KlrT"
+            "short_news_url": "https://nyti.ms/317KlrT"
         }
     },
     {
         "title": "After a Year of \u2018Rampant\u2019 Cheating, Elite Bridge Tries to Clean Up",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html",
         "content": "As the pandemic forced most players online, the problem of cheating consumed the game\u2019s highest levels. Top players say a tight-lipped culture is finally changing.",
         "ranked": 29,
         "placed": "Abroad",
@@ -1027,14 +1027,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3nMU0Mb"
+            "short_news_url": "https://nyti.ms/3nMU0Mb"
         }
     },
     {
         "title": "Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html",
         "content": "Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions.",
         "ranked": 30,
         "placed": "Abroad",
@@ -1066,7 +1066,7 @@
                 "Afghanistan",
                 "Iran"
             ],
-            "short_url": "https://nyti.ms/3mglbz7"
+            "short_news_url": "https://nyti.ms/3mglbz7"
         }
     }
 ]

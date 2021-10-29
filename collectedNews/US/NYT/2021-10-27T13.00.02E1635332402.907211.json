@@ -3,7 +3,7 @@
         "title": "11 Days After Driveway Killing, Texas Man Is Arrested",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/us/texas-driveway-killing.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/us/texas-driveway-killing.html",
         "content": "Terry Turner, a 65-year-old Texas man, told a 911 dispatcher that he \u201ckilled a guy\u201d who was sitting in a car in his driveway, an affidavit said. A grand jury is deciding on charges, his lawyer said.",
         "ranked": 0,
         "placed": "First_Page",
@@ -30,14 +30,14 @@
             "geo_facet": [
                 "Martindale (Tex)"
             ],
-            "short_url": "https://nyti.ms/3vL8rDM"
+            "short_news_url": "https://nyti.ms/3vL8rDM"
         }
     },
     {
         "title": "The Case Against Winston Churchill",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/books/review/geoffrey-wheatcroft-churchills-shadow.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/books/review/geoffrey-wheatcroft-churchills-shadow.html",
         "content": "\u201cChurchill\u2019s Shadow,\u201d by Geoffrey Wheatcroft, may be the best single-volume indictment of Churchill yet written.",
         "ranked": 1,
         "placed": "First_Page",
@@ -67,14 +67,14 @@
                 "Wheatcroft, Geoffrey"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3pEtozu"
+            "short_news_url": "https://nyti.ms/3pEtozu"
         }
     },
     {
         "title": "The Son My Sister Placed for Adoption Wants to Find Her. What Should I Do?",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/magazine/adoption-confidentiality-ethics.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/magazine/adoption-confidentiality-ethics.html",
         "content": "The magazine\u2019s Ethicist columnist on confidentiality and our claims to know our biological ancestry.",
         "ranked": 2,
         "placed": "First_Page",
@@ -99,14 +99,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Zz7dQi"
+            "short_news_url": "https://nyti.ms/2Zz7dQi"
         }
     },
     {
         "title": "How I Became a Sick Person",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
         "content": "A sudden descent into a chronic illness. ",
         "ranked": 3,
         "placed": "First_Page",
@@ -136,14 +136,14 @@
             "geo_facet": [
                 "Connecticut"
             ],
-            "short_url": "https://nyti.ms/3npekCS"
+            "short_news_url": "https://nyti.ms/3npekCS"
         }
     },
     {
         "title": "Gene Freidman, \u2018Taxi King\u2019 Who Upended His Industry, Dies at 50",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/nyregion/gene-freidman-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/nyregion/gene-freidman-dead.html",
         "content": "He bid up the price of medallions and borrowed against them. When their value plummeted, immigrant cabbies were left deep in debt.",
         "ranked": 4,
         "placed": "First_Page",
@@ -173,14 +173,14 @@
             "geo_facet": [
                 "New York City"
             ],
-            "short_url": "https://nyti.ms/3jw2WEf"
+            "short_news_url": "https://nyti.ms/3jw2WEf"
         }
     },
     {
         "title": "The First Thing We Do, Let\u2019s Kill All the Leaf Blowers",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html",
         "content": "Nearly everything about how Americans \u201ccare\u201d for their lawns is deadly, but these machines exist in a category of environmental hell all their own.",
         "ranked": 5,
         "placed": "First_Page",
@@ -208,14 +208,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Gfut6y"
+            "short_news_url": "https://nyti.ms/3Gfut6y"
         }
     },
     {
         "title": "Whose Promised Land? A Journey Into a Divided Israel",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html",
+        "news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html",
         "content": "Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it.",
         "ranked": 6,
         "placed": "First_Page",
@@ -254,14 +254,14 @@
                 "Jerusalem (Israel)",
                 "Tel Aviv (Israel)"
             ],
-            "short_url": "https://nyti.ms/3jywCAz"
+            "short_news_url": "https://nyti.ms/3jywCAz"
         }
     },
     {
         "title": "David Sedaris Knows What You\u2019ll Laugh at When No One Is Judging",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/interactive/2021/10/25/magazine/david-sedaris-interview.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/25/magazine/david-sedaris-interview.html",
         "content": "\u201cI love an old-fashioned vulgar joke.\u201d",
         "ranked": 7,
         "placed": "First_Page",
@@ -291,14 +291,14 @@
                 "Sedaris, David"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2ZoVALT"
+            "short_news_url": "https://nyti.ms/2ZoVALT"
         }
     },
     {
         "title": "A $1,775 Doctor\u2019s Visit Cost About $350 in Maryland. Here\u2019s Why.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/opinion/maryland-medical-bills-lower.html",
+        "news_url": "https://www.nytimes.com/2021/10/24/opinion/maryland-medical-bills-lower.html",
         "content": "The state\u2019s unique health system controls what hospitals can charge for services.",
         "ranked": 8,
         "placed": "First_Page",
@@ -325,7 +325,7 @@
             "geo_facet": [
                 "Maryland"
             ],
-            "short_url": "https://nyti.ms/3jzMgLU"
+            "short_news_url": "https://nyti.ms/3jzMgLU"
         }
     }
 ]

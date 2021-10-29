@@ -2,7 +2,7 @@
     {
         "title": "Top oil companies to be quizzed on climate change",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-us-canada-59075686",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59075686",
         "content": "A US congressional hearing will examine whether oil companies misled the public about climate change.",
         "placed": "Abroad",
         "epoch": 1635422403.3170075
@@ -10,7 +10,7 @@
     {
         "title": "Top oil companies to be quizzed on climate change",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-us-canada-59075686",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59075686",
         "content": "A US congressional hearing will examine whether oil companies misled the public about climate change.",
         "placed": "Abroad",
         "epoch": 1635422403.3170333
@@ -18,7 +18,7 @@
     {
         "title": "Moscow shops and restaurants shut in new lockdown",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-europe-59076152",
+        "news_url": "https://www.bbc.com/news/world-europe-59076152",
         "content": "Russia closes non-essential services and sends workers home amid record Covid deaths.",
         "placed": "Abroad",
         "epoch": 1635422403.3170521
@@ -26,7 +26,7 @@
     {
         "title": "Poll shows rising demand for climate action",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/science-environment-59067471",
+        "news_url": "https://www.bbc.com/news/science-environment-59067471",
         "content": "Ahead of COP26, a BBC World Service poll finds growing support for strong political leadership.",
         "placed": "Abroad",
         "epoch": 1635422403.3170686
@@ -34,7 +34,7 @@
     {
         "title": "Film-maker who exposed East Timor massacre dies",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/entertainment-arts-59075271",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59075271",
         "content": "Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero.",
         "placed": "Abroad",
         "epoch": 1635422403.3170838
@@ -42,7 +42,7 @@
     {
         "title": "DNA confirms man is Sitting Bull's great-grandson",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-us-canada-59062133",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59062133",
         "content": "A sample of the Native American leader's hair confirms the identity of his great-grandson.",
         "placed": "Abroad",
         "epoch": 1635422403.3170998
@@ -50,7 +50,7 @@
     {
         "title": "US issues first gender-neutral 'X' passport",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-us-canada-59076614",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59076614",
         "content": "The document has an \"X\" in the gender box, to show the holder does not identify as male or female.",
         "placed": "Abroad",
         "epoch": 1635422403.3171146
@@ -58,7 +58,7 @@
     {
         "title": "Hundreds of sea turtles wash up dead in Mexico",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-latin-america-59077086",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59077086",
         "content": "Scientists think the turtles may have become tangled in abandoned fishing nets and drowned.",
         "placed": "Abroad",
         "epoch": 1635422403.317129
@@ -66,7 +66,7 @@
     {
         "title": "Top oil companies to be quizzed on climate change",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-us-canada-59075686",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59075686",
         "content": "A US congressional hearing will examine whether oil companies misled the public about climate change.",
         "placed": "Abroad",
         "epoch": 1635422403.317143
@@ -74,7 +74,7 @@
     {
         "title": "Moscow shops and restaurants shut in new lockdown",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-europe-59076152",
+        "news_url": "https://www.bbc.com/news/world-europe-59076152",
         "content": "Russia closes non-essential services and sends workers home amid record Covid deaths.",
         "placed": "Abroad",
         "epoch": 1635422403.317157
@@ -82,7 +82,7 @@
     {
         "title": "Poll shows rising demand for climate action",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/science-environment-59067471",
+        "news_url": "https://www.bbc.com/news/science-environment-59067471",
         "content": "Ahead of COP26, a BBC World Service poll finds growing support for strong political leadership.",
         "placed": "Abroad",
         "epoch": 1635422403.3171716
@@ -90,7 +90,7 @@
     {
         "title": "Film-maker who exposed East Timor massacre dies",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/entertainment-arts-59075271",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59075271",
         "content": "Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero.",
         "placed": "Abroad",
         "epoch": 1635422403.317185
@@ -98,7 +98,7 @@
     {
         "title": "DNA confirms man is Sitting Bull's great-grandson",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-us-canada-59062133",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59062133",
         "content": "A sample of the Native American leader's hair confirms the identity of his great-grandson.",
         "placed": "Abroad",
         "epoch": 1635422403.3171985
@@ -106,7 +106,7 @@
     {
         "title": "US issues first gender-neutral 'X' passport",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-us-canada-59076614",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59076614",
         "content": "The document has an \"X\" in the gender box, to show the holder does not identify as male or female.",
         "placed": "Abroad",
         "epoch": 1635422403.3172123
@@ -114,7 +114,7 @@
     {
         "title": "Hundreds of sea turtles wash up dead in Mexico",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-latin-america-59077086",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59077086",
         "content": "Scientists think the turtles may have become tangled in abandoned fishing nets and drowned.",
         "placed": "Abroad",
         "epoch": 1635422403.3172264
@@ -122,7 +122,7 @@
     {
         "title": "Moscow shops and restaurants shut in new lockdown",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/world-europe-59076152",
+        "news_url": "https://www.bbc.com/news/world-europe-59076152",
         "content": "Russia closes non-essential services and sends workers home amid record Covid deaths.",
         "placed": "Abroad",
         "epoch": 1635422403.3172402
@@ -130,7 +130,7 @@
     {
         "title": "Poll shows rising demand for climate action",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/science-environment-59067471",
+        "news_url": "https://www.bbc.com/news/science-environment-59067471",
         "content": "Ahead of COP26, a BBC World Service poll finds growing support for strong political leadership.",
         "placed": "Abroad",
         "epoch": 1635422403.317254
@@ -138,7 +138,7 @@
     {
         "title": "Film-maker who exposed East Timor massacre dies",
         "date_raw": "2021-10-28",
-        "url": "https://www.bbc.com/news/entertainment-arts-59075271",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59075271",
         "content": "Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero.",
         "placed": "Abroad",
         "epoch": 1635422403.3172684

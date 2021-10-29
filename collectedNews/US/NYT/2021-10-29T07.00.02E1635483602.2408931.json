@@ -3,7 +3,7 @@
         "title": "His N.B.A. Dream Was Right There. Then He Couldn\u2019t Move His Legs.",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/sports/basketball/kris-wilkes-ucla-nba.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/sports/basketball/kris-wilkes-ucla-nba.html",
         "content": "A mysterious illness on the eve of the 2019 N.B.A. draft derailed Kris Wilkes\u2019s hopes of going pro. As he heals, he\u2019s not giving up hope.",
         "ranked": 0,
         "placed": "First_Page",
@@ -32,14 +32,14 @@
                 "Wilkes, Kris (1998- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3C8y6c9"
+            "short_news_url": "https://nyti.ms/3C8y6c9"
         }
     },
     {
         "title": "When a California Pit Stop Became Permanent, They Scrambled for a Place to Buy. Which Home Would You Choose?",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/interactive/2021/10/28/realestate/28hunt-tuma.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/28/realestate/28hunt-tuma.html",
         "content": "The newlyweds were on their way to Tokyo when the pandemic stranded them in the unfamiliar environs of Los Angeles. Here\u2019s what they found with their $1.5 million budget.",
         "ranked": 1,
         "placed": "First_Page",
@@ -67,14 +67,14 @@
                 "Marina del Rey (Calif)",
                 "Redondo Beach (Calif)"
             ],
-            "short_url": "https://nyti.ms/3Cqa78a"
+            "short_news_url": "https://nyti.ms/3Cqa78a"
         }
     },
     {
         "title": "He Had Severe Abdominal Pain and a Fever. It Wasn\u2019t Food Poisoning.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/magazine/adult-multisystem-inflammatory-syndrome.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/magazine/adult-multisystem-inflammatory-syndrome.html",
         "content": "He was too weak to even get out of the bed to go to the bathroom. What could be causing this devastating illness?",
         "ranked": 2,
         "placed": "First_Page",
@@ -101,14 +101,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Cn8VTj"
+            "short_news_url": "https://nyti.ms/3Cn8VTj"
         }
     },
     {
         "title": "New York City\u2019s Most Expensive Neighborhoods",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/realestate/new-york-citys-most-expensive-neighborhoods.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/realestate/new-york-citys-most-expensive-neighborhoods.html",
         "content": "While prices were up overall in the third quarter compared to a year ago, they fell in many of the priciest areas.",
         "ranked": 3,
         "placed": "First_Page",
@@ -131,14 +131,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3bgUQe4"
+            "short_news_url": "https://nyti.ms/3bgUQe4"
         }
     },
     {
         "title": "Sean Penn the Focus of N.L.R.B. Amid Comments on Hours and Food at Vaccine Site",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/arts/sean-penn-core-nlrb-complaint-vaccine.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/arts/sean-penn-core-nlrb-complaint-vaccine.html",
         "content": "Two online commenters complained of working 18-hour days and not getting food from Krispy Kreme or Subway. Penn saw \u201cnarcissism\u201d and \u201cbetrayal.\u201d",
         "ranked": 4,
         "placed": "First_Page",
@@ -171,14 +171,14 @@
             "geo_facet": [
                 "California"
             ],
-            "short_url": "https://nyti.ms/3pJk0KQ"
+            "short_news_url": "https://nyti.ms/3pJk0KQ"
         }
     },
     {
         "title": "The 37-Year-Olds Are Afraid of the 23-Year-Olds Who Work for Them",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/gen-z-workplace-culture.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/gen-z-workplace-culture.html",
         "content": "Twenty-somethings rolling their eyes at the habits of their elders is a longstanding trend, but many employers said there\u2019s a new boldness in the way Gen Z dictates taste.",
         "ranked": 5,
         "placed": "First_Page",
@@ -209,14 +209,14 @@
                 "Dunn, Andy"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BnAMkI"
+            "short_news_url": "https://nyti.ms/3BnAMkI"
         }
     },
     {
         "title": "A Farewell to Readers, With Hope",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/opinion/sunday/nick-kristof-farewell.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/opinion/sunday/nick-kristof-farewell.html",
         "content": "A columnist offers lessons learned from decades on the front lines of reporting and explains why he is leaving to run for office.",
         "ranked": 6,
         "placed": "First_Page",
@@ -250,14 +250,14 @@
                 "Yamhill (Ore)",
                 "United States"
             ],
-            "short_url": "https://nyti.ms/2XTqJq7"
+            "short_news_url": "https://nyti.ms/2XTqJq7"
         }
     },
     {
         "title": "J.D. Vance and Mar-a-Loco",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/opinion/jd-vance-trump-hypocrisy.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/opinion/jd-vance-trump-hypocrisy.html",
         "content": "His Trump-flattering campaign for the Senate is an elegy for decency.",
         "ranked": 7,
         "placed": "First_Page",
@@ -288,14 +288,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3nAgEal"
+            "short_news_url": "https://nyti.ms/3nAgEal"
         }
     },
     {
         "title": "Cowards, Not Crazies, Are Destroying America",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/opinion/republicans-vaccines.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/opinion/republicans-vaccines.html",
         "content": "Why do extremists rule the G.O.P.? Because the rest of the party lets them.",
         "ranked": 8,
         "placed": "First_Page",
@@ -321,7 +321,7 @@
                 "Ivey, Kay"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3pND6Q4"
+            "short_news_url": "https://nyti.ms/3pND6Q4"
         }
     }
 ]

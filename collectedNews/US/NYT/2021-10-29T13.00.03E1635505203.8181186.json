@@ -3,7 +3,7 @@
         "title": "Nuclear-Powered Submarines for Australia? Maybe Not So Fast.",
         "date_raw": "October 29, 2021",
         "date": "2021-10-29",
-        "url": "https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html",
+        "news_url": "https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html",
         "content": "Australia\u2019s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much.",
         "ranked": 0,
         "placed": "Abroad",
@@ -36,14 +36,14 @@
                 "Great Britain",
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3nD1Rf4"
+            "short_news_url": "https://nyti.ms/3nD1Rf4"
         }
     },
     {
         "title": "Why China Is the World\u2019s Last \u2018Zero Covid\u2019 Holdout",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html",
         "content": "The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals.",
         "ranked": 1,
         "placed": "Abroad",
@@ -73,14 +73,14 @@
                 "China",
                 "Lanzhou (China)"
             ],
-            "short_url": "https://nyti.ms/2XSRif5"
+            "short_news_url": "https://nyti.ms/2XSRif5"
         }
     },
     {
         "title": "Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html",
         "content": "The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them.",
         "ranked": 2,
         "placed": "Abroad",
@@ -112,14 +112,14 @@
                 "Pelosi, Nancy"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Zxt9uI"
+            "short_news_url": "https://nyti.ms/2Zxt9uI"
         }
     },
     {
         "title": "After Time of \u2018Real Terror,\u2019 City\u2019s Resilience Is Symbolized in Statue",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html",
         "content": "Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, \u201cWinged Victory,\u201d as the emblem of its recovery \u2014 and a prod for visits.",
         "ranked": 3,
         "placed": "Abroad",
@@ -151,14 +151,14 @@
                 "Italy",
                 "Lombardy (Italy)"
             ],
-            "short_url": "https://nyti.ms/3CpaEHH"
+            "short_news_url": "https://nyti.ms/3CpaEHH"
         }
     },
     {
         "title": "In Japan, Rural Voters Count More Than Those in Big Cities. It Shows.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html",
         "content": "The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation \u2014 and more government largess \u2014 than urban areas, perpetuating what critics call an unfair system.",
         "ranked": 4,
         "placed": "Abroad",
@@ -186,14 +186,14 @@
                 "Japan",
                 "Tottori (Japan)"
             ],
-            "short_url": "https://nyti.ms/3pNbIBt"
+            "short_news_url": "https://nyti.ms/3pNbIBt"
         }
     },
     {
         "title": "France Detains British Boat as a Fight Over Fishing Rights Escalates",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html",
         "content": "The British government summoned France\u2019s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries.",
         "ranked": 5,
         "placed": "Abroad",
@@ -220,14 +220,14 @@
                 "France",
                 "Great Britain"
             ],
-            "short_url": "https://nyti.ms/2Zs8l86"
+            "short_news_url": "https://nyti.ms/2Zs8l86"
         }
     },
     {
         "title": "China Says It Won\u2019t Build New Coal Plants Abroad. What Does That Mean?",
         "date_raw": "September 22, 2021",
         "date": "2021-09-22",
-        "url": "https://www.nytimes.com/2021/09/22/world/asia/china-coal.html",
+        "news_url": "https://www.nytimes.com/2021/09/22/world/asia/china-coal.html",
         "content": "Beijing is the undisputed king of coal, but the announcement at the United Nations General Assembly this week was cautiously welcomed by climate experts.",
         "ranked": 6,
         "placed": "Abroad",
@@ -260,14 +260,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_url": "https://nyti.ms/3Cvpls8"
+            "short_news_url": "https://nyti.ms/3Cvpls8"
         }
     },
     {
         "title": "Saudi Finance Official Is Missing From Conference He Hosts",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html",
         "content": "The unexplained absence of Yasir al-Rumayyan, who oversees the kingdom\u2019s sovereign wealth fund, has highlighted concerns about a lack of transparency.",
         "ranked": 7,
         "placed": "Abroad",
@@ -305,14 +305,14 @@
                 "Riyadh (Saudi Arabia)",
                 "Saudi Arabia"
             ],
-            "short_url": "https://nyti.ms/3CrQg8J"
+            "short_news_url": "https://nyti.ms/3CrQg8J"
         }
     },
     {
         "title": "Wes Anderson\u2019s Dream of France, and the Paris I Remember",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html",
         "content": "With \u201cThe French Dispatch,\u201d the director\u2019s latest, yet another American artist falls under the country\u2019s spell. The Times\u2019s Paris bureau chief recalls when the same thing happened to him.",
         "ranked": 8,
         "placed": "Abroad",
@@ -340,14 +340,14 @@
                 "France",
                 "Paris (France)"
             ],
-            "short_url": "https://nyti.ms/3mhsBCh"
+            "short_news_url": "https://nyti.ms/3mhsBCh"
         }
     },
     {
         "title": "Biden\u2019s Framework",
         "date_raw": "October 29, 2021",
         "date": "2021-10-29",
-        "url": "https://www.nytimes.com/2021/10/29/briefing/biden-spending-bill-framework.html",
+        "news_url": "https://www.nytimes.com/2021/10/29/briefing/biden-spending-bill-framework.html",
         "content": "Don\u2019t confuse legislative sausage-making with substantive impact.",
         "ranked": 9,
         "placed": "Abroad",
@@ -366,14 +366,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mrKZZu"
+            "short_news_url": "https://nyti.ms/3mrKZZu"
         }
     },
     {
         "title": "The pope\u2019s U.S. visit in 2015 was a powerful moment for Biden.",
         "date_raw": "October 29, 2021",
         "date": "2021-10-29",
-        "url": "https://www.nytimes.com/2021/10/29/world/the-popes-us-visit-in-2015-was-a-powerful-moment-for-biden.html",
+        "news_url": "https://www.nytimes.com/2021/10/29/world/the-popes-us-visit-in-2015-was-a-powerful-moment-for-biden.html",
         "content": "",
         "ranked": 10,
         "placed": "Abroad",
@@ -392,14 +392,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vTuc4k"
+            "short_news_url": "https://nyti.ms/3vTuc4k"
         }
     },
     {
         "title": "\u2018Different Way of Fighting\u2019: Lyrics Are the Weapons of All-Women Roma Band",
         "date_raw": "October 29, 2021",
         "date": "2021-10-29",
-        "url": "https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html",
+        "news_url": "https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html",
         "content": "Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves.",
         "ranked": 11,
         "placed": "Abroad",
@@ -427,14 +427,14 @@
                 "Belgrade (Serbia)",
                 "Serbia"
             ],
-            "short_url": "https://nyti.ms/2ZEi2kg"
+            "short_news_url": "https://nyti.ms/2ZEi2kg"
         }
     },
     {
         "title": "Children Drive Britain\u2019s Longest-Running Covid Surge",
         "date_raw": "October 29, 2021",
         "date": "2021-10-29",
-        "url": "https://www.nytimes.com/interactive/2021/10/29/world/europe/uk-britain-covid-surge.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/29/world/europe/uk-britain-covid-surge.html",
         "content": "The United Kingdom lifted nearly all coronavirus restrictions in July \u2014 and has seen an extended wave ever since, with school-age children now making up more than a third of new cases.",
         "ranked": 12,
         "placed": "Abroad",
@@ -459,14 +459,14 @@
                 "Great Britain",
                 "England"
             ],
-            "short_url": "https://nyti.ms/3Eopz5x"
+            "short_news_url": "https://nyti.ms/3Eopz5x"
         }
     },
     {
         "title": "\u2018America Is Back,\u2019 Biden Declared in June. The World Is About to Test Him.",
         "date_raw": "October 29, 2021",
         "date": "2021-10-29",
-        "url": "https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html",
+        "news_url": "https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html",
         "content": "Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits.",
         "ranked": 13,
         "placed": "Abroad",
@@ -496,14 +496,14 @@
                 "Macron, Emmanuel (1977- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2ZHxg8b"
+            "short_news_url": "https://nyti.ms/2ZHxg8b"
         }
     },
     {
         "title": "Saying Goodbye to Melbourne\u2019s Long Lockdown (Again)",
         "date_raw": "October 29, 2021",
         "date": "2021-10-29",
-        "url": "https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html",
+        "news_url": "https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html",
         "content": "It\u2019s been a year and a day since the first time Melbourne reopened. Some things have changed. Some haven\u2019t.",
         "ranked": 14,
         "placed": "Abroad",
@@ -527,14 +527,14 @@
             "geo_facet": [
                 "Australia"
             ],
-            "short_url": "https://nyti.ms/3jLkUCG"
+            "short_news_url": "https://nyti.ms/3jLkUCG"
         }
     },
     {
         "title": "Your Friday Briefing",
         "date_raw": "October 29, 2021",
         "date": "2021-10-29",
-        "url": "https://www.nytimes.com/2021/10/29/briefing/biden-policy-china-coronavirus.html",
+        "news_url": "https://www.nytimes.com/2021/10/29/briefing/biden-policy-china-coronavirus.html",
         "content": "President Biden\u2019s struggling social policy bill.",
         "ranked": 15,
         "placed": "Abroad",
@@ -553,14 +553,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2ZFTY0f"
+            "short_news_url": "https://nyti.ms/2ZFTY0f"
         }
     },
     {
         "title": "Your Friday Briefing",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/briefing/covid-zero-china-coal-cop-26.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/briefing/covid-zero-china-coal-cop-26.html",
         "content": "China sticks to a \u2018zero-Covid\u2019 strategy.",
         "ranked": 16,
         "placed": "Abroad",
@@ -579,14 +579,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3nH3OHe"
+            "short_news_url": "https://nyti.ms/3nH3OHe"
         }
     },
     {
         "title": "Coronavirus cases and deaths were vastly underestimated in U.S. meatpacking plants, a House report says.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html",
         "content": "The industry had three times as many Covid infections in the pandemic\u2019s early months as previously believed, a select committee says.",
         "ranked": 17,
         "placed": "Abroad",
@@ -624,14 +624,14 @@
                 "Iowa",
                 "Utah"
             ],
-            "short_url": "https://nyti.ms/3bm4JY4"
+            "short_news_url": "https://nyti.ms/3bm4JY4"
         }
     },
     {
         "title": "France and the United States Seek an Elusive Reconciliation",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/europe/france-biden-macron-g20.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/europe/france-biden-macron-g20.html",
         "content": "The Biden administration is poised to offer the French some defense-related emollients after their falling out over a sabotaged submarine deal. But some damage may last.",
         "ranked": 18,
         "placed": "Abroad",
@@ -670,14 +670,14 @@
                 "Sullivan, Jacob J (1976- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3nDkm2T"
+            "short_news_url": "https://nyti.ms/3nDkm2T"
         }
     },
     {
         "title": "Oakland educators approve a plan to transfer or unenroll students who are not vaccinated by January.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/oakland-schools-vaccine-mandate-enforcement.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/oakland-schools-vaccine-mandate-enforcement.html",
         "content": "Students who do not comply with the school district\u2019s vaccine mandate will have two choices: switch to an independent-study school or be dropped from the rolls.",
         "ranked": 19,
         "placed": "Abroad",
@@ -704,14 +704,14 @@
             "geo_facet": [
                 "Oakland (Calif)"
             ],
-            "short_url": "https://nyti.ms/2ZG3OiT"
+            "short_news_url": "https://nyti.ms/2ZG3OiT"
         }
     },
     {
         "title": "Syringe shortages could be yet another obstacle in Africa\u2019s Covid vaccination efforts, the W.H.O. warns.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/africa/africa-syringe-shortages-who.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/africa/africa-syringe-shortages-who.html",
         "content": "The continent already suffers from high infection levels, low vaccination rates and limited, unpredictable deliveries of vaccine doses.",
         "ranked": 20,
         "placed": "Abroad",
@@ -740,14 +740,14 @@
             "geo_facet": [
                 "Africa"
             ],
-            "short_url": "https://nyti.ms/3bmsf72"
+            "short_news_url": "https://nyti.ms/3bmsf72"
         }
     },
     {
         "title": "Childhood vaccinations have lagged across the world because of the pandemic.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/health/polio-measles-vaccinations-covid.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/health/polio-measles-vaccinations-covid.html",
         "content": "Millions of young children did not get immunized against polio, measles and other diseases.",
         "ranked": 21,
         "placed": "Abroad",
@@ -775,14 +775,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mnqZHj"
+            "short_news_url": "https://nyti.ms/3mnqZHj"
         }
     },
     {
         "title": "New Zealand will cut the amount of quarantine time for travelers in half.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/new-zealand-will-cut-the-amount-of-quarantine-time-for-travelers-in-half.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/new-zealand-will-cut-the-amount-of-quarantine-time-for-travelers-in-half.html",
         "content": "",
         "ranked": 22,
         "placed": "Abroad",
@@ -801,14 +801,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mmfI9X"
+            "short_news_url": "https://nyti.ms/3mmfI9X"
         }
     },
     {
         "title": "China plans to let vaccinated athletes skip quarantine at the Winter Olympics.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html",
         "content": "Competitors will still face strict rules at what is shaping up to be the most extraordinarily regulated, large-scale sporting event since the pandemic\u2019s start and could be expelled for breaking them.",
         "ranked": 23,
         "placed": "Abroad",
@@ -835,14 +835,14 @@
                 "Beijing (China)",
                 "China"
             ],
-            "short_url": "https://nyti.ms/3GwJxgk"
+            "short_news_url": "https://nyti.ms/3GwJxgk"
         }
     },
     {
         "title": "A Wealth Tax",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/briefing/wealth-tax-spending-bill-manchin.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/briefing/wealth-tax-spending-bill-manchin.html",
         "content": "What are the pluses and minuses?",
         "ranked": 24,
         "placed": "Abroad",
@@ -861,14 +861,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BloV6Y"
+            "short_news_url": "https://nyti.ms/3BloV6Y"
         }
     },
     {
         "title": "Daily coronavirus cases in Japan fall to the hundreds after a summer peak.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/asia/japan-covid-drop.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/asia/japan-covid-drop.html",
         "content": "Just a few months ago, the country was recording tens of thousands of cases daily. Now the numbers are in the hundreds each day.",
         "ranked": 25,
         "placed": "Abroad",
@@ -893,14 +893,14 @@
                 "Japan",
                 "Tokyo (Japan)"
             ],
-            "short_url": "https://nyti.ms/2ZzgOqg"
+            "short_news_url": "https://nyti.ms/2ZzgOqg"
         }
     },
     {
         "title": "Your Thursday Briefing",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/briefing/merck-pill-china-hypersonic-missile.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/briefing/merck-pill-china-hypersonic-missile.html",
         "content": "More access to a Covid-19 antiviral pill.",
         "ranked": 26,
         "placed": "Abroad",
@@ -919,14 +919,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Cq0Qgt"
+            "short_news_url": "https://nyti.ms/3Cq0Qgt"
         }
     },
     {
         "title": "Your Thursday Briefing",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html",
         "content": "A Covid pill could help hundreds of countries.",
         "ranked": 27,
         "placed": "Abroad",
@@ -945,14 +945,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3GqVHr1"
+            "short_news_url": "https://nyti.ms/3GqVHr1"
         }
     },
     {
         "title": "Iran Will Rejoin Nuclear Talks, Top Negotiator Says",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html",
         "content": "Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them.",
         "ranked": 28,
         "placed": "Abroad",
@@ -982,14 +982,14 @@
                 "Iran",
                 "United States"
             ],
-            "short_url": "https://nyti.ms/2XR60mF"
+            "short_news_url": "https://nyti.ms/2XR60mF"
         }
     },
     {
         "title": "What Happened When a Hellishly Hot Tiny Town Offered \u2018Free\u2019 Land",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/australia/free-land.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/australia/free-land.html",
         "content": "The town in Australia\u2019s outback, where the temperature can hit 113 degrees Fahrenheit, drew hundreds of global inquiries when it put out the call in a bid to expand its population.",
         "ranked": 29,
         "placed": "Abroad",
@@ -1013,14 +1013,14 @@
             "geo_facet": [
                 "Australia"
             ],
-            "short_url": "https://nyti.ms/3Bn8lmW"
+            "short_news_url": "https://nyti.ms/3Bn8lmW"
         }
     },
     {
         "title": "Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html",
         "content": "In charge of the plant in Ukraine, he was held responsible for the world\u2019s worst nuclear-power disaster and imprisoned.",
         "ranked": 30,
         "placed": "Abroad",
@@ -1049,14 +1049,14 @@
                 "Chernobyl (Ukraine)",
                 "USSR (Former Soviet Union)"
             ],
-            "short_url": "https://nyti.ms/3Cl6qkp"
+            "short_news_url": "https://nyti.ms/3Cl6qkp"
         }
     },
     {
         "title": "Israel Advances Plan for New Settlement Homes, in First for Bennett Era",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html",
         "content": "Approved despite the objections of the United States, critics say the new building will consolidate Israel\u2019s presence in the West Bank and make it harder to create a Palestinian state.",
         "ranked": 31,
         "placed": "Abroad",
@@ -1085,7 +1085,7 @@
                 "Israel",
                 "Jerusalem (Israel)"
             ],
-            "short_url": "https://nyti.ms/3Cl9pcl"
+            "short_news_url": "https://nyti.ms/3Cl9pcl"
         }
     }
 ]

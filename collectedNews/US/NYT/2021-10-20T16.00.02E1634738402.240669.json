@@ -3,7 +3,7 @@
         "title": "Texas Man Is Sentenced for Using Dating App to Target Gay Men",
         "date_raw": "October 14, 2021",
         "date": "2021-10-14",
-        "url": "https://www.nytimes.com/2021/10/14/us/daniel-jenkins-gay-men-target-texas.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/14/us/daniel-jenkins-gay-men-target-texas.html",
         "content": "The man, Daniel Jenkins, was part of a group that used the app Grindr to lure gay men to an apartment complex in Dallas to rob and assault them, prosecutors said.",
         "ranked": 0,
         "placed": "First_Page",
@@ -32,14 +32,14 @@
             "geo_facet": [
                 "Dallas (Tex)"
             ],
-            "short_url": "https://nyti.ms/2YUUHu7"
+            "short_news_news_url": "https://nyti.ms/2YUUHu7"
         }
     },
     {
         "title": "Decoding Kyrsten Sinema\u2019s Style",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 1,
         "placed": "First_Page",
@@ -71,14 +71,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n82nRS"
+            "short_news_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "How a Missing Sock Changed My Life",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "url": "https://www.nytimes.com/2021/10/15/style/modern-love-how-a-missing-sock-changed-my-life.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/15/style/modern-love-how-a-missing-sock-changed-my-life.html",
         "content": "Not the sock itself, but a note attached to the sock. (Actually, the guy who wrote the note.)",
         "ranked": 2,
         "placed": "First_Page",
@@ -99,14 +99,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2YWMl5d"
+            "short_news_news_url": "https://nyti.ms/2YWMl5d"
         }
     },
     {
         "title": "$500,000 Homes in Massachusetts, New York and Illinois",
         "date_raw": "October 13, 2021",
         "date": "2021-10-13",
-        "url": "https://www.nytimes.com/2021/10/13/realestate/home-prices-massachusetts-new-york-illinois.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/13/realestate/home-prices-massachusetts-new-york-illinois.html",
         "content": "A 1770 Colonial home in Westfield, a Tudor Revival house in Amherst and a three-bedroom condominium in Chicago.",
         "ranked": 3,
         "placed": "First_Page",
@@ -131,14 +131,14 @@
                 "Amherst (NY)",
                 "Chicago (Ill)"
             ],
-            "short_url": "https://nyti.ms/2YK5W8e"
+            "short_news_news_url": "https://nyti.ms/2YK5W8e"
         }
     },
     {
         "title": "Jury Acquits Protester Accused in Assault on Wisconsin Lawmaker",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/kerida-o-reilly-tim-carpenter-attack-blm.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/us/kerida-o-reilly-tim-carpenter-attack-blm.html",
         "content": "Kerida O\u2019Reilly, 34, had been accused of attacking State Senator Tim Carpenter at a Black Lives Matter protest, prompting others nearby to attack him.",
         "ranked": 4,
         "placed": "First_Page",
@@ -164,14 +164,14 @@
                 "Madison (Wis)",
                 "Milwaukee (Wis)"
             ],
-            "short_url": "https://nyti.ms/3C1H2Qg"
+            "short_news_news_url": "https://nyti.ms/3C1H2Qg"
         }
     },
     {
         "title": "Trump Organization, Already Under Indictment, Faces New Criminal Inquiry",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
         "content": "The investigation, by the Westchester County district attorney\u2019s office, increases the legal scrutiny of the former president and his family business.",
         "ranked": 5,
         "placed": "First_Page",
@@ -208,14 +208,14 @@
                 "Ossining (NY)",
                 "Westchester County (NY)"
             ],
-            "short_url": "https://nyti.ms/2Z3McwO"
+            "short_news_news_url": "https://nyti.ms/2Z3McwO"
         }
     },
     {
         "title": "It\u2019s Quitting Season",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "url": "https://www.nytimes.com/2021/10/20/opinion/quitting-jobs-resignation-employment.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/opinion/quitting-jobs-resignation-employment.html",
         "content": "Time to stop being a martyr to grit.",
         "ranked": 6,
         "placed": "First_Page",
@@ -239,14 +239,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Z3MhR8"
+            "short_news_news_url": "https://nyti.ms/2Z3MhR8"
         }
     },
     {
         "title": "The Economic Rebound Is Still Waiting for Workers",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
         "content": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
         "ranked": 7,
         "placed": "First_Page",
@@ -275,14 +275,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3C47g4Y"
+            "short_news_news_url": "https://nyti.ms/3C47g4Y"
         }
     },
     {
         "title": "Couple in Submarine Spy Case Stewed Over Money and Politics",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
         "content": "Jonathan and Diana Toebbe, charged with trying to sell classified nuclear secrets to a foreign power, struggled with finances, family and the state of America.",
         "ranked": 8,
         "placed": "First_Page",
@@ -316,7 +316,7 @@
             "geo_facet": [
                 "Washington Navy Yard (Washington, DC)"
             ],
-            "short_url": "https://nyti.ms/3vtZEGd"
+            "short_news_news_url": "https://nyti.ms/3vtZEGd"
         }
     }
 ]

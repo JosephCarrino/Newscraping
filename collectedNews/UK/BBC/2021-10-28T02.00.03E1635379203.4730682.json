@@ -2,7 +2,7 @@
     {
         "title": "Police: Rust film set showed complacency with guns",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59068976",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59068976",
         "content": "New Mexico authorities are so far refusing to rule out bringing criminal charges in the case.",
         "placed": "Abroad",
         "epoch": 1635379203.472792
@@ -10,7 +10,7 @@
     {
         "title": "Police: Rust film set showed complacency with guns",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59068976",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59068976",
         "content": "New Mexico authorities are so far refusing to rule out bringing criminal charges in the case.",
         "placed": "Abroad",
         "epoch": 1635379203.472818
@@ -18,7 +18,7 @@
     {
         "title": "Poland told to pay €1m a day in legal row with EU",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59064883",
+        "news_url": "https://www.bbc.com/news/world-europe-59064883",
         "content": "The ruling is the latest step in an escalating dispute over Poland's legal reforms.",
         "placed": "Abroad",
         "epoch": 1635379203.4728363
@@ -26,7 +26,7 @@
     {
         "title": "Iran says foreign country hacked petrol stations",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-middle-east-59062907",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59062907",
         "content": "Tuesday's attack crippled a system that lets motorists buy subsidised petrol, causing long queues.",
         "placed": "Abroad",
         "epoch": 1635379203.4728527
@@ -34,7 +34,7 @@
     {
         "title": "World Bank freezes cash to Sudan after coup",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-africa-59066654",
+        "news_url": "https://www.bbc.com/news/world-africa-59066654",
         "content": "Pressure mounts on the military to restore civilian rule as international bodies respond.",
         "placed": "Abroad",
         "epoch": 1635379203.4728677
@@ -42,7 +42,7 @@
     {
         "title": "Senators back criminal charges against Bolsonaro",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-latin-america-59051105",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59051105",
         "content": "Senators in Brazil vote to recommend charging the president over his handling of the pandemic.",
         "placed": "Abroad",
         "epoch": 1635379203.4728837
@@ -50,7 +50,7 @@
     {
         "title": "Civil rights pioneer wants arrest record cleared",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59047634",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59047634",
         "content": "Claudette Colvin was just 15 in 1955 when she refused to give up her seat on a bus for a white person.",
         "placed": "Abroad",
         "epoch": 1635379203.4728982
@@ -58,7 +58,7 @@
     {
         "title": "Pope to visit Canada for indigenous reconciliation",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59066724",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59066724",
         "content": "The visit follows renewed attention on indigenous children who died at residential schools.",
         "placed": "Abroad",
         "epoch": 1635379203.4729128
@@ -66,7 +66,7 @@
     {
         "title": "Police: Rust film set showed complacency with guns",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59068976",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59068976",
         "content": "New Mexico authorities are so far refusing to rule out bringing criminal charges in the case.",
         "placed": "Abroad",
         "epoch": 1635379203.4729278
@@ -74,7 +74,7 @@
     {
         "title": "Poland told to pay €1m a day in legal row with EU",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59064883",
+        "news_url": "https://www.bbc.com/news/world-europe-59064883",
         "content": "The ruling is the latest step in an escalating dispute over Poland's legal reforms.",
         "placed": "Abroad",
         "epoch": 1635379203.4729424
@@ -82,7 +82,7 @@
     {
         "title": "Iran says foreign country hacked petrol stations",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-middle-east-59062907",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59062907",
         "content": "Tuesday's attack crippled a system that lets motorists buy subsidised petrol, causing long queues.",
         "placed": "Abroad",
         "epoch": 1635379203.4729567
@@ -90,7 +90,7 @@
     {
         "title": "World Bank freezes cash to Sudan after coup",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-africa-59066654",
+        "news_url": "https://www.bbc.com/news/world-africa-59066654",
         "content": "Pressure mounts on the military to restore civilian rule as international bodies respond.",
         "placed": "Abroad",
         "epoch": 1635379203.4729707
@@ -98,7 +98,7 @@
     {
         "title": "Senators back criminal charges against Bolsonaro",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-latin-america-59051105",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59051105",
         "content": "Senators in Brazil vote to recommend charging the president over his handling of the pandemic.",
         "placed": "Abroad",
         "epoch": 1635379203.4729848
@@ -106,7 +106,7 @@
     {
         "title": "Civil rights pioneer wants arrest record cleared",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59047634",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59047634",
         "content": "Claudette Colvin was just 15 in 1955 when she refused to give up her seat on a bus for a white person.",
         "placed": "Abroad",
         "epoch": 1635379203.472999
@@ -114,7 +114,7 @@
     {
         "title": "Pope to visit Canada for indigenous reconciliation",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59066724",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59066724",
         "content": "The visit follows renewed attention on indigenous children who died at residential schools.",
         "placed": "Abroad",
         "epoch": 1635379203.4730134
@@ -122,7 +122,7 @@
     {
         "title": "Poland told to pay €1m a day in legal row with EU",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59064883",
+        "news_url": "https://www.bbc.com/news/world-europe-59064883",
         "content": "The ruling is the latest step in an escalating dispute over Poland's legal reforms.",
         "placed": "Abroad",
         "epoch": 1635379203.4730272
@@ -130,7 +130,7 @@
     {
         "title": "Iran says foreign country hacked petrol stations",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-middle-east-59062907",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59062907",
         "content": "Tuesday's attack crippled a system that lets motorists buy subsidised petrol, causing long queues.",
         "placed": "Abroad",
         "epoch": 1635379203.473041
@@ -138,7 +138,7 @@
     {
         "title": "World Bank freezes cash to Sudan after coup",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-africa-59066654",
+        "news_url": "https://www.bbc.com/news/world-africa-59066654",
         "content": "Pressure mounts on the military to restore civilian rule as international bodies respond.",
         "placed": "Abroad",
         "epoch": 1635379203.473055

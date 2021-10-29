@@ -3,7 +3,7 @@
         "title": "Amazon Workers on Staten Island Aim for Union Vote",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/technology/amazon-workers-union-staten-island.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/technology/amazon-workers-union-staten-island.html",
         "content": "The organizers say they will have enough signatures by Monday to file for an election with the National Labor Relations Board. The company is pushing back.",
         "ranked": 0,
         "placed": "First_Page",
@@ -38,14 +38,14 @@
                 "Staten Island (NYC)",
                 "Bessemer (Ala)"
             ],
-            "short_url": "https://nyti.ms/3E0Rwjv"
+            "short_news_url": "https://nyti.ms/3E0Rwjv"
         }
     },
     {
         "title": "Kyrsten Sinema\u2019s Style Keeps Us Guessing",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 1,
         "placed": "First_Page",
@@ -76,14 +76,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3n82nRS"
+            "short_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "Online Furor Over a Student\u2019s Hijab Engulfs a Liberal Town",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/nyregion/hijab-muslim-nj-student.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/nyregion/hijab-muslim-nj-student.html",
         "content": "A 7-year-old told her mother that she resisted a New Jersey teacher\u2019s attempt to pull off her Muslim head covering. It spiraled from there.",
         "ranked": 2,
         "placed": "First_Page",
@@ -114,14 +114,14 @@
             "geo_facet": [
                 "Maplewood (NJ)"
             ],
-            "short_url": "https://nyti.ms/3jsXrpJ"
+            "short_news_url": "https://nyti.ms/3jsXrpJ"
         }
     },
     {
         "title": "Helen Keller and the Problem of \u2018Inspiration Porn\u2019",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/opinion/helen-keller.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/opinion/helen-keller.html",
         "content": "We\u2019ve used the story of her life as a kind of shorthand for the disabled experience, as if there were just one. But we are here and we are many.",
         "ranked": 3,
         "placed": "First_Page",
@@ -145,14 +145,14 @@
                 "Keller, Helen"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3E7BODt"
+            "short_news_url": "https://nyti.ms/3E7BODt"
         }
     },
     {
         "title": "She Searched the East Side of Manhattan With a $625,000 Budget. Which Apartment Would You Choose?",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/interactive/2021/10/21/realestate/21hunt-small.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/21/realestate/21hunt-small.html",
         "content": "A lifelong New Yorker hoped to realize her dream of owning a home in Manhattan, but could she afford a one-bedroom near her office? Here\u2019s what she found.",
         "ranked": 4,
         "placed": "First_Page",
@@ -176,14 +176,14 @@
                 "Stuyvesant Square (Manhattan, NY)",
                 "Gramercy Park (Manhattan, NY)"
             ],
-            "short_url": "https://nyti.ms/3nhOcty"
+            "short_news_url": "https://nyti.ms/3nhOcty"
         }
     },
     {
         "title": "Alec Baldwin Was Told Gun in Fatal Shooting on Set Was Safe, Officials Say",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
+        "news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
         "content": "The actor was told a gun being used as a prop was safe before he fired it on the set of \u201cRust,\u201d killing the film\u2019s cinematographer and wounding its director, law enforcement officials said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -214,14 +214,14 @@
                 "Santa Fe (NM)",
                 "New Mexico"
             ],
-            "short_url": "https://nyti.ms/30FtFrc"
+            "short_news_url": "https://nyti.ms/30FtFrc"
         }
     },
     {
         "title": "Inadvertent Gun Discharges Occurred on Alec Baldwin Film Before Fatal Shooting, Crew Members Say",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/us/alec-baldwin-rust-shooting.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/us/alec-baldwin-rust-shooting.html",
         "content": "They expressed concerns over gun mishaps and working conditions just days before the shooting that killed the cinematographer Halyna Hutchins.",
         "ranked": 6,
         "placed": "First_Page",
@@ -253,14 +253,14 @@
                 "Albuquerque (NM)",
                 "Santa Fe (NM)"
             ],
-            "short_url": "https://nyti.ms/3nltFEG"
+            "short_news_url": "https://nyti.ms/3nltFEG"
         }
     },
     {
         "title": "Amanda Knox Was Exonerated. That Doesn\u2019t Mean She\u2019s Free.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
         "content": "Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms.",
         "ranked": 7,
         "placed": "First_Page",
@@ -290,14 +290,14 @@
                 "Perugia (Italy)",
                 "Seattle (Wash)"
             ],
-            "short_url": "https://nyti.ms/3GajqeX"
+            "short_news_url": "https://nyti.ms/3GajqeX"
         }
     },
     {
         "title": "How the Supply Chain Broke, and Why It Won\u2019t Be Fixed Anytime Soon",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/business/shortages-supply-chain.html",
         "content": "Confession: We didn\u2019t even have a logistics beat before the pandemic. Now we do. Here\u2019s what we\u2019ve learned about the global supply chain disruption.",
         "ranked": 8,
         "placed": "First_Page",
@@ -329,7 +329,7 @@
                 "Europe",
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3nm13Lc"
+            "short_news_url": "https://nyti.ms/3nm13Lc"
         }
     }
 ]

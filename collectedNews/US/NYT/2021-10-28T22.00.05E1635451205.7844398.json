@@ -3,7 +3,7 @@
         "title": "Old Power Gear Is Slowing Use of Clean Energy and Electric Cars",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/energy-environment/electric-grid-overload-solar-ev.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/energy-environment/electric-grid-overload-solar-ev.html",
         "content": "Some people and businesses seeking to use solar panels, batteries and electric vehicles find they can\u2019t because utility equipment needs an upgrade.",
         "ranked": 0,
         "placed": "Economics",
@@ -36,14 +36,14 @@
             "geo_facet": [
                 "California"
             ],
-            "short_url": "https://nyti.ms/2ZFIf1L"
+            "short_news_url": "https://nyti.ms/2ZFIf1L"
         }
     },
     {
         "title": "Facebook Renames Itself Meta",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/technology/facebook-rebrand-meta.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/technology/facebook-rebrand-meta.html",
         "content": "The social network, under fire for spreading misinformation and other issues, said the change was part of its bet on a next digital frontier called the \u201cmetaverse.\u201d",
         "ranked": 1,
         "placed": "Economics",
@@ -74,14 +74,14 @@
                 "Zuckerberg, Mark E"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3pJR6tV"
+            "short_news_url": "https://nyti.ms/3pJR6tV"
         }
     },
     {
         "title": "How a Mistake by YouTube Shows Its Power Over Media",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/youtube-novara.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/youtube-novara.html",
         "content": "Novara, a London news group, fell victim to YouTube\u2019s opaque and sometimes arbitrary enforcement of its rules.",
         "ranked": 2,
         "placed": "Economics",
@@ -114,14 +114,14 @@
             "geo_facet": [
                 "London (England)"
             ],
-            "short_url": "https://nyti.ms/2ZwxEq8"
+            "short_news_url": "https://nyti.ms/2ZwxEq8"
         }
     },
     {
         "title": "Oil Executives Testify on Industry\u2019s Role in Climate Disinformation",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/climate/oil-executives-house-disinformation-testimony.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/climate/oil-executives-house-disinformation-testimony.html",
         "content": "In a historic hearing, the leaders of some of the most powerful energy companies in the world are appearing before a House panel to face questioning on climate change.",
         "ranked": 3,
         "placed": "Economics",
@@ -154,14 +154,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vUYwLS"
+            "short_news_url": "https://nyti.ms/3vUYwLS"
         }
     },
     {
         "title": "China Hurries to Burn More Coal, Putting Climate Goals at Risk",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/energy-environment/china-coal-climate.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/energy-environment/china-coal-climate.html",
         "content": "Faced with electricity shortages, the country is racing to expand mining despite risks to the environment, miner safety and the economy.",
         "ranked": 4,
         "placed": "Economics",
@@ -193,14 +193,14 @@
                 "China",
                 "Shanxi Province (China)"
             ],
-            "short_url": "https://nyti.ms/2XR23hN"
+            "short_news_url": "https://nyti.ms/2XR23hN"
         }
     },
     {
         "title": "The 37-Year-Olds Are Afraid of the 23-Year-Olds Who Work for Them",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/gen-z-workplace-culture.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/gen-z-workplace-culture.html",
         "content": "Twenty-somethings rolling their eyes at the habits of their elders is a longstanding trend, but many employers said there\u2019s a new boldness in the way Gen Z dictates taste.",
         "ranked": 5,
         "placed": "Economics",
@@ -231,14 +231,14 @@
                 "Dunn, Andy"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BnAMkI"
+            "short_news_url": "https://nyti.ms/3BnAMkI"
         }
     },
     {
         "title": "Anonymity No More? Age Checks Come to the Web.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/technology/internet-age-check-proof.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/technology/internet-age-check-proof.html",
         "content": "To protect children online, more companies and governments are forcing users to prove how old they are.",
         "ranked": 6,
         "placed": "Economics",
@@ -272,14 +272,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CnanVu"
+            "short_news_url": "https://nyti.ms/3CnanVu"
         }
     },
     {
         "title": "Higher Food Prices Hit the Poor and Those Who Help Them",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/economy/food-prices-us.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/economy/food-prices-us.html",
         "content": "Many households are being forced to adjust their shopping lists or seek assistance. But food banks, too, are feeling the pinch.",
         "ranked": 7,
         "placed": "Economics",
@@ -309,14 +309,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3CjlhvH"
+            "short_news_url": "https://nyti.ms/3CjlhvH"
         }
     },
     {
         "title": "Who Are America\u2019s Billionaires, Anyway?",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/america-billionaires.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/america-billionaires.html",
         "content": "They are tech titans, entertainment moguls and heirs to great fortunes. Their ranks grew during the pandemic, changing the political conversation around taxing the wealthy.",
         "ranked": 8,
         "placed": "Economics",
@@ -349,14 +349,14 @@
                 "Bezos, Jeffrey P"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mkpdXo"
+            "short_news_url": "https://nyti.ms/3mkpdXo"
         }
     },
     {
         "title": "In the Biden Bill, the Billionaires Beat the Working Rich",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html",
         "content": "One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement.",
         "ranked": 9,
         "placed": "Economics",
@@ -384,14 +384,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BoBCOi"
+            "short_news_url": "https://nyti.ms/3BoBCOi"
         }
     },
     {
         "title": "How Biden\u2019s $2 Trillion in Tax Increases Target Companies and the Rich",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/us/politics/biden-tax-increases.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/us/politics/biden-tax-increases.html",
         "content": "The proposal to fund the president\u2019s sprawling spending plan mostly turns up the dial on more conventional tax policies, while trying to curb maneuvers that allow tax avoidance.",
         "ranked": 10,
         "placed": "Economics",
@@ -427,14 +427,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mkk2qq"
+            "short_news_url": "https://nyti.ms/3mkk2qq"
         }
     },
     {
         "title": "Geraldo Rivera criticizes his Fox News colleague Tucker Carlson.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/media/tucker-carlson-geraldo-rivera-fox.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/media/tucker-carlson-geraldo-rivera-fox.html",
         "content": "\u201cI\u2019m probably going to get in trouble for this,\u201d Mr. Rivera said after taking issue with \u201cfalse flag\u201d claims in Mr. Carlson\u2019s upcoming three-part series, \u201cPatriot Purge.\u201d",
         "ranked": 11,
         "placed": "Economics",
@@ -465,14 +465,14 @@
                 "Scott, Suzanne"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jOeseb"
+            "short_news_url": "https://nyti.ms/3jOeseb"
         }
     },
     {
         "title": "Activision Blizzard commits to improving diversity and workplace culture.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/technology/activision-blizzard-diversity-workplace.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/technology/activision-blizzard-diversity-workplace.html",
         "content": "The video game publisher said it would spend $250 million on hiring more women and those from \u201cunderrepresented communities\u201d and adopt a zero-tolerance harassment policy.",
         "ranked": 12,
         "placed": "Economics",
@@ -501,14 +501,14 @@
                 "Kotick, Bobby"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/311pmXq"
+            "short_news_url": "https://nyti.ms/311pmXq"
         }
     },
     {
         "title": "Saudi Finance Official Is Missing From Conference He Hosts",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html",
         "content": "The unexplained absence of Yasir al-Rumayyan, who oversees the kingdom\u2019s sovereign wealth fund, has highlighted concerns about a lack of transparency.",
         "ranked": 13,
         "placed": "Economics",
@@ -546,14 +546,14 @@
                 "Riyadh (Saudi Arabia)",
                 "Saudi Arabia"
             ],
-            "short_url": "https://nyti.ms/3CrQg8J"
+            "short_news_url": "https://nyti.ms/3CrQg8J"
         }
     },
     {
         "title": "Rising prices and bottlenecks will last longer than expected, Christine Lagarde says.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/european-central-bank-inflation.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/european-central-bank-inflation.html",
         "content": "But the European Central Bank\u2019s chief insisted that the increase in inflation would be temporary, as policymakers left monetary positions unchanged.",
         "ranked": 14,
         "placed": "Economics",
@@ -583,14 +583,14 @@
                 "Lagarde, Christine"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mmQM2l"
+            "short_news_url": "https://nyti.ms/3mmQM2l"
         }
     },
     {
         "title": "Is the Billionaire Tax Legal?",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/dealbook/billionaire-tax-constitutional.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/dealbook/billionaire-tax-constitutional.html",
         "content": "Democrats are weighing their options for taxing the ultrawealthy.",
         "ranked": 15,
         "placed": "Economics",
@@ -614,14 +614,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3EEC1yj"
+            "short_news_url": "https://nyti.ms/3EEC1yj"
         }
     },
     {
         "title": "Third Point, an activist investor, is calling for a breakup of Royal Dutch Shell.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/third-point-shell-breakup.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/third-point-shell-breakup.html",
         "content": "The hedge fund wants the company to separate its oil and gas business from initiatives in renewable energy.",
         "ranked": 16,
         "placed": "Economics",
@@ -648,14 +648,14 @@
                 "Loeb, Daniel S"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3EpADiN"
+            "short_news_url": "https://nyti.ms/3EpADiN"
         }
     },
     {
         "title": "U.S. Recovery Hurt by Virus Surge and Supply Chain Troubles",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/economy/us-3q-gdp-report.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/economy/us-3q-gdp-report.html",
         "content": "New data shows how bottlenecks and the Delta variant slowed economic growth in the third quarter. Relief may be slow.",
         "ranked": 17,
         "placed": "Economics",
@@ -683,14 +683,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vRcwXg"
+            "short_news_url": "https://nyti.ms/3vRcwXg"
         }
     },
     {
         "title": "Why Co-Working Spaces Are Betting on the Suburbs",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/nyregion/co-working-space-suburbs.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/nyregion/co-working-space-suburbs.html",
         "content": "Start-ups are betting that the pandemic has spawned a new kind of worker who wants an office space closer to home, without the long commute.",
         "ranked": 18,
         "placed": "Economics",
@@ -724,14 +724,14 @@
                 "Hoboken (NJ)",
                 "Westfield (NJ)"
             ],
-            "short_url": "https://nyti.ms/3BlbiVd"
+            "short_news_url": "https://nyti.ms/3BlbiVd"
         }
     },
     {
         "title": "Cleveland Roller Derby Team Sues City\u2019s Baseball Team Over \u2018Guardians\u2019 Name",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/sports/mlb-roller-derby-cleveland-guardians-lawsuit.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/sports/mlb-roller-derby-cleveland-guardians-lawsuit.html",
         "content": "\u201cTo be blunt, Plaintiff was here first,\u201d the Cleveland Guardians roller derby team said in filing a suit claiming trademark infringement.",
         "ranked": 19,
         "placed": "Economics",
@@ -763,14 +763,14 @@
                 "Cleveland (Ohio)",
                 "Ohio"
             ],
-            "short_url": "https://nyti.ms/3CtN1hi"
+            "short_news_url": "https://nyti.ms/3CtN1hi"
         }
     },
     {
         "title": "Lawyer Who Won $9.5 Billion Settlement Against Chevron Reports to Prison",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/energy-environment/steven-donziger-chevron.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/energy-environment/steven-donziger-chevron.html",
         "content": "Steven Donziger, an environmental activist who won what is considered the largest ever lawsuit against an oil company, was found guilty of contempt of court in July.",
         "ranked": 20,
         "placed": "Economics",
@@ -803,14 +803,14 @@
             "geo_facet": [
                 "Ecuador"
             ],
-            "short_url": "https://nyti.ms/2Zn4x85"
+            "short_news_url": "https://nyti.ms/2Zn4x85"
         }
     },
     {
         "title": "Patients Must Be Warned of Breast Implant Risks, F.D.A. Says",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/health/breast-implants-cancer-fda.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/health/breast-implants-cancer-fda.html",
         "content": "A decade after scientists identified a link between certain implants and cancer, the agency ordered \u201cblack box\u201d warnings and a new checklist of risks for patients to review.",
         "ranked": 21,
         "placed": "Economics",
@@ -843,14 +843,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3pK2FBm"
+            "short_news_url": "https://nyti.ms/3pK2FBm"
         }
     },
     {
         "title": "Hunting for Money, Democrats Rush to Rewrite Tax Code",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/democrats-rush-rewrite-tax-code.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/democrats-rush-rewrite-tax-code.html",
         "content": "Lawmakers are racing to finalize legislation to pay for new spending initiatives. The process usually takes months, but they are trying to do it in days.",
         "ranked": 22,
         "placed": "Economics",
@@ -886,14 +886,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_url": ""
+            "short_news_url": ""
         }
     },
     {
         "title": "Gun Handed to Alec Baldwin Was Not Thoroughly Checked, Affidavit Says",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/movies/rust-shooting-investigation-dave-halls.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/movies/rust-shooting-investigation-dave-halls.html",
         "content": "The bullet that killed the cinematographer on the film \u201cRust\u201d has been recovered, the Santa Fe County Sheriff said, and investigators believe there were more live rounds on the set.",
         "ranked": 23,
         "placed": "Economics",
@@ -925,14 +925,14 @@
             "geo_facet": [
                 "Santa Fe (NM)"
             ],
-            "short_url": "https://nyti.ms/3vThoed"
+            "short_news_url": "https://nyti.ms/3vThoed"
         }
     },
     {
         "title": "Key takeaways from Week 9 of the Elizabeth Holmes trial.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/technology/elizabeth-holmes-trial-takeaways.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/technology/elizabeth-holmes-trial-takeaways.html",
         "content": "A major investor testifies.",
         "ranked": 24,
         "placed": "Economics",
@@ -961,14 +961,14 @@
                 "Holmes, Elizabeth (1984- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3nxaE29"
+            "short_news_url": "https://nyti.ms/3nxaE29"
         }
     },
     {
         "title": "Ford\u2019s profit declines as automakers deal with supply-chain troubles.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/fords-profit-declines-as-automakers-deal-with-supply-chain-troubles.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/fords-profit-declines-as-automakers-deal-with-supply-chain-troubles.html",
         "content": "Revenue fell 5 percent from a year earlier, but the automaker said chip availability had \u201cmarkedly improved\u201d since the previous quarter.",
         "ranked": 25,
         "placed": "Economics",
@@ -995,14 +995,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3ClCpAF"
+            "short_news_url": "https://nyti.ms/3ClCpAF"
         }
     },
     {
         "title": "Despite higher prices, McDonald\u2019s, Kraft Heinz and Coca-Cola post solid earnings.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/mcdonalds-kraft-heinz-coca-cola-earnings.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/mcdonalds-kraft-heinz-coca-cola-earnings.html",
         "content": "Americans are paying more for food and beverages as large corporations are able to pass on higher costs brought on by supply chain delays and labor shortages.",
         "ranked": 26,
         "placed": "Economics",
@@ -1031,14 +1031,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3GqOJ5l"
+            "short_news_url": "https://nyti.ms/3GqOJ5l"
         }
     },
     {
         "title": "Facebook tells employees to preserve all communications for legal reasons.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/technology/facebook-legal-communications.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/technology/facebook-legal-communications.html",
         "content": "The move follows intense scrutiny after a whistle-blower provided documents about the social network\u2019s inner workings.",
         "ranked": 27,
         "placed": "Economics",
@@ -1067,14 +1067,14 @@
                 "Haugen, Frances"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3nCKvie"
+            "short_news_url": "https://nyti.ms/3nCKvie"
         }
     },
     {
         "title": "B.J. Novak\u2019s Face Is on Products Worldwide. He\u2019s Not Sure Why.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html",
         "content": "An image of the actor appears on an eclectic mix of products from China to Uruguay. \u201cI am too amused to do anything about it,\u201d he said on Instagram.",
         "ranked": 28,
         "placed": "Economics",
@@ -1100,14 +1100,14 @@
                 "Novak, B J"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3mmyOwZ"
+            "short_news_url": "https://nyti.ms/3mmyOwZ"
         }
     },
     {
         "title": "The Latest on Food Prices",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/interactive/2021/10/27/business/economy/food-prices-what-to-know.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/27/business/economy/food-prices-what-to-know.html",
         "content": "The cost of food is soaring \u2014 and it\u2019s changing shopping and eating habits for tens of millions of Americans.",
         "ranked": 29,
         "placed": "Economics",
@@ -1132,14 +1132,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jGHD2R"
+            "short_news_url": "https://nyti.ms/3jGHD2R"
         }
     },
     {
         "title": "Britain prepares for a post-pandemic economy, and keeps spending.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/britain-budget-sunak.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/britain-budget-sunak.html",
         "content": "\u201cA new age of optimism\u201d is coming, said Chancellor Rishi Sunak, while inflation and shortages still bedevil the country.",
         "ranked": 30,
         "placed": "Economics",
@@ -1168,14 +1168,14 @@
                 "Johnson, Boris"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CnU9vg"
+            "short_news_url": "https://nyti.ms/3CnU9vg"
         }
     },
     {
         "title": "Dreamliner delays drag down Boeing\u2019s quarterly earnings.",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/boeing-3q-2021-earnings.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/boeing-3q-2021-earnings.html",
         "content": "The aircraft maker reported $15.3 billion in revenue in the third quarter, up about 8 percent from the same period last year and just below analyst expectations.",
         "ranked": 31,
         "placed": "Economics",
@@ -1202,14 +1202,14 @@
                 "Calhoun, David L"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vPIVNF"
+            "short_news_url": "https://nyti.ms/3vPIVNF"
         }
     },
     {
         "title": "Chip Shortage Dents Earnings at G.M. and Ford",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/general-motors-earnings.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/general-motors-earnings.html",
         "content": "The automakers said the profit outlook for the full year had improved, and higher car prices eased the impact of reduced production.",
         "ranked": 32,
         "placed": "Economics",
@@ -1238,7 +1238,7 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3CmcIjx"
+            "short_news_url": "https://nyti.ms/3CmcIjx"
         }
     }
 ]

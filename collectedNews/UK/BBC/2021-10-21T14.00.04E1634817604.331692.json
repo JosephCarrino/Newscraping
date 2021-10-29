@@ -2,7 +2,7 @@
     {
         "title": "Leak reveals lobbying to change key climate report",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/science-environment-58982445",
+        "news_news_url": "https://www.bbc.com/news/science-environment-58982445",
         "content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
         "placed": "First_Page",
         "epoch": 1634817604.3313622
@@ -10,7 +10,7 @@
     {
         "title": "Leak reveals lobbying to change key climate report",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/science-environment-58982445",
+        "news_news_url": "https://www.bbc.com/news/science-environment-58982445",
         "content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
         "placed": "First_Page",
         "epoch": 1634817604.331395
@@ -18,7 +18,7 @@
     {
         "title": "Police offer A$1m reward amid fears girl was taken",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-australia-58946569",
+        "news_news_url": "https://www.bbc.com/news/world-australia-58946569",
         "content": "Cleo Smith, 4, vanished from a tent at a remote coastal campsite in Western Australia on Saturday.",
         "placed": "First_Page",
         "epoch": 1634817604.3314145
@@ -26,7 +26,7 @@
     {
         "title": "Netflix staff protest over Dave Chappelle comedy",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-us-canada-58990325",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58990325",
         "content": "Activists say the streaming giant's comedy special could fuel attacks on transgender people.",
         "placed": "First_Page",
         "epoch": 1634817604.3314433
@@ -34,7 +34,7 @@
     {
         "title": "Barbados elects first president for post-Queen era",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-latin-america-58993728",
+        "news_news_url": "https://www.bbc.com/news/world-latin-america-58993728",
         "content": "The Caribbean nation is set to become a republic, removing Queen Elizabeth as its head of state.",
         "placed": "First_Page",
         "epoch": 1634817604.3314593
@@ -42,7 +42,7 @@
     {
         "title": "The four-year-old footballer recruited by Arsenal",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/uk-58988254",
+        "news_news_url": "https://www.bbc.com/news/uk-58988254",
         "content": "Zayn Ali Salman is the youngest-ever recruit to Arsenal's pre-academy.",
         "placed": "First_Page",
         "epoch": 1634817604.3314738
@@ -50,7 +50,7 @@
     {
         "title": "Tax cheat schemes cost governments billions",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/business-58984813",
+        "news_news_url": "https://www.bbc.com/news/business-58984813",
         "content": "Major tax evasion and avoidance schemes have deprived countries of £127bn, research shows.",
         "placed": "First_Page",
         "epoch": 1634817604.3314905
@@ -58,7 +58,7 @@
     {
         "title": "South Korea launches first homegrown space rocket",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-asia-58990718",
+        "news_news_url": "https://www.bbc.com/news/world-asia-58990718",
         "content": "The launch completes all its stages but fails in its goal of putting a dummy satellite in orbit.",
         "placed": "First_Page",
         "epoch": 1634817604.3315063
@@ -66,7 +66,7 @@
     {
         "title": "Remains found in hunt for blogger's fiancé - FBI",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-us-canada-58989242",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58989242",
         "content": "Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida.",
         "placed": "First_Page",
         "epoch": 1634817604.3315244
@@ -74,7 +74,7 @@
     {
         "title": "Texas nurse found guilty of killing patients",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/world-us-canada-58993678",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58993678",
         "content": "William Davis injected at least seven patients with air and could now face the death penalty.",
         "placed": "First_Page",
         "epoch": 1634817604.3315475
@@ -82,7 +82,7 @@
     {
         "title": "Trump to launch rival to social media giants",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-us-canada-58990330",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58990330",
         "content": "The former US president was banned from Twitter and Facebook following the US Capitol riots.",
         "placed": "First_Page",
         "epoch": 1634817604.3315628
@@ -90,7 +90,7 @@
     {
         "title": "Texas nurse found guilty of killing patients",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-us-canada-58993678",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58993678",
         "content": "William Davis injected at least seven patients with air and could now face the death penalty.",
         "placed": "First_Page",
         "epoch": 1634817604.3315763
@@ -98,7 +98,7 @@
     {
         "title": "Trump to launch rival to social media giants",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-us-canada-58990330",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-58990330",
         "content": "The former US president was banned from Twitter and Facebook following the US Capitol riots.",
         "placed": "First_Page",
         "epoch": 1634817604.3315914
@@ -106,7 +106,7 @@
     {
         "title": "Warner Bros hits back at Ruby Rose Batwoman claims",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/entertainment-arts-58993125",
+        "news_news_url": "https://www.bbc.com/news/entertainment-arts-58993125",
         "content": "The actress claimed in her Instagram story that there were poor working conditions on the show.",
         "placed": "First_Page",
         "epoch": 1634817604.3316078
@@ -114,7 +114,7 @@
     {
         "title": "Chinese criticise 'copycat' show Squid's Victory",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-asia-china-58991127",
+        "news_news_url": "https://www.bbc.com/news/world-asia-china-58991127",
         "content": "Like Squid Game, the show will see contestants compete in \"large-scale kids' games\".",
         "placed": "First_Page",
         "epoch": 1634817604.3316221
@@ -122,7 +122,7 @@
     {
         "title": "UK doctors criticise Covid rules refusal",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/uk-58990658",
+        "news_news_url": "https://www.bbc.com/news/uk-58990658",
         "content": "A doctors' union says ministers must reimpose measures such as compulsory face masks as cases rise.",
         "placed": "First_Page",
         "epoch": 1634817604.3316362
@@ -130,7 +130,7 @@
     {
         "title": "How green politics are changing Europe",
         "date_raw": "2021-10-21",
-        "url": "https://www.bbc.com/news/world-europe-58910712",
+        "news_news_url": "https://www.bbc.com/news/world-europe-58910712",
         "content": "The latest global news, sport, weather and documentaries",
         "placed": "First_Page",
         "epoch": 1634817604.3316646
@@ -138,7 +138,7 @@
     {
         "title": "Fossil fuel production set to soar in next decade",
         "date_raw": "2021-10-20",
-        "url": "https://www.bbc.com/news/science-environment-58971131",
+        "news_news_url": "https://www.bbc.com/news/science-environment-58971131",
         "content": "Stories from around the world",
         "placed": "First_Page",
         "epoch": 1634817604.3316803

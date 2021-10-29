@@ -3,7 +3,7 @@
         "title": "James Michael Tyler, Who Played Gunther on \u2018Friends,\u2019 Dies at 59",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/arts/television/james-michael-tyler-dead.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/arts/television/james-michael-tyler-dead.html",
         "content": "A real barista who was cast as a Central Perk co-worker of his crush, Jennifer Aniston\u2019s character, he appeared in 150 episodes of the hit show.",
         "ranked": 0,
         "placed": "First_Page",
@@ -28,14 +28,14 @@
                 "Tyler, James Michael (1962-2021)"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3B5bE2c"
+            "short_news_news_url": "https://nyti.ms/3B5bE2c"
         }
     },
     {
         "title": "A Surprise for Two \u2018Creatives\u2019: An Artists\u2019 Loft in the East Village",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/realestate/renters-east-village.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/25/realestate/renters-east-village.html",
         "content": "Amanda Paulsen and Peter Zusman found a 1,000-square-foot space on Avenue C for $3,200 a month \u2014 with a basement and a backyard.",
         "ranked": 1,
         "placed": "First_Page",
@@ -64,14 +64,14 @@
             "geo_facet": [
                 "East Village (Manhattan, NY)"
             ],
-            "short_url": "https://nyti.ms/3pyYLLv"
+            "short_news_news_url": "https://nyti.ms/3pyYLLv"
         }
     },
     {
         "title": "Weekly Health Quiz: Breakthrough Covid, Cholesterol and Safer Driving",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "url": "https://www.nytimes.com/interactive/2021/10/21/well/live/21healthquiz-10212021.html",
+        "news_news_url": "https://www.nytimes.com/interactive/2021/10/21/well/live/21healthquiz-10212021.html",
         "content": "Test your knowledge of this week\u2019s health news.",
         "ranked": 2,
         "placed": "First_Page",
@@ -101,14 +101,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3prNhth"
+            "short_news_news_url": "https://nyti.ms/3prNhth"
         }
     },
     {
         "title": "Amanda Knox Was Exonerated. That Doesn\u2019t Mean She\u2019s Free.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html",
         "content": "Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms.",
         "ranked": 3,
         "placed": "First_Page",
@@ -138,14 +138,14 @@
                 "Perugia (Italy)",
                 "Seattle (Wash)"
             ],
-            "short_url": "https://nyti.ms/3GajqeX"
+            "short_news_news_url": "https://nyti.ms/3GajqeX"
         }
     },
     {
         "title": "Heavy Is the Burden on Japan\u2019s Royal Women",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html",
         "content": "A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles.",
         "ranked": 4,
         "placed": "First_Page",
@@ -176,14 +176,14 @@
             "geo_facet": [
                 "Japan"
             ],
-            "short_url": "https://nyti.ms/3nhVu0w"
+            "short_news_news_url": "https://nyti.ms/3nhVu0w"
         }
     },
     {
         "title": "Alec Baldwin Was Rehearsing Pointing Gun at Camera, Affidavit Says",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/arts/baldwin-shooting-details.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/arts/baldwin-shooting-details.html",
         "content": "The director of \u201cRust\u201d gave the authorities the most detailed account yet of how the actor fatally shot the film\u2019s cinematographer.",
         "ranked": 5,
         "placed": "First_Page",
@@ -209,14 +209,14 @@
                 "Souza, Joel (1973- )"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/2Zia5RL"
+            "short_news_news_url": "https://nyti.ms/2Zia5RL"
         }
     },
     {
         "title": "Their Jobs Made Them Get Vaccinated. They Refused.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
         "content": "The willingness of some workers to give up their livelihoods helps explain the country\u2019s struggle to contain the pandemic.",
         "ranked": 6,
         "placed": "First_Page",
@@ -247,14 +247,14 @@
                 "New York City",
                 "New York State"
             ],
-            "short_url": "https://nyti.ms/3GrMxuv"
+            "short_news_news_url": "https://nyti.ms/3GrMxuv"
         }
     },
     {
         "title": "Where Facts Were No Match for Fear",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
         "content": "Civic boosters in central Montana hoped for some federal money to promote tourism. A disinformation campaign got in the way.",
         "ranked": 7,
         "placed": "First_Page",
@@ -291,14 +291,14 @@
                 "Cascade County (Mont)",
                 "Montana"
             ],
-            "short_url": "https://nyti.ms/3EawhvP"
+            "short_news_news_url": "https://nyti.ms/3EawhvP"
         }
     },
     {
         "title": "The First Thing We Do, Let\u2019s Kill All the Leaf Blowers",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "url": "https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html",
         "content": "Nearly everything about how Americans \u201ccare\u201d for their lawns is deadly, but these machines exist in a category of environmental hell all their own.",
         "ranked": 8,
         "placed": "First_Page",
@@ -323,7 +323,7 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Gfut6y"
+            "short_news_news_url": "https://nyti.ms/3Gfut6y"
         }
     }
 ]

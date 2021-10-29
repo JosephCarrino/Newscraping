@@ -2,7 +2,7 @@
     {
         "title": "Police: Rust film set showed complacency with guns",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59068976",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59068976",
         "content": "New Mexico authorities are so far refusing to rule out bringing criminal charges in the case.",
         "placed": "First_Page",
         "epoch": 1635379203.2135577
@@ -10,7 +10,7 @@
     {
         "title": "Police: Rust film set showed complacency with guns",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59068976",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59068976",
         "content": "New Mexico authorities are so far refusing to rule out bringing criminal charges in the case.",
         "placed": "First_Page",
         "epoch": 1635379203.213586
@@ -18,7 +18,7 @@
     {
         "title": "French fishing threats disappointing, UK says",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/uk-59069951",
+        "news_url": "https://www.bbc.com/news/uk-59069951",
         "content": "The Brexit minister seeks \"urgent clarification\" after France says it will block ports to UK boats.",
         "placed": "First_Page",
         "epoch": 1635379203.2136056
@@ -26,7 +26,7 @@
     {
         "title": "Poland told to pay €1m a day in legal row with EU",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-europe-59064883",
+        "news_url": "https://www.bbc.com/news/world-europe-59064883",
         "content": "The ruling is the latest step in an escalating dispute over Poland's legal reforms.",
         "placed": "First_Page",
         "epoch": 1635379203.2136412
@@ -34,7 +34,7 @@
     {
         "title": "Surviving in Kuwait's 'unbearable' heat",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/world-middle-east-59054893",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59054893",
         "content": "The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life.",
         "placed": "First_Page",
         "epoch": 1635379203.213654
@@ -42,7 +42,7 @@
     {
         "title": "David Attenborough polar ship makes her debut",
         "date_raw": "2021-10-26",
-        "url": "https://www.bbc.com/news/science-environment-59022676",
+        "news_url": "https://www.bbc.com/news/science-environment-59022676",
         "content": "The UK's new £200m research vessel is in London ahead of her first ocean voyage to the Antarctic.",
         "placed": "First_Page",
         "epoch": 1635379203.2136753
@@ -50,7 +50,7 @@
     {
         "title": "Civil rights pioneer wants arrest record cleared",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-us-canada-59047634",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59047634",
         "content": "Claudette Colvin was just 15 in 1955 when she refused to give up her seat on a bus for a white person.",
         "placed": "First_Page",
         "epoch": 1635379203.2136912
@@ -58,7 +58,7 @@
     {
         "title": "Koeman sacked as Barcelona manager",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/sport/football/58633405",
+        "news_url": "https://www.bbc.com/sport/football/58633405",
         "content": "Ronald Koeman is sacked as head coach of Barcelona after 14 months in charge at the Nou Camp following a defeat by Rayo Vallecano.",
         "placed": "First_Page",
         "epoch": 1635379203.213706
@@ -66,7 +66,7 @@
     {
         "title": "Humans turning forests into carbon sources",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/science-environment-59065127",
+        "news_url": "https://www.bbc.com/news/science-environment-59065127",
         "content": "Human activity and wildfires have turned protected forests into net sources of carbon, a study suggests.",
         "placed": "First_Page",
         "epoch": 1635379203.2137206
@@ -74,7 +74,7 @@
     {
         "title": "World Bank freezes cash to Sudan after coup",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-africa-59066654",
+        "news_url": "https://www.bbc.com/news/world-africa-59066654",
         "content": "Pressure mounts on the military to restore civilian rule as international bodies respond.",
         "placed": "First_Page",
         "epoch": 1635379203.213735
@@ -82,7 +82,7 @@
     {
         "title": "Cavallo on coming out as gay: 'It's my freedom day'",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-australia-59068417",
+        "news_url": "https://www.bbc.com/news/world-australia-59068417",
         "content": "Josh Cavallo has come out as gay - the only current top level male professional footballer to do so.",
         "placed": "First_Page",
         "epoch": 1635379203.2137494
@@ -90,7 +90,7 @@
     {
         "title": "UK chancellor unveils post-Covid Budget",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/uk-politics-59063672",
+        "news_url": "https://www.bbc.com/news/uk-politics-59063672",
         "content": "Pubs and high streets get a boost - but Labour says Chancellor Rishi Sunak is ignoring the cost of living crisis.",
         "placed": "First_Page",
         "epoch": 1635379203.21376
@@ -98,7 +98,7 @@
     {
         "title": "Cavallo on coming out as gay: 'It's my freedom day'",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-australia-59068417",
+        "news_url": "https://www.bbc.com/news/world-australia-59068417",
         "content": "Josh Cavallo has come out as gay - the only current top level male professional footballer to do so.",
         "placed": "First_Page",
         "epoch": 1635379203.2137752
@@ -106,7 +106,7 @@
     {
         "title": "UK chancellor unveils post-Covid Budget",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/uk-politics-59063672",
+        "news_url": "https://www.bbc.com/news/uk-politics-59063672",
         "content": "Pubs and high streets get a boost - but Labour says Chancellor Rishi Sunak is ignoring the cost of living crisis.",
         "placed": "First_Page",
         "epoch": 1635379203.213792
@@ -114,7 +114,7 @@
     {
         "title": "Pope to visit Canada for indigenous reconciliation",
         "date_raw": "PT",
-        "url": "https://www.bbc.com/news/world-us-canada-59066724",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59066724",
         "content": "The visit follows renewed attention on indigenous children who died at residential schools.",
         "placed": "First_Page",
         "epoch": 1635379203.2137992
@@ -122,7 +122,7 @@
     {
         "title": "Senators back criminal charges against Bolsonaro",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/world-latin-america-59051105",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59051105",
         "content": "Senators in Brazil vote to recommend charging the president over his handling of the pandemic.",
         "placed": "First_Page",
         "epoch": 1635379203.2138135
@@ -130,7 +130,7 @@
     {
         "title": "Cambridge college returns looted bronze cockerel",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/uk-england-cambridgeshire-59065225",
+        "news_url": "https://www.bbc.com/news/uk-england-cambridgeshire-59065225",
         "content": "A ceremony was held at a Cambridge college to mark the official transfer of ownership.",
         "placed": "First_Page",
         "epoch": 1635379203.2138271
@@ -138,7 +138,7 @@
     {
         "title": "Four things you can do to reduce emissions",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/science-environment-58171814",
+        "news_url": "https://www.bbc.com/news/science-environment-58171814",
         "content": "The latest global news, sport, weather and documentaries",
         "placed": "First_Page",
         "epoch": 1635379203.213841
@@ -146,7 +146,7 @@
     {
         "title": "Can your sex life be eco-friendly?",
         "date_raw": "2021-10-27",
-        "url": "https://www.bbc.com/news/science-environment-59046518",
+        "news_url": "https://www.bbc.com/news/science-environment-59046518",
         "content": "Stories from around the world",
         "placed": "First_Page",
         "epoch": 1635379203.2138543

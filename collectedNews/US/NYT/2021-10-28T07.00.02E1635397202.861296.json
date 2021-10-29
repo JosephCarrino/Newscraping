@@ -3,7 +3,7 @@
         "title": "Colombia Announces Capture of Leader of Major Drug Cartel",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "url": "https://www.nytimes.com/2021/10/23/us/ototoniel-captured-colombia.html",
+        "news_url": "https://www.nytimes.com/2021/10/23/us/ototoniel-captured-colombia.html",
         "content": "The arrest of Dairo Antonio \u00dasuga, widely known as Otoniel, was a victory for Colombia\u2019s president, who has been struggling to contain persistent violence.",
         "ranked": 0,
         "placed": "First_Page",
@@ -34,14 +34,14 @@
             "geo_facet": [
                 "Colombia"
             ],
-            "short_url": "https://nyti.ms/3G92eq2"
+            "short_news_url": "https://nyti.ms/3G92eq2"
         }
     },
     {
         "title": "Lawyer Who Won $9.5 Billion Settlement Against Chevron Reports to Prison",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/energy-environment/steven-donziger-chevron.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/energy-environment/steven-donziger-chevron.html",
         "content": "Steven Donziger, an environmental activist who won what is considered the largest ever lawsuit against an oil company, was found guilty of contempt of court in July.",
         "ranked": 1,
         "placed": "First_Page",
@@ -69,14 +69,14 @@
             "geo_facet": [
                 "Ecuador"
             ],
-            "short_url": "https://nyti.ms/2Zn4x85"
+            "short_news_url": "https://nyti.ms/2Zn4x85"
         }
     },
     {
         "title": "The Photograph That Started a Romance",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/style/najee-forte-danielle-dorsi-wedding.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/najee-forte-danielle-dorsi-wedding.html",
         "content": "Najee Fort\u00e8 knew he had to meet Danielle Dorsi after a mutual friend sent him a picture of her.",
         "ranked": 2,
         "placed": "First_Page",
@@ -97,14 +97,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3vNqvgR"
+            "short_news_url": "https://nyti.ms/3vNqvgR"
         }
     },
     {
         "title": "Suffering From Confounding Symptoms, a Patient Treats Himself",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "url": "https://www.nytimes.com/2021/10/26/books/review/the-deep-places-ross-douthat.html",
+        "news_url": "https://www.nytimes.com/2021/10/26/books/review/the-deep-places-ross-douthat.html",
         "content": "In \u201cThe Deep Places,\u201d Ross Douthat chronicles the illness that continued to plague him no matter what he threw at it.",
         "ranked": 3,
         "placed": "First_Page",
@@ -136,14 +136,14 @@
                 "Connecticut",
                 "Lyme (Conn)"
             ],
-            "short_url": "https://nyti.ms/3pxXggO"
+            "short_news_url": "https://nyti.ms/3pxXggO"
         }
     },
     {
         "title": "Her (Lack of) Kickball Skills Made Him Know She Was a Keeper",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "url": "https://www.nytimes.com/2021/10/22/style/courtney-thomas-benjamin-allen-wedding.html",
+        "news_url": "https://www.nytimes.com/2021/10/22/style/courtney-thomas-benjamin-allen-wedding.html",
         "content": "Benjamin Allen and Courtney Thomas bonded over a shared ability to embrace life\u2019s awkward moments.",
         "ranked": 4,
         "placed": "First_Page",
@@ -164,14 +164,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3B9Jlzr"
+            "short_news_url": "https://nyti.ms/3B9Jlzr"
         }
     },
     {
         "title": "He Unleashed a California Massacre. Should This School Be Named for Him?",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/hastings-college-law-native-massacre.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/hastings-college-law-native-massacre.html",
         "content": "The founder of the Hastings College of the Law masterminded the killings of hundreds of Native Americans. The school, tribal members and alumni disagree about what should be done now.",
         "ranked": 5,
         "placed": "First_Page",
@@ -205,14 +205,14 @@
             "geo_facet": [
                 "California"
             ],
-            "short_url": "https://nyti.ms/3bcnwou"
+            "short_news_url": "https://nyti.ms/3bcnwou"
         }
     },
     {
         "title": "The Moral Chasm That Has Opened Up Between Left and Right Is Widening",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/opinion/left-right-moral-chasm.html",
         "content": "The things that are driving us apart are going to keep driving us apart.\u00a0",
         "ranked": 6,
         "placed": "First_Page",
@@ -242,14 +242,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BirpTE"
+            "short_news_url": "https://nyti.ms/3BirpTE"
         }
     },
     {
         "title": "Trooper Charged With Murder in Death of Girl, 11, in a High-Speed Chase",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/nyregion/monica-goods-christopher-baldner.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/nyregion/monica-goods-christopher-baldner.html",
         "content": "The trooper, Christopher Baldner, killed the girl, Monica Goods, by ramming her family\u2019s car after a late-night traffic stop, officials said.",
         "ranked": 7,
         "placed": "First_Page",
@@ -278,14 +278,14 @@
                 "Ulster County (NY)",
                 "Brooklyn (NYC)"
             ],
-            "short_url": "https://nyti.ms/3bkD0a9"
+            "short_news_url": "https://nyti.ms/3bkD0a9"
         }
     },
     {
         "title": "G.O.P. Attack Involving Toni Morrison Novel Inflames Virginia Contest",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html",
         "content": "A Republican ad featured a mother who had tried to have \u201cBeloved\u201d banned from her son\u2019s curriculum. Democrats saw a coded racist message.",
         "ranked": 8,
         "placed": "First_Page",
@@ -312,7 +312,7 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3jJEgrU"
+            "short_news_url": "https://nyti.ms/3jJEgrU"
         }
     }
 ]

@@ -3,7 +3,7 @@
         "title": "Trooper Charged With Murder in Death of Girl, 11, in a High-Speed Chase",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/nyregion/monica-goods-christopher-baldner.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/nyregion/monica-goods-christopher-baldner.html",
         "content": "The trooper, Christopher Baldner, killed the girl, Monica Goods, by ramming her family\u2019s car after a late-night traffic stop, officials said.",
         "ranked": 0,
         "placed": "First_Page",
@@ -31,14 +31,14 @@
                 "Ulster County (NY)",
                 "Brooklyn (NYC)"
             ],
-            "short_url": "https://nyti.ms/3bkD0a9"
+            "short_news_url": "https://nyti.ms/3bkD0a9"
         }
     },
     {
         "title": "When a California Pit Stop Became Permanent, They Scrambled for a Place to Buy. Which Home Would You Choose?",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/interactive/2021/10/28/realestate/28hunt-tuma.html",
+        "news_url": "https://www.nytimes.com/interactive/2021/10/28/realestate/28hunt-tuma.html",
         "content": "The newlyweds were on their way to Tokyo when the pandemic stranded them in the unfamiliar environs of Los Angeles. Here\u2019s what they found with their $1.5 million budget.",
         "ranked": 1,
         "placed": "First_Page",
@@ -66,14 +66,14 @@
                 "Marina del Rey (Calif)",
                 "Redondo Beach (Calif)"
             ],
-            "short_url": "https://nyti.ms/3Cqa78a"
+            "short_news_url": "https://nyti.ms/3Cqa78a"
         }
     },
     {
         "title": "Farewell, Nick Kristof",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/opinion/nick-kristof-leaving-new-york-times.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/opinion/nick-kristof-leaving-new-york-times.html",
         "content": "After 37 years, a distinguished and imaginative journalist is leaving The Times.",
         "ranked": 2,
         "placed": "First_Page",
@@ -98,14 +98,14 @@
             "geo_facet": [
                 "Oregon"
             ],
-            "short_url": "https://nyti.ms/3BkX8Dp"
+            "short_news_url": "https://nyti.ms/3BkX8Dp"
         }
     },
     {
         "title": "He Had Severe Abdominal Pain and a Fever. It Wasn\u2019t Food Poisoning.",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/magazine/adult-multisystem-inflammatory-syndrome.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/magazine/adult-multisystem-inflammatory-syndrome.html",
         "content": "He was too weak to even get out of the bed to go to the bathroom. What could be causing this devastating illness?",
         "ranked": 3,
         "placed": "First_Page",
@@ -132,14 +132,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3Cn8VTj"
+            "short_news_url": "https://nyti.ms/3Cn8VTj"
         }
     },
     {
         "title": "Lawyer Who Won $9.5 Billion Settlement Against Chevron Reports to Prison",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/business/energy-environment/steven-donziger-chevron.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/business/energy-environment/steven-donziger-chevron.html",
         "content": "Steven Donziger, an environmental activist who won what is considered the largest ever lawsuit against an oil company, was found guilty of contempt of court in July.",
         "ranked": 4,
         "placed": "First_Page",
@@ -172,14 +172,14 @@
             "geo_facet": [
                 "Ecuador"
             ],
-            "short_url": "https://nyti.ms/2Zn4x85"
+            "short_news_url": "https://nyti.ms/2Zn4x85"
         }
     },
     {
         "title": "The 37-Year-Olds Are Afraid of the 23-Year-Olds Who Work for Them",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/business/gen-z-workplace-culture.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/business/gen-z-workplace-culture.html",
         "content": "Twenty-somethings rolling their eyes at the habits of their elders is a longstanding trend, but many employers said there\u2019s a new boldness in the way Gen Z dictates taste.",
         "ranked": 5,
         "placed": "First_Page",
@@ -210,14 +210,14 @@
                 "Dunn, Andy"
             ],
             "geo_facet": [],
-            "short_url": "https://nyti.ms/3BnAMkI"
+            "short_news_url": "https://nyti.ms/3BnAMkI"
         }
     },
     {
         "title": "A Farewell to Readers, With Hope",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/opinion/sunday/nick-kristof-farewell.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/opinion/sunday/nick-kristof-farewell.html",
         "content": "A columnist offers lessons learned from decades on the front lines of reporting and explains why he is leaving to run for office.",
         "ranked": 6,
         "placed": "First_Page",
@@ -251,14 +251,14 @@
                 "Yamhill (Ore)",
                 "United States"
             ],
-            "short_url": "https://nyti.ms/2XTqJq7"
+            "short_news_url": "https://nyti.ms/2XTqJq7"
         }
     },
     {
         "title": "J.D. Vance and Mar-a-Loco",
         "date_raw": "October 28, 2021",
         "date": "2021-10-28",
-        "url": "https://www.nytimes.com/2021/10/28/opinion/jd-vance-trump-hypocrisy.html",
+        "news_url": "https://www.nytimes.com/2021/10/28/opinion/jd-vance-trump-hypocrisy.html",
         "content": "His Trump-flattering campaign for the Senate is an elegy for decency.",
         "ranked": 7,
         "placed": "First_Page",
@@ -289,14 +289,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_url": "https://nyti.ms/3nAgEal"
+            "short_news_url": "https://nyti.ms/3nAgEal"
         }
     },
     {
         "title": "He Unleashed a California Massacre. Should This School Be Named for Him?",
         "date_raw": "October 27, 2021",
         "date": "2021-10-27",
-        "url": "https://www.nytimes.com/2021/10/27/us/hastings-college-law-native-massacre.html",
+        "news_url": "https://www.nytimes.com/2021/10/27/us/hastings-college-law-native-massacre.html",
         "content": "The founder of the Hastings College of the Law masterminded the killings of hundreds of Native Americans. The school, tribal members and alumni disagree about what should be done now.",
         "ranked": 8,
         "placed": "First_Page",
@@ -330,7 +330,7 @@
             "geo_facet": [
                 "California"
             ],
-            "short_url": "https://nyti.ms/3bcnwou"
+            "short_news_url": "https://nyti.ms/3bcnwou"
         }
     }
 ]
