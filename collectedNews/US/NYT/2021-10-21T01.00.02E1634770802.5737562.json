@@ -3,7 +3,7 @@
         "title": "The Economic Rebound Is Still Waiting for Workers",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
         "content": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
         "ranked": 0,
         "placed": "First_Page",
@@ -32,14 +32,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3C47g4Y"
+            "short_news_news_url": "https://nyti.ms/3C47g4Y"
         }
     },
     {
         "title": "Trump\u2019s Pentagon Chief Quashed Idea to Send 250,000 Troops to the Border",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/trump-border.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/trump-border.html",
         "content": "Top national security aides to former President Trump also talked him out of launching military raids against drug cartels inside Mexico.",
         "ranked": 1,
         "placed": "First_Page",
@@ -72,14 +72,14 @@
             "geo_facet": [
                 "Mexico"
             ],
-            "short_news_url": "https://nyti.ms/3pidQRz"
+            "short_news_news_url": "https://nyti.ms/3pidQRz"
         }
     },
     {
         "title": "In a First, Surgeons Attached a Pig Kidney to a Human, and It Worked",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/health/kidney-transplant-pig-human.html",
         "content": "A kidney grown in a genetically altered pig functions normally, scientists reported. The procedure may open the door to a renewable source of desperately needed organs.",
         "ranked": 2,
         "placed": "First_Page",
@@ -109,14 +109,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3jl5jtl"
+            "short_news_news_url": "https://nyti.ms/3jl5jtl"
         }
     },
     {
         "title": "The Secret Toll of Racial Ambiguity",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/magazine/rebecca-hall-passing.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/magazine/rebecca-hall-passing.html",
         "content": "Rebecca Hall\u2019s new film adaptation of the 1929 novel \u201cPassing\u201d has cracked open a public conversation about colorism and privilege.",
         "ranked": 3,
         "placed": "First_Page",
@@ -145,14 +145,14 @@
                 "Negga, Ruth (1982- )"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3aUHR1w"
+            "short_news_news_url": "https://nyti.ms/3aUHR1w"
         }
     },
     {
         "title": "Trump Organization, Already Under Indictment, Faces New Criminal Inquiry",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
         "content": "The investigation, by the Westchester County district attorney\u2019s office, increases the legal scrutiny of the former president and his family business.",
         "ranked": 4,
         "placed": "First_Page",
@@ -189,14 +189,14 @@
                 "Ossining (NY)",
                 "Westchester County (NY)"
             ],
-            "short_news_url": "https://nyti.ms/2Z3McwO"
+            "short_news_news_url": "https://nyti.ms/2Z3McwO"
         }
     },
     {
         "title": "Nadia Chaudhri, Scientist With an End-of-Life Mission, Dies at 43",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/health/nadia-chaudhri-dead.html",
         "content": "She documented her last months with ovarian cancer on Twitter while raising funds to support students from backgrounds that are underrepresented in the sciences.",
         "ranked": 5,
         "placed": "First_Page",
@@ -226,14 +226,14 @@
                 "Chaudhri, Nadia (1978-2021)"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/2ZdrhaT"
+            "short_news_news_url": "https://nyti.ms/2ZdrhaT"
         }
     },
     {
         "title": "It\u2019s Quitting Season",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/opinion/quitting-jobs-resignation-employment.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/opinion/quitting-jobs-resignation-employment.html",
         "content": "Time to stop being a martyr to grit.",
         "ranked": 6,
         "placed": "First_Page",
@@ -257,14 +257,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/2Z3MhR8"
+            "short_news_news_url": "https://nyti.ms/2Z3MhR8"
         }
     },
     {
         "title": "Vikings Were in the Americas Exactly 1,000 Years Ago",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
         "content": "By studying tree rings and using a dash of astrophysics, researchers have pinned down a precise year that settlers from Europe were on land that would come to be known as Newfoundland.",
         "ranked": 7,
         "placed": "First_Page",
@@ -296,7 +296,7 @@
                 "Newfoundland (Canada)",
                 "Canada"
             ],
-            "short_news_url": "https://nyti.ms/3jkQrey"
+            "short_news_news_url": "https://nyti.ms/3jkQrey"
         }
     }
 ]

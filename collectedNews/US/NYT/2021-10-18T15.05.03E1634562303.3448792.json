@@ -3,7 +3,7 @@
         "title": "Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html",
         "content": "\u201cWhere is this country going?\u201d Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage.",
         "ranked": 0,
         "placed": "Abroad",
@@ -34,14 +34,14 @@
             "geo_facet": [
                 "Haiti"
             ],
-            "short_news_url": "https://nyti.ms/3pd7SSc"
+            "short_news_news_url": "https://nyti.ms/3pd7SSc"
         }
     },
     {
         "title": "Taiwan Couple Are Suspected of Negligent Homicide in Building Fire",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html",
         "content": "Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving.",
         "ranked": 1,
         "placed": "Abroad",
@@ -65,14 +65,14 @@
             "geo_facet": [
                 "Taiwan"
             ],
-            "short_news_url": "https://nyti.ms/3pdSsNy"
+            "short_news_news_url": "https://nyti.ms/3pdSsNy"
         }
     },
     {
         "title": "Amid Flames and Gunfire, They Were Evicted From Where They Called Home",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html",
         "content": "Critics say an Indian state\u2019s campaign to expel longtime residents on government land marks the ruling party\u2019s latest campaign against Muslims.",
         "ranked": 2,
         "placed": "Abroad",
@@ -100,14 +100,14 @@
                 "Assam State (India)",
                 "India"
             ],
-            "short_news_url": "https://nyti.ms/3BS7Tym"
+            "short_news_news_url": "https://nyti.ms/3BS7Tym"
         }
     },
     {
         "title": "Police Search for Motive in British Lawmaker\u2019s Killing",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html",
         "content": "An attack has rekindled questions about the security of members of Parliament.",
         "ranked": 3,
         "placed": "Abroad",
@@ -138,14 +138,14 @@
                 "Great Britain",
                 "London (England)"
             ],
-            "short_news_url": "https://nyti.ms/3AQFWWm"
+            "short_news_news_url": "https://nyti.ms/3AQFWWm"
         }
     },
     {
         "title": "At Axel Springer, Politico\u2019s New Owner, Allegations of Sex, Lies and a Secret Payment",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/business/media/axel-springer-bild-julian-reichelt.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/business/media/axel-springer-bild-julian-reichelt.html",
         "content": "A high-flying German media giant is ahead on digital media but seems stuck in the past when it comes to the workplace and deal-making.",
         "ranked": 4,
         "placed": "Abroad",
@@ -182,14 +182,14 @@
             "geo_facet": [
                 "Germany"
             ],
-            "short_news_url": "https://nyti.ms/3aJCXEj"
+            "short_news_news_url": "https://nyti.ms/3aJCXEj"
         }
     },
     {
         "title": "How a Stunning Lagoon in Spain Turned Into \u2018Green Soup\u2019",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html",
         "content": "Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed.",
         "ranked": 5,
         "placed": "Abroad",
@@ -217,14 +217,14 @@
                 "Spain",
                 "Mediterranean Sea"
             ],
-            "short_news_url": "https://nyti.ms/2YWEUdW"
+            "short_news_news_url": "https://nyti.ms/2YWEUdW"
         }
     },
     {
         "title": "Russian Film Crew Wraps Space Station Shoot and Returns to Earth",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/science/russia-film-space-station.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/science/russia-film-space-station.html",
         "content": "A Russian actress and film director landed near Russia\u2019s spaceflight base in Kazakhstan after 12 days in orbit.",
         "ranked": 6,
         "placed": "Abroad",
@@ -256,14 +256,14 @@
             "geo_facet": [
                 "Russia"
             ],
-            "short_news_url": "https://nyti.ms/3aKmEHr"
+            "short_news_news_url": "https://nyti.ms/3aKmEHr"
         }
     },
     {
         "title": "New Zealand extends the lockdown of its largest city for another 2 weeks.",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/live/2021/10/18/world/covid-delta-variant-vaccine/new-zealand-auckland-lockdown",
+        "news_news_url": "https://www.nytimes.com/live/2021/10/18/world/covid-delta-variant-vaccine/new-zealand-auckland-lockdown",
         "content": "The city, Auckland, has been in lockdown since Aug. 17, after an outbreak of the Delta variant.",
         "ranked": 7,
         "placed": "Abroad",
@@ -288,14 +288,14 @@
                 "Auckland (New Zealand)",
                 "New Zealand"
             ],
-            "short_news_url": "https://nyti.ms/3B2SFW9"
+            "short_news_news_url": "https://nyti.ms/3B2SFW9"
         }
     },
     {
         "title": "Bringing Attention to the Maori Language, One Song at a Time",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/arts/music/maori-language-song-translations.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/arts/music/maori-language-song-translations.html",
         "content": "\u201cWaiata/Anthems,\u201d Lorde\u2019s \u201cTe Ao Marama\u201d EP and a host of other projects are aimed at revitalizing the Indigenous language of New Zealand via music.",
         "ranked": 8,
         "placed": "Abroad",
@@ -331,14 +331,14 @@
             "geo_facet": [
                 "New Zealand"
             ],
-            "short_news_url": "https://nyti.ms/3aK3vFs"
+            "short_news_news_url": "https://nyti.ms/3aK3vFs"
         }
     },
     {
         "title": "China\u2019s Economy Continues to Slow, Rattled by Real Estate and Energy",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/business/economy/china-economy-gdp.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/business/economy/china-economy-gdp.html",
         "content": "Growth of 4.9 percent shows the country\u2019s huge industrial sector has run into trouble. But exports and services are looking strong.",
         "ranked": 9,
         "placed": "Abroad",
@@ -367,14 +367,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_news_url": "https://nyti.ms/3BQH8tT"
+            "short_news_news_url": "https://nyti.ms/3BQH8tT"
         }
     },
     {
         "title": "Tunisians Recall Revolution Reluctantly, if at All: \u2018It Just Faded Away\u2019",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html",
         "content": "When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember.",
         "ranked": 10,
         "placed": "Abroad",
@@ -404,14 +404,14 @@
                 "Tunis (Tunisia)",
                 "Tunisia"
             ],
-            "short_news_url": "https://nyti.ms/3ARtqpk"
+            "short_news_news_url": "https://nyti.ms/3ARtqpk"
         }
     },
     {
         "title": "Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html",
         "content": "The downfall of Austria\u2019s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media.",
         "ranked": 11,
         "placed": "Abroad",
@@ -451,14 +451,14 @@
                 "Orban, Viktor"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3DQ89yl"
+            "short_news_news_url": "https://nyti.ms/3DQ89yl"
         }
     },
     {
         "title": "Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html",
         "content": "The police in Norway, initially pointing to Islamic extremism, now say an attacker was \u201cnot well, mentally.\u201d",
         "ranked": 12,
         "placed": "Abroad",
@@ -487,14 +487,14 @@
                 "Kongsberg (Norway)",
                 "Norway"
             ],
-            "short_news_url": "https://nyti.ms/3voNoqG"
+            "short_news_news_url": "https://nyti.ms/3voNoqG"
         }
     },
     {
         "title": "Nearly $7 Million Awarded in First Earthshot Prizes",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html",
         "content": "Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London.",
         "ranked": 13,
         "placed": "Abroad",
@@ -521,14 +521,14 @@
                 "William, Duke of Cambridge"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3vjAD0x"
+            "short_news_news_url": "https://nyti.ms/3vjAD0x"
         }
     },
     {
         "title": "America\u2019s Cash Glut",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html",
         "content": "The economy is almost doing too well. But there are some problems.",
         "ranked": 14,
         "placed": "Abroad",
@@ -547,14 +547,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3ALKjBW"
+            "short_news_news_url": "https://nyti.ms/3ALKjBW"
         }
     },
     {
         "title": "How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html",
         "content": "An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario.",
         "ranked": 15,
         "placed": "Abroad",
@@ -581,14 +581,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3aKLqqP"
+            "short_news_news_url": "https://nyti.ms/3aKLqqP"
         }
     },
     {
         "title": "Your Monday Briefing",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html",
         "content": "A new antiviral coronavirus pill.",
         "ranked": 16,
         "placed": "Abroad",
@@ -607,14 +607,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3AQBgQ4"
+            "short_news_news_url": "https://nyti.ms/3AQBgQ4"
         }
     },
     {
         "title": "For Missionary Group in a Fragile Haiti, Charity Turns to Chaos",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html",
         "content": "An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country.",
         "ranked": 17,
         "placed": "Abroad",
@@ -650,14 +650,14 @@
                 "Ohio",
                 "Port-au-Prince (Haiti)"
             ],
-            "short_news_url": "https://nyti.ms/3jdNjB0"
+            "short_news_news_url": "https://nyti.ms/3jdNjB0"
         }
     },
     {
         "title": "Washington Hears Echoes of the \u201950s and Worries: Is This a Cold War With China?",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html",
         "content": "Incursions into Taiwan\u2019s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set.",
         "ranked": 18,
         "placed": "Abroad",
@@ -688,14 +688,14 @@
             "geo_facet": [
                 "China"
             ],
-            "short_news_url": "https://nyti.ms/2XlVx2t"
+            "short_news_news_url": "https://nyti.ms/2XlVx2t"
         }
     },
     {
         "title": "Your Monday Briefing",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html",
         "content": "Haitian gang kidnaps missionaries.",
         "ranked": 19,
         "placed": "Abroad",
@@ -714,14 +714,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3jaglBN"
+            "short_news_news_url": "https://nyti.ms/3jaglBN"
         }
     },
     {
         "title": "What is Christian Aid Ministries and what does it do in Haiti?",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html",
         "content": "The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief.",
         "ranked": 20,
         "placed": "Abroad",
@@ -753,14 +753,14 @@
                 "Ohio",
                 "Port-au-Prince (Haiti)"
             ],
-            "short_news_url": "https://nyti.ms/3vmvODm"
+            "short_news_news_url": "https://nyti.ms/3vmvODm"
         }
     },
     {
         "title": "Gang suspected in kidnapping of missionaries is among the country\u2019s most dangerous.",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html",
         "content": "The gang, called 400 Mawozo, captured several clergy members in April, and the local authorities say it is behind Saturday\u2019s kidnapping.",
         "ranked": 21,
         "placed": "Abroad",
@@ -788,14 +788,14 @@
                 "Haiti",
                 "Port-au-Prince (Haiti)"
             ],
-            "short_news_url": "https://nyti.ms/2YSl4AG"
+            "short_news_news_url": "https://nyti.ms/2YSl4AG"
         }
     },
     {
         "title": "South Korea Reconsiders a Rite of Manhood: The Draft",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html",
         "content": "Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North.",
         "ranked": 22,
         "placed": "Abroad",
@@ -821,14 +821,14 @@
             "geo_facet": [
                 "South Korea"
             ],
-            "short_news_url": "https://nyti.ms/3jaHcO2"
+            "short_news_news_url": "https://nyti.ms/3jaHcO2"
         }
     },
     {
         "title": "Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html",
         "content": "Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs.",
         "ranked": 23,
         "placed": "Abroad",
@@ -856,14 +856,14 @@
                 "Africa",
                 "India"
             ],
-            "short_news_url": "https://nyti.ms/3vkhcV4"
+            "short_news_news_url": "https://nyti.ms/3vkhcV4"
         }
     },
     {
         "title": "Missionaries With an American Christian Group Kidnapped in Haiti",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html",
         "content": "Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common.",
         "ranked": 24,
         "placed": "Abroad",
@@ -889,14 +889,14 @@
                 "Haiti",
                 "Port-au-Prince (Haiti)"
             ],
-            "short_news_url": "https://nyti.ms/2YU2gRI"
+            "short_news_news_url": "https://nyti.ms/2YU2gRI"
         }
     },
     {
         "title": "Syria Accuses Israel of Assassinating Official Near Golan Heights",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html",
         "content": "Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said.",
         "ranked": 25,
         "placed": "Abroad",
@@ -926,14 +926,14 @@
                 "Iran",
                 "Golan Heights"
             ],
-            "short_news_url": "https://nyti.ms/3lNiODV"
+            "short_news_news_url": "https://nyti.ms/3lNiODV"
         }
     },
     {
         "title": "Airlines in Japan and South Korea get creative to revive pandemic-dampened demand.",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html",
         "content": "How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers?",
         "ranked": 26,
         "placed": "Abroad",
@@ -961,14 +961,14 @@
                 "Japan",
                 "South Korea"
             ],
-            "short_news_url": "https://nyti.ms/2XpbHYY"
+            "short_news_news_url": "https://nyti.ms/2XpbHYY"
         }
     },
     {
         "title": "U.S. Extradites Key Financial Ally of Venezuela\u2019s President, Inciting Retaliation",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html",
         "content": "Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela.",
         "ranked": 27,
         "placed": "Abroad",
@@ -999,14 +999,14 @@
                 "Venezuela",
                 "Cape Verde"
             ],
-            "short_news_url": "https://nyti.ms/3aKKYZQ"
+            "short_news_news_url": "https://nyti.ms/3aKKYZQ"
         }
     },
     {
         "title": "Robert Durst is on a ventilator with Covid, his lawyer says.",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html",
         "content": "The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000.",
         "ranked": 28,
         "placed": "Abroad",
@@ -1033,14 +1033,14 @@
             "geo_facet": [
                 "Los Angeles (Calif)"
             ],
-            "short_news_url": "https://nyti.ms/2XiXDA2"
+            "short_news_news_url": "https://nyti.ms/2XiXDA2"
         }
     },
     {
         "title": "How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/world/afghanistan-girl-burn-evacuation-military.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/world/afghanistan-girl-burn-evacuation-military.html",
         "content": "The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan.",
         "ranked": 29,
         "placed": "Abroad",
@@ -1071,14 +1071,14 @@
                 "Afghanistan",
                 "Kabul (Afghanistan)"
             ],
-            "short_news_url": "https://nyti.ms/3G3UbuT"
+            "short_news_news_url": "https://nyti.ms/3G3UbuT"
         }
     },
     {
         "title": "After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html",
         "content": "The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay.",
         "ranked": 30,
         "placed": "Abroad",
@@ -1110,14 +1110,14 @@
                 "Baghdad (Iraq)",
                 "Iran"
             ],
-            "short_news_url": "https://nyti.ms/3aJsrNG"
+            "short_news_news_url": "https://nyti.ms/3aJsrNG"
         }
     },
     {
         "title": "An F.D.A. panel explores mixing and matching vaccine doses.",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html",
         "content": "The agency\u2019s expert advisers discussed the data on the approach, which is limited.",
         "ranked": 31,
         "placed": "Abroad",
@@ -1141,14 +1141,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3BQmj1J"
+            "short_news_news_url": "https://nyti.ms/3BQmj1J"
         }
     },
     {
         "title": "The Yukon Territory imposes a vaccine mandate as cases surge in northern Canada.",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/world/yukon-vaccine-mandate.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/world/yukon-vaccine-mandate.html",
         "content": "Health care workers and others in the Yukon must be fully vaccinated by Nov. 30. The territory is also starting a vaccination passport program.",
         "ranked": 32,
         "placed": "Abroad",
@@ -1173,14 +1173,14 @@
             "geo_facet": [
                 "Yukon Territory"
             ],
-            "short_news_url": "https://nyti.ms/2YZGaNK"
+            "short_news_news_url": "https://nyti.ms/2YZGaNK"
         }
     },
     {
         "title": "Minnesota\u2019s governor calls up the National Guard to ease crowding in hospitals.",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html",
         "content": "Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones.",
         "ranked": 33,
         "placed": "Abroad",
@@ -1207,14 +1207,14 @@
                 "Walz, Tim"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/2YSZU5A"
+            "short_news_news_url": "https://nyti.ms/2YSZU5A"
         }
     },
     {
         "title": "Macron Commemorates 1961 Paris Police Killing of Algerian Protesters",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html",
         "content": "President Emmanuel Macron of France is the country\u2019s first head of state to attend an event marking the deaths, which officials ignored for decades.",
         "ranked": 34,
         "placed": "Abroad",
@@ -1246,14 +1246,14 @@
                 "Algeria",
                 "France"
             ],
-            "short_news_url": "https://nyti.ms/2XjeuCN"
+            "short_news_news_url": "https://nyti.ms/2XjeuCN"
         }
     },
     {
         "title": "Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "news_url": "https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html",
         "content": "Lebanon\u2019s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface.",
         "ranked": 35,
         "placed": "Abroad",
@@ -1281,7 +1281,7 @@
             "geo_facet": [
                 "Lebanon"
             ],
-            "short_news_url": "https://nyti.ms/3vhhJaz"
+            "short_news_news_url": "https://nyti.ms/3vhhJaz"
         }
     }
 ]

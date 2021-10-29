@@ -3,7 +3,7 @@
         "title": "A Subway Rider Confronted Unmasked Police Officers. They Kicked Him Out.",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/nyregion/nypd-unmasked-covid.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/nyregion/nypd-unmasked-covid.html",
         "content": "Andrew Gilbert said he repeatedly asked two officers to wear masks in accordance with M.T.A. and Police Department policy. He was eventually pushed out of the station.",
         "ranked": 0,
         "placed": "First_Page",
@@ -34,14 +34,14 @@
             "geo_facet": [
                 "New York City"
             ],
-            "short_news_url": "https://nyti.ms/2XuoM34"
+            "short_news_news_url": "https://nyti.ms/2XuoM34"
         }
     },
     {
         "title": "The True Cost of Upgrading Your Phone",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/technology/personaltech/iphone-upgrades-cost.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/technology/personaltech/iphone-upgrades-cost.html",
         "content": "Buying a $1,000 iPhone can be equivalent to giving up $17,000 in retirement savings or 2,500 cups of coffee.",
         "ranked": 1,
         "placed": "First_Page",
@@ -69,14 +69,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3m6HM1j"
+            "short_news_news_url": "https://nyti.ms/3m6HM1j"
         }
     },
     {
         "title": "Vikings Were in the Americas Exactly 1,000 Years Ago",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
         "content": "By studying tree rings and using a dash of astrophysics, researchers have pinned down a precise year that settlers from Europe were on land that would come to be known as Newfoundland.",
         "ranked": 2,
         "placed": "First_Page",
@@ -108,14 +108,14 @@
                 "Newfoundland (Canada)",
                 "Canada"
             ],
-            "short_news_url": "https://nyti.ms/3jkQrey"
+            "short_news_news_url": "https://nyti.ms/3jkQrey"
         }
     },
     {
         "title": "\u2018Dune\u2019 Review: A Hero in the Making, on Shifting Sands",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/movies/dune-review.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/movies/dune-review.html",
         "content": "Denis Villeneuve\u2019s adaptation is an equally sweeping and intimate take on Frank Herbert\u2019s future-shock epic.",
         "ranked": 3,
         "placed": "First_Page",
@@ -142,14 +142,14 @@
                 "Herbert, Frank"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3b2FwS1"
+            "short_news_news_url": "https://nyti.ms/3b2FwS1"
         }
     },
     {
         "title": "Texas Nurse Is Found Guilty of Killing 4 Patients by Injecting Them With Air",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/us/texas-nurse-air-injections.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/us/texas-nurse-air-injections.html",
         "content": "William Davis \u2014 who worked at Christus Mother Frances Hospital in Tyler, Texas \u2014 could face the death penalty. The victims had undergone heart surgery.",
         "ranked": 4,
         "placed": "First_Page",
@@ -181,14 +181,14 @@
                 "Tyler (Tex)",
                 "Texas"
             ],
-            "short_news_url": "https://nyti.ms/3DWBFmb"
+            "short_news_news_url": "https://nyti.ms/3DWBFmb"
         }
     },
     {
         "title": "I Was Wrong About Donald Trump",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
         "content": "Democrats need a bigger, bolder campaign blueprint to save democracy that doesn\u2019t hinge on the whims of Congress.",
         "ranked": 5,
         "placed": "First_Page",
@@ -222,14 +222,14 @@
                 "Virginia",
                 "Georgia"
             ],
-            "short_news_url": "https://nyti.ms/3nbFbm0"
+            "short_news_news_url": "https://nyti.ms/3nbFbm0"
         }
     },
     {
         "title": "Trump Organization, Already Under Indictment, Faces New Criminal Inquiry",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
         "content": "The investigation, by the Westchester County district attorney\u2019s office, increases the legal scrutiny of the former president and his family business.",
         "ranked": 6,
         "placed": "First_Page",
@@ -266,7 +266,7 @@
                 "Ossining (NY)",
                 "Westchester County (NY)"
             ],
-            "short_news_url": "https://nyti.ms/2Z3McwO"
+            "short_news_news_url": "https://nyti.ms/2Z3McwO"
         }
     }
 ]

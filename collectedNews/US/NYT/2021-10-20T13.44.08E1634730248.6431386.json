@@ -3,7 +3,7 @@
         "title": "Female Judges in Afghanistan, Now Jobless and in Hiding",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html",
         "content": "They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. \u201cWe have lost everything \u2014 our jobs, our homes, the way we lived.\u201d",
         "ranked": 0,
         "placed": "Abroad",
@@ -30,14 +30,14 @@
             "geo_facet": [
                 "Afghanistan"
             ],
-            "short_news_url": "https://nyti.ms/3BY1ykQ"
+            "short_news_news_url": "https://nyti.ms/3BY1ykQ"
         }
     },
     {
         "title": "Brazilian Leader Accused of Crimes Against Humanity in Pandemic Response",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html",
         "content": "A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity.",
         "ranked": 1,
         "placed": "Abroad",
@@ -67,14 +67,14 @@
             "geo_facet": [
                 "Brazil"
             ],
-            "short_news_url": "https://nyti.ms/2Z7roEM"
+            "short_news_news_url": "https://nyti.ms/2Z7roEM"
         }
     },
     {
         "title": "Kidnappers in Haiti Demand $17 Million to Free Missionary Group",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html",
         "content": "A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian.",
         "ranked": 2,
         "placed": "Abroad",
@@ -102,14 +102,14 @@
             "geo_facet": [
                 "Port-au-Prince (Haiti)"
             ],
-            "short_news_url": "https://nyti.ms/2Xsp36J"
+            "short_news_news_url": "https://nyti.ms/2Xsp36J"
         }
     },
     {
         "title": "Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html",
         "content": "For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow.",
         "ranked": 3,
         "placed": "Abroad",
@@ -137,14 +137,14 @@
             "geo_facet": [
                 "Myanmar"
             ],
-            "short_news_url": "https://nyti.ms/2Z1IvYT"
+            "short_news_news_url": "https://nyti.ms/2Z1IvYT"
         }
     },
     {
         "title": "They Fought Apartheid in South Africa. Now They Want Veterans\u2019 Benefits.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html",
         "content": "A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country\u2019s defense minister.",
         "ranked": 4,
         "placed": "Abroad",
@@ -174,14 +174,14 @@
             "geo_facet": [
                 "South Africa"
             ],
-            "short_news_url": "https://nyti.ms/3DWszWt"
+            "short_news_news_url": "https://nyti.ms/3DWszWt"
         }
     },
     {
         "title": "These U.S. Veterans Won\u2019t Rest Until They\u2019ve Kept a Wartime Promise",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html",
         "content": "An informal network that includes former government and military officials is working around the clock to fulfill a pledge to save Afghans who put their lives on the line for America.",
         "ranked": 5,
         "placed": "Abroad",
@@ -208,14 +208,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3DQq48b"
+            "short_news_news_url": "https://nyti.ms/3DQq48b"
         }
     },
     {
         "title": "F.B.I. Raids Homes Linked to Russian Oligarch",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/oleg-deripaska-fbi-raid.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/oleg-deripaska-fbi-raid.html",
         "content": "Agents investigating whether Oleg Deripaska violated U.S. sanctions searched homes he has used in New York and Washington, D.C.",
         "ranked": 6,
         "placed": "Abroad",
@@ -244,14 +244,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3AWjjzP"
+            "short_news_news_url": "https://nyti.ms/3AWjjzP"
         }
     },
     {
         "title": "Taliban Allow Polio Vaccine Program to Restart in Afghanistan",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html",
         "content": "Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF.",
         "ranked": 7,
         "placed": "Abroad",
@@ -279,14 +279,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3AQe2JT"
+            "short_news_news_url": "https://nyti.ms/3AQe2JT"
         }
     },
     {
         "title": "Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html",
         "content": "In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen.",
         "ranked": 8,
         "placed": "Abroad",
@@ -313,14 +313,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3jhFwCg"
+            "short_news_news_url": "https://nyti.ms/3jhFwCg"
         }
     },
     {
         "title": "Bombing of Military Bus in Syrian Capital Kills 14",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html",
         "content": "President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm.",
         "ranked": 9,
         "placed": "Abroad",
@@ -350,14 +350,14 @@
                 "Damascus (Syria)",
                 "Syria"
             ],
-            "short_news_url": "https://nyti.ms/3E1jfRo"
+            "short_news_news_url": "https://nyti.ms/3E1jfRo"
         }
     },
     {
         "title": "Transgender Woman Flees Malaysia After Prison Threat for Wearing Hijab",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html",
         "content": "The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could \u201creturn to the right path.\u201d",
         "ranked": 10,
         "placed": "Abroad",
@@ -391,14 +391,14 @@
                 "Australia",
                 "Thailand"
             ],
-            "short_news_url": "https://nyti.ms/3pjROhf"
+            "short_news_news_url": "https://nyti.ms/3pjROhf"
         }
     },
     {
         "title": "New York City will require all city employees to be vaccinated.",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html",
         "content": "The mandate will remove an option to take regular tests instead of getting a shot.",
         "ranked": 11,
         "placed": "Abroad",
@@ -426,14 +426,14 @@
             "geo_facet": [
                 "New York City"
             ],
-            "short_news_url": "https://nyti.ms/3jjo5S0"
+            "short_news_news_url": "https://nyti.ms/3jjo5S0"
         }
     },
     {
         "title": "Queen \u2018Reluctantly\u2019 Cancels Trip, Citing Medical Advice",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html",
         "content": "Britain\u2019s 95-year-old monarch will not travel to Northern Ireland but is \u201cin good spirits,\u201d Buckingham Palace said.",
         "ranked": 12,
         "placed": "Abroad",
@@ -457,14 +457,14 @@
                 "Northern Ireland",
                 "Great Britain"
             ],
-            "short_news_url": "https://nyti.ms/3C2PVcC"
+            "short_news_news_url": "https://nyti.ms/3C2PVcC"
         }
     },
     {
         "title": "Where Are the Workers?",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html",
         "content": "How can so many Americans afford not to work? And will it last?",
         "ranked": 13,
         "placed": "Abroad",
@@ -483,14 +483,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3C3oK19"
+            "short_news_news_url": "https://nyti.ms/3C3oK19"
         }
     },
     {
         "title": "The Olympic torch arrives in Beijing under a cloud of protests and Covid fears.",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html",
         "content": "A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols.",
         "ranked": 14,
         "placed": "Abroad",
@@ -517,14 +517,14 @@
                 "China",
                 "Beijing (China)"
             ],
-            "short_news_url": "https://nyti.ms/3ASNW9n"
+            "short_news_news_url": "https://nyti.ms/3ASNW9n"
         }
     },
     {
         "title": "Writing About a Past Injustice Helped Her See What Has and Hasn\u2019t Changed",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/books/nadifa-mohamed-fortune-men.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/books/nadifa-mohamed-fortune-men.html",
         "content": "Nadifa Mohamed is a Booker Prize finalist for her novel \u201cThe Fortune Men,\u201d a story about a false accusation and the tragedy that resulted.",
         "ranked": 15,
         "placed": "Abroad",
@@ -558,14 +558,14 @@
                 "England",
                 "Somalia"
             ],
-            "short_news_url": "https://nyti.ms/3lUONCa"
+            "short_news_news_url": "https://nyti.ms/3lUONCa"
         }
     },
     {
         "title": "1971: Paris Installs Giant Air Filters to Combat Pollution",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/world/europe/1971-paris-air-filters.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/world/europe/1971-paris-air-filters.html",
         "content": "Two towers, each measuring 16 and a half feet high, were installed in an area in the east of the city in an experiment to tackle contamination.",
         "ranked": 16,
         "placed": "Abroad",
@@ -584,14 +584,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3AWkS0I"
+            "short_news_news_url": "https://nyti.ms/3AWkS0I"
         }
     },
     {
         "title": "Your Wednesday Briefing",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html",
         "content": "Calls to charge Bolsonaro with crimes against humanity.",
         "ranked": 17,
         "placed": "Abroad",
@@ -610,14 +610,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3G5TgtB"
+            "short_news_news_url": "https://nyti.ms/3G5TgtB"
         }
     },
     {
         "title": "San Francisco temporarily closed an In-N-Out Burger for not checking customers\u2019 vaccine status.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/san-francisco-in-n-out-burger-covid-vaccine.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/san-francisco-in-n-out-burger-covid-vaccine.html",
         "content": "The popular burger chain said it refused to become \u201cthe vaccination police for any government.\u201d",
         "ranked": 18,
         "placed": "Abroad",
@@ -641,14 +641,14 @@
             "geo_facet": [
                 "San Francisco (Calif)"
             ],
-            "short_news_url": "https://nyti.ms/3G236gk"
+            "short_news_news_url": "https://nyti.ms/3G236gk"
         }
     },
     {
         "title": "Fox News anchor Neil Cavuto tests positive for coronavirus.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/fox-news-neil-cavuto-positive-covid.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/fox-news-neil-cavuto-positive-covid.html",
         "content": "The broadcaster has survived cancer and open-heart surgery and has multiple sclerosis.",
         "ranked": 19,
         "placed": "Abroad",
@@ -672,14 +672,14 @@
                 "Cavuto, Neil"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3C0fqej"
+            "short_news_news_url": "https://nyti.ms/3C0fqej"
         }
     },
     {
         "title": "Pediatricians and psychiatrists declare a national emergency in youth mental health.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html",
         "content": "Medical groups said the coronavirus pandemic had worsened a mental health crisis among children and teenagers.",
         "ranked": 20,
         "placed": "Abroad",
@@ -702,14 +702,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3G2De3D"
+            "short_news_news_url": "https://nyti.ms/3G2De3D"
         }
     },
     {
         "title": "Your Wednesday Briefing",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html",
         "content": "Vaccine milestones in Australia and on tiny Pacific islands.",
         "ranked": 21,
         "placed": "Abroad",
@@ -728,14 +728,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3aTuwqg"
+            "short_news_news_url": "https://nyti.ms/3aTuwqg"
         }
     },
     {
         "title": "U.S.-Venezuela Tensions Heat Up Again After Extradition of Maduro Ally",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/venezuela-maduro-biden.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/venezuela-maduro-biden.html",
         "content": "As Secretary of State Antony Blinken heads to the region, the window of opportunity for a political resolution has slammed shut. At least for now.",
         "ranked": 22,
         "placed": "Abroad",
@@ -769,14 +769,14 @@
             "geo_facet": [
                 "Venezuela"
             ],
-            "short_news_url": "https://nyti.ms/3peddIR"
+            "short_news_news_url": "https://nyti.ms/3peddIR"
         }
     },
     {
         "title": "Attendance falls for homeless students in N.Y.C., in part because of the pandemic, a study shows.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html",
         "content": "Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students.",
         "ranked": 23,
         "placed": "Abroad",
@@ -802,14 +802,14 @@
             "geo_facet": [
                 "New York City"
             ],
-            "short_news_url": "https://nyti.ms/2YXkYaZ"
+            "short_news_news_url": "https://nyti.ms/2YXkYaZ"
         }
     },
     {
         "title": "Covid deaths soar in Ukraine as the country struggles with fake vaccine certificates.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html",
         "content": "In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine\u2019s fight against the virus.",
         "ranked": 24,
         "placed": "Abroad",
@@ -835,14 +835,14 @@
             "geo_facet": [
                 "Ukraine"
             ],
-            "short_news_url": "https://nyti.ms/3n7zzcb"
+            "short_news_news_url": "https://nyti.ms/3n7zzcb"
         }
     },
     {
         "title": "A Warning That Africa\u2019s Last Glaciers Will Soon Vanish",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html",
         "content": "While African nations contribute less than 4 percent of global greenhouse gas emissions, a U.N. report underscored the outsize impact that climate change is having on the continent.",
         "ranked": 25,
         "placed": "Abroad",
@@ -872,14 +872,14 @@
             "geo_facet": [
                 "Africa"
             ],
-            "short_news_url": "https://nyti.ms/3n6WwMI"
+            "short_news_news_url": "https://nyti.ms/3n6WwMI"
         }
     },
     {
         "title": "Mix-and-Match Covid Boosters: Why They Just Might Work",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html",
         "content": "The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising.",
         "ranked": 26,
         "placed": "Abroad",
@@ -910,14 +910,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3G4Rklo"
+            "short_news_news_url": "https://nyti.ms/3G4Rklo"
         }
     },
     {
         "title": "A transgender U.S. public health official breaks ground on the pandemic\u2019s front line.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html",
         "content": "Admiral Rachel Levine is the first female four-star admiral in the history of the he U.S. Public Health Service Commissioned Corps, which she already leads in her role as assistant secretary.",
         "ranked": 27,
         "placed": "Abroad",
@@ -942,14 +942,14 @@
                 "Levine, Rachel (1957- )"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3vqvy6q"
+            "short_news_news_url": "https://nyti.ms/3vqvy6q"
         }
     },
     {
         "title": "The Threat, in Perspective",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html",
         "content": "Colin Powell\u2019s death highlights the continuing Covid risks to older people with medical conditions.",
         "ranked": 28,
         "placed": "Abroad",
@@ -968,14 +968,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3BUVdGQ"
+            "short_news_news_url": "https://nyti.ms/3BUVdGQ"
         }
     },
     {
         "title": "Unvaccinated public employees in Washington and Massachusetts now risk suspension or firing.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html",
         "content": "New Jersey\u2019s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week.",
         "ranked": 29,
         "placed": "Abroad",
@@ -1008,14 +1008,14 @@
                 "Massachusetts",
                 "Washington (State)"
             ],
-            "short_news_url": "https://nyti.ms/3AXWQCv"
+            "short_news_news_url": "https://nyti.ms/3AXWQCv"
         }
     },
     {
         "title": "Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html",
         "content": "",
         "ranked": 30,
         "placed": "Abroad",
@@ -1034,14 +1034,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3GbMJOi"
+            "short_news_news_url": "https://nyti.ms/3GbMJOi"
         }
     },
     {
         "title": "On a Pacific Island, Russia Tests Its Battle Plan for Climate Change",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html",
         "content": "President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course.",
         "ranked": 31,
         "placed": "Abroad",
@@ -1077,14 +1077,14 @@
                 "Arctic Regions",
                 "Russia"
             ],
-            "short_news_url": "https://nyti.ms/2ZbyUhX"
+            "short_news_news_url": "https://nyti.ms/2ZbyUhX"
         }
     },
     {
         "title": "Those Gifts You Want for the Holidays? Don\u2019t Wait Too Long.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html",
         "content": "The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore.",
         "ranked": 32,
         "placed": "Abroad",
@@ -1109,14 +1109,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3phE3zB"
+            "short_news_news_url": "https://nyti.ms/3phE3zB"
         }
     },
     {
         "title": "After Del Rio, Calls for Fairer Treatment of Black Migrants",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html",
         "content": "The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change.",
         "ranked": 33,
         "placed": "Abroad",
@@ -1153,7 +1153,7 @@
                 "Del Rio (Tex)",
                 "Haiti"
             ],
-            "short_news_url": "https://nyti.ms/2YZUlmh"
+            "short_news_news_url": "https://nyti.ms/2YZUlmh"
         }
     }
 ]

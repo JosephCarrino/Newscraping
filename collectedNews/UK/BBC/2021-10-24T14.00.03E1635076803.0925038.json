@@ -2,7 +2,7 @@
     {
         "title": "Colombia's most wanted drug lord captured",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "news_news_url": "https://www.bbc.com/news/world-latin-america-59026214",
         "content": "The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel.",
         "placed": "Abroad",
         "epoch": 1635076803.092208
@@ -10,7 +10,7 @@
     {
         "title": "Colombia's most wanted drug lord captured",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "news_news_url": "https://www.bbc.com/news/world-latin-america-59026214",
         "content": "The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel.",
         "placed": "Abroad",
         "epoch": 1635076803.0922341
@@ -18,7 +18,7 @@
     {
         "title": "Turkey moves to throw out US envoy and nine others",
         "date_raw": "2021-10-23",
-        "news_url": "https://www.bbc.com/news/world-europe-59023465",
+        "news_news_url": "https://www.bbc.com/news/world-europe-59023465",
         "content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
         "placed": "Abroad",
         "epoch": 1635076803.0922534
@@ -26,7 +26,7 @@
     {
         "title": "Deadly explosion at Uganda bar after terror warning",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-africa-59028210",
+        "news_news_url": "https://www.bbc.com/news/world-africa-59028210",
         "content": "The suspected terrorist bombing comes a week after the UK warned about a possible attack.",
         "placed": "Abroad",
         "epoch": 1635076803.09227
@@ -34,7 +34,7 @@
     {
         "title": "Injured filmmaker 'gutted' at movie set death",
         "date_raw": "2021-10-23",
-        "news_url": "https://www.bbc.com/news/world-us-canada-59024820",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59024820",
         "content": "Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins.",
         "placed": "Abroad",
         "epoch": 1635076803.0922854
@@ -42,7 +42,7 @@
     {
         "title": "Gravedigger's love story wins African film prize",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-africa-59027682",
+        "news_news_url": "https://www.bbc.com/news/world-africa-59027682",
         "content": "Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one.",
         "placed": "Abroad",
         "epoch": 1635076803.0923011
@@ -50,7 +50,7 @@
     {
         "title": "Picasso works fetch nearly $110m in Las Vegas sale",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-us-canada-59026220",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59026220",
         "content": "The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio Hotel.",
         "placed": "Abroad",
         "epoch": 1635076803.0923157
@@ -58,7 +58,7 @@
     {
         "title": "Record-breaking ferris wheel opens in Dubai",
         "date_raw": "",
-        "news_url": "https://www.bbc.com/news/world-middle-east-59024669",
+        "news_news_url": "https://www.bbc.com/news/world-middle-east-59024669",
         "content": "The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion.",
         "placed": "Abroad",
         "epoch": 1635076803.0923276
@@ -66,7 +66,7 @@
     {
         "title": "Colombia's most wanted drug lord captured",
         "date_raw": "2021-10-23",
-        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "news_news_url": "https://www.bbc.com/news/world-latin-america-59026214",
         "content": "The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel.",
         "placed": "Abroad",
         "epoch": 1635076803.0923424
@@ -74,7 +74,7 @@
     {
         "title": "Turkey moves to throw out US envoy and nine others",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-europe-59023465",
+        "news_news_url": "https://www.bbc.com/news/world-europe-59023465",
         "content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
         "placed": "Abroad",
         "epoch": 1635076803.0923572
@@ -82,7 +82,7 @@
     {
         "title": "Deadly explosion at Uganda bar after terror warning",
         "date_raw": "2021-10-23",
-        "news_url": "https://www.bbc.com/news/world-africa-59028210",
+        "news_news_url": "https://www.bbc.com/news/world-africa-59028210",
         "content": "The suspected terrorist bombing comes a week after the UK warned about a possible attack.",
         "placed": "Abroad",
         "epoch": 1635076803.0923712
@@ -90,7 +90,7 @@
     {
         "title": "Injured filmmaker 'gutted' at movie set death",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-us-canada-59024820",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59024820",
         "content": "Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins.",
         "placed": "Abroad",
         "epoch": 1635076803.0923853
@@ -98,7 +98,7 @@
     {
         "title": "Gravedigger's love story wins African film prize",
         "date_raw": "2021-10-23",
-        "news_url": "https://www.bbc.com/news/world-africa-59027682",
+        "news_news_url": "https://www.bbc.com/news/world-africa-59027682",
         "content": "Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one.",
         "placed": "Abroad",
         "epoch": 1635076803.0923996
@@ -106,7 +106,7 @@
     {
         "title": "Picasso works fetch nearly $110m in Las Vegas sale",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-us-canada-59026220",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59026220",
         "content": "The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio Hotel.",
         "placed": "Abroad",
         "epoch": 1635076803.0924137
@@ -114,7 +114,7 @@
     {
         "title": "Record-breaking ferris wheel opens in Dubai",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-middle-east-59024669",
+        "news_news_url": "https://www.bbc.com/news/world-middle-east-59024669",
         "content": "The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion.",
         "placed": "Abroad",
         "epoch": 1635076803.0924275
@@ -122,7 +122,7 @@
     {
         "title": "Turkey moves to throw out US envoy and nine others",
         "date_raw": "",
-        "news_url": "https://www.bbc.com/news/world-europe-59023465",
+        "news_news_url": "https://www.bbc.com/news/world-europe-59023465",
         "content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
         "placed": "Abroad",
         "epoch": 1635076803.0924475
@@ -130,7 +130,7 @@
     {
         "title": "Deadly explosion at Uganda bar after terror warning",
         "date_raw": "2021-10-23",
-        "news_url": "https://www.bbc.com/news/world-africa-59028210",
+        "news_news_url": "https://www.bbc.com/news/world-africa-59028210",
         "content": "The suspected terrorist bombing comes a week after the UK warned about a possible attack.",
         "placed": "Abroad",
         "epoch": 1635076803.0924628
@@ -138,7 +138,7 @@
     {
         "title": "Injured filmmaker 'gutted' at movie set death",
         "date_raw": "2021-10-23",
-        "news_url": "https://www.bbc.com/news/world-us-canada-59024820",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59024820",
         "content": "Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins.",
         "placed": "Abroad",
         "epoch": 1635076803.0924902

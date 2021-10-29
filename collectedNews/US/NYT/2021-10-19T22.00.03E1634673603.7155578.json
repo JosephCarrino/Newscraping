@@ -3,7 +3,7 @@
         "title": "Kidnappers in Haiti Demand $17 Million to Free Missionary Group",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html",
         "content": "A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian.",
         "ranked": 0,
         "placed": "Abroad",
@@ -30,14 +30,14 @@
             "geo_facet": [
                 "Port-au-Prince (Haiti)"
             ],
-            "short_news_url": "https://nyti.ms/3DW3mvq"
+            "short_news_news_url": "https://nyti.ms/3DW3mvq"
         }
     },
     {
         "title": "Brazilian Leader\u2019s Pandemic Handling Draws Explosive Allegation: Homicide",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-pandemic-investigation-brazil.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-pandemic-investigation-brazil.html",
         "content": "A long-awaited report from Brazil\u2019s Senate concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity.",
         "ranked": 1,
         "placed": "Abroad",
@@ -67,14 +67,14 @@
             "geo_facet": [
                 "Brazil"
             ],
-            "short_news_url": "https://nyti.ms/3BYoMYc"
+            "short_news_news_url": "https://nyti.ms/3BYoMYc"
         }
     },
     {
         "title": "Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html",
         "content": "For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow.",
         "ranked": 2,
         "placed": "Abroad",
@@ -102,14 +102,14 @@
             "geo_facet": [
                 "Myanmar"
             ],
-            "short_news_url": "https://nyti.ms/2Z1IvYT"
+            "short_news_news_url": "https://nyti.ms/2Z1IvYT"
         }
     },
     {
         "title": "They Fought Apartheid in South Africa. Now They Want Veterans\u2019 Benefits.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html",
         "content": "A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country\u2019s defense minister.",
         "ranked": 3,
         "placed": "Abroad",
@@ -139,14 +139,14 @@
             "geo_facet": [
                 "South Africa"
             ],
-            "short_news_url": "https://nyti.ms/3DWszWt"
+            "short_news_news_url": "https://nyti.ms/3DWszWt"
         }
     },
     {
         "title": "These U.S. Veterans Won\u2019t Rest Until They\u2019ve Kept a Wartime Promise",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html",
         "content": "An informal network that includes former government and military officials is working around the clock to fulfill a pledge to save Afghans who put their lives on the line for America.",
         "ranked": 4,
         "placed": "Abroad",
@@ -173,14 +173,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3DQq48b"
+            "short_news_news_url": "https://nyti.ms/3DQq48b"
         }
     },
     {
         "title": "North Korea Tests First Submarine-Launched Missile in Two Years",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html",
         "content": "The launch came after special envoys gathered to discuss how to deal with Pyongyang\u2019s growing nuclear capabilities.",
         "ranked": 5,
         "placed": "Abroad",
@@ -210,14 +210,14 @@
             "geo_facet": [
                 "North Korea"
             ],
-            "short_news_url": "https://nyti.ms/3BYgCPm"
+            "short_news_news_url": "https://nyti.ms/3BYgCPm"
         }
     },
     {
         "title": "Taliban Allow Polio Vaccine Program to Restart in Afghanistan",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html",
         "content": "Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF.",
         "ranked": 6,
         "placed": "Abroad",
@@ -245,14 +245,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3AQe2JT"
+            "short_news_news_url": "https://nyti.ms/3AQe2JT"
         }
     },
     {
         "title": "On a Pacific Island, Russia Tests Its Battle Plan on Climate Change",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html",
         "content": "President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course.",
         "ranked": 7,
         "placed": "Abroad",
@@ -288,14 +288,14 @@
                 "Arctic Regions",
                 "Russia"
             ],
-            "short_news_url": "https://nyti.ms/2ZbyUhX"
+            "short_news_news_url": "https://nyti.ms/2ZbyUhX"
         }
     },
     {
         "title": "A Warning That Africa\u2019s Last Glaciers Will Soon Vanish",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html",
         "content": "While African nations contribute less than 4 percent of global greenhouse gas emissions, a U.N. report underscored the outsize impact that climate change is having on the continent.",
         "ranked": 8,
         "placed": "Abroad",
@@ -325,14 +325,14 @@
             "geo_facet": [
                 "Africa"
             ],
-            "short_news_url": "https://nyti.ms/3n6WwMI"
+            "short_news_news_url": "https://nyti.ms/3n6WwMI"
         }
     },
     {
         "title": "F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html",
         "content": "The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate.",
         "ranked": 9,
         "placed": "Abroad",
@@ -364,14 +364,14 @@
                 "Haiti",
                 "Port-au-Prince (Haiti)"
             ],
-            "short_news_url": "https://nyti.ms/2XpmfHx"
+            "short_news_news_url": "https://nyti.ms/2XpmfHx"
         }
     },
     {
         "title": "Hello? This Is Colombia\u2019s Antimachismo Hotline.",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html",
         "content": "A new hotline in Bogot\u00e1 takes calls from men struggling with jealousy, control and fear \u2014 and challenges long-held assumptions about masculinity.",
         "ranked": 10,
         "placed": "Abroad",
@@ -401,14 +401,14 @@
                 "Bogota (Colombia)",
                 "Colombia"
             ],
-            "short_news_url": "https://nyti.ms/3DMdHK4"
+            "short_news_news_url": "https://nyti.ms/3DMdHK4"
         }
     },
     {
         "title": "Apathy and Wariness of Kremlin Leave Russians Unvaccinated",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html",
         "content": "The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate.",
         "ranked": 11,
         "placed": "Abroad",
@@ -436,14 +436,14 @@
                 "Russia",
                 "Moscow (Russia)"
             ],
-            "short_news_url": "https://nyti.ms/3pjE9ah"
+            "short_news_news_url": "https://nyti.ms/3pjE9ah"
         }
     },
     {
         "title": "Ecuador\u2019s President Declares State of Emergency to Battle Crime",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html",
         "content": "Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes.",
         "ranked": 12,
         "placed": "Abroad",
@@ -470,14 +470,14 @@
             "geo_facet": [
                 "Ecuador"
             ],
-            "short_news_url": "https://nyti.ms/2XoUX3U"
+            "short_news_news_url": "https://nyti.ms/2XoUX3U"
         }
     },
     {
         "title": "In Hungary\u2019s Heartland, Orban Faces a Unified Challenge to His Rule",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html",
         "content": "The country\u2019s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade.",
         "ranked": 13,
         "placed": "Abroad",
@@ -510,14 +510,14 @@
                 "Hodmezovasarhely (Hungary)",
                 "Hungary"
             ],
-            "short_news_url": "https://nyti.ms/3BSC08F"
+            "short_news_news_url": "https://nyti.ms/3BSC08F"
         }
     },
     {
         "title": "Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html",
         "content": "In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen.",
         "ranked": 14,
         "placed": "Abroad",
@@ -544,14 +544,14 @@
                 "Biden, Joseph R Jr"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3jhFwCg"
+            "short_news_news_url": "https://nyti.ms/3jhFwCg"
         }
     },
     {
         "title": "Attendance falls for homeless students in N.Y.C., in part because of the pandemic, a study shows.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html",
         "content": "Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students.",
         "ranked": 15,
         "placed": "Abroad",
@@ -576,14 +576,14 @@
             "geo_facet": [
                 "New York City"
             ],
-            "short_news_url": "https://nyti.ms/2YXkYaZ"
+            "short_news_news_url": "https://nyti.ms/2YXkYaZ"
         }
     },
     {
         "title": "Covid deaths soar in Ukraine as the country struggles with fake vaccine certificates.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html",
         "content": "In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine\u2019s fight against the virus.",
         "ranked": 16,
         "placed": "Abroad",
@@ -609,14 +609,14 @@
             "geo_facet": [
                 "Ukraine"
             ],
-            "short_news_url": "https://nyti.ms/3n7zzcb"
+            "short_news_news_url": "https://nyti.ms/3n7zzcb"
         }
     },
     {
         "title": "Mix-and-Match Covid Boosters: Why They Just Might Work",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html",
         "content": "The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising.",
         "ranked": 17,
         "placed": "Abroad",
@@ -647,14 +647,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3G4Rklo"
+            "short_news_news_url": "https://nyti.ms/3G4Rklo"
         }
     },
     {
         "title": "The Threat, in Perspective",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html",
         "content": "Colin Powell\u2019s death highlights the continuing Covid risks to older people with medical conditions.",
         "ranked": 18,
         "placed": "Abroad",
@@ -673,14 +673,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3BUVdGQ"
+            "short_news_news_url": "https://nyti.ms/3BUVdGQ"
         }
     },
     {
         "title": "Unvaccinated public employees in Washington and Massachusetts now risk suspension or firing.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html",
         "content": "New Jersey\u2019s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week.",
         "ranked": 19,
         "placed": "Abroad",
@@ -713,14 +713,14 @@
                 "Massachusetts",
                 "Washington (State)"
             ],
-            "short_news_url": "https://nyti.ms/3AXWQCv"
+            "short_news_news_url": "https://nyti.ms/3AXWQCv"
         }
     },
     {
         "title": "Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html",
         "content": "",
         "ranked": 20,
         "placed": "Abroad",
@@ -739,14 +739,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3GbMJOi"
+            "short_news_news_url": "https://nyti.ms/3GbMJOi"
         }
     },
     {
         "title": "Those Gifts You Want for the Holidays? Don\u2019t Wait Too Long.",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html",
         "content": "The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore.",
         "ranked": 21,
         "placed": "Abroad",
@@ -771,14 +771,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3phE3zB"
+            "short_news_news_url": "https://nyti.ms/3phE3zB"
         }
     },
     {
         "title": "After Del Rio, Calls for Fairer Treatment of Black Migrants",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html",
         "content": "The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change.",
         "ranked": 22,
         "placed": "Abroad",
@@ -815,14 +815,14 @@
                 "Del Rio (Tex)",
                 "Haiti"
             ],
-            "short_news_url": "https://nyti.ms/2YZUlmh"
+            "short_news_news_url": "https://nyti.ms/2YZUlmh"
         }
     },
     {
         "title": "Tuberculosis, Like Covid, Spreads by Breathing, Scientists Report",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html",
         "content": "The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission.",
         "ranked": 23,
         "placed": "Abroad",
@@ -850,14 +850,14 @@
             "geo_facet": [
                 "South Africa"
             ],
-            "short_news_url": "https://nyti.ms/30vpkqw"
+            "short_news_news_url": "https://nyti.ms/30vpkqw"
         }
     },
     {
         "title": "Your Tuesday Briefing",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html",
         "content": "Efforts to recover a kidnapped group in Haiti.",
         "ranked": 24,
         "placed": "Abroad",
@@ -876,14 +876,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/2YZfZHj"
+            "short_news_news_url": "https://nyti.ms/2YZfZHj"
         }
     },
     {
         "title": "In Norway Attack, \u2018Sharp Object,\u2019 Not Arrows, Killed 5, Police Say",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html",
         "content": "The Norwegian police on Monday said that while a hunting bow had been used in last week\u2019s rampage, the victims, four women and a man, were stabbed to death.",
         "ranked": 25,
         "placed": "Abroad",
@@ -911,14 +911,14 @@
                 "Kongsberg (Norway)",
                 "Norway"
             ],
-            "short_news_url": "https://nyti.ms/3FZccdC"
+            "short_news_news_url": "https://nyti.ms/3FZccdC"
         }
     },
     {
         "title": "Diver Discovers 900-Year-Old Sword Dating to the Crusades",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html",
         "content": "The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said.",
         "ranked": 26,
         "placed": "Abroad",
@@ -946,14 +946,14 @@
             "geo_facet": [
                 "Israel"
             ],
-            "short_news_url": "https://nyti.ms/3aOIOZ5"
+            "short_news_news_url": "https://nyti.ms/3aOIOZ5"
         }
     },
     {
         "title": "What Scientists Know About the Risk of Breakthrough Covid Deaths",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/health/coronavirus-vaccine-powell-breakthrough.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/health/coronavirus-vaccine-powell-breakthrough.html",
         "content": "Deaths among people who have been fully vaccinated remain rare, but older adults and those with compromised immune systems are at much higher risk.",
         "ranked": 27,
         "placed": "Abroad",
@@ -986,14 +986,14 @@
                 "Powell, Colin L"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3mZ5ADm"
+            "short_news_news_url": "https://nyti.ms/3mZ5ADm"
         }
     },
     {
         "title": "Zalmay Khalilzad, Biden\u2019s Envoy for Afghanistan, Steps Down",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html",
         "content": "An Afghan American and a rare Trump appointee who survived into the Biden administration, Mr. Khalilzad played a central role in the U.S. exit from the country.",
         "ranked": 28,
         "placed": "Abroad",
@@ -1028,14 +1028,14 @@
             "geo_facet": [
                 "Afghanistan"
             ],
-            "short_news_url": "https://nyti.ms/3lQNjIR"
+            "short_news_news_url": "https://nyti.ms/3lQNjIR"
         }
     },
     {
         "title": "Your Tuesday Briefing",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html",
         "content": "Russia hits a Covid death record.",
         "ranked": 29,
         "placed": "Abroad",
@@ -1054,14 +1054,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3BUbXhF"
+            "short_news_news_url": "https://nyti.ms/3BUbXhF"
         }
     },
     {
         "title": "U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html",
         "content": "Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week.",
         "ranked": 30,
         "placed": "Abroad",
@@ -1095,14 +1095,14 @@
             "geo_facet": [
                 "Great Britain"
             ],
-            "short_news_url": "https://nyti.ms/3jdSmS7"
+            "short_news_news_url": "https://nyti.ms/3jdSmS7"
         }
     },
     {
         "title": "An Official Wizard in New Zealand Loses His Job",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/australia/christchurch-new-zealand-wizard.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/australia/christchurch-new-zealand-wizard.html",
         "content": "The city of Christchurch has paid Ian Brackenbury Channell, 88, about $10,000 per year since 1998 for \u201cacts of wizardry and other wizard-like services.\u201d But he has been condemned recently for his jokes about women.",
         "ranked": 31,
         "placed": "Abroad",
@@ -1130,14 +1130,14 @@
                 "Christchurch (New Zealand)",
                 "New Zealand"
             ],
-            "short_news_url": "https://nyti.ms/3jbyHC8"
+            "short_news_news_url": "https://nyti.ms/3jbyHC8"
         }
     },
     {
         "title": "Showdown Over Northern Ireland Has a Key Offstage Player: Biden",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/europe/ireland-biden-eu-uk.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/europe/ireland-biden-eu-uk.html",
         "content": "As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result.",
         "ranked": 32,
         "placed": "Abroad",
@@ -1169,14 +1169,14 @@
                 "Great Britain",
                 "United States"
             ],
-            "short_news_url": "https://nyti.ms/3DJYJEC"
+            "short_news_news_url": "https://nyti.ms/3DJYJEC"
         }
     },
     {
         "title": "Russia Breaks Diplomatic Ties With NATO",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html",
         "content": "Moscow\u2019s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries.",
         "ranked": 33,
         "placed": "Abroad",
@@ -1207,14 +1207,14 @@
                 "Moscow (Russia)",
                 "Brussels (Belgium)"
             ],
-            "short_news_url": "https://nyti.ms/3pigo27"
+            "short_news_news_url": "https://nyti.ms/3pigo27"
         }
     },
     {
         "title": "Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html",
         "content": "The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday.",
         "ranked": 34,
         "placed": "Abroad",
@@ -1246,14 +1246,14 @@
             "geo_facet": [
                 "Myanmar"
             ],
-            "short_news_url": "https://nyti.ms/3DT9qEK"
+            "short_news_news_url": "https://nyti.ms/3DT9qEK"
         }
     },
     {
         "title": "Colin Powell dies of complications from Covid.",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/world/colin-powell-dies-at-84-of-complications-from-covid.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/world/colin-powell-dies-at-84-of-complications-from-covid.html",
         "content": "",
         "ranked": 35,
         "placed": "Abroad",
@@ -1272,14 +1272,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3jdN5dg"
+            "short_news_news_url": "https://nyti.ms/3jdN5dg"
         }
     },
     {
         "title": "America\u2019s Cash Glut",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html",
         "content": "The economy is almost doing too well. But there are some problems.",
         "ranked": 36,
         "placed": "Abroad",
@@ -1298,7 +1298,7 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3ALKjBW"
+            "short_news_news_url": "https://nyti.ms/3ALKjBW"
         }
     }
 ]

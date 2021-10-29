@@ -1,0 +1,292 @@
+[
+    {
+        "title": "Compagnie Alias ÃÂ  GenÃÂ¨ve: abus et harcÃÂ¨lement sexuel sur des danseuses pendant plus de 20 ans",
+        "date_raw": "October 13, 2021",
+        "date": "2021-10-13",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/compagnie-alias-a-geneve-abus-et-harcelement-sexuel-sur-des-danseuses-pendant-plus-de-20-ans-25770051.html",
+        "duration": "02:32",
+        "ranked": 0,
+        "epoch": 1634562790.992051,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-13.json",
+        "en_title": "Compagnie Alias ââin Geneva: abuse and sexual harassment of dancers for more than 20 years",
+        "concepts": [
+            {
+                "word": "dancers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le Tribunal fÃÂ©dÃÂ©ral dÃÂ©savoue un activiste du climat acquittÃÂ© pour ÃÂ©tat de nÃÂ©cessitÃÂ© climatique",
+        "date_raw": "October 13, 2021",
+        "date": "2021-10-13",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-tribunal-federal-desavoue-un-activiste-du-climat-acquitte-pour-etat-de-necessite-climatique-25770052.html",
+        "duration": "01:36",
+        "ranked": 1,
+        "epoch": 1634562790.9920533,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-13.json",
+        "en_title": "Federal Court disapproves of climate activist acquitted of climate need",
+        "concepts": [
+            {
+                "word": "Court",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disapproves",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "activist",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Une nouvelle affaire dÃ¢ÂÂagression au couteau ÃÂ©branle la ville de Lausanne",
+        "date_raw": "October 13, 2021",
+        "date": "2021-10-13",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/une-nouvelle-affaire-d-agression-au-couteau-ebranle-la-ville-de-lausanne-25770054.html",
+        "duration": "01:26",
+        "ranked": 2,
+        "epoch": 1634562790.992055,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-13.json",
+        "en_title": "A new case of knife attack shakes the city of Lausanne",
+        "concepts": [
+            {
+                "word": "case",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "city",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Lausanne",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La Suva a ÃÂ©conomisÃÂ© 80 millions de francs en 2020 en refusant des factures mÃÂ©dicales injustifiÃÂ©es",
+        "date_raw": "October 13, 2021",
+        "date": "2021-10-13",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/la-suva-a-economise-80-millions-de-francs-en-2020-en-refusant-des-factures-medicales-injustifiees-25770057.html",
+        "duration": "04:37",
+        "ranked": 3,
+        "epoch": 1634562790.9920561,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-13.json",
+        "en_title": "Suva saved 80 million francs in 2020 by refusing unjustified medical bills",
+        "concepts": [
+            {
+                "word": "Suva",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "francs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "2020",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "bills",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Manifestation contre le pass sanitaire devant la rÃÂ©union du Conseil fÃÂ©dÃÂ©ral ÃÂ  Lucerne",
+        "date_raw": "October 13, 2021",
+        "date": "2021-10-13",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/manifestation-contre-le-pass-sanitaire-devant-la-reunion-du-conseil-federal-a-lucerne-25770053.html",
+        "duration": "01:27",
+        "ranked": 4,
+        "epoch": 1634562790.9920568,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-13.json",
+        "en_title": "Demonstration against the health pass in front of the Federal Council meeting in Lucerne",
+        "concepts": [
+            {
+                "word": "pass",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "front",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "meeting",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lucerne",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "NorvÃÂ¨ge: une partie du parc ÃÂ©olien Fosen Vind illÃÂ©gal car il empiÃÂ¨te sur des pÃÂ¢turages Sami",
+        "date_raw": "October 13, 2021",
+        "date": "2021-10-13",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/norvege-une-partie-du-parc-eolien-fosen-vind-illegal-car-il-empiete-sur-des-paturages-sami-25770056.html",
+        "duration": "01:34",
+        "ranked": 5,
+        "epoch": 1634562790.9920576,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-13.json",
+        "en_title": "Norway: part of Fosen Vind wind farm illegal because it encroaches on Sami pastures",
+        "concepts": [
+            {
+                "word": "Norway",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "farm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "it",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "pastures",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "SuÃÂ¨de: le forum international pour la mÃÂ©moire de lÃ¢ÂÂholocauste et le combat contre lÃ¢ÂÂantisÃÂ©mitisme s'ouvre ÃÂ  MÃÂ¤lmo",
+        "date_raw": "October 13, 2021",
+        "date": "2021-10-13",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/suede-le-forum-international-pour-la-memoire-de-l-holocauste-et-le-combat-contre-l-antisemitisme-s-ouvre-a-malmo-25770058.html",
+        "duration": "01:30",
+        "ranked": 6,
+        "epoch": 1634562790.9920585,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-13.json",
+        "en_title": "Sweden: International Forum for Holocaust Remembrance and the Fight Against Anti-Semitism opens in MÃÂ¤lmo",
+        "concepts": [
+            {
+                "word": "Remembrance",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Semitism",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MÃÂ¤lmo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "RenÃÂ© Langel, co-fondateur du Festival de Jazz de Montreux est dÃÂ©cÃÂ©dÃÂ© ÃÂ  97 ans: interview de Yvan Ischer",
+        "date_raw": "October 13, 2021",
+        "date": "2021-10-13",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/rene-langel-co-fondateur-du-festival-de-jazz-de-montreux-est-decede-a-97-ans-interview-de-yvan-ischer-25770063.html",
+        "duration": "02:56",
+        "ranked": 7,
+        "epoch": 1634562790.9920592,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-13.json",
+        "en_title": "RenÃ Â© Langel, co-founder of the Montreux Jazz Festival has died at the age of 97: interview with Yvan Ischer",
+        "concepts": [
+            {
+                "word": "Langel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Festival",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "age",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "interview",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ischer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "LÃ¢ÂÂinvitÃÂ© du 12h30 Ã¢ÂÂ Joseph Carlucci, photographe de rock pendant 45 ans",
+        "date_raw": "October 13, 2021",
+        "date": "2021-10-13",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-joseph-carlucci-photographe-de-rock-pendant-45-ans-25770064.html",
+        "duration": "09:15",
+        "ranked": 8,
+        "epoch": 1634562790.99206,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-13.json",
+        "en_title": "The 12:30 pm guest Ã¢ â¬ âJoseph Carlucci, rock photographer for 45 years",
+        "concepts": [
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

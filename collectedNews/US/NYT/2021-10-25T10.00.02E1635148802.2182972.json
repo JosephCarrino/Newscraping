@@ -3,7 +3,7 @@
         "title": "Nuclear Fusion Edges Toward the Mainstream",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/business/fusion-energy.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/business/fusion-energy.html",
         "content": "Long-shot money is flowing into start-ups that seek the energy of the stars. Driving the investments is a rising alarm about global warming.",
         "ranked": 0,
         "placed": "First_Page",
@@ -34,14 +34,14 @@
             "geo_facet": [
                 "Great Britain"
             ],
-            "short_news_url": "https://nyti.ms/3vkcnes"
+            "short_news_news_url": "https://nyti.ms/3vkcnes"
         }
     },
     {
         "title": "Hotels Ponder a Puzzling Future",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/business/hotels-pandemic-options.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/business/hotels-pandemic-options.html",
         "content": "Across the industry, the pandemic forced changes that may have to become permanent if the industry is to fully rebound.",
         "ranked": 1,
         "placed": "First_Page",
@@ -82,14 +82,14 @@
                 "New York City",
                 "United States"
             ],
-            "short_news_url": "https://nyti.ms/3DOGJsw"
+            "short_news_news_url": "https://nyti.ms/3DOGJsw"
         }
     },
     {
         "title": "A Showdown in Chicago",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_url": "https://www.nytimes.com/2021/10/21/podcasts/the-daily/vaccine-mandates-chicago-lori-lightfoot-police-union.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/podcasts/the-daily/vaccine-mandates-chicago-lori-lightfoot-police-union.html",
         "content": "Vaccine mandates are being met with resistance from many police departments in the U.S. Here\u2019s how that tension is playing out in one city.",
         "ranked": 2,
         "placed": "First_Page",
@@ -117,14 +117,14 @@
                 "Lightfoot, Lori"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3jmmGdn"
+            "short_news_news_url": "https://nyti.ms/3jmmGdn"
         }
     },
     {
         "title": "What\u2019s the Best Way to Sublet My Apartment?",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_url": "https://www.nytimes.com/2021/10/23/realestate/whats-the-best-way-to-sublet-my-apartment.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/23/realestate/whats-the-best-way-to-sublet-my-apartment.html",
         "content": "Subletting an apartment in New York requires the landlord\u2019s permission, and comes with a level of risk than may not be worth the rent you collect.",
         "ranked": 3,
         "placed": "First_Page",
@@ -146,14 +146,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/2Zkl7FO"
+            "short_news_news_url": "https://nyti.ms/2Zkl7FO"
         }
     },
     {
         "title": "Texas Nurse Is Found Guilty of Killing 4 Patients by Injecting Them With Air",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/us/texas-nurse-air-injections.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/us/texas-nurse-air-injections.html",
         "content": "William Davis \u2014 who worked at Christus Mother Frances Hospital in Tyler, Texas \u2014 could face the death penalty. The victims had undergone heart surgery.",
         "ranked": 4,
         "placed": "First_Page",
@@ -185,14 +185,14 @@
                 "Tyler (Tex)",
                 "Texas"
             ],
-            "short_news_url": "https://nyti.ms/3DWBFmb"
+            "short_news_news_url": "https://nyti.ms/3DWBFmb"
         }
     },
     {
         "title": "Alec Baldwin Was Rehearsing Pointing Gun at Camera, Affidavit Says",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_url": "https://www.nytimes.com/2021/10/24/arts/baldwin-shooting-details.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/arts/baldwin-shooting-details.html",
         "content": "The director of \u201cRust\u201d gave the authorities the most detailed account yet of how the actor fatally shot the film\u2019s cinematographer.",
         "ranked": 5,
         "placed": "First_Page",
@@ -218,14 +218,14 @@
                 "Souza, Joel (1973- )"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/2Zia5RL"
+            "short_news_news_url": "https://nyti.ms/2Zia5RL"
         }
     },
     {
         "title": "Their Jobs Made Them Get Vaccinated. They Refused.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
         "content": "The willingness of some workers to give up their livelihoods helps explain the country\u2019s struggle to contain the pandemic.",
         "ranked": 6,
         "placed": "First_Page",
@@ -255,14 +255,14 @@
                 "New York City",
                 "New York State"
             ],
-            "short_news_url": "https://nyti.ms/3GrMxuv"
+            "short_news_news_url": "https://nyti.ms/3GrMxuv"
         }
     },
     {
         "title": "Where Facts Were No Match for Fear",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
         "content": "Civic boosters in central Montana hoped for some federal money to promote tourism. A disinformation campaign got in the way.",
         "ranked": 7,
         "placed": "First_Page",
@@ -295,14 +295,14 @@
                 "Great Falls (Mont)",
                 "Montana"
             ],
-            "short_news_url": "https://nyti.ms/3EawhvP"
+            "short_news_news_url": "https://nyti.ms/3EawhvP"
         }
     },
     {
         "title": "The Rotten Core of the Republican Party",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_url": "https://www.nytimes.com/2021/10/24/opinion/republicans-tax-evasion.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/opinion/republicans-tax-evasion.html",
         "content": "By enabling resistance to lawful taxation, Republicans are undermining democracy.",
         "ranked": 8,
         "placed": "First_Page",
@@ -329,7 +329,7 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3Gj8Rq0"
+            "short_news_news_url": "https://nyti.ms/3Gj8Rq0"
         }
     }
 ]

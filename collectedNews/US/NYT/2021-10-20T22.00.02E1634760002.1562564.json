@@ -3,7 +3,7 @@
         "title": "Trump Is Interviewed for 4.5 Hours in Protesters\u2019 Lawsuit",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/nyregion/trump-protest-lawsuit-testimony.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/nyregion/trump-protest-lawsuit-testimony.html",
         "content": "The former president was deposed as part of a lawsuit accusing his security guards of roughing up protesters in 2015.",
         "ranked": 0,
         "placed": "First_Page",
@@ -34,14 +34,14 @@
             "geo_facet": [
                 "Manhattan (NYC)"
             ],
-            "short_news_url": "https://nyti.ms/3piZqRh"
+            "short_news_news_url": "https://nyti.ms/3piZqRh"
         }
     },
     {
         "title": "Adam Schiff: What He Saw at the Trump Revolution",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/books/review/adam-schiff-midnight-in-washington.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/books/review/adam-schiff-midnight-in-washington.html",
         "content": "Schiff\u2019s \u201cMidnight in Washington\u201d is that rare memoir by a politician that actually has something to say.",
         "ranked": 1,
         "placed": "First_Page",
@@ -72,14 +72,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3aUww1k"
+            "short_news_news_url": "https://nyti.ms/3aUww1k"
         }
     },
     {
         "title": "Jury Acquits Protester Accused in Assault on Wisconsin Lawmaker",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/us/kerida-o-reilly-tim-carpenter-attack-blm.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/us/kerida-o-reilly-tim-carpenter-attack-blm.html",
         "content": "Kerida O\u2019Reilly, 34, had been accused of attacking State Senator Tim Carpenter at a Black Lives Matter protest, prompting others nearby to attack him.",
         "ranked": 2,
         "placed": "First_Page",
@@ -105,14 +105,14 @@
                 "Madison (Wis)",
                 "Milwaukee (Wis)"
             ],
-            "short_news_url": "https://nyti.ms/3C1H2Qg"
+            "short_news_news_url": "https://nyti.ms/3C1H2Qg"
         }
     },
     {
         "title": "A New Meaning to \u2018Working in the Garden\u2019",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/business/home-office-garden.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/business/home-office-garden.html",
         "content": "With the work-at-home lifestyle likely here to stay, people are taking things outdoors, creating spaces meant for privacy and comfort.",
         "ranked": 3,
         "placed": "First_Page",
@@ -142,14 +142,14 @@
                 "Great Britain",
                 "London (England)"
             ],
-            "short_news_url": "https://nyti.ms/3DOLpyG"
+            "short_news_news_url": "https://nyti.ms/3DOLpyG"
         }
     },
     {
         "title": "A Strikeout That Wasn\u2019t Lets the Astros Back Into A.L.C.S.",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/sports/baseball/red-sox-astros-alcs-game-4.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/sports/baseball/red-sox-astros-alcs-game-4.html",
         "content": "With two outs in the ninth, Nathan Eovaldi thought he had a strike three. Laz Diaz disagreed and by the time the dust settled, Houston had scored seven runs, tying the series.",
         "ranked": 4,
         "placed": "First_Page",
@@ -177,14 +177,14 @@
                 "Eovaldi, Nathan"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3aSxHOK"
+            "short_news_news_url": "https://nyti.ms/3aSxHOK"
         }
     },
     {
         "title": "Why Public Health Faces a Crisis Across the U.S.",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/us/coronavirus-public-health.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/us/coronavirus-public-health.html",
         "content": "An examination of hundreds of health departments around the country shows that the nation may be less prepared for the next pandemic than it was for the current one.",
         "ranked": 5,
         "placed": "First_Page",
@@ -221,14 +221,14 @@
                 "Wilson County (Kan)",
                 "Hot Springs County (Wyo)"
             ],
-            "short_news_url": "https://nyti.ms/3FV7Vry"
+            "short_news_news_url": "https://nyti.ms/3FV7Vry"
         }
     },
     {
         "title": "Colin Powell, Who Shaped U.S. National Security, Dies at 84",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/us/politics/colin-powell-dead.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/us/politics/colin-powell-dead.html",
         "content": "A former chairman of the Joint Chiefs of Staff, secretary of state and national security adviser, Mr. Powell died of complications of Covid-19, his family said.",
         "ranked": 6,
         "placed": "First_Page",
@@ -260,14 +260,14 @@
                 "Cheney, Dick"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3DLPF1U"
+            "short_news_news_url": "https://nyti.ms/3DLPF1U"
         }
     },
     {
         "title": "Inside the N.Y.C. Neighborhood With the Fastest Growing Asian Population",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/nyregion/long-island-city-asian-population.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/nyregion/long-island-city-asian-population.html",
         "content": "In a corner of Queens, a fivefold increase in Asian residents since 2010 is transforming the area\u2019s restaurants, housing and politics.",
         "ranked": 7,
         "placed": "First_Page",
@@ -297,14 +297,14 @@
                 "Long Island City (Queens, NY)",
                 "New York City"
             ],
-            "short_news_url": "https://nyti.ms/3AT6NkD"
+            "short_news_news_url": "https://nyti.ms/3AT6NkD"
         }
     },
     {
         "title": "Elizabeth Diller Is Retelling Edmund de Waal\u2019s Story \u2014 and Her Own",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/arts/design/hare-with-amber-eyes-jewish-museum.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/arts/design/hare-with-amber-eyes-jewish-museum.html",
         "content": "Designing a show at the Jewish Museum in New York has illuminated corners of hidden history in her life, the architect says. \u201cEdmund dug into his past. I didn\u2019t. I couldn\u2019t bear it.\u201d",
         "ranked": 8,
         "placed": "First_Page",
@@ -335,7 +335,7 @@
                 "Diller, Elizabeth"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3n3F5Na"
+            "short_news_news_url": "https://nyti.ms/3n3F5Na"
         }
     }
 ]

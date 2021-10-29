@@ -3,7 +3,7 @@
         "title": "Trump Is Interviewed for 4.5 Hours in Protesters\u2019 Lawsuit",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/nyregion/trump-protest-lawsuit-testimony.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/nyregion/trump-protest-lawsuit-testimony.html",
         "content": "The former president was deposed as part of a lawsuit accusing his security guards of roughing up protesters in 2015.",
         "ranked": 0,
         "placed": "First_Page",
@@ -34,14 +34,14 @@
             "geo_facet": [
                 "Manhattan (NYC)"
             ],
-            "short_news_url": "https://nyti.ms/3piZqRh"
+            "short_news_news_url": "https://nyti.ms/3piZqRh"
         }
     },
     {
         "title": "Adam Schiff: What He Saw at the Trump Revolution",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/books/review/adam-schiff-midnight-in-washington.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/books/review/adam-schiff-midnight-in-washington.html",
         "content": "Schiff\u2019s \u201cMidnight in Washington\u201d is that rare memoir by a politician that actually has something to say.",
         "ranked": 1,
         "placed": "First_Page",
@@ -72,14 +72,14 @@
                 "Trump, Donald J"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3aUww1k"
+            "short_news_news_url": "https://nyti.ms/3aUww1k"
         }
     },
     {
         "title": "Brooklyn Lawyers Plead Guilty in Firebomb Case",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/nyregion/george-floyd-protests-lawyers-plea-deal.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/nyregion/george-floyd-protests-lawyers-plea-deal.html",
         "content": "Colinford Mattis and Urooj Rahman expressed regret for the attack on a police car in May 2020. Each could face 10 years in prison.",
         "ranked": 2,
         "placed": "First_Page",
@@ -112,14 +112,14 @@
             "geo_facet": [
                 "Brooklyn (NYC)"
             ],
-            "short_news_url": "https://nyti.ms/3pluujq"
+            "short_news_news_url": "https://nyti.ms/3pluujq"
         }
     },
     {
         "title": "Queen \u2018Reluctantly\u2019 Cancels Trip, Citing Medical Advice",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html",
         "content": "Britain\u2019s 95-year-old monarch will not travel to Northern Ireland but is \u201cin good spirits,\u201d Buckingham Palace said.",
         "ranked": 3,
         "placed": "First_Page",
@@ -143,14 +143,14 @@
                 "Northern Ireland",
                 "Great Britain"
             ],
-            "short_news_url": "https://nyti.ms/3C2PVcC"
+            "short_news_news_url": "https://nyti.ms/3C2PVcC"
         }
     },
     {
         "title": "A New Meaning to \u2018Working in the Garden\u2019",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/business/home-office-garden.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/business/home-office-garden.html",
         "content": "With the work-at-home lifestyle likely here to stay, people are taking things outdoors, creating spaces meant for privacy and comfort.",
         "ranked": 4,
         "placed": "First_Page",
@@ -180,14 +180,14 @@
                 "Great Britain",
                 "London (England)"
             ],
-            "short_news_url": "https://nyti.ms/3DOLpyG"
+            "short_news_news_url": "https://nyti.ms/3DOLpyG"
         }
     },
     {
         "title": "The True Cost of Upgrading Your Phone",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/technology/personaltech/iphone-upgrades-cost.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/technology/personaltech/iphone-upgrades-cost.html",
         "content": "Buying a $1,000 iPhone can be equivalent to giving up $17,000 in retirement savings or 2,500 cups of coffee.",
         "ranked": 5,
         "placed": "First_Page",
@@ -219,14 +219,14 @@
                 "Orman, Suze"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3m6HM1j"
+            "short_news_news_url": "https://nyti.ms/3m6HM1j"
         }
     },
     {
         "title": "Vikings Were in the Americas Exactly 1,000 Years Ago",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
         "content": "By studying tree rings and using a dash of astrophysics, researchers have pinned down a precise year that settlers from Europe were on land that would come to be known as Newfoundland.",
         "ranked": 6,
         "placed": "First_Page",
@@ -258,14 +258,14 @@
                 "Newfoundland (Canada)",
                 "Canada"
             ],
-            "short_news_url": "https://nyti.ms/3jkQrey"
+            "short_news_news_url": "https://nyti.ms/3jkQrey"
         }
     },
     {
         "title": "Trump Organization, Already Under Indictment, Faces New Criminal Inquiry",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
         "content": "The investigation, by the Westchester County district attorney\u2019s office, increases the legal scrutiny of the former president and his family business.",
         "ranked": 7,
         "placed": "First_Page",
@@ -302,14 +302,14 @@
                 "Ossining (NY)",
                 "Westchester County (NY)"
             ],
-            "short_news_url": "https://nyti.ms/2Z3McwO"
+            "short_news_news_url": "https://nyti.ms/2Z3McwO"
         }
     },
     {
         "title": "It\u2019s Quitting Season",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/opinion/quitting-jobs-resignation-employment.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/opinion/quitting-jobs-resignation-employment.html",
         "content": "Time to stop being a martyr to grit.",
         "ranked": 8,
         "placed": "First_Page",
@@ -333,7 +333,7 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/2Z3MhR8"
+            "short_news_news_url": "https://nyti.ms/2Z3MhR8"
         }
     }
 ]

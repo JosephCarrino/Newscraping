@@ -1,0 +1,297 @@
+[
+    {
+        "title": "Le Nobel de mÃÂ©decine dÃÂ©cernÃÂ© ÃÂ  deux AmÃÂ©ricains pour leurs recherches sur le systÃÂ¨me nerveux",
+        "date_raw": "October 04, 2021",
+        "date": "2021-10-04",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-nobel-de-medecine-decerne-a-deux-americains-pour-leurs-recherches-sur-le-systeme-nerveux-25767540.html",
+        "duration": "01:14",
+        "ranked": 0,
+        "epoch": 1635022807.910256,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-04.json",
+        "en_title": "Nobel Prize in Medicine awarded to two Americans for their research on the nervous system",
+        "concepts": [
+            {
+                "word": "Prize",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Medicine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Americans",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "research",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "system",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ouverture d'un procÃÂ¨s gÃÂ©ant pour 5 promoteurs accusÃÂ©s d'escroquerie par 188 plaignants ÃÂ  GenÃÂ¨ve",
+        "date_raw": "October 04, 2021",
+        "date": "2021-10-04",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/ouverture-d-un-proces-geant-pour-5-promoteurs-accuses-d-escroquerie-par-188-plaignants-a-geneve-25767539.html",
+        "duration": "01:38",
+        "ranked": 1,
+        "epoch": 1635022807.9102583,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-04.json",
+        "en_title": "Opening of a giant lawsuit for 5 promoters accused of fraud by 188 plaintiffs in Geneva",
+        "concepts": [
+            {
+                "word": "lawsuit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "promoters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fraud",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "plaintiffs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Geneva",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "L'ancien Premier ministre anglais Tony Blair ÃÂ©pinglÃÂ© dans l'affaire des Pandora Papers",
+        "date_raw": "October 04, 2021",
+        "date": "2021-10-04",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-ancien-premier-ministre-anglais-tony-blair-epingle-dans-l-affaire-des-pandora-papers-25767542.html",
+        "duration": "01:32",
+        "ranked": 2,
+        "epoch": 1635022807.910259,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-04.json",
+        "en_title": "Former UK Prime Minister Tony Blair pinned down in Pandora Papers affair",
+        "concepts": [
+            {
+                "word": "Blair",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "affair",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le gigantesque gymnase de Burier a ÃÂ©tÃÂ© inaugurÃÂ© ce lundi",
+        "date_raw": "October 04, 2021",
+        "date": "2021-10-04",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-gigantesque-gymnase-de-burier-a-ete-inaugure-ce-lundi-25767544.html",
+        "duration": "02:10",
+        "ranked": 3,
+        "epoch": 1635022807.91026,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-04.json",
+        "en_title": "The gigantic Burier gymnasium was inaugurated on Monday",
+        "concepts": [
+            {
+                "word": "Monday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pandora et Panama Papers, du pareil au mÃÂªme? interview de Philippe Kenel",
+        "date_raw": "October 04, 2021",
+        "date": "2021-10-04",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/pandora-et-panama-papers-du-pareil-au-meme-interview-de-philippe-kenel-25767541.html",
+        "duration": "01:40",
+        "ranked": 4,
+        "epoch": 1635022807.9102607,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-04.json",
+        "en_title": "Pandora and Panama Papers, the same as the same? interview with Philippe Kenel",
+        "concepts": [
+            {
+                "word": "same",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Kenel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le gouvernement fribourgeois tire un bilan de lÃÂ©gislature positif malgrÃÂ© la pandÃÂ©mie",
+        "date_raw": "October 04, 2021",
+        "date": "2021-10-04",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-gouvernement-fribourgeois-tire-un-bilan-de-legislature-positif-malgre-la-pandemie-25767543.html",
+        "duration": "01:43",
+        "ranked": 5,
+        "epoch": 1635022807.9102614,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-04.json",
+        "en_title": "The Friborg government draws a positive legislative assessment despite the pandemic",
+        "concepts": [
+            {
+                "word": "government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "assessment",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "pandemic",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Les talibans refusent toujours l'accÃÂ¨s ÃÂ  l'ÃÂ©cole aux filles de plus de douze ans",
+        "date_raw": "October 04, 2021",
+        "date": "2021-10-04",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/les-talibans-refusent-toujours-l-acces-a-l-ecole-aux-filles-de-plus-de-douze-ans-25767546.html",
+        "duration": "01:59",
+        "ranked": 6,
+        "epoch": 1635022807.910262,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-04.json",
+        "en_title": "Taliban still denies girls over 12 access to school",
+        "concepts": [
+            {
+                "word": "Taliban",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "girls",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "access",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "school",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Quatre paysans indiens meurent renversÃÂ©s par le convoi d'un ministre fÃÂ©dÃÂ©ral",
+        "date_raw": "October 04, 2021",
+        "date": "2021-10-04",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/quatre-paysans-indiens-meurent-renverses-par-le-convoi-d-un-ministre-federal-25767551.html",
+        "duration": "01:28",
+        "ranked": 7,
+        "epoch": 1635022807.9102626,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-04.json",
+        "en_title": "Four Indian peasants die overthrown by federal minister's convoy",
+        "concepts": [
+            {
+                "word": "peasants",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "convoy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Un institut consacrÃÂ© au peintre suisse Ferdinand Hodler voit le jour ÃÂ  DelÃÂ©mont (JU)",
+        "date_raw": "October 04, 2021",
+        "date": "2021-10-04",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/un-institut-consacre-au-peintre-suisse-ferdinand-hodler-voit-le-jour-a-delemont-ju-25767549.html",
+        "duration": "02:33",
+        "ranked": 8,
+        "epoch": 1635022807.9102633,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-04.json",
+        "en_title": "An institute dedicated to the Swiss painter Ferdinand Hodler is born in DelÃ Â© mont (JU)",
+        "concepts": [
+            {
+                "word": "painter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "mont",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "L'invitÃÂ© du 12h30 - Le chanteur et rappeur Soprano prÃÂ©sente son nouvel album",
+        "date_raw": "October 04, 2021",
+        "date": "2021-10-04",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-le-chanteur-et-rappeur-soprano-presente-son-nouvel-album-25767559.html",
+        "duration": "11:29",
+        "ranked": 9,
+        "epoch": 1635022807.9102638,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-04.json",
+        "en_title": "The guest at 12:30 p.m. - Singer and rapper Soprano presents his new album",
+        "concepts": [
+            {
+                "word": "guest",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Singer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "album",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

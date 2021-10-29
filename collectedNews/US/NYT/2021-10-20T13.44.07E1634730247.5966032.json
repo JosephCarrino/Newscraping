@@ -3,7 +3,7 @@
         "title": "Queen \u2018Reluctantly\u2019 Cancels Trip, Citing Medical Advice",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html",
         "content": "Britain\u2019s 95-year-old monarch will not travel to Northern Ireland but is \u201cin good spirits,\u201d Buckingham Palace said.",
         "ranked": 0,
         "placed": "First_Page",
@@ -27,14 +27,14 @@
                 "Northern Ireland",
                 "Great Britain"
             ],
-            "short_news_url": "https://nyti.ms/3C2PVcC"
+            "short_news_news_url": "https://nyti.ms/3C2PVcC"
         }
     },
     {
         "title": "Britain Infected Volunteers With the Coronavirus. Why Won\u2019t the U.S.?",
         "date_raw": "October 14, 2021",
         "date": "2021-10-14",
-        "news_url": "https://www.nytimes.com/2021/10/14/opinion/covid-human-challenge-trial.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/14/opinion/covid-human-challenge-trial.html",
         "content": "The controversial history of human challenge trials.",
         "ranked": 1,
         "placed": "First_Page",
@@ -65,14 +65,14 @@
                 "Great Britain",
                 "United States"
             ],
-            "short_news_url": "https://nyti.ms/3aBuWBt"
+            "short_news_news_url": "https://nyti.ms/3aBuWBt"
         }
     },
     {
         "title": "Decoding Kyrsten Sinema\u2019s Style",
         "date_raw": "October 18, 2021",
         "date": "2021-10-18",
-        "news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/18/style/kyrsten-sinema-style.html",
         "content": "Sometimes a dress is just a dress. Sometimes it\u2019s a strategy.",
         "ranked": 2,
         "placed": "First_Page",
@@ -104,14 +104,14 @@
                 "Sinema, Kyrsten"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3n82nRS"
+            "short_news_news_url": "https://nyti.ms/3n82nRS"
         }
     },
     {
         "title": "Yardley, Pa.: An Affordable Option Between New York and Philadelphia",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/realestate/yardley-pa.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/realestate/yardley-pa.html",
         "content": "The borough across the Delaware River from Trenton, N.J., appeals to empty-nesters who like to walk and commuters seeking a bucolic locale.",
         "ranked": 3,
         "placed": "First_Page",
@@ -138,14 +138,14 @@
             "geo_facet": [
                 "Yardley (Pa.)"
             ],
-            "short_news_url": "https://nyti.ms/3aSeNrp"
+            "short_news_news_url": "https://nyti.ms/3aSeNrp"
         }
     },
     {
         "title": "As a Woman Was Raped, Train Riders Failed to Intervene, Police Say",
         "date_raw": "October 17, 2021",
         "date": "2021-10-17",
-        "news_url": "https://www.nytimes.com/2021/10/17/us/riders-watched-woman-raped-septa.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/17/us/riders-watched-woman-raped-septa.html",
         "content": "The SEPTA train car near Philadelphia had several passengers aboard but none called 911 while the woman was sexually assaulted, the authorities said.",
         "ranked": 4,
         "placed": "First_Page",
@@ -174,14 +174,14 @@
                 "Philadelphia (Pa)",
                 "Upper Darby (Pa)"
             ],
-            "short_news_url": "https://nyti.ms/3vjpDjw"
+            "short_news_news_url": "https://nyti.ms/3vjpDjw"
         }
     },
     {
         "title": "Trump Organization, Already Under Indictment, Faces New Criminal Inquiry",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/nyregion/trump-westchester-golf-club-investigation.html",
         "content": "The investigation, by the Westchester County district attorney\u2019s office, increases the legal scrutiny of the former president and his family business.",
         "ranked": 5,
         "placed": "First_Page",
@@ -218,14 +218,14 @@
                 "Ossining (NY)",
                 "Westchester County (NY)"
             ],
-            "short_news_url": "https://nyti.ms/2Z3McwO"
+            "short_news_news_url": "https://nyti.ms/2Z3McwO"
         }
     },
     {
         "title": "It\u2019s Quitting Season",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/opinion/quitting-jobs-resignation-employment.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/opinion/quitting-jobs-resignation-employment.html",
         "content": "Time to stop being a martyr to grit.",
         "ranked": 6,
         "placed": "First_Page",
@@ -249,14 +249,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/2Z3MhR8"
+            "short_news_news_url": "https://nyti.ms/2Z3MhR8"
         }
     },
     {
         "title": "The Economic Rebound Is Still Waiting for Workers",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/business/economy/us-economy.html",
         "content": "Despite school reopenings and the end of some federal aid, many people are in no rush to land a job. Savings and health concerns are playing a role.",
         "ranked": 7,
         "placed": "First_Page",
@@ -287,14 +287,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3C47g4Y"
+            "short_news_news_url": "https://nyti.ms/3C47g4Y"
         }
     },
     {
         "title": "Couple in Submarine Spy Case Stewed Over Money and Politics",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/us/politics/jonathan-toebbe-diana-submarine.html",
         "content": "Jonathan and Diana Toebbe, charged with trying to sell classified nuclear secrets to a foreign power, struggled with finances, family and the state of America.",
         "ranked": 8,
         "placed": "First_Page",
@@ -328,7 +328,7 @@
             "geo_facet": [
                 "Washington Navy Yard (Washington, DC)"
             ],
-            "short_news_url": "https://nyti.ms/3vtZEGd"
+            "short_news_news_url": "https://nyti.ms/3vtZEGd"
         }
     }
 ]

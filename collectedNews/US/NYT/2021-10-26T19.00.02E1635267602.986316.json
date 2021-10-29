@@ -3,7 +3,7 @@
         "title": "Gene Freidman, \u2018Taxi King\u2019 Who Upended His Industry, Dies at 50",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_url": "https://www.nytimes.com/2021/10/25/nyregion/gene-freidman-dead.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/25/nyregion/gene-freidman-dead.html",
         "content": "He bid up the price of medallions and borrowed against them. When their value plummeted, immigrant cabbies were left deep in debt.",
         "ranked": 0,
         "placed": "First_Page",
@@ -33,14 +33,14 @@
             "geo_facet": [
                 "New York City"
             ],
-            "short_news_url": "https://nyti.ms/3jw2WEf"
+            "short_news_news_url": "https://nyti.ms/3jw2WEf"
         }
     },
     {
         "title": "How I Became a Sick Person",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
         "content": "A sudden descent into a chronic illness. ",
         "ranked": 1,
         "placed": "First_Page",
@@ -70,14 +70,14 @@
             "geo_facet": [
                 "Connecticut"
             ],
-            "short_news_url": "https://nyti.ms/3npekCS"
+            "short_news_news_url": "https://nyti.ms/3npekCS"
         }
     },
     {
         "title": "A Surprise for Two \u2018Creatives\u2019: An Artists\u2019 Loft in the East Village",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_url": "https://www.nytimes.com/2021/10/25/realestate/renters-east-village.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/25/realestate/renters-east-village.html",
         "content": "Amanda Paulsen and Peter Zusman found a 1,000-square-foot space on Avenue C for $3,200 a month \u2014 with a basement and a backyard.",
         "ranked": 2,
         "placed": "First_Page",
@@ -106,14 +106,14 @@
             "geo_facet": [
                 "East Village (Manhattan, NY)"
             ],
-            "short_news_url": "https://nyti.ms/3pyYLLv"
+            "short_news_news_url": "https://nyti.ms/3pyYLLv"
         }
     },
     {
         "title": "My Boyfriend Is Ready for a Makeover. What Do I Do?",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_url": "https://www.nytimes.com/2021/10/22/style/boyfriend-makeover.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/22/style/boyfriend-makeover.html",
         "content": "A reader, whose significant other is ready for a new wardrobe, asks for guidance in searching for staples for men.",
         "ranked": 3,
         "placed": "First_Page",
@@ -136,14 +136,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3m7Rznq"
+            "short_news_news_url": "https://nyti.ms/3m7Rznq"
         }
     },
     {
         "title": "Child Who Survived Gondola Crash Should Live in Italy, Israel Court Rules",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html",
         "content": "Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv.",
         "ranked": 4,
         "placed": "First_Page",
@@ -173,14 +173,14 @@
                 "Italy",
                 "Pavia (Italy)"
             ],
-            "short_news_url": "https://nyti.ms/3Eh0WaY"
+            "short_news_news_url": "https://nyti.ms/3Eh0WaY"
         }
     },
     {
         "title": "Alec Baldwin Was Rehearsing Pointing Gun at Camera, Affidavit Says",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_url": "https://www.nytimes.com/2021/10/24/arts/baldwin-shooting-details.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/arts/baldwin-shooting-details.html",
         "content": "The director of \u201cRust\u201d gave the authorities the most detailed account yet of how the actor fatally shot the film\u2019s cinematographer.",
         "ranked": 5,
         "placed": "First_Page",
@@ -206,14 +206,14 @@
                 "Souza, Joel (1973- )"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/2Zia5RL"
+            "short_news_news_url": "https://nyti.ms/2Zia5RL"
         }
     },
     {
         "title": "At Last, a Royal Wedding. But No Trumpets, Just a News Conference.",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html",
         "content": "The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad.",
         "ranked": 6,
         "placed": "First_Page",
@@ -241,14 +241,14 @@
             "geo_facet": [
                 "Japan"
             ],
-            "short_news_url": "https://nyti.ms/3jygTRR"
+            "short_news_news_url": "https://nyti.ms/3jygTRR"
         }
     },
     {
         "title": "The First Thing We Do, Let\u2019s Kill All the Leaf Blowers",
         "date_raw": "October 25, 2021",
         "date": "2021-10-25",
-        "news_url": "https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html",
         "content": "Nearly everything about how Americans \u201ccare\u201d for their lawns is deadly, but these machines exist in a category of environmental hell all their own.",
         "ranked": 7,
         "placed": "First_Page",
@@ -273,14 +273,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3Gfut6y"
+            "short_news_news_url": "https://nyti.ms/3Gfut6y"
         }
     },
     {
         "title": "Cori Bush and AOC Are Right About Jan. 6 and 1866",
         "date_raw": "October 26, 2021",
         "date": "2021-10-26",
-        "news_url": "https://www.nytimes.com/2021/10/26/opinion/jan-6-congress-republicans.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/26/opinion/jan-6-congress-republicans.html",
         "content": "The Fourteenth Amendment shouldn\u2019t just be about the Civil War.",
         "ranked": 8,
         "placed": "First_Page",
@@ -316,7 +316,7 @@
             "geo_facet": [
                 "Washington (DC)"
             ],
-            "short_news_url": "https://nyti.ms/3EfqHIp"
+            "short_news_news_url": "https://nyti.ms/3EfqHIp"
         }
     }
 ]

@@ -3,7 +3,7 @@
         "title": "A Subway Rider Confronted Unmasked Police Officers. They Kicked Him Out.",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/nyregion/nypd-unmasked-covid.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/nyregion/nypd-unmasked-covid.html",
         "content": "Andrew Gilbert said he repeatedly asked two officers to wear masks in accordance with M.T.A. and Police Department policy. He was eventually pushed out of the station.",
         "ranked": 0,
         "placed": "First_Page",
@@ -34,14 +34,14 @@
             "geo_facet": [
                 "New York City"
             ],
-            "short_news_url": "https://nyti.ms/2XuoM34"
+            "short_news_news_url": "https://nyti.ms/2XuoM34"
         }
     },
     {
         "title": "Christian Schools Boom in a Revolt Against Curriculum and Pandemic Rules",
         "date_raw": "October 19, 2021",
         "date": "2021-10-19",
-        "news_url": "https://www.nytimes.com/2021/10/19/us/christian-schools-growth.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/19/us/christian-schools-growth.html",
         "content": "With public schools on the defensive, is this a blip or a \u2018once-in-100-year moment for the growth of Christian education\u2019?",
         "ranked": 1,
         "placed": "First_Page",
@@ -71,14 +71,14 @@
                 "Virginia",
                 "United States"
             ],
-            "short_news_url": ""
+            "short_news_news_url": ""
         }
     },
     {
         "title": "The True Cost of Upgrading Your Phone",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/technology/personaltech/iphone-upgrades-cost.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/technology/personaltech/iphone-upgrades-cost.html",
         "content": "Buying a $1,000 iPhone can be equivalent to giving up $17,000 in retirement savings or 2,500 cups of coffee.",
         "ranked": 2,
         "placed": "First_Page",
@@ -106,14 +106,14 @@
             ],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3m6HM1j"
+            "short_news_news_url": "https://nyti.ms/3m6HM1j"
         }
     },
     {
         "title": "Vikings Were in the Americas Exactly 1,000 Years Ago",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/science/vikings-newfoundland-age.html",
         "content": "By studying tree rings and using a dash of astrophysics, researchers have pinned down a precise year that settlers from Europe were on land that would come to be known as Newfoundland.",
         "ranked": 3,
         "placed": "First_Page",
@@ -145,14 +145,14 @@
                 "Newfoundland (Canada)",
                 "Canada"
             ],
-            "short_news_url": "https://nyti.ms/3jkQrey"
+            "short_news_news_url": "https://nyti.ms/3jkQrey"
         }
     },
     {
         "title": "\u2018Dune\u2019 Review: A Hero in the Making, on Shifting Sands",
         "date_raw": "October 20, 2021",
         "date": "2021-10-20",
-        "news_url": "https://www.nytimes.com/2021/10/20/movies/dune-review.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/20/movies/dune-review.html",
         "content": "Denis Villeneuve\u2019s adaptation is an equally sweeping and intimate take on Frank Herbert\u2019s future-shock epic.",
         "ranked": 4,
         "placed": "First_Page",
@@ -179,14 +179,14 @@
                 "Herbert, Frank"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3b2FwS1"
+            "short_news_news_url": "https://nyti.ms/3b2FwS1"
         }
     },
     {
         "title": "Alec Baldwin Fatally Shoots Crew Member With Prop Firearm on Film Set, Authorities Say",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
         "content": "The movie\u2019s director of photography was killed and the director was injured on the set of \u201cRust,\u201d a Western, a sheriff\u2019s office in New Mexico said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -214,14 +214,14 @@
                 "Santa Fe (NM)",
                 "New Mexico"
             ],
-            "short_news_url": "https://nyti.ms/30FtFrc"
+            "short_news_news_url": "https://nyti.ms/30FtFrc"
         }
     },
     {
         "title": "I Was Wrong About Donald Trump",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/opinion/donald-trump.html",
         "content": "Democrats need a bigger, bolder campaign blueprint to save democracy that doesn\u2019t hinge on the whims of Congress.",
         "ranked": 6,
         "placed": "First_Page",
@@ -255,14 +255,14 @@
                 "Virginia",
                 "Georgia"
             ],
-            "short_news_url": "https://nyti.ms/3nbFbm0"
+            "short_news_news_url": "https://nyti.ms/3nbFbm0"
         }
     },
     {
         "title": "Why the Popularity of \u2018Squid Game\u2019 Terrifies Me",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_url": "https://www.nytimes.com/2021/10/21/opinion/squid-game-violence.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/opinion/squid-game-violence.html",
         "content": "What does the appeal of this violent, dystopian fantasy say about us?",
         "ranked": 7,
         "placed": "First_Page",
@@ -291,14 +291,14 @@
             "geo_facet": [
                 "South Korea"
             ],
-            "short_news_url": "https://nyti.ms/3vwscz0"
+            "short_news_news_url": "https://nyti.ms/3vwscz0"
         }
     },
     {
         "title": "Liz Cheney\u2019s Consultants Are Given an Ultimatum: Drop Her, or Be Dropped",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_url": "https://www.nytimes.com/2021/10/21/us/politics/liz-cheney-kevin-mccarthy.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/us/politics/liz-cheney-kevin-mccarthy.html",
         "content": "The message, delivered by a lobbyist close to the House minority leader, Kevin McCarthy, has already led one Republican firm to cut ties.",
         "ranked": 8,
         "placed": "First_Page",
@@ -329,7 +329,7 @@
             "geo_facet": [
                 "Wyoming"
             ],
-            "short_news_url": "https://nyti.ms/3E0xe9S"
+            "short_news_news_url": "https://nyti.ms/3E0xe9S"
         }
     }
 ]

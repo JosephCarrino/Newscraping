@@ -6,7 +6,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-affaire-berset-doit-etre-eclaircie-exigent-les-commissions-de-gestion-des-chambres-federales-25773040.html",
         "duration": "01:38",
         "ranked": 0,
-        "epoch": 1635324284.1928282
+        "epoch": 1635454809.8211925
     },
     {
         "title": "Le classement des meilleurs médias 2020 a été révélé à Zurich",
@@ -15,7 +15,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-classement-des-meilleurs-medias-2020-a-ete-revele-a-zurich-25773042.html",
         "duration": "05:21",
         "ranked": 1,
-        "epoch": 1635324284.1928298
+        "epoch": 1635454809.821194
     },
     {
         "title": "La pandémie de coronavirus a fait baisser l’espérance de vie en Suisse",
@@ -24,7 +24,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-pandemie-de-coronavirus-a-fait-baisser-l-esperance-de-vie-en-suisse-25773046.html",
         "duration": "01:33",
         "ranked": 2,
-        "epoch": 1635324284.1928308
+        "epoch": 1635454809.8211946
     },
     {
         "title": "Le Soudan ferait face à un coup d’état",
@@ -33,7 +33,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-soudan-ferait-face-a-un-coup-d-etat-25773054.html",
         "duration": "01:30",
         "ranked": 3,
-        "epoch": 1635324284.1928315
+        "epoch": 1635454809.8211954
     },
     {
         "title": "Les procédures liées à la nouvelle station d’épuration du Locle ont été arrêtées",
@@ -42,7 +42,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-procedures-liees-a-la-nouvelle-station-d-epuration-du-locle-ont-ete-arretees-25773050.html",
         "duration": "01:39",
         "ranked": 4,
-        "epoch": 1635324284.192832
+        "epoch": 1635454809.821196
     },
     {
         "title": "Amnesty International ferme ses bureaux à Hong Kong",
@@ -51,7 +51,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/amnesty-international-ferme-ses-bureaux-a-hong-kong-25773052.html",
         "duration": "01:24",
         "ranked": 5,
-        "epoch": 1635324284.1928325
+        "epoch": 1635454809.8211968
     },
     {
         "title": "Le quotidien Ouest-France ne publiera plus de sondages sur la présidentielle française",
@@ -60,7 +60,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-quotidien-ouest-france-ne-publiera-plus-de-sondages-sur-la-presidentielle-francaise-25773058.html",
         "duration": "01:38",
         "ranked": 6,
-        "epoch": 1635324284.1928332
+        "epoch": 1635454809.8211973
     },
     {
         "title": "Des ONG dénoncent le statut des réfugiés en Grèce",
@@ -69,7 +69,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/des-ong-denoncent-le-statut-des-refugies-en-grece-25773057.html",
         "duration": "02:13",
         "ranked": 7,
-        "epoch": 1635324284.1928341
+        "epoch": 1635454809.8211977
     },
     {
         "title": "Genève-Servette ne peut pas s’entraîner dans son stade à cause de la qualité de la pelouse",
@@ -78,7 +78,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/geneve-servette-ne-peut-pas-s-entrainer-dans-son-stade-a-cause-de-la-qualite-de-la-pelouse-25773062.html",
         "duration": "01:39",
         "ranked": 8,
-        "epoch": 1635324284.1928349
+        "epoch": 1635454809.8211982
     },
     {
         "title": "L’invité du 12h30 - Le saxophoniste Stefano Di Battista sort un nouvel album, en rediffusion",
@@ -87,6 +87,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-le-saxophoniste-stefano-di-battista-sort-un-nouvel-album-en-rediffusion-25773063.html",
         "duration": "08:47",
         "ranked": 9,
-        "epoch": 1635324284.1928356
+        "epoch": 1635454809.8211992
     }
 ]

@@ -2,7 +2,7 @@
     {
         "title": "Colombian drug lord to be sent to US after capture",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-latin-america-59032300",
+        "news_news_url": "https://www.bbc.com/news/world-latin-america-59032300",
         "content": "US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord.",
         "placed": "First_Page",
         "epoch": 1635120003.7806926
@@ -10,7 +10,7 @@
     {
         "title": "Colombian drug lord to be sent to US after capture",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-latin-america-59032300",
+        "news_news_url": "https://www.bbc.com/news/world-latin-america-59032300",
         "content": "US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord.",
         "placed": "First_Page",
         "epoch": 1635120003.780725
@@ -18,7 +18,7 @@
     {
         "title": "Friends actor James Michael Tyler dies aged 59",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/entertainment-arts-59032751",
+        "news_news_url": "https://www.bbc.com/news/entertainment-arts-59032751",
         "content": "The US actor, who played Gunther on the show, had been diagnosed with stage four prostate cancer.",
         "placed": "First_Page",
         "epoch": 1635120003.78075
@@ -26,7 +26,7 @@
     {
         "title": "Opposition calls for Covid restrictions in England",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/uk-59027290",
+        "news_news_url": "https://www.bbc.com/news/uk-59027290",
         "content": "The UK chancellor says, however, that the data does not suggest \"immediately\" moving to a back-up plan.",
         "placed": "First_Page",
         "epoch": 1635120003.7807672
@@ -34,7 +34,7 @@
     {
         "title": "Facebook whistleblower meets safe content activist",
         "date_raw": "PT",
-        "news_url": "https://www.bbc.com/news/uk-59032290",
+        "news_news_url": "https://www.bbc.com/news/uk-59032290",
         "content": "Frances Haugen meets Ian Russell, whose daughter died by suicide after viewing disturbing content.",
         "placed": "First_Page",
         "epoch": 1635120003.780787
@@ -42,7 +42,7 @@
     {
         "title": "Vigil held for cinematographer Halyna Hutchins",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-us-canada-59029509",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59029509",
         "content": "The cinematographer was fatally shot by a prop gun while filming for western movie Rust.",
         "placed": "First_Page",
         "epoch": 1635120003.7808037
@@ -50,7 +50,7 @@
     {
         "title": "Superfan finally enjoys 6,000th rollercoaster ride",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/uk-wales-59008698",
+        "news_news_url": "https://www.bbc.com/news/uk-wales-59008698",
         "content": "Covid left him waiting to pass the milestone after 25 years of enjoying the wooden rollercoaster.",
         "placed": "First_Page",
         "epoch": 1635120003.7808192
@@ -58,7 +58,7 @@
     {
         "title": "Evacuations as ship spews toxic gas off Canada",
         "date_raw": "P",
-        "news_url": "https://www.bbc.com/news/world-us-canada-59024496",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59024496",
         "content": "The Zim Kingston ship is burning but officials said there is no safety risk to people on land.",
         "placed": "First_Page",
         "epoch": 1635120003.7808342
@@ -66,7 +66,7 @@
     {
         "title": "Kobe Bryant's wife first heard of his death online",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-us-canada-59024491",
+        "news_news_url": "https://www.bbc.com/news/world-us-canada-59024491",
         "content": "Vanessa Bryant said she learned about the death of her husband by seeing \"RIP Kobe\" notifications.",
         "placed": "First_Page",
         "epoch": 1635120003.7808495
@@ -74,7 +74,7 @@
     {
         "title": "Zaghari-Ratcliffe husband begins new hunger strike",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/uk-59030936",
+        "news_news_url": "https://www.bbc.com/news/uk-59030936",
         "content": "Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband says.",
         "placed": "First_Page",
         "epoch": 1635120003.7808642
@@ -82,7 +82,7 @@
     {
         "title": "Man Utd thrashed at home by Liverpool",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/sport/football/58943625",
+        "news_news_url": "https://www.bbc.com/sport/football/58943625",
         "content": "Mohamed Salah scores a hat-trick and Paul Pogba is sent off as clinical Liverpool embarrass Manchester United 5-0 at Old Trafford.",
         "placed": "First_Page",
         "epoch": 1635120003.780887
@@ -90,7 +90,7 @@
     {
         "title": "Pakistan hammer India at T20 World Cup",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/sport/cricket/59030529",
+        "news_news_url": "https://www.bbc.com/sport/cricket/59030529",
         "content": "Pakistan hammer India by 10 wickets to claim a famous win over their great rivals at the Men's T20 World Cup in Dubai.",
         "placed": "First_Page",
         "epoch": 1635120003.780906
@@ -98,7 +98,7 @@
     {
         "title": "Man Utd thrashed at home by Liverpool",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/sport/football/58943625",
+        "news_news_url": "https://www.bbc.com/sport/football/58943625",
         "content": "Mohamed Salah scores a hat-trick and Paul Pogba is sent off as clinical Liverpool embarrass Manchester United 5-0 at Old Trafford.",
         "placed": "First_Page",
         "epoch": 1635120003.7809203
@@ -106,7 +106,7 @@
     {
         "title": "Pakistan hammer India at T20 World Cup",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/sport/cricket/59030529",
+        "news_news_url": "https://www.bbc.com/sport/cricket/59030529",
         "content": "Pakistan hammer India by 10 wickets to claim a famous win over their great rivals at the Men's T20 World Cup in Dubai.",
         "placed": "First_Page",
         "epoch": 1635120003.7809339
@@ -114,7 +114,7 @@
     {
         "title": "Deadly explosion at Uganda bar after terror warning",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-africa-59028210",
+        "news_news_url": "https://www.bbc.com/news/world-africa-59028210",
         "content": "The suspected terrorist bombing comes a week after the UK warned about a possible attack.",
         "placed": "First_Page",
         "epoch": 1635120003.7809477
@@ -122,7 +122,7 @@
     {
         "title": "German far-right group attempt to block migrants",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-europe-59024490",
+        "news_news_url": "https://www.bbc.com/news/world-europe-59024490",
         "content": "Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border.",
         "placed": "First_Page",
         "epoch": 1635120003.7809613
@@ -130,7 +130,7 @@
     {
         "title": "Ed Sheeran tests positive for Covid-19",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/uk-england-suffolk-59030967",
+        "news_news_url": "https://www.bbc.com/news/uk-england-suffolk-59030967",
         "content": "The singer-songwriter says he will be \"self-isolating and following government guidelines\".",
         "placed": "First_Page",
         "epoch": 1635120003.7809749
@@ -138,7 +138,7 @@
     {
         "title": "How adjusting flight plans can help the climate",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/business-58769351",
+        "news_news_url": "https://www.bbc.com/news/business-58769351",
         "content": "The latest global news, sport, weather and documentaries",
         "placed": "First_Page",
         "epoch": 1635120003.7809885
@@ -146,7 +146,7 @@
     {
         "title": "Why Australia refuses to give up coal",
         "date_raw": "2021-10-24",
-        "news_url": "https://www.bbc.com/news/world-australia-57925798",
+        "news_news_url": "https://www.bbc.com/news/world-australia-57925798",
         "content": "Stories from around the world",
         "placed": "First_Page",
         "epoch": 1635120003.7810023

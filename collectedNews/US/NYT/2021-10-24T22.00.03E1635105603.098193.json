@@ -3,7 +3,7 @@
         "title": "5 Things to Do This Weekend",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_url": "https://www.nytimes.com/interactive/2021/10/22/arts/weekend-editors-picks-dune.html",
+        "news_news_url": "https://www.nytimes.com/interactive/2021/10/22/arts/weekend-editors-picks-dune.html",
         "content": "Selections from the current Weekend section, including a review of \u201cDune.\u201d",
         "ranked": 0,
         "placed": "First_Page",
@@ -34,14 +34,14 @@
                 "Villeneuve, Denis"
             ],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3C5KpWB"
+            "short_news_news_url": "https://nyti.ms/3C5KpWB"
         }
     },
     {
         "title": "Top Real Estate Destinations in the Americas",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_url": "https://www.nytimes.com/2021/10/21/realestate/top-real-estate-destinations-in-the-americas.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/realestate/top-real-estate-destinations-in-the-americas.html",
         "content": "Web searches show buyers in the U.S. favor some places in the Western Hemisphere when it comes to real estate.",
         "ranked": 1,
         "placed": "First_Page",
@@ -66,14 +66,14 @@
                 "North America",
                 "South America"
             ],
-            "short_news_url": "https://nyti.ms/2Zecrkt"
+            "short_news_news_url": "https://nyti.ms/2Zecrkt"
         }
     },
     {
         "title": "Flying With Your Pet? It Just Got a Lot More Difficult.",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_url": "https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html",
         "content": "A recent C.D.C. rabies rule, pricey pet \u2018tickets\u2019 and limits on animals in airline cabins are making traveling with a pet more complicated.",
         "ranked": 2,
         "placed": "First_Page",
@@ -100,14 +100,14 @@
             "geo_facet": [
                 "United States"
             ],
-            "short_news_url": "https://nyti.ms/3vHkIsX"
+            "short_news_news_url": "https://nyti.ms/3vHkIsX"
         }
     },
     {
         "title": "The Photograph That Started a Romance",
         "date_raw": "October 22, 2021",
         "date": "2021-10-22",
-        "news_url": "https://www.nytimes.com/2021/10/22/style/najee-forte-danielle-dorsi-wedding.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/22/style/najee-forte-danielle-dorsi-wedding.html",
         "content": "Najee Fort\u00e8 knew he had to meet Danielle Dorsi after a mutual friend sent him a picture of her.",
         "ranked": 3,
         "placed": "First_Page",
@@ -128,14 +128,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3vNqvgR"
+            "short_news_news_url": "https://nyti.ms/3vNqvgR"
         }
     },
     {
         "title": "The Best Workout for Middle-Aged Bodies",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
+        "news_news_url": "https://www.nytimes.com/interactive/2021/10/21/well/move/midlife-hiit-workout.html",
         "content": "Research shows that becoming fit in middle age will give you more years of good health \u2014 and the most effective exercise for a middle-aged body can be easier and faster than you might think.",
         "ranked": 4,
         "placed": "First_Page",
@@ -158,14 +158,14 @@
             "org_facet": [],
             "per_facet": [],
             "geo_facet": [],
-            "short_news_url": "https://nyti.ms/3G6e18N"
+            "short_news_news_url": "https://nyti.ms/3G6e18N"
         }
     },
     {
         "title": "Alec Baldwin Was Told Gun in Fatal Shooting on Set Was Safe, Officials Say",
         "date_raw": "October 21, 2021",
         "date": "2021-10-21",
-        "news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/21/us/alec-baldwin-shooting-rust-movie.html",
         "content": "The actor was told a gun being used as a prop was safe before he fired it on the set of \u201cRust,\u201d killing the film\u2019s cinematographer and wounding its director, law enforcement officials said.",
         "ranked": 5,
         "placed": "First_Page",
@@ -196,14 +196,14 @@
                 "Santa Fe (NM)",
                 "New Mexico"
             ],
-            "short_news_url": "https://nyti.ms/30FtFrc"
+            "short_news_news_url": "https://nyti.ms/30FtFrc"
         }
     },
     {
         "title": "Where Facts Were No Match for Fear",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/us/politics/montana-misinformation-national-heritage.html",
         "content": "Civic boosters in central Montana hoped for some federal money to promote tourism. A disinformation campaign got in the way.",
         "ranked": 6,
         "placed": "First_Page",
@@ -236,14 +236,14 @@
                 "Great Falls (Mont)",
                 "Montana"
             ],
-            "short_news_url": "https://nyti.ms/3EawhvP"
+            "short_news_news_url": "https://nyti.ms/3EawhvP"
         }
     },
     {
         "title": "Their Jobs Made Them Get Vaccinated. They Refused.",
         "date_raw": "October 24, 2021",
         "date": "2021-10-24",
-        "news_url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/24/nyregion/new-york-workers-refuse-vaccine.html",
         "content": "The willingness of some workers to give up their livelihoods helps explain the country\u2019s struggle to contain the pandemic.",
         "ranked": 7,
         "placed": "First_Page",
@@ -273,14 +273,14 @@
                 "New York City",
                 "New York State"
             ],
-            "short_news_url": "https://nyti.ms/3GrMxuv"
+            "short_news_news_url": "https://nyti.ms/3GrMxuv"
         }
     },
     {
         "title": "How I Became a Sick Person",
         "date_raw": "October 23, 2021",
         "date": "2021-10-23",
-        "news_url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
+        "news_news_url": "https://www.nytimes.com/2021/10/23/opinion/lyme-disease-chronic-illness.html",
         "content": "A sudden descent into a chronic illness. ",
         "ranked": 8,
         "placed": "First_Page",
@@ -309,7 +309,7 @@
             "geo_facet": [
                 "Connecticut"
             ],
-            "short_news_url": "https://nyti.ms/3npekCS"
+            "short_news_news_url": "https://nyti.ms/3npekCS"
         }
     }
 ]
