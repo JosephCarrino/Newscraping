@@ -74,7 +74,7 @@ for item in zip(titles, raw_dates, dates, urls, contents):
         edition.append(scraped_info)
 now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
 if toDump:
-    f= open("collectedNews/DE/Zeit/" + str(now) + "E" + str(time.time()) + ".json", "w")
+    f= open("collectedNews/flow/DE/Zeit/" + str(now) + "E" + str(time.time()) + ".json", "w")
     json.dump(edition, f, indent= 4)
     f.close()
     i+=1

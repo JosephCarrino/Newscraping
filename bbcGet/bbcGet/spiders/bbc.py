@@ -85,7 +85,7 @@ class BbcSpider(scrapy.Spider):
             
         now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
         if toSave:
-            f= open("../../../collectedNews/UK/BBC/" + str(now) + "E" + str(time.time())  + ".json", "w")
+            f= open("../../../collectedNews/flow/EN/BBC/" + str(now) + "E" + str(time.time())  + ".json", "w")
             json.dump(edition, f, indent= 4, ensure_ascii=False)
             f.close()
             #j+=1

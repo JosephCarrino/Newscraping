@@ -82,7 +82,7 @@ class ZdfgetSpider(scrapy.Spider):
                     #break
             edition.append(scraped_info)
         if toDump:
-            f= open("../../../collectedNews/DE/Zdf/" + str(scraped_info['date']) + ".json", "w")
+            f= open("../../../collectedNews/edition/DE/Zdf/" + str(scraped_info['date']) + ".json", "w")
             json.dump(edition, f, indent= 4, ensure_ascii=False)
             f.close()
             #j+=1

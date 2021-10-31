@@ -77,7 +77,7 @@ class PostscrapeSpider(scrapy.Spider):
             
         now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")    
         if toDump:
-            f= open("../../../collectedNews/IT/ilPost/" + str(now) + "E" + str(time.time()) + ".json", "w")
+            f= open("../../../collectedNews/flow/IT/ilPost/" + str(now) + "E" + str(time.time()) + ".json", "w")
             json.dump(edition, f, indent= 4, ensure_ascii=False)
             f.close()
         

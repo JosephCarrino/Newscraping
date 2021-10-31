@@ -67,7 +67,7 @@ class PbsgetSpider(scrapy.Spider):
             }
             edition.append(scraped_info)
             
-        f= open("../../../collectedNews/US/PBS/" + str(date) + ".json", "w")
+        f= open("../../../collectedNews/edition/EN/PBS/" + str(date) + ".json", "w")
         json.dump(edition, f, indent= 4, ensure_ascii=False)
         f.close()
             

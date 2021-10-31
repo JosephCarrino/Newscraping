@@ -120,7 +120,7 @@ class TelegetSpider(scrapy.Spider):
             edition.append(scraped_info)
         now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
         if toDump:
-            f= open("../../../collectedNews/IT/Televideo/" + str(now) + "E" + str(time.time()) + ".json", "w")
+            f= open("../../../collectedNews/flow/IT/Televideo/" + str(now) + "E" + str(time.time()) + ".json", "w")
             json.dump(edition, f, indent= 4, ensure_ascii=False)
             f.close()
                 

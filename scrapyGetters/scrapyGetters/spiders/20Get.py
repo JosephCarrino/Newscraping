@@ -77,7 +77,7 @@ class A20getSpider(scrapy.Spider):
                 edition.append(scraped_info)
             print(edition)
             if toDump:
-                f= open("../../../collectedNews/DE/Tagesschau/" + str(scraped_info['date']) + ".json", "w")
+                f= open("../../../collectedNews/edition/DE/Tagesschau/" + str(scraped_info['date']) + ".json", "w")
                 json.dump(edition, f, indent= 4, ensure_ascii=False)
                 f.close()
                 #j+=1
