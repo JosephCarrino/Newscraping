@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-etude-montre-que-les-conditions-de-travail-des-femmes-se-sont-degradees-pendant-le-covid-25773327.html",
         "duration": "01:32",
         "ranked": 0,
-        "epoch": 1635627609.2089424
+        "epoch": 1635717609.4570591
     },
     {
         "title": "Une nouvelle formation pour les infirmiers et infirmières qui ont quitté le métier est proposée à Delémont et Neuchâtel",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-nouvelle-formation-pour-les-infirmiers-et-infirmieres-qui-ont-quitte-le-metier-est-proposee-a-delemont-et-neuchatel-25773328.html",
         "duration": "01:11",
         "ranked": 1,
-        "epoch": 1635627609.2089455
+        "epoch": 1635717609.4570613
     },
     {
         "title": "Une formation pour ceux qui ont quitté le corps infirmier: interview d'Anne-Françoise Loup",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-formation-pour-ceux-qui-ont-quitte-le-corps-infirmier-interview-d-anne-francoise-loup-25773329.html",
         "duration": "03:51",
         "ranked": 2,
-        "epoch": 1635627609.2089472
+        "epoch": 1635717609.4570627
     },
     {
         "title": "Le petit Eitan, seul survivant du crash du téléphérique du Mottarone, devra retourner vivre en Italie",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-petit-eitan-seul-survivant-du-crash-du-telepherique-du-mottarone-devra-retourner-vivre-en-italie-25773333.html",
         "duration": "01:54",
         "ranked": 3,
-        "epoch": 1635627609.2089484
+        "epoch": 1635717609.4570634
     },
     {
         "title": "Pas de retour à la normale en vue pour le tourisme avant l'été prochain, selon le KOF",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/pas-de-retour-a-la-normale-en-vue-pour-le-tourisme-avant-l-ete-prochain-selon-le-kof-25773330.html",
         "duration": "01:22",
         "ranked": 4,
-        "epoch": 1635627609.20895
+        "epoch": 1635717609.4570644
     },
     {
         "title": "Le canton de Berne cherche un nouvel emplacement pour une prison",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-canton-de-berne-cherche-un-nouvel-emplacement-pour-une-prison-25773335.html",
         "duration": "01:46",
         "ranked": 5,
-        "epoch": 1635627609.208952
+        "epoch": 1635717609.4570658
     },
     {
         "title": "Plusieurs personnes sont mortes lors d’une manifestation contre le coup d’Etat militaire au Soudan",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/plusieurs-personnes-sont-mortes-lors-d-une-manifestation-contre-le-coup-d-etat-militaire-au-soudan-25773344.html",
         "duration": "01:36",
         "ranked": 6,
-        "epoch": 1635627609.2089534
+        "epoch": 1635717609.4570665
     },
     {
         "title": "Le procès de deux hommes accusés du meurtre antisémite de Mireille Knoll s'est ouvert à Paris",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-proces-de-deux-hommes-accuses-du-meurtre-antisemite-de-mireille-knoll-s-est-ouvert-a-paris-25773348.html",
         "duration": "01:35",
         "ranked": 7,
-        "epoch": 1635627609.2089546
+        "epoch": 1635717609.4570673
     },
     {
         "title": "Un trésor archéologique de Crimée est devenu un enjeu géopolitique à Amsterdam",
@@ -87,7 +87,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-tresor-archeologique-de-crimee-est-devenu-un-enjeu-geopolitique-a-amsterdam-25773345.html",
         "duration": "01:32",
         "ranked": 8,
-        "epoch": 1635627609.208956
+        "epoch": 1635717609.457068
     },
     {
         "title": "La Suisse affronte la Croatie pour les qualifications de la Coupe du monde 2023 de football féminin",
@@ -97,7 +97,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-affronte-la-croatie-pour-les-qualifications-de-la-coupe-du-monde-2023-de-football-feminin-25773346.html",
         "duration": "01:29",
         "ranked": 9,
-        "epoch": 1635627609.2089572
+        "epoch": 1635717609.4570687
     },
     {
         "title": "L’invité du 12h30 - Geoffroy Delorme, l’homme-chevreuil, en rediffusion",
@@ -107,6 +107,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-geoffroy-delorme-l-homme-chevreuil-en-rediffusion-25773353.html",
         "duration": "09:05",
         "ranked": 10,
-        "epoch": 1635627609.2089584
+        "epoch": 1635717609.4570696
     }
 ]
