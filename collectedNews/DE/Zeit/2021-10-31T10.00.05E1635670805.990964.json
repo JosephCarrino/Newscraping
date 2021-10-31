@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Lieben in Kabul",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-10/kabul-kinderheim-afghanistan-film-shahrbanoo-sadat",
+        "content": "Jugend nimmt sich \u00fcberall auf der Welt Freiheiten. Davon erz\u00e4hlt die afghanische Filmemacherin Shahrbanoo Sadat in ihren Filmen. Davon erz\u00e4hlt auch ihr eigenes Leben.",
+        "ranked": 0,
+        "epoch": 1635670805.9908895
+    },
+    {
+        "title": "Dieser lebensfreundliche Planet steht auf dem Spiel",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/umwelt/2021-10/un-klimakonferenz-cop26-glasgow-klimaziele-klimapolitik",
+        "content": "In Glasgow beginnt der 26. UN-Klimagipfel. Manche sagen: die letzte Chance, dass die Menschheit die Kurve kriegt und eine klimaneutrale Welt besiegelt. Worum es nun geht.",
+        "ranked": 1,
+        "epoch": 1635670805.9908936
+    },
+    {
+        "title": "\"Ich erlebe Menschen, die Bewerbungsgespr\u00e4che bewusst boykottieren\"",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-10/arbeitsvermittlerin-jobcenter-beruf-einkommen-familie-kontoauszug",
+        "content": "Linda, 50, verdient als Arbeitsvermittlerin 4.900 Euro im Monat. Damit stemmt sie den Gro\u00dfteil der Familienkosten \u2013 und kann ihre Tochter auf eine Privatschule schicken.",
+        "ranked": 2,
+        "epoch": 1635670805.990896
+    },
+    {
+        "title": "Weitere Betroffene melden Missbrauch in SOS-Kinderdorf",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/sos-kinderdorf-bayern-missbrauch-betroffene",
+        "content": "In einem SOS-Kinderdorf in Bayern sollen \"Dorfm\u00fctter\" den ihnen anvertrauten Kindern Leid zugef\u00fcgt haben. Nun haben sich weitere mutma\u00dfliche Missbrauchsopfer gemeldet.",
+        "ranked": 3,
+        "epoch": 1635670805.9908981
+    },
+    {
+        "title": "Mindestens 12 Tote bei Explosion im Jemen",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/jemen-hafenstadt-aden-autobombe-explosion-tote-buergerkrieg",
+        "content": "Seitdem Rebellen die Hauptstadt eingenommen haben, regiert der Pr\u00e4sident aus der s\u00fcdlichen Hafenstadt Aden. Dort hat es am Flughafen eine schwere Explosion gegeben.",
+        "ranked": 4,
+        "epoch": 1635670805.9909005
+    },
+    {
+        "title": "EU und USA beenden jahrelangen Zollstreit",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/handelskonflikt-usa-eu-stahl-aluminium-strafzoelle",
+        "content": "Die USA streichen die von Ex-Pr\u00e4sident Donald Trump verh\u00e4ngten Sonderz\u00f6lle auf Stahl und Aluminium aus Europa. Damit verschwindet ein gro\u00dfer transatlantischer Zankapfel.",
+        "ranked": 5,
+        "epoch": 1635670805.99091
+    },
+    {
+        "title": "Gesundheits\u00e4mter melden weiter steigende Corona-F\u00e4lle",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-10/coronavirus-neuinfektionen-rki-gesundheitsaemter-berlin-hoechststand",
+        "content": "Die Beh\u00f6rden haben dem RKI f\u00fcr Samstag 16.887 Neuinfektionen und 33 Tote in Verbindung mit dem Virus gemeldet. Die Inzidenz hat sich bundesweit auf knapp 150 erh\u00f6ht.",
+        "ranked": 6,
+        "epoch": 1635670805.9909112
+    },
+    {
+        "title": "Der 25-Stunden-Tag",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/leben/2021-10/zeitumstellung-dunkelheit-zeitgewinn-tipps-zeit-nutzen",
+        "content": "Ab jetzt herrscht Winterzeit. Ja, es wird nun fr\u00fcher dunkel, aber: Wir gewinnen dieses Mal immerhin eine Stunde dazu. 25 Tipps, was man damit anstellen kann",
+        "ranked": 7,
+        "epoch": 1635670805.9909122
+    },
+    {
+        "title": "\"Wir lassen uns nicht einsch\u00fcchtern\"",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/campus/2021-10/nachtleben-grossbritannien-ko-tropfen-spritzen-spiking-uebergriffe-frauen",
+        "content": "Immer mehr Studierende in Gro\u00dfbritannien berichten von K.-o.-Tropfen im Drink und Angriffen mit Spritzen. Ein Gespr\u00e4ch mit Anna, die selbst Opfer von \"Spiking\" wurde",
+        "ranked": 8,
+        "epoch": 1635670805.9909134
+    },
+    {
+        "title": "Regierungschefs unterst\u00fctzen globale Mindeststeuer",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-10/g20-weltweite-steuerreform-globale-mindeststeuer-unternehmen-oecd-staaten-regierungschefs",
+        "content": "Die Staatschefs der gro\u00dfen Industriestaaten wollen eine Steuerreform f\u00fcr Unternehmen. Die 15-Prozent-Steuer soll auch in die Abschlusserkl\u00e4rung des G20-Gipfels von Rom.",
+        "ranked": 9,
+        "epoch": 1635670805.9909143
+    },
+    {
+        "title": "Livestream: Die Vertrauensfrage \u2013 wie halten wir in Zukunft zusammen?",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/z2x/2021-10/version21-oktober-livestream-vertrauen-politik-parteien-medien",
+        "content": "Wir haben mit Jutta Allmendinger und weiteren G\u00e4sten \u00fcber Vertrauen in Parteien und Medien gesprochen \u2013 und neue Ideen f\u00fcr gesellschaftlichen Zusammenhalt.",
+        "ranked": 10,
+        "epoch": 1635670805.990915
+    },
+    {
+        "title": "Mehrere Tote bei Protesten gegen Milit\u00e4rputsch",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/sudan-militaerputsch-umsturz-proteste-todesfaelle",
+        "content": "Bei Massenprotesten in der Stadt Omdurman feuerten Sicherheitskr\u00e4fte erneut auf Demonstrierende. Die Vereinten Nationen riefen die Milit\u00e4rf\u00fchrung zur Zur\u00fcckhaltung auf.",
+        "ranked": 11,
+        "epoch": 1635670805.990916
+    },
+    {
+        "title": "Meuthen fordert Austausch der gesamten Parteispitze",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-10/afd-joerg-meuthen-parteispitze-austausch-forderung",
+        "content": "Der scheidende AfD-Vorsitzende fordert eine programmatische Erneuerung der Partei. Dadurch soll die Einstufung der Partei als Verdachtsfall verhindert werden.",
+        "ranked": 12,
+        "epoch": 1635670805.990917
+    },
+    {
+        "title": "\"Wir brauchen einen Systemwechsel\"",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/campus/2021-10/ichbinhanna-hochschule-sabine-kunst-birgitt-riegraf-paderborn-befristete-stellen-mittelbau",
+        "content": "Mehr Entfristungen f\u00fcr Postdocs: L\u00f6st das Probleme oder schafft es welche? Dar\u00fcber streiten Politik und Wissenschaft. Unipr\u00e4sidentin Birgitt Riegraf ist daf\u00fcr. Warum?",
+        "ranked": 13,
+        "epoch": 1635670805.9909177
+    },
+    {
+        "title": "CDU-Basis spricht sich f\u00fcr Mitgliederentscheid aus",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-10/cdu-basis-mitgliederentscheid-parteivorsitz-kreisvorsitzendenkonferenz",
+        "content": "\u00dcber die Nachfolge von Armin Laschet als Chef der geschw\u00e4chten CDU sollen alle Mitglieder entscheiden. Die CDU-Kreischefs wollen damit mehr Beteiligung erreichen.",
+        "ranked": 14,
+        "epoch": 1635670805.9909184
+    },
+    {
+        "title": "Diplomat gab vertrauliche Nowitschok-Dokumente weiter",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/oesterreich-johannes-peterlik-ermittlung-diplomat-suspendierung-dokumente-leak",
+        "content": "Wirecard und immer neue Skandale: Nun wird gegen einen Diplomaten ermittelt, wegen m\u00f6glicher Weitergabe geheimer Unterlagen \u2013 vielleicht auch an Ex-Vorstand Marsalek.",
+        "ranked": 15,
+        "epoch": 1635670805.9909194
+    },
+    {
+        "title": "Armee zerst\u00f6rt in Racheaktion Kirchen und Wohnh\u00e4user",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-10/myanmar-thantlang-armee-militaerjunta-artilleriebeschuesse-zivilgebiete-zerstoerung",
+        "content": "In Myanmar ist im \u00fcberwiegend christlichen Chin-Staat ein Konflikt zwischen Milit\u00e4r und Widerstandsgruppen eskaliert. Dabei wurden Dutzende Geb\u00e4ude niedergebrannt.",
+        "ranked": 16,
+        "epoch": 1635670805.9909203
+    },
+    {
+        "title": "Nachhaltigkeit hat ihren Preis",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/mobil/2021-10/fairphone-4-smartphone-android-nachhaltigkeit-langlebigkeit",
+        "content": "F\u00fcnf Jahre Garantie, einzigartige Reparierbarkeit und nachhaltige Produktion: Das Fairphone 4 macht wieder vieles richtig. In anderen Aspekten aber entt\u00e4uscht das Ger\u00e4t.",
+        "ranked": 17,
+        "epoch": 1635670805.9909213
+    },
+    {
+        "title": "Oh mein Gott, Laub!",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-10/herbst-wetter-sommer-pro-contra",
+        "content": "Die B\u00e4ume sind bunt, die Pf\u00fctzen sind tief und die Jacken werden dicker. Ist das nicht sch\u00f6n? Ein Pro und Contra zu der Frage, ob der Herbst \u00fcberhaupt noch tragbar ist.",
+        "ranked": 18,
+        "epoch": 1635670805.9909248
+    },
+    {
+        "title": "Prinz Andrew h\u00e4lt Missbrauchsklage f\u00fcr unbegr\u00fcndet",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/prinz-andrew-missbrauchsvorwuerfe-rechtsstreit-zivilklage-zurueckweisung",
+        "content": "Seit 2019 wird wegen des Vorwurfs ermittelt, der Sohn von Queen Elizabeth habe eine Frau missbraucht. Kommende Woche wird der Fall vor einem Gericht in New York angeh\u00f6rt.",
+        "ranked": 19,
+        "epoch": 1635670805.9909258
+    }
+]
