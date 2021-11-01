@@ -16,6 +16,6 @@ class Gr1urlSpider(scrapy.Spider):
             print(title)
             if re.search(to_search, title):
                 f = open("gr1urls.txt", "a")
-                f.write(base_url + box.css("a::attr(href)").get())
+                f.write(base_url + box.css("a::attr(href)").get() + "\n")
                 f.close()
 
