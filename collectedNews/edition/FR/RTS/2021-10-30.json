@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/des-manifestations-syndicales-pour-de-meilleures-conditions-de-travail-auront-lieu-ce-samedi-25774395.html",
         "duration": "01:58",
         "ranked": 0,
-        "epoch": 1635775851.1478238
+        "epoch": 1635776231.9594698
     },
     {
         "title": "Ce samedi se tient la journée des proches aidants dans plusieurs cantons",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/ce-samedi-se-tient-la-journee-des-proches-aidants-dans-plusieurs-cantons-25774396.html",
         "duration": "01:36",
         "ranked": 1,
-        "epoch": 1635775851.147827
+        "epoch": 1635776231.9594722
     },
     {
         "title": "Quel avenir pour le Béjart Ballet après le nouvel audit?",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/quel-avenir-pour-le-bejart-ballet-apres-le-nouvel-audit-25774399.html",
         "duration": "02:08",
         "ranked": 2,
-        "epoch": 1635775851.1478288
+        "epoch": 1635776231.9594731
     },
     {
         "title": "Le Sénégal subit déjà de manière prononcée le réchauffement climatique",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-senegal-subit-deja-de-maniere-prononcee-le-rechauffement-climatique-25774405.html",
         "duration": "01:53",
         "ranked": 3,
-        "epoch": 1635775851.14783
+        "epoch": 1635776231.9594738
     },
     {
         "title": "G20: Quel place pour le climat avant la COP26?",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/g20-quel-place-pour-le-climat-avant-la-cop26-25774400.html",
         "duration": "01:55",
         "ranked": 4,
-        "epoch": 1635775851.1478312
+        "epoch": 1635776231.959475
     },
     {
         "title": "Les opposants au coup d'état militaire au Soudan manifestent dans les rues de Khartoum",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-opposants-au-coup-d-etat-militaire-au-soudan-manifestent-dans-les-rues-de-khartoum-25774404.html",
         "duration": "01:51",
         "ranked": 5,
-        "epoch": 1635775851.1478326
+        "epoch": 1635776231.9594758
     },
     {
         "title": "Hockey: Fribourg et Bienne dominent ce début de saison",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/hockey-fribourg-et-bienne-dominent-ce-debut-de-saison-25774406.html",
         "duration": "01:14",
         "ranked": 6,
-        "epoch": 1635775851.1478336
+        "epoch": 1635776231.9594767
     },
     {
         "title": "15 minutes - Rénovations climatiques, quand propriétaires et locataires s’inquiètent",
@@ -77,6 +77,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/15-minutes-renovations-climatiques-quand-proprietaires-et-locataires-s-inquietent-25774414.html",
         "duration": "15:07",
         "ranked": 7,
-        "epoch": 1635775851.1478345
+        "epoch": 1635776231.9594774
     }
 ]

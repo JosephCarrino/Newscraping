@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-referendum-est-lance-contre-le-credit-federal-destine-a-frontex-25773606.html",
         "duration": "01:42",
         "ranked": 0,
-        "epoch": 1635775851.2884836
+        "epoch": 1635776231.939853
     },
     {
         "title": "Le Parlement jurassien refuse la création d'une commission d'enquête sur les violences domestiques",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-parlement-jurassien-refuse-la-creation-d-une-commission-d-enquete-sur-les-violences-domestiques-25773605.html",
         "duration": "01:32",
         "ranked": 1,
-        "epoch": 1635775851.288487
+        "epoch": 1635776231.939856
     },
     {
         "title": "Le HC Sierre pourrait enfin se voir accorder une nouvelle patinoire",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-hc-sierre-pourrait-enfin-se-voir-accorder-une-nouvelle-patinoire-25773608.html",
         "duration": "01:52",
         "ranked": 2,
-        "epoch": 1635775851.2884884
+        "epoch": 1635776231.9398577
     },
     {
         "title": "Les chiffres de prévision de croissance en Allemagne sont fortement revus à la baisse",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-chiffres-de-prevision-de-croissance-en-allemagne-sont-fortement-revus-a-la-baisse-25773614.html",
         "duration": "01:06",
         "ranked": 3,
-        "epoch": 1635775851.2884898
+        "epoch": 1635776231.9398592
     },
     {
         "title": "Opération de la police genevoise pour traquer les deux-roues trop bruyants",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/operation-de-la-police-genevoise-pour-traquer-les-deux-roues-trop-bruyants-25773611.html",
         "duration": "01:36",
         "ranked": 4,
-        "epoch": 1635775851.288491
+        "epoch": 1635776231.9398606
     },
     {
         "title": "Les Etats-Unis tentent une nouvelle fois de faire extrader Julian Assange",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-etats-unis-tentent-une-nouvelle-fois-de-faire-extrader-julian-assange-25773612.html",
         "duration": "01:43",
         "ranked": 5,
-        "epoch": 1635775851.2884922
+        "epoch": 1635776231.939862
     },
     {
         "title": "L'Australie veut atteindre la neutralité carbone en 2050 sans pour autant changer ses habitudes",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-australie-veut-atteindre-la-neutralite-carbone-en-2050-sans-pour-autant-changer-ses-habitudes-25773613.html",
         "duration": "01:25",
         "ranked": 6,
-        "epoch": 1635775851.2884936
+        "epoch": 1635776231.9398632
     },
     {
         "title": "Le mouvement \"Street Stitchers\" encourage les Britanniques à s'habiller de manière plus responsable",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-mouvement-street-stitchers-encourage-les-britanniques-a-s-habiller-de-maniere-plus-responsable-25773618.html",
         "duration": "02:31",
         "ranked": 7,
-        "epoch": 1635775851.2884946
+        "epoch": 1635776231.9398644
     },
     {
         "title": "Football: Etoile-Carouge s'apprête à affronter Bâle ce mercredi",
@@ -87,7 +87,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/football-etoile-carouge-s-apprete-a-affronter-bale-ce-mercredi-25773616.html",
         "duration": "01:35",
         "ranked": 8,
-        "epoch": 1635775851.2884958
+        "epoch": 1635776231.9398656
     },
     {
         "title": "Le Suisse David Schmid est sacré meilleur pâtissier du monde",
@@ -97,7 +97,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-suisse-david-schmid-est-sacre-meilleur-patissier-du-monde-25773617.html",
         "duration": "01:03",
         "ranked": 9,
-        "epoch": 1635775851.2884972
+        "epoch": 1635776231.9398668
     },
     {
         "title": "L'invitée du 12h30 - Brigitte Glutz-Ruedin publie \"Sept personnalités en Valais\"",
@@ -107,6 +107,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invitee-du-12h30-brigitte-glutz-ruedin-publie-sept-personnalites-en-valais-25773625.html",
         "duration": "10:19",
         "ranked": 10,
-        "epoch": 1635775851.2884984
+        "epoch": 1635776231.9398682
     }
 ]

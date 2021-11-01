@@ -7,7 +7,7 @@
         "news_url": "https://www.pbs.org/newshour/show/britain-invests-in-planting-forests-to-fight-climate-change",
         "duration": "8 min",
         "ranked": 0,
-        "epoch": 1635775853.2968543
+        "epoch": 1635776233.7632506
     },
     {
         "title": "World leaders head to Glasgow for COP26 as G20 wraps up",
@@ -17,7 +17,7 @@
         "news_url": "https://www.pbs.org/newshour/show/world-leaders-head-to-glasgow-for-cop26-as-g20-wraps-up",
         "duration": "4 min",
         "ranked": 1,
-        "epoch": 1635775853.2968595
+        "epoch": 1635776233.763255
     },
     {
         "title": "In ‘deep blue’ Virginia, the race for governor is too close to call",
@@ -27,6 +27,6 @@
         "news_url": "https://www.pbs.org/newshour/show/in-deep-blue-virginia-the-race-for-governor-is-too-close-to-call",
         "duration": "5 min",
         "ranked": 2,
-        "epoch": 1635775853.2968621
+        "epoch": 1635776233.7632568
     }
 ]
