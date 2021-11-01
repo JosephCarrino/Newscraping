@@ -4,7 +4,7 @@ import re
 class Gr1urlSpider(scrapy.Spider):
     name = 'gr1url'
     allowed_domains = ['www.raiplayradio.it/programmi/']
-    start_urls = ['http://www.raiplayradio.it/programmi/gr1']
+    start_urls = ['https://www.raiplayradio.it/programmi/gr1/archivio/puntate/']
 
     def parse(self, response):
         base_url= "https://www.raiplayradio.it"
@@ -15,7 +15,8 @@ class Gr1urlSpider(scrapy.Spider):
             to_search= "ore 8"
             print(title)
             if re.search(to_search, title):
-                f = open("gr1urls.txt", "a")
+                print(title)
+                f = open("gr1urls.txt", "w")
                 f.write(base_url + box.css("a::attr(href)").get() + "\n")
                 f.close()
 
