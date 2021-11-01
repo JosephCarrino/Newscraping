@@ -1,0 +1,202 @@
+[
+    {
+        "title": "\"Ich finde, man muss sich vorher \u00fcberlegen, wen man einl\u00e4dt\"",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/amelie-deuflhard-hamburger-krimifestival-kampnagel-klaus-pueschel-interview",
+        "content": "Die Hamburger Kulturb\u00fchne Kampnagel distanziert sich von einer Lesung mit dem Rechtsmediziner Klaus P\u00fcschel. Ist das klug? Ein Gespr\u00e4ch mit Intendantin Amelie Deuflhard.",
+        "ranked": 0,
+        "epoch": 1635800406.076815
+    },
+    {
+        "title": "Supreme Court pr\u00fcft texanisches Verbot von Schwangerschaftsabbr\u00fcchen",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/usa-texas-schwangerschaftsabbruch-verbot-supreme-court",
+        "content": "Texas hat Schwangerschaftsabbr\u00fcche ab der sechsten Woche verboten, die US-Regierung klagt dagegen. Das oberste Gerichts ist von Konservativen dominiert.",
+        "ranked": 1,
+        "epoch": 1635800406.0768168
+    },
+    {
+        "title": "\"Es ist unglaublich frustrierend, immer wieder von vorne anzufangen\"",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/green/2021-10/klimapolitik-cop26-anke-herold-klimakonferenz",
+        "content": "Die Verhandlungsf\u00fchrerin Anke Herold ist seit 1995 bei fast jeder Klimakonferenz gewesen. Ein Gespr\u00e4ch \u00fcber die sch\u00f6nsten Hotels und die Verz\u00f6gerungstaktiken der Saudis",
+        "ranked": 2,
+        "epoch": 1635800406.076818
+    },
+    {
+        "title": "AfD-Bundesvorstand will nieders\u00e4chsischen Landeschef ausschlie\u00dfen",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/jens-kestner-afd-niedersachsen-parteiausschluss",
+        "content": "Um seinem Lager bessere Pl\u00e4tze zu verschaffen, soll Jens Kestner Formfehler bei der Aufstellung der Landesliste inszeniert haben. Die Bundespartei will ihn nun loswerden.",
+        "ranked": 3,
+        "epoch": 1635800406.0768185
+    },
+    {
+        "title": "Nach der Impfung ist vor der Impfung",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-booster-impfungen-auffrischungsimpfung-faq",
+        "content": "Auffrischungsimpfungen sollen helfen, die Pandemie einzud\u00e4mmen. Wie sinnvoll sind sie und was braucht es sonst noch, damit Deutschland gut durch den Winter kommt?",
+        "ranked": 4,
+        "epoch": 1635800406.0768192
+    },
+    {
+        "title": "Die verzerrte Zahl",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/corona-inzidenz-aussagekraft-gesundheitsbehoerden-alternativen-hamburg",
+        "content": "In Hamburg betr\u00e4gt die Sieben-Tage-Inzidenz aktuell 123,8. M\u00fcssten sich auch Geimpfte regelm\u00e4\u00dfig testen lassen, l\u00e4ge der Wert wohl deutlich h\u00f6her.",
+        "ranked": 5,
+        "epoch": 1635800406.07682
+    },
+    {
+        "title": "Der Klang der Berge",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/musik/2021-11/mulo-francel-saxophonist-mountain-melody",
+        "content": "Der Saxofonist Mulo Francel hat auf einem Dutzend Gipfeln Musik aufgenommen \u2013 auch, um von der Bedrohung der Natur zu k\u00fcnden. Nun ist das Ergebnis als Album erschienen.",
+        "ranked": 6,
+        "epoch": 1635800406.0768209
+    },
+    {
+        "title": "Mindestens 22 Tote bei Raketenangriff auf Moschee",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/jemen-buergerkrieg-raketenangriff-moschee-todesopfer",
+        "content": "Die \u00f6lreiche Region Marib im Jemen gilt als letzte Hochburg der Regierung. Sie ist schwer umk\u00e4mpft. Nun sollen Huthi-Rebellen Raketen auf eine Moschee abgefeuert haben.",
+        "ranked": 7,
+        "epoch": 1635800406.0768216
+    },
+    {
+        "title": "Wie viel K\u00f6rper darf's denn sein?",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-10/menstruation-feminismus-feuilleton-podcast",
+        "content": "Feministinnen k\u00e4mpfen im Netz f\u00fcr einen offenen Umgang mit dem Thema Menstruation. Aber ist es wirklich fortschrittlich, die eigene Natur zu idealisieren?",
+        "ranked": 8,
+        "epoch": 1635800406.076822
+    },
+    {
+        "title": "\"Wenn ich immer das Gleiche mache, kommt mir das Leben sehr kurz vor\"",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-10/zeitwahrnehmung-psychologe-marc-wittmann-forschung-zeit-empfinden-corona-pandemie",
+        "content": "Mal fliegen die Minuten vorbei, mal dauern sie eine Ewigkeit. Warum nur? Und was hat Corona mit unserem Zeitempfinden gemacht? Das wei\u00df der Psychologe Marc Wittmann.",
+        "ranked": 9,
+        "epoch": 1635800406.0768228
+    },
+    {
+        "title": "\"Wenn Glasgow scheitert, scheitert alles\"",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/un-weltklimakonferenz-glasgow-erderwaermung-jens-spahn-imfzentren-nachrichtenpodcast",
+        "content": "Der britische Premierminister Boris Johnson hat die UN-Klimakonferenz in Glasgow mit d\u00fcsteren Worten er\u00f6ffnet. Au\u00dferdem im Update: Boostern im Impfzentrum?",
+        "ranked": 10,
+        "epoch": 1635800406.0768235
+    },
+    {
+        "title": "\"Wir schaufeln uns unser eigenes Grab\"",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/klimagipfel-glasgow-cop26-angela-merkel-co2-preis-klimakonferenz",
+        "content": "UN-Generalsekret\u00e4r Ant\u00f3nio Guterres hat zu Beginn des Klimagipfels drastische Worte gew\u00e4hlt. Auch Angela Merkel, Joe Biden und weitere Politiker warben f\u00fcr Klimaschutz.",
+        "ranked": 11,
+        "epoch": 1635800406.076824
+    },
+    {
+        "title": "Bislang rund 1.200 Afghanen auf dem Landweg ausgereist",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/auswaertiges-amt-afghanistan-ausreise-schwierigkeiten-flucht-taliban",
+        "content": "F\u00fcr ausreiseberechtigte Afghanen bleibt die gr\u00f6\u00dfte H\u00fcrde, \u00fcber Land auszureisen. Daf\u00fcr n\u00f6tig ist ein Pass. Die Bundesregierung ist dazu in Gespr\u00e4chen mit den Taliban.",
+        "ranked": 12,
+        "epoch": 1635800406.076825
+    },
+    {
+        "title": "Die allermeisten Tarifbesch\u00e4ftigten erhalten Sonderzahlungen",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/weihnachtsgeld-tarifbeschaeftigung-sonderzahlung-jahresende-arbeitnehmer",
+        "content": "Sonderzahlungen zum Jahresende sind in vielen Branchen eingeplant, gerade viele Tarifbesch\u00e4ftigte erhalten sie auch. Bezogen auf alle Arbeitnehmer sieht es anders aus.",
+        "ranked": 13,
+        "epoch": 1635800406.0768254
+    },
+    {
+        "title": "Polizisten beim Sporttreiben auf dem Holocaustmahnmal gefilmt",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/berlin-holocaust-mahnmal-polizisten-liegestuetze-missbrauch-andenken-pfingstwochenende",
+        "content": "Ein Handyvideo zeigt, wie Beamte auf den Betonstelen des Berliner Denkmals f\u00fcr die ermordeten Juden Liegest\u00fctze machen. Die Polizei k\u00fcndigte Konsequenzen an.",
+        "ranked": 14,
+        "epoch": 1635800406.0768259
+    },
+    {
+        "title": "Linke fordert wegen Teuerung 200 Euro Einmalzahlung f\u00fcr \u00c4rmere",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/steigende-energiepreise-die-linke-entlastungspaket-preissteigerung-einmalzahlung-aermere",
+        "content": "Die Linke warnt davor, dass Menschen im Winter wegen der hohen Energiepreise frieren m\u00fcssen. Einmalzahlungen und h\u00f6here Sozialleistungen sollen das verhindern.",
+        "ranked": 15,
+        "epoch": 1635800406.0768266
+    },
+    {
+        "title": "\"W\u00e4hrend der Scheidung zeigt sich der wahre Charakter eines Menschen\"",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-10/scheidungsrecht-ehevertrag-scheidung-kosten-monika-mittendorf",
+        "content": "Monika Mittendorf arbeitet seit 25 Jahren als Scheidungsanw\u00e4ltin. Sie erkl\u00e4rt, wie man teure Scheidungen verhindert und was unbedingt in einem Ehevertrag stehen sollte.",
+        "ranked": 16,
+        "epoch": 1635800406.076827
+    },
+    {
+        "title": "Neue Brisanz im Fall Attila Hildmann",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/attila-hildmann-querdenker-verschwoerungstheoretiker-corona-faq",
+        "content": "Seit Monaten wird Attila Hildmann per Haftbefehl gesucht. Nun kommt heraus: In der Ermittlungsbeh\u00f6rde gab es wohl einen Maulwurf. Die wichtigsten Fragen und Antworten",
+        "ranked": 17,
+        "epoch": 1635800406.0768309
+    },
+    {
+        "title": "Zwei Frauen werden Mitglieder der \"Bild\"-Chefredaktion",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/johannes-bioe-bild-chef-erweiterte-chefredaktion-frauen-einstellung",
+        "content": "Der neue Chefredakteur der \"Bild\"-Zeitung will eine neue Kultur des Respekts f\u00fcr das Boulevardblatt schaffen. Dazu holt er zwei Frauen in die Chefredaktion.",
+        "ranked": 18,
+        "epoch": 1635800406.0768318
+    },
+    {
+        "title": "So k\u00f6nnte ein Klimaclub gelingen",
+        "date_raw": "November 01, 2021",
+        "date": "2021-11-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/klimaclub-germanwatch-cop26-klimaneutral-staaten-olaf-scholz-klimakrise",
+        "content": "Kanzlerkandidat Olaf Scholz wirbt f\u00fcr einen globalen Klimaclub, um endlich Fortschritte zu erzielen. Damit er keine Elitenveranstaltung wird, sind drei Punkte wichtig.",
+        "ranked": 19,
+        "epoch": 1635800406.076835
+    }
+]
