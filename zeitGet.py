@@ -76,7 +76,7 @@ def main():
     now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
     if toDump:
         f= open("collectedNews/flow/DE/Zeit/" + str(now) + "E" + str(time.time()) + ".json", "w")
-        json.dump(edition + "\n", f, indent= 4)
+        json.dump(edition, f, indent= 4)
         f.close()
         f= open("collectedNews/flow/DE/Zeit/" + str(now) + "E" + str(time.time()) + ".json", "a")
         f.write("\n")
