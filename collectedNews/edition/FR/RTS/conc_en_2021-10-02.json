@@ -3,24 +3,39 @@
         "title": "Les bons de 50 francs proposÃÂ©s par le Conseil fÃÂ©dÃÂ©ral ne sÃÂ©duisent pas Bertrand Kiefer",
         "date_raw": "October 02, 2021",
         "date": "2021-10-02",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/les-bons-de-50-francs-proposes-par-le-conseil-federal-ne-seduisent-pas-bertrand-kiefer-25767162.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-bons-de-50-francs-proposes-par-le-conseil-federal-ne-seduisent-pas-bertrand-kiefer-25767162.html",
         "duration": "03:28",
         "ranked": 0,
-        "epoch": 1634562790.6829765,
+        "epoch": 1635022808.0502229,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-02.json",
-        "en_title": "The 50-franc vouchers offered by the Federal Council do not appeal to Bertrand Kiefer",
+        "filename": "conc_en_2021-10-02.json",
+        "en_title": "The coupons of 50 francs proposed by the Federal Council do not result from Bertrand Kiefer",
         "concepts": [
             {
-                "word": "vouchers",
+                "word": "coupons",
                 "meaning": "nsubj",
                 "pos": "VERB"
+            },
+            {
+                "word": "francs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Federal",
+                "meaning": "compound",
+                "pos": "PROPN"
             },
             {
                 "word": "Council",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "Bertrand",
+                "meaning": "compound",
+                "pos": "PROPN"
             },
             {
                 "word": "Kiefer",
@@ -33,24 +48,44 @@
         "title": "Le PLR se rÃÂ©unit pour discuter ÃÂ©lections et modification de la loi Covid ce samedi",
         "date_raw": "October 02, 2021",
         "date": "2021-10-02",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-plr-se-reunit-pour-discuter-elections-et-modification-de-la-loi-covid-ce-samedi-25767165.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-plr-se-reunit-pour-discuter-elections-et-modification-de-la-loi-covid-ce-samedi-25767165.html",
         "duration": "01:58",
         "ranked": 1,
-        "epoch": 1634562790.6829782,
+        "epoch": 1635022808.0502253,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-02.json",
-        "en_title": "The PLR ââmeets to discuss elections and modification of the Covid law this Saturday",
+        "filename": "conc_en_2021-10-02.json",
+        "en_title": "The PLR recesses to discuss elections and modification of the Covid law this Saturday",
         "concepts": [
+            {
+                "word": "PLR",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
             {
                 "word": "elections",
                 "meaning": "dobj",
                 "pos": "VERB"
             },
             {
+                "word": "modification",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
                 "word": "law",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "Saturday",
+                "meaning": "npadvmod",
+                "pos": "VERB"
             }
         ]
     },
@@ -58,19 +93,44 @@
         "title": "Henrique de Gouveia e Melo, le vice-amiral qui booste la vaccination au Portugal",
         "date_raw": "October 02, 2021",
         "date": "2021-10-02",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/henrique-de-gouveia-e-melo-le-vice-amiral-qui-booste-la-vaccination-au-portugal-25767167.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/henrique-de-gouveia-e-melo-le-vice-amiral-qui-booste-la-vaccination-au-portugal-25767167.html",
         "duration": "02:10",
         "ranked": 2,
-        "epoch": 1634562790.682979,
+        "epoch": 1635022808.050226,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-02.json",
-        "en_title": "Henrique de Gouveia e Melo, the vice-admiral who boosts vaccination in Portugal",
+        "filename": "conc_en_2021-10-02.json",
+        "en_title": "Henrique de Gouveia E Melo, the vice-admiral that boosts vaccination in Portugal",
         "concepts": [
             {
-                "word": "who",
-                "meaning": "nsubj",
-                "pos": "VERB"
+                "word": "Henrique",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gouveia",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "E",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Melo",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "vice",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-",
+                "meaning": "appos",
+                "pos": "PROPN"
             },
             {
                 "word": "vaccination",
@@ -88,25 +148,15 @@
         "title": "Observer le sommeil des mouches pour mieux comprendre le rÃÂ´le des gÃÂªnes dans certaines pathologies",
         "date_raw": "October 02, 2021",
         "date": "2021-10-02",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/observer-le-sommeil-des-mouches-pour-mieux-comprendre-le-role-des-genes-dans-certaines-pathologies-25767170.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/observer-le-sommeil-des-mouches-pour-mieux-comprendre-le-role-des-genes-dans-certaines-pathologies-25767170.html",
         "duration": "01:37",
         "ranked": 3,
-        "epoch": 1634562790.6829798,
+        "epoch": 1635022808.0502264,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-02.json",
-        "en_title": "Observe the sleep of flies to better understand the role of genes in certain pathologies",
+        "filename": "conc_en_2021-10-02.json",
+        "en_title": "Observe fly sleep to better understand the role of genes in certain pathologies",
         "concepts": [
-            {
-                "word": "sleep",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "flies",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
             {
                 "word": "role",
                 "meaning": "dobj",
@@ -128,19 +178,39 @@
         "title": "Mise en service du North Sea Link, le plus long cÃÂ¢ble ÃÂ©lectrique sous-marin du monde",
         "date_raw": "October 02, 2021",
         "date": "2021-10-02",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/mise-en-service-du-north-sea-link-le-plus-long-cable-electrique-sous-marin-du-monde-25767169.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/mise-en-service-du-north-sea-link-le-plus-long-cable-electrique-sous-marin-du-monde-25767169.html",
         "duration": "01:39",
         "ranked": 4,
-        "epoch": 1634562790.6829805,
+        "epoch": 1635022808.0502272,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-02.json",
-        "en_title": "Commissioning of the North Sea Link, the longest underwater power cable in the world",
+        "filename": "conc_en_2021-10-02.json",
+        "en_title": "Commissioning of the North Sea Link, the longest submarine electricity cable in the world",
         "concepts": [
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sea",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
             {
                 "word": "Link",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "submarine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "electricity",
+                "meaning": "compound",
+                "pos": "NOUN"
             },
             {
                 "word": "cable",
@@ -158,19 +228,29 @@
         "title": "15 Minutes - Comment se porte la lutte climatique?",
         "date_raw": "October 02, 2021",
         "date": "2021-10-02",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/15-minutes-comment-se-porte-la-lutte-climatique-25767175.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/15-minutes-comment-se-porte-la-lutte-climatique-25767175.html",
         "duration": "14:56",
         "ranked": 5,
-        "epoch": 1634562790.6829815,
+        "epoch": 1635022808.050228,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-02.json",
-        "en_title": "15 Minutes - How is the climate fight going?",
+        "filename": "conc_en_2021-10-02.json",
+        "en_title": "15 minutes - How is the climate struggle?",
         "concepts": [
             {
-                "word": "fight",
+                "word": "minutes",
+                "meaning": "npadvmod",
+                "pos": "AUX"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "struggle",
                 "meaning": "nsubj",
-                "pos": "VERB"
+                "pos": "AUX"
             }
         ]
     }

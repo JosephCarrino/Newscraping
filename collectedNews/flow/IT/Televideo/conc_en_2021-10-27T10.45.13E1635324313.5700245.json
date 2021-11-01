@@ -1,0 +1,248 @@
+[
+    {
+        "title": "MANOVRA, SULLE PENSIONI MANCA INTESA   Tensione a incontro Draghi-sindacati   Il premier va via per un impegno",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": "",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1635324313.5699787,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.45.13E1635324313.5700245.json",
+        "en_title": "Maneuver, on pensions lacks intse tension to meeting dragons-unions the premier goes away for a commitment",
+        "concepts": [
+            {
+                "word": "Maneuver",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "pensions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tension",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dragons",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "unions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "premier",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "commitment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sindacati: \"Incontro non ÃÂ¨ andato bene\" \"Senza risposte, mobilitazioni\"",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": "",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1635324313.5699875,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.45.13E1635324313.5700245.json",
+        "en_title": "Trade unions: \"Meeting didn't go well\" \"without answers, mobilizations\"",
+        "concepts": [
+            {
+                "word": "Trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "unions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Meeting",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "answers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "mobilizations",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "BIANCHI:MAI COSI'TANTI SOLDI PER SCUOLA \"Nuovi spazi e riqualificazione\"",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=133",
+        "content": "",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1635324313.5699944,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.45.13E1635324313.5700245.json",
+        "en_title": "Bianchi: Never so much money for school \"new spaces and redevelopment\"",
+        "concepts": [
+            {
+                "word": "Bianchi",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "money",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "spaces",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "redevelopment",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "GASOLIO AI MASSIMI DAL 2014, SFONDA 1,6 Consumatori:rincaro 365 euro a auto",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=134",
+        "content": "",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1635324313.5700011,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.45.13E1635324313.5700245.json",
+        "en_title": "Diesel at the highest since 2014, breaking 1.6 consumers: Returning 365 euros a car",
+        "concepts": [
+            {
+                "word": "Diesel",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "consumers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "euros",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "car",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ENERGIA,IN UE MANCA INTESA SULLE MISURE Si rinvia al Consiglio di dicembre",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=135",
+        "content": "",
+        "ranked": 4,
+        "placed": "Economics",
+        "epoch": 1635324313.5700078,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.45.13E1635324313.5700245.json",
+        "en_title": "Energy, in the EU lacks on the measures please refer to the Council of December",
+        "concepts": [
+            {
+                "word": "Energy",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "measures",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Council",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "December",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nota su indici di Borsa Televideo",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": "",
+        "ranked": 5,
+        "placed": "Economics",
+        "epoch": 1635324313.5700145,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.45.13E1635324313.5700245.json",
+        "en_title": "Note on Teletext stock exchange indexes",
+        "concepts": [
+            {
+                "word": "Teletext",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indexes",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

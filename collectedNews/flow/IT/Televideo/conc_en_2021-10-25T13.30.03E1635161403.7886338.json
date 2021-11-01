@@ -1,0 +1,282 @@
+[
+    {
+        "title": "MALTEMPO SICILIA,1 MORTO E UNA DISPERSA Voli cancellati. Danni a Eolie, isolate Allerta in Calabria, Sud sferzato",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635161403.7885706,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T13.30.03E1635161403.7886338.json",
+        "en_title": "Bad weather Sicily, 1 dead and a dispersed deleted flights.Damage to Aeolian, Isolated Alert in Calabria, South Lashed",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sicily",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "flights",
+                "meaning": "conj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Damage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Aeolian",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Isolated",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Alert",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Calabria",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "South",
+                "meaning": "compound",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "EMA AVVIA ESAME PILLOLA CONTRO IL COVID Gimbe:\"aumenti contagi da monitorare\"  Crisanti: \"3a dose per evitare caso GB\" Rinviata la maratona di Pechino",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635161403.788586,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T13.30.03E1635161403.7886338.json",
+        "en_title": "EMA Start Equipment Pill against Covid Gimbbe: \"Inquiry increases to monitor\" Chisels: \"3rd dose to avoid GB case\" The Beijing marathon postponed",
+        "concepts": [
+            {
+                "word": "EMA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Start",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Equipment",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pill",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gimbbe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Inquiry",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Chisels",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "3rd",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dose",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "GB",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Beijing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "marathon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MATTARELLA: TUTTI IN GIOCO PER CRESCITA \"Ora rilancio, universitÃÂ  decisive\"",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635161403.788598,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T13.30.03E1635161403.7886338.json",
+        "en_title": "Mattarella: all in play for growth \"now raise, decisive universities\"",
+        "concepts": [
+            {
+                "word": "Mattarella",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "play",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "growth",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "universities",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "GOVERNO AL LAVORO SU TASSE E PENSIONI  Consiglio Ministri slitta a giovedÃÂ¬",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1635161403.7886128,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T13.30.03E1635161403.7886338.json",
+        "en_title": "Government at work on taxes and pensions Council Ministers sled on Thursday",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "work",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "taxes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "pensions",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ministers",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Thursday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "GOLPE SUDAN, DICHIARATO STATO EMERGENZA Arrestati il premier e due ministri",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1635161403.7886202,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T13.30.03E1635161403.7886338.json",
+        "en_title": "Sudan Golpe, declared Emergency State arrested the premier and two ministers",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Golpe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Emergency",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "State",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "premier",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ministers",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

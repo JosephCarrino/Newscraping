@@ -1,0 +1,227 @@
+[
+    {
+        "title": "MEDICI: REGINA ELISABETTA STIA A RIPOSO Costretta a cancellare un viaggio",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1634783403.5588357,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T04.30.03E1634783403.5588844.json",
+        "en_title": "Doctors: Queen Elizabeth is at rest forced to cancel a trip",
+        "concepts": [
+            {
+                "word": "Doctors",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Queen",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Elizabeth",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rest",
+                "meaning": "advmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "trip",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "IL PREMIO SACHAROV AD ALEXEI NAVALNY   Europarlamento ne chiede rilascio",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1634783403.558846,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T04.30.03E1634783403.5588844.json",
+        "en_title": "The Sacharov Award in Alexei Navalny Europarlamento asks for release",
+        "concepts": [
+            {
+                "word": "Sacharov",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Award",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Alexei",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Navalny",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Europarlamento",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "release",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "ASSALTO A CONGRESSO,BANNON SOTTO ACCUSA Commissione a favore azione penale",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1634783403.5588534,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T04.30.03E1634783403.5588844.json",
+        "en_title": "Congress Assault, Bannon under accuses Commission in favor of criminal action",
+        "concepts": [
+            {
+                "word": "Congress",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Assault",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "accuses",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Commission",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "favor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "action",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CLIMA, NUOVO MONITO DALLE NAZIONI UNITE \"Limitare i combustibili fossili\"",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": "",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1634783403.558862,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T04.30.03E1634783403.5588844.json",
+        "en_title": "Climate, new monitored by the United Nations \"Limit fossil fuels\"",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "United",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Nations",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Limit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "SUMMIT MOSCA:SUBITO RELAZIONI CON KABUL Ai talebani: fare governo inclusivo",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": "",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1634783403.5588734,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T04.30.03E1634783403.5588844.json",
+        "en_title": "Moscow Summit: immediately relations with Kabul to Taliban: doing inclusive government",
+        "concepts": [
+            {
+                "word": "Moscow",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Summit",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Kabul",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "government",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

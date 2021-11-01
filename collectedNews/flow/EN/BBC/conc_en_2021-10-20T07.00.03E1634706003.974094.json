@@ -1,0 +1,682 @@
+[
+    {
+        "title": "House panel votes to hold ex-Trump aide in contempt",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58976196",
+        "content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
+        "placed": "First_Page",
+        "epoch": 1634706003.973779,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "House panel votes to hold ex-Trump aide in contempt",
+        "en_content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
+        "concepts": [
+            {
+                "word": "House",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "panel",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "votes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aide",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "House panel votes to hold ex-Trump aide in contempt",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58976196",
+        "content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
+        "placed": "First_Page",
+        "epoch": 1634706003.9738204,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "House panel votes to hold ex-Trump aide in contempt",
+        "en_content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
+        "concepts": [
+            {
+                "word": "House",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "panel",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "votes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aide",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fossil fuel production set to soar in next decade",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/science-environment-58971131",
+        "content": "Government plans to extract coal, oil and gas are incompatible with safe temperatures, says the UN.",
+        "placed": "First_Page",
+        "epoch": 1634706003.973848,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "Fossil fuel production set to soar in next decade",
+        "en_content": "Government plans to extract coal, oil and gas are incompatible with safe temperatures, says the UN.",
+        "concepts": [
+            {
+                "word": "Fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "production",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "decade",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "North Korea claims new harder-to-track sub missile",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-58976195",
+        "content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "placed": "First_Page",
+        "epoch": 1634706003.9738667,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "North Korea claims new harder-to-track sub missile",
+        "en_content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "concepts": [
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Korea",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "track",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sub",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "missile",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Myanmar: 'I thought I wouldn't come out alive'",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-asia-58976296",
+        "content": "Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail.",
+        "placed": "First_Page",
+        "epoch": 1634706003.9738777,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "Myanmar: 'I thought I wouldn't come out alive'",
+        "en_content": "Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail.",
+        "concepts": [
+            {
+                "word": "Myanmar",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Squid Game helps Netflix subscriptions pick up",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/business-58976204",
+        "content": "The streaming giant added 4.4 million new users in the third quarter as foreign language shows continued to fly.",
+        "placed": "First_Page",
+        "epoch": 1634706003.9738941,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "Squid Game helps Netflix subscriptions pick up",
+        "en_content": "The streaming giant added 4.4 million new users in the third quarter as foreign language shows continued to fly.",
+        "concepts": [
+            {
+                "word": "Squid",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Game",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netflix",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "subscriptions",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Transgender official sworn in as four-star admiral",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58974627",
+        "content": "Dr Rachel Levine is already the nation's most prominent openly transgender federal official.",
+        "placed": "First_Page",
+        "epoch": 1634706003.97391,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "Transgender official sworn in as four-star admiral",
+        "en_content": "Dr Rachel Levine is already the nation's most prominent openly transgender federal official.",
+        "concepts": [
+            {
+                "word": "Transgender",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "star",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "admiral",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Navy report blames ship fire on command chain",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58975431",
+        "content": "The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days.",
+        "placed": "First_Page",
+        "epoch": 1634706003.973925,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "Navy report blames ship fire on command chain",
+        "en_content": "The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days.",
+        "concepts": [
+            {
+                "word": "Navy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ship",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "command",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chain",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "FBI searches US homes linked to Russian oligarch",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58971032",
+        "content": "Agents are sweeping homes linked to Oleg Deripaska, a Russian oligarch who is under US sanctions.",
+        "placed": "First_Page",
+        "epoch": 1634706003.9739392,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "FBI searches US homes linked to Russian oligarch",
+        "en_content": "Agents are sweeping homes linked to Oleg Deripaska, a Russian oligarch who is under US sanctions.",
+        "concepts": [
+            {
+                "word": "FBI",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "homes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "oligarch",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Hospital bosses urge return of England Covid rules",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-58976577",
+        "content": "NHS chiefs warn of a winter crisis amid rising cases, but ministers have no plans for new measures. ",
+        "placed": "First_Page",
+        "epoch": 1634706003.9739537,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "Hospital bosses urge return of England Covid rules",
+        "en_content": "NHS chiefs warn of a winter crisis amid rising cases, but ministers have no plans for new measures. ",
+        "concepts": [
+            {
+                "word": "Hospital",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bosses",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "return",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "England",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Australian ex-cricketer Michael Slater arrested",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-australia-58976768",
+        "content": "The former batsman was arrested in Sydney over an alleged domestic violence incident.",
+        "placed": "First_Page",
+        "epoch": 1634706003.973968,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "Australian ex-cricketer Michael Slater arrested",
+        "en_content": "The former batsman was arrested in Sydney over an alleged domestic violence incident.",
+        "concepts": [
+            {
+                "word": "ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cricketer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Michael",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Slater",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "IMF: Afghanistan economic woes to hurt neighbours",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/business-58950560",
+        "content": "Afghanistan's economic turmoil will fuel a refugee crisis impacting nearby countries, the fund warned.",
+        "placed": "First_Page",
+        "epoch": 1634706003.9739819,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "IMF: Afghanistan economic woes to hurt neighbours",
+        "en_content": "Afghanistan's economic turmoil will fuel a refugee crisis impacting nearby countries, the fund warned.",
+        "concepts": [
+            {
+                "word": "IMF",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Afghanistan",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woes",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "neighbours",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Australian ex-cricketer Michael Slater arrested",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-australia-58976768",
+        "content": "The former batsman was arrested in Sydney over an alleged domestic violence incident.",
+        "placed": "First_Page",
+        "epoch": 1634706003.9739954,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "Australian ex-cricketer Michael Slater arrested",
+        "en_content": "The former batsman was arrested in Sydney over an alleged domestic violence incident.",
+        "concepts": [
+            {
+                "word": "ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cricketer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Michael",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Slater",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "IMF: Afghanistan economic woes to hurt neighbours",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/business-58950560",
+        "content": "Afghanistan's economic turmoil will fuel a refugee crisis impacting nearby countries, the fund warned.",
+        "placed": "First_Page",
+        "epoch": 1634706003.974009,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "IMF: Afghanistan economic woes to hurt neighbours",
+        "en_content": "Afghanistan's economic turmoil will fuel a refugee crisis impacting nearby countries, the fund warned.",
+        "concepts": [
+            {
+                "word": "IMF",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Afghanistan",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woes",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "neighbours",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "At least 46 killed in floods in Himalayan state",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-india-58951456",
+        "content": "Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand.",
+        "placed": "First_Page",
+        "epoch": 1634706003.9740226,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "At least 46 killed in floods in Himalayan state",
+        "en_content": "Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand.",
+        "concepts": [
+            {
+                "word": "floods",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "state",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "School steps in to give classes to Afghan children",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-58890916",
+        "content": "Hear from Afghan teenagers who are receiving English lessons, thanks to a local school.",
+        "placed": "First_Page",
+        "epoch": 1634706003.9740357,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "School steps in to give classes to Afghan children",
+        "en_content": "Hear from Afghan teenagers who are receiving English lessons, thanks to a local school.",
+        "concepts": [
+            {
+                "word": "School",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "classes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "children",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Commuters fail to report rape on Philadelphia train",
+        "date_raw": "PT2",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58949611",
+        "content": "A woman was assaulted by another passenger and some riders may have filmed the incident, police say.",
+        "placed": "First_Page",
+        "epoch": 1634706003.9740434,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "Commuters fail to report rape on Philadelphia train",
+        "en_content": "A woman was assaulted by another passenger and some riders may have filmed the incident, police say.",
+        "concepts": [
+            {
+                "word": "Commuters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rape",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Philadelphia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "train",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ros Atkins onÃ¢ÂÂ¦ Europe's climate challenge",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/science-environment-58970153",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1634706003.9740615,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "Ros Atkins onÃ¢ÂÂ¦ Europe's climate challenge",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Ros",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Atkins",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "onÃ¢ÂÂ",
+                "meaning": "punct",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Europe",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "challenge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Why does a climate summit need 25,000 people?",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/science-environment-58925049",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1634706003.9740818,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.03E1634706003.974094.json",
+        "en_title": "Why does a climate summit need 25,000 people?",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "people",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

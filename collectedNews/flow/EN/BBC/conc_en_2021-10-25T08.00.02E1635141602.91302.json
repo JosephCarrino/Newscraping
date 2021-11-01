@@ -1,0 +1,647 @@
+[
+    {
+        "title": "Sudan's civilian heads arrested amid coup reports",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-africa-59033142",
+        "content": "It comes amid rising tensions between the country's military and civilian transitional authorities.",
+        "placed": "First_Page",
+        "epoch": 1635141602.9127035,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Sudan's civilian heads arrested amid coup reports",
+        "en_content": "It comes amid rising tensions between the country's military and civilian transitional authorities.",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "heads",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reports",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sudan's civilian heads arrested amid coup reports",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-africa-59033142",
+        "content": "It comes amid rising tensions between the country's military and civilian transitional authorities.",
+        "placed": "First_Page",
+        "epoch": 1635141602.9127326,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Sudan's civilian heads arrested amid coup reports",
+        "en_content": "It comes amid rising tensions between the country's military and civilian transitional authorities.",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "heads",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reports",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Friends star James Michael Tyler dies aged 59",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59032751",
+        "content": "The actor, who played Gunther on the hit show, had been diagnosed with stage four prostate cancer.",
+        "placed": "First_Page",
+        "epoch": 1635141602.912752,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Friends star James Michael Tyler dies aged 59",
+        "en_content": "The actor, who played Gunther on the hit show, had been diagnosed with stage four prostate cancer.",
+        "concepts": [
+            {
+                "word": "Friends",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "James",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Michael",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Tyler",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Facebook whistleblower meets safe content activist",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/uk-59032290",
+        "content": "Frances Haugen meets Ian Russell, whose daughter died by suicide after viewing disturbing content.",
+        "placed": "First_Page",
+        "epoch": 1635141602.9127636,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Facebook whistleblower meets safe content activist",
+        "en_content": "Frances Haugen meets Ian Russell, whose daughter died by suicide after viewing disturbing content.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "whistleblower",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "content",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "activist",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Michael Jordan's trainers sell for record $1.47m",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59032756",
+        "content": "The US basketball legend wore the pair of red and white trainers during his first NBA season in 1984.",
+        "placed": "First_Page",
+        "epoch": 1635141602.91278,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Michael Jordan's trainers sell for record $1.47m",
+        "en_content": "The US basketball legend wore the pair of red and white trainers during his first NBA season in 1984.",
+        "concepts": [
+            {
+                "word": "Michael",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jordan",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trainers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "record",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "m",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Beijing marathon postponed due to Covid surge",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59033165",
+        "content": "Around 30,000 people were expected to take part in the marathon on October 31.",
+        "placed": "First_Page",
+        "epoch": 1635141602.9127955,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Beijing marathon postponed due to Covid surge",
+        "en_content": "Around 30,000 people were expected to take part in the marathon on October 31.",
+        "concepts": [
+            {
+                "word": "Beijing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "marathon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "surge",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'My internet addiction was out of control'",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59032300",
+        "content": "US officials had placed a $5m (ÃÂ£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord.",
+        "placed": "First_Page",
+        "epoch": 1635141602.9128113,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "'My internet addiction was out of control'",
+        "en_content": "US officials had placed a $5m (ÃÂ£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord.",
+        "concepts": [
+            {
+                "word": "internet",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "addiction",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "control",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Colombian drug lord to be sent to US after capture",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59029509",
+        "content": "The cinematographer was fatally shot by a prop gun while filming for western movie Rust.",
+        "placed": "First_Page",
+        "epoch": 1635141602.9128256,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Colombian drug lord to be sent to US after capture",
+        "en_content": "The cinematographer was fatally shot by a prop gun while filming for western movie Rust.",
+        "concepts": [
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lord",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "capture",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Vigil held for cinematographer Halyna Hutchins",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-59032991",
+        "content": "Councils should be able to stop anti-vax protests outside schools, Labour leader Sir Keir Starmer says.",
+        "placed": "First_Page",
+        "epoch": 1635141602.9128397,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Vigil held for cinematographer Halyna Hutchins",
+        "en_content": "Councils should be able to stop anti-vax protests outside schools, Labour leader Sir Keir Starmer says.",
+        "concepts": [
+            {
+                "word": "Vigil",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cinematographer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Halyna",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hutchins",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK opposition leader: Protect schools from anti-vaxxers",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59024491",
+        "content": "Vanessa Bryant said she learned about the death of her husband by seeing \"RIP Kobe\" notifications.",
+        "placed": "First_Page",
+        "epoch": 1635141602.912854,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "UK opposition leader: Protect schools from anti-vaxxers",
+        "en_content": "Vanessa Bryant said she learned about the death of her husband by seeing \"RIP Kobe\" notifications.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "opposition",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "schools",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "vaxxers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kobe Bryant's wife first heard of his death online",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-59030936",
+        "content": "Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband says.",
+        "placed": "First_Page",
+        "epoch": 1635141602.9128675,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Kobe Bryant's wife first heard of his death online",
+        "en_content": "Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband says.",
+        "concepts": [
+            {
+                "word": "Kobe",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bryant",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wife",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Zaghari-Ratcliffe husband begins new hunger strike",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59024491",
+        "content": "Vanessa Bryant said she learned about the death of her husband by seeing \"RIP Kobe\" notifications.",
+        "placed": "First_Page",
+        "epoch": 1635141602.9128814,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Zaghari-Ratcliffe husband begins new hunger strike",
+        "en_content": "Vanessa Bryant said she learned about the death of her husband by seeing \"RIP Kobe\" notifications.",
+        "concepts": [
+            {
+                "word": "Zaghari",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ratcliffe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "husband",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hunger",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Kobe Bryant's wife first heard of his death online",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-59030936",
+        "content": "Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband says.",
+        "placed": "First_Page",
+        "epoch": 1635141602.912899,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Kobe Bryant's wife first heard of his death online",
+        "en_content": "Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband says.",
+        "concepts": [
+            {
+                "word": "Kobe",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bryant",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wife",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Zaghari-Ratcliffe husband begins new hunger strike",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-africa-59028210",
+        "content": "Islamic State says it was behind the bombing - a week after the UK warned about a possible attack.",
+        "placed": "First_Page",
+        "epoch": 1635141602.9129128,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Zaghari-Ratcliffe husband begins new hunger strike",
+        "en_content": "Islamic State says it was behind the bombing - a week after the UK warned about a possible attack.",
+        "concepts": [
+            {
+                "word": "Zaghari",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ratcliffe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "husband",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hunger",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "One killed in bomb attack on Ugandan bar",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/sport/cricket/59030529",
+        "content": "Pakistan hammer India by 10 wickets to claim a famous win over their great rivals at the Men's T20 World Cup in Dubai.",
+        "placed": "First_Page",
+        "epoch": 1635141602.9129426,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "One killed in bomb attack on Ugandan bar",
+        "en_content": "Pakistan hammer India by 10 wickets to claim a famous win over their great rivals at the Men's T20 World Cup in Dubai.",
+        "concepts": [
+            {
+                "word": "bomb",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ugandan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bar",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pakistan hammer India at T20 World Cup",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-england-suffolk-59030967",
+        "content": "The singer-songwriter says he will be \"self-isolating and following government guidelines\".",
+        "placed": "First_Page",
+        "epoch": 1635141602.9129708,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Pakistan hammer India at T20 World Cup",
+        "en_content": "The singer-songwriter says he will be \"self-isolating and following government guidelines\".",
+        "concepts": [
+            {
+                "word": "Pakistan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hammer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "India",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "T20",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ed Sheeran tests positive for Covid-19",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/science-environment-58874831",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1635141602.912988,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "Ed Sheeran tests positive for Covid-19",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Ed",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sheeran",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid-19",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The environmental disasters we've almost fixed",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/business-58769351",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1635141602.913004,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-25T08.00.02E1635141602.91302.json",
+        "en_title": "The environmental disasters we've almost fixed",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "disasters",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

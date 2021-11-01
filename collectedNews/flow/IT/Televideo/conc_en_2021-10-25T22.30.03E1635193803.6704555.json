@@ -1,0 +1,334 @@
+[
+    {
+        "title": "COVID,2.535 CASI. PIU' VITTIME, SONO 30 PiÃÂ¹ ricoveri (+106), intensive (-3)",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635193803.670399,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T22.30.03E1635193803.6704555.json",
+        "en_title": "Covid, 2,535 cases.More victims, are 30 more admissions (+106), intensive (-3)",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cases",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "victims",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "admissions",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "+106",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Ema:ok a terza dose vaccino Moderna",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635193803.6704085,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T22.30.03E1635193803.6704555.json",
+        "en_title": "EMA: OK A Third Dose Modern vaccine",
+        "concepts": [
+            {
+                "word": "EMA",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "OK",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Third",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dose",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Modern",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "FOCOLAI CINA, VACCINI A BIMBI 3-11 ANNI Paura contagi,salta maratona Pechino110  CORTE ISRAELE: \"EITAN TORNI IN ITALIA\"  Dalla zia paterna, nonno fa appello",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635193803.6704159,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T22.30.03E1635193803.6704555.json",
+        "en_title": "Chinese outbreaks, children's vaccines 3-11 years Fear Contagi, Salta Marathon Peking110 Court Israel: \"Eitan returns to Italy\" From Aunt Paterna, Grandpa appeals",
+        "concepts": [
+            {
+                "word": "outbreaks",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "children",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccines",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Fear",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Contagi",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Salta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Marathon",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Peking110",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Court",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Israel",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Eitan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Aunt",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Paterna",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Grandpa",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MORTI CORSIA,2 ASSOLUZIONI PER POGGIALI Ex infermiera accusata di omicidio",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1635193803.670423,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T22.30.03E1635193803.6704555.json",
+        "en_title": "Deaths lane, 2 absurights for foliasters former nurse accused of murder",
+        "concepts": [
+            {
+                "word": "Deaths",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lane",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "absurights",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "foliasters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "nurse",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "GOVERNO, LETTA-CONTE PRANZO INSIEME",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1635193803.6704297,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T22.30.03E1635193803.6704555.json",
+        "en_title": "Government, Letta-Count Lunch together",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Letta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Count",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lunch",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Manovra, domani sindacati da Draghi",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635193803.6704364,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T22.30.03E1635193803.6704555.json",
+        "en_title": "Maneuver, tomorrow dragons unions",
+        "concepts": [
+            {
+                "word": "Maneuver",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tomorrow",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dragons",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "unions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "CRESCITA,MATTARELLA: TUTTI IN GIOCO",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1635193803.6704435,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T22.30.03E1635193803.6704555.json",
+        "en_title": "Growth, Mattarella: all at stake",
+        "concepts": [
+            {
+                "word": "Growth",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Mattarella",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stake",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

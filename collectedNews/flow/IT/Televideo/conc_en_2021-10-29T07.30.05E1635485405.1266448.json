@@ -1,0 +1,120 @@
+[
+    {
+        "title": "SOTTO MILLE EURO 5,3 MILIONI PENSIONATI Un terzo totale, donne maggioranza",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": "",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1635485405.1266158,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T07.30.05E1635485405.1266448.json",
+        "en_title": "Under a thousand euros 5.3 million pensioners a third total, majority women",
+        "concepts": [
+            {
+                "word": "euros",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "pensioners",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "total",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "majority",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "women",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "PONTE 1ÃÂ°NOVEMBRE, 10 MILIONI IN VIAGGIO Il 90,5 per cento resterÃÂ  in Italia",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": "",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1635485405.126625,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T07.30.05E1635485405.1266448.json",
+        "en_title": "Bridge 1st of November, 10 million traveling 90.5 percent will remain in Italy",
+        "concepts": [
+            {
+                "word": "Bridge",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "1st",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "November",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "percent",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nota su indici di Borsa Televideo",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": "",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1635485405.1266317,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T07.30.05E1635485405.1266448.json",
+        "en_title": "Note on Teletext stock exchange indexes",
+        "concepts": [
+            {
+                "word": "Teletext",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indexes",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

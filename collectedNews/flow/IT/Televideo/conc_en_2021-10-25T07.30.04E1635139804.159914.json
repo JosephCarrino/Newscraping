@@ -1,0 +1,247 @@
+[
+    {
+        "title": "SUDAN,COLPO DI STATO,ARRESTATO PREMIER  Tagliato internet, canzoni in radio",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1635139804.1598673,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T07.30.04E1635139804.159914.json",
+        "en_title": "Sudan, coup, arrested premier cut internet, songs on the radio",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "coup",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "premier",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cut",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "internet",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "songs",
+                "meaning": "conj",
+                "pos": "VERB"
+            },
+            {
+                "word": "radio",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MIGRANTI DA LIBIA, L'APPELLO DEL PAPA  \"Sono sottoposti a sofferenze disumane\" \"Agisca la comunitÃÂ  internazionale\"",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1635139804.159877,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T07.30.04E1635139804.159914.json",
+        "en_title": "Migrants from Libya, the appeal of the Pope \"are subjected to inhuman suffering\" \"acts the international community\"",
+        "concepts": [
+            {
+                "word": "Migrants",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Libya",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "appeal",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Pope",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "suffering",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "community",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ALTRE 2 IMBARCAZIONI IN DIFFICOLTA'   Segnalate da Alarm Phone in acque Libia \"In una molti i bambini a bordo\"",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1635139804.1598852,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T07.30.04E1635139804.159914.json",
+        "en_title": "2 other boats in difficulty reported by Alarm Phone in Libya waters \"In a lot of children on board\"",
+        "concepts": [
+            {
+                "word": "boats",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "difficulty",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Alarm",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Phone",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Libya",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "waters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lot",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "children",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "board",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "IN UNO SCATTO IL DRAMMA DELLA SIRIA   Bimbo e papÃÂ  senza arti,del turco Aslan Unicef: \"Indignarsi non basta piÃÂ¹\"",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": "",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1635139804.159892,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T07.30.04E1635139804.159914.json",
+        "en_title": "In one click the drama of Syria baby and dad without arts, of the Turkish Aslan Unicef: \"Indexing is not enough more\"",
+        "concepts": [
+            {
+                "word": "drama",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Syria",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "baby",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "dad",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Aslan",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Unicef",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Indexing",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "COLOMBIA, ARRESTATO IL \"NARCOS\" USUGA  Il piÃÂ¹ ricercato latitante al mondo",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": "",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1635139804.159899,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T07.30.04E1635139804.159914.json",
+        "en_title": "Colombia, arrested the \"Narcos\" usuges the most sought after liatitive in the world",
+        "concepts": [
+            {
+                "word": "Colombia",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Narcos",
+                "meaning": "nmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "title": "BERLUSCONI:STOP IPOTESI VOTO ANTICIPATO \"Sarebbe una scelta irresponsabile\"",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": "",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1635075003.7714844,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T13.30.03E1635075003.771497.json",
+        "en_title": "Berlusconi: Stop hypothesis anticipated vote \"would be an irresponsible choice\"",
+        "concepts": [
+            {
+                "word": "Berlusconi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hypothesis",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "vote",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "choice",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

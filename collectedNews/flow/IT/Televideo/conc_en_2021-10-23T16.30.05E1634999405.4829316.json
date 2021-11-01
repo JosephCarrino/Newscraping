@@ -1,0 +1,161 @@
+[
+    {
+        "title": "PENSIONI, CGIL: QUOTA 102/104 INUTILE  Uscite sarebbero poco piÃÂ¹ di 10mila",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": "",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1634999405.4828837,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T16.30.05E1634999405.4829316.json",
+        "en_title": "Pensions, CGIL: 102/104 unnecessary quota outputs would be little more than 10 thousand",
+        "concepts": [
+            {
+                "word": "Pensions",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "CGIL",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "102/104",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "quota",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "outputs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "CGIA:\"1MLN LAVORATORI SENZA GREEN PASS\" Controlli non stringenti,sono elusi",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": "",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1634999405.482896,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T16.30.05E1634999405.4829316.json",
+        "en_title": "CGIA: \"1MLN workers without green pass\" non-stringent controls are eluses",
+        "concepts": [
+            {
+                "word": "CGIA",
+                "meaning": "prep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "workers",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "pass",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "controls",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "eluses",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "PNRR, FEDRIGA: UN FLOP SENZA LE REGIONI \"Capire come saranno spese risorse\"",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=133",
+        "content": "",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1634999405.4829075,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T16.30.05E1634999405.4829316.json",
+        "en_title": "PNRR, Fedriga: a flop without the regions \"understand how resource costs will be\"",
+        "concepts": [
+            {
+                "word": "Fedriga",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "flop",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "regions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "resource",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "costs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Nota su indici di Borsa Televideo",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": "",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1634999405.4829187,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T16.30.05E1634999405.4829316.json",
+        "en_title": "Note on Teletext stock exchange indexes",
+        "concepts": [
+            {
+                "word": "Teletext",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indexes",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

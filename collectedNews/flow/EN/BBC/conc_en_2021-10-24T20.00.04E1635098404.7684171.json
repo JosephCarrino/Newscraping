@@ -1,0 +1,652 @@
+[
+    {
+        "title": "Colombia's most wanted drug lord captured",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "content": "The US had placed a $5m bounty on the head of Dairo Antonio ÃÂsuga, better known as Otoniel.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7681587,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Colombia's most wanted drug lord captured",
+        "en_content": "The US had placed a $5m bounty on the head of Dairo Antonio ÃÂsuga, better known as Otoniel.",
+        "concepts": [
+            {
+                "word": "Colombia",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lord",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Colombia's most wanted drug lord captured",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "content": "The US had placed a $5m bounty on the head of Dairo Antonio ÃÂsuga, better known as Otoniel.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7681813,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Colombia's most wanted drug lord captured",
+        "en_content": "The US had placed a $5m bounty on the head of Dairo Antonio ÃÂsuga, better known as Otoniel.",
+        "concepts": [
+            {
+                "word": "Colombia",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lord",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Deadly explosion at Uganda bar after terror warning",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-africa-59028210",
+        "content": "The suspected terrorist bombing comes a week after the UK warned about a possible attack.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7681992,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Deadly explosion at Uganda bar after terror warning",
+        "en_content": "The suspected terrorist bombing comes a week after the UK warned about a possible attack.",
+        "concepts": [
+            {
+                "word": "explosion",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Uganda",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bar",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "terror",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "warning",
+                "meaning": "pcomp",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Vigil held for cinematographer Halyna Hutchins",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59029509",
+        "content": "The cinematographer was fatally shot by a prop gun while filming for western movie Rust.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7682152,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Vigil held for cinematographer Halyna Hutchins",
+        "en_content": "The cinematographer was fatally shot by a prop gun while filming for western movie Rust.",
+        "concepts": [
+            {
+                "word": "Vigil",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cinematographer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Halyna",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hutchins",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "German far-right group attempt to block migrants",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-europe-59024490",
+        "content": "Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7682297,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "German far-right group attempt to block migrants",
+        "en_content": "Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border.",
+        "concepts": [
+            {
+                "word": "right",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "group",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attempt",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Kobe Bryant's wife first heard of his death online",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59024491",
+        "content": "Vanessa Bryant said she learned about the death of her husband by seeing \"RIP Kobe\" notifications.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7682443,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Kobe Bryant's wife first heard of his death online",
+        "en_content": "Vanessa Bryant said she learned about the death of her husband by seeing \"RIP Kobe\" notifications.",
+        "concepts": [
+            {
+                "word": "Kobe",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bryant",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wife",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Gravedigger's love story wins African film prize",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-africa-59027682",
+        "content": "Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7682576,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Gravedigger's love story wins African film prize",
+        "en_content": "Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one.",
+        "concepts": [
+            {
+                "word": "Gravedigger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "love",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "story",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "film",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prize",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Zaghari-Ratcliffe husband begins new hunger strike",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-59030936",
+        "content": "Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7682707,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Zaghari-Ratcliffe husband begins new hunger strike",
+        "en_content": "Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says.",
+        "concepts": [
+            {
+                "word": "Zaghari",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ratcliffe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "husband",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hunger",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Colombia's most wanted drug lord captured",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "content": "The US had placed a $5m bounty on the head of Dairo Antonio ÃÂsuga, better known as Otoniel.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7682843,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Colombia's most wanted drug lord captured",
+        "en_content": "The US had placed a $5m bounty on the head of Dairo Antonio ÃÂsuga, better known as Otoniel.",
+        "concepts": [
+            {
+                "word": "Colombia",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lord",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Deadly explosion at Uganda bar after terror warning",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-africa-59028210",
+        "content": "The suspected terrorist bombing comes a week after the UK warned about a possible attack.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7682981,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Deadly explosion at Uganda bar after terror warning",
+        "en_content": "The suspected terrorist bombing comes a week after the UK warned about a possible attack.",
+        "concepts": [
+            {
+                "word": "explosion",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Uganda",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bar",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "terror",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "warning",
+                "meaning": "pcomp",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Vigil held for cinematographer Halyna Hutchins",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59029509",
+        "content": "The cinematographer was fatally shot by a prop gun while filming for western movie Rust.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7683115,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Vigil held for cinematographer Halyna Hutchins",
+        "en_content": "The cinematographer was fatally shot by a prop gun while filming for western movie Rust.",
+        "concepts": [
+            {
+                "word": "Vigil",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cinematographer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Halyna",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hutchins",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "German far-right group attempt to block migrants",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-europe-59024490",
+        "content": "Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7683249,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "German far-right group attempt to block migrants",
+        "en_content": "Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border.",
+        "concepts": [
+            {
+                "word": "right",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "group",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attempt",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Kobe Bryant's wife first heard of his death online",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59024491",
+        "content": "Vanessa Bryant said she learned about the death of her husband by seeing \"RIP Kobe\" notifications.",
+        "placed": "Abroad",
+        "epoch": 1635098404.768338,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Kobe Bryant's wife first heard of his death online",
+        "en_content": "Vanessa Bryant said she learned about the death of her husband by seeing \"RIP Kobe\" notifications.",
+        "concepts": [
+            {
+                "word": "Kobe",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bryant",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wife",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Gravedigger's love story wins African film prize",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-africa-59027682",
+        "content": "Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7683513,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Gravedigger's love story wins African film prize",
+        "en_content": "Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one.",
+        "concepts": [
+            {
+                "word": "Gravedigger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "love",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "story",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "film",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prize",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Zaghari-Ratcliffe husband begins new hunger strike",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-59030936",
+        "content": "Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7683642,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Zaghari-Ratcliffe husband begins new hunger strike",
+        "en_content": "Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says.",
+        "concepts": [
+            {
+                "word": "Zaghari",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ratcliffe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "husband",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hunger",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Deadly explosion at Uganda bar after terror warning",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-africa-59028210",
+        "content": "The suspected terrorist bombing comes a week after the UK warned about a possible attack.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7683773,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Deadly explosion at Uganda bar after terror warning",
+        "en_content": "The suspected terrorist bombing comes a week after the UK warned about a possible attack.",
+        "concepts": [
+            {
+                "word": "explosion",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Uganda",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bar",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "terror",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "warning",
+                "meaning": "pcomp",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Vigil held for cinematographer Halyna Hutchins",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59029509",
+        "content": "The cinematographer was fatally shot by a prop gun while filming for western movie Rust.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7683902,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "Vigil held for cinematographer Halyna Hutchins",
+        "en_content": "The cinematographer was fatally shot by a prop gun while filming for western movie Rust.",
+        "concepts": [
+            {
+                "word": "Vigil",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cinematographer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Halyna",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hutchins",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "German far-right group attempt to block migrants",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-europe-59024490",
+        "content": "Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border.",
+        "placed": "Abroad",
+        "epoch": 1635098404.7684033,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T20.00.04E1635098404.7684171.json",
+        "en_title": "German far-right group attempt to block migrants",
+        "en_content": "Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border.",
+        "concepts": [
+            {
+                "word": "right",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "group",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attempt",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

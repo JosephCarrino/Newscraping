@@ -1,0 +1,96 @@
+[
+    {
+        "title": "DI MAIO: NEL CDM NO SCONTRI SUL RDC   \"M5s-Pd diversi ma progetti comuni\"",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": "",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1635550204.2952127,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T01.30.04E1635550204.2952394.json",
+        "en_title": "Di Maio: in the CDM no clashes on the RDC \"M5S-Pd different but common projects\"",
+        "concepts": [
+            {
+                "word": "Di",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maio",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "CDM",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "clashes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "RDC",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "M5S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pd",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "projects",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "DDL ZAN,LEGA: RIPARTIAMO, LETTA ASCOLTI \"Punire violenti nostra prioritÃÂ \"",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": "",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1635550204.2952244,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T01.30.04E1635550204.2952394.json",
+        "en_title": "DDL ZAN, League: Let's start, read listens \"Punishing violent our priority\"",
+        "concepts": [
+            {
+                "word": "DDL",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ZAN",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "League",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "priority",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

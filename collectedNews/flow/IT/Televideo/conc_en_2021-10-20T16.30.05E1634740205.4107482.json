@@ -1,0 +1,258 @@
+[
+    {
+        "title": "MEDICI: REGINA ELISABETTA STUA A RIPOSO Costretta a cancellare un viaggio",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1634740205.4106987,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T16.30.05E1634740205.4107482.json",
+        "en_title": "Doctors: Queen Elisabetta Stua at rest forced to cancel a trip",
+        "concepts": [
+            {
+                "word": "Doctors",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Queen",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Elisabetta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Stua",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rest",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "trip",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "COVID, SENATO BRASILE ACCUSA BOLSONARO  \"Crimini intenzionali\" in pandemia",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1634740205.4107084,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T16.30.05E1634740205.4107482.json",
+        "en_title": "Covid, Senate Brazil accuses Bolsonaro \"intentional crimes\" in pandemic",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Senate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Brazil",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bolsonaro",
+                "meaning": "dative",
+                "pos": "VERB"
+            },
+            {
+                "word": "crimes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ASSALTO A CONGRESSO,BANNON SOTTO ACCUSA Commissione a favore azione penale",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1634740205.410716,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T16.30.05E1634740205.4107482.json",
+        "en_title": "Congress Assault, Bannon under accuses Commission in favor of criminal action",
+        "concepts": [
+            {
+                "word": "Congress",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Assault",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "accuses",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Commission",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "favor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "action",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CLIMA, NUOVO MONITO DALLE NAZIONI UNITE \"Limitare i combustibili fossili\"",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": "",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1634740205.410723,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T16.30.05E1634740205.4107482.json",
+        "en_title": "Climate, new monitored by the United Nations \"Limit fossil fuels\"",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "United",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Nations",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Limit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "GHEDDAFI LINCIATO E UCCISO 10 ANNI FA  Fu al potere in Libia per 42 anni",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": "",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1634740205.41073,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T16.30.05E1634740205.4107482.json",
+        "en_title": "Gaddafi lynched and killed 10 years ago was power in Libya for 42 years",
+        "concepts": [
+            {
+                "word": "Gaddafi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "power",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Libya",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "LE NOTIZIE DAI GIORNALI DEL MONDO",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=159",
+        "content": "",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1634740205.4107378,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T16.30.05E1634740205.4107482.json",
+        "en_title": "News from the newspapers of the world",
+        "concepts": [
+            {
+                "word": "News",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "newspapers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "world",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

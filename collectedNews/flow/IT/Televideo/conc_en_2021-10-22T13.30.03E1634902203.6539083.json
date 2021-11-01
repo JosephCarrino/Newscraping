@@ -1,0 +1,135 @@
+[
+    {
+        "title": "BRUNETTA: \"SOVRANISMO PORTA A SBATTERE\" C.destra, serve alleanza europeista",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": "",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1634902203.6538649,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T13.30.03E1634902203.6539083.json",
+        "en_title": "Brunette: \"sovereignism leads to slamming\" c.destra, serves European alliance",
+        "concepts": [
+            {
+                "word": "Brunette",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "sovereignism",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "c.destra",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "alliance",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "CASO FORZA NUOVA, SI' A MOZIONI CAMERA  Gioco d'astensioni,passano entrambe",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": "",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1634902203.6538806,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T13.30.03E1634902203.6539083.json",
+        "en_title": "Nuova force case, yes to Motion Camera game of abstentions, both pass",
+        "concepts": [
+            {
+                "word": "Nuova",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "force",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Motion",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Camera",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "game",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "abstentions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CONTE: \"VOTO? NON POSSIAMO ASSOLVERCI\"  \"M5S torni a territori,no fratture\"",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": "",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1634902203.6538925,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T13.30.03E1634902203.6539083.json",
+        "en_title": "Conte: \"Vote? We can't fulfill it\" \"M5S Locks to territories, no fractures\"",
+        "concepts": [
+            {
+                "word": "Conte",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Vote",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "M5S",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Locks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "territories",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fractures",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

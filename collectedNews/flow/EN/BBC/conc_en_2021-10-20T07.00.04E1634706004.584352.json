@@ -1,0 +1,627 @@
+[
+    {
+        "title": "Bring back Covid rules as cases rise - NHS chiefs",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-58976577",
+        "content": "Hospital bosses warn of a winter crisis but ministers have no plans for new measures in England.",
+        "placed": "Politics",
+        "epoch": 1634706004.5840778,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Bring back Covid rules as cases rise - NHS chiefs",
+        "en_content": "Hospital bosses warn of a winter crisis but ministers have no plans for new measures in England.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cases",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NHS",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chiefs",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bring back Covid rules as cases rise - NHS chiefs",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-58976577",
+        "content": "Hospital bosses warn of a winter crisis but ministers have no plans for new measures in England.",
+        "placed": "Politics",
+        "epoch": 1634706004.5841038,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Bring back Covid rules as cases rise - NHS chiefs",
+        "en_content": "Hospital bosses warn of a winter crisis but ministers have no plans for new measures in England.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cases",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NHS",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chiefs",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Can new law tackle social media abuse of MPs?",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-politics-58958244",
+        "content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "placed": "Politics",
+        "epoch": 1634706004.5841231,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Can new law tackle social media abuse of MPs?",
+        "en_content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "concepts": [
+            {
+                "word": "law",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abuse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Why the government Prevent scheme is so difficult",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-58975385",
+        "content": "The strategy aimed at stopping people becoming terrorists is facing calls for it to be overhauled.",
+        "placed": "Politics",
+        "epoch": 1634706004.584139,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Why the government Prevent scheme is so difficult",
+        "en_content": "The strategy aimed at stopping people becoming terrorists is facing calls for it to be overhauled.",
+        "concepts": [
+            {
+                "word": "government",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Prevent",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scheme",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Green groups dismay over environment bill",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-politics-58968871",
+        "content": "Ministers say the new law will demonstrate global leadership, but critics accuse them of \"inaction\".",
+        "placed": "Politics",
+        "epoch": 1634706004.5841544,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Green groups dismay over environment bill",
+        "en_content": "Ministers say the new law will demonstrate global leadership, but critics accuse them of \"inaction\".",
+        "concepts": [
+            {
+                "word": "groups",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "environment",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Science cuts would harm prosperity - ex-minister",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/science-environment-58965036",
+        "content": "The science committee chair will hear of the impact of possible changes to research spending.",
+        "placed": "Politics",
+        "epoch": 1634706004.5841706,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Science cuts would harm prosperity - ex-minister",
+        "en_content": "The science committee chair will hear of the impact of possible changes to research spending.",
+        "concepts": [
+            {
+                "word": "Science",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cuts",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "prosperity",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK sets out net zero plans for greenhouse gases",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/science-environment-58899006",
+        "content": "The government reveals its long-awaited strategy days before global leaders meet for COP26 in Glasgow.",
+        "placed": "Politics",
+        "epoch": 1634706004.5841854,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "UK sets out net zero plans for greenhouse gases",
+        "en_content": "The government reveals its long-awaited strategy days before global leaders meet for COP26 in Glasgow.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plans",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "greenhouse",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gases",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "No 10 condemns protesters over Gove confrontation",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-politics-58973595",
+        "content": "Housing Secretary Michael Gove is filmed being harangued by anti-lockdown protesters near his office.",
+        "placed": "Politics",
+        "epoch": 1634706004.5842,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "No 10 condemns protesters over Gove confrontation",
+        "en_content": "Housing Secretary Michael Gove is filmed being harangued by anti-lockdown protesters near his office.",
+        "concepts": [
+            {
+                "word": "protesters",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gove",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "confrontation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Bring back Covid rules as cases rise - NHS chiefs",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-58976577",
+        "content": "Hospital bosses warn of a winter crisis but ministers have no plans for new measures in England.",
+        "placed": "Politics",
+        "epoch": 1634706004.5842144,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Bring back Covid rules as cases rise - NHS chiefs",
+        "en_content": "Hospital bosses warn of a winter crisis but ministers have no plans for new measures in England.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cases",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NHS",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chiefs",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Can new law tackle social media abuse of MPs?",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-politics-58958244",
+        "content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "placed": "Politics",
+        "epoch": 1634706004.5842288,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Can new law tackle social media abuse of MPs?",
+        "en_content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "concepts": [
+            {
+                "word": "law",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abuse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Why the government Prevent scheme is so difficult",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-58975385",
+        "content": "The strategy aimed at stopping people becoming terrorists is facing calls for it to be overhauled.",
+        "placed": "Politics",
+        "epoch": 1634706004.584243,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Why the government Prevent scheme is so difficult",
+        "en_content": "The strategy aimed at stopping people becoming terrorists is facing calls for it to be overhauled.",
+        "concepts": [
+            {
+                "word": "government",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Prevent",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scheme",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Green groups dismay over environment bill",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-politics-58968871",
+        "content": "Ministers say the new law will demonstrate global leadership, but critics accuse them of \"inaction\".",
+        "placed": "Politics",
+        "epoch": 1634706004.5842566,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Green groups dismay over environment bill",
+        "en_content": "Ministers say the new law will demonstrate global leadership, but critics accuse them of \"inaction\".",
+        "concepts": [
+            {
+                "word": "groups",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "environment",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Science cuts would harm prosperity - ex-minister",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/science-environment-58965036",
+        "content": "The science committee chair will hear of the impact of possible changes to research spending.",
+        "placed": "Politics",
+        "epoch": 1634706004.584271,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Science cuts would harm prosperity - ex-minister",
+        "en_content": "The science committee chair will hear of the impact of possible changes to research spending.",
+        "concepts": [
+            {
+                "word": "Science",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cuts",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "prosperity",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK sets out net zero plans for greenhouse gases",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/science-environment-58899006",
+        "content": "The government reveals its long-awaited strategy days before global leaders meet for COP26 in Glasgow.",
+        "placed": "Politics",
+        "epoch": 1634706004.5842848,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "UK sets out net zero plans for greenhouse gases",
+        "en_content": "The government reveals its long-awaited strategy days before global leaders meet for COP26 in Glasgow.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plans",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "greenhouse",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gases",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "No 10 condemns protesters over Gove confrontation",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-politics-58973595",
+        "content": "Housing Secretary Michael Gove is filmed being harangued by anti-lockdown protesters near his office.",
+        "placed": "Politics",
+        "epoch": 1634706004.5842986,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "No 10 condemns protesters over Gove confrontation",
+        "en_content": "Housing Secretary Michael Gove is filmed being harangued by anti-lockdown protesters near his office.",
+        "concepts": [
+            {
+                "word": "protesters",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gove",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "confrontation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Can new law tackle social media abuse of MPs?",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-politics-58958244",
+        "content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "placed": "Politics",
+        "epoch": 1634706004.584312,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Can new law tackle social media abuse of MPs?",
+        "en_content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "concepts": [
+            {
+                "word": "law",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abuse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Why the government Prevent scheme is so difficult",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-58975385",
+        "content": "The strategy aimed at stopping people becoming terrorists is facing calls for it to be overhauled.",
+        "placed": "Politics",
+        "epoch": 1634706004.5843256,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Why the government Prevent scheme is so difficult",
+        "en_content": "The strategy aimed at stopping people becoming terrorists is facing calls for it to be overhauled.",
+        "concepts": [
+            {
+                "word": "government",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Prevent",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scheme",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Green groups dismay over environment bill",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-politics-58968871",
+        "content": "Ministers say the new law will demonstrate global leadership, but critics accuse them of \"inaction\".",
+        "placed": "Politics",
+        "epoch": 1634706004.5843391,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.584352.json",
+        "en_title": "Green groups dismay over environment bill",
+        "en_content": "Ministers say the new law will demonstrate global leadership, but critics accuse them of \"inaction\".",
+        "concepts": [
+            {
+                "word": "groups",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "environment",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

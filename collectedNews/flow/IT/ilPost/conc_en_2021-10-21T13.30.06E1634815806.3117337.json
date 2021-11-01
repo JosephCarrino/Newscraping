@@ -1,0 +1,897 @@
+[
+    {
+        "title": "Un modo per rendersi utili anche da morti",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/donare-corpo-scienza-italia/",
+        "content": " ÃÂ quasi pronto il regolamento per la nuova legge che rende possibile donare il proprio corpo alla scienza dopo la morte, per aiutare la formazione dei medici e la ricerca\t",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1634815806.31169,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "A way to make themselves useful even by dead",
+        "en_content": "The regulation for the new law that makes it possible to donate their body to science after death, to help training of doctors and research",
+        "concepts": [
+            {
+                "word": "way",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Miss Francia fa discriminazione sul lavoro?",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/miss-francia-dibattito-femminista/",
+        "content": " L'evento ÃÂ¨ giudicato da tempo sessista e retrogrado, e secondo un gruppo femminista francese non rispetta i diritti delle concorrenti che vi partecipano\t",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1634815806.3116927,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "Miss France does discrimination at work?",
+        "en_content": "The event is judged for sexist and retrograde, and according to a French feminist group does not respect the rights of the competitors who participate in it",
+        "concepts": [
+            {
+                "word": "Miss",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "discrimination",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "work",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Illazione",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/?blog_post=illazione",
+        "content": "Chi fa unÃ¢ÂÂillazione, piÃÂ¹ che formulare unÃ¢ÂÂipotesi o fare una supposizione, trae piuttosto, da quel ragionamento o argomento, conseguenze ingiustificate, indebite o affrettate [Continua]",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1634815806.311694,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "Inference",
+        "en_content": "Those who make a ulteration, more than formulating a hypothesis or a guess, draws rather, from that reasoning or argument, unjustified consequences, undue or hasty [continue]",
+        "concepts": [
+            {
+                "word": "Inference",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "I dati della settimana su coronavirus e vaccinazioni in Italia",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/coronavirus-vaccini-dati-settimana-20-ottobre/",
+        "content": " Sono aumentati notevolmente i tamponi dopo l'obbligo del Green Pass, mentre i dati di contagi, ricoveri e morti sono rimasti stabili\t",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1634815806.3116949,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "The data of the week on Coronavirus and vaccinations in Italy",
+        "en_content": "The swabs have significantly increased after the Green Pass requirement, while the information of contagion, shelters and deaths have remained stable",
+        "concepts": [
+            {
+                "word": "data",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "week",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Coronavirus",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "vaccinations",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "LÃ¢ÂÂultima gara in Italia di Valentino Rossi",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/ultima-gara-italia-valentino-rossi-misano-motogp/",
+        "content": " Domenica a Misano Adriatico il piÃÂ¹ grande pilota della sua generazione inizia a congedarsi dal Motomondiale davanti al pubblico di casa\t",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1634815806.3116956,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "The last race in Italy of Valentino Rossi",
+        "en_content": "Sunday in Misano Adriatico the largest pilot of his generation begins to leave from the World Championship in front of the public house",
+        "concepts": [
+            {
+                "word": "race",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Valentino",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rossi",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Come si trasforma un manoscritto in un libro",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/come-si-trasforma-un-manoscritto-in-un-libro-belleville/",
+        "content": " Il corso Ã¢ÂÂI mestieri del libroÃ¢ÂÂ spiegato dai docenti ",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1634815806.3116963,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "How to transform a manuscript into a book",
+        "en_content": "The course Ã¢ â¬ ÅI book crafts explained by the teachers",
+        "concepts": [
+            {
+                "word": "manuscript",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "book",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Il governo discute di come cambiare le pensioni",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/riforma-pensioni-quota-102-legge-di-bilancio/",
+        "content": " A gennaio scadrÃÂ  \"Quota 100\", e i partiti vogliono evitare che si torni immediatamente alla legge Fornero\t",
+        "ranked": 7,
+        "placed": "First_Page",
+        "epoch": 1634815806.311698,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "The government discusses how to change pensions",
+        "en_content": "In January, \"Quota 100\", and the parties want to prevent us from returning to Law Fornero immediately",
+        "concepts": [
+            {
+                "word": "government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "pensions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Le prove comuni in una classe della Sicilia orientale",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/?blog_post=le-prove-comuni-in-una-classe-della-sicilia-orientale-quando-e-ottobre",
+        "content": "Le caldarroste, per esempio, sono una grande fonte di distrazione [Continua]",
+        "ranked": 8,
+        "placed": "First_Page",
+        "epoch": 1634815806.3116987,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "Common tests in a class of eastern Sicily",
+        "en_content": "Caldarroste, for example, are a great source of distraction [continue]",
+        "concepts": [
+            {
+                "word": "tests",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "class",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sicily",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Lo Sri Lanka vorrebbe passare allÃ¢ÂÂagricoltura biologica, ma ÃÂ¨ complicato",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/sri-lanka-agricoltura-biologica/",
+        "content": " ÃÂ iniziata una crisi alimentare, e il governo si ÃÂ¨ rimangiato alcune importanti decisioni prese negli ultimi mesi\t",
+        "ranked": 9,
+        "placed": "First_Page",
+        "epoch": 1634815806.3116999,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "Sri Lanka would like to go through organic farming, but it is complicated",
+        "en_content": "A food crisis has begun, and the government has remained some important decisions taken in recent months",
+        "concepts": [
+            {
+                "word": "Sri",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lanka",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "farming",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Trump ha annunciato la sua nuova piattaforma, TRUTH Social",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/donald-trump-social-truth/",
+        "content": " ArriverÃÂ  nel 2022: l'ex presidente statunitense ha detto di averla creata ÃÂ«per opporsi alla tirannia delle societÃÂ  Big TechÃÂ»\t",
+        "ranked": 10,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117013,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "Trump announced its new platform, Truth Social",
+        "en_content": "It will arrive in 2022: the former US President said he created her Â«to oppose the tyranny of the big tech companyÂ»",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "platform",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Truth",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Social",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Come proteggersi dai rischi del Ã¢ÂÂSuperbonus 110%Ã¢ÂÂ",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/rischi-superbonus-110-helvetia/",
+        "content": " Dal cappotto termico all'impianto fotovoltaico: cosa puÃÂ² succedere durante e dopo i lavori di ristrutturazione, e quali sono gli strumenti per tutelarsi\t",
+        "ranked": 11,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117023,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "How to protect yourself from the risks of Ã¢ â¬ ÅSuperbonus 110% Ã¢ â¬",
+        "en_content": "From the thermal coat to the photovoltaic system: what can happen during and after restructuring work, and what are the tools to protect themselves",
+        "concepts": [
+            {
+                "word": "risks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ã¢",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "â¬",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ÅSuperbonus",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "%",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "â¬",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Come i bambini rifugiati al confine con la Siria vedono ciÃÂ² che li circonda",
+        "date_raw": "October 14, 2021",
+        "date": "2021-10-14",
+        "news_url": "https://www.ilpost.it/2021/10/14/sirkhane-darkroom-i-saw-the-air-fly/",
+        "content": null,
+        "ranked": 12,
+        "placed": "First_Page",
+        "epoch": 1634815806.311703,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "Like refugee children on the border with Syria see what surrounds them",
+        "concepts": [
+            {
+                "word": "refugee",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "children",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "border",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Syria",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La situazione dei tamponi nelle farmacie",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/tamponi-farmacie-green-pass/",
+        "content": " Sembra sotto controllo, nonostante le code, ma ci sono conseguenze per chi deve comprare medicine o fare un test per motivi diversi dal Green Pass\t",
+        "ranked": 13,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117042,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "The situation of pads in pharmacies",
+        "en_content": "It seems under control, despite the queues, but there are consequences for those who have to buy medicines or take a test for reasons other than the Green Pass",
+        "concepts": [
+            {
+                "word": "situation",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pads",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "pharmacies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Una canzone di Jay Farrar",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/una-canzone-di-jay-farrar/",
+        "content": " Una di quelle canzoni in cui ti ho incontrata in un bar o simili\t",
+        "ranked": 14,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117054,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "A Jay Farrar song",
+        "en_content": "One of those songs in which I met you in a bar or similar",
+        "concepts": [
+            {
+                "word": "Jay",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Farrar",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "song",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "DanielÃ¢ÂÂ lo scrittore senza nome",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/?blog_post=daniel-lo-scrittore-senza-nome",
+        "content": "La drammatica vicenda dello scrittore russo dissidente Julij Markovic DanielÃ¢ÂÂ [Continua]",
+        "ranked": 15,
+        "placed": "First_Page",
+        "epoch": 1634815806.311706,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "DanielÃ¢ â¬ â¢ the writer without a name",
+        "en_content": "The dramatic story of the Russian writer dissident Julij Markovic DanielÃ¢ â¬ â¢ [continue]",
+        "concepts": [
+            {
+                "word": "DanielÃ¢",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "â¬",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "writer",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "name",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Vienna ha aperto un profilo su OnlyFans per promuovere i suoi quadri di nudo",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/vienna-arte-nudita-onlyfans/",
+        "content": " ÃÂ una protesta contro i criteri degli algoritmi di Facebook e TikTok, che finiscono per censurare opere come quelle di Egon Schiele\t",
+        "ranked": 16,
+        "placed": "First_Page",
+        "epoch": 1634815806.311707,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "Vienna has opened a profile on Onlyfans to promote his nude paintings",
+        "en_content": "It is a protest against the criteria of Facebook algorithms and Tiktok, who end up censoring works like those of Egon Schiele",
+        "concepts": [
+            {
+                "word": "Vienna",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "profile",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Onlyfans",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "paintings",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "La fine dellÃ¢ÂÂETA, dieci anni fa",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/fine-eta-dieci-anni-fa/",
+        "content": " Il gruppo terroristico basco rinunciÃÂ² alla lotta armata il 20 ottobre del 2011, dopo un lungo conflitto per l'indipendenza dallo stato spagnolo e oltre 800 morti\t",
+        "ranked": 17,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117082,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "The end of age, ten years ago",
+        "en_content": "The Basque terrorist group gave up the armed struggle on October 20, 2011, after a long conflict for independence from the Spanish State and over 800 deaths",
+        "concepts": [
+            {
+                "word": "end",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "age",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            }
+        ]
+    },
+    {
+        "title": "LÃ¢ÂÂuomo che dovrebbe chiedere piÃÂ¹ spesso",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/passoni-denim-maschi-andrologi/",
+        "content": " I maschi diventano sempre piÃÂ¹ \"normali\" ma un pezzo di loro ÃÂ¨ ancora dentro un buffo spot degli anni Ottanta\t",
+        "ranked": 18,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117092,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "The man who should ask for more often",
+        "en_content": "Males become more and more \"normal\" but a piece of them is still inside a funny spot of the eighties",
+        "concepts": [
+            {
+                "word": "man",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Quali cantanti hanno il vocabolario piÃÂ¹ vario",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/parole-lessico-cantanti/",
+        "content": " Il sito WordTips ha misurato quante parole uniche compaiono nel repertorio degli artisti anglosassoni piÃÂ¹ famosi, del passato e di questi anni\t",
+        "ranked": 19,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117127,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "Which singers have the most varied vocabulary",
+        "en_content": "The Wordtips site measured how many unique words appear in the repertoire of the most famous Anglo-Saxon artists, of the past and these years",
+        "concepts": [
+            {
+                "word": "singers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vocabulary",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Il giorno in cui morÃÂ¬ Gheddafi",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/morte-gheddafi-10-anni/",
+        "content": " Il 20 ottobre 2011 l'ex presidente libico fu catturato dai ribelli e poi ucciso: fu uno dei momenti che cambiarono la storia della Libia ",
+        "ranked": 20,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117135,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "The day he died Gaddafi",
+        "en_content": "On 20 October 2011 the former Libyan president was captured by the rebels and then killed: it was one of the moments that changed the history of Libya",
+        "concepts": [
+            {
+                "word": "day",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gaddafi",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Le prime pagine di oggi",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/le-prime-pagine-di-oggi-2978/",
+        "content": " Il discorso di Draghi in vista del Consiglio Europeo, il dibattito sulla nuova riforma delle pensioni e i risultati della Champions League\t",
+        "ranked": 21,
+        "placed": "First_Page",
+        "epoch": 1634815806.311714,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "The first pages of today",
+        "en_content": "The discourse of dragons in view of the European Council, the debate on the new pension reform and the results of the Champions League",
+        "concepts": [
+            {
+                "word": "pages",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "today",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Un quarto dÃ¢ÂÂora con i No Green Pass",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/?blog_post=un-quarto-dora-con-i-no-green-pass",
+        "content": "Condivido tutto con queste persone, tranne, paradossalmente, le ragioni ufficiali della protesta [Continua]",
+        "ranked": 22,
+        "placed": "First_Page",
+        "epoch": 1634815806.311715,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "A quarter hour with the no green passes",
+        "en_content": "I share everything with these people, except, paradoxically, the official reasons for the protest [continue]",
+        "concepts": [
+            {
+                "word": "quarter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hour",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "passes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le cose da tenere dÃ¢ÂÂocchio nella nuova stagione di NBA",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/nba-temi-stagione-2021-2022/",
+        "content": " I Lakers sono cambiati troppo? Che ne sarÃÂ  di Kyrie Irving, Ben Simmons e Zion Williamson? Atlanta ÃÂ¨ diventata una potenza?\t",
+        "ranked": 23,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117156,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "The things to keep in the new NBA season",
+        "en_content": "Have the Lakers changed too much?What will Kyrie Irving, Ben Simmons and Zion Williamson?Atlanta has become a power?",
+        "concepts": [
+            {
+                "word": "things",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "NBA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "season",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Lamorgese ÃÂ¨ in difficoltÃÂ  sullÃ¢ÂÂassalto alla CGIL",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/lamorgese-assalto-cgil/",
+        "content": " Mentre la destra continua ad accusarla e a chiederne le dimissioni, la ministra dell'Interno ha ammesso che le forze dell'ordine dispiegate a Roma non erano abbastanza\t",
+        "ranked": 24,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117163,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "Lamorgese is in trouble on the assault on the CGIL",
+        "en_content": "While the right continues to accuse it and ask for resignation, the Interior minister admitted that the police unfolded in Rome were not enough",
+        "concepts": [
+            {
+                "word": "Lamorgese",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "trouble",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "assault",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "CGIL",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Il governo vuole ridurre il costo degli assorbenti",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/costo-assorbenti-taglio-iva/",
+        "content": " Nel documento che prepara la legge di bilancio ha proposto di abbassare l'IVA dal 22 al 10%, avvicinandosi ad altri paesi europei\t",
+        "ranked": 25,
+        "placed": "First_Page",
+        "epoch": 1634815806.311717,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "The government wants to reduce the cost of absorbents",
+        "en_content": "In the document preparing the budgetary law proposed to lower VAT from 22 to 10%, approaching other European countries",
+        "concepts": [
+            {
+                "word": "government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cost",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "absorbents",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le migliaia di bombe inesplose sulle quali viviamo",
+        "date_raw": "October 19, 2021",
+        "date": "2021-10-19",
+        "news_url": "https://www.ilpost.it/2021/10/19/bombe-inesplose-seconda-guerra-mondiale-italia/",
+        "content": " Sono circa 25mila quelle risalenti alla Seconda guerra mondiale che si trovano a qualche metro di profonditÃÂ  nei suoli di tutta Italia\t",
+        "ranked": 26,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117177,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "The thousands of unexploded bombs on which we live",
+        "en_content": "There are about 25 thousand those dating back to the Second World War that are located at a few meters deep in soils from all over Italy",
+        "concepts": [
+            {
+                "word": "thousands",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bombs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Che sindaco vorrebbe essere Gualtieri",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/gualtieri-sindaco-roma/",
+        "content": " Governare Roma ÃÂ¨ un compito difficilissimo secondo chiunque (e impossibile secondo qualcuno), ma dalla sua ci sono i soldi del PNRR e il rapporto con Zingaretti\t",
+        "ranked": 27,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117185,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "What mayor would like to be Gualtieri",
+        "en_content": "Governing Rome is a very difficult task according to anyone (and impossible according to someone), but from its own there are the PNRR money and the relationship with zingaretti",
+        "concepts": [
+            {
+                "word": "mayor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gualtieri",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Il presidente ceco ÃÂ¨ ÃÂ«incapace di svolgere le sue funzioniÃÂ»?",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/milos-zeman-repubblica-ceca/",
+        "content": " Sembra di sÃÂ¬: Milos Zeman ÃÂ¨ in terapia intensiva, i suoi collaboratori sono indagati per avere taciuto le sue condizioni di salute\t",
+        "ranked": 28,
+        "placed": "First_Page",
+        "epoch": 1634815806.3117192,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-21T13.30.06E1634815806.3117337.json",
+        "en_title": "Is the Czech President Â«unable to carry out its functionsÃÂ»?",
+        "en_content": "It seems to yes: Milos Zeman is in intensive care, his collaborators are investigated to have kept his health conditions",
+        "concepts": [
+            {
+                "word": "Czech",
+                "meaning": "amod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "President",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "functionsÃÂ",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "»",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "title": "IL CASO POLONIA SUL TAVOLO DELL'UE    Al via l'ultimo Consiglio con la Merkel Sassoli:\"Regole Ue non negoziabili\"",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1634837412.3297694,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T19.30.12E1634837412.3298438.json",
+        "en_title": "The Poland case on the EU table at the start the last Council with Merkel Sassoli: \"Uncoveriable EU rules\"",
+        "concepts": [
+            {
+                "word": "Poland",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "table",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "start",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Council",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sassoli",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Mattarella a Gorizia e Nova Goriza    \"Qui l'autentico spirito d'Europa\"",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1634837412.3297815,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T19.30.12E1634837412.3298438.json",
+        "en_title": "Mattarella in Gorizia and Nova Goriza \"Here the authentic spirit of Europe\"",
+        "concepts": [
+            {
+                "word": "Mattarella",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gorizia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Nova",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Goriza",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "spirit",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "RUBY TER, BERLUSCONI ASSOLTO A SIENA   I giudici: \"Il fatto non sussiste\"",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1634837412.3297932,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T19.30.12E1634837412.3298438.json",
+        "en_title": "Ruby Ter, Berlusconi acquitted in Siena the judges: \"The fact does not exist\"",
+        "concepts": [
+            {
+                "word": "Ruby",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ter",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Berlusconi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Siena",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "judges",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fact",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "VISCO: RISCHI GLOBALI SULLA RIPRESA   \"Centrale dare stimoli a economia\"",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1634837412.3298051,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T19.30.12E1634837412.3298438.json",
+        "en_title": "Visco: global risks on the recovery \"Centrale give economy stimuli\"",
+        "concepts": [
+            {
+                "word": "Visco",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "risks",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "recovery",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Centrale",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "economy",
+                "meaning": "dative",
+                "pos": "VERB"
+            },
+            {
+                "word": "stimuli",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "COVID, 3.794 NUOVI CASI E 36 DECESSI   Tasso di positivitÃÂ  da 0.7% a 0,6%",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1634837412.3298168,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T19.30.12E1634837412.3298438.json",
+        "en_title": "Covid, 3,794 new cases and 36 deaths positivity rate from 0.7% to 0.6%",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cases",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "positivity",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rate",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "%",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "%",
+                "meaning": "pobj",
+                "pos": "PART"
+            }
+        ]
+    },
+    {
+        "title": "Gimbe:\"Preoccupa situazione estera\"",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1634837412.3298259,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T19.30.12E1634837412.3298438.json",
+        "en_title": "GiMBE: \"Forehist worry\"",
+        "concepts": [
+            {
+                "word": "worry",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "E.LEAGUE, DI SCENA NAPOLI E LAZIO",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1634837412.3298328,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T19.30.12E1634837412.3298438.json",
+        "en_title": "E.league, of Scene Naples and Lazio",
+        "concepts": [
+            {
+                "word": "E.league",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Scene",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Naples",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lazio",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    }
+]

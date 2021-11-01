@@ -1,0 +1,217 @@
+[
+    {
+        "title": "MEDICI: REGINA ELISABETTA STIA A RIPOSO Costretta a cancellare un viaggio",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1634751003.7198262,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T19.30.03E1634751003.71987.json",
+        "en_title": "Doctors: Queen Elizabeth is at rest forced to cancel a trip",
+        "concepts": [
+            {
+                "word": "Doctors",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Queen",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Elizabeth",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rest",
+                "meaning": "advmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "trip",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PREMIO SACHAROV AD ALEXEI NAVALNY",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1634751003.7198367,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T19.30.03E1634751003.71987.json",
+        "en_title": "Sacharov Award in Alexei Navalny",
+        "concepts": [
+            {
+                "word": "Sacharov",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Award",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Alexei",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Navalny",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "COVID, SENATO BRASILE ACCUSA BOLSONARO  \"Crimini intenzionali\" in pandemia",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1634751003.7198439,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T19.30.03E1634751003.71987.json",
+        "en_title": "Covid, Senate Brazil accuses Bolsonaro \"intentional crimes\" in pandemic",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Senate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Brazil",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bolsonaro",
+                "meaning": "dative",
+                "pos": "VERB"
+            },
+            {
+                "word": "crimes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ASSALTO A CONGRESSO,BANNON SOTTO ACCUSA Commissione a favore azione penale",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": "",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1634751003.7198508,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T19.30.03E1634751003.71987.json",
+        "en_title": "Congress Assault, Bannon under accuses Commission in favor of criminal action",
+        "concepts": [
+            {
+                "word": "Congress",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Assault",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "accuses",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Commission",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "favor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "action",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CLIMA, NUOVO MONITO DALLE NAZIONI UNITE \"Limitare i combustibili fossili\"",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": "",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1634751003.7198577,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T19.30.03E1634751003.71987.json",
+        "en_title": "Climate, new monitored by the United Nations \"Limit fossil fuels\"",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "United",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Nations",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Limit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

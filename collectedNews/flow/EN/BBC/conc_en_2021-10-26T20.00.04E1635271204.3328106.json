@@ -1,0 +1,617 @@
+[
+    {
+        "title": "New legal duty over sewage as Lords forces issue",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59052995",
+        "content": "The government says it will make utilities take action over waste dumped in rivers after pressure from peers.",
+        "placed": "Politics",
+        "epoch": 1635271204.3325255,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "New legal duty over sewage as Lords forces issue",
+        "en_content": "The government says it will make utilities take action over waste dumped in rivers after pressure from peers.",
+        "concepts": [
+            {
+                "word": "duty",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sewage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lords",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "forces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "New legal duty over sewage as Lords forces issue",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59052995",
+        "content": "The government says it will make utilities take action over waste dumped in rivers after pressure from peers.",
+        "placed": "Politics",
+        "epoch": 1635271204.3325524,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "New legal duty over sewage as Lords forces issue",
+        "en_content": "The government says it will make utilities take action over waste dumped in rivers after pressure from peers.",
+        "concepts": [
+            {
+                "word": "duty",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sewage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lords",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "forces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Public sector workers set for pay rise - Sunak",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59044770",
+        "content": "The chancellor will use his Budget on Wednesday to confirm that the \"pay pause\" is being lifted.",
+        "placed": "Politics",
+        "epoch": 1635271204.3325715,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Public sector workers set for pay rise - Sunak",
+        "en_content": "The chancellor will use his Budget on Wednesday to confirm that the \"pay pause\" is being lifted.",
+        "concepts": [
+            {
+                "word": "sector",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "workers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "pay",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sunak",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Watchdog recommends 30-day suspension for Tory MP",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59049343",
+        "content": "A report says ex-minister Owen Paterson had used his position as MP to benefit two companies who paid him.",
+        "placed": "Politics",
+        "epoch": 1635271204.3325875,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Watchdog recommends 30-day suspension for Tory MP",
+        "en_content": "A report says ex-minister Owen Paterson had used his position as MP to benefit two companies who paid him.",
+        "concepts": [
+            {
+                "word": "Watchdog",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "suspension",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tory",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Budget 2021: What has already been announced?",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59035823",
+        "content": "Rishi Sunak's statement isn't until Wednesday, but several pledges have been announced.",
+        "placed": "Politics",
+        "epoch": 1635271204.3326032,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Budget 2021: What has already been announced?",
+        "en_content": "Rishi Sunak's statement isn't until Wednesday, but several pledges have been announced.",
+        "concepts": [
+            {
+                "word": "Budget",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "No VAT cut to household energy bills in Budget",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59044775",
+        "content": "Treasury sources say such a move would be badly targeted and there are other ways to help those struggling.",
+        "placed": "Politics",
+        "epoch": 1635271204.3326187,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "No VAT cut to household energy bills in Budget",
+        "en_content": "Treasury sources say such a move would be badly targeted and there are other ways to help those struggling.",
+        "concepts": [
+            {
+                "word": "VAT",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "household",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "energy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bills",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Budget",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Christmas turkey shortage likely, farmers warn",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59052711",
+        "content": "Poultry industry chief tells MPs the government's overseas workers scheme has come too late.",
+        "placed": "Politics",
+        "epoch": 1635271204.3326392,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Christmas turkey shortage likely, farmers warn",
+        "en_content": "Poultry industry chief tells MPs the government's overseas workers scheme has come too late.",
+        "concepts": [
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "turkey",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shortage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "farmers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Everyone in Commons must wear masks except MPs",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59056316",
+        "content": "Parliamentary staff and visitors have been told to cover their faces to combat the spread of Covid.",
+        "placed": "Politics",
+        "epoch": 1635271204.332654,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Everyone in Commons must wear masks except MPs",
+        "en_content": "Parliamentary staff and visitors have been told to cover their faces to combat the spread of Covid.",
+        "concepts": [
+            {
+                "word": "Commons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "masks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "New legal duty over sewage as Lords forces issue",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59052995",
+        "content": "The government says it will make utilities take action over waste dumped in rivers after pressure from peers.",
+        "placed": "Politics",
+        "epoch": 1635271204.332668,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "New legal duty over sewage as Lords forces issue",
+        "en_content": "The government says it will make utilities take action over waste dumped in rivers after pressure from peers.",
+        "concepts": [
+            {
+                "word": "duty",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sewage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lords",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "forces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Public sector workers set for pay rise - Sunak",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59044770",
+        "content": "The chancellor will use his Budget on Wednesday to confirm that the \"pay pause\" is being lifted.",
+        "placed": "Politics",
+        "epoch": 1635271204.3326828,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Public sector workers set for pay rise - Sunak",
+        "en_content": "The chancellor will use his Budget on Wednesday to confirm that the \"pay pause\" is being lifted.",
+        "concepts": [
+            {
+                "word": "sector",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "workers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "pay",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sunak",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Watchdog recommends 30-day suspension for Tory MP",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59049343",
+        "content": "A report says ex-minister Owen Paterson had used his position as MP to benefit two companies who paid him.",
+        "placed": "Politics",
+        "epoch": 1635271204.3326974,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Watchdog recommends 30-day suspension for Tory MP",
+        "en_content": "A report says ex-minister Owen Paterson had used his position as MP to benefit two companies who paid him.",
+        "concepts": [
+            {
+                "word": "Watchdog",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "suspension",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tory",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Budget 2021: What has already been announced?",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59035823",
+        "content": "Rishi Sunak's statement isn't until Wednesday, but several pledges have been announced.",
+        "placed": "Politics",
+        "epoch": 1635271204.332712,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Budget 2021: What has already been announced?",
+        "en_content": "Rishi Sunak's statement isn't until Wednesday, but several pledges have been announced.",
+        "concepts": [
+            {
+                "word": "Budget",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "No VAT cut to household energy bills in Budget",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59044775",
+        "content": "Treasury sources say such a move would be badly targeted and there are other ways to help those struggling.",
+        "placed": "Politics",
+        "epoch": 1635271204.3327265,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "No VAT cut to household energy bills in Budget",
+        "en_content": "Treasury sources say such a move would be badly targeted and there are other ways to help those struggling.",
+        "concepts": [
+            {
+                "word": "VAT",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "household",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "energy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bills",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Budget",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Christmas turkey shortage likely, farmers warn",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59052711",
+        "content": "Poultry industry chief tells MPs the government's overseas workers scheme has come too late.",
+        "placed": "Politics",
+        "epoch": 1635271204.3327413,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Christmas turkey shortage likely, farmers warn",
+        "en_content": "Poultry industry chief tells MPs the government's overseas workers scheme has come too late.",
+        "concepts": [
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "turkey",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shortage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "farmers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Everyone in Commons must wear masks except MPs",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59056316",
+        "content": "Parliamentary staff and visitors have been told to cover their faces to combat the spread of Covid.",
+        "placed": "Politics",
+        "epoch": 1635271204.3327556,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Everyone in Commons must wear masks except MPs",
+        "en_content": "Parliamentary staff and visitors have been told to cover their faces to combat the spread of Covid.",
+        "concepts": [
+            {
+                "word": "Commons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "masks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Public sector workers set for pay rise - Sunak",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59044770",
+        "content": "The chancellor will use his Budget on Wednesday to confirm that the \"pay pause\" is being lifted.",
+        "placed": "Politics",
+        "epoch": 1635271204.3327696,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Public sector workers set for pay rise - Sunak",
+        "en_content": "The chancellor will use his Budget on Wednesday to confirm that the \"pay pause\" is being lifted.",
+        "concepts": [
+            {
+                "word": "sector",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "workers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "pay",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sunak",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Watchdog recommends 30-day suspension for Tory MP",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59049343",
+        "content": "A report says ex-minister Owen Paterson had used his position as MP to benefit two companies who paid him.",
+        "placed": "Politics",
+        "epoch": 1635271204.3327837,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Watchdog recommends 30-day suspension for Tory MP",
+        "en_content": "A report says ex-minister Owen Paterson had used his position as MP to benefit two companies who paid him.",
+        "concepts": [
+            {
+                "word": "Watchdog",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "suspension",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tory",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Budget 2021: What has already been announced?",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59035823",
+        "content": "Rishi Sunak's statement isn't until Wednesday, but several pledges have been announced.",
+        "placed": "Politics",
+        "epoch": 1635271204.3327978,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T20.00.04E1635271204.3328106.json",
+        "en_title": "Budget 2021: What has already been announced?",
+        "en_content": "Rishi Sunak's statement isn't until Wednesday, but several pledges have been announced.",
+        "concepts": [
+            {
+                "word": "Budget",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

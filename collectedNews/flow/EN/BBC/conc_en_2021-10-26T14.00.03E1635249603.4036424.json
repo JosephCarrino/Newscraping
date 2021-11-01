@@ -1,0 +1,637 @@
+[
+    {
+        "title": "Australia's 2050 net zero pledge draws criticism",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-australia-59046032",
+        "content": "The target controversially omits new short-term goals and cuts to fossil fuel industries.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4033144,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Australia's 2050 net zero pledge draws criticism",
+        "en_content": "The target controversially omits new short-term goals and cuts to fossil fuel industries.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "net",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledge",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "criticism",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Australia's 2050 net zero pledge draws criticism",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-australia-59046032",
+        "content": "The target controversially omits new short-term goals and cuts to fossil fuel industries.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4033444,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Australia's 2050 net zero pledge draws criticism",
+        "en_content": "The target controversially omits new short-term goals and cuts to fossil fuel industries.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "net",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledge",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "criticism",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Can Lego help save Singapore's coral reefs?",
+        "date_raw": "P",
+        "news_url": "https://www.bbc.com/news/world-asia-58784313",
+        "content": "Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs.",
+        "placed": "First_Page",
+        "epoch": 1635249603.403358,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Can Lego help save Singapore's coral reefs?",
+        "en_content": "Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs.",
+        "concepts": [
+            {
+                "word": "Lego",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Singapore",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reefs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Japanese princess in muted wedding after controversy",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-asia-59046476",
+        "content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4033766,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Japanese princess in muted wedding after controversy",
+        "en_content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
+        "concepts": [
+            {
+                "word": "princess",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wedding",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "controversy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Protests rock Sudan after military coup",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-africa-59045020",
+        "content": "Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4033933,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Protests rock Sudan after military coup",
+        "en_content": "Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup.",
+        "concepts": [
+            {
+                "word": "Protests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Signs of first planet found outside our galaxy",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/science-environment-59044650",
+        "content": "Astronomers have found hints of what could be the first planet ever to be discovered outside our galaxy.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4034092,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Signs of first planet found outside our galaxy",
+        "en_content": "Astronomers have found hints of what could be the first planet ever to be discovered outside our galaxy.",
+        "concepts": [
+            {
+                "word": "Signs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "planet",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "galaxy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chappelle slams cancel culture amid Netflix furore",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046022",
+        "content": "\"I am not bending to anybody's demands,\" says the US comic of the transgender backlash he faces.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4034286,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Chappelle slams cancel culture amid Netflix furore",
+        "en_content": "\"I am not bending to anybody's demands,\" says the US comic of the transgender backlash he faces.",
+        "concepts": [
+            {
+                "word": "Chappelle",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "slams",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "culture",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netflix",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "furore",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Afghan baby girl sold for $500 by starving family",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-asia-59034650",
+        "content": "The BBCÃ¢ÂÂs Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4034445,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Afghan baby girl sold for $500 by starving family",
+        "en_content": "The BBCÃ¢ÂÂs Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan.",
+        "concepts": [
+            {
+                "word": "baby",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "girl",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "family",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden sets new Covid rules as US air travel reopens",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044856",
+        "content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4034526,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Biden sets new Covid rules as US air travel reopens",
+        "en_content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Jeff Bezos unveils plans for 'space business park'",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046076",
+        "content": "His space company Blue Origin hopes its venture will replace the International Space Station.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4034705,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Jeff Bezos unveils plans for 'space business park'",
+        "en_content": "His space company Blue Origin hopes its venture will replace the International Space Station.",
+        "concepts": [
+            {
+                "word": "Jeff",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bezos",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plans",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "space",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "business",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "park",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Facebook earns $9bn despite whistleblower scandal",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/business-59046002",
+        "content": "The firm posts strong profits as it continues to face negative press over leaked internal documents.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4034855,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Facebook earns $9bn despite whistleblower scandal",
+        "en_content": "The firm posts strong profits as it continues to face negative press over leaked internal documents.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "9bn",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "whistleblower",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scandal",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Tesla surpasses a $1 trillion valuation",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/business-59045100",
+        "content": "The electric carmaker becomes the fifth such company to reach the milestone after its shares rise 12%.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4035,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Tesla surpasses a $1 trillion valuation",
+        "en_content": "The electric carmaker becomes the fifth such company to reach the milestone after its shares rise 12%.",
+        "concepts": [
+            {
+                "word": "Tesla",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "valuation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Facebook earns $9bn despite whistleblower scandal",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/business-59046002",
+        "content": "The firm posts strong profits as it continues to face negative press over leaked internal documents.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4035172,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Facebook earns $9bn despite whistleblower scandal",
+        "en_content": "The firm posts strong profits as it continues to face negative press over leaked internal documents.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "9bn",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "whistleblower",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scandal",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Tesla surpasses a $1 trillion valuation",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/business-59045100",
+        "content": "The electric carmaker becomes the fifth such company to reach the milestone after its shares rise 12%.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4035318,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Tesla surpasses a $1 trillion valuation",
+        "en_content": "The electric carmaker becomes the fifth such company to reach the milestone after its shares rise 12%.",
+        "concepts": [
+            {
+                "word": "Tesla",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "valuation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "First aider dies years after Berlin market attack",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-europe-59048891",
+        "content": "Sascha HÃÂ¼sges was badly injured when he rushed to help victims of the 2016 Christmas market attack.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4035459,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "First aider dies years after Berlin market attack",
+        "en_content": "Sascha HÃÂ¼sges was badly injured when he rushed to help victims of the 2016 Christmas market attack.",
+        "concepts": [
+            {
+                "word": "aider",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Berlin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "market",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Deadline set for Prince Andrew to answer questions",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/uk-59046060",
+        "content": "The two sides have until 14 July 2022 to submit sworn testimony in the civil case, a US judge rules.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4035602,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Deadline set for Prince Andrew to answer questions",
+        "en_content": "The two sides have until 14 July 2022 to submit sworn testimony in the civil case, a US judge rules.",
+        "concepts": [
+            {
+                "word": "Deadline",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Prince",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Andrew",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "questions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Baldwin was pointing gun at camera on film set",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59035483",
+        "content": "Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results.",
+        "placed": "First_Page",
+        "epoch": 1635249603.4035773,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Baldwin was pointing gun at camera on film set",
+        "en_content": "Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gun",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "camera",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "film",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Four things you can do to reduce emissions",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/science-environment-58171814",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1635249603.4035919,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Four things you can do to reduce emissions",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "things",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "emissions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Can your sex life be eco-friendly?",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/science-environment-59046518",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1635249603.4036057,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T14.00.03E1635249603.4036424.json",
+        "en_title": "Can your sex life be eco-friendly?",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "sex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "life",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "eco",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            }
+        ]
+    }
+]

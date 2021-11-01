@@ -1,0 +1,288 @@
+[
+    {
+        "title": "RUSH FINALE MANOVRA, PENSIONI QUOTA",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=102",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635409803.880073,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-28T10.30.03E1635409803.8801265.json",
+        "en_title": "Rush final maneuver, pensions altitude",
+        "concepts": [
+            {
+                "word": "maneuver",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "pensions",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PiÃÂ¹ controlli sul Reddito,fine cashback Proroga Superbonus 110%. Atteso CdM",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635409803.8800828,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-28T10.30.03E1635409803.8801265.json",
+        "en_title": "Most income checks, end cashback superbonus extension 110%.Expected CDM",
+        "concepts": [
+            {
+                "word": "income",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "checks",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cashback",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "extension",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "CDM",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "SALGONO CONTAGI +43,2% E RICOVERI +7,5% Gimbe: \"-53% vaccinati in 7 giorni\"",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635409803.8800907,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-28T10.30.03E1635409803.8801265.json",
+        "en_title": "Salvo Contagi + 43.2% and admissions + 7.5% GiMBE: \"-53% vaccinated in 7 days\"",
+        "concepts": [
+            {
+                "word": "Salvo",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Contagi",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "%",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "admissions",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "%",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "GiMBE",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-53",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "%",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "days",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MALTEMPO, ORA SI TEME ARRIVI L'URAGANO  Sulla Sicilia come quelli sugli Oceani  Catania, scuole e uffici chiusi",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1635409803.880098,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-28T10.30.03E1635409803.8801265.json",
+        "en_title": "Bad weather, now you fear the hurricane on Sicily like those on the oceans catania, schools and closed offices",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "intj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hurricane",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sicily",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "oceans",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "catania",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "schools",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "offices",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "IL DDL ZAN AFFOSSATO COL VOTO SEGRETO  Letta: \"Hanno voluto fermare il futuro\" Salvini:\"Sconfitta arroganza Pd-5S\"",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1635409803.8801053,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-28T10.30.03E1635409803.8801265.json",
+        "en_title": "The ddl zan unfortunate with the secret vote read: \"They wanted to stop the future\" Salvini: \"Defeat arrogance PD-5S\"",
+        "concepts": [
+            {
+                "word": "ddl",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "zan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vote",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Salvini",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Defeat",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arrogance",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "PD-5S",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "SASSUOLO SBANCA LO JUVENTUS STADIUM:1-2 Inter passa 2-0 a Empoli,colpo Roma",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635409803.8801126,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-28T10.30.03E1635409803.8801265.json",
+        "en_title": "Sassuolo Watch the Juventus Stadium: 1-2 Inter passed 2-0 to Empoli, ROME Shot",
+        "concepts": [
+            {
+                "word": "Sassuolo",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Watch",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "Juventus",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Stadium",
+                "meaning": "dobj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Inter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Empoli",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ROME",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shot",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

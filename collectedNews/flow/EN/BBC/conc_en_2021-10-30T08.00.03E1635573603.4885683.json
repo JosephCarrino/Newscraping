@@ -1,0 +1,681 @@
+[
+    {
+        "title": "Fishing row a test of UK's credibility - Macron",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59100410",
+        "content": "The French president says backtracking on Brexit commitments \"is not a big sign of your credibility\".",
+        "placed": "First_Page",
+        "epoch": 1635573603.4882216,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Fishing row a test of UK's credibility - Macron",
+        "en_content": "The French president says backtracking on Brexit commitments \"is not a big sign of your credibility\".",
+        "concepts": [
+            {
+                "word": "Fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "UK",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "credibility",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Macron",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Fishing row a test of UK's credibility - Macron",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59100410",
+        "content": "The French president says backtracking on Brexit commitments \"is not a big sign of your credibility\".",
+        "placed": "First_Page",
+        "epoch": 1635573603.488255,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Fishing row a test of UK's credibility - Macron",
+        "en_content": "The French president says backtracking on Brexit commitments \"is not a big sign of your credibility\".",
+        "concepts": [
+            {
+                "word": "Fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "UK",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "credibility",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Macron",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Queen advised to rest for two more weeks",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59097106",
+        "content": "The Queen will not undertake official visits until mid-November on doctors' advice, the palace says.",
+        "placed": "First_Page",
+        "epoch": 1635573603.4882774,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Queen advised to rest for two more weeks",
+        "en_content": "The Queen will not undertake official visits until mid-November on doctors' advice, the palace says.",
+        "concepts": [
+            {
+                "word": "Queen",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "weeks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La Palma: Living with lava",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59098425",
+        "content": "Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives.",
+        "placed": "First_Page",
+        "epoch": 1635573603.488291,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "La Palma: Living with lava",
+        "en_content": "Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives.",
+        "concepts": [
+            {
+                "word": "La",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Palma",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lava",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Covid origins may never be known - US intelligence",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59100114",
+        "content": "But US agencies say the virus, first identified in China, was not developed as a biological weapon.",
+        "placed": "First_Page",
+        "epoch": 1635573603.4883103,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Covid origins may never be known - US intelligence",
+        "en_content": "But US agencies say the virus, first identified in China, was not developed as a biological weapon.",
+        "concepts": [
+            {
+                "word": "origins",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "intelligence",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Prince Andrew asks US court to dismiss case",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59099346",
+        "content": "The royal's lawyers argue Virginia Giuffre failed to sufficiently state her claims and is seeking a \"payday\".",
+        "placed": "First_Page",
+        "epoch": 1635573603.4883368,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Prince Andrew asks US court to dismiss case",
+        "en_content": "The royal's lawyers argue Virginia Giuffre failed to sufficiently state her claims and is seeking a \"payday\".",
+        "concepts": [
+            {
+                "word": "Prince",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Andrew",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden: We were clumsy over France submarine row",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59085806",
+        "content": "The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal.",
+        "placed": "First_Page",
+        "epoch": 1635573603.4883552,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Biden: We were clumsy over France submarine row",
+        "en_content": "The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "France",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "submarine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Comic who mocked disabled singer wins free speech case",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59015486",
+        "content": "The legal row over a comedy routine about a young disabled singer has ended after nearly a decade.",
+        "placed": "First_Page",
+        "epoch": 1635573603.4883714,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Comic who mocked disabled singer wins free speech case",
+        "en_content": "The legal row over a comedy routine about a young disabled singer has ended after nearly a decade.",
+        "concepts": [
+            {
+                "word": "Comic",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "singer",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "speech",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Canada challenges indigenous compensation order",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59098305",
+        "content": "The Trudeau government has been told to issue payouts because it underfunded First Nations services.",
+        "placed": "First_Page",
+        "epoch": 1635573603.488388,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Canada challenges indigenous compensation order",
+        "en_content": "The Trudeau government has been told to issue payouts because it underfunded First Nations services.",
+        "concepts": [
+            {
+                "word": "Canada",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "compensation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "order",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Saudis expel Lebanese ambassador amid Yemen row",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59096578",
+        "content": "The kingdom is also recalling its envoy from Beirut over \"insulting\" remarks by a Lebanese minister.",
+        "placed": "First_Page",
+        "epoch": 1635573603.4884124,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Saudis expel Lebanese ambassador amid Yemen row",
+        "en_content": "The kingdom is also recalling its envoy from Beirut over \"insulting\" remarks by a Lebanese minister.",
+        "concepts": [
+            {
+                "word": "Saudis",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambassador",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Yemen",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Eriksen unable to play in Italy after cardiac arrest",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/football/59096086",
+        "content": "Christian Eriksen is not allowed to play in Italy this season after the cardiac arrest he suffered at Euro 2020, say Inter Milan.",
+        "placed": "First_Page",
+        "epoch": 1635573603.4884305,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Eriksen unable to play in Italy after cardiac arrest",
+        "en_content": "Christian Eriksen is not allowed to play in Italy this season after the cardiac arrest he suffered at Euro 2020, say Inter Milan.",
+        "concepts": [
+            {
+                "word": "Eriksen",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "arrest",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Poland to build border wall to stop migrant influx",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59096571",
+        "content": "The wall to curb a wave of migrants entering from Belarus has been approved by Poland's parliament.",
+        "placed": "First_Page",
+        "epoch": 1635573603.4884467,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Poland to build border wall to stop migrant influx",
+        "en_content": "The wall to curb a wave of migrants entering from Belarus has been approved by Poland's parliament.",
+        "concepts": [
+            {
+                "word": "Poland",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wall",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "influx",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Eriksen unable to play in Italy after cardiac arrest",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/football/59096086",
+        "content": "Christian Eriksen is not allowed to play in Italy this season after the cardiac arrest he suffered at Euro 2020, say Inter Milan.",
+        "placed": "First_Page",
+        "epoch": 1635573603.4884624,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Eriksen unable to play in Italy after cardiac arrest",
+        "en_content": "Christian Eriksen is not allowed to play in Italy this season after the cardiac arrest he suffered at Euro 2020, say Inter Milan.",
+        "concepts": [
+            {
+                "word": "Eriksen",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "arrest",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Poland to build border wall to stop migrant influx",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59096571",
+        "content": "The wall to curb a wave of migrants entering from Belarus has been approved by Poland's parliament.",
+        "placed": "First_Page",
+        "epoch": 1635573603.4884777,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Poland to build border wall to stop migrant influx",
+        "en_content": "The wall to curb a wave of migrants entering from Belarus has been approved by Poland's parliament.",
+        "concepts": [
+            {
+                "word": "Poland",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wall",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "influx",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Facebook's new name ridiculed by Hebrew speakers",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59090067",
+        "content": "The social media giant joins a number of companies that have fallen foul of translation blunders.",
+        "placed": "First_Page",
+        "epoch": 1635573603.4884932,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Facebook's new name ridiculed by Hebrew speakers",
+        "en_content": "The social media giant joins a number of companies that have fallen foul of translation blunders.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "name",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "speakers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Zayn Malik files 'no contest' plea to harassment charges",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/newsbeat-59087458",
+        "content": "The charges relate to an argument between the singer and Gigi Hadid's mum, Yolanda Hadid.",
+        "placed": "First_Page",
+        "epoch": 1635573603.488509,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Zayn Malik files 'no contest' plea to harassment charges",
+        "en_content": "The charges relate to an argument between the singer and Gigi Hadid's mum, Yolanda Hadid.",
+        "concepts": [
+            {
+                "word": "Zayn",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Malik",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contest",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plea",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "harassment",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "charges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US rapper Fetty Wap charged with drug trafficking",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59094763",
+        "content": "The artist was arrested at a stadium in New York City before his concert.",
+        "placed": "First_Page",
+        "epoch": 1635573603.4885244,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "US rapper Fetty Wap charged with drug trafficking",
+        "en_content": "The artist was arrested at a stadium in New York City before his concert.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rapper",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Fetty",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Wap",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trafficking",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Young climate activists: 'We're losing our hope in you'",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59076452",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1635573603.4885404,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "Young climate activists: 'We're losing our hope in you'",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "activists",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hope",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What do the poorest countries want from climate summit?",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59054696",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1635573603.4885564,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T08.00.03E1635573603.4885683.json",
+        "en_title": "What do the poorest countries want from climate summit?",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "countries",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

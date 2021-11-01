@@ -1,0 +1,590 @@
+[
+    {
+        "title": "Climate and Covid top agenda as world leaders meet",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59101218",
+        "content": "The G20 leaders are holding their first face-to-face meeting since the start of the pandemic.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5535665,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Climate and Covid top agenda as world leaders meet",
+        "en_content": "The G20 leaders are holding their first face-to-face meeting since the start of the pandemic.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "agenda",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "world",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Climate and Covid top agenda as world leaders meet",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59101218",
+        "content": "The G20 leaders are holding their first face-to-face meeting since the start of the pandemic.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5536199,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Climate and Covid top agenda as world leaders meet",
+        "en_content": "The G20 leaders are holding their first face-to-face meeting since the start of the pandemic.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "agenda",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "world",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Saudis expel Lebanese ambassador amid Yemen row",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59096578",
+        "content": "The kingdom is also recalling its envoy from Beirut over \"insulting\" remarks by a Lebanese minister.",
+        "placed": "Abroad",
+        "epoch": 1635595203.553642,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Saudis expel Lebanese ambassador amid Yemen row",
+        "en_content": "The kingdom is also recalling its envoy from Beirut over \"insulting\" remarks by a Lebanese minister.",
+        "concepts": [
+            {
+                "word": "Saudis",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambassador",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Yemen",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ancient wooden Mayan canoe unearthed in Mexico",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59101592",
+        "content": "Archaeologists discovered the boat during construction work on a new tourist train network.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5536842,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Ancient wooden Mayan canoe unearthed in Mexico",
+        "en_content": "Archaeologists discovered the boat during construction work on a new tourist train network.",
+        "concepts": [
+            {
+                "word": "canoe",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La Palma: Living with lava",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59098425",
+        "content": "Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5537014,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "La Palma: Living with lava",
+        "en_content": "Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives.",
+        "concepts": [
+            {
+                "word": "La",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Palma",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lava",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Covid origins may never be known - US intelligence",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59100114",
+        "content": "But US agencies say the virus, first identified in China, was not developed as a biological weapon.",
+        "placed": "Abroad",
+        "epoch": 1635595203.553722,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Covid origins may never be known - US intelligence",
+        "en_content": "But US agencies say the virus, first identified in China, was not developed as a biological weapon.",
+        "concepts": [
+            {
+                "word": "origins",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "intelligence",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Canada challenges indigenous compensation order",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59098305",
+        "content": "The Trudeau government has been told to issue payouts because it underfunded First Nations services.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5537403,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Canada challenges indigenous compensation order",
+        "en_content": "The Trudeau government has been told to issue payouts because it underfunded First Nations services.",
+        "concepts": [
+            {
+                "word": "Canada",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "compensation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "order",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Tonga records first case of coronavirus",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59101584",
+        "content": "The island nation was one of the last countries in the world not to have reported any infections.",
+        "placed": "Abroad",
+        "epoch": 1635595203.553758,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Tonga records first case of coronavirus",
+        "en_content": "The island nation was one of the last countries in the world not to have reported any infections.",
+        "concepts": [
+            {
+                "word": "Tonga",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "coronavirus",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate and Covid top agenda as world leaders meet",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59101218",
+        "content": "The G20 leaders are holding their first face-to-face meeting since the start of the pandemic.",
+        "placed": "Abroad",
+        "epoch": 1635595203.553776,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Climate and Covid top agenda as world leaders meet",
+        "en_content": "The G20 leaders are holding their first face-to-face meeting since the start of the pandemic.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "agenda",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "world",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Saudis expel Lebanese ambassador amid Yemen row",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59096578",
+        "content": "The kingdom is also recalling its envoy from Beirut over \"insulting\" remarks by a Lebanese minister.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5537934,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Saudis expel Lebanese ambassador amid Yemen row",
+        "en_content": "The kingdom is also recalling its envoy from Beirut over \"insulting\" remarks by a Lebanese minister.",
+        "concepts": [
+            {
+                "word": "Saudis",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambassador",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Yemen",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ancient wooden Mayan canoe unearthed in Mexico",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59101592",
+        "content": "Archaeologists discovered the boat during construction work on a new tourist train network.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5538104,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Ancient wooden Mayan canoe unearthed in Mexico",
+        "en_content": "Archaeologists discovered the boat during construction work on a new tourist train network.",
+        "concepts": [
+            {
+                "word": "canoe",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La Palma: Living with lava",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59098425",
+        "content": "Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5538268,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "La Palma: Living with lava",
+        "en_content": "Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives.",
+        "concepts": [
+            {
+                "word": "La",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Palma",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lava",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Covid origins may never be known - US intelligence",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59100114",
+        "content": "But US agencies say the virus, first identified in China, was not developed as a biological weapon.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5538363,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Covid origins may never be known - US intelligence",
+        "en_content": "But US agencies say the virus, first identified in China, was not developed as a biological weapon.",
+        "concepts": [
+            {
+                "word": "origins",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "intelligence",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Canada challenges indigenous compensation order",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59098305",
+        "content": "The Trudeau government has been told to issue payouts because it underfunded First Nations services.",
+        "placed": "Abroad",
+        "epoch": 1635595203.553854,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Canada challenges indigenous compensation order",
+        "en_content": "The Trudeau government has been told to issue payouts because it underfunded First Nations services.",
+        "concepts": [
+            {
+                "word": "Canada",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "compensation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "order",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Tonga records first case of coronavirus",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59101584",
+        "content": "The island nation was one of the last countries in the world not to have reported any infections.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5538707,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Tonga records first case of coronavirus",
+        "en_content": "The island nation was one of the last countries in the world not to have reported any infections.",
+        "concepts": [
+            {
+                "word": "Tonga",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "coronavirus",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Saudis expel Lebanese ambassador amid Yemen row",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59096578",
+        "content": "The kingdom is also recalling its envoy from Beirut over \"insulting\" remarks by a Lebanese minister.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5538871,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Saudis expel Lebanese ambassador amid Yemen row",
+        "en_content": "The kingdom is also recalling its envoy from Beirut over \"insulting\" remarks by a Lebanese minister.",
+        "concepts": [
+            {
+                "word": "Saudis",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambassador",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Yemen",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ancient wooden Mayan canoe unearthed in Mexico",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59101592",
+        "content": "Archaeologists discovered the boat during construction work on a new tourist train network.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5539236,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "Ancient wooden Mayan canoe unearthed in Mexico",
+        "en_content": "Archaeologists discovered the boat during construction work on a new tourist train network.",
+        "concepts": [
+            {
+                "word": "canoe",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La Palma: Living with lava",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59098425",
+        "content": "Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives.",
+        "placed": "Abroad",
+        "epoch": 1635595203.5539472,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.5539632.json",
+        "en_title": "La Palma: Living with lava",
+        "en_content": "Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives.",
+        "concepts": [
+            {
+                "word": "La",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Palma",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lava",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

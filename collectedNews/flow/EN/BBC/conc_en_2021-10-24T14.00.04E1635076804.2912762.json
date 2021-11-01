@@ -1,0 +1,627 @@
+[
+    {
+        "title": "Labour calls for Plan B Covid measures in England",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-59027290",
+        "content": "But the chancellor says the data does not suggest \"immediately\" moving to government's back-up plan.",
+        "placed": "Politics",
+        "epoch": 1635076804.291002,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Labour calls for Plan B Covid measures in England",
+        "en_content": "But the chancellor says the data does not suggest \"immediately\" moving to government's back-up plan.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Plan",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "B",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "measures",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "England",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour calls for Plan B Covid measures in England",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-59027290",
+        "content": "But the chancellor says the data does not suggest \"immediately\" moving to government's back-up plan.",
+        "placed": "Politics",
+        "epoch": 1635076804.2910283,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Labour calls for Plan B Covid measures in England",
+        "en_content": "But the chancellor says the data does not suggest \"immediately\" moving to government's back-up plan.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Plan",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "B",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "measures",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "England",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Budget about investing in public services - Sunak",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-politics-58913533",
+        "content": "The chancellor says he will set out a plan for rebuilding the economy next week based on skills.",
+        "placed": "Politics",
+        "epoch": 1635076804.2910473,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Budget about investing in public services - Sunak",
+        "en_content": "The chancellor says he will set out a plan for rebuilding the economy next week based on skills.",
+        "concepts": [
+            {
+                "word": "Budget",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "services",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sunak",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Chancellor to pledge funds for skills training",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/education-59010418",
+        "content": "The government sets out its package for new T-levels and boosting further education in England.",
+        "placed": "Politics",
+        "epoch": 1635076804.291064,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Chancellor to pledge funds for skills training",
+        "en_content": "The government sets out its package for new T-levels and boosting further education in England.",
+        "concepts": [
+            {
+                "word": "Chancellor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "funds",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "skills",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "training",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK says new NI Protocol talks 'constructive'",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59023511",
+        "content": "A government source says the EU has offered \"things that we can work with\" but gaps remain.",
+        "placed": "Politics",
+        "epoch": 1635076804.2910795,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "UK says new NI Protocol talks 'constructive'",
+        "en_content": "A government source says the EU has offered \"things that we can work with\" but gaps remain.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protocol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ministers pledge ÃÂ£500m to support young families",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/uk-59018031",
+        "content": "A network of \"family hubs\" is to be funded in England to provide support services in one place.",
+        "placed": "Politics",
+        "epoch": 1635076804.2910948,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Ministers pledge ÃÂ£500m to support young families",
+        "en_content": "A network of \"family hubs\" is to be funded in England to provide support services in one place.",
+        "concepts": [
+            {
+                "word": "Ministers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ÃÂ£500",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "families",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Online safety plans need more clarity, says Twitter",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/uk-politics-59010723",
+        "content": "The government says it will tackle extreme posts but Twitter warns Ofcom will be \"muddling through\".",
+        "placed": "Politics",
+        "epoch": 1635076804.2911096,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Online safety plans need more clarity, says Twitter",
+        "en_content": "The government says it will tackle extreme posts but Twitter warns Ofcom will be \"muddling through\".",
+        "concepts": [
+            {
+                "word": "safety",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "clarity",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Twitter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "City regions to get ÃÂ£6.9bn for public transport",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/business-59017503",
+        "content": "The chancellor will announce increased funding for tram, train and bus services in England.",
+        "placed": "Politics",
+        "epoch": 1635076804.2911239,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "City regions to get ÃÂ£6.9bn for public transport",
+        "en_content": "The chancellor will announce increased funding for tram, train and bus services in England.",
+        "concepts": [
+            {
+                "word": "City",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "regions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "transport",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour calls for Plan B Covid measures in England",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-59027290",
+        "content": "But the chancellor says the data does not suggest \"immediately\" moving to government's back-up plan.",
+        "placed": "Politics",
+        "epoch": 1635076804.2911377,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Labour calls for Plan B Covid measures in England",
+        "en_content": "But the chancellor says the data does not suggest \"immediately\" moving to government's back-up plan.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Plan",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "B",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "measures",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "England",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Budget about investing in public services - Sunak",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-politics-58913533",
+        "content": "The chancellor says he will set out a plan for rebuilding the economy next week based on skills.",
+        "placed": "Politics",
+        "epoch": 1635076804.2911515,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Budget about investing in public services - Sunak",
+        "en_content": "The chancellor says he will set out a plan for rebuilding the economy next week based on skills.",
+        "concepts": [
+            {
+                "word": "Budget",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "services",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sunak",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Chancellor to pledge funds for skills training",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/education-59010418",
+        "content": "The government sets out its package for new T-levels and boosting further education in England.",
+        "placed": "Politics",
+        "epoch": 1635076804.2911654,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Chancellor to pledge funds for skills training",
+        "en_content": "The government sets out its package for new T-levels and boosting further education in England.",
+        "concepts": [
+            {
+                "word": "Chancellor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "funds",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "skills",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "training",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK says new NI Protocol talks 'constructive'",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59023511",
+        "content": "A government source says the EU has offered \"things that we can work with\" but gaps remain.",
+        "placed": "Politics",
+        "epoch": 1635076804.291179,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "UK says new NI Protocol talks 'constructive'",
+        "en_content": "A government source says the EU has offered \"things that we can work with\" but gaps remain.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protocol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ministers pledge ÃÂ£500m to support young families",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/uk-59018031",
+        "content": "A network of \"family hubs\" is to be funded in England to provide support services in one place.",
+        "placed": "Politics",
+        "epoch": 1635076804.2911928,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Ministers pledge ÃÂ£500m to support young families",
+        "en_content": "A network of \"family hubs\" is to be funded in England to provide support services in one place.",
+        "concepts": [
+            {
+                "word": "Ministers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ÃÂ£500",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "families",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Online safety plans need more clarity, says Twitter",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/uk-politics-59010723",
+        "content": "The government says it will tackle extreme posts but Twitter warns Ofcom will be \"muddling through\".",
+        "placed": "Politics",
+        "epoch": 1635076804.2912066,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Online safety plans need more clarity, says Twitter",
+        "en_content": "The government says it will tackle extreme posts but Twitter warns Ofcom will be \"muddling through\".",
+        "concepts": [
+            {
+                "word": "safety",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "clarity",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Twitter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "City regions to get ÃÂ£6.9bn for public transport",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/business-59017503",
+        "content": "The chancellor will announce increased funding for tram, train and bus services in England.",
+        "placed": "Politics",
+        "epoch": 1635076804.2912204,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "City regions to get ÃÂ£6.9bn for public transport",
+        "en_content": "The chancellor will announce increased funding for tram, train and bus services in England.",
+        "concepts": [
+            {
+                "word": "City",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "regions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "transport",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Budget about investing in public services - Sunak",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/uk-politics-58913533",
+        "content": "The chancellor says he will set out a plan for rebuilding the economy next week based on skills.",
+        "placed": "Politics",
+        "epoch": 1635076804.2912347,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Budget about investing in public services - Sunak",
+        "en_content": "The chancellor says he will set out a plan for rebuilding the economy next week based on skills.",
+        "concepts": [
+            {
+                "word": "Budget",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "services",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sunak",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Chancellor to pledge funds for skills training",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/education-59010418",
+        "content": "The government sets out its package for new T-levels and boosting further education in England.",
+        "placed": "Politics",
+        "epoch": 1635076804.2912486,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "Chancellor to pledge funds for skills training",
+        "en_content": "The government sets out its package for new T-levels and boosting further education in England.",
+        "concepts": [
+            {
+                "word": "Chancellor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "funds",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "skills",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "training",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK says new NI Protocol talks 'constructive'",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59023511",
+        "content": "A government source says the EU has offered \"things that we can work with\" but gaps remain.",
+        "placed": "Politics",
+        "epoch": 1635076804.2912624,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T14.00.04E1635076804.2912762.json",
+        "en_title": "UK says new NI Protocol talks 'constructive'",
+        "en_content": "A government source says the EU has offered \"things that we can work with\" but gaps remain.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protocol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

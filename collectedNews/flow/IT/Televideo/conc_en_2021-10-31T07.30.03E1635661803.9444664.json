@@ -1,0 +1,108 @@
+[
+    {
+        "title": "OGNISSANTI, OSSIGENO PER IL TURISMO   Previsti 3,8 mln di pernottamenti",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": "",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1635661803.9444377,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T07.30.03E1635661803.9444664.json",
+        "en_title": "Ognissants, oxygen for tourism planned 3.8 million nights",
+        "concepts": [
+            {
+                "word": "Ognissants",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "oxygen",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tourism",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "nights",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "CONFINDUSTRIA PROMUOVE LO SMART WORKING \"Partita da vincere per il Paese\"",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": "",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1635661803.9444482,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T07.30.03E1635661803.9444664.json",
+        "en_title": "Confindustria promotes the smart working \"game to win for the country\"",
+        "concepts": [
+            {
+                "word": "Confindustria",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "game",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "country",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nota su indici di Borsa Televideo",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=130",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": "",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1635661803.944456,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T07.30.03E1635661803.9444664.json",
+        "en_title": "Note on Teletext stock exchange indexes",
+        "concepts": [
+            {
+                "word": "Teletext",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indexes",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

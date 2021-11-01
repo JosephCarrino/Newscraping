@@ -1,0 +1,686 @@
+[
+    {
+        "title": "Leak reveals lobbying to change key climate report",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/science-environment-58982445",
+        "content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "placed": "First_Page",
+        "epoch": 1634796003.2750137,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Leak reveals lobbying to change key climate report",
+        "en_content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "concepts": [
+            {
+                "word": "Leak",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Leak reveals lobbying to change key climate report",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/science-environment-58982445",
+        "content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "placed": "First_Page",
+        "epoch": 1634796003.275043,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Leak reveals lobbying to change key climate report",
+        "en_content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "concepts": [
+            {
+                "word": "Leak",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "WHO warns pandemic will drag on into 2022",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/health-58973697",
+        "content": "Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say.",
+        "placed": "First_Page",
+        "epoch": 1634796003.275063,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "WHO warns pandemic will drag on into 2022",
+        "en_content": "Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say.",
+        "concepts": []
+    },
+    {
+        "title": "Remains found in hunt for blogger's fiancÃÂ© - FBI",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58989242",
+        "content": "Items owned by Gabby Petito's missing fiancÃÂ© and apparent human remains have been found in Florida.",
+        "placed": "First_Page",
+        "epoch": 1634796003.27508,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Remains found in hunt for blogger's fiancÃÂ© - FBI",
+        "en_content": "Items owned by Gabby Petito's missing fiancÃÂ© and apparent human remains have been found in Florida.",
+        "concepts": [
+            {
+                "word": "Remains",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hunt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "blogger",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "©",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "FBI",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tax cheat schemes cost governments billions",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/business-58984813",
+        "content": "Major tax evasion and avoidance schemes have deprived countries of ÃÂ£127bn, research shows.",
+        "placed": "First_Page",
+        "epoch": 1634796003.2750952,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Tax cheat schemes cost governments billions",
+        "en_content": "Major tax evasion and avoidance schemes have deprived countries of ÃÂ£127bn, research shows.",
+        "concepts": [
+            {
+                "word": "Tax",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cheat",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "schemes",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cost",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "governments",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "billions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Netflix staff protest over Dave Chappelle comedy",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58990325",
+        "content": "Activists say the streaming giant's comedy special could fuel attacks on transgender people.",
+        "placed": "First_Page",
+        "epoch": 1634796003.2751105,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Netflix staff protest over Dave Chappelle comedy",
+        "en_content": "Activists say the streaming giant's comedy special could fuel attacks on transgender people.",
+        "concepts": [
+            {
+                "word": "Netflix",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "staff",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Dave",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Chappelle",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "comedy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The four-year-old footballer recruited by Arsenal",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/uk-58988254",
+        "content": "Zayn Ali Salman is the youngest-ever recruit to Arsenal's pre-academy.",
+        "placed": "First_Page",
+        "epoch": 1634796003.2751212,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "The four-year-old footballer recruited by Arsenal",
+        "en_content": "Zayn Ali Salman is the youngest-ever recruit to Arsenal's pre-academy.",
+        "concepts": [
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "footballer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Arsenal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Trump to launch social media platform TRUTH Social",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58990330",
+        "content": "The former US president said it would be used to \"stand up to the tyranny of big tech\".",
+        "placed": "First_Page",
+        "epoch": 1634796003.275136,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Trump to launch social media platform TRUTH Social",
+        "en_content": "The former US president said it would be used to \"stand up to the tyranny of big tech\".",
+        "concepts": [
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "platform",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "TRUTH",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Social",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Evergrande shares plunge as trading resumes",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/business-58976991",
+        "content": "Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong.",
+        "placed": "First_Page",
+        "epoch": 1634796003.2751498,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Evergrande shares plunge as trading resumes",
+        "en_content": "Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong.",
+        "concepts": [
+            {
+                "word": "shares",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trading",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK agrees free trade deal with New Zealand",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/business-58988711",
+        "content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
+        "placed": "First_Page",
+        "epoch": 1634796003.2751644,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "UK agrees free trade deal with New Zealand",
+        "en_content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Zealand",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Paris Hilton pushes for US youth care abuse reform",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58988523",
+        "content": "The reality star spoke in Washington DC about her alleged abuse in residential care as a teenager.",
+        "placed": "First_Page",
+        "epoch": 1634796003.2751787,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Paris Hilton pushes for US youth care abuse reform",
+        "en_content": "The reality star spoke in Washington DC about her alleged abuse in residential care as a teenager.",
+        "concepts": [
+            {
+                "word": "Paris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hilton",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "youth",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abuse",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reform",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Death toll passes 150 in Nepal-India floods",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-india-58951456",
+        "content": "Heavy rain triggers flash floods and landslides in parts of India and Nepal.",
+        "placed": "First_Page",
+        "epoch": 1634796003.2751925,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Death toll passes 150 in Nepal-India floods",
+        "en_content": "Heavy rain triggers flash floods and landslides in parts of India and Nepal.",
+        "concepts": [
+            {
+                "word": "Death",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "toll",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Nepal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "India",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "floods",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Paris Hilton pushes for US youth care abuse reform",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58988523",
+        "content": "The reality star spoke in Washington DC about her alleged abuse in residential care as a teenager.",
+        "placed": "First_Page",
+        "epoch": 1634796003.275206,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Paris Hilton pushes for US youth care abuse reform",
+        "en_content": "The reality star spoke in Washington DC about her alleged abuse in residential care as a teenager.",
+        "concepts": [
+            {
+                "word": "Paris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hilton",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "youth",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abuse",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reform",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Death toll passes 150 in Nepal-India floods",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-india-58951456",
+        "content": "Heavy rain triggers flash floods and landslides in parts of India and Nepal.",
+        "placed": "First_Page",
+        "epoch": 1634796003.2752197,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Death toll passes 150 in Nepal-India floods",
+        "en_content": "Heavy rain triggers flash floods and landslides in parts of India and Nepal.",
+        "concepts": [
+            {
+                "word": "Death",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "toll",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Nepal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "India",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "floods",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK doctors criticise Covid rules refusal",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-58990658",
+        "content": "A doctors' union accuses the government of taking its \"foot off the brake\" as cases rise.",
+        "placed": "First_Page",
+        "epoch": 1634796003.2752333,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "UK doctors criticise Covid rules refusal",
+        "en_content": "A doctors' union accuses the government of taking its \"foot off the brake\" as cases rise.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "doctors",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "All Afghans have the right to a passport - Taliban",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-asia-58989021",
+        "content": "But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised.",
+        "placed": "First_Page",
+        "epoch": 1634796003.275247,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "All Afghans have the right to a passport - Taliban",
+        "en_content": "But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised.",
+        "concepts": [
+            {
+                "word": "Afghans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "right",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "passport",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US FDA approves mix and match of booster jabs",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58887929",
+        "content": "Americans will also be able to pick a different vaccine booster from the jab they initially received.",
+        "placed": "First_Page",
+        "epoch": 1634796003.2752542,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "US FDA approves mix and match of booster jabs",
+        "en_content": "Americans will also be able to pick a different vaccine booster from the jab they initially received.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "FDA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "match",
+                "meaning": "conj",
+                "pos": "VERB"
+            },
+            {
+                "word": "booster",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jabs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "How green politics are changing Europe",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-europe-58910712",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1634796003.2752776,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "How green politics are changing Europe",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "politics",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Fossil fuel production set to soar in next decade",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/science-environment-58971131",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1634796003.275292,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T08.00.03E1634796003.275312.json",
+        "en_title": "Fossil fuel production set to soar in next decade",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "production",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "decade",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

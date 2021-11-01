@@ -1,0 +1,640 @@
+[
+    {
+        "title": "Biden lands in Europe ahead of key climate summit",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59085806",
+        "content": "The US president arrives but his signature climate proposals are yet to pass through Congress.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8506536,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Biden lands in Europe ahead of key climate summit",
+        "en_content": "The US president arrives but his signature climate proposals are yet to pass through Congress.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden lands in Europe ahead of key climate summit",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59085806",
+        "content": "The US president arrives but his signature climate proposals are yet to pass through Congress.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8506851,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Biden lands in Europe ahead of key climate summit",
+        "en_content": "The US president arrives but his signature climate proposals are yet to pass through Congress.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Schwarzenegger: 'Let's terminate pollution'",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59053809",
+        "content": "The actor and former governor of California speaks to the BBC ahead of the climate summit.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8507025,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Schwarzenegger: 'Let's terminate pollution'",
+        "en_content": "The actor and former governor of California speaks to the BBC ahead of the climate summit.",
+        "concepts": [
+            {
+                "word": "Schwarzenegger",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pollution",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Jail terms for bosses over Russian mall inferno",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59089381",
+        "content": "A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8507233,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Jail terms for bosses over Russian mall inferno",
+        "en_content": "A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city.",
+        "concepts": [
+            {
+                "word": "Jail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "terms",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bosses",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "mall",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "inferno",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Palestinians unveil huge West Bank mosaic",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59087800",
+        "content": "The restored mosaic at Hisham's Palace in the city of Jericho is one of the largest in the world.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8507414,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Palestinians unveil huge West Bank mosaic",
+        "en_content": "The restored mosaic at Hisham's Palace in the city of Jericho is one of the largest in the world.",
+        "concepts": [
+            {
+                "word": "Palestinians",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "West",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bank",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bali 'suitcase murder' accomplice released early",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59088348",
+        "content": "Heather Mack had been in jail for helping to kill her mother and stuffing her body into a suitcase.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8507595,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Bali 'suitcase murder' accomplice released early",
+        "en_content": "Heather Mack had been in jail for helping to kill her mother and stuffing her body into a suitcase.",
+        "concepts": [
+            {
+                "word": "Bali",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "suitcase",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "accomplice",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Indonesia calls for vaccine equity after Covid toll",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59073105",
+        "content": "In an exclusive interview, President Joko Widodo urges rich countries to share their vaccines.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8507767,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Indonesia calls for vaccine equity after Covid toll",
+        "en_content": "In an exclusive interview, President Joko Widodo urges rich countries to share their vaccines.",
+        "concepts": [
+            {
+                "word": "Indonesia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "equity",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "toll",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Squid Game cryptocurrency rockets in value",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59059097",
+        "content": "The popular Netflix show has now spawned a cryptocurrency - and it's soaring.",
+        "placed": "Abroad",
+        "epoch": 1635508803.850793,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Squid Game cryptocurrency rockets in value",
+        "en_content": "The popular Netflix show has now spawned a cryptocurrency - and it's soaring.",
+        "concepts": [
+            {
+                "word": "Squid",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Game",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cryptocurrency",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rockets",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "value",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden lands in Europe ahead of key climate summit",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59085806",
+        "content": "The US president arrives but his signature climate proposals are yet to pass through Congress.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8508093,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Biden lands in Europe ahead of key climate summit",
+        "en_content": "The US president arrives but his signature climate proposals are yet to pass through Congress.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Schwarzenegger: 'Let's terminate pollution'",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59053809",
+        "content": "The actor and former governor of California speaks to the BBC ahead of the climate summit.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8508255,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Schwarzenegger: 'Let's terminate pollution'",
+        "en_content": "The actor and former governor of California speaks to the BBC ahead of the climate summit.",
+        "concepts": [
+            {
+                "word": "Schwarzenegger",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pollution",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Jail terms for bosses over Russian mall inferno",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59089381",
+        "content": "A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8508346,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Jail terms for bosses over Russian mall inferno",
+        "en_content": "A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city.",
+        "concepts": [
+            {
+                "word": "Jail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "terms",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bosses",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "mall",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "inferno",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Palestinians unveil huge West Bank mosaic",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59087800",
+        "content": "The restored mosaic at Hisham's Palace in the city of Jericho is one of the largest in the world.",
+        "placed": "Abroad",
+        "epoch": 1635508803.850851,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Palestinians unveil huge West Bank mosaic",
+        "en_content": "The restored mosaic at Hisham's Palace in the city of Jericho is one of the largest in the world.",
+        "concepts": [
+            {
+                "word": "Palestinians",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "West",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bank",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bali 'suitcase murder' accomplice released early",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59088348",
+        "content": "Heather Mack had been in jail for helping to kill her mother and stuffing her body into a suitcase.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8508668,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Bali 'suitcase murder' accomplice released early",
+        "en_content": "Heather Mack had been in jail for helping to kill her mother and stuffing her body into a suitcase.",
+        "concepts": [
+            {
+                "word": "Bali",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "suitcase",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "accomplice",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Indonesia calls for vaccine equity after Covid toll",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59073105",
+        "content": "In an exclusive interview, President Joko Widodo urges rich countries to share their vaccines.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8508823,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Indonesia calls for vaccine equity after Covid toll",
+        "en_content": "In an exclusive interview, President Joko Widodo urges rich countries to share their vaccines.",
+        "concepts": [
+            {
+                "word": "Indonesia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "equity",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "toll",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Squid Game cryptocurrency rockets in value",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59059097",
+        "content": "The popular Netflix show has now spawned a cryptocurrency - and it's soaring.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8508983,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Squid Game cryptocurrency rockets in value",
+        "en_content": "The popular Netflix show has now spawned a cryptocurrency - and it's soaring.",
+        "concepts": [
+            {
+                "word": "Squid",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Game",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cryptocurrency",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rockets",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "value",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Schwarzenegger: 'Let's terminate pollution'",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59053809",
+        "content": "The actor and former governor of California speaks to the BBC ahead of the climate summit.",
+        "placed": "Abroad",
+        "epoch": 1635508803.850914,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Schwarzenegger: 'Let's terminate pollution'",
+        "en_content": "The actor and former governor of California speaks to the BBC ahead of the climate summit.",
+        "concepts": [
+            {
+                "word": "Schwarzenegger",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pollution",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Jail terms for bosses over Russian mall inferno",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59089381",
+        "content": "A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city.",
+        "placed": "Abroad",
+        "epoch": 1635508803.8509297,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Jail terms for bosses over Russian mall inferno",
+        "en_content": "A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city.",
+        "concepts": [
+            {
+                "word": "Jail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "terms",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bosses",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "mall",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "inferno",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Palestinians unveil huge West Bank mosaic",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59087800",
+        "content": "The restored mosaic at Hisham's Palace in the city of Jericho is one of the largest in the world.",
+        "placed": "Abroad",
+        "epoch": 1635508803.850938,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T14.00.03E1635508803.850955.json",
+        "en_title": "Palestinians unveil huge West Bank mosaic",
+        "en_content": "The restored mosaic at Hisham's Palace in the city of Jericho is one of the largest in the world.",
+        "concepts": [
+            {
+                "word": "Palestinians",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "West",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bank",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

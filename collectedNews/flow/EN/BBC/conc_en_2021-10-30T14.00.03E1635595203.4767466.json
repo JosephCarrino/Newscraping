@@ -1,0 +1,394 @@
+[
+    {
+        "title": "Turbulence has hit relations with France, PM says",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59101193",
+        "content": "But Boris Johnson says more unites France and the UK than divides them, despite a row over fishing.",
+        "placed": "Politics",
+        "epoch": 1635595203.4764998,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "Turbulence has hit relations with France, PM says",
+        "en_content": "But Boris Johnson says more unites France and the UK than divides them, despite a row over fishing.",
+        "concepts": [
+            {
+                "word": "Turbulence",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "relations",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Turbulence has hit relations with France, PM says",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59101193",
+        "content": "But Boris Johnson says more unites France and the UK than divides them, despite a row over fishing.",
+        "placed": "Politics",
+        "epoch": 1635595203.4765313,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "Turbulence has hit relations with France, PM says",
+        "en_content": "But Boris Johnson says more unites France and the UK than divides them, despite a row over fishing.",
+        "concepts": [
+            {
+                "word": "Turbulence",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "relations",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088563",
+        "content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "placed": "Politics",
+        "epoch": 1635595203.4765549,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "Political editor",
+        "en_content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Disgraced MP back in Conservative Party on Monday",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59092547",
+        "content": "Brexit Minister Lord Frost and his EU counterpart Maros Sefcovic will meet again next week.",
+        "placed": "Politics",
+        "epoch": 1635595203.4765751,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "Disgraced MP back in Conservative Party on Monday",
+        "en_content": "Brexit Minister Lord Frost and his EU counterpart Maros Sefcovic will meet again next week.",
+        "concepts": [
+            {
+                "word": "Disgraced",
+                "meaning": "amod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "Conservative",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Monday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Parliamentary correspondent",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088557",
+        "content": "Women will only pay once a year for the menopause treatment in England and a taskforce will be set up.",
+        "placed": "Politics",
+        "epoch": 1635595203.476594,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "Parliamentary correspondent",
+        "en_content": "Women will only pay once a year for the menopause treatment in England and a taskforce will be set up.",
+        "concepts": [
+            {
+                "word": "correspondent",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "No breakthrough after latest NI Protocol talks",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59093216",
+        "content": "Women celebrate the government's decision to cut the cost of HRT prescriptions in England.",
+        "placed": "Politics",
+        "epoch": 1635595203.4766088,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "No breakthrough after latest NI Protocol talks",
+        "en_content": "Women celebrate the government's decision to cut the cost of HRT prescriptions in England.",
+        "concepts": [
+            {
+                "word": "breakthrough",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protocol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "HRT prescription cost cut welcomed by campaigners",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59101193",
+        "content": "But Boris Johnson says more unites France and the UK than divides them, despite a row over fishing.",
+        "placed": "Politics",
+        "epoch": 1635595203.476628,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "HRT prescription cost cut welcomed by campaigners",
+        "en_content": "But Boris Johnson says more unites France and the UK than divides them, despite a row over fishing.",
+        "concepts": [
+            {
+                "word": "HRT",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prescription",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cost",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cut",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "campaigners",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "HRT: Davina McCall hails 'brilliant day for women'",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088563",
+        "content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "placed": "Politics",
+        "epoch": 1635595203.4766452,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "HRT: Davina McCall hails 'brilliant day for women'",
+        "en_content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "concepts": [
+            {
+                "word": "HRT",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Davina",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "McCall",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "women",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Turbulence has hit relations with France, PM says",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59092547",
+        "content": "Brexit Minister Lord Frost and his EU counterpart Maros Sefcovic will meet again next week.",
+        "placed": "Politics",
+        "epoch": 1635595203.476662,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "Turbulence has hit relations with France, PM says",
+        "en_content": "Brexit Minister Lord Frost and his EU counterpart Maros Sefcovic will meet again next week.",
+        "concepts": [
+            {
+                "word": "Turbulence",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "relations",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088557",
+        "content": "Women will only pay once a year for the menopause treatment in England and a taskforce will be set up.",
+        "placed": "Politics",
+        "epoch": 1635595203.476679,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "Political editor",
+        "en_content": "Women will only pay once a year for the menopause treatment in England and a taskforce will be set up.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Disgraced MP back in Conservative Party on Monday",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59093216",
+        "content": "Women celebrate the government's decision to cut the cost of HRT prescriptions in England.",
+        "placed": "Politics",
+        "epoch": 1635595203.4767177,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "Disgraced MP back in Conservative Party on Monday",
+        "en_content": "Women celebrate the government's decision to cut the cost of HRT prescriptions in England.",
+        "concepts": [
+            {
+                "word": "Disgraced",
+                "meaning": "amod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "Conservative",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Monday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Parliamentary correspondent",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088563",
+        "content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "placed": "Politics",
+        "epoch": 1635595203.4767282,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T14.00.03E1635595203.4767466.json",
+        "en_title": "Parliamentary correspondent",
+        "en_content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "concepts": [
+            {
+                "word": "correspondent",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

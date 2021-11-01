@@ -1,0 +1,326 @@
+[
+    {
+        "title": "G20, ULTIMO GIORNO DEL VERTICE MONDIALE In agenda clima e sviluppo sostenibile  Lancio della moneta a Fontana di Trevi  Raggiunto accordo Usa-Ue sui dazi",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635672603.7548838,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T10.30.03E1635672603.7549496.json",
+        "en_title": "G20, the last day of the World Summit in Calibrium Climate and Sustainable Development Launch of the Trevi Fountain Fountain reached US-EU agreement on duties",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Calibrium",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Climate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sustainable",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Development",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Launch",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Trevi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Fountain",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Fountain",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "agreement",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "duties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "A Glasgow la Conferenza Onu Cop26",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635672603.7548943,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T10.30.03E1635672603.7549496.json",
+        "en_title": "In Glasgow the UN COP26 conference",
+        "concepts": [
+            {
+                "word": "Glasgow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UN",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conference",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "CLIMA,PAPA:SEGUIRE LA GUIDA DEI BAMBINI \"Sono capaci di capire le sfide\"",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635672603.7549026,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T10.30.03E1635672603.7549496.json",
+        "en_title": "Climate, Pope: Follow the guide of children \"I am able to understand the challenges\"",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Pope",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guide",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "children",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "challenges",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ISS: INCIDENZA E' MASSIMA TRA UNDER 12  Un positivo su 4 ha meno di 20 anni",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=111",
+        "content": "",
+        "ranked": 3,
+        "placed": "Undefinied",
+        "epoch": 1635672603.7549102,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T10.30.03E1635672603.7549496.json",
+        "en_title": "ISS: incidence is maximum between under 12 a positive 4 is less than 20 years old",
+        "concepts": [
+            {
+                "word": "ISS",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "incidence",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            }
+        ]
+    },
+    {
+        "title": "Covid-19, 4.878 contagi e 37 morti",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=112",
+        "content": "",
+        "ranked": 4,
+        "placed": "Undefinied",
+        "epoch": 1635672603.7549176,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T10.30.03E1635672603.7549496.json",
+        "en_title": "Covid-19, 4,878 Contagi and 37 dead",
+        "concepts": [
+            {
+                "word": "Covid-19",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Contagi",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "MALTEMPO, ALLERTA GIALLA IN 4 REGIONI  Perturbazione in arrivo a Nordovest",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635672603.7549253,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T10.30.03E1635672603.7549496.json",
+        "en_title": "Bad weather, yellow alert in 4 regions Perturbation coming to the Northwest",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "alert",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "regions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Perturbation",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Northwest",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "JUVE KO A VERONA,STASERA ROMA-MILAN",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1635672603.7549324,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T10.30.03E1635672603.7549496.json",
+        "en_title": "Juve Ko in Verona, Roma-Milan tonight",
+        "concepts": [
+            {
+                "word": "Juve",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ko",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Verona",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Roma",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Milan",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "tonight",
+                "meaning": "punct",
+                "pos": "PROPN"
+            }
+        ]
+    }
+]

@@ -1,0 +1,707 @@
+[
+    {
+        "title": "Fossil fuel production set to soar in next decade",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/science-environment-58971131",
+        "content": "Government plans to extract coal, oil and gas are incompatible with safe temperatures, says the UN.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0925002,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Fossil fuel production set to soar in next decade",
+        "en_content": "Government plans to extract coal, oil and gas are incompatible with safe temperatures, says the UN.",
+        "concepts": [
+            {
+                "word": "Fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "production",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "decade",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fossil fuel production set to soar in next decade",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/science-environment-58971131",
+        "content": "Government plans to extract coal, oil and gas are incompatible with safe temperatures, says the UN.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0925314,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Fossil fuel production set to soar in next decade",
+        "en_content": "Government plans to extract coal, oil and gas are incompatible with safe temperatures, says the UN.",
+        "concepts": [
+            {
+                "word": "Fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "production",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "decade",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Deadly bomb blasts hit military bus in Damascus",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-middle-east-58930309",
+        "content": "At least 14 people are reported to have died in the bloodiest attack in the Syrian capital in years.",
+        "placed": "First_Page",
+        "epoch": 1634731203.092551,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Deadly bomb blasts hit military bus in Damascus",
+        "en_content": "At least 14 people are reported to have died in the bloodiest attack in the Syrian capital in years.",
+        "concepts": [
+            {
+                "word": "bomb",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "blasts",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bus",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Damascus",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Putin will not attend COP26 climate summit",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-europe-58977993",
+        "content": "No reason was given for the Russian leader's decision not to attend the conference in Glasgow.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0925686,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Putin will not attend COP26 climate summit",
+        "en_content": "No reason was given for the Russian leader's decision not to attend the conference in Glasgow.",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "COP26",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ex-German troops arrested over alleged terror plot",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-europe-58978612",
+        "content": "The former soldiers are accused of trying to form a mercenary force to fight in Yemen's civil war.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0925841,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Ex-German troops arrested over alleged terror plot",
+        "en_content": "The former soldiers are accused of trying to form a mercenary force to fight in Yemen's civil war.",
+        "concepts": [
+            {
+                "word": "troops",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "terror",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plot",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Queen cancels Northern Ireland trip on medical advice",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-58979992",
+        "content": "Buckingham Palace says she has \"reluctantly accepted medical advice to rest for the next few days\".",
+        "placed": "First_Page",
+        "epoch": 1634731203.0925992,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Queen cancels Northern Ireland trip on medical advice",
+        "en_content": "Buckingham Palace says she has \"reluctantly accepted medical advice to rest for the next few days\".",
+        "concepts": [
+            {
+                "word": "Queen",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Northern",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ireland",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trip",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "advice",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Benzema on trial in French sex tape blackmail case",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-europe-58977550",
+        "content": "The Real Madrid footballer is accused of complicity in an attempt to blackmail Mathieu Valbuena.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0926132,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Benzema on trial in French sex tape blackmail case",
+        "en_content": "The Real Madrid footballer is accused of complicity in an attempt to blackmail Mathieu Valbuena.",
+        "concepts": [
+            {
+                "word": "Benzema",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tape",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "blackmail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Bolsonaro should face charges over pandemic - report",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-latin-america-58976197",
+        "content": "A big inquiry is presenting final findings into the Brazilian leader's handling of the Covid-19 pandemic.",
+        "placed": "First_Page",
+        "epoch": 1634731203.092627,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Bolsonaro should face charges over pandemic - report",
+        "en_content": "A big inquiry is presenting final findings into the Brazilian leader's handling of the Covid-19 pandemic.",
+        "concepts": [
+            {
+                "word": "Bolsonaro",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "charges",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "report",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Former soldiers attack Guatemala Congress building",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-latin-america-58978584",
+        "content": "Riot police were deployed and lawmakers had to be evacuated amid the protests.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0926373,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Former soldiers attack Guatemala Congress building",
+        "en_content": "Riot police were deployed and lawmakers had to be evacuated amid the protests.",
+        "concepts": [
+            {
+                "word": "soldiers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Guatemala",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Congress",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "building",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "House panel votes to hold ex-Trump aide in contempt",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58976196",
+        "content": "Steve Bannon could be prosecuted for refusing to give evidence on the Capitol riot.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0926518,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "House panel votes to hold ex-Trump aide in contempt",
+        "en_content": "Steve Bannon could be prosecuted for refusing to give evidence on the Capitol riot.",
+        "concepts": [
+            {
+                "word": "House",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "panel",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "votes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aide",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "North Korea claims new harder-to-track sub missile",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-58976195",
+        "content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0926661,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "North Korea claims new harder-to-track sub missile",
+        "en_content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "concepts": [
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Korea",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "track",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sub",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "missile",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Hospital bosses urge return of England Covid rules",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/live/uk-58978351",
+        "content": "The health secretary's 17:00 press event comes amid calls for social distancing rules to be reintroduced.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0926802,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Hospital bosses urge return of England Covid rules",
+        "en_content": "The health secretary's 17:00 press event comes amid calls for social distancing rules to be reintroduced.",
+        "concepts": [
+            {
+                "word": "Hospital",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bosses",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "return",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "England",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "North Korea claims new harder-to-track sub missile",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-58976195",
+        "content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0926938,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "North Korea claims new harder-to-track sub missile",
+        "en_content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "concepts": [
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Korea",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "track",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sub",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "missile",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Hospital bosses urge return of England Covid rules",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/live/uk-58978351",
+        "content": "The health secretary's 17:00 press event comes amid calls for social distancing rules to be reintroduced.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0927072,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Hospital bosses urge return of England Covid rules",
+        "en_content": "The health secretary's 17:00 press event comes amid calls for social distancing rules to be reintroduced.",
+        "concepts": [
+            {
+                "word": "Hospital",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bosses",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "return",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "England",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "At least 46 killed in floods in Himalayan state",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-india-58951456",
+        "content": "Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0927207,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "At least 46 killed in floods in Himalayan state",
+        "en_content": "Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand.",
+        "concepts": [
+            {
+                "word": "floods",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "state",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Shah Rukh Khan's son denied bail in drugs case",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-india-58829972",
+        "content": "Aryan Khan, son of Bollywood superstar Shah Rukh Khan, was arrested on 3 October over drug charges.",
+        "placed": "First_Page",
+        "epoch": 1634731203.092747,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Shah Rukh Khan's son denied bail in drugs case",
+        "en_content": "Aryan Khan, son of Bollywood superstar Shah Rukh Khan, was arrested on 3 October over drug charges.",
+        "concepts": [
+            {
+                "word": "Shah",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rukh",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Khan",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "son",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bail",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "drugs",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Manager Bruce leaves Newcastle after Saudi takeover",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/sport/football/58775879",
+        "content": "Manager Steve Bruce leaves Newcastle United by mutual consent just 13 days after the Saudi Arabia-backed ÃÂ£305m takeover of the Premier League side was completed.",
+        "placed": "First_Page",
+        "epoch": 1634731203.0927613,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Manager Bruce leaves Newcastle after Saudi takeover",
+        "en_content": "Manager Steve Bruce leaves Newcastle United by mutual consent just 13 days after the Saudi Arabia-backed ÃÂ£305m takeover of the Premier League side was completed.",
+        "concepts": [
+            {
+                "word": "Manager",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bruce",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Newcastle",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "takeover",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ros Atkins onÃ¢ÂÂ¦ Europe's climate challenge",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/science-environment-58970153",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1634731203.0927749,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Ros Atkins onÃ¢ÂÂ¦ Europe's climate challenge",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Ros",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Atkins",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "onÃ¢ÂÂ",
+                "meaning": "punct",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Europe",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "challenge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Why does a climate summit need 25,000 people?",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/science-environment-58925049",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1634731203.0927885,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T14.00.03E1634731203.0928.json",
+        "en_title": "Why does a climate summit need 25,000 people?",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "people",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

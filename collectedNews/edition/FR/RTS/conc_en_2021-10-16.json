@@ -3,13 +3,13 @@
         "title": "La France rend hommage ÃÂ  Samuel Paty, l'enseignant assassinÃÂ© il y a un an",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/la-france-rend-hommage-a-samuel-paty-l-enseignant-assassine-il-y-a-un-an-25770883.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-france-rend-hommage-a-samuel-paty-l-enseignant-assassine-il-y-a-un-an-25770883.html",
         "duration": "01:57",
         "ranked": 0,
         "epoch": 1635022807.939317,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-16.json",
+        "filename": "conc_en_2021-10-16.json",
         "en_title": "France pays tribute to Samuel Paty, the teacher assassinated a year ago",
         "concepts": [
             {
@@ -23,6 +23,11 @@
                 "pos": "VERB"
             },
             {
+                "word": "Samuel",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
                 "word": "Paty",
                 "meaning": "pobj",
                 "pos": "ADP"
@@ -31,6 +36,11 @@
                 "word": "teacher",
                 "meaning": "nsubj",
                 "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADV"
             }
         ]
     },
@@ -38,22 +48,32 @@
         "title": "La sonde Lucy en route pour scruter des astÃÂ©roÃÂ¯des prÃÂ¨s de Jupiter",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/la-sonde-lucy-en-route-pour-scruter-des-asteroides-pres-de-jupiter-25770885.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-sonde-lucy-en-route-pour-scruter-des-asteroides-pres-de-jupiter-25770885.html",
         "duration": "01:36",
         "ranked": 1,
         "epoch": 1635022807.9393191,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-16.json",
-        "en_title": "The Lucy probe on its way to scan asteroids near Jupiter",
+        "filename": "conc_en_2021-10-16.json",
+        "en_title": "The Lucy probe en route to scrutinize assets near Jupiter",
         "concepts": [
             {
-                "word": "way",
+                "word": "Lucy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "probe",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "route",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
-                "word": "asteroids",
+                "word": "assets",
                 "meaning": "dobj",
                 "pos": "VERB"
             },
@@ -68,34 +88,34 @@
         "title": "Le hackathon d'Open Geneva invite ÃÂ  rÃÂ©flÃÂ©chir sur la ville de demain",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-hackathon-d-open-geneva-invite-a-reflechir-sur-la-ville-de-demain-25770886.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-hackathon-d-open-geneva-invite-a-reflechir-sur-la-ville-de-demain-25770886.html",
         "duration": "02:07",
         "ranked": 2,
         "epoch": 1635022807.93932,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-16.json",
-        "en_title": "The Open Geneva hackathon invites you to think about the city of tomorrow",
+        "filename": "conc_en_2021-10-16.json",
+        "en_title": "The Hackathon of Open Geneva invites us to check the city of tomorrow",
         "concepts": [
             {
+                "word": "Hackathon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Open",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
                 "word": "Geneva",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "hackathon",
-                "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "you",
-                "meaning": "dobj",
-                "pos": "VERB"
+                "meaning": "pobj",
+                "pos": "ADP"
             },
             {
                 "word": "city",
-                "meaning": "pobj",
-                "pos": "ADP"
+                "meaning": "dobj",
+                "pos": "VERB"
             },
             {
                 "word": "tomorrow",
@@ -108,24 +128,59 @@
         "title": "National League: derby romand entre le HC Ajoie et Fribourg GottÃÂ©ron",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/national-league-derby-romand-entre-le-hc-ajoie-et-fribourg-gotteron-25770889.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/national-league-derby-romand-entre-le-hc-ajoie-et-fribourg-gotteron-25770889.html",
         "duration": "01:44",
         "ranked": 3,
         "epoch": 1635022807.9393208,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-16.json",
-        "en_title": "National League: Romand derby between HC Ajoie and Friborg GottÃ Â© ron",
+        "filename": "conc_en_2021-10-16.json",
+        "en_title": "National League: Derby Romand between HC Ajoie and Friborg Gotton Ron",
         "concepts": [
             {
+                "word": "National",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "League",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Derby",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
                 "word": "Romand",
-                "meaning": "nsubj",
-                "pos": "VERB"
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "HC",
+                "meaning": "compound",
+                "pos": "PROPN"
             },
             {
                 "word": "Ajoie",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "Friborg",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gotton",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ron",
+                "meaning": "conj",
+                "pos": "PROPN"
             }
         ]
     },
@@ -133,24 +188,34 @@
         "title": "\"XXL\", la nouvelle exposition au MusÃÂ©e Jenisch oÃÂ¹ dÃÂ©couvrir des oeuvres sur papier surdimensionnÃÂ©es",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/xxl-la-nouvelle-exposition-au-musee-jenisch-ou-decouvrir-des-oeuvres-sur-papier-surdimensionnees-25770887.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/xxl-la-nouvelle-exposition-au-musee-jenisch-ou-decouvrir-des-oeuvres-sur-papier-surdimensionnees-25770887.html",
         "duration": "02:19",
         "ranked": 4,
         "epoch": 1635022807.9393213,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-16.json",
-        "en_title": "\"XXL\", the new exhibition at the Jenisch Museum where you can discover oversized works on paper",
+        "filename": "conc_en_2021-10-16.json",
+        "en_title": "\"XXL\", the new exposure to Jenisch Museum where to cover works on oversized paper",
         "concepts": [
+            {
+                "word": "XXL",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "exposure",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jenisch",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
             {
                 "word": "Museum",
                 "meaning": "pobj",
                 "pos": "ADP"
-            },
-            {
-                "word": "you",
-                "meaning": "nsubj",
-                "pos": "VERB"
             },
             {
                 "word": "works",
@@ -168,27 +233,42 @@
         "title": "Sept candidats en lice dans l'ÃÂ©lection prÃÂ©sidentielle dimanche au Cap Vert",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/sept-candidats-en-lice-dans-l-election-presidentielle-dimanche-au-cap-vert-25770888.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/sept-candidats-en-lice-dans-l-election-presidentielle-dimanche-au-cap-vert-25770888.html",
         "duration": "02:26",
         "ranked": 5,
         "epoch": 1635022807.9393225,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-16.json",
-        "en_title": "Seven candidates running in the presidential election in Cape Verde on Sunday",
+        "filename": "conc_en_2021-10-16.json",
+        "en_title": "Seven candidates in the running in the previous emit Sunday in Cape Verde",
         "concepts": [
             {
-                "word": "election",
+                "word": "candidates",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "running",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
-                "word": "Verde",
+                "word": "emit",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
                 "word": "Sunday",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Cape",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Verde",
                 "meaning": "pobj",
                 "pos": "ADP"
             }
@@ -198,22 +278,42 @@
         "title": "15 Minutes Ã¢ÂÂ Les consÃÂ©quences du boom des voitures ÃÂ©lectriques sur les garagistes",
         "date_raw": "October 16, 2021",
         "date": "2021-10-16",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/15-minutes-les-consequences-du-boom-des-voitures-electriques-sur-les-garagistes-25770890.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/15-minutes-les-consequences-du-boom-des-voitures-electriques-sur-les-garagistes-25770890.html",
         "duration": "14:44",
         "ranked": 6,
         "epoch": 1635022807.939323,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-16.json",
-        "en_title": "15 Minutes Ã¢ â¬ âThe consequences of the electric car boom on garage owners",
+        "filename": "conc_en_2021-10-16.json",
+        "en_title": "15 minutes Ã¢ â¬ \"The consequences of the boom of electric cars on the garage",
         "concepts": [
+            {
+                "word": "minutes",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "â¬",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "consequences",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
             {
                 "word": "boom",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
-                "word": "owners",
+                "word": "cars",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "garage",
                 "meaning": "pobj",
                 "pos": "ADP"
             }

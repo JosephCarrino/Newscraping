@@ -9,10 +9,20 @@
         "epoch": 1634562797.186044,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-10-17.json",
+        "filename": "conc_en_2021-10-17.json",
         "en_title": "A majority of the Greens vote in favor of coalition negotiations with the SPD and FDP",
         "en_content": "",
         "concepts": [
+            {
+                "word": "majority",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Greens",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
             {
                 "word": "vote",
                 "meaning": "pobj",
@@ -24,6 +34,11 @@
                 "pos": "ADP"
             },
             {
+                "word": "coalition",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
                 "word": "negotiations",
                 "meaning": "pobj",
                 "pos": "ADP"
@@ -32,6 +47,11 @@
                 "word": "SPD",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "FDP",
+                "meaning": "conj",
+                "pos": "PROPN"
             }
         ]
     },
@@ -45,14 +65,34 @@
         "epoch": 1634562797.1860707,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-10-17.json",
+        "filename": "conc_en_2021-10-17.json",
         "en_title": "Group leader Brinkhaus and other Union leaders call for a strong role in the opposition",
         "en_content": "",
         "concepts": [
             {
+                "word": "Group",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
                 "word": "Brinkhaus",
                 "meaning": "nsubj",
                 "pos": "VERB"
+            },
+            {
+                "word": "Union",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "conj",
+                "pos": "PROPN"
             },
             {
                 "word": "role",
@@ -76,7 +116,7 @@
         "epoch": 1634562797.186086,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-10-17.json",
+        "filename": "conc_en_2021-10-17.json",
         "en_title": "Number of asylum applications increased by a good 35 percent",
         "en_content": "",
         "concepts": [
@@ -84,6 +124,11 @@
                 "word": "Number",
                 "meaning": "nsubj",
                 "pos": "VERB"
+            },
+            {
+                "word": "asylum",
+                "meaning": "compound",
+                "pos": "NOUN"
             },
             {
                 "word": "applications",
@@ -107,7 +152,7 @@
         "epoch": 1634562797.1860993,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-10-17.json",
+        "filename": "conc_en_2021-10-17.json",
         "en_title": "The Jewish community in Amberg celebrates the return of a more than 200 year old scroll of the Torah",
         "en_content": "",
         "concepts": [
@@ -125,6 +170,11 @@
                 "word": "return",
                 "meaning": "dobj",
                 "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
             },
             {
                 "word": "scroll",
@@ -148,7 +198,7 @@
         "epoch": 1634562797.1861117,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-10-17.json",
+        "filename": "conc_en_2021-10-17.json",
         "en_title": "The number of corona deaths within 24 hours in Russia rises above 1000 for the first time",
         "en_content": "",
         "concepts": [
@@ -156,6 +206,11 @@
                 "word": "number",
                 "meaning": "nsubj",
                 "pos": "VERB"
+            },
+            {
+                "word": "corona",
+                "meaning": "compound",
+                "pos": "NOUN"
             },
             {
                 "word": "deaths",
@@ -169,11 +224,6 @@
             },
             {
                 "word": "Russia",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "1000",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
@@ -194,7 +244,7 @@
         "epoch": 1634562797.1861243,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-10-17.json",
+        "filename": "conc_en_2021-10-17.json",
         "en_title": "Funeral service in Kongsberg, Norway, commemorates victims of the attack on a suspected mentally ill offender last Wednesday",
         "en_content": "",
         "concepts": [
@@ -207,6 +257,11 @@
                 "word": "Kongsberg",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "Norway",
+                "meaning": "appos",
+                "pos": "PROPN"
             },
             {
                 "word": "victims",
@@ -222,6 +277,11 @@
                 "word": "offender",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "Wednesday",
+                "meaning": "npadvmod",
+                "pos": "VERB"
             }
         ]
     },
@@ -235,14 +295,24 @@
         "epoch": 1634562797.1861358,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-10-17.json",
+        "filename": "conc_en_2021-10-17.json",
         "en_title": "Results of the soccer Bundesliga",
         "en_content": "",
         "concepts": [
             {
+                "word": "Results",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
                 "word": "soccer",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "Bundesliga",
+                "meaning": "appos",
+                "pos": "NOUN"
             }
         ]
     },
@@ -256,9 +326,15 @@
         "epoch": 1634562797.186147,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-10-17.json",
+        "filename": "conc_en_2021-10-17.json",
         "en_title": "The weather",
         "en_content": "",
-        "concepts": []
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
     }
 ]

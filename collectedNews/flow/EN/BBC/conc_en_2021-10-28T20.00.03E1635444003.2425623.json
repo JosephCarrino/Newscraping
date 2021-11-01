@@ -1,0 +1,652 @@
+[
+    {
+        "title": "Democrats accuse oil firms of 'decades of deception'",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/live/world-us-canada-59080124",
+        "content": "Companies are accused of having spent decades denying their products' role in fuelling climate change.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2421997,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Democrats accuse oil firms of 'decades of deception'",
+        "en_content": "Companies are accused of having spent decades denying their products' role in fuelling climate change.",
+        "concepts": [
+            {
+                "word": "Democrats",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "oil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "firms",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "decades",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "deception",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Democrats accuse oil firms of 'decades of deception'",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/live/world-us-canada-59080124",
+        "content": "Companies are accused of having spent decades denying their products' role in fuelling climate change.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2422302,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Democrats accuse oil firms of 'decades of deception'",
+        "en_content": "Companies are accused of having spent decades denying their products' role in fuelling climate change.",
+        "concepts": [
+            {
+                "word": "Democrats",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "oil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "firms",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "decades",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "deception",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden announces revamped $1.75tn spending plan",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59081791",
+        "content": "The president said that his party was \"on board\" though the scaled-back plan's fate is uncertain.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2422512,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Biden announces revamped $1.75tn spending plan",
+        "en_content": "The president said that his party was \"on board\" though the scaled-back plan's fate is uncertain.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "announces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Moscow shops and restaurants shut in new lockdown",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-europe-59076152",
+        "content": "Russia closes non-essential services and sends workers home amid record Covid deaths.",
+        "placed": "Abroad",
+        "epoch": 1635444003.24227,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Moscow shops and restaurants shut in new lockdown",
+        "en_content": "Russia closes non-essential services and sends workers home amid record Covid deaths.",
+        "concepts": [
+            {
+                "word": "Moscow",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shops",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "restaurants",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Film-maker who exposed East Timor massacre dies",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59075271",
+        "content": "Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2423158,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Film-maker who exposed East Timor massacre dies",
+        "en_content": "Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero.",
+        "concepts": [
+            {
+                "word": "Film",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "maker",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "East",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Timor",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "massacre",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Saudi child protester who faced execution released",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59075486",
+        "content": "Ali al-Nimr, who was arrested when he was 17, was originally sentenced to death by beheading.",
+        "placed": "Abroad",
+        "epoch": 1635444003.242349,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Saudi child protester who faced execution released",
+        "en_content": "Ali al-Nimr, who was arrested when he was 17, was originally sentenced to death by beheading.",
+        "concepts": [
+            {
+                "word": "child",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protester",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "execution",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "DNA confirms man is Sitting Bull's great-grandson",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59062133",
+        "content": "A sample of the Native American leader's hair confirms the identity of his great-grandson.",
+        "placed": "Abroad",
+        "epoch": 1635444003.242369,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "DNA confirms man is Sitting Bull's great-grandson",
+        "en_content": "A sample of the Native American leader's hair confirms the identity of his great-grandson.",
+        "concepts": [
+            {
+                "word": "DNA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Bull",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "grandson",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Hundreds of sea turtles wash up dead in Mexico",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59077086",
+        "content": "Scientists think the turtles may have become tangled in abandoned fishing nets and drowned.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2423866,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Hundreds of sea turtles wash up dead in Mexico",
+        "en_content": "Scientists think the turtles may have become tangled in abandoned fishing nets and drowned.",
+        "concepts": [
+            {
+                "word": "Hundreds",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sea",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "turtles",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Democrats accuse oil firms of 'decades of deception'",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/live/world-us-canada-59080124",
+        "content": "Companies are accused of having spent decades denying their products' role in fuelling climate change.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2424037,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Democrats accuse oil firms of 'decades of deception'",
+        "en_content": "Companies are accused of having spent decades denying their products' role in fuelling climate change.",
+        "concepts": [
+            {
+                "word": "Democrats",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "oil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "firms",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "decades",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "deception",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden announces revamped $1.75tn spending plan",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59081791",
+        "content": "The president said that his party was \"on board\" though the scaled-back plan's fate is uncertain.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2424212,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Biden announces revamped $1.75tn spending plan",
+        "en_content": "The president said that his party was \"on board\" though the scaled-back plan's fate is uncertain.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "announces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Moscow shops and restaurants shut in new lockdown",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-europe-59076152",
+        "content": "Russia closes non-essential services and sends workers home amid record Covid deaths.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2424374,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Moscow shops and restaurants shut in new lockdown",
+        "en_content": "Russia closes non-essential services and sends workers home amid record Covid deaths.",
+        "concepts": [
+            {
+                "word": "Moscow",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shops",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "restaurants",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Film-maker who exposed East Timor massacre dies",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59075271",
+        "content": "Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2424533,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Film-maker who exposed East Timor massacre dies",
+        "en_content": "Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero.",
+        "concepts": [
+            {
+                "word": "Film",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "maker",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "East",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Timor",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "massacre",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Saudi child protester who faced execution released",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59075486",
+        "content": "Ali al-Nimr, who was arrested when he was 17, was originally sentenced to death by beheading.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2424688,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Saudi child protester who faced execution released",
+        "en_content": "Ali al-Nimr, who was arrested when he was 17, was originally sentenced to death by beheading.",
+        "concepts": [
+            {
+                "word": "child",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protester",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "execution",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "DNA confirms man is Sitting Bull's great-grandson",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59062133",
+        "content": "A sample of the Native American leader's hair confirms the identity of his great-grandson.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2424846,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "DNA confirms man is Sitting Bull's great-grandson",
+        "en_content": "A sample of the Native American leader's hair confirms the identity of his great-grandson.",
+        "concepts": [
+            {
+                "word": "DNA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Bull",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "grandson",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Hundreds of sea turtles wash up dead in Mexico",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59077086",
+        "content": "Scientists think the turtles may have become tangled in abandoned fishing nets and drowned.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2425003,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Hundreds of sea turtles wash up dead in Mexico",
+        "en_content": "Scientists think the turtles may have become tangled in abandoned fishing nets and drowned.",
+        "concepts": [
+            {
+                "word": "Hundreds",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sea",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "turtles",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden announces revamped $1.75tn spending plan",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59081791",
+        "content": "The president said that his party was \"on board\" though the scaled-back plan's fate is uncertain.",
+        "placed": "Abroad",
+        "epoch": 1635444003.242516,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Biden announces revamped $1.75tn spending plan",
+        "en_content": "The president said that his party was \"on board\" though the scaled-back plan's fate is uncertain.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "announces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Moscow shops and restaurants shut in new lockdown",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/world-europe-59076152",
+        "content": "Russia closes non-essential services and sends workers home amid record Covid deaths.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2425315,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Moscow shops and restaurants shut in new lockdown",
+        "en_content": "Russia closes non-essential services and sends workers home amid record Covid deaths.",
+        "concepts": [
+            {
+                "word": "Moscow",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shops",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "restaurants",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Film-maker who exposed East Timor massacre dies",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59075271",
+        "content": "Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero.",
+        "placed": "Abroad",
+        "epoch": 1635444003.2425478,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-28T20.00.03E1635444003.2425623.json",
+        "en_title": "Film-maker who exposed East Timor massacre dies",
+        "en_content": "Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero.",
+        "concepts": [
+            {
+                "word": "Film",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "maker",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "East",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Timor",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "massacre",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

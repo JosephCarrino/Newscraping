@@ -1,0 +1,181 @@
+[
+    {
+        "title": "LÃ¢ÂÂentrepreneur franÃÂ§ais Bernard Tapie emportÃÂ© par le cancer ÃÂ  78 ans",
+        "date_raw": "October 03, 2021",
+        "date": "2021-10-03",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-entrepreneur-francais-bernard-tapie-emporte-par-le-cancer-a-78-ans-25767272.html",
+        "duration": "02:53",
+        "ranked": 0,
+        "epoch": 1635022808.1952431,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-03.json",
+        "en_title": "French entrepreneur Bernard Tapie died of cancer at age 78",
+        "concepts": [
+            {
+                "word": "Tapie",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cancer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "age",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La revue de presse alÃÂ©manique",
+        "date_raw": "October 03, 2021",
+        "date": "2021-10-03",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/la-revue-de-presse-alemanique-25767273.html",
+        "duration": "02:45",
+        "ranked": 1,
+        "epoch": 1635022808.195245,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-03.json",
+        "en_title": "The German press review",
+        "concepts": []
+    },
+    {
+        "title": "France: lÃ¢ÂÂenquÃÂªte indÃÂ©pendante sur les abus sexuels dans lÃ¢ÂÂEglise catholique publiÃÂ©e ce mardi",
+        "date_raw": "October 03, 2021",
+        "date": "2021-10-03",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/france-l-enquete-independante-sur-les-abus-sexuels-dans-l-eglise-catholique-publiee-ce-mardi-25767278.html",
+        "duration": "01:34",
+        "ranked": 2,
+        "epoch": 1635022808.1952457,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-03.json",
+        "en_title": "France: the independent investigation into sexual abuse in the Catholic Church published on Tuesday",
+        "concepts": [
+            {
+                "word": "abuse",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Church",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Tuesday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Jura: sensibilisation sur le harcÃÂ¨lement sexuel au travail grÃÂ¢ce ÃÂ  un kit de prÃÂ©vention",
+        "date_raw": "October 03, 2021",
+        "date": "2021-10-03",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/jura-sensibilisation-sur-le-harcelement-sexuel-au-travail-grace-a-un-kit-de-prevention-25767283.html",
+        "duration": "01:59",
+        "ranked": 3,
+        "epoch": 1635022808.1952467,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-03.json",
+        "en_title": "Jura: awareness of sexual harassment at work thanks to a prevention kit",
+        "concepts": [
+            {
+                "word": "harassment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "work",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "thanks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "kit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Italie: des ÃÂ©lections municipales qui pourraient reconfigurer lÃ¢ÂÂÃÂ©quilibre national",
+        "date_raw": "October 03, 2021",
+        "date": "2021-10-03",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/italie-des-elections-municipales-qui-pourraient-reconfigurer-l-equilibre-national-25767280.html",
+        "duration": "00:19",
+        "ranked": 4,
+        "epoch": 1635022808.1952474,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-03.json",
+        "en_title": "Italy: municipal elections that could reconfigure the national balance",
+        "concepts": [
+            {
+                "word": "that",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "balance",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Vaud: Gryon remet son four ÃÂ  pain en marche une fois par mois",
+        "date_raw": "October 03, 2021",
+        "date": "2021-10-03",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/vaud-gryon-remet-son-four-a-pain-en-marche-une-fois-par-mois-25767284.html",
+        "duration": "02:01",
+        "ranked": 5,
+        "epoch": 1635022808.1952481,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-03.json",
+        "en_title": "Vaud: Gryon turns his bread oven back on once a month",
+        "concepts": [
+            {
+                "word": "Gryon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bread",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ÃÂ voix haute Ã¢ÂÂ DaniÃÂ¨le Robert, traductrice franÃÂ§aise de la Divine ComÃÂ©die de Dante",
+        "date_raw": "October 03, 2021",
+        "date": "2021-10-03",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/a-voix-haute-daniele-robert-traductrice-francaise-de-la-divine-comedie-de-dante-25767286.html",
+        "duration": "15:28",
+        "ranked": 6,
+        "epoch": 1635022808.1952488,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-03.json",
+        "en_title": "Aloud Ã¢ â¬ âDaniÃÂ¨le Robert, French translator of Dante's Divine Comedy",
+        "concepts": [
+            {
+                "word": "Comedy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

@@ -1,0 +1,612 @@
+[
+    {
+        "title": "Several killed in protests against Sudan coup",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-africa-59045020",
+        "content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "placed": "Abroad",
+        "epoch": 1635206403.84517,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Several killed in protests against Sudan coup",
+        "en_content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "concepts": [
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Several killed in protests against Sudan coup",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-africa-59045020",
+        "content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8451982,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Several killed in protests against Sudan coup",
+        "en_content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "concepts": [
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Saudi prince suggested killing king - ex-official",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59032931",
+        "content": "Mohammed bin Salman discussed assassinating the late King Abdullah in 2014, Saad al-Jabri says.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8452177,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Saudi prince suggested killing king - ex-official",
+        "en_content": "Mohammed bin Salman discussed assassinating the late King Abdullah in 2014, Saad al-Jabri says.",
+        "concepts": [
+            {
+                "word": "prince",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "king",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Biden sets new Covid rules as US air travel reopens",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044856",
+        "content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8452342,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Biden sets new Covid rules as US air travel reopens",
+        "en_content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US serial killer's victim identified after 45 years",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59040381",
+        "content": "Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8452652,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "US serial killer's victim identified after 45 years",
+        "en_content": "Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "killer",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victim",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Israeli cabinet backs huge spending plan for Arabs",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59039911",
+        "content": "Billions of dollars are earmarked for Israel's Arab minority, which has long complained of neglect.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8452816,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Israeli cabinet backs huge spending plan for Arabs",
+        "en_content": "Billions of dollars are earmarked for Israel's Arab minority, which has long complained of neglect.",
+        "concepts": [
+            {
+                "word": "cabinet",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Arabs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Collector returns Mayan artefact to Guatemala",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59032480",
+        "content": "Plans to auction the fragment, which depicts the head of an ancient ruler, sparked a row in 2019.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8452966,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Collector returns Mayan artefact to Guatemala",
+        "en_content": "Plans to auction the fragment, which depicts the head of an ancient ruler, sparked a row in 2019.",
+        "concepts": [
+            {
+                "word": "Collector",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "artefact",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Guatemala",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Afghan baby girl sold for $500 by starving family",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-asia-59034650",
+        "content": "The BBCÃ¢ÂÂs Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8453093,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Afghan baby girl sold for $500 by starving family",
+        "en_content": "The BBCÃ¢ÂÂs Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan.",
+        "concepts": [
+            {
+                "word": "baby",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "girl",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "family",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Several killed in protests against Sudan coup",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-africa-59045020",
+        "content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8453238,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Several killed in protests against Sudan coup",
+        "en_content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "concepts": [
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Saudi prince suggested killing king - ex-official",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59032931",
+        "content": "Mohammed bin Salman discussed assassinating the late King Abdullah in 2014, Saad al-Jabri says.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8453388,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Saudi prince suggested killing king - ex-official",
+        "en_content": "Mohammed bin Salman discussed assassinating the late King Abdullah in 2014, Saad al-Jabri says.",
+        "concepts": [
+            {
+                "word": "prince",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "king",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Biden sets new Covid rules as US air travel reopens",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044856",
+        "content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8453526,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Biden sets new Covid rules as US air travel reopens",
+        "en_content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US serial killer's victim identified after 45 years",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59040381",
+        "content": "Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s.",
+        "placed": "Abroad",
+        "epoch": 1635206403.845367,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "US serial killer's victim identified after 45 years",
+        "en_content": "Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "killer",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victim",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Israeli cabinet backs huge spending plan for Arabs",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59039911",
+        "content": "Billions of dollars are earmarked for Israel's Arab minority, which has long complained of neglect.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8453808,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Israeli cabinet backs huge spending plan for Arabs",
+        "en_content": "Billions of dollars are earmarked for Israel's Arab minority, which has long complained of neglect.",
+        "concepts": [
+            {
+                "word": "cabinet",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Arabs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Collector returns Mayan artefact to Guatemala",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59032480",
+        "content": "Plans to auction the fragment, which depicts the head of an ancient ruler, sparked a row in 2019.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8453948,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Collector returns Mayan artefact to Guatemala",
+        "en_content": "Plans to auction the fragment, which depicts the head of an ancient ruler, sparked a row in 2019.",
+        "concepts": [
+            {
+                "word": "Collector",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "artefact",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Guatemala",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Afghan baby girl sold for $500 by starving family",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-asia-59034650",
+        "content": "The BBCÃ¢ÂÂs Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8454087,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Afghan baby girl sold for $500 by starving family",
+        "en_content": "The BBCÃ¢ÂÂs Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan.",
+        "concepts": [
+            {
+                "word": "baby",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "girl",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "family",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Saudi prince suggested killing king - ex-official",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59032931",
+        "content": "Mohammed bin Salman discussed assassinating the late King Abdullah in 2014, Saad al-Jabri says.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8454165,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Saudi prince suggested killing king - ex-official",
+        "en_content": "Mohammed bin Salman discussed assassinating the late King Abdullah in 2014, Saad al-Jabri says.",
+        "concepts": [
+            {
+                "word": "prince",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "king",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Biden sets new Covid rules as US air travel reopens",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044856",
+        "content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8454309,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "Biden sets new Covid rules as US air travel reopens",
+        "en_content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US serial killer's victim identified after 45 years",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59040381",
+        "content": "Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s.",
+        "placed": "Abroad",
+        "epoch": 1635206403.8454454,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T02.00.03E1635206403.8454592.json",
+        "en_title": "US serial killer's victim identified after 45 years",
+        "en_content": "Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "killer",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victim",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

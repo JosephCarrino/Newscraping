@@ -1,0 +1,577 @@
+[
+    {
+        "title": "Turkey moves to throw out US and nine other envoys",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-europe-59023465",
+        "content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8496466,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Turkey moves to throw out US and nine other envoys",
+        "en_content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
+        "concepts": [
+            {
+                "word": "Turkey",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "envoys",
+                "meaning": "conj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Turkey moves to throw out US and nine other envoys",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-europe-59023465",
+        "content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
+        "placed": "Abroad",
+        "epoch": 1635012003.849675,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Turkey moves to throw out US and nine other envoys",
+        "en_content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
+        "concepts": [
+            {
+                "word": "Turkey",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "envoys",
+                "meaning": "conj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Baldwin told gun was safe before fatal shooting",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59018391",
+        "content": "The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8496947,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Baldwin told gun was safe before fatal shooting",
+        "en_content": "The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gun",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shooting",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Saudi Arabia commits to net zero emissions by 2060",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-middle-east-58955584",
+        "content": "The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels.",
+        "placed": "Abroad",
+        "epoch": 1635012003.849712,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Saudi Arabia commits to net zero emissions by 2060",
+        "en_content": "The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels.",
+        "concepts": [
+            {
+                "word": "Saudi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Arabia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "emissions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ecuador sprinter Alex QuiÃÂ±ÃÂ³nez shot dead",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59024487",
+        "content": "QuiÃÂ±ÃÂ³nez, one of the country's best known athletes, was shot in the city of Guayaquil.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8497276,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Ecuador sprinter Alex QuiÃÂ±ÃÂ³nez shot dead",
+        "en_content": "QuiÃÂ±ÃÂ³nez, one of the country's best known athletes, was shot in the city of Guayaquil.",
+        "concepts": [
+            {
+                "word": "Ecuador",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sprinter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Alex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "QuiÃÂ±ÃÂ³nez",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Greta: 'We need public pressure, not just summits'",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/science-environment-59022846",
+        "content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8497427,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Greta: 'We need public pressure, not just summits'",
+        "en_content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pressure",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "summits",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Italy's Salvini on trial for blocking migrant boat",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-europe-59020839",
+        "content": "The right-wing politician is charged with kidnapping and dereliction of duty, which he denies.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8497572,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Italy's Salvini on trial for blocking migrant boat",
+        "en_content": "The right-wing politician is charged with kidnapping and dereliction of duty, which he denies.",
+        "concepts": [
+            {
+                "word": "Italy",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Salvini",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "boat",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Mourners pay respects to Kenyan athlete Tirop",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-africa-59023302",
+        "content": "Many athletes turn out for the funeral of Agnes Tirop, who was found stabbed to death at her home.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8497713,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Mourners pay respects to Kenyan athlete Tirop",
+        "en_content": "Many athletes turn out for the funeral of Agnes Tirop, who was found stabbed to death at her home.",
+        "concepts": [
+            {
+                "word": "Mourners",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "respects",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "athlete",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Tirop",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Turkey moves to throw out US and nine other envoys",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-europe-59023465",
+        "content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8497853,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Turkey moves to throw out US and nine other envoys",
+        "en_content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
+        "concepts": [
+            {
+                "word": "Turkey",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "envoys",
+                "meaning": "conj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Baldwin told gun was safe before fatal shooting",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59018391",
+        "content": "The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8498,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Baldwin told gun was safe before fatal shooting",
+        "en_content": "The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gun",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shooting",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Saudi Arabia commits to net zero emissions by 2060",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-middle-east-58955584",
+        "content": "The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8498142,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Saudi Arabia commits to net zero emissions by 2060",
+        "en_content": "The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels.",
+        "concepts": [
+            {
+                "word": "Saudi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Arabia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "emissions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ecuador sprinter Alex QuiÃÂ±ÃÂ³nez shot dead",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59024487",
+        "content": "QuiÃÂ±ÃÂ³nez, one of the country's best known athletes, was shot in the city of Guayaquil.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8498282,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Ecuador sprinter Alex QuiÃÂ±ÃÂ³nez shot dead",
+        "en_content": "QuiÃÂ±ÃÂ³nez, one of the country's best known athletes, was shot in the city of Guayaquil.",
+        "concepts": [
+            {
+                "word": "Ecuador",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sprinter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Alex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "QuiÃÂ±ÃÂ³nez",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Greta: 'We need public pressure, not just summits'",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/science-environment-59022846",
+        "content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
+        "placed": "Abroad",
+        "epoch": 1635012003.849842,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Greta: 'We need public pressure, not just summits'",
+        "en_content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pressure",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "summits",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Italy's Salvini on trial for blocking migrant boat",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-europe-59020839",
+        "content": "The right-wing politician is charged with kidnapping and dereliction of duty, which he denies.",
+        "placed": "Abroad",
+        "epoch": 1635012003.849856,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Italy's Salvini on trial for blocking migrant boat",
+        "en_content": "The right-wing politician is charged with kidnapping and dereliction of duty, which he denies.",
+        "concepts": [
+            {
+                "word": "Italy",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Salvini",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "boat",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Mourners pay respects to Kenyan athlete Tirop",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-africa-59023302",
+        "content": "Many athletes turn out for the funeral of Agnes Tirop, who was found stabbed to death at her home.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8498697,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Mourners pay respects to Kenyan athlete Tirop",
+        "en_content": "Many athletes turn out for the funeral of Agnes Tirop, who was found stabbed to death at her home.",
+        "concepts": [
+            {
+                "word": "Mourners",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "respects",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "athlete",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Tirop",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Baldwin told gun was safe before fatal shooting",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59018391",
+        "content": "The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8498838,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Baldwin told gun was safe before fatal shooting",
+        "en_content": "The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gun",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shooting",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Saudi Arabia commits to net zero emissions by 2060",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-middle-east-58955584",
+        "content": "The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8498976,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Saudi Arabia commits to net zero emissions by 2060",
+        "en_content": "The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels.",
+        "concepts": [
+            {
+                "word": "Saudi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Arabia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "emissions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ecuador sprinter Alex QuiÃÂ±ÃÂ³nez shot dead",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59024487",
+        "content": "QuiÃÂ±ÃÂ³nez, one of the country's best known athletes, was shot in the city of Guayaquil.",
+        "placed": "Abroad",
+        "epoch": 1635012003.8499112,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T20.00.03E1635012003.8499248.json",
+        "en_title": "Ecuador sprinter Alex QuiÃÂ±ÃÂ³nez shot dead",
+        "en_content": "QuiÃÂ±ÃÂ³nez, one of the country's best known athletes, was shot in the city of Guayaquil.",
+        "concepts": [
+            {
+                "word": "Ecuador",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sprinter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Alex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "QuiÃÂ±ÃÂ³nez",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

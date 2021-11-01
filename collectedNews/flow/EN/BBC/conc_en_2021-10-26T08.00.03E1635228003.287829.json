@@ -1,0 +1,637 @@
+[
+    {
+        "title": "Climate laggard Australia vows to reach net zero",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-australia-59046032",
+        "content": "The 2050 target controversially omits new short-term goals and cuts to fossil fuel industries.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2875066,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Climate laggard Australia vows to reach net zero",
+        "en_content": "The 2050 target controversially omits new short-term goals and cuts to fossil fuel industries.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "laggard",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Climate laggard Australia vows to reach net zero",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-australia-59046032",
+        "content": "The 2050 target controversially omits new short-term goals and cuts to fossil fuel industries.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2875326,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Climate laggard Australia vows to reach net zero",
+        "en_content": "The 2050 target controversially omits new short-term goals and cuts to fossil fuel industries.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "laggard",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Protesters killed and wounded after Sudan coup",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-africa-59045020",
+        "content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2875533,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Protesters killed and wounded after Sudan coup",
+        "en_content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "concepts": [
+            {
+                "word": "Protesters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden sets new Covid rules as US air travel reopens",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044856",
+        "content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2875707,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Biden sets new Covid rules as US air travel reopens",
+        "en_content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Japan princess in muted wedding after controversy",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-asia-59046476",
+        "content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
+        "placed": "Abroad",
+        "epoch": 1635228003.287586,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Japan princess in muted wedding after controversy",
+        "en_content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
+        "concepts": [
+            {
+                "word": "Japan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "wedding",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "controversy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chappelle slams cancel culture amid Netflix furore",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046022",
+        "content": "\"I am not bending to anybody's demands,\" says the US comic of the transgender backlash he faces.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2876017,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Chappelle slams cancel culture amid Netflix furore",
+        "en_content": "\"I am not bending to anybody's demands,\" says the US comic of the transgender backlash he faces.",
+        "concepts": [
+            {
+                "word": "Chappelle",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "slams",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "culture",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netflix",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "furore",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Jeff Bezos unveils plans for 'space business park'",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046076",
+        "content": "His space company Blue Origin hopes its venture will replace the International Space Station.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2876167,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Jeff Bezos unveils plans for 'space business park'",
+        "en_content": "His space company Blue Origin hopes its venture will replace the International Space Station.",
+        "concepts": [
+            {
+                "word": "Jeff",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bezos",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plans",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "space",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "business",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "park",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Afghan baby girl sold for $500 by starving family",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-asia-59034650",
+        "content": "The BBCÃ¢ÂÂs Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan.",
+        "placed": "Abroad",
+        "epoch": 1635228003.287629,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Afghan baby girl sold for $500 by starving family",
+        "en_content": "The BBCÃ¢ÂÂs Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan.",
+        "concepts": [
+            {
+                "word": "baby",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "girl",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "family",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Climate laggard Australia vows to reach net zero",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-australia-59046032",
+        "content": "The 2050 target controversially omits new short-term goals and cuts to fossil fuel industries.",
+        "placed": "Abroad",
+        "epoch": 1635228003.287644,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Climate laggard Australia vows to reach net zero",
+        "en_content": "The 2050 target controversially omits new short-term goals and cuts to fossil fuel industries.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "laggard",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Protesters killed and wounded after Sudan coup",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-africa-59045020",
+        "content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2876585,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Protesters killed and wounded after Sudan coup",
+        "en_content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "concepts": [
+            {
+                "word": "Protesters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden sets new Covid rules as US air travel reopens",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044856",
+        "content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2876728,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Biden sets new Covid rules as US air travel reopens",
+        "en_content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Japan princess in muted wedding after controversy",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-asia-59046476",
+        "content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2877054,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Japan princess in muted wedding after controversy",
+        "en_content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
+        "concepts": [
+            {
+                "word": "Japan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "wedding",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "controversy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chappelle slams cancel culture amid Netflix furore",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046022",
+        "content": "\"I am not bending to anybody's demands,\" says the US comic of the transgender backlash he faces.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2877207,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Chappelle slams cancel culture amid Netflix furore",
+        "en_content": "\"I am not bending to anybody's demands,\" says the US comic of the transgender backlash he faces.",
+        "concepts": [
+            {
+                "word": "Chappelle",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "slams",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "culture",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netflix",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "furore",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Jeff Bezos unveils plans for 'space business park'",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59046076",
+        "content": "His space company Blue Origin hopes its venture will replace the International Space Station.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2877352,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Jeff Bezos unveils plans for 'space business park'",
+        "en_content": "His space company Blue Origin hopes its venture will replace the International Space Station.",
+        "concepts": [
+            {
+                "word": "Jeff",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bezos",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plans",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "space",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "business",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "park",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Afghan baby girl sold for $500 by starving family",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/world-asia-59034650",
+        "content": "The BBCÃ¢ÂÂs Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan.",
+        "placed": "Abroad",
+        "epoch": 1635228003.287755,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Afghan baby girl sold for $500 by starving family",
+        "en_content": "The BBCÃ¢ÂÂs Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan.",
+        "concepts": [
+            {
+                "word": "baby",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "girl",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "family",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Protesters killed and wounded after Sudan coup",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-africa-59045020",
+        "content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "placed": "Abroad",
+        "epoch": 1635228003.287768,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Protesters killed and wounded after Sudan coup",
+        "en_content": "Soldiers are said to have opened fire on large crowds opposing the military takeover.",
+        "concepts": [
+            {
+                "word": "Protesters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden sets new Covid rules as US air travel reopens",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044856",
+        "content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "placed": "Abroad",
+        "epoch": 1635228003.2877908,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Biden sets new Covid rules as US air travel reopens",
+        "en_content": "All foreign travellers to the US will be required to show proof of vaccination or a negative test.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Japan princess in muted wedding after controversy",
+        "date_raw": "2021-10-25",
+        "news_url": "https://www.bbc.com/news/world-asia-59046476",
+        "content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
+        "placed": "Abroad",
+        "epoch": 1635228003.287813,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-26T08.00.03E1635228003.287829.json",
+        "en_title": "Japan princess in muted wedding after controversy",
+        "en_content": "She will lose her royal status and has declined a $1.3m payment for leaving the family.",
+        "concepts": [
+            {
+                "word": "Japan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "wedding",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "controversy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

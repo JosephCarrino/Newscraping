@@ -1,0 +1,89 @@
+[
+    {
+        "title": "BERLUSCONI : NEL C.DESTRA NO ESTREMISMI \"Draghi al Colle? Meglio premier\"",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": "",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1634826604.1831353,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T16.30.04E1634826604.1831622.json",
+        "en_title": "Berlusconi: in the c.destra no extremism \"dragons at the hill? Better premier\"",
+        "concepts": [
+            {
+                "word": "Berlusconi",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "c.destra",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "extremism",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dragons",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "hill",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "premier",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "GARANTE DETENUTI IVREA: DRAGHI-BATTISTI Li accomuna in un fotomontaggio FB",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": "",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1634826604.183145,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T16.30.04E1634826604.1831622.json",
+        "en_title": "Guarantor detainees Ivrea: Draghi-Battisti unites them in a fb photomontage",
+        "concepts": [
+            {
+                "word": "Guarantor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ivrea",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Draghi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Battisti",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "photomontage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

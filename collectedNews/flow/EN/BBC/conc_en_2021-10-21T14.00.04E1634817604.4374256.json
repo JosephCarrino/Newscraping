@@ -1,0 +1,527 @@
+[
+    {
+        "title": "Tory MPs can make own choice on masks - minister",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-politics-58993387",
+        "content": "Labour say the Tories should cover their faces in the Commons to set an example to the public.",
+        "placed": "Politics",
+        "epoch": 1634817604.4371715,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "Tory MPs can make own choice on masks - minister",
+        "en_content": "Labour say the Tories should cover their faces in the Commons to set an example to the public.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "choice",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "masks",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "minister",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tory MPs can make own choice on masks - minister",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-politics-58993387",
+        "content": "Labour say the Tories should cover their faces in the Commons to set an example to the public.",
+        "placed": "Politics",
+        "epoch": 1634817604.4371965,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "Tory MPs can make own choice on masks - minister",
+        "en_content": "Labour say the Tories should cover their faces in the Commons to set an example to the public.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "choice",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "masks",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "minister",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Terror threat against MPs raised to 'substantial'",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-politics-58989053",
+        "content": "Home Secretary Priti Patel says police will change their plans to \"properly\" reflect the situation.",
+        "placed": "Politics",
+        "epoch": 1634817604.4372146,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "Terror threat against MPs raised to 'substantial'",
+        "en_content": "Home Secretary Priti Patel says police will change their plans to \"properly\" reflect the situation.",
+        "concepts": [
+            {
+                "word": "Terror",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threat",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK agrees free trade deal with New Zealand",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/business-58988711",
+        "content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
+        "placed": "Politics",
+        "epoch": 1634817604.4372308,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "UK agrees free trade deal with New Zealand",
+        "en_content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Zealand",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Leak reveals lobbying to change key climate report",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/science-environment-58982445",
+        "content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "placed": "Politics",
+        "epoch": 1634817604.4372458,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "Leak reveals lobbying to change key climate report",
+        "en_content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "concepts": [
+            {
+                "word": "Leak",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs reject tougher air quality target",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-politics-58968871",
+        "content": "Ministers say the Environment Bill shows global leadership, but critics accuse them of \"inaction\".",
+        "placed": "Politics",
+        "epoch": 1634817604.4372642,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "MPs reject tougher air quality target",
+        "en_content": "Ministers say the Environment Bill shows global leadership, but critics accuse them of \"inaction\".",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "quality",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "target",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM among 150 guests at service to mark NI centenary",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-58989416",
+        "content": "Politicians from both sides of the Irish border attended the event in St Patrick's Cathedral in Armagh.",
+        "placed": "Politics",
+        "epoch": 1634817604.4372818,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "PM among 150 guests at service to mark NI centenary",
+        "en_content": "Politicians from both sides of the Irish border attended the event in St Patrick's Cathedral in Armagh.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "service",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "centenary",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-politics-58993387",
+        "content": "Labour say the Tories should cover their faces in the Commons to set an example to the public.",
+        "placed": "Politics",
+        "epoch": 1634817604.4372957,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "Political editor",
+        "en_content": "Labour say the Tories should cover their faces in the Commons to set an example to the public.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Tory MPs can make own choice on masks - minister",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-politics-58989053",
+        "content": "Home Secretary Priti Patel says police will change their plans to \"properly\" reflect the situation.",
+        "placed": "Politics",
+        "epoch": 1634817604.437312,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "Tory MPs can make own choice on masks - minister",
+        "en_content": "Home Secretary Priti Patel says police will change their plans to \"properly\" reflect the situation.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "choice",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "masks",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "minister",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Terror threat against MPs raised to 'substantial'",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/business-58988711",
+        "content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
+        "placed": "Politics",
+        "epoch": 1634817604.437329,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "Terror threat against MPs raised to 'substantial'",
+        "en_content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
+        "concepts": [
+            {
+                "word": "Terror",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threat",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK agrees free trade deal with New Zealand",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/science-environment-58982445",
+        "content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "placed": "Politics",
+        "epoch": 1634817604.4373436,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "UK agrees free trade deal with New Zealand",
+        "en_content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Zealand",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Leak reveals lobbying to change key climate report",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-politics-58968871",
+        "content": "Ministers say the Environment Bill shows global leadership, but critics accuse them of \"inaction\".",
+        "placed": "Politics",
+        "epoch": 1634817604.4373577,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "Leak reveals lobbying to change key climate report",
+        "en_content": "Ministers say the Environment Bill shows global leadership, but critics accuse them of \"inaction\".",
+        "concepts": [
+            {
+                "word": "Leak",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs reject tougher air quality target",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-58989416",
+        "content": "Politicians from both sides of the Irish border attended the event in St Patrick's Cathedral in Armagh.",
+        "placed": "Politics",
+        "epoch": 1634817604.4373715,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "MPs reject tougher air quality target",
+        "en_content": "Politicians from both sides of the Irish border attended the event in St Patrick's Cathedral in Armagh.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "quality",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "target",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM among 150 guests at service to mark NI centenary",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-politics-58989053",
+        "content": "Home Secretary Priti Patel says police will change their plans to \"properly\" reflect the situation.",
+        "placed": "Politics",
+        "epoch": 1634817604.4373856,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "PM among 150 guests at service to mark NI centenary",
+        "en_content": "Home Secretary Priti Patel says police will change their plans to \"properly\" reflect the situation.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "service",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "centenary",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/business-58988711",
+        "content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
+        "placed": "Politics",
+        "epoch": 1634817604.4373991,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "Political editor",
+        "en_content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Terror threat against MPs raised to 'substantial'",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/science-environment-58982445",
+        "content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "placed": "Politics",
+        "epoch": 1634817604.4374135,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T14.00.04E1634817604.4374256.json",
+        "en_title": "Terror threat against MPs raised to 'substantial'",
+        "en_content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "concepts": [
+            {
+                "word": "Terror",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threat",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

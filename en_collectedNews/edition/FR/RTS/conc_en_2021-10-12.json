@@ -1,0 +1,327 @@
+[
+    {
+        "title": "Pollution aux dioxines: est-il dangereux de continuer ÃÂ  cultiver le sol lausannois?",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/pollution-aux-dioxines-est-il-dangereux-de-continuer-a-cultiver-le-sol-lausannois-25769740.html",
+        "duration": "01:39",
+        "ranked": 0,
+        "epoch": 1634562791.1964529,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "Dioxin pollution: is it dangerous to continue cultivating the soil in Lausanne?",
+        "concepts": [
+            {
+                "word": "pollution",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "it",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "soil",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Lausanne",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pollution aux dioxines: interview de Marie Moatti",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/pollution-aux-dioxines-interview-de-marie-moatti-25769743.html",
+        "duration": "03:32",
+        "ranked": 1,
+        "epoch": 1634562791.1964552,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "Dioxin pollution: interview with Marie Moatti",
+        "concepts": [
+            {
+                "word": "Moatti",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Les grÃÂ©vistes du climat craignent d'ÃÂªtre espionnÃÂ©s par les autoritÃÂ©s",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/les-grevistes-du-climat-craignent-d-etre-espionnes-par-les-autorites-25769747.html",
+        "duration": "01:52",
+        "ranked": 2,
+        "epoch": 1634562791.1964564,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "Climate strikers fear being spied on by authorities",
+        "concepts": [
+            {
+                "word": "strikers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "authorities",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le Conseil fÃÂ©dÃÂ©ral rejette l'initiative \"Pour des soins infirmiers forts\"",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-conseil-federal-rejette-l-initiative-pour-des-soins-infirmiers-forts-25769753.html",
+        "duration": "02:12",
+        "ranked": 3,
+        "epoch": 1634562791.1964574,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "Federal Council rejects 'For Strong Nursing' initiative",
+        "concepts": [
+            {
+                "word": "Council",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "initiative",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sion abaissera sa limite de vitesse ÃÂ  30km/h dÃÂ¨s 2022",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/sion-abaissera-sa-limite-de-vitesse-a-30km-h-des-2022-25769745.html",
+        "duration": "01:25",
+        "ranked": 4,
+        "epoch": 1634562791.1964586,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "Sion will lower its speed limit to 30km / h from 2022",
+        "concepts": [
+            {
+                "word": "Sion",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "limit",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "h",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "2022",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "ProcÃÂ¨s en appel de Pierre Maudet: l'audition du principal accusÃÂ© a pris fin mardi matin",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/proces-en-appel-de-pierre-maudet-l-audition-du-principal-accuse-a-pris-fin-mardi-matin-25769757.html",
+        "duration": "01:55",
+        "ranked": 5,
+        "epoch": 1634562791.1964595,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "Pierre Maudet appeal trial: the hearing of the main defendant ended Tuesday morning",
+        "concepts": [
+            {
+                "word": "defendant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Les cases postales deviendront payantes dÃÂ¨s 2022",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/les-cases-postales-deviendront-payantes-des-2022-25769754.html",
+        "duration": "01:32",
+        "ranked": 6,
+        "epoch": 1634562791.1964602,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "Post office boxes will become chargeable from 2022",
+        "concepts": [
+            {
+                "word": "boxes",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "2022",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kristalina Georgieva sauve son poste de directrice du FMI",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/kristalina-georgieva-sauve-son-poste-de-directrice-du-fmi-25769758.html",
+        "duration": "01:13",
+        "ranked": 7,
+        "epoch": 1634562791.196461,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "Kristalina Georgieva saves her post as IMF director",
+        "concepts": [
+            {
+                "word": "Georgieva",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "post",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "director",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le courant du leader chiite Moqtada al Sadr remporte les ÃÂ©lections lÃÂ©gislatives en Irak",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-courant-du-leader-chiite-moqtada-al-sadr-remporte-les-elections-legislatives-en-irak-25769765.html",
+        "duration": "01:08",
+        "ranked": 8,
+        "epoch": 1634562791.1964622,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "Shiite leader Moqtada al Sadr's current wins Iraq legislative elections",
+        "concepts": [
+            {
+                "word": "elections",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Emmanuel Macron prÃÂ©sente son plan d'investissement pour la France",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/emmanuel-macron-presente-son-plan-d-investissement-pour-la-france-25769771.html",
+        "duration": "01:41",
+        "ranked": 9,
+        "epoch": 1634562791.1964629,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "Emmanuel Macron presents his investment plan for France",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Football: la Suisse joue contre la Lituanie en qualification pour le Mondial 2022 ce mardi",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/football-la-suisse-joue-contre-la-lituanie-en-qualification-pour-le-mondial-2022-ce-mardi-25769772.html",
+        "duration": "01:41",
+        "ranked": 10,
+        "epoch": 1634562791.1964636,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "Football: Switzerland plays against Lithuania in qualifying for the 2022 World Cup this Tuesday",
+        "concepts": [
+            {
+                "word": "Switzerland",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Lithuania",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Cup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Les invitÃÂ©s du 12h30 - RÃÂ©mi BourriÃÂ¨res et Christophe Perron, co-auteurs de \"Fedal\"",
+        "date_raw": "October 12, 2021",
+        "date": "2021-10-12",
+        "url": "https://www.rts.ch/audio-podcast/2021/audio/les-invites-du-12h30-remi-bourrieres-et-christophe-perron-co-auteurs-de-fedal-25769763.html",
+        "duration": "08:32",
+        "ranked": 11,
+        "epoch": 1634562791.1964645,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "en_2021-10-12.json",
+        "en_title": "The guests at 12:30 pm - RÃ Â© mi BourriÃÂ¨res and Christophe Perron, co-authors of \"Fedal\"",
+        "concepts": [
+            {
+                "word": "pm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "authors",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Fedal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

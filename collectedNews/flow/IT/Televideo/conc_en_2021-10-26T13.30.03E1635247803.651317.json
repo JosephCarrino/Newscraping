@@ -1,0 +1,130 @@
+[
+    {
+        "title": "MANOVRA, DRAGHI CONVOCA I SINDCATI    Resta alta la tensione su pensioni",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": "",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1635247803.651289,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T13.30.03E1635247803.651317.json",
+        "en_title": "Maneuver, dragons convenes the strict remains high tension on pensions",
+        "concepts": [
+            {
+                "word": "Maneuver",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "dragons",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tension",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "pensions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "LEGA: SCONGIURARE RITORNO LEGGE FORNERO Ieri incontro tra premier e Salvini",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": "",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1635247803.6512985,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T13.30.03E1635247803.651317.json",
+        "en_title": "League: avoiding return law, Fornero yesterday meeting between Premier and Salvini",
+        "concepts": [
+            {
+                "word": "League",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "return",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Fornero",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "yesterday",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "meeting",
+                "meaning": "conj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Premier",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Salvini",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Nota su indici di Borsa Televideo",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": "",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1635247803.651306,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T13.30.03E1635247803.651317.json",
+        "en_title": "Note on Teletext stock exchange indexes",
+        "concepts": [
+            {
+                "word": "Teletext",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indexes",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

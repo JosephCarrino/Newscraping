@@ -1,0 +1,279 @@
+[
+    {
+        "title": "CORTE ISRAELE: \"EITAN TORNI IN ITALIA\"  Dalla zia paterna, nonno fa appello",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1635215404.1413395,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T04.30.04E1635215404.1413991.json",
+        "en_title": "Court Israel: \"Eitan returns to Italy\" from aunt paternal, grandfather appeals",
+        "concepts": [
+            {
+                "word": "Court",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Israel",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Eitan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "aunt",
+                "meaning": "compound",
+                "pos": "ADJ"
+            },
+            {
+                "word": "grandfather",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "appeals",
+                "meaning": "conj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Pm minori Milano: \"Rientro rapido\"",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1635215404.1413493,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T04.30.04E1635215404.1413991.json",
+        "en_title": "PM Minori Milan: \"Return\"",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Minori",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Milan",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "GOLPE SUDAN,MILITARI SPARANO SU PERSONE Arrestati premier e due ministri",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1635215404.141357,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T04.30.04E1635215404.1413991.json",
+        "en_title": "Sudan Golpe, military shoot on people arrested premier and two ministers",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Golpe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shoot",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "people",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "premier",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ministers",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Onu,Ue,Farnesina e Usa preoccupati",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": "",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1635215404.1413648,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T04.30.04E1635215404.1413991.json",
+        "en_title": "UN, EU, Farnesina and USA worried",
+        "concepts": [
+            {
+                "word": "UN",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Farnesina",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "USA",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "UE,BUFERA SU MORAWIECKI. POLONIA SMORZA Parole su guerra? Era \"un'iperbole\"",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": "",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1635215404.1413724,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T04.30.04E1635215404.1413991.json",
+        "en_title": "EU, storm on Morawiecki.Poland Rumbled words about war?It was \"a hyperbole\"",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "storm",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Morawiecki",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Poland",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "words",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "war?It",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hyperbole",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "ERDOGAN NON ESPELLE PIU' I DIPLOMATICI  \"Credo che ora saranno piÃÂ¹ saggi\"",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": "",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1635215404.1413798,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T04.30.04E1635215404.1413991.json",
+        "en_title": "Erdogan no longer expels the diplomats \"I believe that will now be more essay\"",
+        "concepts": [
+            {
+                "word": "Erdogan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "diplomats",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ZUCKERBERG: C'E' CAMPAGNA CONTRO FB   \"Per creare falsa immagine\"",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": "",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1635215404.1413865,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T04.30.04E1635215404.1413991.json",
+        "en_title": "Zuckerberg: there is a campaign against FB \"to create false image\"",
+        "concepts": [
+            {
+                "word": "Zuckerberg",
+                "meaning": "npadvmod",
+                "pos": "AUX"
+            },
+            {
+                "word": "campaign",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "FB",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "image",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

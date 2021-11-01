@@ -1,0 +1,180 @@
+[
+    {
+        "title": "BIDEN: PAPA GRANDE COMBATTENTE PER PACE Leader Usa in Vaticano prima del G20   \"Grazie per impegno clima e Covid\"",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1635517804.522091,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T16.30.04E1635517804.5221326.json",
+        "en_title": "Biden: Pope Great Fighter for Peace Leader USA in the Vatican before the G20 \"Thanks for climate and Covid commitment\"",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Pope",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Great",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Fighter",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Peace",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leader",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "USA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Vatican",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "G20",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Thanks",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "commitment",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Poi al Quirinale vede Mattarella",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1635517804.522103,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T16.30.04E1635517804.5221326.json",
+        "en_title": "Then at the Quirinale sees Mattarella",
+        "concepts": [
+            {
+                "word": "Quirinale",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mattarella",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "G20: \"VACCINARE IL 70% ENTRO IL 2022\"  Primo obiettivo immunizzare piÃÂ¹ poveri  Poi tecnologie saranno trasferite",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1635517804.5221117,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T16.30.04E1635517804.5221326.json",
+        "en_title": "G20: \"Vaccinate 70% by 2022\" First objective immunizing the most poor then technologies will be transferred",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Vaccinate",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "npadvmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "objective",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "technologies",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "CAPITALE 'BLINDATA' PER IL SUMMIT",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Dal%20Mondo&pagina=150",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": "",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1635517804.5221205,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T16.30.04E1635517804.5221326.json",
+        "en_title": "Capital 'armored' for the summit",
+        "concepts": [
+            {
+                "word": "Capital",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

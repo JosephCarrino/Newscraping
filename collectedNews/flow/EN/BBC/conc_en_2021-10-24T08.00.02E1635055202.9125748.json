@@ -1,0 +1,612 @@
+[
+    {
+        "title": "Colombia's most wanted drug lord captured",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "content": "The US had placed a $5m bounty on the head of Dairo Antonio ÃÂsuga, better known as Otoniel.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9122214,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Colombia's most wanted drug lord captured",
+        "en_content": "The US had placed a $5m bounty on the head of Dairo Antonio ÃÂsuga, better known as Otoniel.",
+        "concepts": [
+            {
+                "word": "Colombia",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lord",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Colombia's most wanted drug lord captured",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59026214",
+        "content": "The US had placed a $5m bounty on the head of Dairo Antonio ÃÂsuga, better known as Otoniel.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9122798,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Colombia's most wanted drug lord captured",
+        "en_content": "The US had placed a $5m bounty on the head of Dairo Antonio ÃÂsuga, better known as Otoniel.",
+        "concepts": [
+            {
+                "word": "Colombia",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lord",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Injured filmmaker 'gutted' at movie set death",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59024820",
+        "content": "Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9122996,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Injured filmmaker 'gutted' at movie set death",
+        "en_content": "Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins.",
+        "concepts": [
+            {
+                "word": "filmmaker",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "movie",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Turkey moves to throw out US envoy and nine others",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-europe-59023465",
+        "content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9123156,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Turkey moves to throw out US envoy and nine others",
+        "en_content": "President Recep Tayyip Erdogan declares them \"persona non grata\" for urging an activist's release.",
+        "concepts": [
+            {
+                "word": "Turkey",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "envoy",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "others",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Picasso works fetch nearly $110m in Las Vegas sale",
+        "date_raw": "2021-10-24",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59026220",
+        "content": "The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9123313,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Picasso works fetch nearly $110m in Las Vegas sale",
+        "en_content": "The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio.",
+        "concepts": [
+            {
+                "word": "Picasso",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "m",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Las",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Vegas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sale",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Greta on Greta: I'm a different person in private",
+        "date_raw": "P",
+        "news_url": "https://www.bbc.com/news/science-environment-59024667",
+        "content": "The activist says she's unrecognisable when she isn't campaigning for climate action.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9123423,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Greta on Greta: I'm a different person in private",
+        "en_content": "The activist says she's unrecognisable when she isn't campaigning for climate action.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "advcl",
+                "pos": "VERB"
+            },
+            {
+                "word": "Greta",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "person",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK textbook pulled over Native American question",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/education-59024961",
+        "content": "An exam board apologises and says the textbook should never have been approved.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9123578,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "UK textbook pulled over Native American question",
+        "en_content": "An exam board apologises and says the textbook should never have been approved.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "textbook",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "question",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Record-breaking ferris wheel opens in Dubai",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59024669",
+        "content": "The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9123728,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Record-breaking ferris wheel opens in Dubai",
+        "en_content": "The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion.",
+        "concepts": [
+            {
+                "word": "Record",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "wheel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Dubai",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Italy's Salvini on trial for blocking migrant boat",
+        "date_raw": "",
+        "news_url": "https://www.bbc.com/news/world-europe-59020839",
+        "content": "The right-wing politician is charged with kidnapping and dereliction of duty, which he denies.",
+        "placed": "First_Page",
+        "epoch": 1635055202.912381,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Italy's Salvini on trial for blocking migrant boat",
+        "en_content": "The right-wing politician is charged with kidnapping and dereliction of duty, which he denies.",
+        "concepts": [
+            {
+                "word": "Italy",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Salvini",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "boat",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Police probe banner opposing Saudi Newcastle takeover",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/sport/football/59025887",
+        "content": "The banner was held by Crystal Palace fans at their Premier League match on Saturday.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9123952,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Police probe banner opposing Saudi Newcastle takeover",
+        "en_content": "The banner was held by Crystal Palace fans at their Premier League match on Saturday.",
+        "concepts": [
+            {
+                "word": "Police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "banner",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Saudi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Newcastle",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "takeover",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "China passes law to lift homework pressure",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59020837",
+        "content": "A new law urges parents to allow children time for rest and exercise, and restrict time spent online.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9124098,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "China passes law to lift homework pressure",
+        "en_content": "A new law urges parents to allow children time for rest and exercise, and restrict time spent online.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "homework",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pressure",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Greta: We need public pressure, not just summits",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/science-environment-59022846",
+        "content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
+        "placed": "First_Page",
+        "epoch": 1635055202.912429,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Greta: We need public pressure, not just summits",
+        "en_content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "advmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "pressure",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "China passes law to lift homework pressure",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59020837",
+        "content": "A new law urges parents to allow children time for rest and exercise, and restrict time spent online.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9124463,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "China passes law to lift homework pressure",
+        "en_content": "A new law urges parents to allow children time for rest and exercise, and restrict time spent online.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "homework",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pressure",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Greta: We need public pressure, not just summits",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/science-environment-59022846",
+        "content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
+        "placed": "First_Page",
+        "epoch": 1635055202.91246,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Greta: We need public pressure, not just summits",
+        "en_content": "The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "advmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "pressure",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Saudi Arabia commits to net zero emissions by 2060",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-middle-east-58955584",
+        "content": "The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels.",
+        "placed": "First_Page",
+        "epoch": 1635055202.912474,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Saudi Arabia commits to net zero emissions by 2060",
+        "en_content": "The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels.",
+        "concepts": [
+            {
+                "word": "Saudi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Arabia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "emissions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "England crush West Indies in T20 opener",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/sport/cricket/59022656",
+        "content": "England bowl West Indies out for 55 as they make a stunning start to their Men's T20 World Cup campaign with a six-wicket win in Dubai.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9124875,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "England crush West Indies in T20 opener",
+        "en_content": "England bowl West Indies out for 55 as they make a stunning start to their Men's T20 World Cup campaign with a six-wicket win in Dubai.",
+        "concepts": [
+            {
+                "word": "England",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "West",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Indies",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "T20",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "opener",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ecuador sprinter Alex QuiÃÂ±ÃÂ³nez shot dead",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59024487",
+        "content": "QuiÃÂ±ÃÂ³nez, one of the country's best known athletes, was shot in the city of Guayaquil.",
+        "placed": "First_Page",
+        "epoch": 1635055202.9125013,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Ecuador sprinter Alex QuiÃÂ±ÃÂ³nez shot dead",
+        "en_content": "QuiÃÂ±ÃÂ³nez, one of the country's best known athletes, was shot in the city of Guayaquil.",
+        "concepts": [
+            {
+                "word": "Ecuador",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sprinter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Alex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "QuiÃÂ±ÃÂ³nez",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "How adjusting flight plans can help the climate",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/business-58769351",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1635055202.9125152,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "How adjusting flight plans can help the climate",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "flight",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Why Australia refuses to give up coal",
+        "date_raw": "2021-10-23",
+        "news_url": "https://www.bbc.com/news/world-australia-57925798",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1635055202.9125288,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-24T08.00.02E1635055202.9125748.json",
+        "en_title": "Why Australia refuses to give up coal",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "coal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

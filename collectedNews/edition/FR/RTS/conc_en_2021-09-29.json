@@ -3,22 +3,32 @@
         "title": "Stefan BlÃÂ¤ttler est le nouveau procureur gÃÂ©nÃÂ©ral de la ConfÃÂ©dÃÂ©ration",
         "date_raw": "September 29, 2021",
         "date": "2021-09-29",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/stefan-blattler-est-le-nouveau-procureur-general-de-la-confederation-25766344.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/stefan-blattler-est-le-nouveau-procureur-general-de-la-confederation-25766344.html",
         "duration": "02:09",
         "ranked": 0,
         "epoch": 1635022808.0709991,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-29.json",
-        "en_title": "Stefan BlÃ¤ttler is the new Attorney General of the Confederation",
+        "filename": "conc_en_2021-09-29.json",
+        "en_title": "Stefan BlÃÂ¤ttler is the new general prosecutor of the conference",
         "concepts": [
             {
-                "word": "BlÃ¤ttler",
+                "word": "Stefan",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "BlÃÂ¤ttler",
                 "meaning": "nsubj",
                 "pos": "AUX"
             },
             {
-                "word": "Confederation",
+                "word": "prosecutor",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "conference",
                 "meaning": "pobj",
                 "pos": "ADP"
             }
@@ -28,15 +38,20 @@
         "title": "Le budget 2022 du canton de Fribourg ÃÂ  nouveau dans les chiffres noirs",
         "date_raw": "September 29, 2021",
         "date": "2021-09-29",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-budget-2022-du-canton-de-fribourg-a-nouveau-dans-les-chiffres-noirs-25766342.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-budget-2022-du-canton-de-fribourg-a-nouveau-dans-les-chiffres-noirs-25766342.html",
         "duration": "02:07",
         "ranked": 1,
         "epoch": 1635022808.0710013,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-29.json",
-        "en_title": "The 2022 budget of the canton of Friborg again in black figures",
+        "filename": "conc_en_2021-09-29.json",
+        "en_title": "The 2022 budget of the canton of Friborg again in the black figures",
         "concepts": [
+            {
+                "word": "budget",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
             {
                 "word": "canton",
                 "meaning": "pobj",
@@ -58,14 +73,14 @@
         "title": "La SuÃÂ¨de abandonne presque toutes ses mesures de lutte contre le Covid-19",
         "date_raw": "September 29, 2021",
         "date": "2021-09-29",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/la-suede-abandonne-presque-toutes-ses-mesures-de-lutte-contre-le-covid-19-25766348.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suede-abandonne-presque-toutes-ses-mesures-de-lutte-contre-le-covid-19-25766348.html",
         "duration": "01:43",
         "ranked": 2,
         "epoch": 1635022808.0710025,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-29.json",
-        "en_title": "Sweden abandons almost all its measures to fight the Covid-19",
+        "filename": "conc_en_2021-09-29.json",
+        "en_title": "Sweden abandons almost all of its measures to combat COVID-19",
         "concepts": [
             {
                 "word": "Sweden",
@@ -74,11 +89,11 @@
             },
             {
                 "word": "measures",
-                "meaning": "dobj",
-                "pos": "VERB"
+                "meaning": "pobj",
+                "pos": "ADP"
             },
             {
-                "word": "Covid-19",
+                "word": "COVID-19",
                 "meaning": "dobj",
                 "pos": "VERB"
             }
@@ -88,27 +103,27 @@
         "title": "Le prix du baril de pÃÂ©trole au plus haut depuis trois ans",
         "date_raw": "September 29, 2021",
         "date": "2021-09-29",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-prix-du-baril-de-petrole-au-plus-haut-depuis-trois-ans-25766349.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-prix-du-baril-de-petrole-au-plus-haut-depuis-trois-ans-25766349.html",
         "duration": "01:12",
         "ranked": 3,
         "epoch": 1635022808.0710032,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-29.json",
-        "en_title": "The price of a barrel of oil at the highest for three years",
+        "filename": "conc_en_2021-09-29.json",
+        "en_title": "The price of the barrel of pelle at the highest for three years",
         "concepts": [
+            {
+                "word": "price",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
             {
                 "word": "barrel",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
-                "word": "oil",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "highest",
+                "word": "pelle",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
@@ -123,19 +138,24 @@
         "title": "Le Jura bernois cancre sur la vaccination, mais premier de classe pour le taux d'incidence",
         "date_raw": "September 29, 2021",
         "date": "2021-09-29",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-jura-bernois-cancre-sur-la-vaccination-mais-premier-de-classe-pour-le-taux-d-incidence-25766346.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-jura-bernois-cancre-sur-la-vaccination-mais-premier-de-classe-pour-le-taux-d-incidence-25766346.html",
         "duration": "01:28",
         "ranked": 4,
         "epoch": 1635022808.071004,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-29.json",
-        "en_title": "The Bernese Jura dunces on vaccination, but first in class for the incidence rate",
+        "filename": "conc_en_2021-09-29.json",
+        "en_title": "The Bernese Jura Cancer on vaccination, but first class for the incidence rate",
         "concepts": [
             {
                 "word": "Jura",
-                "meaning": "nsubj",
-                "pos": "VERB"
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cancer",
+                "meaning": "ROOT",
+                "pos": "PROPN"
             },
             {
                 "word": "vaccination",
@@ -144,8 +164,13 @@
             },
             {
                 "word": "class",
-                "meaning": "pobj",
-                "pos": "ADP"
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "incidence",
+                "meaning": "compound",
+                "pos": "NOUN"
             },
             {
                 "word": "rate",
@@ -158,19 +183,34 @@
         "title": "Hausse du prix du pÃÂ©trole: interview de Laurent Horvath",
         "date_raw": "September 29, 2021",
         "date": "2021-09-29",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/hausse-du-prix-du-petrole-interview-de-laurent-horvath-25766350.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/hausse-du-prix-du-petrole-interview-de-laurent-horvath-25766350.html",
         "duration": "02:53",
         "ranked": 5,
         "epoch": 1635022808.0710046,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-29.json",
-        "en_title": "Rise in oil prices: interview with Laurent Horvath",
+        "filename": "conc_en_2021-09-29.json",
+        "en_title": "Rise for the price of the pÃ©loure: Interview of Laurent Horvath",
         "concepts": [
             {
-                "word": "prices",
+                "word": "price",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "loure",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Interview",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Laurent",
+                "meaning": "compound",
+                "pos": "PROPN"
             },
             {
                 "word": "Horvath",
@@ -183,14 +223,14 @@
         "title": "Au Japon, le modÃÂ©rÃÂ© Fumio Kishida sera le prochain Premier ministre",
         "date_raw": "September 29, 2021",
         "date": "2021-09-29",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/au-japon-le-modere-fumio-kishida-sera-le-prochain-premier-ministre-25766358.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/au-japon-le-modere-fumio-kishida-sera-le-prochain-premier-ministre-25766358.html",
         "duration": "01:37",
         "ranked": 6,
         "epoch": 1635022808.071006,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-29.json",
-        "en_title": "In Japan, the moderate Fumio Kishida will be the next prime minister",
+        "filename": "conc_en_2021-09-29.json",
+        "en_title": "In Japan, the Fumioo Kishida will be the next Prime Minister",
         "concepts": [
             {
                 "word": "Japan",
@@ -198,8 +238,23 @@
                 "pos": "ADP"
             },
             {
+                "word": "Fumioo",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
                 "word": "Kishida",
                 "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Prime",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Minister",
+                "meaning": "attr",
                 "pos": "VERB"
             }
         ]
@@ -208,24 +263,24 @@
         "title": "Le trafic sur internet a explosÃÂ© en 2020",
         "date_raw": "September 29, 2021",
         "date": "2021-09-29",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-trafic-sur-internet-a-explose-en-2020-25766359.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-trafic-sur-internet-a-explose-en-2020-25766359.html",
         "duration": "01:55",
         "ranked": 7,
         "epoch": 1635022808.0710068,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-29.json",
+        "filename": "conc_en_2021-09-29.json",
         "en_title": "Internet traffic exploded in 2020",
         "concepts": [
+            {
+                "word": "Internet",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
             {
                 "word": "traffic",
                 "meaning": "nsubj",
                 "pos": "VERB"
-            },
-            {
-                "word": "2020",
-                "meaning": "pobj",
-                "pos": "ADP"
             }
         ]
     },
@@ -233,17 +288,22 @@
         "title": "L'art du portrait vu ÃÂ  travers le regard de neuf femmes ÃÂ  la Fondation Beyeler",
         "date_raw": "September 29, 2021",
         "date": "2021-09-29",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-art-du-portrait-vu-a-travers-le-regard-de-neuf-femmes-a-la-fondation-beyeler-25766364.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-art-du-portrait-vu-a-travers-le-regard-de-neuf-femmes-a-la-fondation-beyeler-25766364.html",
         "duration": "02:07",
         "ranked": 8,
         "epoch": 1635022808.0710132,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-29.json",
-        "en_title": "The art of portraiture seen through the eyes of nine women at the Fondation Beyeler",
+        "filename": "conc_en_2021-09-29.json",
+        "en_title": "The art of portrait seen through the eyes of nine women at the Beyeler Foundation",
         "concepts": [
             {
-                "word": "portraiture",
+                "word": "art",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "portrait",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
@@ -259,6 +319,11 @@
             },
             {
                 "word": "Beyeler",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Foundation",
                 "meaning": "pobj",
                 "pos": "ADP"
             }
@@ -268,19 +333,44 @@
         "title": "Football: Young Boys ÃÂ  Bergame pour son 2e match de Ligue des Champions",
         "date_raw": "September 29, 2021",
         "date": "2021-09-29",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/football-young-boys-a-bergame-pour-son-2e-match-de-ligue-des-champions-25766365.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/football-young-boys-a-bergame-pour-son-2e-match-de-ligue-des-champions-25766365.html",
         "duration": "01:03",
         "ranked": 9,
         "epoch": 1635022808.0710142,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-29.json",
-        "en_title": "Football: Young Boys in Bergamo for their 2nd Champions League match",
+        "filename": "conc_en_2021-09-29.json",
+        "en_title": "Football: Young Boys in Bergamo for his 2nd Champions League match",
         "concepts": [
+            {
+                "word": "Football",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Young",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Boys",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
             {
                 "word": "Bergamo",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "Champions",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "League",
+                "meaning": "compound",
+                "pos": "NOUN"
             },
             {
                 "word": "match",
@@ -293,29 +383,59 @@
         "title": "Les invitÃÂ©s du 12h30 - Marc Caverzasio et Marie-Fleur Baeriswyl prÃÂ©sente le projet \"Nouveaux jardins\"",
         "date_raw": "September 29, 2021",
         "date": "2021-09-29",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/les-invites-du-12h30-marc-caverzasio-et-marie-fleur-baeriswyl-presente-le-projet-nouveaux-jardins-25766372.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-invites-du-12h30-marc-caverzasio-et-marie-fleur-baeriswyl-presente-le-projet-nouveaux-jardins-25766372.html",
         "duration": "08:13",
         "ranked": 10,
         "epoch": 1635022808.0710146,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-29.json",
-        "en_title": "Guests at 12:30 pm - Marc Caverzasio and Marie-Fleur Baeriswyl present the \"New Gardens\" project",
+        "filename": "conc_en_2021-09-29.json",
+        "en_title": "The guests of 12:30 - Marc Caverzasio and Marie-Flower Baeriswyl presents the project \"New gardens\"",
         "concepts": [
             {
-                "word": "Guests",
+                "word": "guests",
                 "meaning": "nsubj",
                 "pos": "VERB"
             },
             {
-                "word": "pm",
-                "meaning": "pobj",
-                "pos": "ADP"
+                "word": "Marc",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Caverzasio",
+                "meaning": "appos",
+                "pos": "NUM"
+            },
+            {
+                "word": "Marie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Flower",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Baeriswyl",
+                "meaning": "conj",
+                "pos": "PROPN"
             },
             {
                 "word": "project",
                 "meaning": "dobj",
                 "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gardens",
+                "meaning": "appos",
+                "pos": "NOUN"
             }
         ]
     }

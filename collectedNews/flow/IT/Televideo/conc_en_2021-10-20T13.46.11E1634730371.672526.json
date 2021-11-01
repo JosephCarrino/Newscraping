@@ -1,0 +1,268 @@
+[
+    {
+        "title": "COVID, SENATO BRASILE ACCUSA BOLSONARO  \"Crimini intenzionali\" in pandemia",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1634730371.672477,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.46.11E1634730371.672526.json",
+        "en_title": "Covid, Senate Brazil accuses Bolsonaro \"intentional crimes\" in pandemic",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Senate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Brazil",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bolsonaro",
+                "meaning": "dative",
+                "pos": "VERB"
+            },
+            {
+                "word": "crimes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ASSALTO A CONGRESSO,BANNON SOTTO ACCUSA Commissione a favore azione penale",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1634730371.6724865,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.46.11E1634730371.672526.json",
+        "en_title": "Congress Assault, Bannon under accuses Commission in favor of criminal action",
+        "concepts": [
+            {
+                "word": "Congress",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Assault",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "accuses",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Commission",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "favor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "action",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "SIRIA, ATTACCO A BUS ESERCITO: 13 MORTI L'attentato a Damasco: due ordigni",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1634730371.6724944,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.46.11E1634730371.672526.json",
+        "en_title": "Syria, army bus attack: 13 deaths the attack in Damascus: two ordigni",
+        "concepts": [
+            {
+                "word": "Syria",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "army",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "attack",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Damascus",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ordigni",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "CLIMA, NUOVO MONITO DALLE NAZIONI UNITE \"Limitare i combustibili fossili\"",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": "",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1634730371.6725013,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.46.11E1634730371.672526.json",
+        "en_title": "Climate, new monitored by the United Nations \"Limit fossil fuels\"",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "United",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Nations",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Limit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "GHEDDAFI LINCIATO E UCCISO 10 ANNI FA  Fu al potere in Libia per 42 anni",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": "",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1634730371.6725085,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.46.11E1634730371.672526.json",
+        "en_title": "Gaddafi lynched and killed 10 years ago was power in Libya for 42 years",
+        "concepts": [
+            {
+                "word": "Gaddafi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "power",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Libya",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "LE NOTIZIE DAI GIORNALI DEL MONDO",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=159",
+        "content": "",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1634730371.6725159,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.46.11E1634730371.672526.json",
+        "en_title": "News from the newspapers of the world",
+        "concepts": [
+            {
+                "word": "News",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "newspapers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "world",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

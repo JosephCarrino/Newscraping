@@ -1,0 +1,191 @@
+[
+    {
+        "title": "DRAGHI AL LAVORO SU PENSIONI E TASSE   Obiettivo: via quota 100 ma no scaloni  Domani vede sindacati, CdM giovedÃÂ¬",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": "",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1635204603.9925487,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T01.30.03E1635204603.9926078.json",
+        "en_title": "Dragons at work on pensions and goal taxes: Via 100 but no staircases tomorrow sees trade unions, CDM Thursday",
+        "concepts": [
+            {
+                "word": "Dragons",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "work",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "pensions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "goal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "taxes",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Via",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "staircases",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "tomorrow",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "unions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "CDM",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Thursday",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "BONOMI: ESSERE OSSESSIONATI DA CRESCITA \"Contrari a quota 100, 102 o 104\"",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": "",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1635204603.9925666,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T01.30.03E1635204603.9926078.json",
+        "en_title": "Bonomi: to be obsessed with growth \"Antonyms at 100, 102 or 104\"",
+        "concepts": [
+            {
+                "word": "Bonomi",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "growth",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Antonyms",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "WORLD PASTA DAY, MERCATO DA 20 MILIARDI Italia produce 4 milioni tonnellate",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=133",
+        "content": "",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1635204603.9925797,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T01.30.03E1635204603.9926078.json",
+        "en_title": "World Pasta Day, 20 billion market Italy produces 4 million tons",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pasta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Day",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "market",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tons",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Nota su indici di Borsa Televideo",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": "",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1635204603.9925923,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T01.30.03E1635204603.9926078.json",
+        "en_title": "Note on Teletext stock exchange indexes",
+        "concepts": [
+            {
+                "word": "Teletext",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indexes",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

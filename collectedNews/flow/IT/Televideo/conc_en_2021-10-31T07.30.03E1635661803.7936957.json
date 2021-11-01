@@ -1,0 +1,294 @@
+[
+    {
+        "title": "DRAGHI AL G20:NESSUNO PUO' FARE DA SOLO \"Multilateralismo risposta ai problemi\" \"Vaccini, basta disparitÃÂ  Paesi poveri\" Intesa dei Grandi su 'minimum tax'",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635661803.7936225,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T07.30.03E1635661803.7936957.json",
+        "en_title": "Dragons at the G20: no one can do it alone \"Multilateralism answer to the problems\" \"vaccines, just disparity poor countries\" intense of the great on 'minimum tax'",
+        "concepts": [
+            {
+                "word": "Dragons",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "G20",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "one",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Multilateralism",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "answer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "problems",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "vaccines",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disparity",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "countries",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tax",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Mattarella:debitori verso i giovani",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635661803.7936518,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T07.30.03E1635661803.7936957.json",
+        "en_title": "Mattarella: debtors to young people",
+        "concepts": [
+            {
+                "word": "Mattarella",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "debtors",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "people",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "ISS: INCIDENZA E' MASSIMA TRA UNDER 12  Un positivo su 4 ha meno di 20 anni",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=111",
+        "content": "",
+        "ranked": 2,
+        "placed": "Undefinied",
+        "epoch": 1635661803.7936602,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T07.30.03E1635661803.7936957.json",
+        "en_title": "ISS: incidence is maximum between under 12 a positive 4 is less than 20 years old",
+        "concepts": [
+            {
+                "word": "ISS",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "incidence",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            }
+        ]
+    },
+    {
+        "title": "Covid-19, 4.878 contagi e 37 morti",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=112",
+        "content": "",
+        "ranked": 3,
+        "placed": "Undefinied",
+        "epoch": 1635661803.7936676,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T07.30.03E1635661803.7936957.json",
+        "en_title": "Covid-19, 4,878 Contagi and 37 dead",
+        "concepts": [
+            {
+                "word": "Covid-19",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Contagi",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "MALTEMPO, ALLERTA GIALLA IN 4 REGIONI  Sicilia, ciclone Apollo si attenua    Perturbazione in arrivo a Nordovest",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1635661803.7936752,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T07.30.03E1635661803.7936957.json",
+        "en_title": "Bad weather, yellow alert in 4 regions Sicily, Apollo cyclone becomes disturbing in northwest",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "alert",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "regions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sicily",
+                "meaning": "advmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Apollo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cyclone",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "northwest",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CRISI JUVE,A VERONA E'FESTA HELLAS: 2-1 Atalanta acciuffa Lazio al 94': 2-2   Tris Torino, Samp al tappeto: 3-0",
+        "date_raw": "October 31, 2021",
+        "date": "2021-10-31",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635661803.793683,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-31T07.30.03E1635661803.7936957.json",
+        "en_title": "Juve crisis, in Verona E'Festa Hellas: 2-1 Atalanta acceffa Lazio at 94 ': 2-2 Tris Turin, Sampa al Carpet: 3-0",
+        "concepts": [
+            {
+                "word": "Juve",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crisis",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Verona",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "E'Festa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hellas",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Atalanta",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "acceffa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lazio",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Tris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Turin",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sampa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "al",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Carpet",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    }
+]

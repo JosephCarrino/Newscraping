@@ -1,0 +1,130 @@
+[
+    {
+        "title": "ERDOGAN:VIA 10 AMBASCIATORI OCCIDENTALI Dopo appello per rilascio Osman Kavala  Dissidente ÃÂ¨ detenuto da 4 anni",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1634999405.4518707,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T16.30.05E1634999405.4518993.json",
+        "en_title": "Erdogan: via 10 Western ambassadors after appeal for release Osman Kavala dissident is prisoned for 4 years",
+        "concepts": [
+            {
+                "word": "Erdogan",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambassadors",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "appeal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "release",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Osman",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Kavala",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dissident",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "TRAGEDIA SET USA, PROIETTILI ERANO VERI A Baldwin detto che arma era sicura",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1634999405.4518807,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T16.30.05E1634999405.4518993.json",
+        "en_title": "Tragedy USA set, bullets were true to Baldwin said that weapon was safe",
+        "concepts": [
+            {
+                "word": "Tragedy",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "USA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bullets",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "weapon",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Responsabile armi,20enne al debutto",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1634999405.451888,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T16.30.05E1634999405.4518993.json",
+        "en_title": "Weapons manager, 20-year-old to debut",
+        "concepts": [
+            {
+                "word": "Weapons",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "manager",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            }
+        ]
+    }
+]

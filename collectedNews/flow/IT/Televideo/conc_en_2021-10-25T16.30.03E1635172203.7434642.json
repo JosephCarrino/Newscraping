@@ -1,0 +1,319 @@
+[
+    {
+        "title": "CORTE ISRAELE: \"EITAN TORNI IN ITALIA\"  Dalla zia paterna,il nonno ha perso",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1635172203.743377,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T16.30.03E1635172203.7434642.json",
+        "en_title": "Court Israel: \"Eitan returns to Italy\" from aunt paternal, the grandfather lost",
+        "concepts": [
+            {
+                "word": "Court",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Israel",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Eitan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "aunt",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "paternal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "grandfather",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "GOLPE SUDAN, DICHIARATO STATO EMERGENZA Militari sparano in strada a Khartoum  Arrestati premier e due ministri",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1635172203.7433927,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T16.30.03E1635172203.7434642.json",
+        "en_title": "Sudan Golpe, State Military Emergency State Street in Khartoum Premier Arrested and Two Ministers",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Golpe",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "State",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Military",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Emergency",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "State",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Street",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Khartoum",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Premier",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ministers",
+                "meaning": "conj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ue e Usa \"preoccupati e allarmati\"",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1635172203.7434042,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T16.30.03E1635172203.7434642.json",
+        "en_title": "EU and USA \"worried and alarmed\"",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "USA",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "UE,BUFERA SU MORAWIECKI. POLONIA SMORZA Parole su guerra? Era \"un'iperbole\"",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": "",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1635172203.7434154,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T16.30.03E1635172203.7434642.json",
+        "en_title": "EU, storm on Morawiecki.Poland Rumbled words about war?It was \"a hyperbole\"",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "storm",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Morawiecki",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Poland",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "words",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "war?It",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hyperbole",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "HONG KONG, AMNESTY CHIUDE I SUOI UFFICI \"Nuova legge ci impedisce lavoro\"",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": "",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1635172203.7434268,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T16.30.03E1635172203.7434642.json",
+        "en_title": "Hong Kong, Amnesty closes its offices \"New Law prevents us from work\"",
+        "concepts": [
+            {
+                "word": "Hong",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kong",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Amnesty",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "offices",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Law",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "work",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "NARCOS USUGA SARA' ESTRADATO NEGLI USA  Il piÃÂ¹ ricercato latitante al mondo",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": "",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1635172203.7434378,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T16.30.03E1635172203.7434642.json",
+        "en_title": "Narcos usuga will be extradited in the USA the most sought-after liabilities in the world",
+        "concepts": [
+            {
+                "word": "Narcos",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "usuga",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "USA",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "liabilities",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "world",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "LE NOTIZIE DAI GIORNALI DEL MONDO",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=159",
+        "content": "",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1635172203.7434485,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-25T16.30.03E1635172203.7434642.json",
+        "en_title": "News from the newspapers of the world",
+        "concepts": [
+            {
+                "word": "News",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "newspapers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "world",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

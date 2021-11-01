@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Mit folgenden Themen: Neuer HÃ¶chststand bei Treibhausgaswerten",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211025-heute-sendung-19-uhr-100.html",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635195603.353801,
+        "language": "de",
+        "source": "Zdf",
+        "filename": "2021-10-25.json",
+        "en_title": "With the following topics: new healing stand for greenhouse gas values"
+    },
+    {
+        "title": "Vor konstituierender Sitzung des Bundestags",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211025-heute-sendung-19-uhr-100.html",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635195603.353834,
+        "language": "de",
+        "source": "Zdf",
+        "filename": "2021-10-25.json",
+        "en_title": "Before the constituent meeting of the Bundestag"
+    },
+    {
+        "title": "weiteren Nachrichten, dem Sport und dem Wetter.",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "news_url": "https://www.zdf.de/nachrichten/heute-19-uhr/211025-heute-sendung-19-uhr-100.html",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635195603.3538816,
+        "language": "de",
+        "source": "Zdf",
+        "filename": "2021-10-25.json",
+        "en_title": "Further news, the sport and the weather."
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "title": "LAMORGESE: NO ACCUSE STRATEGIA TENSIONE \"Polizia non serve fini politici\"",
+        "date_raw": "October 19, 2021",
+        "date": "2021-10-19",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": "",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1634662807.1021662,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-19T19.00.07E1634662807.1022284.json",
+        "en_title": "Lamorgese: No accusations Tension strategy \"Police is not serving political purposes\"",
+        "concepts": [
+            {
+                "word": "accusations",
+                "meaning": "appos",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Tension",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strategy",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "purposes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "\"Ci attende un periodo impegnativo\"",
+        "date_raw": "October 19, 2021",
+        "date": "2021-10-19",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": "",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1634662807.102176,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-19T19.00.07E1634662807.1022284.json",
+        "en_title": "\"A challenging period awaits us\"",
+        "concepts": [
+            {
+                "word": "period",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "SENATO,ENTRA SENZA PASS. SCATTA DIVIETO Sanzionata e 10 giorni di sospensione  Fuori senatori che non lo mostrano",
+        "date_raw": "October 19, 2021",
+        "date": "2021-10-19",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": "",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1634662807.1021829,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-19T19.00.07E1634662807.1022284.json",
+        "en_title": "Senate, he enters without pass.Take prohibition sanctioned and 10 days of suspension out of senators who do not show it",
+        "concepts": [
+            {
+                "word": "Senate",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "pass",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "prohibition",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "days",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "suspension",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "senators",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MANOVRA DA 23MLD,PER TAGLIO TASSE 8 MLD Attesa per Consiglio dei ministri",
+        "date_raw": "October 19, 2021",
+        "date": "2021-10-19",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=124",
+        "content": "",
+        "ranked": 3,
+        "placed": "Politics",
+        "epoch": 1634662807.1021898,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-19T19.00.07E1634662807.1022284.json",
+        "en_title": "23md maneuver, for cutting fees 8 MLD waiting for the Council of Ministers",
+        "concepts": [
+            {
+                "word": "maneuver",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fees",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MLD",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Council",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ministers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "FI:taglio 8mld non basta,almeno 10",
+        "date_raw": "October 19, 2021",
+        "date": "2021-10-19",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=125",
+        "content": "",
+        "ranked": 4,
+        "placed": "Politics",
+        "epoch": 1634662807.102197,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-19T19.00.07E1634662807.1022284.json",
+        "en_title": "FI: 8md cut is not enough, at least 10",
+        "concepts": [
+            {
+                "word": "FI",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "8md",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cut",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Pd: \"Bene, impianto condivisibile\"",
+        "date_raw": "October 19, 2021",
+        "date": "2021-10-19",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=126",
+        "content": "",
+        "ranked": 5,
+        "placed": "Politics",
+        "epoch": 1634662807.1022038,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-19T19.00.07E1634662807.1022284.json",
+        "en_title": "PD: \"Well, shareable system\"",
+        "concepts": [
+            {
+                "word": "PD",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "system",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "IL DDL ZAN DAL 27/10 TORNA IN AULA",
+        "date_raw": "October 19, 2021",
+        "date": "2021-10-19",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=127",
+        "content": "",
+        "ranked": 6,
+        "placed": "Politics",
+        "epoch": 1634662807.1022108,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-19T19.00.07E1634662807.1022284.json",
+        "en_title": "The ddl zan from 27/10 returns to the classroom",
+        "concepts": [
+            {
+                "word": "ddl",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "zan",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "returns",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "classroom",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "SENATO, LEGGE PER VOTO AI 18ENNI",
+        "date_raw": "October 19, 2021",
+        "date": "2021-10-19",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=128",
+        "content": "",
+        "ranked": 7,
+        "placed": "Politics",
+        "epoch": 1634662807.1022174,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-19T19.00.07E1634662807.1022284.json",
+        "en_title": "Senate, law for 18 year old voting",
+        "concepts": [
+            {
+                "word": "Senate",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "voting",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

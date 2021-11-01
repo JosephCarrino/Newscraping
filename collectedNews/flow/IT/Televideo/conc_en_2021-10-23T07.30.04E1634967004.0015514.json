@@ -1,0 +1,299 @@
+[
+    {
+        "title": "DRAGHI: L'EUROPA NON E' PER ALZARE MURI \"Interventi su energia,rinnovabili\"",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1634967004.001493,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T07.30.04E1634967004.0015514.json",
+        "en_title": "Dragons: Europe is not to raise walls \"interventions on energy, renewable\"",
+        "concepts": [
+            {
+                "word": "Dragons",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "Europe",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "walls",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "interventions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "energy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "\"Pensioni, Quota 100 non rinnovata\"",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1634967004.001503,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T07.30.04E1634967004.0015514.json",
+        "en_title": "\"Pensions, 100 non-renewed share\"",
+        "concepts": [
+            {
+                "word": "Pensions",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "share",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "\"Migranti,responsabilitÃÂ  e solidarietÃÂ \" NovitÃÂ  nel testo finale Consiglio",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1634967004.0015106,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T07.30.04E1634967004.0015514.json",
+        "en_title": "\"Migrants, liability and solidarity\" NovitÃ  in the final Text Council",
+        "concepts": [
+            {
+                "word": "Migrants",
+                "meaning": "nsubj",
+                "pos": "SPACE"
+            },
+            {
+                "word": "liability",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "solidarity",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "NovitÃ",
+                "meaning": "nsubj",
+                "pos": "SPACE"
+            },
+            {
+                "word": "Text",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UE,MERKEL:HO TENTATO RISOLVERE PROBLEMI Standing ovation per la cancelliera",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": "",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1634967004.0015178,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T07.30.04E1634967004.0015514.json",
+        "en_title": "EU, Merkel: I tried solving Standing Ovation problems for chancellor",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Standing",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ovation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "problems",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "chancellor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "DRAMMA SU SET FILM WESTERN, MUORE DONNA Un ferito durante riprese in New Mexico Baldwin spara con pistola di scena",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": "",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1634967004.001525,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T07.30.04E1634967004.0015514.json",
+        "en_title": "Drama on western movie set, dies woman a wounded shooting in New Mexico Baldwin shoots with scene gun",
+        "concepts": [
+            {
+                "word": "Drama",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "movie",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "set",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "woman",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shooting",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "scene",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gun",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "L'attore: ÃÂ¨ un tragico incidente",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": "",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1634967004.001533,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T07.30.04E1634967004.0015514.json",
+        "en_title": "The actor: it's a tragic accident",
+        "concepts": [
+            {
+                "word": "actor",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "accident",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "PAPA: G20 AFFRONTI ASIMMETRIE DEL MONDO Appello a una settimana dal vertice",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": "",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1634967004.0015404,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T07.30.04E1634967004.0015514.json",
+        "en_title": "Pope: G20 deals asymmetries of the world appeal to a week from the summit",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "G20",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "asymmetries",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "week",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

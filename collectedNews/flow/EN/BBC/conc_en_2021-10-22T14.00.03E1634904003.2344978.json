@@ -1,0 +1,637 @@
+[
+    {
+        "title": "Alec Baldwin fatally shoots woman with prop gun",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59005500",
+        "content": "A man is also being treated in hospital after the firearm was discharged on set in New Mexico.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2342024,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "Alec Baldwin fatally shoots woman with prop gun",
+        "en_content": "A man is also being treated in hospital after the firearm was discharged on set in New Mexico.",
+        "concepts": [
+            {
+                "word": "Alec",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "woman",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "prop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gun",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Alec Baldwin fatally shoots woman with prop gun",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59005500",
+        "content": "A man is also being treated in hospital after the firearm was discharged on set in New Mexico.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2342284,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "Alec Baldwin fatally shoots woman with prop gun",
+        "en_content": "A man is also being treated in hospital after the firearm was discharged on set in New Mexico.",
+        "concepts": [
+            {
+                "word": "Alec",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "woman",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "prop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gun",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "What are prop guns and why are they dangerous?",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59006905",
+        "content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2342482,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "What are prop guns and why are they dangerous?",
+        "en_content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "concepts": [
+            {
+                "word": "prop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guns",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-58952867",
+        "content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "placed": "Abroad",
+        "epoch": 1634904003.234265,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "en_content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ã¢ÂÂtouristsÃ¢ÂÂ",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "break",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden says US will defend Taiwan if China attacks",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-asia-59005300",
+        "content": "His comments are an apparent departure from the long-held US position of \"strategic ambiguity\".",
+        "placed": "Abroad",
+        "epoch": 1634904003.2342803,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "Biden says US will defend Taiwan if China attacks",
+        "en_content": "His comments are an apparent departure from the long-held US position of \"strategic ambiguity\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "FiancÃÂ© wanted in US blogger's murder is found dead",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59004831",
+        "content": "A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death.",
+        "placed": "Abroad",
+        "epoch": 1634904003.234296,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "FiancÃÂ© wanted in US blogger's murder is found dead",
+        "en_content": "A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death.",
+        "concepts": [
+            {
+                "word": "FiancÃÂ",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "©",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "blogger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "China's 'Piano Prince' detained for prostitution",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59005937",
+        "content": "Observers said his detention could be seen as a warning to other \"immoral\" celebrities.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2343102,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "China's 'Piano Prince' detained for prostitution",
+        "en_content": "Observers said his detention could be seen as a warning to other \"immoral\" celebrities.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Piano",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Prince",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "prostitution",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate change will bring global tension - US spies",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/science-environment-59004088",
+        "content": "Countries will argue over a response and the poorest will suffer most, US intelligence says.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2343264,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "Climate change will bring global tension - US spies",
+        "en_content": "Countries will argue over a response and the poorest will suffer most, US intelligence says.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tension",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spies",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Alec Baldwin fatally shoots woman with prop gun",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59005500",
+        "content": "A man is also being treated in hospital after the firearm was discharged on set in New Mexico.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2343524,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "Alec Baldwin fatally shoots woman with prop gun",
+        "en_content": "A man is also being treated in hospital after the firearm was discharged on set in New Mexico.",
+        "concepts": [
+            {
+                "word": "Alec",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "woman",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "prop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gun",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "What are prop guns and why are they dangerous?",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59006905",
+        "content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2343683,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "What are prop guns and why are they dangerous?",
+        "en_content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "concepts": [
+            {
+                "word": "prop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guns",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-58952867",
+        "content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2343826,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "en_content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ã¢ÂÂtouristsÃ¢ÂÂ",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "break",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden says US will defend Taiwan if China attacks",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-asia-59005300",
+        "content": "His comments are an apparent departure from the long-held US position of \"strategic ambiguity\".",
+        "placed": "Abroad",
+        "epoch": 1634904003.2344005,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "Biden says US will defend Taiwan if China attacks",
+        "en_content": "His comments are an apparent departure from the long-held US position of \"strategic ambiguity\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "FiancÃÂ© wanted in US blogger's murder is found dead",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59004831",
+        "content": "A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2344146,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "FiancÃÂ© wanted in US blogger's murder is found dead",
+        "en_content": "A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death.",
+        "concepts": [
+            {
+                "word": "FiancÃÂ",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "©",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "blogger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "China's 'Piano Prince' detained for prostitution",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59005937",
+        "content": "Observers said his detention could be seen as a warning to other \"immoral\" celebrities.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2344286,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "China's 'Piano Prince' detained for prostitution",
+        "en_content": "Observers said his detention could be seen as a warning to other \"immoral\" celebrities.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Piano",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Prince",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "prostitution",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate change will bring global tension - US spies",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/science-environment-59004088",
+        "content": "Countries will argue over a response and the poorest will suffer most, US intelligence says.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2344427,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "Climate change will bring global tension - US spies",
+        "en_content": "Countries will argue over a response and the poorest will suffer most, US intelligence says.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tension",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spies",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What are prop guns and why are they dangerous?",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59006905",
+        "content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2344563,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "What are prop guns and why are they dangerous?",
+        "en_content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "concepts": [
+            {
+                "word": "prop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guns",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-58952867",
+        "content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "placed": "Abroad",
+        "epoch": 1634904003.2344704,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "en_content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ã¢ÂÂtouristsÃ¢ÂÂ",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "break",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden says US will defend Taiwan if China attacks",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-asia-59005300",
+        "content": "His comments are an apparent departure from the long-held US position of \"strategic ambiguity\".",
+        "placed": "Abroad",
+        "epoch": 1634904003.2344844,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T14.00.03E1634904003.2344978.json",
+        "en_title": "Biden says US will defend Taiwan if China attacks",
+        "en_content": "His comments are an apparent departure from the long-held US position of \"strategic ambiguity\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

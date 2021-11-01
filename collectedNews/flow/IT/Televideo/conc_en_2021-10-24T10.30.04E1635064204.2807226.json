@@ -1,0 +1,258 @@
+[
+    {
+        "title": "GOVERNO AL LAVORO SU TASSE E PENSIONI  Obiettivo: via quota 100 ma no scaloni  Conto alla rovescia per la manovra    Cgil:quota 102-104? Sarebbe inutile",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635064204.2806668,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T10.30.04E1635064204.2807226.json",
+        "en_title": "Government at work on fees and pensions Objective: Via 100 but no staircases countdown to the CGIL maneuver: Quota 102-104?It would be useless",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "work",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fees",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "pensions",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Objective",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Via",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "staircases",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "CGIL",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "maneuver",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Quota",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "BERLUSCONI:STOP IPOTESI VOTO ANTICIPATO \"Sarebbe una scelta irresponsabile\"",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635064204.2806776,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T10.30.04E1635064204.2807226.json",
+        "en_title": "Berlusconi: Stop hypothesis anticipated vote \"would be an irresponsible choice\"",
+        "concepts": [
+            {
+                "word": "Berlusconi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hypothesis",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "vote",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "choice",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "COLOMBIA, ARRESTATO IL \"NARCOS\" USUGA  Il piÃÂ¹ ricercato latitante al mondo",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635064204.2806847,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T10.30.04E1635064204.2807226.json",
+        "en_title": "Colombia, arrested the \"Narcos\" usuges the most sought after liatitive in the world",
+        "concepts": [
+            {
+                "word": "Colombia",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Narcos",
+                "meaning": "nmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "COVID,3.908 NUOVI CASI E 39 VITTIME",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1635064204.2806916,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T10.30.04E1635064204.2807226.json",
+        "en_title": "Covid, 3,908 new cases and 39 victims",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cases",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "victims",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "CALCIO, SFIDE ROMA-NAPOLI E INTER-JUVE  Alle 12.30 match Atalanta-Udinese",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1635064204.2806985,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T10.30.04E1635064204.2807226.json",
+        "en_title": "Football, Rome-Naples and Inter-Juve challenges at 12.30 Atalanta-Udinese match",
+        "concepts": [
+            {
+                "word": "Football",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Rome",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Naples",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Inter",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Juve",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "challenges",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Atalanta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Udinese",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "match",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "FESTA CINEMA,SI CHIUDE CON LA JOLIE",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635064204.280706,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T10.30.04E1635064204.2807226.json",
+        "en_title": "Cinema party, it closes with the Jolie",
+        "concepts": [
+            {
+                "word": "Cinema",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Jolie",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

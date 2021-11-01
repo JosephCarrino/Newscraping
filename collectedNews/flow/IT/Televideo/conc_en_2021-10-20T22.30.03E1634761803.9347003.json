@@ -1,0 +1,268 @@
+[
+    {
+        "title": "DRAGHI:VACCINI DA NOI PIU'SPEDITI IN UE Consiglio Ue, il premier al Senato",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1634761803.934649,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T22.30.03E1634761803.9347003.json",
+        "en_title": "Dragons: vaccines from us more shown in the EU EU Council, the Premier in the Senate",
+        "concepts": [
+            {
+                "word": "Dragons",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccines",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Premier",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Senate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fmi:vaccini,svolta in ripresa Italia130  PIU'CASI COVID,3.702, E MENO VITTIME,33 Sono in salita i ricoveri ordinari",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1634761803.934659,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T22.30.03E1634761803.9347003.json",
+        "en_title": "IMF: Vaccini, carried out in recovery ITALY130 PiÃ¹'casi Covid, 3.702, and less victims, 33 The ordinary shelters are uphill",
+        "concepts": [
+            {
+                "word": "IMF",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Vaccini",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "recovery",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ITALY130",
+                "meaning": "punct",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PiÃ¹'casi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "victims",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "shelters",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "C.DESTRA:COMPATTI PURE A ELEZIONE COLLE Come coalizione:no al proporzionale",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1634761803.9346664,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T22.30.03E1634761803.9347003.json",
+        "en_title": "C.DESTRA: Pure compact with election glues as a coalition: no to the proportional",
+        "concepts": [
+            {
+                "word": "C.DESTRA",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "election",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "glues",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "coalition",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "ATTACCO HACKER ALLA SIAE, CON RICATTO  Rubati dati sensibili degli artisti",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1634761803.934674,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T22.30.03E1634761803.9347003.json",
+        "en_title": "Hacker Attack at SIAE, with stolen stolen artists' sensitive data",
+        "concepts": [
+            {
+                "word": "Hacker",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Attack",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SIAE",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "artists",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "data",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "OCSE A ITALIA:TROPPA SPESA PER PENSIONI \"Serve riforma del cuneo fiscale\"",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1634761803.9346812,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T22.30.03E1634761803.9347003.json",
+        "en_title": "OECD in Italy: too much pension expenditure \"serves reform of the fiscal wedge\"",
+        "concepts": [
+            {
+                "word": "OECD",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "pension",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "expenditure",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "reform",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "wedge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CHAMPIONS, DI SCENA JUVE E ATALANTA",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1634761803.9346886,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T22.30.03E1634761803.9347003.json",
+        "en_title": "Champions, Juve and Atalanta scene",
+        "concepts": [
+            {
+                "word": "Champions",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Juve",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Atalanta",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scene",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    }
+]

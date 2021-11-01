@@ -1,0 +1,273 @@
+[
+    {
+        "title": "MANOVRA, MANCA L'INTESA SULLE PENSIONI  Tensione a incontro Draghi-sindacati   Landini: \"Risposte o mobilitazioni\"",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635323403.99228,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.30.03E1635323403.992342.json",
+        "en_title": "Maneuver, lacks the intense on pension tension to meet Draghi-union Landini: \"answers or mobilizations\"",
+        "concepts": [
+            {
+                "word": "Maneuver",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "pension",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tension",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Draghi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "union",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Landini",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "answers",
+                "meaning": "appos",
+                "pos": "ADJ"
+            },
+            {
+                "word": "mobilizations",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "MALTEMPO, ANNEGA TRAVOLTO DALL'ACQUA   A Catania summit protezione civile",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635323403.9922943,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.30.03E1635323403.992342.json",
+        "en_title": "Bad weather, drowns overwhelmed by water in Catania Civil Protection Summit",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drowns",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "water",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Catania",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Civil",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protection",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "AUTO CONTRO ALBERO, MORTI 3 RAGAZZI",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635323403.9923036,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.30.03E1635323403.992342.json",
+        "en_title": "Car against tree, dead 3 boys",
+        "concepts": [
+            {
+                "word": "Car",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tree",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "boys",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "BIANCHI:MAI COSI'TANTI SOLDI PER SCUOLA \"Nuovi spazi e riqualificazione\"",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1635323403.9923108,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.30.03E1635323403.992342.json",
+        "en_title": "Bianchi: Never so much money for school \"new spaces and redevelopment\"",
+        "concepts": [
+            {
+                "word": "Bianchi",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "money",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "spaces",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "redevelopment",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "DDL ZAN, NESSUNA INTESA AL SENATO    Voto in Aula con la \"tagliola\"",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1635323403.9923177,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.30.03E1635323403.992342.json",
+        "en_title": "Ddl Zan, no agreement to the Senate Rating in the classroom with the \"Tagliola\"",
+        "concepts": [
+            {
+                "word": "Ddl",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Zan",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "agreement",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Senate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Rating",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "classroom",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Tagliola",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PIU' CONTAGI, 4.054, E PIU' VITTIME, 48 Sileri:\"Verso terza dose per tutti\"",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635323403.9923246,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T10.30.03E1635323403.992342.json",
+        "en_title": "MORE INQUATI, 4.054, AND MORE VITIMS, 48 SILERIES: \"Towards Third Dose for All\"",
+        "concepts": [
+            {
+                "word": "INQUATI",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "VITIMS",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "SILERIES",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Third",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dose",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

@@ -1,0 +1,289 @@
+[
+    {
+        "title": "JOE BIDEN A ROMA PER IL VERTICE G20   Leader Usa da Mattarella e da Draghi   \"Pandemia, ottimo lavoro dell'Italia\"  In Vaticano lungo incontro col Papa",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635539404.005682,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T22.30.04E1635539404.0057416.json",
+        "en_title": "Joe Biden in Rome for the Vertice G20 US leader from Mattarella and Dragons \"Pandemia, excellent work of Italy\" in the Vatican along the Pope",
+        "concepts": [
+            {
+                "word": "Joe",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Biden",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rome",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Vertice",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "G20",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mattarella",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dragons",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pandemia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "work",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Vatican",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Pope",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "G20: vaccinare il 70% entro il 2022 150  ISS: RISCHI DI RECRUDESCENZA EPIDEMICA  \"In aumento indice Rt e incidenza\"",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635539404.0056942,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T22.30.04E1635539404.0057416.json",
+        "en_title": "G20: vaccinating 70% by 2022 150 ISS: risks of epidemic recoverescence \"increasing RT index and incidence\"",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "%",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "ISS",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "risks",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "epidemic",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "recoverescence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "RT",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "index",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incidence",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Covid,5.335 nuovi casi e 33 vittime",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635539404.005703,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T22.30.04E1635539404.0057416.json",
+        "en_title": "Covid, 5,335 new cases and 33 victims",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cases",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "victims",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "CICLONE INVESTE SICILIA ORIENTALE",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1635539404.005711,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T22.30.04E1635539404.0057416.json",
+        "en_title": "Cyclone invests eastern Sicily",
+        "concepts": [
+            {
+                "word": "Cyclone",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "eastern",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sicily",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PIL AVANTI, +2,6% NEL TERZO TRIMESTRE  Sale l'inflazione, al top dal 2012",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1635539404.0057185,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T22.30.04E1635539404.0057416.json",
+        "en_title": "GDP forward, + 2.6% In the third quarter inflation rises, at the top from 2012",
+        "concepts": [
+            {
+                "word": "GDP",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "%",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "quarter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "inflation",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "top",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "NAPOLI, SPARA E UCCIDE DUE INCENSURATI  Forse scambiandoli per dei ladri",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635539404.0057266,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T22.30.04E1635539404.0057416.json",
+        "en_title": "Naples, shoots and kills two uncensored perhaps exchanging them for thieves",
+        "concepts": [
+            {
+                "word": "Naples",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shoots",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "thieves",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

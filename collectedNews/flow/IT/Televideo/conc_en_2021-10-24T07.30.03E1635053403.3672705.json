@@ -1,0 +1,238 @@
+[
+    {
+        "title": "MPS, VERSO STOP NEGOZIATI MEF-UNICREDIT Lo riporta Reuters citando 2 fonti",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635053403.3672223,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T07.30.03E1635053403.3672705.json",
+        "en_title": "MPS, towards Stop negotiations MEF-UNICREDIT reports Reuters citing 2 sources",
+        "concepts": [
+            {
+                "word": "MPS",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "negotiations",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MEF",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "UNICREDIT",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "Reuters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sources",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PENSIONI,CGIL:QUOTA 102/104 INUTILE",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635053403.367232,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T07.30.03E1635053403.3672705.json",
+        "en_title": "Pensions, CGIL: 102/104 unnecessary altitude",
+        "concepts": [
+            {
+                "word": "Pensions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "CGIL",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "102/104",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "altitude",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "ERDOGAN:VIA 10 AMBASCIATORI OCCIDENTALI Dopo appello su rilascio dissidente",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635053403.3672392,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T07.30.03E1635053403.3672705.json",
+        "en_title": "Erdogan: Via 10 Western Ambassadors after appeal to dissident release",
+        "concepts": [
+            {
+                "word": "Erdogan",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Via",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ambassadors",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "appeal",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "release",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "COLOMBIA, ARRESTATO IL \"NARCOS\" USUGA  Il piÃÂ¹ ricercato latitante al mondo",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1635053403.367246,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T07.30.03E1635053403.3672705.json",
+        "en_title": "Colombia, arrested the \"Narcos\" usuges the most sought after liatitive in the world",
+        "concepts": [
+            {
+                "word": "Colombia",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Narcos",
+                "meaning": "nmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "COVID,3.908 NUOVI CASI E 39 VITTIME",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1635053403.3672526,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T07.30.03E1635053403.3672705.json",
+        "en_title": "Covid, 3,908 new cases and 39 victims",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cases",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "victims",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "OPEN ARMS, PROCESSO A SALVINI A PALERMO Citati Conte e Di Maio.Ammesso Gere",
+        "date_raw": "October 24, 2021",
+        "date": "2021-10-24",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635053403.3672597,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-24T07.30.03E1635053403.3672705.json",
+        "en_title": "Open Arms, Process in Salvini in Palermo cited Count and Maio.amised Gere",
+        "concepts": [
+            {
+                "word": "Open",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Arms",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Process",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Salvini",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Palermo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Count",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Gere",
+                "meaning": "conj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

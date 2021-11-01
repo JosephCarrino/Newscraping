@@ -1,0 +1,79 @@
+[
+    {
+        "title": "CGIA:\"1MLN LAVORATORI SENZA GREEN PASS\" Controlli non stringenti,sono elusi",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": "",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1634977803.9379067,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T10.30.03E1634977803.9379287.json",
+        "en_title": "CGIA: \"1MLN workers without green pass\" non-stringent controls are eluses",
+        "concepts": [
+            {
+                "word": "CGIA",
+                "meaning": "prep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "workers",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "pass",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "controls",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "eluses",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Nota su indici di Borsa Televideo",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": "",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1634977803.937917,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T10.30.03E1634977803.9379287.json",
+        "en_title": "Note on Teletext stock exchange indexes",
+        "concepts": [
+            {
+                "word": "Teletext",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indexes",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

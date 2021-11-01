@@ -1,0 +1,620 @@
+[
+    {
+        "title": "WHO warns pandemic will drag on into 2022",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/health-58973697",
+        "content": "Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say.",
+        "placed": "First_Page",
+        "epoch": 1634774403.80788,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "WHO warns pandemic will drag on into 2022",
+        "en_content": "Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say.",
+        "concepts": []
+    },
+    {
+        "title": "WHO warns pandemic will drag on into 2022",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/health-58973697",
+        "content": "Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8079154,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "WHO warns pandemic will drag on into 2022",
+        "en_content": "Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say.",
+        "concepts": []
+    },
+    {
+        "title": "Parkland school shooter pleads guilty to murder",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58983965",
+        "content": "Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8079438,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "Parkland school shooter pleads guilty to murder",
+        "en_content": "Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting.",
+        "concepts": [
+            {
+                "word": "Parkland",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shooter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK agrees free trade deal with New Zealand",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/business-58988711",
+        "content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8079698,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "UK agrees free trade deal with New Zealand",
+        "en_content": "The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Zealand",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Remains found in hunt for blogger's fiancÃÂ© - FBI",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58989242",
+        "content": "Items owned by Gabby Petito's missing fiancÃÂ© and apparent human remains have been found in Florida.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8079932,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "Remains found in hunt for blogger's fiancÃÂ© - FBI",
+        "en_content": "Items owned by Gabby Petito's missing fiancÃÂ© and apparent human remains have been found in Florida.",
+        "concepts": [
+            {
+                "word": "Remains",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hunt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "blogger",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "©",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "FBI",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The four-year-old footballer recruited by Arsenal",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/uk-58988254",
+        "content": "Zayn Ali Salman is the youngest-ever recruit to Arsenal's pre-academy.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8080072,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "The four-year-old footballer recruited by Arsenal",
+        "en_content": "Zayn Ali Salman is the youngest-ever recruit to Arsenal's pre-academy.",
+        "concepts": [
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "footballer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Arsenal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Paris Hilton pushes for US youth care abuse reform",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58988523",
+        "content": "The reality star spoke in Washington DC about her alleged abuse in residential care as a teenager.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8080306,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "Paris Hilton pushes for US youth care abuse reform",
+        "en_content": "The reality star spoke in Washington DC about her alleged abuse in residential care as a teenager.",
+        "concepts": [
+            {
+                "word": "Paris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hilton",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "youth",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abuse",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reform",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'I was warned I'd die very quickly in Russian jail'",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-europe-58978613",
+        "content": "Sergey Savelyev is seeking asylum in France after he leaked videos showing abuse in Russian prisons.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8080528,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "'I was warned I'd die very quickly in Russian jail'",
+        "en_content": "Sergey Savelyev is seeking asylum in France after he leaked videos showing abuse in Russian prisons.",
+        "concepts": [
+            {
+                "word": "jail",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Death toll passes 100 in Nepal-India floods",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-india-58951456",
+        "content": "Heavy rain triggers flash floods in India's northern state of Uttarakhand and parts of Nepal.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8080707,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "Death toll passes 100 in Nepal-India floods",
+        "en_content": "Heavy rain triggers flash floods in India's northern state of Uttarakhand and parts of Nepal.",
+        "concepts": [
+            {
+                "word": "Death",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "toll",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Nepal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "India",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "floods",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK told: Get Covid jab or restrictions more likely",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-58985617",
+        "content": "Additional measures are not needed in England at this point, the health secretary says.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8080919,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "UK told: Get Covid jab or restrictions more likely",
+        "en_content": "Additional measures are not needed in England at this point, the health secretary says.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jab",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "All Afghans have the right to a passport - Taliban",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-58989021",
+        "content": "But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8081079,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "All Afghans have the right to a passport - Taliban",
+        "en_content": "But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised.",
+        "concepts": [
+            {
+                "word": "Afghans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "right",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "passport",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Bolsonaro should face charges over pandemic - report",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-latin-america-58976197",
+        "content": "Brazil's president should be charged with crimes against humanity, a Senate-led inquiry says.",
+        "placed": "First_Page",
+        "epoch": 1634774403.808116,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "Bolsonaro should face charges over pandemic - report",
+        "en_content": "Brazil's president should be charged with crimes against humanity, a Senate-led inquiry says.",
+        "concepts": [
+            {
+                "word": "Bolsonaro",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "charges",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "report",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "All Afghans have the right to a passport - Taliban",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-58989021",
+        "content": "But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8081336,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "All Afghans have the right to a passport - Taliban",
+        "en_content": "But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised.",
+        "concepts": [
+            {
+                "word": "Afghans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "right",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "passport",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Bolsonaro should face charges over pandemic - report",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-latin-america-58976197",
+        "content": "Brazil's president should be charged with crimes against humanity, a Senate-led inquiry says.",
+        "placed": "First_Page",
+        "epoch": 1634774403.8081477,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "Bolsonaro should face charges over pandemic - report",
+        "en_content": "Brazil's president should be charged with crimes against humanity, a Senate-led inquiry says.",
+        "concepts": [
+            {
+                "word": "Bolsonaro",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "charges",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "report",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "What Americans need to know about booster shots",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58887929",
+        "content": "Officials say you can soon mix-and-match your vaccine booster jabs - the latest on who's eligible.",
+        "placed": "First_Page",
+        "epoch": 1634774403.808157,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "What Americans need to know about booster shots",
+        "en_content": "Officials say you can soon mix-and-match your vaccine booster jabs - the latest on who's eligible.",
+        "concepts": [
+            {
+                "word": "Americans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "booster",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shots",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Queen cancels Northern Ireland trip on medical advice",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-58979992",
+        "content": "Buckingham Palace says she has \"reluctantly accepted medical advice to rest for the next few days\".",
+        "placed": "First_Page",
+        "epoch": 1634774403.8081713,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "Queen cancels Northern Ireland trip on medical advice",
+        "en_content": "Buckingham Palace says she has \"reluctantly accepted medical advice to rest for the next few days\".",
+        "concepts": [
+            {
+                "word": "Queen",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Northern",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ireland",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trip",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "advice",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Romance scam suspects defrauded 100 women - FBI",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-africa-58978287",
+        "content": "Eight Nigerian men are charged in South Africa after an international operation involving Interpol.",
+        "placed": "First_Page",
+        "epoch": 1634774403.808185,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "Romance scam suspects defrauded 100 women - FBI",
+        "en_content": "Eight Nigerian men are charged in South Africa after an international operation involving Interpol.",
+        "concepts": [
+            {
+                "word": "Romance",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scam",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "suspects",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "women",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "FBI",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "How green politics are changing Europe",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-europe-58910712",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1634774403.8082,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "How green politics are changing Europe",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "politics",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Fossil fuel production set to soar in next decade",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/science-environment-58971131",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1634774403.8082156,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T02.00.03E1634774403.808258.json",
+        "en_title": "Fossil fuel production set to soar in next decade",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "production",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "decade",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

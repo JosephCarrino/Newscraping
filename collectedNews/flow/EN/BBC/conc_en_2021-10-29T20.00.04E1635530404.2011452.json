@@ -1,0 +1,454 @@
+[
+    {
+        "title": "PM fears EU-UK trade deal breach over fishing row",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59097473",
+        "content": "Boris Johnson says he will do \"whatever is necessary\" to protect UK interests as the row continues.",
+        "placed": "Politics",
+        "epoch": 1635530404.2009263,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "PM fears EU-UK trade deal breach over fishing row",
+        "en_content": "Boris Johnson says he will do \"whatever is necessary\" to protect UK interests as the row continues.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM fears EU-UK trade deal breach over fishing row",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59097473",
+        "content": "Boris Johnson says he will do \"whatever is necessary\" to protect UK interests as the row continues.",
+        "placed": "Politics",
+        "epoch": 1635530404.200961,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "PM fears EU-UK trade deal breach over fishing row",
+        "en_content": "Boris Johnson says he will do \"whatever is necessary\" to protect UK interests as the row continues.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088563",
+        "content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "placed": "Politics",
+        "epoch": 1635530404.2009835,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "Political editor",
+        "en_content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Disgraced MP back in Conservative Party on Monday",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088557",
+        "content": "Women will only pay once a year for the menopause treatment in England and a taskforce will be set up.",
+        "placed": "Politics",
+        "epoch": 1635530404.2010033,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "Disgraced MP back in Conservative Party on Monday",
+        "en_content": "Women will only pay once a year for the menopause treatment in England and a taskforce will be set up.",
+        "concepts": [
+            {
+                "word": "Disgraced",
+                "meaning": "amod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "Conservative",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Monday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Parliamentary correspondent",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59093216",
+        "content": "Women celebrate the government's decision to cut the cost of HRT prescriptions in England.",
+        "placed": "Politics",
+        "epoch": 1635530404.2010176,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "Parliamentary correspondent",
+        "en_content": "Women celebrate the government's decision to cut the cost of HRT prescriptions in England.",
+        "concepts": [
+            {
+                "word": "correspondent",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "HRT prescription cost cut welcomed by campaigners",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59090943",
+        "content": "The Swedish campaigner is in the UK to take part in protests ahead of next week's COP26 conference.",
+        "placed": "Politics",
+        "epoch": 1635530404.2010376,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "HRT prescription cost cut welcomed by campaigners",
+        "en_content": "The Swedish campaigner is in the UK to take part in protests ahead of next week's COP26 conference.",
+        "concepts": [
+            {
+                "word": "HRT",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prescription",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cost",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cut",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "campaigners",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "HRT: Davina McCall hails 'brilliant day for women'",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59097473",
+        "content": "Boris Johnson says he will do \"whatever is necessary\" to protect UK interests as the row continues.",
+        "placed": "Politics",
+        "epoch": 1635530404.2010555,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "HRT: Davina McCall hails 'brilliant day for women'",
+        "en_content": "Boris Johnson says he will do \"whatever is necessary\" to protect UK interests as the row continues.",
+        "concepts": [
+            {
+                "word": "HRT",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Davina",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "McCall",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "women",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Banks must not fund climate destruction - Thunberg",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088563",
+        "content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "placed": "Politics",
+        "epoch": 1635530404.2010725,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "Banks must not fund climate destruction - Thunberg",
+        "en_content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "concepts": [
+            {
+                "word": "Banks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "destruction",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Thunberg",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM fears EU-UK trade deal breach over fishing row",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088557",
+        "content": "Women will only pay once a year for the menopause treatment in England and a taskforce will be set up.",
+        "placed": "Politics",
+        "epoch": 1635530404.2010887,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "PM fears EU-UK trade deal breach over fishing row",
+        "en_content": "Women will only pay once a year for the menopause treatment in England and a taskforce will be set up.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59093216",
+        "content": "Women celebrate the government's decision to cut the cost of HRT prescriptions in England.",
+        "placed": "Politics",
+        "epoch": 1635530404.2011054,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "Political editor",
+        "en_content": "Women celebrate the government's decision to cut the cost of HRT prescriptions in England.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Disgraced MP back in Conservative Party on Monday",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59090943",
+        "content": "The Swedish campaigner is in the UK to take part in protests ahead of next week's COP26 conference.",
+        "placed": "Politics",
+        "epoch": 1635530404.201115,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "Disgraced MP back in Conservative Party on Monday",
+        "en_content": "The Swedish campaigner is in the UK to take part in protests ahead of next week's COP26 conference.",
+        "concepts": [
+            {
+                "word": "Disgraced",
+                "meaning": "amod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "Conservative",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Monday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Parliamentary correspondent",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088563",
+        "content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "placed": "Politics",
+        "epoch": 1635530404.2011318,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T20.00.04E1635530404.2011452.json",
+        "en_title": "Parliamentary correspondent",
+        "en_content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "concepts": [
+            {
+                "word": "correspondent",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

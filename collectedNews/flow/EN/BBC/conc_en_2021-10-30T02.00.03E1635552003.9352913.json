@@ -1,0 +1,676 @@
+[
+    {
+        "title": "Biden: We were clumsy over France submarine row",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59085806",
+        "content": "The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9349055,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Biden: We were clumsy over France submarine row",
+        "en_content": "The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "France",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "submarine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden: We were clumsy over France submarine row",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59085806",
+        "content": "The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal.",
+        "placed": "First_Page",
+        "epoch": 1635552003.934939,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Biden: We were clumsy over France submarine row",
+        "en_content": "The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "France",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "submarine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Queen advised to rest for two more weeks",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59097106",
+        "content": "The Queen will not undertake official visits until mid-November on doctors' advice, the palace says.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9349604,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Queen advised to rest for two more weeks",
+        "en_content": "The Queen will not undertake official visits until mid-November on doctors' advice, the palace says.",
+        "concepts": [
+            {
+                "word": "Queen",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "weeks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson fears trade deal breach over fishing row",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59097473",
+        "content": "French President Emmanuel Macron says the dispute is a test of the UK's credibility.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9349787,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Johnson fears trade deal breach over fishing row",
+        "en_content": "French President Emmanuel Macron says the dispute is a test of the UK's credibility.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Top Indian actor Puneeth Rajkumar dies age 46",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59090072",
+        "content": "The star of Kannada cinema featured in more than 29 films during his career.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9349964,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Top Indian actor Puneeth Rajkumar dies age 46",
+        "en_content": "The star of Kannada cinema featured in more than 29 films during his career.",
+        "concepts": [
+            {
+                "word": "actor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Puneeth",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rajkumar",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "age",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Speeding 'lava bomb' spotted in La Palma",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59096297",
+        "content": "Watch a ball of solidified molten rock rolling down from the Cumbre Vieja volcano.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9350092,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Speeding 'lava bomb' spotted in La Palma",
+        "en_content": "Watch a ball of solidified molten rock rolling down from the Cumbre Vieja volcano.",
+        "concepts": [
+            {
+                "word": "lava",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bomb",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "La",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Palma",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Canada challenges indigenous compensation order",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59098305",
+        "content": "The Trudeau government opposes the court order to pay C$40,000 to each indigenous child.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9350271,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Canada challenges indigenous compensation order",
+        "en_content": "The Trudeau government opposes the court order to pay C$40,000 to each indigenous child.",
+        "concepts": [
+            {
+                "word": "Canada",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "compensation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "order",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Palestinian groups ask Israel to drop terrorist ban",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59039919",
+        "content": "Six human rights groups outlawed by Israel say they are being silenced and want the ban removed.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9350438,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Palestinian groups ask Israel to drop terrorist ban",
+        "en_content": "Six human rights groups outlawed by Israel say they are being silenced and want the ban removed.",
+        "concepts": [
+            {
+                "word": "groups",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Israel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ban",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Stay at home cyclone warning as floods hit Sicily",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59095026",
+        "content": "Streets are flooded and train lines blocked as the Italian island of Sicily is hit again by storms.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9350603,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Stay at home cyclone warning as floods hit Sicily",
+        "en_content": "Streets are flooded and train lines blocked as the Italian island of Sicily is hit again by storms.",
+        "concepts": [
+            {
+                "word": "home",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cyclone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "warning",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "floods",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sicily",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Poland to build border wall to stop migrant influx",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59096571",
+        "content": "The wall to curb a wave of migrants entering from Belarus has been approved by Poland's parliament.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9350772,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Poland to build border wall to stop migrant influx",
+        "en_content": "The wall to curb a wave of migrants entering from Belarus has been approved by Poland's parliament.",
+        "concepts": [
+            {
+                "word": "Poland",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wall",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "influx",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Comic who mocked disabled singer wins free speech case",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59015486",
+        "content": "The legal row over a comedy routine about a young disabled singer has ended after nearly a decade.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9350932,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Comic who mocked disabled singer wins free speech case",
+        "en_content": "The legal row over a comedy routine about a young disabled singer has ended after nearly a decade.",
+        "concepts": [
+            {
+                "word": "Comic",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "singer",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "speech",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Zayn Malik files 'no contest' plea to harassment charges",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/newsbeat-59087458",
+        "content": "The charges relate to an argument between the singer and Gigi Hadid's mum, Yolanda Hadid.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9351165,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Zayn Malik files 'no contest' plea to harassment charges",
+        "en_content": "The charges relate to an argument between the singer and Gigi Hadid's mum, Yolanda Hadid.",
+        "concepts": [
+            {
+                "word": "Zayn",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Malik",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contest",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plea",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "harassment",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "charges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Comic who mocked disabled singer wins free speech case",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59015486",
+        "content": "The legal row over a comedy routine about a young disabled singer has ended after nearly a decade.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9351337,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Comic who mocked disabled singer wins free speech case",
+        "en_content": "The legal row over a comedy routine about a young disabled singer has ended after nearly a decade.",
+        "concepts": [
+            {
+                "word": "Comic",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "singer",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "speech",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Zayn Malik files 'no contest' plea to harassment charges",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/newsbeat-59087458",
+        "content": "The charges relate to an argument between the singer and Gigi Hadid's mum, Yolanda Hadid.",
+        "placed": "First_Page",
+        "epoch": 1635552003.93515,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Zayn Malik files 'no contest' plea to harassment charges",
+        "en_content": "The charges relate to an argument between the singer and Gigi Hadid's mum, Yolanda Hadid.",
+        "concepts": [
+            {
+                "word": "Zayn",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Malik",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contest",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plea",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "harassment",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "charges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Eriksen unable to play in Italy after cardiac arrest",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/football/59096086",
+        "content": "Christian Eriksen is not allowed to play in Italy this season after the cardiac arrest he suffered at Euro 2020, say Inter Milan.",
+        "placed": "First_Page",
+        "epoch": 1635552003.93517,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Eriksen unable to play in Italy after cardiac arrest",
+        "en_content": "Christian Eriksen is not allowed to play in Italy this season after the cardiac arrest he suffered at Euro 2020, say Inter Milan.",
+        "concepts": [
+            {
+                "word": "Eriksen",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "arrest",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Virgin births found in critically endangered birds",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59097703",
+        "content": "Scientists discover California condors can give birth without any male genetic DNA.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9351864,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Virgin births found in critically endangered birds",
+        "en_content": "Scientists discover California condors can give birth without any male genetic DNA.",
+        "concepts": [
+            {
+                "word": "births",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "birds",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US rapper Fetty Wap charged with drug trafficking",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59094763",
+        "content": "The artist was arrested at a stadium in New York City before his concert.",
+        "placed": "First_Page",
+        "epoch": 1635552003.9352057,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "US rapper Fetty Wap charged with drug trafficking",
+        "en_content": "The artist was arrested at a stadium in New York City before his concert.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rapper",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Fetty",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Wap",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trafficking",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Four numbers to remember from this week",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59067310",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1635552003.935223,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Four numbers to remember from this week",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "numbers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "week",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Has Johnson got what it takes to get a deal?",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-politics-59084086",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1635552003.9352386,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-30T02.00.03E1635552003.9352913.json",
+        "en_title": "Has Johnson got what it takes to get a deal?",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

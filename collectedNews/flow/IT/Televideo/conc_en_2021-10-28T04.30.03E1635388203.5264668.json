@@ -1,0 +1,145 @@
+[
+    {
+        "title": "IL DDL ZAN AFFOSSATO COL VOTO SEGRETO  Passa \"tagliola\" proposta da Lega e FdI Senato con 154 sÃÂ¬ e 131 no.Applauso   Centrosinistra,sono mancati 16 voti",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": "",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1635388203.526438,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-28T04.30.03E1635388203.5264668.json",
+        "en_title": "The Ddl Zan sore with the secret vote passes \"Tagliato\" proposed by Lega and FDI Senate with 154 yes and 131 no.Applause center-left, 16 votes were missed",
+        "concepts": [
+            {
+                "word": "Ddl",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Zan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vote",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tagliato",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Lega",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "FDI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Senate",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Applause",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "center",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "votes",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "LETTA: \"HANNO VOLUTO FERMARE IL FUTURO\" Conte: \"Chi gioisce ne renda conto\"",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": "",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1635388203.526448,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-28T04.30.03E1635388203.5264668.json",
+        "en_title": "Letta: \"They wanted to stop the future\" Count: \"Who rejoices you realize\"",
+        "concepts": [
+            {
+                "word": "future",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "SALVINI:\"SCONFITTA ARROGANZA LETTA-M5S\" Meloni: nulla a che fare con discrimini Vito, contrario,lascia incarichi FI",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": "",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1635388203.526456,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-28T04.30.03E1635388203.5264668.json",
+        "en_title": "Salvini: \"Defeat arrogance Letta-M5s\" Meloni: nothing to do with discriminating vito, opposite, leaves fi",
+        "concepts": [
+            {
+                "word": "Salvini",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Defeat",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arrogance",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Letta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "M5s",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Meloni",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "vito",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fi",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

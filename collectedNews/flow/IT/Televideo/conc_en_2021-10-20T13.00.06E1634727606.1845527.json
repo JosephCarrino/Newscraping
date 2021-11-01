@@ -1,0 +1,268 @@
+[
+    {
+        "title": "DRAGHI LODA LA CAMPAGNA VACCINALE    \"In Italia piÃÂ¹ spediti che nell'Ue\"   Consiglio Ue, il premier al Senato",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1634727606.1844037,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.00.06E1634727606.1845527.json",
+        "en_title": "Dragons praises the vaccination countryside \"in Italy more sent than in the EU\" EU Council, the Premier in the Senate",
+        "concepts": [
+            {
+                "word": "Dragons",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vaccination",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "countryside",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "EU",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Premier",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Senate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Manovra da 23 mld,taglio tasse da 8 120  LEGITTIMO OBBLIGO VACCINO PER SANITARI  Consiglio di Stato respinge ricorsi",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1634727606.1844907,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.00.06E1634727606.1845527.json",
+        "en_title": "23 MLD maneuver, cutting fees from 8 120 legitimate Obligation vaccine for Sanitary State Council rejects appeals",
+        "concepts": [
+            {
+                "word": "MLD",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "maneuver",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fees",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Obligation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sanitary",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "State",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "appeals",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "SENATO BRASILE CONTRO BOLSONARO     \"Crimini intenzionali\" in pandemia",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1634727606.184503,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.00.06E1634727606.1845527.json",
+        "en_title": "Senate Brazil against Bolsonaro \"intentional crimes\" in pandemic",
+        "concepts": [
+            {
+                "word": "Senate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Brazil",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bolsonaro",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crimes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "ASSALTO A CONGRESSO,BANNON SOTTO ACCUSA Commissione a favore azione penale",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1634727606.18451,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.00.06E1634727606.1845527.json",
+        "en_title": "Congress Assault, Bannon under accuses Commission in favor of criminal action",
+        "concepts": [
+            {
+                "word": "Congress",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Assault",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "accuses",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Commission",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "favor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "action",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "TV, SI PARTE PER IL NUOVO DIGITALE",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1634727606.1845176,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.00.06E1634727606.1845527.json",
+        "en_title": "TV, we start for the new digital",
+        "concepts": [
+            {
+                "word": "TV",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "CHAMPIONS, DI SCENA JUVE E ATALANTA",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1634727606.1845372,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T13.00.06E1634727606.1845527.json",
+        "en_title": "Champions, Juve and Atalanta scene",
+        "concepts": [
+            {
+                "word": "Champions",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Juve",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Atalanta",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scene",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    }
+]

@@ -1,0 +1,637 @@
+[
+    {
+        "title": "House panel votes to hold ex-Trump aide in contempt",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58976196",
+        "content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2192004,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "House panel votes to hold ex-Trump aide in contempt",
+        "en_content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
+        "concepts": [
+            {
+                "word": "House",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "panel",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "votes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aide",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "House panel votes to hold ex-Trump aide in contempt",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58976196",
+        "content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2192268,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "House panel votes to hold ex-Trump aide in contempt",
+        "en_content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
+        "concepts": [
+            {
+                "word": "House",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "panel",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "votes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aide",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "North Korea claims new harder-to-track sub missile",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-58976195",
+        "content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2192457,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "North Korea claims new harder-to-track sub missile",
+        "en_content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "concepts": [
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Korea",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "track",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sub",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "missile",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Navy report blames ship fire on command chain",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58975431",
+        "content": "The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2192621,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "Navy report blames ship fire on command chain",
+        "en_content": "The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days.",
+        "concepts": [
+            {
+                "word": "Navy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ship",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "command",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chain",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Myanmar: 'I thought I wouldn't come out alive'",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-asia-58976296",
+        "content": "Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail.",
+        "placed": "Abroad",
+        "epoch": 1634706004.219275,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "Myanmar: 'I thought I wouldn't come out alive'",
+        "en_content": "Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail.",
+        "concepts": [
+            {
+                "word": "Myanmar",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Transgender official sworn in as four-star admiral",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58974627",
+        "content": "Dr Rachel Levine is already the nation's most prominent openly transgender federal official.",
+        "placed": "Abroad",
+        "epoch": 1634706004.219292,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "Transgender official sworn in as four-star admiral",
+        "en_content": "Dr Rachel Levine is already the nation's most prominent openly transgender federal official.",
+        "concepts": [
+            {
+                "word": "Transgender",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "star",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "admiral",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "At least 46 killed in floods in Himalayan state",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-india-58951456",
+        "content": "Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2193067,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "At least 46 killed in floods in Himalayan state",
+        "en_content": "Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand.",
+        "concepts": [
+            {
+                "word": "floods",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "state",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australian ex-cricketer Michael Slater arrested",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-australia-58976768",
+        "content": "The former batsman was arrested in Sydney over an alleged domestic violence incident.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2193213,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "Australian ex-cricketer Michael Slater arrested",
+        "en_content": "The former batsman was arrested in Sydney over an alleged domestic violence incident.",
+        "concepts": [
+            {
+                "word": "ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cricketer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Michael",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Slater",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "House panel votes to hold ex-Trump aide in contempt",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58976196",
+        "content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2193358,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "House panel votes to hold ex-Trump aide in contempt",
+        "en_content": "Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot.",
+        "concepts": [
+            {
+                "word": "House",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "panel",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "votes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aide",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "North Korea claims new harder-to-track sub missile",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-58976195",
+        "content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2193506,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "North Korea claims new harder-to-track sub missile",
+        "en_content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "concepts": [
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Korea",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "track",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sub",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "missile",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Navy report blames ship fire on command chain",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58975431",
+        "content": "The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2193644,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "Navy report blames ship fire on command chain",
+        "en_content": "The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days.",
+        "concepts": [
+            {
+                "word": "Navy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ship",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "command",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chain",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Myanmar: 'I thought I wouldn't come out alive'",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/world-asia-58976296",
+        "content": "Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2193785,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "Myanmar: 'I thought I wouldn't come out alive'",
+        "en_content": "Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail.",
+        "concepts": [
+            {
+                "word": "Myanmar",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Transgender official sworn in as four-star admiral",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58974627",
+        "content": "Dr Rachel Levine is already the nation's most prominent openly transgender federal official.",
+        "placed": "Abroad",
+        "epoch": 1634706004.219386,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "Transgender official sworn in as four-star admiral",
+        "en_content": "Dr Rachel Levine is already the nation's most prominent openly transgender federal official.",
+        "concepts": [
+            {
+                "word": "Transgender",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "star",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "admiral",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "At least 46 killed in floods in Himalayan state",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/world-asia-india-58951456",
+        "content": "Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2194004,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "At least 46 killed in floods in Himalayan state",
+        "en_content": "Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand.",
+        "concepts": [
+            {
+                "word": "floods",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "state",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australian ex-cricketer Michael Slater arrested",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-australia-58976768",
+        "content": "The former batsman was arrested in Sydney over an alleged domestic violence incident.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2194142,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "Australian ex-cricketer Michael Slater arrested",
+        "en_content": "The former batsman was arrested in Sydney over an alleged domestic violence incident.",
+        "concepts": [
+            {
+                "word": "ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cricketer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Michael",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Slater",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "North Korea claims new harder-to-track sub missile",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-58976195",
+        "content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2194283,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "North Korea claims new harder-to-track sub missile",
+        "en_content": "Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired.",
+        "concepts": [
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Korea",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "track",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sub",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "missile",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Navy report blames ship fire on command chain",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58975431",
+        "content": "The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2194424,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "Navy report blames ship fire on command chain",
+        "en_content": "The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days.",
+        "concepts": [
+            {
+                "word": "Navy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ship",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "command",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chain",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Myanmar: 'I thought I wouldn't come out alive'",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-asia-58976296",
+        "content": "Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail.",
+        "placed": "Abroad",
+        "epoch": 1634706004.2194562,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T07.00.04E1634706004.2194695.json",
+        "en_title": "Myanmar: 'I thought I wouldn't come out alive'",
+        "en_content": "Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail.",
+        "concepts": [
+            {
+                "word": "Myanmar",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ]
+    }
+]

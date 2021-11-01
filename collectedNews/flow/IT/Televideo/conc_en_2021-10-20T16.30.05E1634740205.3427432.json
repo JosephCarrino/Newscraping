@@ -1,0 +1,120 @@
+[
+    {
+        "title": "DRAGHI:VACCINI DA NOI PIU'SPEDITI IN UE \"Curva epidemia ÃÂ¨ sotto controllo\"",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": "",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1634740205.3427002,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T16.30.05E1634740205.3427432.json",
+        "en_title": "Dragons: vaccines from us more shows to the EU \"curve epidemic is under control\"",
+        "concepts": [
+            {
+                "word": "Dragons",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "vaccines",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shows",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "curve",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "epidemic",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "control",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Consiglio Ue, il premier in Senato",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": "",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1634740205.3427088,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T16.30.05E1634740205.3427432.json",
+        "en_title": "EU Council, the Premier in the Senate",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Premier",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Senate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "C.DESTRA:COMPATTI PURE A ELEZIONE COLLE \"Come coalzione:no a proporzionale\"",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": "",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1634740205.3427157,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T16.30.05E1634740205.3427432.json",
+        "en_title": "C.destra: compact as well as election glues \"as a coaution: no to proportional\"",
+        "concepts": [
+            {
+                "word": "election",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "glues",
+                "meaning": "conj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "coaution",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

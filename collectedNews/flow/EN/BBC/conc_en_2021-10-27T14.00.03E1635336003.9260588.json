@@ -1,0 +1,492 @@
+[
+    {
+        "title": "Sunak unveils spending plans in Budget for 'new age'",
+        "date_raw": "2021-10-27",
+        "news_url": "https://www.bbc.com/news/live/uk-59035120",
+        "content": "The chancellor is announcing his plans in the Commons as he faces pressure to help people with rising prices.",
+        "placed": "Politics",
+        "epoch": 1635336003.9258223,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Sunak unveils spending plans in Budget for 'new age'",
+        "en_content": "The chancellor is announcing his plans in the Commons as he faces pressure to help people with rising prices.",
+        "concepts": [
+            {
+                "word": "Sunak",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Budget",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "age",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sunak unveils spending plans in Budget for 'new age'",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/live/uk-59035120",
+        "content": "The chancellor is announcing his plans in the Commons as he faces pressure to help people with rising prices.",
+        "placed": "Politics",
+        "epoch": 1635336003.9258497,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Sunak unveils spending plans in Budget for 'new age'",
+        "en_content": "The chancellor is announcing his plans in the Commons as he faces pressure to help people with rising prices.",
+        "concepts": [
+            {
+                "word": "Sunak",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Budget",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "age",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sunak promises Budget for new post-Covid economy",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59052997",
+        "content": "Chancellor Rishi Sunak is outlining further details of his spending plans to MPs in the Commons.",
+        "placed": "Politics",
+        "epoch": 1635336003.9258695,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Sunak promises Budget for new post-Covid economy",
+        "en_content": "Chancellor Rishi Sunak is outlining further details of his spending plans to MPs in the Commons.",
+        "concepts": [
+            {
+                "word": "Sunak",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Budget",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "economy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/business-59058235",
+        "content": "The Chancellor wants a \"new age\" of economic optimism, but the public have immediate challenges.",
+        "placed": "Politics",
+        "epoch": 1635336003.925886,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Political editor",
+        "en_content": "The Chancellor wants a \"new age\" of economic optimism, but the public have immediate challenges.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Will Sunak's plans calm cost of living concerns?",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59035823",
+        "content": "Rishi Sunak's statement isn't until Wednesday, but several pledges have been announced.",
+        "placed": "Politics",
+        "epoch": 1635336003.9259017,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Will Sunak's plans calm cost of living concerns?",
+        "en_content": "Rishi Sunak's statement isn't until Wednesday, but several pledges have been announced.",
+        "concepts": [
+            {
+                "word": "Sunak",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "cost",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "living",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "concerns",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Budget 2021: What has already been announced?",
+        "date_raw": "2021-10-27",
+        "news_url": "https://www.bbc.com/news/uk-politics-59052995",
+        "content": "The government says it will make utilities take action over waste dumped in rivers after pressure from peers.",
+        "placed": "Politics",
+        "epoch": 1635336003.9259167,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Budget 2021: What has already been announced?",
+        "en_content": "The government says it will make utilities take action over waste dumped in rivers after pressure from peers.",
+        "concepts": [
+            {
+                "word": "Budget",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "New legal duty over sewage as Lords forces issue",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-england-essex-59057762",
+        "content": "Cardinal Vincent Nichols will preside over the service on 23 November.",
+        "placed": "Politics",
+        "epoch": 1635336003.9259312,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "New legal duty over sewage as Lords forces issue",
+        "en_content": "Cardinal Vincent Nichols will preside over the service on 23 November.",
+        "concepts": [
+            {
+                "word": "duty",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sewage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lords",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "forces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Funeral date for Sir David Amess confirmed",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/live/uk-59035120",
+        "content": "The chancellor is announcing his plans in the Commons as he faces pressure to help people with rising prices.",
+        "placed": "Politics",
+        "epoch": 1635336003.9259458,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Funeral date for Sir David Amess confirmed",
+        "en_content": "The chancellor is announcing his plans in the Commons as he faces pressure to help people with rising prices.",
+        "concepts": [
+            {
+                "word": "Funeral",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "date",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sir",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "David",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Amess",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Sunak unveils spending plans in Budget for 'new age'",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59052997",
+        "content": "Chancellor Rishi Sunak is outlining further details of his spending plans to MPs in the Commons.",
+        "placed": "Politics",
+        "epoch": 1635336003.9259598,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Sunak unveils spending plans in Budget for 'new age'",
+        "en_content": "Chancellor Rishi Sunak is outlining further details of his spending plans to MPs in the Commons.",
+        "concepts": [
+            {
+                "word": "Sunak",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Budget",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "age",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sunak promises Budget for new post-Covid economy",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/business-59058235",
+        "content": "The Chancellor wants a \"new age\" of economic optimism, but the public have immediate challenges.",
+        "placed": "Politics",
+        "epoch": 1635336003.9259744,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Sunak promises Budget for new post-Covid economy",
+        "en_content": "The Chancellor wants a \"new age\" of economic optimism, but the public have immediate challenges.",
+        "concepts": [
+            {
+                "word": "Sunak",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Budget",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "economy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-27",
+        "news_url": "https://www.bbc.com/news/uk-politics-59035823",
+        "content": "Rishi Sunak's statement isn't until Wednesday, but several pledges have been announced.",
+        "placed": "Politics",
+        "epoch": 1635336003.925989,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Political editor",
+        "en_content": "Rishi Sunak's statement isn't until Wednesday, but several pledges have been announced.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Will Sunak's plans calm cost of living concerns?",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59052995",
+        "content": "The government says it will make utilities take action over waste dumped in rivers after pressure from peers.",
+        "placed": "Politics",
+        "epoch": 1635336003.9260035,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Will Sunak's plans calm cost of living concerns?",
+        "en_content": "The government says it will make utilities take action over waste dumped in rivers after pressure from peers.",
+        "concepts": [
+            {
+                "word": "Sunak",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "cost",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "living",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "concerns",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Budget 2021: What has already been announced?",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-england-essex-59057762",
+        "content": "Cardinal Vincent Nichols will preside over the service on 23 November.",
+        "placed": "Politics",
+        "epoch": 1635336003.9260178,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Budget 2021: What has already been announced?",
+        "en_content": "Cardinal Vincent Nichols will preside over the service on 23 November.",
+        "concepts": [
+            {
+                "word": "Budget",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "New legal duty over sewage as Lords forces issue",
+        "date_raw": "2021-10-26",
+        "news_url": "https://www.bbc.com/news/uk-politics-59052997",
+        "content": "Chancellor Rishi Sunak is outlining further details of his spending plans to MPs in the Commons.",
+        "placed": "Politics",
+        "epoch": 1635336003.9260323,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "New legal duty over sewage as Lords forces issue",
+        "en_content": "Chancellor Rishi Sunak is outlining further details of his spending plans to MPs in the Commons.",
+        "concepts": [
+            {
+                "word": "duty",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sewage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Lords",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "forces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Funeral date for Sir David Amess confirmed",
+        "date_raw": "2021-10-27",
+        "news_url": "https://www.bbc.com/news/business-59058235",
+        "content": "The Chancellor wants a \"new age\" of economic optimism, but the public have immediate challenges.",
+        "placed": "Politics",
+        "epoch": 1635336003.9260461,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-27T14.00.03E1635336003.9260588.json",
+        "en_title": "Funeral date for Sir David Amess confirmed",
+        "en_content": "The Chancellor wants a \"new age\" of economic optimism, but the public have immediate challenges.",
+        "concepts": [
+            {
+                "word": "Funeral",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "date",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sir",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "David",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Amess",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

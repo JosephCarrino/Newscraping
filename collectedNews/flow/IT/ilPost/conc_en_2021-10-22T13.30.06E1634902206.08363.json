@@ -1,0 +1,885 @@
+[
+    {
+        "title": "Le conseguenze di Brexit, finora",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/2021/10/22/impatto-brexit-economia-britannica/",
+        "content": " ÃÂ passato meno di un anno dall'uscita del Regno Unito dall'Unione Europea, e ne abbiamo visto soltanto un piccolo pezzo\t",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835795,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "The consequences of Brexit, so far",
+        "en_content": "It was lost less than a year from the United Kingdom exit from the European Union, and we only saw a small piece",
+        "concepts": [
+            {
+                "word": "consequences",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Brexit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Il Barbiere di Siviglia alla fine del 2021",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/2021/10/22/barbiere-di-siviglia-baricco-scala/",
+        "content": " Una sera alla Scala passando da una manifestazione anti Green pass\t",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835822,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "The Barber of Seville at the end of 2021",
+        "en_content": "One evening at the ladder passing from an anti green pass man",
+        "concepts": [
+            {
+                "word": "Barber",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Seville",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "end",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Cosa si intende per cucina italiana?",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/?blog_post=dobbiamo-metterci-daccordo-su-cosa-si-intende-per-cucina-italiana",
+        "content": " Un'intervista ad Alberto Grandi che insegna Storia delle imprese e Storia dellÃ¢ÂÂintegrazione europea allÃ¢ÂÂUniversitÃÂ  di Parma [Continua]",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1634902206.083583,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "What is meant by Italian cuisine?",
+        "en_content": "An interview with Alberto Grandi who teaches the history of businesses and history of European integration to the University of Parma [continue]",
+        "concepts": [
+            {
+                "word": "cuisine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le linea telefonica contro la violenza sulle donne, dove a chiamare sono gli uomini",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/2021/10/22/linea-telefonica-violenza-donne-bogota/",
+        "content": " ÃÂ stata attivata lo scorso anno a BogotÃÂ , in Colombia, su iniziativa della sindaca Claudia LÃÂ³pez, e sembra funzionare abbastanza bene\t",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1634902206.083584,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "The telephone line against violence against women, where to call are men",
+        "en_content": "Was activated last year in BogotÃ£, Colombia, on the initiative of the mayor Claudia LÃÂ³pez, and seems to work quite well",
+        "concepts": [
+            {
+                "word": "telephone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "line",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "violence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "women",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "men",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "LÃ¢ÂÂimportanza dei riti, e dei ghiri, per la Ã¢ÂÂndrangheta",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/2021/10/22/ndrangheta-ghiri-riti-tradizioni/",
+        "content": " Le iniziazioni sono seguite da grandi mangiate di roditori, in una delle tante tradizioni bizzarre ma centrali dell'organizzazione\t",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1634902206.083585,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "The importance of rituals, and ghiri, for the Ã¢ â¬ Åndrangheta",
+        "en_content": "The initiations are followed by large eaten by rodents, in one of the many bizarre but powerful traditions of the organization",
+        "concepts": [
+            {
+                "word": "importance",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rituals",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ghiri",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Ã¢",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "â¬",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Åndrangheta",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Come si trasforma un manoscritto in un libro",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/come-si-trasforma-un-manoscritto-in-un-libro-belleville/",
+        "content": " Il corso Ã¢ÂÂI mestieri del libroÃ¢ÂÂ spiegato dai docenti ",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1634902206.083586,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "How to transform a manuscript into a book",
+        "en_content": "The course Ã¢ â¬ ÅI book crafts explained by the teachers",
+        "concepts": [
+            {
+                "word": "manuscript",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "book",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Restare lucidi, sul cambiamento climatico",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/2021/10/22/medusa-cambiamento-climatico-libro/",
+        "content": " Non ÃÂ¨ facile, dicono gli autori della newsletter \"Medusa\" nel loro primo libro, ma la storia della scienza aiuta\t",
+        "ranked": 7,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835876,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "Stay shiny, on climate change",
+        "en_content": "It's not easy, the authors of the \"Medusa\" newsletter say in their first book, but the history of science helps",
+        "concepts": [
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Illazione",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/?blog_post=illazione",
+        "content": "Chi fa unÃ¢ÂÂillazione, piÃÂ¹ che formulare unÃ¢ÂÂipotesi o fare una supposizione, trae piuttosto, da quel ragionamento o argomento, conseguenze ingiustificate, indebite o affrettate [Continua]",
+        "ranked": 8,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835884,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "Inference",
+        "en_content": "Those who make a ulteration, more than formulating a hypothesis or a guess, draws rather, from that reasoning or argument, unjustified consequences, undue or hasty [continue]",
+        "concepts": [
+            {
+                "word": "Inference",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Sulla Polonia si ÃÂ¨ deciso di non decidere",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/2021/10/22/polonia-consiglio-europeo/",
+        "content": " Dopo la controversa sentenza della Corte Costituzionale polacca, i leader europei hanno scartato le opzioni piÃÂ¹ dure, come la sospensione di altri fondi comunitari\t",
+        "ranked": 9,
+        "placed": "First_Page",
+        "epoch": 1634902206.083589,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "On Poland it was decided not to decide",
+        "en_content": "After the controversial sentence of the Polish Constitutional Court, European leaders have discarded the hardest options, such as the suspension of other Community funds",
+        "concepts": [
+            {
+                "word": "Poland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Alec Baldwin ha sparato con unÃ¢ÂÂarma di scena su un set e ha ucciso una donna",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/2021/10/22/alec-baldwin-sparatoria-film-rust/",
+        "content": " Non si sa ancora cosa sia successo di preciso, ma la direttrice della fotografia del film che stava girando ÃÂ¨ morta\t",
+        "ranked": 10,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835898,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "Alec Baldwin shot with a weapon on a set and killed a woman",
+        "en_content": "You don't know what exactly happened, but the director of photography of the film that was turning is dead",
+        "concepts": [
+            {
+                "word": "Alec",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "weapon",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "set",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "woman",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Come i bambini rifugiati al confine con la Siria vedono ciÃÂ² che li circonda",
+        "date_raw": "October 14, 2021",
+        "date": "2021-10-14",
+        "news_url": "https://www.ilpost.it/2021/10/14/sirkhane-darkroom-i-saw-the-air-fly/",
+        "content": null,
+        "ranked": 11,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835907,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "Like refugee children on the border with Syria see what surrounds them",
+        "concepts": [
+            {
+                "word": "refugee",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "children",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "border",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Syria",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Come ha fatto la Roma a perdere 6 a 1 contro una squadra norvegese",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/2021/10/22/roma-bodo-glimt-conference-league/",
+        "content": " Ieri in un piccolo e freddo stadio oltre il circolo polare artico ÃÂ¨ stata sbaragliata dal BodÃÂ¸/Glimt, alla sua prima fase a gironi europea\t",
+        "ranked": 12,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835915,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "How did Roma lose 6 to 1 against a Norwegian team",
+        "en_content": "Yesterday in a small and cold stadium beyond the Arctic Polar Circle it was bassed by the BodÃÂ¸ / GLIMT, to its first European group stage",
+        "concepts": [
+            {
+                "word": "Roma",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "team",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La complicata e confusa storia dellÃ¢ÂÂuccisione di una pallavolista da parte dei talebani",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/uccisione-pallavolista-talebani/",
+        "content": " ÃÂ stata ripresa da giornali e politici italiani, ma nelle ultime ore sono emersi diversi dubbi sulla versione dei fatti piÃÂ¹ diffusa\t",
+        "ranked": 13,
+        "placed": "First_Page",
+        "epoch": 1634902206.083592,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "The complicated and confused history of the killing of a volleyball player by the Taliban",
+        "en_content": "It was taken up by Italian newspapers and politicians, but in the last hours several doubts emerged on the version of the most widespread facts",
+        "concepts": [
+            {
+                "word": "history",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "killing",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "volleyball",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "player",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le prove comuni in una classe della Sicilia orientale",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/?blog_post=le-prove-comuni-in-una-classe-della-sicilia-orientale-quando-e-ottobre",
+        "content": "Le caldarroste, per esempio, sono una grande fonte di distrazione [Continua]",
+        "ranked": 14,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835924,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "Common tests in a class of eastern Sicily",
+        "en_content": "Caldarroste, for example, are a great source of distraction [continue]",
+        "concepts": [
+            {
+                "word": "tests",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "class",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sicily",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Il mondo del bridge contro un italiano",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/bridge-imbrogli-boicottaggio-fantoni/",
+        "content": " Fulvio Fantoni fu squalificato quando era il piÃÂ¹ forte, con l'accusa di avere imbrogliato: poi ÃÂ¨ stato riammesso, ma i suoi avversari internazionali lo stanno boicottando\t",
+        "ranked": 15,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835931,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "The world of Bridge against an Italian",
+        "en_content": "Fulvio Fantoni was disqualified when it was the strongest, on charges of having cheated: Then he was readmitted, but his international opponents are boycotting him",
+        "concepts": [
+            {
+                "word": "world",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Bridge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Anche Facebook pagherÃÂ  i diritti ai giornali francesi",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/2021/10/22/facebook-diritti-giornali-francia-accordo/",
+        "content": " ÃÂ il secondo importante accordo sul copyright raggiunto dalla stampa francese, dopo quello dello scorso gennaio con Google\t",
+        "ranked": 16,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835938,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "Also Facebook will pay the rights to French newspapers",
+        "en_content": "It is the second important copyright agreement reached by the French press, after last January with Google",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rights",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "newspapers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La Russia non si fida del suo vaccino",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/russia-sfiducia-vaccino-sputnik-v/",
+        "content": " Solo un terzo della popolazione ÃÂ¨ completamente vaccinato con Sputnik V, mentre nuovi casi e decessi continuano ad aumentare\t",
+        "ranked": 17,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835946,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "Russia does not trust its vaccine",
+        "en_content": "Only one third of the population is completely vaccinated with SPUTNIK V, while new cases and deaths continue to increase",
+        "concepts": [
+            {
+                "word": "Russia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "La volta che la svastica e la Union Jack sventolarono insieme nel Regno Unito",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/union-jack-svastica-foto/",
+        "content": " Successe a Nottingham nel 1936, e sembra sia stata l'unica volta che le due bandiere furono issate assieme su un edificio britannico\t",
+        "ranked": 18,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835955,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "The time the swastika and Union Jack waved together in the United Kingdom",
+        "en_content": "It happened to Nottingham in 1936, and it seems to have been the only time the two flags were hoisted together on a British building",
+        "concepts": [
+            {
+                "word": "time",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "swastika",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Union",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jack",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "United",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kingdom",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Un modo per rendersi utili anche da morti",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/donare-corpo-scienza-italia/",
+        "content": " ÃÂ quasi pronto il regolamento per la nuova legge che rende possibile donare il proprio corpo alla scienza dopo la morte, per aiutare la formazione dei medici e la ricerca\t",
+        "ranked": 19,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835965,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "A way to make themselves useful even by dead",
+        "en_content": "The regulation for the new law that makes it possible to donate their body to science after death, to help training of doctors and research",
+        "concepts": [
+            {
+                "word": "way",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Miss Francia fa discriminazione sul lavoro?",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/miss-francia-dibattito-femminista/",
+        "content": " L'evento ÃÂ¨ giudicato da tempo sessista e retrogrado, e secondo un gruppo femminista francese non rispetta i diritti delle concorrenti che vi partecipano\t",
+        "ranked": 20,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835977,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "Miss France does discrimination at work?",
+        "en_content": "The event is judged for sexist and retrograde, and according to a French feminist group does not respect the rights of the competitors who participate in it",
+        "concepts": [
+            {
+                "word": "Miss",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "discrimination",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "work",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "DanielÃ¢ÂÂ lo scrittore senza nome",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.ilpost.it/?blog_post=daniel-lo-scrittore-senza-nome",
+        "content": "La drammatica vicenda dello scrittore russo dissidente Julij Markovic DanielÃ¢ÂÂ [Continua]",
+        "ranked": 21,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835984,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "DanielÃ¢ â¬ â¢ the writer without a name",
+        "en_content": "The dramatic story of the Russian writer dissident Julij Markovic DanielÃ¢ â¬ â¢ [continue]",
+        "concepts": [
+            {
+                "word": "DanielÃ¢",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "â¬",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "writer",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "name",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "LÃ¢ÂÂultima gara in Italia di Valentino Rossi",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/ultima-gara-italia-valentino-rossi-misano-motogp/",
+        "content": " Domenica a Misano Adriatico il piÃÂ¹ grande pilota della sua generazione inizia a congedarsi dal Motomondiale davanti al pubblico di casa\t",
+        "ranked": 22,
+        "placed": "First_Page",
+        "epoch": 1634902206.0835993,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "The last race in Italy of Valentino Rossi",
+        "en_content": "Sunday in Misano Adriatico the largest pilot of his generation begins to leave from the World Championship in front of the public house",
+        "concepts": [
+            {
+                "word": "race",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Valentino",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rossi",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "I dati della settimana su coronavirus e vaccinazioni in Italia",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/coronavirus-vaccini-dati-settimana-20-ottobre/",
+        "content": " Sono aumentati notevolmente i tamponi dopo l'obbligo del Green Pass, mentre i dati di contagi, ricoveri e morti sono rimasti stabili\t",
+        "ranked": 23,
+        "placed": "First_Page",
+        "epoch": 1634902206.0836,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "The data of the week on Coronavirus and vaccinations in Italy",
+        "en_content": "The swabs have significantly increased after the Green Pass requirement, while the information of contagion, shelters and deaths have remained stable",
+        "concepts": [
+            {
+                "word": "data",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "week",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Coronavirus",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "vaccinations",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Il governo discute di come cambiare le pensioni",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/riforma-pensioni-quota-102-legge-di-bilancio/",
+        "content": " A gennaio scadrÃÂ  \"Quota 100\", e i partiti vogliono evitare che si torni immediatamente alla legge Fornero\t",
+        "ranked": 24,
+        "placed": "First_Page",
+        "epoch": 1634902206.083601,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "The government discusses how to change pensions",
+        "en_content": "In January, \"Quota 100\", and the parties want to prevent us from returning to Law Fornero immediately",
+        "concepts": [
+            {
+                "word": "government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "pensions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Lo Sri Lanka vorrebbe passare allÃ¢ÂÂagricoltura biologica, ma ÃÂ¨ complicato",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/sri-lanka-agricoltura-biologica/",
+        "content": " ÃÂ iniziata una crisi alimentare, e il governo si ÃÂ¨ rimangiato alcune importanti decisioni prese negli ultimi mesi\t",
+        "ranked": 25,
+        "placed": "First_Page",
+        "epoch": 1634902206.083602,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "Sri Lanka would like to go through organic farming, but it is complicated",
+        "en_content": "A food crisis has begun, and the government has remained some important decisions taken in recent months",
+        "concepts": [
+            {
+                "word": "Sri",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lanka",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "farming",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Trump ha annunciato la sua nuova piattaforma, TRUTH Social",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.ilpost.it/2021/10/21/donald-trump-social-truth/",
+        "content": " ArriverÃÂ  nel 2022: l'ex presidente statunitense ha detto di averla creata ÃÂ«per opporsi alla tirannia delle societÃÂ  Big TechÃÂ»\t",
+        "ranked": 26,
+        "placed": "First_Page",
+        "epoch": 1634902206.0836027,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "Trump announced its new platform, Truth Social",
+        "en_content": "It will arrive in 2022: the former US President said he created her Â«to oppose the tyranny of the big tech companyÂ»",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "platform",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Truth",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Social",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "La situazione dei tamponi nelle farmacie",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.ilpost.it/2021/10/20/tamponi-farmacie-green-pass/",
+        "content": " Sembra sotto controllo, nonostante le code, ma ci sono conseguenze per chi deve comprare medicine o fare un test per motivi diversi dal Green Pass\t",
+        "ranked": 27,
+        "placed": "First_Page",
+        "epoch": 1634902206.0836034,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-22T13.30.06E1634902206.08363.json",
+        "en_title": "The situation of pads in pharmacies",
+        "en_content": "It seems under control, despite the queues, but there are consequences for those who have to buy medicines or take a test for reasons other than the Green Pass",
+        "concepts": [
+            {
+                "word": "situation",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pads",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "pharmacies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

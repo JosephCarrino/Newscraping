@@ -6,25 +6,39 @@
         "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
         "content": "",
         "ranked": "0",
-        "epoch": 1634562797.1706583,
+        "epoch": 1634677219.6190214,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-09-20.json",
-        "en_title": "Federal Finance Minister Scholz speaks about anti-money laundering unit in the finance committee",
-        "en_content": "",
+        "filename": "conc_en_2021-09-20.json",
+        "en_title": "Federal Finance Minister Scholz is in the financial committee over anti-money laundry unit",
         "concepts": [
+            {
+                "word": "Federal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Finance",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Minister",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
             {
                 "word": "Scholz",
                 "meaning": "nsubj",
-                "pos": "VERB"
+                "pos": "AUX"
             },
             {
-                "word": "unit",
+                "word": "committee",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
-                "word": "committee",
+                "word": "unit",
                 "meaning": "pobj",
                 "pos": "ADP"
             }
@@ -37,12 +51,11 @@
         "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
         "content": "",
         "ranked": "1",
-        "epoch": 1634562797.170682,
+        "epoch": 1634677219.619045,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-09-20.json",
-        "en_title": "Surveys also see Scholz ahead in the last triall before the election",
-        "en_content": "",
+        "filename": "conc_en_2021-09-20.json",
+        "en_title": "Surveys see Scholz in the last triple before the election",
         "concepts": [
             {
                 "word": "Surveys",
@@ -53,11 +66,6 @@
                 "word": "Scholz",
                 "meaning": "dobj",
                 "pos": "VERB"
-            },
-            {
-                "word": "triall",
-                "meaning": "pobj",
-                "pos": "ADP"
             },
             {
                 "word": "election",
@@ -73,12 +81,11 @@
         "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
         "content": "",
         "ranked": "2",
-        "epoch": 1634562797.1706984,
+        "epoch": 1634677219.6190596,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-09-20.json",
-        "en_title": "From November fully vaccinated foreigners will be allowed to re-enter the USA",
-        "en_content": "",
+        "filename": "conc_en_2021-09-20.json",
+        "en_title": "From November, completely vaccinated foreigners arrive back to the USA",
         "concepts": [
             {
                 "word": "November",
@@ -86,9 +93,14 @@
                 "pos": "ADP"
             },
             {
-                "word": "USA",
-                "meaning": "dobj",
+                "word": "foreigners",
+                "meaning": "nsubj",
                 "pos": "VERB"
+            },
+            {
+                "word": "USA",
+                "meaning": "pobj",
+                "pos": "ADP"
             }
         ]
     },
@@ -99,17 +111,26 @@
         "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
         "content": "",
         "ranked": "3",
-        "epoch": 1634562797.170714,
+        "epoch": 1634677219.619072,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-09-20.json",
+        "filename": "conc_en_2021-09-20.json",
         "en_title": "Putin's party defends two-thirds majority in parliamentary elections in Russia",
-        "en_content": "",
         "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
             {
                 "word": "party",
                 "meaning": "nsubj",
                 "pos": "VERB"
+            },
+            {
+                "word": "thirds",
+                "meaning": "compound",
+                "pos": "NOUN"
             },
             {
                 "word": "majority",
@@ -135,20 +156,24 @@
         "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
         "content": "",
         "ranked": "4",
-        "epoch": 1634562797.1707273,
+        "epoch": 1634677219.6190834,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-09-20.json",
-        "en_title": "Dead after shooting at Perm University in Russia",
-        "en_content": "",
+        "filename": "conc_en_2021-09-20.json",
+        "en_title": "Dead after shooting at the university in the Russian Perm",
         "concepts": [
             {
-                "word": "University",
+                "word": "university",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
-                "word": "Russia",
+                "word": "Russian",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Perm",
                 "meaning": "pobj",
                 "pos": "ADP"
             }
@@ -161,27 +186,26 @@
         "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
         "content": "",
         "ranked": "5",
-        "epoch": 1634562797.1707401,
+        "epoch": 1634677219.6190958,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-09-20.json",
-        "en_title": "Investigation against Weidel suspended for possible violation of political party law",
-        "en_content": "",
+        "filename": "conc_en_2021-09-20.json",
+        "en_title": "Investigations against Weithel for possible unchecked against party law",
         "concepts": [
             {
-                "word": "Investigation",
-                "meaning": "nsubj",
-                "pos": "VERB"
+                "word": "Investigations",
+                "meaning": "ROOT",
+                "pos": "NOUN"
             },
             {
-                "word": "Weidel",
+                "word": "Weithel",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
-                "word": "violation",
-                "meaning": "pobj",
-                "pos": "ADP"
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
             },
             {
                 "word": "law",
@@ -197,25 +221,39 @@
         "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
         "content": "",
         "ranked": "6",
-        "epoch": 1634562797.1707528,
+        "epoch": 1634677219.6191072,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-09-20.json",
-        "en_title": "German Bishops' Conference wants to advance reforms at the autumn plenary assembly",
-        "en_content": "",
+        "filename": "conc_en_2021-09-20.json",
+        "en_title": "German Bishops Conference wants to forward reform on autumn fence",
         "concepts": [
+            {
+                "word": "German",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bishops",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
             {
                 "word": "Conference",
                 "meaning": "nsubj",
                 "pos": "VERB"
             },
             {
-                "word": "reforms",
+                "word": "reform",
                 "meaning": "dobj",
                 "pos": "VERB"
             },
             {
-                "word": "assembly",
+                "word": "autumn",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fence",
                 "meaning": "pobj",
                 "pos": "ADP"
             }
@@ -228,13 +266,22 @@
         "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
         "content": "",
         "ranked": "7",
-        "epoch": 1634562797.1707647,
+        "epoch": 1634677219.619118,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-09-20.json",
-        "en_title": "German stock index DAX expanded",
-        "en_content": "",
+        "filename": "conc_en_2021-09-20.json",
+        "en_title": "German stock index DAX expands",
         "concepts": [
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "index",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
             {
                 "word": "DAX",
                 "meaning": "nsubj",
@@ -249,17 +296,26 @@
         "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
         "content": "",
         "ranked": "8",
-        "epoch": 1634562797.1707766,
+        "epoch": 1634677219.6191285,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-09-20.json",
-        "en_title": "After the volcanic eruption on La Palma, thousands of people had to be brought to safety",
-        "en_content": "",
+        "filename": "conc_en_2021-09-20.json",
+        "en_title": "After vulcan eruption on La Palma, thousands of people had to be safely brought",
         "concepts": [
+            {
+                "word": "vulcan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
             {
                 "word": "eruption",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "La",
+                "meaning": "compound",
+                "pos": "PROPN"
             },
             {
                 "word": "Palma",
@@ -275,11 +331,6 @@
                 "word": "people",
                 "meaning": "pobj",
                 "pos": "ADP"
-            },
-            {
-                "word": "safety",
-                "meaning": "pobj",
-                "pos": "ADP"
             }
         ]
     },
@@ -290,12 +341,17 @@
         "news_url": "https://www.tagesschau.de/multimedia/sendung/ts-44917.html",
         "content": "",
         "ranked": "9",
-        "epoch": 1634562797.1707885,
+        "epoch": 1634677219.6191394,
         "language": "de",
         "source": "Tagesschau",
-        "filename": "en_2021-09-20.json",
+        "filename": "conc_en_2021-09-20.json",
         "en_title": "The weather",
-        "en_content": "",
-        "concepts": []
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
     }
 ]

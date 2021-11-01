@@ -1,0 +1,627 @@
+[
+    {
+        "title": "Biden says US will defend Taiwan if China attacks",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-asia-59005300",
+        "content": "His comments are an apparent departure from the long-held US policy of \"strategic ambiguity\".",
+        "placed": "First_Page",
+        "epoch": 1634882408.0955622,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Biden says US will defend Taiwan if China attacks",
+        "en_content": "His comments are an apparent departure from the long-held US policy of \"strategic ambiguity\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden says US will defend Taiwan if China attacks",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-asia-59005300",
+        "content": "His comments are an apparent departure from the long-held US policy of \"strategic ambiguity\".",
+        "placed": "First_Page",
+        "epoch": 1634882408.095596,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Biden says US will defend Taiwan if China attacks",
+        "en_content": "His comments are an apparent departure from the long-held US policy of \"strategic ambiguity\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Alec Baldwin fatally shoots woman with prop gun",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59005500",
+        "content": "A man is also being treated in hospital after the firearm was discharged on set in New Mexico.",
+        "placed": "First_Page",
+        "epoch": 1634882408.0956151,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Alec Baldwin fatally shoots woman with prop gun",
+        "en_content": "A man is also being treated in hospital after the firearm was discharged on set in New Mexico.",
+        "concepts": [
+            {
+                "word": "Alec",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "woman",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "prop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gun",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59004831",
+        "content": "A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death.",
+        "placed": "First_Page",
+        "epoch": 1634882408.0956333,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "en_content": "A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ã¢ÂÂtouristsÃ¢ÂÂ",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "break",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "FiancÃÂ© wanted in US blogger's murder is found dead",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/uk-59004426",
+        "content": "She is \"in good spirits\" after a one-night stay for preliminary medical checks, Buckingham Palace says.",
+        "placed": "First_Page",
+        "epoch": 1634882408.095649,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "FiancÃÂ© wanted in US blogger's murder is found dead",
+        "en_content": "She is \"in good spirits\" after a one-night stay for preliminary medical checks, Buckingham Palace says.",
+        "concepts": [
+            {
+                "word": "FiancÃÂ",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "©",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "blogger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Queen back at Windsor after hospital stay",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-africa-59005006",
+        "content": "Najin, 32, has been part of a programme in Kenya trying to save her species from extinction.",
+        "placed": "First_Page",
+        "epoch": 1634882408.095664,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Queen back at Windsor after hospital stay",
+        "en_content": "Najin, 32, has been part of a programme in Kenya trying to save her species from extinction.",
+        "concepts": [
+            {
+                "word": "Queen",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Windsor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hospital",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stay",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Northern white rhino retired from breeding scheme",
+        "date_raw": "",
+        "news_url": "https://www.bbc.com/news/world-europe-59003677",
+        "content": "Scientists will look at the viscosity of the red-hot lava from the ongoing Cumbre Vieja eruption.",
+        "placed": "First_Page",
+        "epoch": 1634882408.0956755,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Northern white rhino retired from breeding scheme",
+        "en_content": "Scientists will look at the viscosity of the red-hot lava from the ongoing Cumbre Vieja eruption.",
+        "concepts": [
+            {
+                "word": "rhino",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "scheme",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Spanish scientists study La Palma lava samples",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/science-environment-59004088",
+        "content": "Countries will argue over a response and the poorest will suffer most, US intelligence says.",
+        "placed": "First_Page",
+        "epoch": 1634882408.0956905,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Spanish scientists study La Palma lava samples",
+        "en_content": "Countries will argue over a response and the poorest will suffer most, US intelligence says.",
+        "concepts": [
+            {
+                "word": "scientists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "La",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Palma",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lava",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "samples",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Climate change will bring global tension - US spies",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/health-58973697",
+        "content": "The global health body says healthcare workers should be prioritised for vaccination.",
+        "placed": "First_Page",
+        "epoch": 1634882408.095705,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Climate change will bring global tension - US spies",
+        "en_content": "The global health body says healthcare workers should be prioritised for vaccination.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tension",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spies",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Covid may have killed 180k health workers - WHO",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59004409",
+        "content": "Only nine Republicans in the chamber voted to hold Steve Bannon in contempt.",
+        "placed": "First_Page",
+        "epoch": 1634882408.09572,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Covid may have killed 180k health workers - WHO",
+        "en_content": "Only nine Republicans in the chamber voted to hold Steve Bannon in contempt.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "health",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "workers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "House backs contempt charge for ex-Trump adviser",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/business-58991340",
+        "content": "Shares opened up 6% after reports the Chinese property giant made a payment before a crucial deadline.",
+        "placed": "First_Page",
+        "epoch": 1634882408.0957341,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "House backs contempt charge for ex-Trump adviser",
+        "en_content": "Shares opened up 6% after reports the Chinese property giant made a payment before a crucial deadline.",
+        "concepts": [
+            {
+                "word": "House",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "charge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "adviser",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Evergrande shares up on report of interest payment",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59004409",
+        "content": "Only nine Republicans in the chamber voted to hold Steve Bannon in contempt.",
+        "placed": "First_Page",
+        "epoch": 1634882408.0957549,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Evergrande shares up on report of interest payment",
+        "en_content": "Only nine Republicans in the chamber voted to hold Steve Bannon in contempt.",
+        "concepts": [
+            {
+                "word": "shares",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "interest",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "payment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "House backs contempt charge for ex-Trump adviser",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/business-58991340",
+        "content": "Shares opened up 6% after reports the Chinese property giant made a payment before a crucial deadline.",
+        "placed": "First_Page",
+        "epoch": 1634882408.0957687,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "House backs contempt charge for ex-Trump adviser",
+        "en_content": "Shares opened up 6% after reports the Chinese property giant made a payment before a crucial deadline.",
+        "concepts": [
+            {
+                "word": "House",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "charge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "adviser",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Evergrande shares up on report of interest payment",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59004529",
+        "content": "The Supreme Court rules in favour of a woman who was injured climbing a snowbank in British Columbia.",
+        "placed": "First_Page",
+        "epoch": 1634882408.095782,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Evergrande shares up on report of interest payment",
+        "en_content": "The Supreme Court rules in favour of a woman who was injured climbing a snowbank in British Columbia.",
+        "concepts": [
+            {
+                "word": "shares",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "interest",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "payment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Canadians hurt slipping in snow can now sue cities",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/uk-59003085",
+        "content": "Government advisers express \"deep concern\" at planned reductions in aid spending before COP26.",
+        "placed": "First_Page",
+        "epoch": 1634882408.0957956,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Canadians hurt slipping in snow can now sue cities",
+        "en_content": "Government advisers express \"deep concern\" at planned reductions in aid spending before COP26.",
+        "concepts": [
+            {
+                "word": "Canadians",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "snow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cities",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK PM warned over aid cuts ahead of climate summit",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-australia-58998418",
+        "content": "Australia's second largest city has seen over 260 days under restrictions in the pandemic so far.",
+        "placed": "First_Page",
+        "epoch": 1634882408.0958095,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "UK PM warned over aid cuts ahead of climate summit",
+        "en_content": "Australia's second largest city has seen over 260 days under restrictions in the pandemic so far.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "aid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cuts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia city lockdowns end as Melbourne reopens",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/business-58769351",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1634882408.095823,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "Australia city lockdowns end as Melbourne reopens",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "city",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "end",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Melbourne",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "How adjusting flight plans can help the climate",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/science-environment-58982445",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1634882408.0958369,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T08.00.08E1634882408.0958493.json",
+        "en_title": "How adjusting flight plans can help the climate",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "flight",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

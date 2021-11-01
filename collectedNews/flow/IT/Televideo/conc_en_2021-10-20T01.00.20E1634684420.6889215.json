@@ -1,0 +1,135 @@
+[
+    {
+        "title": "WHIRLPOOL,TAVOLO MISE.SIT-IN LAVORATORI Nuovo round su licenziamenti Napoli",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": "",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1634684420.688894,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T01.00.20E1634684420.6889215.json",
+        "en_title": "Whirlpool, table mise.sit-in new round workers on redundancies Naples",
+        "concepts": [
+            {
+                "word": "Whirlpool",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "table",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mise.sit",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "workers",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "redundancies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Naples",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "RICICLO CARTA, ITALIA 15 ANNI AVANTI UE E giÃÂ  oltre soglia fissata di 85%",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": "",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1634684420.6889033,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T01.00.20E1634684420.6889215.json",
+        "en_title": "Recycling card, Italy 15 years ahead EU and already over 85% fixed threshold",
+        "concepts": [
+            {
+                "word": "Recycling",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "card",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Italy",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "EU",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "%",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threshold",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Nota su indici di Borsa Televideo",
+        "date_raw": "October 20, 2021",
+        "date": "2021-10-20",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": "",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1634684420.6889105,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-20T01.00.20E1634684420.6889215.json",
+        "en_title": "Note on Teletext stock exchange indexes",
+        "concepts": [
+            {
+                "word": "Teletext",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indexes",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

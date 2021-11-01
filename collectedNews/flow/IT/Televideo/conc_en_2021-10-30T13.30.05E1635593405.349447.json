@@ -1,0 +1,314 @@
+[
+    {
+        "title": "DRAGHI: \"NESSUNO PUO' FARE DA SOLO\"   \"Stiamo costruendo un nuovo modello\"   Il premier apre il vertice G20 a Roma  \"Vaccini, basta disparitÃÂ  Paesi poveri\" Medici e infermieri in foto summit",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635593405.3493862,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T13.30.05E1635593405.349447.json",
+        "en_title": "Dragons: \"No one can do it alone\" \"We are building a new model\" The Premier opens the G20 summit in Rome \"Vaccini, just disparity poor countries\" doctors and nurses in the photo Summit",
+        "concepts": [
+            {
+                "word": "Dragons",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "one",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "model",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Premier",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "G20",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Rome",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Vaccini",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "disparity",
+                "meaning": "advcl",
+                "pos": "VERB"
+            },
+            {
+                "word": "countries",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "doctors",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nurses",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "photo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MALTEMPO,IN SICILIA RESTA ALLERTA ROSSA Musumeci: state a casa se possibile",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635593405.3493967,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T13.30.05E1635593405.349447.json",
+        "en_title": "Bad weather, in Sicily remains red alert Musumeci: stay at home if possible",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sicily",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "alert",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Musumeci",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "home",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "ISS: RISCHI RECRUDESCENZA EPIDEMICA",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635593405.3494048,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T13.30.05E1635593405.349447.json",
+        "en_title": "ISS: Epidemic Recrudescence Risks",
+        "concepts": [
+            {
+                "word": "ISS",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Epidemic",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Recrudescence",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Risks",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "ASSALTO A CGIL E SCONTRI,ALTRE 6 MISURE A militanti FN, anche capo veronese",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1635593405.3494124,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T13.30.05E1635593405.349447.json",
+        "en_title": "Assault on CGIL and clashes, 6 other measures to militants FN, also Capo Veronese",
+        "concepts": [
+            {
+                "word": "Assault",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "CGIL",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "clashes",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "measures",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "militants",
+                "meaning": "relcl",
+                "pos": "NOUN"
+            },
+            {
+                "word": "FN",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Capo",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Veronese",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "ATALANTA-LAZIO PRIMO MATCH DEL SABATO  La Juve a Verona, stasera Toro-Samp",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1635593405.34942,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T13.30.05E1635593405.349447.json",
+        "en_title": "Atalanta-Lazio First match on Saturday Juve in Verona, Toro-Samp tonight",
+        "concepts": [
+            {
+                "word": "Atalanta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lazio",
+                "meaning": "compound",
+                "pos": "ADJ"
+            },
+            {
+                "word": "match",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Saturday",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Juve",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Verona",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Toro",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Samp",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "tonight",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Stanotte lancette un'ora indietro",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635593405.3494284,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T13.30.05E1635593405.349447.json",
+        "en_title": "Tonight hands an hour back",
+        "concepts": [
+            {
+                "word": "Tonight",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "hour",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

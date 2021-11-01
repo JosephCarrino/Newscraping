@@ -1,0 +1,607 @@
+[
+    {
+        "title": "Baldwin 'heartbroken' over fatal film set shooting",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59015889",
+        "content": "Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9596605,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Baldwin 'heartbroken' over fatal film set shooting",
+        "en_content": "Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "film",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "set",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shooting",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Baldwin 'heartbroken' over fatal film set shooting",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59015889",
+        "content": "Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9596875,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Baldwin 'heartbroken' over fatal film set shooting",
+        "en_content": "Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "film",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "set",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shooting",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "What are prop guns and why are they dangerous?",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59006905",
+        "content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "placed": "Abroad",
+        "epoch": 1634925603.959712,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "What are prop guns and why are they dangerous?",
+        "en_content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "concepts": [
+            {
+                "word": "prop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guns",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Protesting Eswatini nurses refuse to treat police",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-africa-59011033",
+        "content": "The health workers say security forces injured 30 colleagues when they opened fire at a protest.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9597297,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Protesting Eswatini nurses refuse to treat police",
+        "en_content": "The health workers say security forces injured 30 colleagues when they opened fire at a protest.",
+        "concepts": [
+            {
+                "word": "Eswatini",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nurses",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "police",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-58952867",
+        "content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9597452,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "en_content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ã¢ÂÂtouristsÃ¢ÂÂ",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "break",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Students sue Texas school district for hair policy",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59013608",
+        "content": "Students were suspended and barred from school activities for wearing long hair, the lawsuit says.",
+        "placed": "Abroad",
+        "epoch": 1634925603.959766,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Students sue Texas school district for hair policy",
+        "en_content": "Students were suspended and barred from school activities for wearing long hair, the lawsuit says.",
+        "concepts": [
+            {
+                "word": "Students",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Texas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "district",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hair",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "policy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ohio mocked over wrong Wright brothers plates",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59008039",
+        "content": "The commemorative plate depicted a banner mistakenly attached to the front end of the historic plane.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9597816,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Ohio mocked over wrong Wright brothers plates",
+        "en_content": "The commemorative plate depicted a banner mistakenly attached to the front end of the historic plane.",
+        "concepts": [
+            {
+                "word": "Ohio",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Wright",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "brothers",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plates",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden says US will defend Taiwan if China attacks",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-asia-59005300",
+        "content": "His comments are an apparent departure from the long-held US position of \"strategic ambiguity\".",
+        "placed": "Abroad",
+        "epoch": 1634925603.9597967,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Biden says US will defend Taiwan if China attacks",
+        "en_content": "His comments are an apparent departure from the long-held US position of \"strategic ambiguity\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Baldwin 'heartbroken' over fatal film set shooting",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59015889",
+        "content": "Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico.",
+        "placed": "Abroad",
+        "epoch": 1634925603.959812,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Baldwin 'heartbroken' over fatal film set shooting",
+        "en_content": "Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "film",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "set",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shooting",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "What are prop guns and why are they dangerous?",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59006905",
+        "content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9598267,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "What are prop guns and why are they dangerous?",
+        "en_content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "concepts": [
+            {
+                "word": "prop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guns",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Protesting Eswatini nurses refuse to treat police",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-africa-59011033",
+        "content": "The health workers say security forces injured 30 colleagues when they opened fire at a protest.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9598455,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Protesting Eswatini nurses refuse to treat police",
+        "en_content": "The health workers say security forces injured 30 colleagues when they opened fire at a protest.",
+        "concepts": [
+            {
+                "word": "Eswatini",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nurses",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "police",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-58952867",
+        "content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9598606,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "en_content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ã¢ÂÂtouristsÃ¢ÂÂ",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "break",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Students sue Texas school district for hair policy",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59013608",
+        "content": "Students were suspended and barred from school activities for wearing long hair, the lawsuit says.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9598749,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Students sue Texas school district for hair policy",
+        "en_content": "Students were suspended and barred from school activities for wearing long hair, the lawsuit says.",
+        "concepts": [
+            {
+                "word": "Students",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Texas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "district",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hair",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "policy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ohio mocked over wrong Wright brothers plates",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59008039",
+        "content": "The commemorative plate depicted a banner mistakenly attached to the front end of the historic plane.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9598932,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Ohio mocked over wrong Wright brothers plates",
+        "en_content": "The commemorative plate depicted a banner mistakenly attached to the front end of the historic plane.",
+        "concepts": [
+            {
+                "word": "Ohio",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Wright",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "brothers",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plates",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden says US will defend Taiwan if China attacks",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-asia-59005300",
+        "content": "His comments are an apparent departure from the long-held US position of \"strategic ambiguity\".",
+        "placed": "Abroad",
+        "epoch": 1634925603.9599078,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Biden says US will defend Taiwan if China attacks",
+        "en_content": "His comments are an apparent departure from the long-held US position of \"strategic ambiguity\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What are prop guns and why are they dangerous?",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59006905",
+        "content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9599218,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "What are prop guns and why are they dangerous?",
+        "en_content": "An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets.",
+        "concepts": [
+            {
+                "word": "prop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guns",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Protesting Eswatini nurses refuse to treat police",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-africa-59011033",
+        "content": "The health workers say security forces injured 30 colleagues when they opened fire at a protest.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9599366,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "Protesting Eswatini nurses refuse to treat police",
+        "en_content": "The health workers say security forces injured 30 colleagues when they opened fire at a protest.",
+        "concepts": [
+            {
+                "word": "Eswatini",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nurses",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "police",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-58952867",
+        "content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "placed": "Abroad",
+        "epoch": 1634925603.9599507,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-22T20.00.03E1634925603.9599688.json",
+        "en_title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "en_content": "Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ã¢ÂÂtouristsÃ¢ÂÂ",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "break",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

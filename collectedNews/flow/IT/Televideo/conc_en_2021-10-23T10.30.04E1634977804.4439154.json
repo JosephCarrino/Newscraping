@@ -1,0 +1,264 @@
+[
+    {
+        "title": "DRAGHI: L'EUROPA NON E' PER ALZARE MURI \"Interventi su energia,rinnovabili\"",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1634977804.4438627,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T10.30.04E1634977804.4439154.json",
+        "en_title": "Dragons: Europe is not to raise walls \"interventions on energy, renewable\"",
+        "concepts": [
+            {
+                "word": "Dragons",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "Europe",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "walls",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "interventions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "energy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "\"Pensioni, Quota 100 non rinnovata\"",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1634977804.4438717,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T10.30.04E1634977804.4439154.json",
+        "en_title": "\"Pensions, 100 non-renewed share\"",
+        "concepts": [
+            {
+                "word": "Pensions",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "share",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "NovitÃÂ  nel testo finale Consiglio",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1634977804.443879,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T10.30.04E1634977804.4439154.json",
+        "en_title": "News in the final Text Council",
+        "concepts": [
+            {
+                "word": "News",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Text",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UE,MERKEL:HO TENTATO RISOLVERE PROBLEMI Standing ovation per ultimo summit",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": "",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1634977804.4438858,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T10.30.04E1634977804.4439154.json",
+        "en_title": "EU, Merkel: I tried solve Standing Ovation problems for last summit",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Standing",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ovation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "problems",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "TRAGEDIA SET USA, PROIETTILI ERANO VERI A Baldwin detto che arma era sicura",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": "",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1634977804.4438927,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T10.30.04E1634977804.4439154.json",
+        "en_title": "Tragedy USA set, bullets were true to Baldwin said that weapon was safe",
+        "concepts": [
+            {
+                "word": "Tragedy",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "USA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bullets",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "weapon",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Responsabile armi,20enne al debutto",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": "",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1634977804.4438994,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T10.30.04E1634977804.4439154.json",
+        "en_title": "Weapons manager, 20-year-old to debut",
+        "concepts": [
+            {
+                "word": "Weapons",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "manager",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            }
+        ]
+    },
+    {
+        "title": "PAPA: G20 AFFRONTI ASIMMETRIE DEL MONDO Appello a una settimana dal vertice",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=157",
+        "content": "",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1634977804.443906,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T10.30.04E1634977804.4439154.json",
+        "en_title": "Pope: G20 deals asymmetries of the world appeal to a week from the summit",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "G20",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "asymmetries",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "week",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

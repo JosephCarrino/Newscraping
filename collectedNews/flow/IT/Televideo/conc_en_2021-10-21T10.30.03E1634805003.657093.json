@@ -1,0 +1,232 @@
+[
+    {
+        "title": "COLLE: RISPARMIO FAMIGLIE PER RIPARTIRE Preziosa risorsa tutelata da Carta",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1634805003.6570363,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T10.30.03E1634805003.657093.json",
+        "en_title": "Colle: saving families to share valuable resource protected by paper",
+        "concepts": [
+            {
+                "word": "Colle",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "families",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "resource",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "paper",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PASS;SGOMBERATO PRESIDIO A PORTO GENOVA Operazione andata in modo pacifico",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1634805003.6570463,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T10.30.03E1634805003.657093.json",
+        "en_title": "Pass; clearing Presidio in Porto Genova operation went peacefully",
+        "concepts": [
+            {
+                "word": "Presidio",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Porto",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Genova",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "operation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "OMS: COVID AVANTI PER TUTTO IL 2022",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1634805003.6570582,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T10.30.03E1634805003.657093.json",
+        "en_title": "WHO: Covid forward for the whole 2022",
+        "concepts": []
+    },
+    {
+        "title": "PiÃÂ¹ casi, 3.702, e meno vittime, 33 110  FALSO BILANCIO,INDAGATO SINDACO ORLANDO Palermo, insieme a 23 ex assessori",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1634805003.6570659,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T10.30.03E1634805003.657093.json",
+        "en_title": "Plus cases, 3.702, and less victims, 33 110 false budget, investigated mayor orlando palermo, together with 23 ex-assessors",
+        "concepts": [
+            {
+                "word": "cases",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victims",
+                "meaning": "conj",
+                "pos": "NUM"
+            },
+            {
+                "word": "budget",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mayor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "orlando",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "palermo",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ex",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "-",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "assessors",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "USA, TRUMP LANCIA IL SUO SOCIAL \"TRUTH\" Ex presidente pronto alle elezioni",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1634805003.6570725,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T10.30.03E1634805003.657093.json",
+        "en_title": "USA, TRUMP launches its social \"Truth\" former president ready to elections",
+        "concepts": [
+            {
+                "word": "USA",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "TRUMP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Truth",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "president",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "elections",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CINA,EVERGRANDE TORNA IN BORSA E CROLLA GiÃÂ  sta trascinando giÃÂ¹ l'economia",
+        "date_raw": "October 21, 2021",
+        "date": "2021-10-21",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=130",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1634805003.6570795,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-21T10.30.03E1634805003.657093.json",
+        "en_title": "China, EvergRande returns to the bag and collapses already is dragging down the economy",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EvergRande",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bag",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "collapses",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "economy",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

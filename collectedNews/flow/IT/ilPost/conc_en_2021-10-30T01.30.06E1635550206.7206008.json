@@ -1,0 +1,979 @@
+[
+    {
+        "title": "Il generale che ha guidato il colpo di stato in Sudan",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/29/abdel-fattah-el-burhan-sudan-militare/",
+        "content": " Abdel Fattah al Burhan ha 61 anni e una lunga carriera militare alle spalle piena di conflitti violenti e alleati potenti ",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205455,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "The general who drove the coup in Sudan",
+        "en_content": "Abdel Fattah at Burhan is 61 years old and a long military career behind full of violent conflicts and powerful allies",
+        "concepts": [
+            {
+                "word": "general",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Joe Biden ha presentato un piano da 1.750 miliardi di dollari di riforme sociali e ambientali, per cercare di superare le divisioni tra i Democratici",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/29/joe-biden-stati-uniti-democratici-accordo/",
+        "content": " \t",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205489,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Joe Biden presented a $ 1,750 bill of dollars of social and environmental reforms, to try to overcome the divisions between the Democrats",
+        "concepts": [
+            {
+                "word": "Joe",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dollars",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "reforms",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "divisions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Democrats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nei Paesi Bassi le trattative per il governo non erano mai durate cosÃÂ¬ tanto",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/29/paesi-bassi-coalizione-governo/",
+        "content": " Sono 226 giorni che i partiti discutono per formare una nuova coalizione, un record, e sembra che ci sarÃÂ  ancora da aspettare\t",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1635550206.72055,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "In the Netherlands the negotiations for the government had never lasted so much",
+        "en_content": "It is 226 days that the parties discuss to form a new coalition, a record, and it seems that it will still be expected",
+        "concepts": [
+            {
+                "word": "Netherlands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "negotiations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "government",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Il Regno Unito ha convocato lÃ¢ÂÂambasciatrice francese per uno scontro relativo ai diritti di pesca",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/29/francia-regno-unito-diritti-di-pesca/",
+        "content": " \t",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205515,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "The United Kingdom summoned the French ambassador for a fishing rights clash",
+        "concepts": [
+            {
+                "word": "United",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kingdom",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambassador",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rights",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Andrew Cuomo, ex governatore dello stato di New York, ÃÂ¨ stato formalmente accusato di molestie sessuali",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/29/andrew-cuomo-tribunale-accusa/",
+        "content": " \t",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205524,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Andrew Cuomo, former governor of New York State, was formally accused of sexual harassment",
+        "concepts": [
+            {
+                "word": "Andrew",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cuomo",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "governor",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "York",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "State",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "harassment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La Cina contro i grattacieli troppo alti",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/29/cina-grattacieli-xi-jinping/",
+        "content": " Il governo cinese ha introdotto nuovi limiti di altezza, dopo che nel 2016 aveva giÃÂ  vietato la costruzione di edifici con forme troppo eccentriche\t",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205536,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "China against too high skyscrapers",
+        "en_content": "The Chinese government has introduced new height limits, after in 2016 he has already banned the construction of buildings with too eccentric forms",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "skyscrapers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "LÃ¢ÂÂenorme micronazione di Westarctica",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/28/westarctica/",
+        "content": " Vent'anni fa fu fondata in un'area remota, per gioco e per l'ego del suo fondatore che non ci ÃÂ¨ nemmeno mai stato: da un po' di tempo cerca di fare del bene\t",
+        "ranked": 6,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205548,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "The enormous Micronation of Westarctica",
+        "en_content": "Twenty years ago it was founded in a remote area, for play and for the ego of its founder who has never ever been: for some time tries to do good",
+        "concepts": [
+            {
+                "word": "Micronation",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Westarctica",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le riforme di Biden saranno meno ambiziose di quanto sperasse",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/28/biden-riforme-manchin/",
+        "content": " DovrÃÂ  accontentarsi soprattutto per quelle sociali e sul clima, perchÃÂ© due senatori Democratici si sono messi di traverso\t",
+        "ranked": 7,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205558,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Biden reforms will be less ambitious than hoped",
+        "en_content": "It will have to be satisfied above all for social and climate ones, because two democratic senators have passed away",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reforms",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "LÃ¢ÂÂIran ha detto che riprenderÃÂ  i negoziati per ripristinare lÃ¢ÂÂaccordo del 2015 sul nucleare iraniano",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/28/iran-negoziati-accordo-nucleare/",
+        "content": " \t",
+        "ranked": 8,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205567,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Iran said that the negotiations will recover to restore the 2015 agreement on Iranian nuclear power",
+        "concepts": [
+            {
+                "word": "Iran",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "negotiations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "agreement",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "power",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La Banca Mondiale ha sospeso gli aiuti al Sudan a causa del colpo di stato compiuto dai militari",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/28/banca-mondiale-sudan-sospeso/",
+        "content": " \t",
+        "ranked": 9,
+        "placed": "Abroad",
+        "epoch": 1635550206.720558,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "The World Bank has suspended aid to Sudan due to the coup completed by the military",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bank",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "aid",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "military",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La Russia sta ricattando la Moldavia?",
+        "date_raw": "October 28, 2021",
+        "date": "2021-10-28",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/28/russia-moldavia/",
+        "content": " Ha tagliato le forniture di gas naturale: per tornare alla normalitÃÂ  chiede che il governo moldavo si allontani dall'Unione Europea\t",
+        "ranked": 10,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205591,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Is Russia by blackmailing Moldova?",
+        "en_content": "He cut the supplies of natural gas: to return to normality he asks that the Moldavian government moves away from the European Union",
+        "concepts": [
+            {
+                "word": "Russia",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Moldova",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "La Polonia dovrÃÂ  pagare una multa di un milione di euro al giorno allÃ¢ÂÂUnione Europea",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/27/polonia-multa-un-milione-euro-ue/",
+        "content": " Per non avere voluto sospendere l'organo che oggi limita l'imparzialitÃÂ  dei giudici: lo ha stabilito la Corte di giustizia europea\t",
+        "ranked": 11,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205606,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Poland will have to pay a fine of one million euros a day at the European Union",
+        "en_content": "In order not to have wanted to suspend the organ that today limits the impartiality of the judges: the European Court of Justice established it",
+        "concepts": [
+            {
+                "word": "Poland",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fine",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "euros",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "day",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "European",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Union",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le accuse contro Bolsonaro per la sua gestione della pandemia",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/27/accuse-bolsonaro-pandemia-incriminazione/",
+        "content": " Una commissione del Senato ha chiesto che il presidente brasiliano venga incriminato per nove reati, tra cui \"crimini contro l'umanitÃÂ \"\t",
+        "ranked": 12,
+        "placed": "Abroad",
+        "epoch": 1635550206.720562,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "The accusations against Bolsonaro for his pandemic management",
+        "en_content": "A senate commission asked that the Brazilian President is incrimited for nine crimes, including \"crimes against humanity\"",
+        "concepts": [
+            {
+                "word": "accusations",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Bolsonaro",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "management",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Da novembre i cittadini australiani potranno tornare a viaggiare allÃ¢ÂÂestero anche per turismo",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/27/australia-viaggi-covid/",
+        "content": " \t",
+        "ranked": 13,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205627,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "From November Australian citizens will be able to travel to travel to foreign tourism",
+        "concepts": [
+            {
+                "word": "November",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "citizens",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tourism",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Il problema di Parigi con i consumatori di crack",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/27/problema-crack-parigi-muro/",
+        "content": " Da anni la cittÃÂ  cerca una soluzione, senza successo: ora il governo ha costruito un muro, complicando ulteriormente le cose\t",
+        "ranked": 14,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205637,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Paris's problem with crack consumers",
+        "en_content": "For years the city has been looking for a solution, without success: now the government has built a wall, further complicating things",
+        "concepts": [
+            {
+                "word": "Paris",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "problem",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crack",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "consumers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "In Portogallo il governo di sinistra traballa",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/27/portogallo-governo-rischia/",
+        "content": " I partiti radicali che sostengono i Socialisti dicono di non voler votare la nuova legge di bilancio, e un compromesso sembra complicato\t",
+        "ranked": 15,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205644,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "In Portugal the Left Government wobbles",
+        "en_content": "The radical parties that support the socialists say they do not want to vote for the new budget law, and a compromise seems complicated",
+        "concepts": [
+            {
+                "word": "Portugal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Left",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Il primo ministro sudanese Abdalla Hamdok ÃÂ¨ tornato a casa dopo essere stato arrestato dai militari responsabili del colpo di stato",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/27/sudan-abdalla-hamdok-rilasciato/",
+        "content": " \t",
+        "ranked": 16,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205653,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Prime Minister Sudanese Abdalla Hamdok has returned home after being arrested by the military responsible for the coup",
+        "concepts": [
+            {
+                "word": "Prime",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Minister",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sudanese",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Abdalla",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hamdok",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "military",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Quattro bambini sono morti in un naufragio al largo della Grecia",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/26/quattro-bambini-sono-morti-in-un-naufragio-al-largo-della-grecia/",
+        "content": " \t",
+        "ranked": 17,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205663,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Four children died in a shipwreck off Greece",
+        "concepts": [
+            {
+                "word": "children",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shipwreck",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Greece",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "LÃ¢ÂÂAustralia, uno dei paesi piÃÂ¹ inquinanti al mondo, si ÃÂ¨ prefissata di raggiungere la Ã¢ÂÂneutralitÃÂ  carbonicaÃ¢ÂÂ entro il 2050",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/26/australia-neutralita-carbonica-2050/",
+        "content": " \t",
+        "ranked": 18,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205672,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Australia, one of the most polluting countries in the world, has set up reaching the Ã¢ â¬ Åne carbonic Ã¢ â¬ by 2050",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "countries",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "world",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ã¢",
+                "meaning": "nummod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "â¬",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "â¬",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ÃÂ morto lÃ¢ÂÂex presidente sudcoreano Roh Tae-Woo: aveva 88 anni",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/26/roh-tae-woo-corea-del-sud-presidente-morto/",
+        "content": " \t",
+        "ranked": 19,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205682,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "The former South Korean President Roh Tae-Woo died: he was 88 years old",
+        "concepts": [
+            {
+                "word": "President",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Roh",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Tae",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Woo",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            }
+        ]
+    },
+    {
+        "title": "I turisti che affollano La Palma per vedere il vulcano in eruzione",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/26/la-palma-canarie-turismo-vulcano/",
+        "content": " Sono sia stranieri sia locali che non hanno mai visto niente di simile: la loro presenza ÃÂ¨ preziosa, ma non risolve la crisi del turismo\t",
+        "ranked": 20,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205691,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Tourists who crowd palm to see the volcano in eruption",
+        "en_content": "They are both foreign and local and have never seen anything like it: their presence is precious, but does not solve the tourism crisis",
+        "concepts": [
+            {
+                "word": "Tourists",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "palm",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "volcano",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "eruption",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "I precedenti dellÃ¢ÂÂaiuto regista sospettato dellÃ¢ÂÂincidente sul set di Baldwin",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/26/alec-baldwin-incidente-set-film-pistola-carica/",
+        "content": " Sono emersi nuovi racconti su David Halls, che giÃÂ  in passato era stato coinvolto in episodi assai controversi\t",
+        "ranked": 21,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205698,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "The precedents of the aid suspected of the accident on the Set of Baldwin",
+        "en_content": "New stories have emerged on David Halls, who already had been involved in very controversial episodes",
+        "concepts": [
+            {
+                "word": "precedents",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "accident",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Set",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Un matrimonio reale dimesso e criticato in Giappone",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/26/principessa-mako-giappone-matrimonio-kei-komuro/",
+        "content": " La principessa Mako ha sposato un avvocato non nobile, tra la freddezza della famiglia e morbose pressioni mediatiche\t",
+        "ranked": 22,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205708,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "A real wedding resigned and criticized in Japan",
+        "en_content": "Princess Mako has married a non-noble lawyer, between the coldness of the family and morbid media pressures",
+        "concepts": [
+            {
+                "word": "wedding",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Japan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Almeno sette persone sono state uccise nelle proteste contro il colpo di stato in Sudan",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/26/sudan-proteste-colpo-di-stato-morti/",
+        "content": " \t",
+        "ranked": 23,
+        "placed": "Abroad",
+        "epoch": 1635550206.720572,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "At least seven people were killed in protests against the state shot in Sudan",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "state",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CÃ¢ÂÂÃÂ¨ un colpo di stato in Sudan",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/25/sudan-primo-ministro-abdalla-hamdok-arrestato/",
+        "content": " I militari hanno arrestato il primo ministro Abdalla Hamdok e sciolto il governo, che era comunque provvisorio: il potere ÃÂ¨ stato preso dal generale Abdel Fattah al-Burhan\t",
+        "ranked": 24,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205727,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "There is a coup in Sudan",
+        "en_content": "The military arrested Prime Minister Abdalla Hamdok and dissolved the government, who was still temporary: power was taken by General Abdel Fattah Al-Burhan",
+        "concepts": [
+            {
+                "word": "coup",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chi ÃÂ¨ Otoniel, il potente narcotrafficante arrestato in Colombia",
+        "date_raw": "October 25, 2021",
+        "date": "2021-10-25",
+        "url": "https://www.ilpost.it/mondo/",
+        "news_url": "https://www.ilpost.it/2021/10/25/otoniel-narcotrafficante-arrestato-colombia/",
+        "content": " Era uno dei piÃÂ¹ ricercati al mondo, a capo di un importante cartello della droga: ora probabilmente verrÃÂ  estradato negli Stati Uniti\t",
+        "ranked": 25,
+        "placed": "Abroad",
+        "epoch": 1635550206.7205737,
+        "language": "it",
+        "source": "ilPost",
+        "filename": "conc_en_2021-10-30T01.30.06E1635550206.7206008.json",
+        "en_title": "Who is Otoniel, the powerful drug trafficker arrested in Colombia",
+        "en_content": "He was one of the most sought after in the world, at the head of an important drug sign: now will probably be extradited in the United States",
+        "concepts": [
+            {
+                "word": "Otoniel",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trafficker",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Colombia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

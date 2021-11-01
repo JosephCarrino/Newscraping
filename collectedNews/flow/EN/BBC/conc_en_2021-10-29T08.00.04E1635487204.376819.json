@@ -1,0 +1,542 @@
+[
+    {
+        "title": "UK summons French ambassador amid fishing row",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/uk-59084877",
+        "content": "The UK government condemns \"unjustified\" threats from France after a British trawler was detained.",
+        "placed": "Politics",
+        "epoch": 1635487204.3764842,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "UK summons French ambassador amid fishing row",
+        "en_content": "The UK government condemns \"unjustified\" threats from France after a British trawler was detained.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambassador",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK summons French ambassador amid fishing row",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/uk-59084877",
+        "content": "The UK government condemns \"unjustified\" threats from France after a British trawler was detained.",
+        "placed": "Politics",
+        "epoch": 1635487204.3765154,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "UK summons French ambassador amid fishing row",
+        "en_content": "The UK government condemns \"unjustified\" threats from France after a British trawler was detained.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambassador",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "All countries to be removed from travel red list",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/uk-59063818",
+        "content": "The system will remain in place and locations could be reinstated on the list if cases rise again.",
+        "placed": "Politics",
+        "epoch": 1635487204.3765378,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "All countries to be removed from travel red list",
+        "en_content": "The system will remain in place and locations could be reinstated on the list if cases rise again.",
+        "concepts": [
+            {
+                "word": "countries",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "travel",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "list",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Menopause 'made me feel I was disappearing'",
+        "date_raw": "2021-10-29",
+        "news_url": "https://www.bbc.com/news/uk-politics-59081483",
+        "content": "HRT can help women going through the menopause and one MP is trying to make it free on the NHS.",
+        "placed": "Politics",
+        "epoch": 1635487204.3765576,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Menopause 'made me feel I was disappearing'",
+        "en_content": "HRT can help women going through the menopause and one MP is trying to make it free on the NHS.",
+        "concepts": [
+            {
+                "word": "Menopause",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rayner apologises for Conservative 'scum' comments",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/uk-politics-59081482",
+        "content": "Labour's deputy leader says she has reflected and will be \"more careful\" with her words in future.",
+        "placed": "Politics",
+        "epoch": 1635487204.3765755,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Rayner apologises for Conservative 'scum' comments",
+        "en_content": "Labour's deputy leader says she has reflected and will be \"more careful\" with her words in future.",
+        "concepts": [
+            {
+                "word": "Rayner",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Conservative",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scum",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "comments",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Call for rich nations to airlift surplus vaccines",
+        "date_raw": "2021-10-29",
+        "news_url": "https://www.bbc.com/news/uk-59086011",
+        "content": "It would be unethical to waste doses while thousands are dying with Covid daily, former world leaders say.",
+        "placed": "Politics",
+        "epoch": 1635487204.3765936,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Call for rich nations to airlift surplus vaccines",
+        "en_content": "It would be unethical to waste doses while thousands are dying with Covid daily, former world leaders say.",
+        "concepts": [
+            {
+                "word": "nations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "vaccines",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Millions to be worse off in 2022, says think tank",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/business-59076532",
+        "content": "An economic research group says many people will see their living standards fall over the next year.",
+        "placed": "Politics",
+        "epoch": 1635487204.3766108,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Millions to be worse off in 2022, says think tank",
+        "en_content": "An economic research group says many people will see their living standards fall over the next year.",
+        "concepts": [
+            {
+                "word": "Millions",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "think",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tank",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rishi Sunak's Budget claims fact-checked",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/59078215",
+        "content": "Checking claims about air travel, alcohol taxes, debt and low pay.",
+        "placed": "Politics",
+        "epoch": 1635487204.3766274,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Rishi Sunak's Budget claims fact-checked",
+        "en_content": "Checking claims about air travel, alcohol taxes, debt and low pay.",
+        "concepts": [
+            {
+                "word": "Rishi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sunak",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Budget",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fact",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK summons French ambassador amid fishing row",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/uk-59084877",
+        "content": "The UK government condemns \"unjustified\" threats from France after a British trawler was detained.",
+        "placed": "Politics",
+        "epoch": 1635487204.376644,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "UK summons French ambassador amid fishing row",
+        "en_content": "The UK government condemns \"unjustified\" threats from France after a British trawler was detained.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambassador",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "All countries to be removed from travel red list",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/uk-59063818",
+        "content": "The system will remain in place and locations could be reinstated on the list if cases rise again.",
+        "placed": "Politics",
+        "epoch": 1635487204.3766599,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "All countries to be removed from travel red list",
+        "en_content": "The system will remain in place and locations could be reinstated on the list if cases rise again.",
+        "concepts": [
+            {
+                "word": "countries",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "travel",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "list",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Menopause 'made me feel I was disappearing'",
+        "date_raw": "2021-10-29",
+        "news_url": "https://www.bbc.com/news/uk-politics-59081483",
+        "content": "HRT can help women going through the menopause and one MP is trying to make it free on the NHS.",
+        "placed": "Politics",
+        "epoch": 1635487204.3766854,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Menopause 'made me feel I was disappearing'",
+        "en_content": "HRT can help women going through the menopause and one MP is trying to make it free on the NHS.",
+        "concepts": [
+            {
+                "word": "Menopause",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rayner apologises for Conservative 'scum' comments",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/uk-politics-59081482",
+        "content": "Labour's deputy leader says she has reflected and will be \"more careful\" with her words in future.",
+        "placed": "Politics",
+        "epoch": 1635487204.3767083,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Rayner apologises for Conservative 'scum' comments",
+        "en_content": "Labour's deputy leader says she has reflected and will be \"more careful\" with her words in future.",
+        "concepts": [
+            {
+                "word": "Rayner",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Conservative",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scum",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "comments",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Call for rich nations to airlift surplus vaccines",
+        "date_raw": "2021-10-29",
+        "news_url": "https://www.bbc.com/news/uk-59086011",
+        "content": "It would be unethical to waste doses while thousands are dying with Covid daily, former world leaders say.",
+        "placed": "Politics",
+        "epoch": 1635487204.3767254,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Call for rich nations to airlift surplus vaccines",
+        "en_content": "It would be unethical to waste doses while thousands are dying with Covid daily, former world leaders say.",
+        "concepts": [
+            {
+                "word": "nations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "vaccines",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Millions to be worse off in 2022, says think tank",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/business-59076532",
+        "content": "An economic research group says many people will see their living standards fall over the next year.",
+        "placed": "Politics",
+        "epoch": 1635487204.3767416,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Millions to be worse off in 2022, says think tank",
+        "en_content": "An economic research group says many people will see their living standards fall over the next year.",
+        "concepts": [
+            {
+                "word": "Millions",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "think",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tank",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rishi Sunak's Budget claims fact-checked",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/59078215",
+        "content": "Checking claims about air travel, alcohol taxes, debt and low pay.",
+        "placed": "Politics",
+        "epoch": 1635487204.3767576,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Rishi Sunak's Budget claims fact-checked",
+        "en_content": "Checking claims about air travel, alcohol taxes, debt and low pay.",
+        "concepts": [
+            {
+                "word": "Rishi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sunak",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Budget",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fact",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "All countries to be removed from travel red list",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/uk-59063818",
+        "content": "The system will remain in place and locations could be reinstated on the list if cases rise again.",
+        "placed": "Politics",
+        "epoch": 1635487204.3767736,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "All countries to be removed from travel red list",
+        "en_content": "The system will remain in place and locations could be reinstated on the list if cases rise again.",
+        "concepts": [
+            {
+                "word": "countries",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "travel",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "list",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Menopause 'made me feel I was disappearing'",
+        "date_raw": "2021-10-29",
+        "news_url": "https://www.bbc.com/news/uk-politics-59081483",
+        "content": "HRT can help women going through the menopause and one MP is trying to make it free on the NHS.",
+        "placed": "Politics",
+        "epoch": 1635487204.3767896,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Menopause 'made me feel I was disappearing'",
+        "en_content": "HRT can help women going through the menopause and one MP is trying to make it free on the NHS.",
+        "concepts": [
+            {
+                "word": "Menopause",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rayner apologises for Conservative 'scum' comments",
+        "date_raw": "2021-10-28",
+        "news_url": "https://www.bbc.com/news/uk-politics-59081482",
+        "content": "Labour's deputy leader says she has reflected and will be \"more careful\" with her words in future.",
+        "placed": "Politics",
+        "epoch": 1635487204.376805,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-29T08.00.04E1635487204.376819.json",
+        "en_title": "Rayner apologises for Conservative 'scum' comments",
+        "en_content": "Labour's deputy leader says she has reflected and will be \"more careful\" with her words in future.",
+        "concepts": [
+            {
+                "word": "Rayner",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Conservative",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scum",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "comments",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "title": "OPEN ARMS, PROCESSO A SALVINI A PALERMO Citati Conte,3 ex ministri.Ammesso Gere Pm chiedono interrogatorio imputato",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": "",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1634988604.317396,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T13.30.04E1634988604.3174224.json",
+        "en_title": "Open Arms, Process in Salvini in Palermo mentioned Count, 3 former ministers. Admitted Gere PM ask for interrogation attributed",
+        "concepts": [
+            {
+                "word": "Open",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Arms",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Process",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Salvini",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Palermo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Count",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ministers",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gere",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "interrogation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Salvini:\"E' serio con Richard Gere\"",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": "",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1634988604.3174062,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T13.30.04E1634988604.3174224.json",
+        "en_title": "Salvini: \"It's serious with Richard Gere\"",
+        "concepts": [
+            {
+                "word": "Salvini",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "Richard",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gere",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

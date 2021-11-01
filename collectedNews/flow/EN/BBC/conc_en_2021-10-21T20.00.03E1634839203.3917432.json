@@ -1,0 +1,637 @@
+[
+    {
+        "title": "Covid may have killed over 80k health staff - WHO",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/health-58973697",
+        "content": "The global health body says healthcare workers should be prioritised for vaccination.",
+        "placed": "First_Page",
+        "epoch": 1634839203.391421,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Covid may have killed over 80k health staff - WHO",
+        "en_content": "The global health body says healthcare workers should be prioritised for vaccination.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "80k",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "health",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "staff",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Covid may have killed over 80k health staff - WHO",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/health-58973697",
+        "content": "The global health body says healthcare workers should be prioritised for vaccination.",
+        "placed": "First_Page",
+        "epoch": 1634839203.391455,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Covid may have killed over 80k health staff - WHO",
+        "en_content": "The global health body says healthcare workers should be prioritised for vaccination.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "80k",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "health",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "staff",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Leak reveals lobbying to change key climate report",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/science-environment-58982445",
+        "content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3914752,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Leak reveals lobbying to change key climate report",
+        "en_content": "Countries are asking the UN to play down the need to move rapidly away from fossil fuels.",
+        "concepts": [
+            {
+                "word": "Leak",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Vikings beat Columbus to the Americas by 471 years",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58996186",
+        "content": "Scientists say they have precisely dated a camp in Newfoundland, Canada, thanks to a new technique.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3914926,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Vikings beat Columbus to the Americas by 471 years",
+        "en_content": "Scientists say they have precisely dated a camp in Newfoundland, Canada, thanks to a new technique.",
+        "concepts": [
+            {
+                "word": "Vikings",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Columbus",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Americas",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pig kidney transplanted into brain-dead person",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/health-58993696",
+        "content": "The kidney, from a genetically-altered pig, appeared to function well, say the surgical team.",
+        "placed": "First_Page",
+        "epoch": 1634839203.391513,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Pig kidney transplanted into brain-dead person",
+        "en_content": "The kidney, from a genetically-altered pig, appeared to function well, say the surgical team.",
+        "concepts": [
+            {
+                "word": "Pig",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "kidney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "brain",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "person",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The four-year-old footballer recruited by Arsenal",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/uk-58988254",
+        "content": "Zayn Ali Salman is the youngest-ever recruit to Arsenal's pre-academy.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3915243,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "The four-year-old footballer recruited by Arsenal",
+        "en_content": "Zayn Ali Salman is the youngest-ever recruit to Arsenal's pre-academy.",
+        "concepts": [
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "footballer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Arsenal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Respect the club rules, Poland told at EU summit",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/world-europe-58999963",
+        "content": "A dispute over whether EU law has supremacy over national laws overshadows the Brussels meeting.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3915405,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Respect the club rules, Poland told at EU summit",
+        "en_content": "A dispute over whether EU law has supremacy over national laws overshadows the Brussels meeting.",
+        "concepts": [
+            {
+                "word": "club",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Poland",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Syria says it executed 24 people over wildfires",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-middle-east-58997475",
+        "content": "The government alleges they admitted to igniting fires last year that left three people dead.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3915555,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Syria says it executed 24 people over wildfires",
+        "en_content": "The government alleges they admitted to igniting fires last year that left three people dead.",
+        "concepts": [
+            {
+                "word": "Syria",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "people",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Robot artist released by Egyptian border guards",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58993682",
+        "content": "Authorities, who held the robot for 10 days, feared that it may have been hiding covert spy tools.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3915696,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Robot artist released by Egyptian border guards",
+        "en_content": "Authorities, who held the robot for 10 days, feared that it may have been hiding covert spy tools.",
+        "concepts": [
+            {
+                "word": "Robot",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "artist",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Celebrations as Melbourne exits sixth lockdown",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-australia-58998418",
+        "content": "The Australian city has spent more than 260 days under restrictions since the pandemic began.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3915842,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Celebrations as Melbourne exits sixth lockdown",
+        "en_content": "The Australian city has spent more than 260 days under restrictions since the pandemic began.",
+        "concepts": [
+            {
+                "word": "Celebrations",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Melbourne",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Rival Sudan protesters take to capital's streets",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-africa-58996079",
+        "content": "Protesters come out to back a civilian-led government and reject calls for the military to take charge.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3915982,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Rival Sudan protesters take to capital's streets",
+        "en_content": "Protesters come out to back a civilian-led government and reject calls for the military to take charge.",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "capital",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "streets",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "NFL to end race-based testing in dementia claims",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58993679",
+        "content": "\"Race-norming\" made it harder for black players to prove brain injuries linked to their careers.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3916125,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "NFL to end race-based testing in dementia claims",
+        "en_content": "\"Race-norming\" made it harder for black players to prove brain injuries linked to their careers.",
+        "concepts": [
+            {
+                "word": "NFL",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "race",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "testing",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dementia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claims",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Rival Sudan protesters take to capital's streets",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-africa-58996079",
+        "content": "Protesters come out to back a civilian-led government and reject calls for the military to take charge.",
+        "placed": "First_Page",
+        "epoch": 1634839203.391626,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Rival Sudan protesters take to capital's streets",
+        "en_content": "Protesters come out to back a civilian-led government and reject calls for the military to take charge.",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "capital",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "streets",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "NFL to end race-based testing in dementia claims",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58993679",
+        "content": "\"Race-norming\" made it harder for black players to prove brain injuries linked to their careers.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3916428,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "NFL to end race-based testing in dementia claims",
+        "en_content": "\"Race-norming\" made it harder for black players to prove brain injuries linked to their careers.",
+        "concepts": [
+            {
+                "word": "NFL",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "race",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "testing",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dementia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claims",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nearly 800 kidnappings in Haiti this year - NGO",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-latin-america-58993730",
+        "content": "Gangs have taken more control amid political instability, abducting people from all walks of life.",
+        "placed": "First_Page",
+        "epoch": 1634839203.391658,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Nearly 800 kidnappings in Haiti this year - NGO",
+        "en_content": "Gangs have taken more control amid political instability, abducting people from all walks of life.",
+        "concepts": [
+            {
+                "word": "kidnappings",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Haiti",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "year",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NGO",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Amazon sees fresh push to unionise in New York",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/business-59000574",
+        "content": "Warehouse workers in Staten Island hope to organise, in the latest labour push at the firm.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3916829,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Amazon sees fresh push to unionise in New York",
+        "en_content": "Warehouse workers in Staten Island hope to organise, in the latest labour push at the firm.",
+        "concepts": [
+            {
+                "word": "Amazon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "push",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "York",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Trump to launch rival to social media giants",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-us-canada-58990330",
+        "content": "The former US president was banned from Twitter and Facebook following the US Capitol riots.",
+        "placed": "First_Page",
+        "epoch": 1634839203.3916972,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Trump to launch rival to social media giants",
+        "en_content": "The former US president was banned from Twitter and Facebook following the US Capitol riots.",
+        "concepts": [
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "giants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "How green politics are changing Europe",
+        "date_raw": "2021-10-21",
+        "news_url": "https://www.bbc.com/news/world-europe-58910712",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1634839203.391711,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "How green politics are changing Europe",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "politics",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Fossil fuel production set to soar in next decade",
+        "date_raw": "2021-08-04",
+        "news_url": "https://www.bbc.com/news/science-environment-58971131",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1634839203.3917258,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-21T20.00.03E1634839203.3917432.json",
+        "en_title": "Fossil fuel production set to soar in next decade",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "production",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "decade",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

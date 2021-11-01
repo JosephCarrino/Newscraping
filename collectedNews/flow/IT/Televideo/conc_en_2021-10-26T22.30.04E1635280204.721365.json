@@ -1,0 +1,125 @@
+[
+    {
+        "title": "NAUFRAGIO NELL'EGEO, MORTI 4 BAMBINI   Di etÃÂ  compresa tra i 3 e 14 anni",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1635280204.7213154,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T22.30.04E1635280204.721365.json",
+        "en_title": "Shipwreck in the Aegean, 4 children aged between 3 and 14 years",
+        "concepts": [
+            {
+                "word": "Shipwreck",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Aegean",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "children",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "SUDAN,GENERALE GOLPE:PREMIER A CASA MIA \"Arrestato politici, ma non tutti\"",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1635280204.721332,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T22.30.04E1635280204.721365.json",
+        "en_title": "Sudan, general coup: premier at my house \"arrested politicians, but not all\"",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "coup",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "premier",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "house",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "politicians",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "GB,REGINA NON ANDRA' A COP26 DI GLASGOW Impegni pubblici per ora virtuali",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1635280204.7213461,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T22.30.04E1635280204.721365.json",
+        "en_title": "GB, Queen will not go to COP26 of Glasgow public commitments for virtual time",
+        "concepts": [
+            {
+                "word": "GB",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Queen",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Glasgow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "commitments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "time",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

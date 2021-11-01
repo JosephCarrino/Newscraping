@@ -1,0 +1,148 @@
+[
+    {
+        "title": "DI MAIO: NEL CDM NO SCONTRI SUL RDC   \"M5s-Pd diversi ma progetti comuni\"",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=121",
+        "content": "",
+        "ranked": 0,
+        "placed": "Politics",
+        "epoch": 1635582604.4677215,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T10.30.04E1635582604.467758.json",
+        "en_title": "Di Maio: in the CDM no clashes on the RDC \"M5S-Pd different but common projects\"",
+        "concepts": [
+            {
+                "word": "Di",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maio",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "CDM",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "clashes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "RDC",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "M5S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pd",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "projects",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "DDL ZAN,LEGA: RIPARTIAMO, LETTA ASCOLTI \"Punire violenti nostra prioritÃÂ \"",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=122",
+        "content": "",
+        "ranked": 1,
+        "placed": "Politics",
+        "epoch": 1635582604.4677398,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T10.30.04E1635582604.467758.json",
+        "en_title": "DDL ZAN, League: Let's start, read listens \"Punishing violent our priority\"",
+        "concepts": [
+            {
+                "word": "DDL",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ZAN",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "League",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "priority",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "DDL ZAN, RENZI: HANNO VINTO I POPULISTI Per incapacitÃÂ  politica di Pd e M5S",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Politica&pagina=120",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=123",
+        "content": "",
+        "ranked": 2,
+        "placed": "Politics",
+        "epoch": 1635582604.4677489,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T10.30.04E1635582604.467758.json",
+        "en_title": "Ddl Zan, Renzi: they won the populists for incapacity PD political and M5S",
+        "concepts": [
+            {
+                "word": "Ddl",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Zan",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Renzi",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "populists",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "incapacity",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PD",
+                "meaning": "compound",
+                "pos": "ADJ"
+            },
+            {
+                "word": "M5S",
+                "meaning": "conj",
+                "pos": "ADJ"
+            }
+        ]
+    }
+]

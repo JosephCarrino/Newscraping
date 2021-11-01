@@ -1,0 +1,324 @@
+[
+    {
+        "title": "ISS-SALUTE:CRESCE RT, STABILE INCIDENZA Ancora in calo le ospedalizzazioni",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1634891403.3408966,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T10.30.03E1634891403.3409505.json",
+        "en_title": "ISS-Health: RT grows, stable still falling hospitalizations",
+        "concepts": [
+            {
+                "word": "ISS",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Health",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "RT",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hospitalizations",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Covid,3.794 nuovi casi e 36 decessi",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1634891403.340906,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T10.30.03E1634891403.3409505.json",
+        "en_title": "Covid, 3,794 new cases and 36 deaths",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cases",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "DRAMMA SU SET FILM WESTERN, MUORE DONNA Un ferito durante riprese a New Mexico  Baldwin spara con pistola di scena",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1634891403.3409133,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T10.30.03E1634891403.3409505.json",
+        "en_title": "Drama on western movie set, dies woman a wounded shooting in New Mexico Baldwin shoots with scene gun",
+        "concepts": [
+            {
+                "word": "Drama",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "movie",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "set",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "woman",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shooting",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "scene",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gun",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "IL CASO POLONIA SUL TAVOLO DELL'UE",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1634891403.3409202,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T10.30.03E1634891403.3409505.json",
+        "en_title": "Poland case on the EU table",
+        "concepts": [
+            {
+                "word": "Poland",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "table",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Mattarella a Gorizia e Nova Goriza    \"Qui l'autentico spirito d'Europa\"",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1634891403.340927,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T10.30.03E1634891403.3409505.json",
+        "en_title": "Mattarella in Gorizia and Nova Goriza \"Here the authentic spirit of Europe\"",
+        "concepts": [
+            {
+                "word": "Mattarella",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Gorizia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Nova",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Goriza",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "spirit",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "RUBY TER, BERLUSCONI ASSOLTO A SIENA   I giudici: \"Il fatto non sussiste\"",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1634891403.3409336,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T10.30.03E1634891403.3409505.json",
+        "en_title": "Ruby Ter, Berlusconi acquitted in Siena the judges: \"The fact does not exist\"",
+        "concepts": [
+            {
+                "word": "Ruby",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ter",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Berlusconi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Siena",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "judges",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fact",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "NAPOLI,BLITZ ANTI-CAMORRA: 40 LE MISURE Nel mirino anche appalti ospedale",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1634891403.3409407,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T10.30.03E1634891403.3409505.json",
+        "en_title": "Naples, Blitz Anti-Camorra: 40 The measures in the viewfinder also hospital tenders",
+        "concepts": [
+            {
+                "word": "Naples",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Blitz",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Anti",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-",
+                "meaning": "punct",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Camorra",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "measures",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "viewfinder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hospital",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tenders",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    }
+]

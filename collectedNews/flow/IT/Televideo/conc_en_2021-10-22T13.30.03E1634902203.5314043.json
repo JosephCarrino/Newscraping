@@ -1,0 +1,313 @@
+[
+    {
+        "title": "DRAMMA SU SET FILM WESTERN, MUORE DONNA Un ferito durante riprese a New Mexico  Baldwin spara con pistola di scena",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=151",
+        "content": "",
+        "ranked": 0,
+        "placed": "Abroad",
+        "epoch": 1634902203.5313528,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T13.30.03E1634902203.5314043.json",
+        "en_title": "Drama on western movie set, dies woman a wounded shooting in New Mexico Baldwin shoots with scene gun",
+        "concepts": [
+            {
+                "word": "Drama",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "movie",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "set",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "woman",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shooting",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "scene",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gun",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CONSIGLIO UE,DRAGHI:C'E' ANCORA DA FARE Bilaterale premier e francese Macron   Bruxelles saluta Cancelliera Merkel",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=152",
+        "content": "",
+        "ranked": 1,
+        "placed": "Abroad",
+        "epoch": 1634902203.5313625,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T13.30.03E1634902203.5314043.json",
+        "en_title": "EU Council, Draghi: there is still to be bilateral Premier and French Macron Brussels greets Cancelliera Merkel",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Council",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "Draghi",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Premier",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Macron",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Brussels",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "Cancelliera",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "BIDEN: USA DIFENDERANNO TAIWAN DA CINA  Se sarÃÂ  aggredita,ÃÂ¨ \"sacro impegno\"",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=153",
+        "content": "",
+        "ranked": 2,
+        "placed": "Abroad",
+        "epoch": 1634902203.5313704,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T13.30.03E1634902203.5314043.json",
+        "en_title": "Biden: USA will defend Taiwan from China if you are attacked, it is \"sacred commitment\"",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "USA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "commitment",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Pechino a Biden: nessun compromesso",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=154",
+        "content": "",
+        "ranked": 3,
+        "placed": "Abroad",
+        "epoch": 1634902203.531378,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T13.30.03E1634902203.5314043.json",
+        "en_title": "Beijing in Biden: no compromise",
+        "concepts": [
+            {
+                "word": "Beijing",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Biden",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "compromise",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "USA, ORA BANNON RISCHIA LA CONDANNA   Per no deposizione su assalto Congresso Ex consigliere Trump rischia 2 anni",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=155",
+        "content": "",
+        "ranked": 4,
+        "placed": "Abroad",
+        "epoch": 1634902203.531385,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T13.30.03E1634902203.5314043.json",
+        "en_title": "USA, Now Bannon risks condemnation for no deposition on Assault Congress former Councilor Trump risks 2 years",
+        "concepts": [
+            {
+                "word": "USA",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "condemnation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deposition",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Assault",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Congress",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Councilor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Trump",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "NOTTE IN OSPEDALE PER REGINA ELISABETTA GiÃÂ  a Castello Windsor,\"buon umore\"",
+        "date_raw": "October 22, 2021",
+        "date": "2021-10-22",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=156",
+        "content": "",
+        "ranked": 5,
+        "placed": "Abroad",
+        "epoch": 1634902203.531392,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-22T13.30.03E1634902203.5314043.json",
+        "en_title": "Night in the hospital for Queen Elisabetta GiÃ a Castello Windsor, \"good humor\"",
+        "concepts": [
+            {
+                "word": "Night",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hospital",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Queen",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Elisabetta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GiÃ",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Castello",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Windsor",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "humor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

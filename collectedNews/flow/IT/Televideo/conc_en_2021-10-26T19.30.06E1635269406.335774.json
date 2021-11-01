@@ -1,0 +1,166 @@
+[
+    {
+        "title": "MANOVRA,SALE LA TENSIONE SULLE PENSIONI Sindacati da Draghi a Palazzo Chigi",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": "",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1635269406.335738,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T19.30.06E1635269406.335774.json",
+        "en_title": "Maneuver, tension rises on dragons trade unions in Palazzo Chigi",
+        "concepts": [
+            {
+                "word": "Maneuver",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "tension",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dragons",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "unions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Palazzo",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Chigi",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "GASOLIO AI MASSIMI DAL 2014, SFONDA 1,6 Consumatori:rincaro 365 euro a auto",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": "",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1635269406.3357482,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T19.30.06E1635269406.335774.json",
+        "en_title": "Diesel at the highest since 2014, breaking 1.6 consumers: Returning 365 euros a car",
+        "concepts": [
+            {
+                "word": "Diesel",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "consumers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "euros",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "car",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ENERGIA,IN UE MANCA INTESA SULLE MISURE Si rinvia al Consiglio di dicembre",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=133",
+        "content": "",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1635269406.3357556,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T19.30.06E1635269406.335774.json",
+        "en_title": "Energy, in the EU lacks on the measures please refer to the Council of December",
+        "concepts": [
+            {
+                "word": "Energy",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "measures",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Council",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "December",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nota su indici di Borsa Televideo",
+        "date_raw": "October 26, 2021",
+        "date": "2021-10-26",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": "",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1635269406.3357627,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-26T19.30.06E1635269406.335774.json",
+        "en_title": "Note on Teletext stock exchange indexes",
+        "concepts": [
+            {
+                "word": "Teletext",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indexes",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

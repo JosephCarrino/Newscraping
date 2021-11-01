@@ -1,0 +1,268 @@
+[
+    {
+        "title": "DRAGHI: MANOVRA ESPANSIVA PER CRESCITA  Via libera del CdM, misure per 30 mld  \"12 miliardi per riduzione tasse 2022\"  Quota 102, poi ritorno a contributivo  \"Pronti a ragionare sulle pensioni\"",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635485404.9960394,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T07.30.04E1635485404.9960856.json",
+        "en_title": "Dragons: expansive maneuver for green-light growth of the CDM, measures for 30 MLD \"12 billion for taxable tax 2022\" Quota 102, then return to contributory \"Ready to reason on pensions\"",
+        "concepts": [
+            {
+                "word": "Dragons",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "maneuver",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "light",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "growth",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "CDM",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "measures",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MLD",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tax",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Quota",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "contributory",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "pensions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ma su Quota 102 i sindacati critici",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635485404.9960492,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T07.30.04E1635485404.9960856.json",
+        "en_title": "But on 112 critical unions",
+        "concepts": [
+            {
+                "word": "unions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "G20, PER IL VERTICE ROMA \"BLINDATA\"   Biden arrivato,Xi connesso in video",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635485404.9960558,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T07.30.04E1635485404.9960856.json",
+        "en_title": "G20, for the Roma Vertice \"Armored\" Biden arrived, XI connected in video",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Roma",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Vertice",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "XI",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "COVID, 4.866 NUOVI CASI E 50 VITTIME   Gimbe: contagi +43,2% in 7 giorni",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1635485404.996062,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T07.30.04E1635485404.9960856.json",
+        "en_title": "Covid, 4,866 new cases and 50 GiMbe victims: Contagi + 43.2% in 7 days",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "cases",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "GiMbe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victims",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Contagi",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "%",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "days",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MALTEMPO SICILIA,CICLONE AL LARGO COSTE Allerta rossa su area orientale",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1635485404.996068,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T07.30.04E1635485404.9960856.json",
+        "en_title": "Bad weather Sicily, cyclone offshore red alert on eastern area",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sicily",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "alert",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "area",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "SERIE A: NAPOLI VINCE,MILAN RIPRESO",
+        "date_raw": "October 29, 2021",
+        "date": "2021-10-29",
+        "url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635485404.9960744,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-29T07.30.04E1635485404.9960856.json",
+        "en_title": "Serie A: Napoli Vince, Milan resumed",
+        "concepts": [
+            {
+                "word": "Serie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "A",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Napoli",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Vince",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Milan",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    }
+]

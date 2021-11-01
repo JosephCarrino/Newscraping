@@ -1,0 +1,284 @@
+[
+    {
+        "title": "IL DDL ZAN VERSO IL VOTO SEGRETO     Casellati: \"Richiesta ammissibile\"",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=120",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635334203.2938929,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T13.30.03E1635334203.2939851.json",
+        "en_title": "The ddl zan towards the secret rated boxes: \"admissible request\"",
+        "concepts": [
+            {
+                "word": "ddl",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "zan",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boxes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "request",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "VACCINI,FIGLIUOLO:\"OBIETTIVO E' IL 90%\" \"Italia ben sopra la media europea\"",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635334203.2939086,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T13.30.03E1635334203.2939851.json",
+        "en_title": "Vaccines, son: \"goal is 90%\" \"Italy well above the European average\"",
+        "concepts": [
+            {
+                "word": "Vaccines",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "son",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "goal",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "%",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "Italy",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "average",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Green Pass,allarme: furto per falsi",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635334203.29392,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T13.30.03E1635334203.2939851.json",
+        "en_title": "Green Pass, alarm: fake theft",
+        "concepts": [
+            {
+                "word": "Green",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pass",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "alarm",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "theft",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "CATANIA,PROTEZIONE CIVILE:NON E' FINITA Nei nubifragi 2 morti e un disperso",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1635334203.2939317,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T13.30.03E1635334203.2939851.json",
+        "en_title": "Catania, Civil Protection: It's not finished in the clouds 2 dead and a missing",
+        "concepts": [
+            {
+                "word": "Catania",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Civil",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protection",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "clouds",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "DRAGHI A SINDACATI: UNITI TUTELA DEBOLI Ieri alta tensione sulla Manovra",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": "",
+        "ranked": 4,
+        "placed": "Economics",
+        "epoch": 1635334203.2939444,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T13.30.03E1635334203.2939851.json",
+        "en_title": "Dragons to trade unions: united weak protection yesterday high voltage on the maneuver",
+        "concepts": [
+            {
+                "word": "Dragons",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "unions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "united",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protection",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "yesterday",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "voltage",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "maneuver",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MADRE REGENI:\"BASTA PAROLE,UE CI AIUTI\" \"Giulio era un cittadino europeo\"",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635334203.2939568,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T13.30.03E1635334203.2939851.json",
+        "en_title": "Mother Regeni: \"Just words, EU help us\" \"Giulio was a European citizen\"",
+        "concepts": [
+            {
+                "word": "Mother",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Regeni",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "words",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Giulio",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "citizen",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "AUTO CONTRO ALBERO, MORTI 3 RAGAZZI",
+        "date_raw": "October 27, 2021",
+        "date": "2021-10-27",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 6,
+        "placed": "First_Page",
+        "epoch": 1635334203.2939694,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-27T13.30.03E1635334203.2939851.json",
+        "en_title": "Car against tree, dead 3 boys",
+        "concepts": [
+            {
+                "word": "Car",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tree",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "boys",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

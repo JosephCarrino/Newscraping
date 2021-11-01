@@ -1,0 +1,672 @@
+[
+    {
+        "title": "Baldwin 'heartbroken' over fatal film set shooting",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59015889",
+        "content": "Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico.",
+        "placed": "First_Page",
+        "epoch": 1634947202.966146,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "Baldwin 'heartbroken' over fatal film set shooting",
+        "en_content": "Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "film",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "set",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shooting",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Baldwin 'heartbroken' over fatal film set shooting",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59015889",
+        "content": "Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9661765,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "Baldwin 'heartbroken' over fatal film set shooting",
+        "en_content": "Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "film",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "set",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shooting",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Protesting Eswatini nurses refuse to treat police",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-africa-59011033",
+        "content": "The health workers say security forces injured 30 colleagues when they opened fire at a protest.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9661965,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "Protesting Eswatini nurses refuse to treat police",
+        "en_content": "The health workers say security forces injured 30 colleagues when they opened fire at a protest.",
+        "concepts": [
+            {
+                "word": "Eswatini",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nurses",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "police",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-europe-59008892",
+        "content": "Chancellor Merkel bows out from her role at the EU's helm, praised as Europe's \"compass\".",
+        "placed": "First_Page",
+        "epoch": 1634947202.9662135,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "How Belarus is helping Ã¢ÂÂtouristsÃ¢ÂÂ break into the EU",
+        "en_content": "Chancellor Merkel bows out from her role at the EU's helm, praised as Europe's \"compass\".",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ã¢ÂÂtouristsÃ¢ÂÂ",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "break",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "EU leaders give Merkel an ovation at final summit",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/world-africa-59010951",
+        "content": "Students march into parliament in the Democratic Republic of Congo demanding better pay for teachers.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9662273,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "EU leaders give Merkel an ovation at final summit",
+        "en_content": "Students march into parliament in the Democratic Republic of Congo demanding better pay for teachers.",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "dative",
+                "pos": "VERB"
+            },
+            {
+                "word": "ovation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Students march into Congo parliament in strike row",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/uk-england-lancashire-59003006",
+        "content": "Doreen Lofthouse donates her fortune to a charity that strives to develop her hometown Fleetwood.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9662435,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "Students march into Congo parliament in strike row",
+        "en_content": "Doreen Lofthouse donates her fortune to a charity that strives to develop her hometown Fleetwood.",
+        "concepts": [
+            {
+                "word": "Students",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Congo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "strike",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Cough drop tycoon leaves ÃÂ£41m to hometown",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59013608",
+        "content": "Students were suspended and barred from school activities for wearing long hair, the lawsuit says.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9662595,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "Cough drop tycoon leaves ÃÂ£41m to hometown",
+        "en_content": "Students were suspended and barred from school activities for wearing long hair, the lawsuit says.",
+        "concepts": [
+            {
+                "word": "Cough",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tycoon",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaves",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Students sue Texas school district for hair policy",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-europe-59008890",
+        "content": "The one-off payment to lower-income groups is prompted by the spike in fuel and energy prices.",
+        "placed": "First_Page",
+        "epoch": 1634947202.966274,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "Students sue Texas school district for hair policy",
+        "en_content": "The one-off payment to lower-income groups is prompted by the spike in fuel and energy prices.",
+        "concepts": [
+            {
+                "word": "Students",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Texas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "district",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hair",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "policy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "France to pay 38m citizens Ã¢ÂÂ¬100 each to ease costs",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59015482",
+        "content": "The jailed real estate heir is facing a new second-degree murder charge, authorities say.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9662883,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "France to pay 38m citizens Ã¢ÂÂ¬100 each to ease costs",
+        "en_content": "The jailed real estate heir is facing a new second-degree murder charge, authorities say.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "m",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "citizens",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "costs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US tycoon Durst charged with murder of ex-wife",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59017479",
+        "content": "The controversial law will be tested next month when the court holds an expedited hearing.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9663024,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "US tycoon Durst charged with murder of ex-wife",
+        "en_content": "The controversial law will be tested next month when the court holds an expedited hearing.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "INTJ"
+            },
+            {
+                "word": "Durst",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ex",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "-",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "wife",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US Supreme Court to review Texas abortion law",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-africa-59011042",
+        "content": "Nomia Rosemary Ndlovu killed five family members and her boyfriend for life insurance, a court rules.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9663167,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "US Supreme Court to review Texas abortion law",
+        "en_content": "Nomia Rosemary Ndlovu killed five family members and her boyfriend for life insurance, a court rules.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Supreme",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Texas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "SA ex-policewoman killed relatives to pocket cash",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59017479",
+        "content": "The controversial law will be tested next month when the court holds an expedited hearing.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9663336,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "SA ex-policewoman killed relatives to pocket cash",
+        "en_content": "The controversial law will be tested next month when the court holds an expedited hearing.",
+        "concepts": [
+            {
+                "word": "SA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ex",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "policewoman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "relatives",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cash",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US Supreme Court to review Texas abortion law",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-africa-59011042",
+        "content": "Nomia Rosemary Ndlovu killed five family members and her boyfriend for life insurance, a court rules.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9663475,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "US Supreme Court to review Texas abortion law",
+        "en_content": "Nomia Rosemary Ndlovu killed five family members and her boyfriend for life insurance, a court rules.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Supreme",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Texas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "SA ex-policewoman killed relatives to pocket cash",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/health-59009293",
+        "content": "It may be more contagious than Delta, but there is no evidence yet that it causes worse illness, experts say.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9663608,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "SA ex-policewoman killed relatives to pocket cash",
+        "en_content": "It may be more contagious than Delta, but there is no evidence yet that it causes worse illness, experts say.",
+        "concepts": [
+            {
+                "word": "SA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "ex",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "policewoman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "relatives",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cash",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Delta 'Plus' variant may spread more readily",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/world-59016195",
+        "content": "Eight people have been killed and hundreds injured in protests at the occupied West Bank.",
+        "placed": "First_Page",
+        "epoch": 1634947202.9663744,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "Delta 'Plus' variant may spread more readily",
+        "en_content": "Eight people have been killed and hundreds injured in protests at the occupied West Bank.",
+        "concepts": [
+            {
+                "word": "Delta",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "variant",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Palestinians and Israelis clash over hillside",
+        "date_raw": "PT",
+        "news_url": "https://www.bbc.com/news/technology-59011271",
+        "content": "The social-media giant has found tweets from parties on the political right are \"amplified\" more.",
+        "placed": "First_Page",
+        "epoch": 1634947202.966382,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "Palestinians and Israelis clash over hillside",
+        "en_content": "The social-media giant has found tweets from parties on the political right are \"amplified\" more.",
+        "concepts": [
+            {
+                "word": "Palestinians",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Israelis",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "hillside",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Twitter's algorithm favours right-leaning politics",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/business-58769351",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1634947202.9663959,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "Twitter's algorithm favours right-leaning politics",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Twitter",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "algorithm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "politics",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "How adjusting flight plans can help the climate",
+        "date_raw": "2021-10-22",
+        "news_url": "https://www.bbc.com/news/science-environment-58982445",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1634947202.96641,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-23T02.00.02E1634947202.966421.json",
+        "en_title": "How adjusting flight plans can help the climate",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "flight",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

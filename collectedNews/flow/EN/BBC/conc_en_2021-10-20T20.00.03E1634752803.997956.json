@@ -1,0 +1,482 @@
+[
+    {
+        "title": "Clean out online cesspit now, Starmer tells PM",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-politics-58980384",
+        "content": "Boris Johnson promises to push through \"tough\" online safety laws, at Prime Minister's Questions.",
+        "placed": "Politics",
+        "epoch": 1634752803.9976568,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Clean out online cesspit now, Starmer tells PM",
+        "en_content": "Boris Johnson promises to push through \"tough\" online safety laws, at Prime Minister's Questions.",
+        "concepts": [
+            {
+                "word": "cesspit",
+                "meaning": "dobj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Starmer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Clean out online cesspit now, Starmer tells PM",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-politics-58980384",
+        "content": "Boris Johnson promises to push through \"tough\" online safety laws, at Prime Minister's Questions.",
+        "placed": "Politics",
+        "epoch": 1634752803.9976869,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Clean out online cesspit now, Starmer tells PM",
+        "en_content": "Boris Johnson promises to push through \"tough\" online safety laws, at Prime Minister's Questions.",
+        "concepts": [
+            {
+                "word": "cesspit",
+                "meaning": "dobj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Starmer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-politics-58958244",
+        "content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "placed": "Politics",
+        "epoch": 1634752803.997706,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Political editor",
+        "en_content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Can new law tackle social media abuse of MPs?",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-politics-58987040",
+        "content": "MPs call the action by anti-vaccine protesters \"scandalous\" in the week after Sir David Amess's death.",
+        "placed": "Politics",
+        "epoch": 1634752803.997722,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Can new law tackle social media abuse of MPs?",
+        "en_content": "MPs call the action by anti-vaccine protesters \"scandalous\" in the week after Sir David Amess's death.",
+        "concepts": [
+            {
+                "word": "law",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abuse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Arrest after mock gallows put up near Parliament",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-58985617",
+        "content": "Additional measures are not needed in England at this point, the health secretary says.",
+        "placed": "Politics",
+        "epoch": 1634752803.997738,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Arrest after mock gallows put up near Parliament",
+        "en_content": "Additional measures are not needed in England at this point, the health secretary says.",
+        "concepts": [
+            {
+                "word": "Arrest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gallows",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Parliament",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Get Covid jab or restrictions more likely - Javid",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-58983853",
+        "content": "It follows a number of reports of women being spiked by injections on nights out.",
+        "placed": "Politics",
+        "epoch": 1634752803.9977694,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Get Covid jab or restrictions more likely - Javid",
+        "en_content": "It follows a number of reports of women being spiked by injections on nights out.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jab",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Javid",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Patel wants police update on spiking by needles",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-politics-58980382",
+        "content": "Conservative MP Crispin Blunt says psilocybin has \"exciting potential\" as a treatment for mental health conditions.",
+        "placed": "Politics",
+        "epoch": 1634752803.9977977,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Patel wants police update on spiking by needles",
+        "en_content": "Conservative MP Crispin Blunt says psilocybin has \"exciting potential\" as a treatment for mental health conditions.",
+        "concepts": [
+            {
+                "word": "Patel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "police",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "update",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "needles",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM to consider calls to legalise magic mushroom drug",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-politics-58980384",
+        "content": "Boris Johnson promises to push through \"tough\" online safety laws, at Prime Minister's Questions.",
+        "placed": "Politics",
+        "epoch": 1634752803.997821,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "PM to consider calls to legalise magic mushroom drug",
+        "en_content": "Boris Johnson promises to push through \"tough\" online safety laws, at Prime Minister's Questions.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "calls",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "legalise",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mushroom",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drug",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Clean out online cesspit now, Starmer tells PM",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-politics-58958244",
+        "content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "placed": "Politics",
+        "epoch": 1634752803.9978426,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Clean out online cesspit now, Starmer tells PM",
+        "en_content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "concepts": [
+            {
+                "word": "cesspit",
+                "meaning": "dobj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Starmer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-politics-58987040",
+        "content": "MPs call the action by anti-vaccine protesters \"scandalous\" in the week after Sir David Amess's death.",
+        "placed": "Politics",
+        "epoch": 1634752803.9978619,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Political editor",
+        "en_content": "MPs call the action by anti-vaccine protesters \"scandalous\" in the week after Sir David Amess's death.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Can new law tackle social media abuse of MPs?",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-58985617",
+        "content": "Additional measures are not needed in England at this point, the health secretary says.",
+        "placed": "Politics",
+        "epoch": 1634752803.9978864,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Can new law tackle social media abuse of MPs?",
+        "en_content": "Additional measures are not needed in England at this point, the health secretary says.",
+        "concepts": [
+            {
+                "word": "law",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abuse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Arrest after mock gallows put up near Parliament",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-58983853",
+        "content": "It follows a number of reports of women being spiked by injections on nights out.",
+        "placed": "Politics",
+        "epoch": 1634752803.9979007,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Arrest after mock gallows put up near Parliament",
+        "en_content": "It follows a number of reports of women being spiked by injections on nights out.",
+        "concepts": [
+            {
+                "word": "Arrest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gallows",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Parliament",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Get Covid jab or restrictions more likely - Javid",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-politics-58980382",
+        "content": "Conservative MP Crispin Blunt says psilocybin has \"exciting potential\" as a treatment for mental health conditions.",
+        "placed": "Politics",
+        "epoch": 1634752803.9979148,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Get Covid jab or restrictions more likely - Javid",
+        "en_content": "Conservative MP Crispin Blunt says psilocybin has \"exciting potential\" as a treatment for mental health conditions.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jab",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Javid",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Patel wants police update on spiking by needles",
+        "date_raw": "2021-10-19",
+        "news_url": "https://www.bbc.com/news/uk-politics-58958244",
+        "content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "placed": "Politics",
+        "epoch": 1634752803.9979289,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "Patel wants police update on spiking by needles",
+        "en_content": "After Sir David Amess' death, we look at the detail of the Online Safety Bill and what measures it offers.",
+        "concepts": [
+            {
+                "word": "Patel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "police",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "update",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "needles",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM to consider calls to legalise magic mushroom drug",
+        "date_raw": "2021-10-20",
+        "news_url": "https://www.bbc.com/news/uk-politics-58987040",
+        "content": "MPs call the action by anti-vaccine protesters \"scandalous\" in the week after Sir David Amess's death.",
+        "placed": "Politics",
+        "epoch": 1634752803.9979434,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-20T20.00.03E1634752803.997956.json",
+        "en_title": "PM to consider calls to legalise magic mushroom drug",
+        "en_content": "MPs call the action by anti-vaccine protesters \"scandalous\" in the week after Sir David Amess's death.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "calls",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "legalise",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mushroom",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drug",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

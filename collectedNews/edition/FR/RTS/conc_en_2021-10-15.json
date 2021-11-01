@@ -3,14 +3,14 @@
         "title": "Le pass sanitaire est dÃÂ©sormais obligatoire au travail dans toute lÃ¢ÂÂItalie",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-pass-sanitaire-est-desormais-obligatoire-au-travail-dans-toute-l-italie-25770640.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-pass-sanitaire-est-desormais-obligatoire-au-travail-dans-toute-l-italie-25770640.html",
         "duration": "01:37",
         "ranked": 0,
         "epoch": 1635022808.2162743,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-15.json",
-        "en_title": "The health pass is now compulsory at work throughout Italy",
+        "filename": "conc_en_2021-10-15.json",
+        "en_title": "The sanitary pass is now compulsory at work throughout Italy",
         "concepts": [
             {
                 "word": "pass",
@@ -33,24 +33,39 @@
         "title": "LÃ¢ÂÂinquiÃÂ©tude monte vis-ÃÂ -vis du recyclage des batteries au lithium",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-inquietude-monte-vis-a-vis-du-recyclage-des-batteries-au-lithium-25770642.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-inquietude-monte-vis-a-vis-du-recyclage-des-batteries-au-lithium-25770642.html",
         "duration": "02:09",
         "ranked": 1,
         "epoch": 1635022808.2162766,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-15.json",
-        "en_title": "Concern is mounting about recycling lithium batteries",
+        "filename": "conc_en_2021-10-15.json",
+        "en_title": "Inqui- tude rises vis-Ã -vis the recycling of lithium batteries",
         "concepts": [
             {
-                "word": "Concern",
+                "word": "tude",
                 "meaning": "nsubj",
                 "pos": "VERB"
             },
             {
-                "word": "batteries",
-                "meaning": "dobj",
+                "word": "Ã",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "recycling",
+                "meaning": "dep",
                 "pos": "VERB"
+            },
+            {
+                "word": "lithium",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "batteries",
+                "meaning": "pobj",
+                "pos": "ADP"
             }
         ]
     },
@@ -58,14 +73,14 @@
         "title": "Le canton de GenÃÂ¨ve a dÃÂ©butÃÂ© le percement du tunnel des Nations",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-canton-de-geneve-a-debute-le-percement-du-tunnel-des-nations-25770634.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-canton-de-geneve-a-debute-le-percement-du-tunnel-des-nations-25770634.html",
         "duration": "01:27",
         "ranked": 2,
         "epoch": 1635022808.2162778,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-15.json",
-        "en_title": "The canton of Geneva has started the construction of the Tunnel des Nations",
+        "filename": "conc_en_2021-10-15.json",
+        "en_title": "The canton of Geneva has decided to pierce the tunnel of nations",
         "concepts": [
             {
                 "word": "canton",
@@ -78,12 +93,12 @@
                 "pos": "ADP"
             },
             {
-                "word": "construction",
+                "word": "tunnel",
                 "meaning": "dobj",
                 "pos": "VERB"
             },
             {
-                "word": "Nations",
+                "word": "nations",
                 "meaning": "pobj",
                 "pos": "ADP"
             }
@@ -93,14 +108,14 @@
         "title": "Stromae est de retour avec son titre \"SantÃÂ©\"",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/stromae-est-de-retour-avec-son-titre-sante-25770644.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/stromae-est-de-retour-avec-son-titre-sante-25770644.html",
         "duration": "01:57",
         "ranked": 3,
         "epoch": 1635022808.2162786,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-15.json",
-        "en_title": "Stromae is back with his track \"Health\"",
+        "filename": "conc_en_2021-10-15.json",
+        "en_title": "Stromae is back with his title \"SantÃ©\"",
         "concepts": [
             {
                 "word": "Stromae",
@@ -108,9 +123,19 @@
                 "pos": "AUX"
             },
             {
-                "word": "Health",
+                "word": "title",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "SantÃ",
+                "meaning": "npadvmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "©",
+                "meaning": "appos",
+                "pos": "NOUN"
             }
         ]
     },
@@ -118,18 +143,18 @@
         "title": "Comment les idÃÂ©es naissent-elles dans notre cerveau?",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/comment-les-idees-naissent-elles-dans-notre-cerveau-25770639.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/comment-les-idees-naissent-elles-dans-notre-cerveau-25770639.html",
         "duration": "02:46",
         "ranked": 4,
         "epoch": 1635022808.216279,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-15.json",
-        "en_title": "How do ideas arise in our brain?",
+        "filename": "conc_en_2021-10-15.json",
+        "en_title": "How do the ideas are born in our brain?",
         "concepts": [
             {
                 "word": "ideas",
-                "meaning": "nsubj",
+                "meaning": "nsubjpass",
                 "pos": "VERB"
             },
             {
@@ -143,33 +168,28 @@
         "title": "Une nouvelle sÃÂ©rie de la tÃÂ©lÃÂ©vision belge met en relation des inconnus qui font et ÃÂ©lÃÂ¨vent un enfant ensemble",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/une-nouvelle-serie-de-la-television-belge-met-en-relation-des-inconnus-qui-font-et-elevent-un-enfant-ensemble-25770633.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-nouvelle-serie-de-la-television-belge-met-en-relation-des-inconnus-qui-font-et-elevent-un-enfant-ensemble-25770633.html",
         "duration": "02:34",
         "ranked": 5,
         "epoch": 1635022808.2162797,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-15.json",
-        "en_title": "A new series from Belgian television connects strangers who make and raise a child together",
+        "filename": "conc_en_2021-10-15.json",
+        "en_title": "A new street of the Belgian vision connects strangers who make and elevate a child together",
         "concepts": [
             {
-                "word": "series",
+                "word": "street",
                 "meaning": "nsubj",
                 "pos": "VERB"
             },
             {
-                "word": "television",
+                "word": "vision",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
                 "word": "strangers",
                 "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "who",
-                "meaning": "nsubj",
                 "pos": "VERB"
             },
             {
@@ -183,32 +203,52 @@
         "title": "Hockey sur glace: deux derby romands sont au programme de la 15e journÃÂ©e de National League",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/hockey-sur-glace-deux-derby-romands-sont-au-programme-de-la-15e-journee-de-national-league-25770641.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/hockey-sur-glace-deux-derby-romands-sont-au-programme-de-la-15e-journee-de-national-league-25770641.html",
         "duration": "01:37",
         "ranked": 6,
         "epoch": 1635022808.2162802,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-15.json",
-        "en_title": "Ice hockey: two French-speaking derby are on the program for the 15th day of the National League",
+        "filename": "conc_en_2021-10-15.json",
+        "en_title": "Ice Hockey: Two Derby Romands are on the 15th National League Day program",
         "concepts": [
             {
-                "word": "derby",
+                "word": "Ice",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hockey",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "Derby",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Romands",
                 "meaning": "nsubj",
                 "pos": "AUX"
             },
             {
-                "word": "program",
-                "meaning": "pobj",
-                "pos": "ADP"
-            },
-            {
-                "word": "day",
-                "meaning": "pobj",
-                "pos": "ADP"
+                "word": "National",
+                "meaning": "compound",
+                "pos": "PROPN"
             },
             {
                 "word": "League",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Day",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "program",
                 "meaning": "pobj",
                 "pos": "ADP"
             }
@@ -218,24 +258,29 @@
         "title": "Le Point J - Qui sont ces hackers qui nous volent nos donnÃÂ©es?",
         "date_raw": "October 15, 2021",
         "date": "2021-10-15",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-point-j-qui-sont-ces-hackers-qui-nous-volent-nos-donnees-25770652.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-point-j-qui-sont-ces-hackers-qui-nous-volent-nos-donnees-25770652.html",
         "duration": "13:07",
         "ranked": 7,
         "epoch": 1635022808.216281,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-10-15.json",
-        "en_title": "Le Point J - Who are these hackers who steal our data?",
+        "filename": "conc_en_2021-10-15.json",
+        "en_title": "Point J - Who are these hackers who steal our data?",
         "concepts": [
             {
-                "word": "Who",
-                "meaning": "nsubj",
+                "word": "Point",
+                "meaning": "compound",
                 "pos": "AUX"
             },
             {
-                "word": "who",
-                "meaning": "nsubj",
-                "pos": "VERB"
+                "word": "J",
+                "meaning": "npadvmod",
+                "pos": "AUX"
+            },
+            {
+                "word": "hackers",
+                "meaning": "attr",
+                "pos": "AUX"
             },
             {
                 "word": "data",

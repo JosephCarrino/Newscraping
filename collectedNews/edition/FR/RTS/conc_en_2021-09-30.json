@@ -3,15 +3,20 @@
         "title": "Nicolas Sarkozy condamnÃÂ© ÃÂ  un an de prison pour le financement de sa campagne",
         "date_raw": "September 30, 2021",
         "date": "2021-09-30",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/nicolas-sarkozy-condamne-a-un-an-de-prison-pour-le-financement-de-sa-campagne-25766641.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/nicolas-sarkozy-condamne-a-un-an-de-prison-pour-le-financement-de-sa-campagne-25766641.html",
         "duration": "01:48",
         "ranked": 0,
-        "epoch": 1634562790.778826,
+        "epoch": 1635022808.2379284,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-30.json",
-        "en_title": "Nicolas Sarkozy sentenced to one year in prison for financing his campaign",
+        "filename": "conc_en_2021-09-30.json",
+        "en_title": "Nicolas Sarkozy sentenced to one year in prison for the financing of his campaign",
         "concepts": [
+            {
+                "word": "Nicolas",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
             {
                 "word": "Sarkozy",
                 "meaning": "nsubj",
@@ -28,9 +33,14 @@
                 "pos": "ADP"
             },
             {
+                "word": "financing",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
                 "word": "campaign",
-                "meaning": "dobj",
-                "pos": "VERB"
+                "meaning": "pobj",
+                "pos": "ADP"
             }
         ]
     },
@@ -38,22 +48,37 @@
         "title": "Les fonctionnaires genevois en grÃÂ¨ve face au gel de leurs salaires",
         "date_raw": "September 30, 2021",
         "date": "2021-09-30",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/les-fonctionnaires-genevois-en-greve-face-au-gel-de-leurs-salaires-25766640.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-fonctionnaires-genevois-en-greve-face-au-gel-de-leurs-salaires-25766640.html",
         "duration": "01:50",
         "ranked": 1,
-        "epoch": 1634562790.7788277,
+        "epoch": 1635022808.2379303,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-30.json",
-        "en_title": "Geneva civil servants on strike over salary freeze",
+        "filename": "conc_en_2021-09-30.json",
+        "en_title": "Geneva officials in grafe against the gel of their salaries",
         "concepts": [
             {
-                "word": "strike",
+                "word": "Geneva",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "officials",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "grafe",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
-                "word": "freeze",
+                "word": "gel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "salaries",
                 "meaning": "pobj",
                 "pos": "ADP"
             }
@@ -63,24 +88,49 @@
         "title": "NeuchÃÂ¢tel: la CCT21, lÃ¢ÂÂaccord sur le personnel hospitalier sera reconduit en 2021",
         "date_raw": "September 30, 2021",
         "date": "2021-09-30",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/neuchatel-la-cct21-l-accord-sur-le-personnel-hospitalier-sera-reconduit-en-2021-25766643.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/neuchatel-la-cct21-l-accord-sur-le-personnel-hospitalier-sera-reconduit-en-2021-25766643.html",
         "duration": "01:51",
         "ranked": 2,
-        "epoch": 1634562790.7788286,
+        "epoch": 1635022808.2379313,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-30.json",
-        "en_title": "NeuchÃ Â¢ tel: CCT21, the agreement on hospital staff will be renewed in 2021",
+        "filename": "conc_en_2021-09-30.json",
+        "en_title": "NeuchÃ Â¢ tel: CTC21, the hospital staff agreement will be renewed in 2021",
         "concepts": [
             {
-                "word": "staff",
-                "meaning": "pobj",
-                "pos": "ADP"
+                "word": "NeuchÃ",
+                "meaning": "compound",
+                "pos": "NOUN"
             },
             {
-                "word": "2021",
-                "meaning": "pobj",
-                "pos": "ADP"
+                "word": "Â¢",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tel",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "CTC21",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "hospital",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "staff",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "agreement",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
             }
         ]
     },
@@ -88,14 +138,14 @@
         "title": "Le Conseil des Etats dÃÂ©bloque le milliard de cohÃÂ©sion en faveur de lÃ¢ÂÂUnion europÃÂ©enne",
         "date_raw": "September 30, 2021",
         "date": "2021-09-30",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/le-conseil-des-etats-debloque-le-milliard-de-cohesion-en-faveur-de-l-union-europeenne-25766645.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-conseil-des-etats-debloque-le-milliard-de-cohesion-en-faveur-de-l-union-europeenne-25766645.html",
         "duration": "01:42",
         "ranked": 3,
-        "epoch": 1634562790.7788296,
+        "epoch": 1635022808.237932,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-30.json",
-        "en_title": "The Council of States unblocks the billion in cohesion in favor of the European Union",
+        "filename": "conc_en_2021-09-30.json",
+        "en_title": "The Council of States establishes the billion cohession in favor of the European Union",
         "concepts": [
             {
                 "word": "Council",
@@ -108,19 +158,19 @@
                 "pos": "ADP"
             },
             {
-                "word": "billion",
+                "word": "cohession",
                 "meaning": "dobj",
                 "pos": "VERB"
-            },
-            {
-                "word": "cohesion",
-                "meaning": "pobj",
-                "pos": "ADP"
             },
             {
                 "word": "favor",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "European",
+                "meaning": "compound",
+                "pos": "PROPN"
             },
             {
                 "word": "Union",
@@ -133,32 +183,37 @@
         "title": "LÃ¢ÂÂarmÃÂ©e analyse la potentielle pollution dans le lac de NeuchÃÂ¢tel provoquÃÂ©e par ses entraÃÂ®nements de tir",
         "date_raw": "September 30, 2021",
         "date": "2021-09-30",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-armee-analyse-la-potentielle-pollution-dans-le-lac-de-neuchatel-provoquee-par-ses-entrainements-de-tir-25766644.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-armee-analyse-la-potentielle-pollution-dans-le-lac-de-neuchatel-provoquee-par-ses-entrainements-de-tir-25766644.html",
         "duration": "01:47",
         "ranked": 4,
-        "epoch": 1634562790.7788303,
+        "epoch": 1635022808.2379327,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-30.json",
-        "en_title": "The army analyzes the potential pollution in Lake NeuchÃ¢tel caused by its shooting training",
+        "filename": "conc_en_2021-09-30.json",
+        "en_title": "The armed analysis the potential pollution in the lake of NeuchÃ£ Â¢ such provoked by its shooting entrances",
         "concepts": [
             {
-                "word": "army",
-                "meaning": "nsubj",
-                "pos": "VERB"
+                "word": "analysis",
+                "meaning": "ROOT",
+                "pos": "NOUN"
             },
             {
                 "word": "pollution",
-                "meaning": "dobj",
-                "pos": "VERB"
+                "meaning": "appos",
+                "pos": "NOUN"
             },
             {
-                "word": "NeuchÃ¢tel",
+                "word": "lake",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
-                "word": "training",
+                "word": "NeuchÃ£",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "entrances",
                 "meaning": "pobj",
                 "pos": "ADP"
             }
@@ -168,24 +223,24 @@
         "title": "L'initiative pour la justice veut introduire un principe de tirage au sort pour la nomination des juges fÃÂ©dÃÂ©raux",
         "date_raw": "September 30, 2021",
         "date": "2021-09-30",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-initiative-pour-la-justice-veut-introduire-un-principe-de-tirage-au-sort-pour-la-nomination-des-juges-federaux-25766653.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-initiative-pour-la-justice-veut-introduire-un-principe-de-tirage-au-sort-pour-la-nomination-des-juges-federaux-25766653.html",
         "duration": "01:45",
         "ranked": 5,
-        "epoch": 1634562790.778831,
+        "epoch": 1635022808.2379336,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-30.json",
-        "en_title": "The initiative for justice wants to introduce a principle of drawing lots for the appointment of federal judges",
+        "filename": "conc_en_2021-09-30.json",
+        "en_title": "The Justice Initiative wants to introduce a principle of draw for the appointment of federal judges",
         "concepts": [
             {
-                "word": "initiative",
-                "meaning": "nsubj",
-                "pos": "VERB"
+                "word": "Justice",
+                "meaning": "compound",
+                "pos": "PROPN"
             },
             {
-                "word": "justice",
-                "meaning": "pobj",
-                "pos": "ADP"
+                "word": "Initiative",
+                "meaning": "nsubj",
+                "pos": "VERB"
             },
             {
                 "word": "principle",
@@ -193,9 +248,9 @@
                 "pos": "VERB"
             },
             {
-                "word": "lots",
-                "meaning": "dobj",
-                "pos": "VERB"
+                "word": "draw",
+                "meaning": "pobj",
+                "pos": "ADP"
             },
             {
                 "word": "appointment",
@@ -213,15 +268,25 @@
         "title": "Il y a vingt ans, le traumatisme Swissair secouait la Suisse",
         "date_raw": "September 30, 2021",
         "date": "2021-09-30",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/il-y-a-vingt-ans-le-traumatisme-swissair-secouait-la-suisse-25766651.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/il-y-a-vingt-ans-le-traumatisme-swissair-secouait-la-suisse-25766651.html",
         "duration": "04:42",
         "ranked": 6,
-        "epoch": 1634562790.778832,
+        "epoch": 1635022808.2379344,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-30.json",
-        "en_title": "Twenty years ago, the Swissair trauma shook Switzerland",
+        "filename": "conc_en_2021-09-30.json",
+        "en_title": "Twenty years ago, Swissair trauma shook Switzerland",
         "concepts": [
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "Swissair",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
             {
                 "word": "trauma",
                 "meaning": "nsubj",
@@ -238,32 +303,52 @@
         "title": "Canada: une journÃÂ©e nationale de la rÃÂ©conciliation crÃÂ©e suite ÃÂ  la dÃÂ©couverte de tombes dÃ¢ÂÂenfants autochtones",
         "date_raw": "September 30, 2021",
         "date": "2021-09-30",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/canada-une-journee-nationale-de-la-reconciliation-cree-suite-a-la-decouverte-de-tombes-d-enfants-autochtones-25766657.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/canada-une-journee-nationale-de-la-reconciliation-cree-suite-a-la-decouverte-de-tombes-d-enfants-autochtones-25766657.html",
         "duration": "02:02",
         "ranked": 7,
-        "epoch": 1634562790.7788327,
+        "epoch": 1635022808.237935,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-30.json",
-        "en_title": "Canada: National day of reconciliation created following discovery of graves of Indigenous children",
+        "filename": "conc_en_2021-09-30.json",
+        "en_title": "Canada: A National Day of Reconciliation Created Following the Detaire of Aboriginal Children's Tombs",
         "concepts": [
             {
-                "word": "reconciliation",
+                "word": "Canada",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "National",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Day",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Reconciliation",
                 "meaning": "pobj",
                 "pos": "ADP"
             },
             {
-                "word": "discovery",
-                "meaning": "dobj",
+                "word": "Detaire",
+                "meaning": "pobj",
                 "pos": "VERB"
             },
             {
-                "word": "graves",
-                "meaning": "pobj",
-                "pos": "ADP"
+                "word": "Aboriginal",
+                "meaning": "compound",
+                "pos": "PROPN"
             },
             {
-                "word": "children",
+                "word": "Children",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Tombs",
                 "meaning": "pobj",
                 "pos": "ADP"
             }
@@ -273,15 +358,20 @@
         "title": "Nouvelle rencontre ÃÂ  GenÃÂ¨ve jeudi entre les ÃÂtats-Unis et la Russie",
         "date_raw": "September 30, 2021",
         "date": "2021-09-30",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/nouvelle-rencontre-a-geneve-jeudi-entre-les-etats-unis-et-la-russie-25766655.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/nouvelle-rencontre-a-geneve-jeudi-entre-les-etats-unis-et-la-russie-25766655.html",
         "duration": "01:29",
         "ranked": 8,
-        "epoch": 1634562790.7788332,
+        "epoch": 1635022808.237936,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-30.json",
-        "en_title": "New meeting in Geneva on Thursday between the United States and Russia",
+        "filename": "conc_en_2021-09-30.json",
+        "en_title": "New meeting on Geneva Thursday between the United States and Russia",
         "concepts": [
+            {
+                "word": "meeting",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
             {
                 "word": "Geneva",
                 "meaning": "pobj",
@@ -289,13 +379,23 @@
             },
             {
                 "word": "Thursday",
-                "meaning": "pobj",
-                "pos": "ADP"
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "United",
+                "meaning": "compound",
+                "pos": "PROPN"
             },
             {
                 "word": "States",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "Russia",
+                "meaning": "conj",
+                "pos": "PROPN"
             }
         ]
     },
@@ -303,19 +403,54 @@
         "title": "LÃ¢ÂÂinvitÃÂ© du 12h30 - Patrick Mohr, co-directeur de deux spectacles crÃÂ©ÃÂ©s pour un festival de photographie",
         "date_raw": "September 30, 2021",
         "date": "2021-09-30",
-        "url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-patrick-mohr-co-directeur-de-deux-spectacles-crees-pour-un-festival-de-photographie-25766663.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-patrick-mohr-co-directeur-de-deux-spectacles-crees-pour-un-festival-de-photographie-25766663.html",
         "duration": "08:01",
         "ranked": 9,
-        "epoch": 1634562790.7788339,
+        "epoch": 1635022808.237937,
         "language": "fr",
         "source": "RTS",
-        "filename": "en_2021-09-30.json",
-        "en_title": "The 12:30 pm guest - Patrick Mohr, co-director of two shows created for a photography festival",
+        "filename": "conc_en_2021-09-30.json",
+        "en_title": "The guest of 12:30 - Patrick Mohr, co-director of two shows created for a photography festival",
         "concepts": [
+            {
+                "word": "guest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Patrick",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mohr",
+                "meaning": "appos",
+                "pos": "NUM"
+            },
+            {
+                "word": "co",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "director",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
             {
                 "word": "shows",
                 "meaning": "pobj",
                 "pos": "ADP"
+            },
+            {
+                "word": "photography",
+                "meaning": "compound",
+                "pos": "NOUN"
             },
             {
                 "word": "festival",

@@ -1,0 +1,284 @@
+[
+    {
+        "title": "DRAGHI AL G20:NESSUNO PUO' FARE DA SOLO \"Multilateralismo risposta ai problemi\" \"Vaccini, basta disparitÃÂ  Paesi poveri\" Intesa dei Grandi sulla 'minimum tax'  Medici e infermieri in foto summit",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=150",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1635625804.529552,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T22.30.04E1635625804.5296133.json",
+        "en_title": "Dragons at the G20: no one can do it alone \"Multilateralism answer to the problems\" \"vaccines, just disparity poor countries\" intense of the great on 'minimum tax' doctors and nurses in photo summit",
+        "concepts": [
+            {
+                "word": "Dragons",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "G20",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "one",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Multilateralism",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "answer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "problems",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "vaccines",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disparity",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "countries",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tax",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "doctors",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "nurses",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "photo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "COVID-19, 4.878 NUOVI CASI E 37 DECESSI Tasso di positivitÃÂ  scende all'1%",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 1,
+        "placed": "First_Page",
+        "epoch": 1635625804.529563,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T22.30.04E1635625804.5296133.json",
+        "en_title": "COVID-19, 4,878 new cases and 37 deaths positivity rate drops to 1%",
+        "concepts": [
+            {
+                "word": "COVID-19",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cases",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "positivity",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rate",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "%",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "COVID,INCIDENZA MASSIMA IN UNDER 12",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=110",
+        "content": "",
+        "ranked": 2,
+        "placed": "First_Page",
+        "epoch": 1635625804.5295715,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T22.30.04E1635625804.5296133.json",
+        "en_title": "Covid, Maximum incidence in Under 12",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maximum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incidence",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "11 COLPI CONTRO I 2 GIOVANI DI ERCOLANO Palumbo fermato: \"Duplice omicidio\"",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=140",
+        "content": "",
+        "ranked": 3,
+        "placed": "First_Page",
+        "epoch": 1635625804.5295799,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T22.30.04E1635625804.5296133.json",
+        "en_title": "11 shots against the 2 young people of Ercolano Palumbo stopped: \"Dual murder\"",
+        "concepts": [
+            {
+                "word": "shots",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "people",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ercolano",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Palumbo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "murder",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "IL MATCH ATALANTA-LAZIO FINISCE 2-2   Verona batte e aggancia la Juve:2-1",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=201",
+        "content": "",
+        "ranked": 4,
+        "placed": "First_Page",
+        "epoch": 1635625804.5295875,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T22.30.04E1635625804.5296133.json",
+        "en_title": "The Atalanta-Lazio match ends 2-2 Verona beats and hooks Juve: 2-1",
+        "concepts": [
+            {
+                "word": "Atalanta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lazio",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "match",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Verona",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "beats",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Juve",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Stanotte lancette un'ora indietro",
+        "date_raw": "October 30, 2021",
+        "date": "2021-10-30",
+        "url": "http://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?categoria=Prima&pagina=103",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=160",
+        "content": "",
+        "ranked": 5,
+        "placed": "First_Page",
+        "epoch": 1635625804.5295951,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-30T22.30.04E1635625804.5296133.json",
+        "en_title": "Tonight hands an hour back",
+        "concepts": [
+            {
+                "word": "Tonight",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "hour",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

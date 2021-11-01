@@ -1,0 +1,207 @@
+[
+    {
+        "title": "PENSIONI, CGIL: QUOTA 102/104 INUTILE  Uscite sarebbero poco piÃÂ¹ di 10mila",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=131",
+        "content": "",
+        "ranked": 0,
+        "placed": "Economics",
+        "epoch": 1635010204.076912,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T19.30.04E1635010204.0769506.json",
+        "en_title": "Pensions, CGIL: 102/104 unnecessary quota outputs would be little more than 10 thousand",
+        "concepts": [
+            {
+                "word": "Pensions",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "CGIL",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "102/104",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "quota",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "outputs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "CGIA:\"1MLN LAVORATORI SENZA GREEN PASS\" Controlli non stringenti,sono elusi",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=132",
+        "content": "",
+        "ranked": 1,
+        "placed": "Economics",
+        "epoch": 1635010204.0769205,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T19.30.04E1635010204.0769506.json",
+        "en_title": "CGIA: \"1MLN workers without green pass\" non-stringent controls are eluses",
+        "concepts": [
+            {
+                "word": "CGIA",
+                "meaning": "prep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "workers",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "pass",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "controls",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "eluses",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "PNRR, FEDRIGA: UN FLOP SENZA LE REGIONI \"Capire come saranno spese risorse\"",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=133",
+        "content": "",
+        "ranked": 2,
+        "placed": "Economics",
+        "epoch": 1635010204.0769277,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T19.30.04E1635010204.0769506.json",
+        "en_title": "PNRR, Fedriga: a flop without the regions \"understand how resource costs will be\"",
+        "concepts": [
+            {
+                "word": "Fedriga",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "flop",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "regions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "resource",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "costs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPS, VERSO STOP NEGOZIATI MEF-UNICREDIT Lo riporta Reuters citando 2 fonti",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=134",
+        "content": "",
+        "ranked": 3,
+        "placed": "Economics",
+        "epoch": 1635010204.0769346,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T19.30.04E1635010204.0769506.json",
+        "en_title": "MPS, towards Stop negotiations MEF-UNICREDIT reports Reuters citing 2 sources",
+        "concepts": [
+            {
+                "word": "MPS",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "negotiations",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MEF",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "UNICREDIT",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "Reuters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sources",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Nota su indici di Borsa Televideo",
+        "date_raw": "October 23, 2021",
+        "date": "2021-10-23",
+        "news_url": "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina=139",
+        "content": "",
+        "ranked": 4,
+        "placed": "Economics",
+        "epoch": 1635010204.0769413,
+        "language": "it",
+        "source": "Televideo",
+        "filename": "conc_en_2021-10-23T19.30.04E1635010204.0769506.json",
+        "en_title": "Note on Teletext stock exchange indexes",
+        "concepts": [
+            {
+                "word": "Teletext",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exchange",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "indexes",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

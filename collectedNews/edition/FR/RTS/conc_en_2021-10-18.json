@@ -1,0 +1,422 @@
+[
+    {
+        "title": "LÃ¢ÂÂinvitÃÂ© du 12h30 - Hubert-FÃÂ©lix ThiÃÂ©faine prÃÂ©sente son album \"GÃÂ©ographie du vide\"",
+        "date_raw": "October 18, 2021",
+        "date": "2021-10-18",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-hubert-felix-thiefaine-presente-son-album-geographie-du-vide-25771292.html",
+        "duration": "10:20",
+        "ranked": 0,
+        "epoch": 1635109208.9143126,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "conc_en_2021-10-18.json",
+        "en_title": "The guest of the 12h30 - Hubert-FÃ Â© lix thiÃ Â© Faine presents his album \"Geographical of the void\"",
+        "concepts": [
+            {
+                "word": "guest",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Hubert",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "FÃ",
+                "meaning": "nmod",
+                "pos": "NUM"
+            },
+            {
+                "word": "Â",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "©",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "thiÃ",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Â",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "©",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Faine",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "album",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Geographical",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "void",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pas d'indice de violence systÃÂ©matique dans les centres d'asile, selon un rapport",
+        "date_raw": "October 18, 2021",
+        "date": "2021-10-18",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/pas-d-indice-de-violence-systematique-dans-les-centres-d-asile-selon-un-rapport-25771272.html",
+        "duration": "01:57",
+        "ranked": 1,
+        "epoch": 1635109208.9143147,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "conc_en_2021-10-18.json",
+        "en_title": "No system of systematic violence in asylum centers, according to a report",
+        "concepts": [
+            {
+                "word": "system",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "violence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "asylum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "centers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "report",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Encourager les jeunes en crise ÃÂ  demander de l'aide, la nouvelle campagne bernoise de la Main tendue",
+        "date_raw": "October 18, 2021",
+        "date": "2021-10-18",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/encourager-les-jeunes-en-crise-a-demander-de-l-aide-la-nouvelle-campagne-bernoise-de-la-main-tendue-25771277.html",
+        "duration": "03:08",
+        "ranked": 2,
+        "epoch": 1635109208.9143157,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "conc_en_2021-10-18.json",
+        "en_title": "Encourage young people in crisis to ask for help, the new Bernese hand outstretched",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crisis",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "help",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hand",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Le procÃÂ¨s trÃÂ¨s attendu du meurtre d'un joggeur noir s'ouvre en GÃÂ©orgie aux Etats-Unis",
+        "date_raw": "October 18, 2021",
+        "date": "2021-10-18",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-proces-tres-attendu-du-meurtre-d-un-joggeur-noir-s-ouvre-en-georgie-aux-etats-unis-25771276.html",
+        "duration": "01:52",
+        "ranked": 3,
+        "epoch": 1635109208.9143167,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "conc_en_2021-10-18.json",
+        "en_title": "The very expected process of the murder of a black jogger opens in gear in the United States",
+        "concepts": [
+            {
+                "word": "process",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "jogger",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "gear",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "United",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "States",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Reprise ÃÂ  GenÃÂ¨ve des nÃÂ©gociations sur la rÃÂ©forme constitutionnelle en Syrie sous lÃ¢ÂÂÃÂ©gide de lÃ¢ÂÂONU",
+        "date_raw": "October 18, 2021",
+        "date": "2021-10-18",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/reprise-a-geneve-des-negociations-sur-la-reforme-constitutionnelle-en-syrie-sous-l-egide-de-l-onu-25771280.html",
+        "duration": "01:58",
+        "ranked": 4,
+        "epoch": 1635109208.9143174,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "conc_en_2021-10-18.json",
+        "en_title": "Resumption of negotiations on the constitutional reaction in Syria under the United Nations",
+        "concepts": [
+            {
+                "word": "Resumption",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "negotiations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "reaction",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Syria",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "United",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Nations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Le procÃÂ¨s des sondages de l'ElysÃÂ©e s'ouvre dans l'ombre de Nicolas Sarkozy",
+        "date_raw": "October 18, 2021",
+        "date": "2021-10-18",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-proces-des-sondages-de-l-elysee-s-ouvre-dans-l-ombre-de-nicolas-sarkozy-25771282.html",
+        "duration": "01:19",
+        "ranked": 5,
+        "epoch": 1635109208.9143183,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "conc_en_2021-10-18.json",
+        "en_title": "The proceeds of the ElysÃ e surveys opens in the shadow of Nicolas Sarkozy",
+        "concepts": [
+            {
+                "word": "proceeds",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ElysÃ",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "e",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surveys",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "shadow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Nicolas",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sarkozy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Facebook prÃÂ©voit de crÃÂ©er 10'000 emplois en Europe pour le \"mÃÂ©tavers\"",
+        "date_raw": "October 18, 2021",
+        "date": "2021-10-18",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/facebook-prevoit-de-creer-10-000-emplois-en-europe-pour-le-metavers-25771279.html",
+        "duration": "02:12",
+        "ranked": 6,
+        "epoch": 1635109208.9143188,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "conc_en_2021-10-18.json",
+        "en_title": "Facebook presented to create 10'000 jobs in Europe for the \"MÃ©tavers\"",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "jobs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MÃ",
+                "meaning": "compound",
+                "pos": "ADJ"
+            },
+            {
+                "word": "tavers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Motocyclisme: le Suisse Dominique Aegerter sacrÃÂ© champion du monde en Supersport",
+        "date_raw": "October 18, 2021",
+        "date": "2021-10-18",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/motocyclisme-le-suisse-dominique-aegerter-sacre-champion-du-monde-en-supersport-25771287.html",
+        "duration": "01:39",
+        "ranked": 7,
+        "epoch": 1635109208.9143193,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "conc_en_2021-10-18.json",
+        "en_title": "Motorcycling: Switzerland Dominique Aegerter Sacred World Champion in Supersport",
+        "concepts": [
+            {
+                "word": "Motorcycling",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Switzerland",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dominique",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Aegerter",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sacred",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Champion",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Supersport",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "La plateforme de streaming Netflix met en ligne 32 films palestiniens",
+        "date_raw": "October 18, 2021",
+        "date": "2021-10-18",
+        "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-plateforme-de-streaming-netflix-met-en-ligne-32-films-palestiniens-25771285.html",
+        "duration": "01:58",
+        "ranked": 8,
+        "epoch": 1635109208.9143202,
+        "language": "fr",
+        "source": "RTS",
+        "filename": "conc_en_2021-10-18.json",
+        "en_title": "The Netflix streaming platform puts online 32 Palestinian films",
+        "concepts": [
+            {
+                "word": "Netflix",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "streaming",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "platform",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "films",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]
