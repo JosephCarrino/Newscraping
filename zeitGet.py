@@ -83,7 +83,6 @@ def main():
         f.close()
         i+=1
         #j+=1
-    print("ciao")
 
 if __name__ == "__main__":
     main()          
