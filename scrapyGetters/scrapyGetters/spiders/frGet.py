@@ -52,4 +52,7 @@ class FrgetSpider(scrapy.Spider):
         f= open("../../../collectedNews/edtion/EN/France24/" + str(edition[0]['date']) + ".json", "w")
         json.dump(edition, f, indent= 4, ensure_ascii=False)
         f.close()
+        f= open("../../../collectedNews/edtion/EN/France24/" + str(edition[0]['date']) + ".json", "a")
+        f.write("\n")
+        f.close()
         

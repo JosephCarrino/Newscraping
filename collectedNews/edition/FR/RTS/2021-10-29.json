@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/berne-la-session-des-femmes-reunie-pour-deux-jours-au-parlement-federal-25774174.html",
         "duration": "02:04",
         "ranked": 0,
-        "epoch": 1635717609.479477
+        "epoch": 1635775851.3121328
     },
     {
         "title": "Rome: rencontre entre Joe Biden et Emmanuel Macron au G20",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/rome-rencontre-entre-joe-biden-et-emmanuel-macron-au-g20-25774173.html",
         "duration": "02:01",
         "ranked": 1,
-        "epoch": 1635717609.479479
+        "epoch": 1635775851.312135
     },
     {
         "title": "Une pénurie de semi-conducteurs fait tourner l’industrie automobile au ralenti",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-penurie-de-semi-conducteurs-fait-tourner-l-industrie-automobile-au-ralenti-25774178.html",
         "duration": "02:04",
         "ranked": 2,
-        "epoch": 1635717609.4794803
+        "epoch": 1635775851.312136
     },
     {
         "title": "Yverdon-les-Bains: reportage à la ZAD de Clendy, qui s’oppose à la construction de neuf immeubles",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/yverdon-les-bains-reportage-a-la-zad-de-clendy-qui-s-oppose-a-la-construction-de-neuf-immeubles-25774180.html",
         "duration": "02:22",
         "ranked": 3,
-        "epoch": 1635717609.4794815
+        "epoch": 1635775851.3121367
     },
     {
         "title": "Le moustique tigre a été identifié dans le Canton de Vaud",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-moustique-tigre-a-ete-identifie-dans-le-canton-de-vaud-25774179.html",
         "duration": "01:31",
         "ranked": 4,
-        "epoch": 1635717609.4794822
+        "epoch": 1635775851.3121374
     },
     {
         "title": "Jura: le gouvernement rappelle que les commerces doivent récupérer les suremballages",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/jura-le-gouvernement-rappelle-que-les-commerces-doivent-recuperer-les-suremballages-25774181.html",
         "duration": "01:28",
         "ranked": 5,
-        "epoch": 1635717609.4794834
+        "epoch": 1635775851.3121386
     },
     {
         "title": "Les \"agents de l’étranger\", ces Russes contestataires recensés par Moscou",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-agents-de-l-etranger-ces-russes-contestataires-recenses-par-moscou-25774190.html",
         "duration": "02:05",
         "ranked": 6,
-        "epoch": 1635717609.479484
+        "epoch": 1635775851.3121395
     },
     {
         "title": "Les Etats-Unis vont-ils voter un boycott des JO de Pékin?",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-etats-unis-vont-ils-voter-un-boycott-des-jo-de-pekin-25774189.html",
         "duration": "01:25",
         "ranked": 7,
-        "epoch": 1635717609.4794846
+        "epoch": 1635775851.3121402
     },
     {
         "title": "Le Point J – Les filtres Instagram",
@@ -87,6 +87,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-point-j-les-filtres-instagram-25774192.html",
         "duration": "13:01",
         "ranked": 8,
-        "epoch": 1635717609.4794858
+        "epoch": 1635775851.3121414
     }
 ]

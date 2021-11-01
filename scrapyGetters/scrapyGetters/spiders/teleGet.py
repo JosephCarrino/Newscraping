@@ -123,4 +123,6 @@ class TelegetSpider(scrapy.Spider):
             f= open("../../../collectedNews/flow/IT/Televideo/" + str(now) + "E" + str(time.time()) + ".json", "w")
             json.dump(edition, f, indent= 4, ensure_ascii=False)
             f.close()
-                
+            f= open("../../../collectedNews/flow/IT/Televideo/" + str(now) + "E" + str(time.time()) + ".json", "a")
+            f.write("\n")
+            f.close()

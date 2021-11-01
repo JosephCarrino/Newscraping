@@ -102,4 +102,7 @@ for url_get in urls_get:
         f= open("collectedNews/flow/EN/NYT/" + str(now) + "E" + str(time.time()) + ".json", "w")
         json.dump(edition, f, indent= 4)
         f.close()
+        f= open("collectedNews/flow/EN/NYT/" + str(now) + "E" + str(time.time()) + ".json", "a")
+        f.write("\n")
+        f.close()
         
