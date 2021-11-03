@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Republikaner Glenn Youngkin gewinnt Gouverneurswahl in Virginia",
+        "date_raw": "November 03, 2021",
+        "date": "2021-11-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/usa-gouverneur-wahl-virginia-republikaner-demokraten-glenn-youngkin",
+        "content": "Erstmals seit zw\u00f6lf Jahren stellen die Republikaner in Virginia wieder den Gouverneur. Glenn Youngkin konnte sich laut Hochrechnungen gegen Terry McAuliffe durchsetzen.",
+        "ranked": 0,
+        "epoch": 1635919205.8398812
+    },
+    {
+        "title": "2G f\u00fcr alle",
+        "date_raw": "November 03, 2021",
+        "date": "2021-11-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-winter-vierte-welle-2g-ungeimpfte-impfquote-intensivstationen-ueberlastung-5vor8",
+        "content": "Wer sich nicht impft, gef\u00e4hrdet sich selbst \u2013 und andere. Um eine \u00dcberlastung der Krankenh\u00e4user zu verhindern, brauchen wir daher einen Lockdown f\u00fcr Ungeimpfte.",
+        "ranked": 1,
+        "epoch": 1635919205.8398845
+    },
+    {
+        "title": "Wahlen in Amerika, Entscheidung in der CDU, Medikament gegen Covid-19",
+        "date_raw": "November 03, 2021",
+        "date": "2021-11-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-11/usa-cdu-coronavirus-2021-11-03",
+        "content": "Die Republikaner gewinnen in Virginia, der k\u00fcnftige CDU-Chef wird von den Parteimitgliedern bestimmt und ein Corona-Medikament macht Hoffnung. Der Morgen\u00fcberblick",
+        "ranked": 2,
+        "epoch": 1635919205.8398862
+    },
+    {
+        "title": "Ein bitterer Abend f\u00fcr Joe Biden",
+        "date_raw": "November 03, 2021",
+        "date": "2021-11-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/gouverneurswahl-virginia-usa-joe-biden-terry-mcauliffe-demokraten",
+        "content": "Die Demokraten verlieren eine sicher geglaubte Gouverneurswahl in Virginia. Es ist eine Niederlage f\u00fcr US-Pr\u00e4sident Joe Biden. Und im Hintergrund lauert Donald Trump.",
+        "ranked": 3,
+        "epoch": 1635919205.8398874
+    },
+    {
+        "title": "Schwer auszusprechen, aber leicht zu schlucken",
+        "date_raw": "November 03, 2021",
+        "date": "2021-11-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/corona-medikament-behandlung-molnupiravir-therapie-nachrichtenpodcast",
+        "content": "Mit Molnupiravir k\u00f6nnte es bald ein effektives Medikament gegen Corona geben. Sein entscheidender Vorteil: Es ist eine Tablette. Au\u00dferdem: Klimapolitik nach Donald Trump",
+        "ranked": 4,
+        "epoch": 1635919205.8398883
+    },
+    {
+        "title": "Zu Sp\u00e4t?",
+        "date_raw": "November 03, 2021",
+        "date": "2021-11-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kaenguru-comics/2021-11/folge-266",
+        "content": "Der K\u00e4nguru-Comic vom 3. November 2021",
+        "ranked": 5,
+        "epoch": 1635919205.83989
+    },
+    {
+        "title": "Staaten planen riesiges Meeresschutzgebiet vor S\u00fcdamerika",
+        "date_raw": "November 03, 2021",
+        "date": "2021-11-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/ecuador-kolumbien-costa-rica-panama-meeresschutzgebiet-un-klimagipfel",
+        "content": "Ecuador, Kolumbien, Costa Rica und Panama wollen den Fischfang auf 500.000 Quadratkilometern Ozean verbieten. Das soll Meeresschildkr\u00f6ten und Hammerhaie retten.",
+        "ranked": 6,
+        "epoch": 1635919205.8398912
+    },
+    {
+        "title": "Schwarzer Ex-Polizist wird neuer B\u00fcrgermeister von New York",
+        "date_raw": "November 03, 2021",
+        "date": "2021-11-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/buergermeisterwahl-new-york-usa-eric-adams-ergebnis",
+        "content": "Der Demokrat Eric Adams hat laut Prognosen der US-Sender die B\u00fcrgermeisterwahl von New York gewonnen. Er wird das zweite schwarze Oberhaupt in der Geschichte der Stadt.",
+        "ranked": 7,
+        "epoch": 1635919205.8398924
+    },
+    {
+        "title": "RKI registriert im Wochenvergleich deutlich mehr Todesf\u00e4lle",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-11/coronavirus-neuinfektionen-rki-gesundheitsaemter-sachsen-bayern",
+        "content": "Die Landkreise haben dem RKI f\u00fcr Dienstag 20.398 Neuinfektionen und 194 weitere Tote gemeldet. Die Zahlen k\u00f6nnten wegen Allerheiligen allerdings unvollst\u00e4ndig sein.",
+        "ranked": 8,
+        "epoch": 1635919205.8398938
+    },
+    {
+        "title": "FC Bayern M\u00fcnchen qualifiziert sich f\u00fcrs Achtelfinale",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/champions-league-vfl-wolfsburg-rb-salzburg-fc-bayern-muenchen-benfica-lissabon-spielberichte",
+        "content": "Die Bayern besiegen Benfica Lissabon souver\u00e4n mit einem wuchtigen 5:2. Zuvor hat der VfL Wolfsburg gegen Salzburg gewonnen. Die Spielberichte",
+        "ranked": 9,
+        "epoch": 1635919205.839895
+    },
+    {
+        "title": "Was bringt der Kampf gegen Abholzung?",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/abholzung-klimaschutz-wald-rodung-holzhandel-faq",
+        "content": "Rund 100 Staaten wollen die weltweite Zerst\u00f6rung des Waldes bis zum Jahr 2030 stoppen. Das Problem ist riesig. Wie l\u00e4sst sich der Wald wirklich sch\u00fctzen?",
+        "ranked": 10,
+        "epoch": 1635919205.839896
+    },
+    {
+        "title": "Facebook schafft Gesichtserkennung weitgehend ab",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/2021-11/datenschutz-facebook-meta-privatsphaere-gesichtserkennung",
+        "content": "Die Onlineplattform steckt derzeit in einer Glaubw\u00fcrdigkeitskrise. Um Daten zu sch\u00fctzen, soll die 2010 eingef\u00fchrte Gesichtserkennung nur beschr\u00e4nkt weiter genutzt werden.",
+        "ranked": 11,
+        "epoch": 1635919205.8398972
+    },
+    {
+        "title": "Das war doch nur ein Kompliment",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/diskriminierung-sprache-fragen-interesse-hierarchie-kompliment-aufdringlich",
+        "content": "Offene Diskriminierung kann man benennen. Was aber tun, wenn sie sich hinter freundlichen Worten verbirgt? Unsere Autorin schreibt an all jene, die es nicht so meinten.",
+        "ranked": 12,
+        "epoch": 1635919205.8398983
+    },
+    {
+        "title": "Renten steigen 2022 voraussichtlich um mehr als f\u00fcnf Prozent",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/rente-niveau-anstieg-sozialpolitik-altersvorsoge",
+        "content": "Nach einer Nullrunde sollen die Renten im kommenden Jahr offenbar deutlich steigen: im Osten so stark wie seit sechs, im Westen wie seit fast 40 Jahren nicht mehr.",
+        "ranked": 13,
+        "epoch": 1635919205.8398995
+    },
+    {
+        "title": "\u00c4thiopiens Zentralregierung ruft Ausnahmezustand aus",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/tigray-aethiopien-ausnahmezustand-tplf-abiy-ahmed",
+        "content": "Im Kampf mit der Volksbefreiungsfront von Tigray sichert sich die Regierung weitgehende Befugnisse. Die Beh\u00f6rden in der Hauptstadt rufen dazu auf, sich zu bewaffnen.",
+        "ranked": 14,
+        "epoch": 1635919205.8399007
+    },
+    {
+        "title": "Millionen lieben Cricket, die Deutschen nicht",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/cricket-world-cup-wm-uebertragung-deuschland-icc-t20",
+        "content": "Die Cricket-WM 2021 ist nach Olympia wohl das gr\u00f6\u00dfte Sportevent des Jahres. Zumindest im Rest der Welt. In Deutschland wird sie nicht einmal \u00fcbertragen.",
+        "ranked": 15,
+        "epoch": 1635919205.839902
+    },
+    {
+        "title": "WDR will nicht mehr mit Nemi El-Hassan zusammenarbeiten",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-11/nemi-el-hassan-wdr-antisemitismus-quarks-bild",
+        "content": "In einem Gastbeitrag hatte die Journalistin dem WDR vorgeworfen, einer Kampagne aufgesessen zu sein. Der Sender sagt die Zusammenarbeit mit ihr daraufhin endg\u00fcltig ab.",
+        "ranked": 16,
+        "epoch": 1635919205.8399029
+    },
+    {
+        "title": "Die Stunde der Mitglieder",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/cdu-parteichef-mitgliederversammlung-parteitag-armin-laschet",
+        "content": "400.000 Christdemokraten w\u00e4hlen ihren neuen Parteichef. Statt der einvernehmlichen L\u00f6sung, die sich Armin Laschet w\u00fcnschte, steuert die CDU auf eine Kampfkandidatur zu.",
+        "ranked": 17,
+        "epoch": 1635919205.8399043
+    },
+    {
+        "title": "Mehr als 100 Staaten schlie\u00dfen Pakt gegen Methanaussto\u00df",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/un-klimakonferenz-cop26-methan-waelder-klimaschutz",
+        "content": "Es ist 80-mal klimasch\u00e4dlicher als CO2: Viele Staaten k\u00fcndigen auf der Klimakonferenz an, den Methanaussto\u00df zu verringern. Doch einige wichtige L\u00e4nder ziehen nicht mit.",
+        "ranked": 18,
+        "epoch": 1635919205.8399055
+    },
+    {
+        "title": "Wenn die Medikamente knapp werden",
+        "date_raw": "November 02, 2021",
+        "date": "2021-11-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/lieferengpaesse-corona-mangel-ngo-medikamente-cdu-nachrichtenpodcast",
+        "content": "Die coronabedingten Lieferengp\u00e4sse erschweren die Arbeit von Hilfsorganisationen. Medikamente kommen oft nicht rechtzeitig an. Au\u00dferdem im Update: Neuaufstellung der CDU",
+        "ranked": 19,
+        "epoch": 1635919205.839911
+    }
+]
