@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-position-de-la-suisse-parmi-les-200-pays-qui-participent-a-la-cop-26-25774817.html",
         "duration": "01:45",
         "ranked": 0,
-        "epoch": 1635890409.8476574
+        "epoch": 1635976809.7255664
     },
     {
         "title": "Les pays du G20 s'engagent à reverser 100 milliards de dollars aux pays vulnérables",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-pays-du-g20-s-engagent-a-reverser-100-milliards-de-dollars-aux-pays-vulnerables-25774825.html",
         "duration": "04:44",
         "ranked": 1,
-        "epoch": 1635890409.8476596
+        "epoch": 1635976809.7255695
     },
     {
         "title": "Prolonger la validité du pass Covid serait justifié scientifiquement",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/prolonger-la-validite-du-pass-covid-serait-justifie-scientifiquement-25774822.html",
         "duration": "01:16",
         "ranked": 2,
-        "epoch": 1635890409.8476605
+        "epoch": 1635976809.725571
     },
     {
         "title": "Genève tire le bilan de son plan d'action contre le harcèlement de rue lancé il y a un an",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/geneve-tire-le-bilan-de-son-plan-d-action-contre-le-harcelement-de-rue-lance-il-y-a-un-an-25774823.html",
         "duration": "01:55",
         "ranked": 3,
-        "epoch": 1635890409.8476613
+        "epoch": 1635976809.7255716
     },
     {
         "title": "L’Allemagne ne remboursera dorénavant plus les salaires des non-vaccinés en quarantaine",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-allemagne-ne-remboursera-dorenavant-plus-les-salaires-des-non-vaccines-en-quarantaine-25774826.html",
         "duration": "01:55",
         "ranked": 4,
-        "epoch": 1635890409.847662
+        "epoch": 1635976809.7255723
     },
     {
         "title": "Après huit mois d’interruption, les trains circulent à nouveau entre Neuchâtel et La Chaux-de-Fonds",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/apres-huit-mois-d-interruption-les-trains-circulent-a-nouveau-entre-neuchatel-et-la-chaux-de-fonds-25774827.html",
         "duration": "02:15",
         "ranked": 5,
-        "epoch": 1635890409.8476632
+        "epoch": 1635976809.7255733
     },
     {
         "title": "Tennis: début de la Billie Jean King Cup qui réunit les 12 meilleures nations du monde",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/tennis-debut-de-la-billie-jean-king-cup-qui-reunit-les-12-meilleures-nations-du-monde-25774837.html",
         "duration": "01:49",
         "ranked": 6,
-        "epoch": 1635890409.8476639
+        "epoch": 1635976809.7255743
     },
     {
         "title": "L’invité du 12h30 - Michel Bühler présente son album \"Rouge\"",
@@ -77,6 +77,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-michel-buhler-presente-son-album-rouge-25774839.html",
         "duration": "11:02",
         "ranked": 7,
-        "epoch": 1635890409.8476646
+        "epoch": 1635976809.7255752
     }
 ]

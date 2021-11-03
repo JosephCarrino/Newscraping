@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-representants-des-197-pays-de-la-cop26-se-reunissent-des-aujourd-hui-a-glasgow-25774544.html",
         "duration": "01:59",
         "ranked": 0,
-        "epoch": 1635890409.8086257
+        "epoch": 1635976809.2603936
     },
     {
         "title": "Les livres corona-sceptiques connaissent un succès en librairie",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-livres-corona-sceptiques-connaissent-un-succes-en-librairie-25774545.html",
         "duration": "02:03",
         "ranked": 1,
-        "epoch": 1635890409.8086283
+        "epoch": 1635976809.2603984
     },
     {
         "title": "La revue de presse alémanique",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-revue-de-presse-alemanique-25774546.html",
         "duration": "02:48",
         "ranked": 2,
-        "epoch": 1635890409.8086293
+        "epoch": 1635976809.260401
     },
     {
         "title": "Trois clubs romands s'affronteront cet après-midi pour la Superleague",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/trois-clubs-romands-s-affronteront-cet-apres-midi-pour-la-superleague-25774550.html",
         "duration": "01:33",
         "ranked": 3,
-        "epoch": 1635890409.80863
+        "epoch": 1635976809.2604024
     },
     {
         "title": "Les élections législatives ont lieu ce week-end au Japon",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-elections-legislatives-ont-lieu-ce-week-end-au-japon-25774547.html",
         "duration": "01:26",
         "ranked": 4,
-        "epoch": 1635890409.808631
+        "epoch": 1635976809.2604036
     },
     {
         "title": "Le Collectif BPM met en scène les objets du passé: interview de Pierre Mifsud et Léa Pohlhammer",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-collectif-bpm-met-en-scene-les-objets-du-passe-interview-de-pierre-mifsud-et-lea-pohlhammer-25774548.html",
         "duration": "02:08",
         "ranked": 5,
-        "epoch": 1635890409.8086321
+        "epoch": 1635976809.260405
     },
     {
         "title": "À voix haute - Arthur Lochmann: \"Le vertige révèle nos fragilités\"",
@@ -67,6 +67,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/a-voix-haute-arthur-lochmann-le-vertige-revele-nos-fragilites-25774564.html",
         "duration": "14:58",
         "ranked": 6,
-        "epoch": 1635890409.8086329
+        "epoch": 1635976809.260406
     }
 ]
