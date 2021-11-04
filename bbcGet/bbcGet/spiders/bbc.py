@@ -63,6 +63,7 @@ class BbcSpider(scrapy.Spider):
                 pass
             scraped_info = {
                 'title': item[0],
+                'date': date,
                 'date_raw': date,
                 #'date': datetime.strptime(date, "%B %d, %Y").strftime("%Y-%m-%d"),
                 'url': response.request.url,
