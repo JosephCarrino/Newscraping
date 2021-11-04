@@ -13,7 +13,7 @@ class FrgetSpider(scrapy.Spider):
     urls= []
     tod= date.today().strftime("%d")
     #for i in range(1, 31):
-    urls.append("https://www.france24.com/en/archives/2021/10/" + str(tod) + "-October-2021")
+    urls.append("https://www.france24.com/en/archives/2021/10/" + str(tod) + "-November-2021")
     allowed_domains = ['https://www.france24.com/en']
     start_urls = urls
 

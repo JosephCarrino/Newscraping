@@ -13,7 +13,7 @@ class PbsgetSpider(scrapy.Spider):
     toD= datetime.datetime.today()
     delta= datetime.timedelta(1)
     toD-=delta
-    url= toD.strftime("%B-%#d-%Y")
+    url= toD.strftime("%B-%d-%Y")
     isWeek= toD.weekday()
     #different urls for weekdays and weekends
     if isWeek < 5:
