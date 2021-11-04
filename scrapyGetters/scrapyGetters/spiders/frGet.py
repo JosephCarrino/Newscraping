@@ -13,7 +13,7 @@ class FrgetSpider(scrapy.Spider):
     urls= []
     tod= date.today().strftime("%d")
     #for i in range(1, 31):
-    urls.append("https://www.france24.com/en/archives/2021/10/" + str(tod) + "-November-2021")
+    urls.append("https://www.france24.com/en/archives/2021/11/" + str(tod) + "-November-2021")
     allowed_domains = ['https://www.france24.com/en']
     start_urls = urls
 
@@ -48,11 +48,11 @@ class FrgetSpider(scrapy.Spider):
                 'epoch': time.time()                
             }
             edition.append(scraped_info)
-            
-        f= open("../../../collectedNews/edtion/EN/France24/" + str(edition[0]['date']) + ".json", "w")
+        this_name = edition[0]['date']
+        f= open("../../../collectedNews/edition/EN/France24/" + str(this_name) + ".json", "w")
         json.dump(edition, f, indent= 4, ensure_ascii=False)
         f.close()
-        f= open("../../../collectedNews/edtion/EN/France24/" + str(edition[0]['date']) + ".json", "a")
+        f= open("../../../collectedNews/edition/EN/France24/" + str(this_name) + ".json", "a")
         f.write("\n")
         f.close()
         
