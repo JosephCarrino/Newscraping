@@ -1,14 +1,25 @@
 [
     {
+        "title": "Is France’s porn industry having its #MeToo moment?",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
+        "news_url": "https://www.france24.com/en/europe/20211104-is-france-s-porn-industry-having-its-metoo-moment",
+        "content": "",
+        "ranked": 0,
+        "placed": "First_Page",
+        "epoch": 1636063216.3896518
+    },
+    {
         "title": "Is it a bird? Is it a plane? No, it's France's TGV high-speed train!",
         "date_raw": "November 04, 2021",
         "date": "2021-11-04",
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/tv-shows/french-connections/20211104-is-it-a-bird-is-it-a-plane-no-it-s-france-s-tgv-high-speed-train",
         "content": "",
-        "ranked": 0,
+        "ranked": 1,
         "placed": "First_Page",
-        "epoch": 1636046733.4844718
+        "epoch": 1636063216.3896558
     },
     {
         "title": "International Criminal Court to probe possible Venezuela rights violations",
@@ -17,9 +28,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-international-criminal-court-to-probe-possible-venezuela-rights-violations",
         "content": "",
-        "ranked": 1,
+        "ranked": 2,
         "placed": "First_Page",
-        "epoch": 1636046733.4844754
+        "epoch": 1636063216.389657
     },
     {
         "title": "Biden in a 'Superbad' place, Covid-19 dreams and Munster feet",
@@ -28,9 +39,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/tv-shows/in-the-press/20211104-biden-in-a-superbad-place-covid-19-dreams-and-munster-feet",
         "content": "",
-        "ranked": 2,
+        "ranked": 3,
         "placed": "First_Page",
-        "epoch": 1636046733.4844773
+        "epoch": 1636063216.389658
     },
     {
         "title": "Democrat Phil Murphy reelected in nail-biter race for New Jersey governor",
@@ -39,9 +50,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/americas/20211103-democrat-phil-murphy-reelected-in-nail-biter-race-for-new-jersey-governor",
         "content": "",
-        "ranked": 3,
+        "ranked": 4,
         "placed": "First_Page",
-        "epoch": 1636046733.4844785
+        "epoch": 1636063216.389659
     },
     {
         "title": "South African author Damon Galgut wins Booker Prize",
@@ -50,9 +61,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-south-african-author-damon-galgut-wins-booker-prize",
         "content": "",
-        "ranked": 4,
+        "ranked": 5,
         "placed": "First_Page",
-        "epoch": 1636046733.4844797
+        "epoch": 1636063216.38966
     },
     {
         "title": "Europe rights body pulls pro-hijab campaign after French outcry",
@@ -61,9 +72,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-europe-rights-body-pulls-pro-hijab-campaign-after-french-outcry",
         "content": "",
-        "ranked": 5,
+        "ranked": 6,
         "placed": "First_Page",
-        "epoch": 1636046733.4844813
+        "epoch": 1636063216.3896606
     },
     {
         "title": "Afghanistan's ailing economy: Families suffer as banks low on cash",
@@ -72,9 +83,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-afghanistan-s-ailing-economy-families-suffer-as-banks-low-on-cash",
         "content": "",
-        "ranked": 6,
+        "ranked": 7,
         "placed": "First_Page",
-        "epoch": 1636046733.4844825
+        "epoch": 1636063216.3896618
     },
     {
         "title": "Algeria-Morocco: Decades of tensions in the disputed Western Sahara",
@@ -83,9 +94,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-algeria-morocco-decades-of-tensions-in-the-disputed-western-sahara",
         "content": "",
-        "ranked": 7,
+        "ranked": 8,
         "placed": "First_Page",
-        "epoch": 1636046733.484484
+        "epoch": 1636063216.3896625
     },
     {
         "title": "Europe rights body's pro-hijab campaign sparks outcry in France",
@@ -94,9 +105,20 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-europe-rights-body-s-pro-hijab-campaign-sparks-outcry-in-france",
         "content": "",
-        "ranked": 8,
+        "ranked": 9,
         "placed": "First_Page",
-        "epoch": 1636046733.4844851
+        "epoch": 1636063216.3896635
+    },
+    {
+        "title": "'Pallywood': truth and falsehoods amid political communications",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
+        "news_url": "https://www.france24.com/en/tv-shows/truth-or-fake/20211104-pallywood-truth-and-falsehoods-amid-political-communications",
+        "content": "",
+        "ranked": 10,
+        "placed": "First_Page",
+        "epoch": 1636063216.3896642
     },
     {
         "title": "Saudi-Lebanon Diplomatic Crisis",
@@ -105,9 +127,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-saudi-lebanon-diplomatic-crisis",
         "content": "",
-        "ranked": 9,
+        "ranked": 11,
         "placed": "First_Page",
-        "epoch": 1636046733.4844863
+        "epoch": 1636063216.3896651
     },
     {
         "title": "'Above Water': Aïssa Maïga explores consequences of drought in northern Niger",
@@ -116,9 +138,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/tv-shows/encore/20211104-above-water-a%C3%AFssa-ma%C3%AFga-explores-consequences-of-drought-in-northern-niger",
         "content": "",
-        "ranked": 10,
+        "ranked": 12,
         "placed": "First_Page",
-        "epoch": 1636046733.4844878
+        "epoch": 1636063216.3896701
     },
     {
         "title": "Rescuers find more bodies on site of collapsed high-rise in Lagos",
@@ -127,9 +149,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/africa/20211104-rescuers-find-more-bodies-on-site-of-collapsed-high-rise-in-lagos",
         "content": "",
-        "ranked": 11,
+        "ranked": 13,
         "placed": "First_Page",
-        "epoch": 1636046733.4844887
+        "epoch": 1636063216.3896708
     },
     {
         "title": "International calls for ceasefire in Ethiopia grow as rebels advance on capital",
@@ -138,9 +160,20 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/africa/20211104-international-calls-for-ceasefire-in-ethiopia-grow-amid-deepening-conflict",
         "content": "",
-        "ranked": 12,
+        "ranked": 14,
         "placed": "First_Page",
-        "epoch": 1636046733.48449
+        "epoch": 1636063216.3896716
+    },
+    {
+        "title": "Tunisia issues international arrest notice against former president Marzouki",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
+        "news_url": "https://www.france24.com/en/africa/20211104-tunisia-issues-international-arrest-notice-against-former-president-marzouki",
+        "content": "",
+        "ranked": 15,
+        "placed": "First_Page",
+        "epoch": 1636063216.3896725
     },
     {
         "title": "Eric Adams elected mayor of New York: Democrat faces staggering set of challenges",
@@ -149,9 +182,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/tv-shows/inside-the-americas/20211104-eric-adams-elected-mayor-of-new-york-democrat-faces-staggering-set-of-challenges",
         "content": "",
-        "ranked": 13,
+        "ranked": 16,
         "placed": "First_Page",
-        "epoch": 1636046733.484491
+        "epoch": 1636063216.3896732
     },
     {
         "title": "Afghans suffer as banks run low on cash and economy implodes",
@@ -160,9 +193,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/tv-shows/focus/20211104-afghans-suffer-as-banks-run-low-on-cash-and-economy-implodes",
         "content": "",
-        "ranked": 14,
+        "ranked": 17,
         "placed": "First_Page",
-        "epoch": 1636046733.4844923
+        "epoch": 1636063216.3896742
     },
     {
         "title": "South African playwright and novelist Damon Galgut wins Booker Prize for ‘The Promise’",
@@ -171,9 +204,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/culture/20211104-south-african-playwright-and-novelist-galgut-wins-booker-prize-for-the-promise",
         "content": "",
-        "ranked": 15,
+        "ranked": 18,
         "placed": "First_Page",
-        "epoch": 1636046733.4844933
+        "epoch": 1636063216.389675
     },
     {
         "title": "‘Everyone is waiting for them’: Curators prepare Benin artefacts for return from France",
@@ -182,9 +215,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/culture/20211104-everyone-is-waiting-for-them-curators-prepare-benin-artefacts-for-return-from-france",
         "content": "",
-        "ranked": 16,
+        "ranked": 19,
         "placed": "First_Page",
-        "epoch": 1636046733.4844947
+        "epoch": 1636063216.389676
     },
     {
         "title": "China censors tennis star’s sex assault claims against former vice premier",
@@ -193,9 +226,20 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/asia-pacific/20211104-china-censors-tennis-star-s-sex-assault-claims-against-former-vice-premier",
         "content": "",
-        "ranked": 17,
+        "ranked": 20,
         "placed": "First_Page",
-        "epoch": 1636046733.4844959
+        "epoch": 1636063216.3896768
+    },
+    {
+        "title": "COP26: IMF chief calls climate crisis 'once in a lifetime' opportunity",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
+        "news_url": "https://www.france24.com/en/tv-shows/people-profit/20211104-cop26-imf-chief-calls-climate-crisis-once-in-a-lifetime-opportunity",
+        "content": "",
+        "ranked": 21,
+        "placed": "First_Page",
+        "epoch": 1636063216.3896775
     },
     {
         "title": "Algeria blames Morocco for bombing of three truck drivers",
@@ -204,9 +248,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-algeria-blames-morocco-for-bombing-of-three-truck-drivers",
         "content": "",
-        "ranked": 18,
+        "ranked": 22,
         "placed": "First_Page",
-        "epoch": 1636046733.4844968
+        "epoch": 1636063216.3896782
     },
     {
         "title": "France's Beaune, UK's Frost meet to defuse fishing dispute",
@@ -215,9 +259,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-france-s-beaune-uk-s-frost-meet-to-defuse-fishing-dispute",
         "content": "",
-        "ranked": 19,
+        "ranked": 23,
         "placed": "First_Page",
-        "epoch": 1636046733.4844983
+        "epoch": 1636063216.3896792
     },
     {
         "title": "COP26: 190 nations and organisations agree to phase out coal",
@@ -226,9 +270,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/europe/20211104-cop26-190-nations-and-organisations-agree-to-phase-out-coal",
         "content": "",
-        "ranked": 20,
+        "ranked": 24,
         "placed": "First_Page",
-        "epoch": 1636046733.4845037
+        "epoch": 1636063216.3896801
     },
     {
         "title": "Calls for ceasefire in Ethiopia grow amid deepening conflict",
@@ -237,9 +281,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-calls-for-ceasefire-in-ethiopia-grow-amid-deepening-conflict",
         "content": "",
-        "ranked": 21,
+        "ranked": 25,
         "placed": "First_Page",
-        "epoch": 1636046733.4845052
+        "epoch": 1636063216.3896837
     },
     {
         "title": "Urgent efforts to calm Ethiopia as war reaches one-year mark",
@@ -248,9 +292,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-urgent-efforts-to-calm-ethiopia-as-war-reaches-one-year-mark",
         "content": "",
-        "ranked": 22,
+        "ranked": 26,
         "placed": "First_Page",
-        "epoch": 1636046733.4845061
+        "epoch": 1636063216.3896847
     },
     {
         "title": "Europe could see ‘another half million Covid-19 deaths’ by February, WHO warns",
@@ -259,9 +303,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/europe/20211104-europe-could-see-another-half-million-covid-19-deaths-by-february-who-warns",
         "content": "",
-        "ranked": 23,
+        "ranked": 27,
         "placed": "First_Page",
-        "epoch": 1636046733.484507
+        "epoch": 1636063216.3896859
     },
     {
         "title": "Indians celebrate Diwali, festival of light amid Covid-19 fears",
@@ -270,9 +314,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-indians-celebrate-diwali-festival-of-light-amid-covid-19-fears",
         "content": "",
-        "ranked": 24,
+        "ranked": 28,
         "placed": "First_Page",
-        "epoch": 1636046733.4845085
+        "epoch": 1636063216.389687
     },
     {
         "title": "Macron thanks Merkel for 'keeping Europe united' in last toast",
@@ -281,9 +325,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/europe/20211104-macron-thanks-merkel-for-keeping-europe-united-in-last-toast",
         "content": "",
-        "ranked": 25,
+        "ranked": 29,
         "placed": "First_Page",
-        "epoch": 1636046733.4845097
+        "epoch": 1636063216.3896883
     },
     {
         "title": "China censors tennis star Peng's #MeToo claims against top politician",
@@ -292,9 +336,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-china-censors-tennis-star-peng-s-metoo-claims-against-top-politician",
         "content": "",
-        "ranked": 26,
+        "ranked": 30,
         "placed": "First_Page",
-        "epoch": 1636046733.484511
+        "epoch": 1636063216.3896897
     },
     {
         "title": "Germany experiencing 'massive' Covid-19 pandemic of unvaccinated",
@@ -303,9 +347,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-germany-experiencing-massive-covid-19-pandemic-of-unvaccinated",
         "content": "",
-        "ranked": 27,
+        "ranked": 31,
         "placed": "First_Page",
-        "epoch": 1636046733.4845123
+        "epoch": 1636063216.3896906
     },
     {
         "title": "UK becomes first country to approve pill to treat Covid-19",
@@ -314,9 +358,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/europe/20211104-uk-becomes-first-country-to-approve-anti-covid-pill",
         "content": "",
-        "ranked": 28,
+        "ranked": 32,
         "placed": "First_Page",
-        "epoch": 1636046733.4845135
+        "epoch": 1636063216.3896918
     },
     {
         "title": "Ethiopia's Tigray conflict: Rebels say Addis Ababa could fall within weeks",
@@ -325,9 +369,20 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-ethiopia-s-tigray-conflict-rebels-say-addis-ababa-could-fall-within-weeks",
         "content": "",
-        "ranked": 29,
+        "ranked": 33,
         "placed": "First_Page",
-        "epoch": 1636046733.4845145
+        "epoch": 1636063216.3896933
+    },
+    {
+        "title": "Eritrean migrants struck by train in northern France",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
+        "news_url": "https://www.france24.com/en/europe/20211104-eritrean-migrants-struck-by-train-in-northern-france",
+        "content": "",
+        "ranked": 34,
+        "placed": "First_Page",
+        "epoch": 1636063216.3896945
     },
     {
         "title": "A wake-up call to climate crisis: Madagascar's environment minister talks to FRANCE 24",
@@ -336,9 +391,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-a-wake-up-call-to-climate-crisis-madagascar-s-environment-minister-talks-to-france-24",
         "content": "",
-        "ranked": 30,
+        "ranked": 35,
         "placed": "First_Page",
-        "epoch": 1636046733.484516
+        "epoch": 1636063216.3896954
     },
     {
         "title": "Israel spared fifth snap election as lawmakers pass budget",
@@ -347,9 +402,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-israel-spared-fifth-snap-election-as-lawmakers-pass-budget",
         "content": "",
-        "ranked": 31,
+        "ranked": 36,
         "placed": "First_Page",
-        "epoch": 1636046733.4845169
+        "epoch": 1636063216.3896968
     },
     {
         "title": "Covid-19 transmission rates in Europe are a 'grave concern', WHO says",
@@ -358,9 +413,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-covid-19-transmission-rates-in-europe-grave-concern-who-europe-head-says",
         "content": "",
-        "ranked": 32,
+        "ranked": 37,
         "placed": "First_Page",
-        "epoch": 1636046733.484518
+        "epoch": 1636063216.3896987
     },
     {
         "title": "Germany reports record number of new coronavirus cases",
@@ -369,9 +424,20 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-germany-reports-record-number-of-new-coronavirus-cases",
         "content": "",
-        "ranked": 33,
+        "ranked": 38,
         "placed": "First_Page",
-        "epoch": 1636046733.4845214
+        "epoch": 1636063216.3897035
+    },
+    {
+        "title": "US Supreme Court Questions Controversial Law",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
+        "news_url": "https://www.france24.com/en/video/20211104-us-supreme-court-questions-controversial-law",
+        "content": "",
+        "ranked": 39,
+        "placed": "First_Page",
+        "epoch": 1636063216.3897045
     },
     {
         "title": "Biden rejects blame for Democrats’ brutal election loss in Virginia",
@@ -380,9 +446,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/americas/20211104-biden-rejects-blame-for-democrats-brutal-election-loss-in-virginia",
         "content": "",
-        "ranked": 34,
+        "ranked": 40,
         "placed": "First_Page",
-        "epoch": 1636046733.4845228
+        "epoch": 1636063216.3897057
     },
     {
         "title": "What’s driving the escalating tensions between Algeria and Morocco?",
@@ -391,9 +457,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-what-s-driving-the-escalating-tensions-between-algeria-and-morocco",
         "content": "",
-        "ranked": 35,
+        "ranked": 41,
         "placed": "First_Page",
-        "epoch": 1636046733.484524
+        "epoch": 1636063216.3897073
     },
     {
         "title": "Clashes between Chilean security forces and indigenous Mapuche turn deadly",
@@ -402,9 +468,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/americas/20211104-clashes-between-chilean-security-forces-and-indigenous-mapuche-turn-deadly",
         "content": "",
-        "ranked": 36,
+        "ranked": 42,
         "placed": "First_Page",
-        "epoch": 1636046733.4845276
+        "epoch": 1636063216.3897083
     },
     {
         "title": "Poland summons Belarusian diplomat after border breach",
@@ -413,9 +479,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-poland-summons-belarusian-diplomat-after-border-breach",
         "content": "",
-        "ranked": 37,
+        "ranked": 43,
         "placed": "First_Page",
-        "epoch": 1636046733.4845285
+        "epoch": 1636063216.3897095
     },
     {
         "title": "Algeria blames Morocco for bombing as tensions escalate",
@@ -424,9 +490,31 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-algeria-blames-morocco-for-bombing-as-tensions-escalate",
         "content": "",
-        "ranked": 38,
+        "ranked": 44,
         "placed": "First_Page",
-        "epoch": 1636046733.48453
+        "epoch": 1636063216.3897107
+    },
+    {
+        "title": "Britain, France fail to resolve fish row, agree more talks",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
+        "news_url": "https://www.france24.com/en/video/20211104-britain-france-fail-to-resolve-fish-row-agree-more-talks",
+        "content": "",
+        "ranked": 45,
+        "placed": "First_Page",
+        "epoch": 1636063216.3897119
+    },
+    {
+        "title": "Tigrayan Forces Threaten Advance on Capital",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
+        "news_url": "https://www.france24.com/en/video/20211104-tigrayan-forces-threaten-advance-on-capital",
+        "content": "",
+        "ranked": 46,
+        "placed": "First_Page",
+        "epoch": 1636063216.389713
     },
     {
         "title": "Israel lawmakers pass first state budget in 3 years",
@@ -435,9 +523,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-israel-lawmakers-pass-first-state-budget-in-3-years",
         "content": "",
-        "ranked": 39,
+        "ranked": 47,
         "placed": "First_Page",
-        "epoch": 1636046733.4845312
+        "epoch": 1636063216.3897145
     },
     {
         "title": "Biden says of election losses 'people are upset,' vows to push agenda",
@@ -446,9 +534,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-biden-says-of-election-losses-people-are-upset-vows-to-push-agenda",
         "content": "",
-        "ranked": 40,
+        "ranked": 48,
         "placed": "First_Page",
-        "epoch": 1636046733.4845326
+        "epoch": 1636063216.3897154
     },
     {
         "title": "French court fines seven people over anti-Semitic posts targeting Miss France runner-up",
@@ -457,9 +545,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/europe/20211104-french-court-fines-seven-people-over-anti-semitic-posts-targeting-miss-france-runner-up",
         "content": "",
-        "ranked": 41,
+        "ranked": 49,
         "placed": "First_Page",
-        "epoch": 1636046733.4845335
+        "epoch": 1636063216.3897164
     },
     {
         "title": "France and Britain agree to more talks on fishing row",
@@ -468,9 +556,20 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/europe/20211104-france-and-britain-agree-to-more-talks-on-fishing-row",
         "content": "",
-        "ranked": 42,
+        "ranked": 50,
         "placed": "First_Page",
-        "epoch": 1636046733.4845347
+        "epoch": 1636063216.3897178
+    },
+    {
+        "title": "Rising to the bait? France-UK fishing row fuels post-Brexit bitterness",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
+        "news_url": "https://www.france24.com/en/tv-shows/the-debate/20211104-rising-to-the-bait-france-uk-fishing-row-fuels-post-brexit-bitterness",
+        "content": "",
+        "ranked": 51,
+        "placed": "First_Page",
+        "epoch": 1636063216.3897223
     },
     {
         "title": "Beirut port blast investigator forced to suspend probe for third time",
@@ -479,9 +578,20 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/middle-east/20211104-beirut-port-blast-investigator-forced-to-suspend-probe-for-third-time",
         "content": "",
-        "ranked": 43,
+        "ranked": 52,
         "placed": "First_Page",
-        "epoch": 1636046733.4845357
+        "epoch": 1636063216.3897235
+    },
+    {
+        "title": "Dozens killed in jihadist attack in western Niger",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
+        "news_url": "https://www.france24.com/en/africa/20211104-dozens-killed-in-jihadist-attack-in-western-niger",
+        "content": "",
+        "ranked": 53,
+        "placed": "First_Page",
+        "epoch": 1636063216.389725
     },
     {
         "title": "Planet vs people as Panama's mangroves are turned into coal",
@@ -490,9 +600,9 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-planet-vs-people-as-panama-s-mangroves-are-turned-into-coal",
         "content": "",
-        "ranked": 44,
+        "ranked": 54,
         "placed": "First_Page",
-        "epoch": 1636046733.4845371
+        "epoch": 1636063216.389726
     },
     {
         "title": "US blacklists Israeli maker of Pegasus spyware",
@@ -501,8 +611,8 @@
         "url": "https://www.france24.com/en/archives/2021/11/04-November-2021",
         "news_url": "https://www.france24.com/en/video/20211104-us-blacklists-israeli-maker-of-pegasus-spyware",
         "content": "",
-        "ranked": 45,
+        "ranked": 55,
         "placed": "First_Page",
-        "epoch": 1636046733.484538
+        "epoch": 1636063216.389727
     }
 ]
