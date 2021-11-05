@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Hamburg spart bei den \u00c4rmsten",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/hamburg-suchthilfe-personalabbau-corona-sparprogramm",
+        "content": "Sie gilt als systemrelevant, doch in der Pandemie droht der Hamburger Suchthilfe ein massiver Personalabbau. Der Beginn eines Corona-Sparprogramms?",
+        "ranked": 0,
+        "epoch": 1636146007.6897924
+    },
+    {
+        "title": "SPD und Linke verk\u00fcnden Einigung in Koalitionsgespr\u00e4chen",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/manuela-schwesig-spd-linke-koalitionsvertrag-mecklenburg-vorpommern",
+        "content": "Laut Manuela Schwesig gibt es nach \"ergebnisorientierten Gespr\u00e4chen\" keine Streitpunkte mehr. Ihre Wiederwahl als Ministerpr\u00e4sidentin planen die Parteien zur Monatsmitte.",
+        "ranked": 1,
+        "epoch": 1636146007.689795
+    },
+    {
+        "title": "Ja, es war wirklich so schlimm",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/kiki-jovanovic-selbstermaechtigung-missbrauch-migranten-anpassung-selbstbild",
+        "content": "Gewalt beginnt nicht mit physischen \u00dcbergriffen. Sie geschieht auch mit Worten und die Herkunft kann dar\u00fcber entscheiden, was man als verletzend empfindet. Und wie stark.",
+        "ranked": 2,
+        "epoch": 1636146007.6897964
+    },
+    {
+        "title": "Riesling jenseits des Rheins",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-11/riesling-elsass-wein-franzoesisch-deutsche-grenze",
+        "content": "Aus dem Elsass kommen gro\u00dfe Rieslinge, so komplex und intensiv wie wenige andere Weine. Sie zeigen, was man aus der vielseitigen Rebsorte alles herauskitzeln kann.",
+        "ranked": 3,
+        "epoch": 1636146007.689797
+    },
+    {
+        "title": "Mann, Hund, Roboter",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-11/finch-film-apple-tv-tom-hanks-apokalypse-roboter",
+        "content": "Tom Hanks spielt in dem sch\u00f6n traurigen Apokalypsefilm \"Finch\" den letzten lebenden Menschen. Und dessen letzte Aufgabe lautet: Mach aus einem Roboter einen Hundesitter.",
+        "ranked": 4,
+        "epoch": 1636146007.6897979
+    },
+    {
+        "title": "Pr\u00fcft Ihr Lokal Ihren Corona-Status?",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/corona-regeln-gastronomie-kontrolle-corona-status-2g-3g-leserumfrage",
+        "content": "L\u00e4ngst nicht \u00fcberall kontrollieren Gastst\u00e4tten, ob ihre Besucherinnen geimpft, getestet oder genesen sind. Wie nehmen Sie die Kontrolle der 3G- oder 2G-Regel wahr?",
+        "ranked": 5,
+        "epoch": 1636146007.6897986
+    },
+    {
+        "title": "Vergib mir, mein Freund",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-10/beichte-schuld-kirche-sakrament-suende",
+        "content": "Kaum jemand geht noch zur Beichte, um das Gewissen zu erleichtern. Aber wohin mit der Schuld und dem flauen Gef\u00fchl? Ein Pl\u00e4doyer f\u00fcr eine moderne Form der Erl\u00f6sung",
+        "ranked": 6,
+        "epoch": 1636146007.6898026
+    },
+    {
+        "title": "Erfolg mit klaren Ansagen",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/boosterimpfung-israel-corona-impfung-pfizer-impfdruchbrueche-impfschutz-wirksamkeit",
+        "content": "Als erstes Land der Welt setzte Israel auf Drittimpfungen \u2013 nicht nur als Angebot, sondern verbunden mit harten Regeln. Die Strategie scheint vorerst aufzugehen.",
+        "ranked": 7,
+        "epoch": 1636146007.6898036
+    },
+    {
+        "title": "Attila Hildmann wurde offenbar fr\u00fch aus Berliner Justiz gewarnt",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/attila-hildmann-flucht-tuerkei-berliner-justiz-warnung-spitzel",
+        "content": "Ende 2020 fl\u00fcchtete Verschw\u00f6rungsideologe Hildmann in die T\u00fcrkei. Einem Bericht zufolge soll er bereits deutlich fr\u00fcher interne Justizinformationen erhalten haben.",
+        "ranked": 8,
+        "epoch": 1636146007.689804
+    },
+    {
+        "title": "Der Booster soll es richten",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-gesundheitsministerkonferenz-booster-impfung-testpflicht-impfpflicht-pandemie",
+        "content": "Mehr Impfstoff und Tests sollen das Coronavirus einhegen, eine Impfpflicht f\u00fcr Pflegende kommt vorerst nicht. Doch die Debatte dar\u00fcber l\u00e4uft.",
+        "ranked": 9,
+        "epoch": 1636146007.6898048
+    },
+    {
+        "title": "Das Ende der Kohle ist versprochen",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/umwelt/2021-11/cop26-kohle-fossile-energietraeger-un-klimakonferenz-glasgow-klimaziele",
+        "content": "Mehr als 40 L\u00e4nder einigen sich in Glasgow auf eine Welt ohne fossile Energie. Ein Erfolg? Zumindest stimmt die Richtung: Anders sind die Klimaziele nicht erreichbar.",
+        "ranked": 10,
+        "epoch": 1636146007.6898055
+    },
+    {
+        "title": "Greta Thunberg nennt Klimakonferenz PR-Event",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/greta-thunberg-un-klimakonferenz-vorwurf-untaetigkeit-cop26-glasgow",
+        "content": "Leere Inhalte und viele sch\u00f6ne Reden: Die schwedische Klimaaktivistin Greta Thunberg kritisiert die Teilnehmer der UN-Klimakonferenz und ruft zu echter Ver\u00e4nderung auf.",
+        "ranked": 11,
+        "epoch": 1636146007.689806
+    },
+    {
+        "title": "Macrons Ex-Mitarbeiter zu drei Jahren Haft verurteilt",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/frankreich-ex-elysee-mitarbeiter-haftstrafe-alexandre-benalla-emmanuel-macron",
+        "content": "2018 war Alexandre Benalla gewaltt\u00e4tig gegen Demonstrierende geworden. Der Fall seines Ex-Mitarbeiters hatte den franz\u00f6sischen Pr\u00e4sidenten stark unter Druck gesetzt.",
+        "ranked": 12,
+        "epoch": 1636146007.689807
+    },
+    {
+        "title": "Der Boost, den wir brauchen",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/gesundheitsministerkonferenz-corona-vierte-welle-boosterimpfung-nachrichtenpodcast",
+        "content": "Die Gesundheitsminister haben beschlossen, die dritte Impfung f\u00fcr alle anzubieten. Das ist ein wichtiger Schritt. Und im Podcast-Update: Proteste auf der Klimakonferenz",
+        "ranked": 13,
+        "epoch": 1636146007.6898074
+    },
+    {
+        "title": "Mit alternativen Mitteln zur sanften Geburt \u2013 oder alles Hokuspokus?",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/zeit-doctor/2021-11/geburtsvorbereitung-naturheilkunde-akupunktur-homoeopathie-dammmassage",
+        "content": "Viele Frauen m\u00f6chten sich mit naturheilkundlichen Mitteln auf eine sanfte Geburt vorbereiten. Was Akupunktur, Massage oder Aroma\u00f6le aus wissenschaftlicher Sicht bringen.",
+        "ranked": 14,
+        "epoch": 1636146007.6898081
+    },
+    {
+        "title": "Verbraucher werden monatlich \u00fcber Heizenergieverbrauch informiert",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/heizkostenverordnung-bundesrat-abstimmung-monatliche-informierung-mieter",
+        "content": "Die Heizkostenabrechnung soll k\u00fcnftig einen Vergleich zum Durchschnittsverbrauch enthalten. Das soll Verbraucher zu einem bewussten Umgang mit W\u00e4rmeenergie anregen.",
+        "ranked": 15,
+        "epoch": 1636146007.6898086
+    },
+    {
+        "title": "UN-Menschenrechtskommissarin besorgt \u00fcber Lage im Sudan",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/sudan-militaerputsch-michelle-bachelet-un-hochmissarin-menschenrechte",
+        "content": "Nach dem Milit\u00e4rputsch im Sudan wurden laut Michelle Bachelet 13 Menschen get\u00f6tet und 300 verletzt. Auff\u00e4llig viele Festnahmen habe es bei Korruptionsermittlern gegeben.",
+        "ranked": 16,
+        "epoch": 1636146007.689809
+    },
+    {
+        "title": "Bundesregierung sieht keinen Grund, etwas zu \u00e4ndern",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/nso-group-israel-usa-sanktionsliste-deutschland-bundesregierung-reaktion",
+        "content": "Die USA haben die Spionagefirma NSO auf eine schwarze Liste gesetzt, doch die Bundesregierung reagiert unger\u00fchrt: Man habe es zur Kenntnis genommen, hei\u00dft es lediglich.",
+        "ranked": 17,
+        "epoch": 1636146007.68981
+    },
+    {
+        "title": "\"Irgendwann tut es weh\"",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/eu-polen-rechtsstaatskonflikt-druck-ausueben-europarecht-thu-nguyen",
+        "content": "Die EU greift zu finanziellen Mitteln, um Polen im Rechtsstaatskonflikt Druck zu machen. Wie das tats\u00e4chlich funktionieren kann, erkl\u00e4rt Europarechtsexpertin Thu Nguyen.",
+        "ranked": 18,
+        "epoch": 1636146007.6898108
+    },
+    {
+        "title": "Mehr als 75 Millionen Menschen k\u00f6nnen nicht richtig Badisch",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/bundesliga-vorschau-spieltag-11-bayern-muenchen-freiburg",
+        "content": "Alle reden von Bayerntoren, was aber, wenn Freiburg auch in M\u00fcnchen gewinnt? Und der BGH sagt: Eine Geldstrafe ist gar keine Strafe. Alles Wichtige zum 11. Spieltag",
+        "ranked": 19,
+        "epoch": 1636146007.6898143
+    }
+]
