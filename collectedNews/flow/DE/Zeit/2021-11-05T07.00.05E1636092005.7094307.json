@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Saskia Esken, unzufriedene Gr\u00fcne, Geburtsschmerz",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-11/saksia-esken-koalitionsverhandlungen-geburtsschmerz-2021-11-05",
+        "content": "Die SPD-Vorsitzende will wieder kandidieren, die Gr\u00fcnen kritisieren die Ampel-Verhandlungen und die Infektionszahlen steigen weiter. Der Morgen\u00fcberblick",
+        "ranked": 0,
+        "epoch": 1636092005.709378
+    },
+    {
+        "title": "Warum Deutschland eine neue Erkl\u00e4rung aus Glasgow nicht unterschreibt",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/un-klimagipfel-co2-kohleausstieg-cop26-nachrichtenpodcast",
+        "content": "Die Bundesregierung ist bei COP26 unter ihren M\u00f6glichkeiten geblieben. Au\u00dferdem im Nachrichtenpodcast: Was Deutschland bei der Drittimpfung von Israel lernen kann.",
+        "ranked": 1,
+        "epoch": 1636092005.7093809
+    },
+    {
+        "title": "Das Gedicht",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kaenguru-comics/2021-11/folge-268",
+        "content": "Der K\u00e4nguru-Comic vom 5. November 2021",
+        "ranked": 2,
+        "epoch": 1636092005.709382
+    },
+    {
+        "title": "Portugiesischer Pr\u00e4sident setzt vorgezogene Neuwahlen an",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/portugal-neuwahlen-praesident-haushalt",
+        "content": "Am 30. Januar 2022 w\u00e4hlen die Portugiesen ein neues Parlament. Zuvor war der Haushaltsentwurf von Ant\u00f3nio Costas linker Minderheitsregierung abgelehnt worden.",
+        "ranked": 3,
+        "epoch": 1636092005.709383
+    },
+    {
+        "title": "Sudanesische Milit\u00e4rf\u00fchrung l\u00e4sst vier Minister frei",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/sudan-putsch-militaer-minister-freilassung-un-antonio-guterres",
+        "content": "Vor der Ank\u00fcndigung hatten der UN-Generalsekret\u00e4r und der US-Au\u00dfenminister mit dem General telefoniert. Ant\u00f3nio Guterres forderte auch die Freilassung von Abdalla Hamdok.",
+        "ranked": 4,
+        "epoch": 1636092005.7093837
+    },
+    {
+        "title": "Litauen setzt Bauarbeiten an Grenzzaun zu Belarus fort",
+        "date_raw": "November 05, 2021",
+        "date": "2021-11-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/litauen-grenze-belarus-zaun-absperrung-fluechtlinge-polen",
+        "content": "In einigen Abschnitten ist die Stahlbsperrung bereits fertig. Das EU-Land wirft dem Nachbarn Belarus vor, Fl\u00fcchtlinge in organisierter Form an die Grenze zu bringen.",
+        "ranked": 5,
+        "epoch": 1636092005.7093844
+    },
+    {
+        "title": "Union Berlin nach Niederlage kurz vor dem Ausscheiden",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/conference-league-fussball-union-berlin-feyenoord-rotterdam",
+        "content": "Nach der Niederlage gegen Feyenoord Rotterdam sind f\u00fcr Union Berlin nun zwei Siege n\u00f6tig, um in der Conference League zu bleiben. Vor dem Spiel kam es zu Festnahmen.",
+        "ranked": 6,
+        "epoch": 1636092005.7093897
+    },
+    {
+        "title": "Gr\u00fcne vermissen \"inhaltliche Substanz\" bei Koalitionsverhandlungen",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/ampel-koalition-gruenen-spd-fdp-klimaschutz-inhalte",
+        "content": "Laut Gr\u00fcnen-Bundesgesch\u00e4ftsf\u00fchrer Michael Kellner weisen die Koalitionsgespr\u00e4che zu wenig inhaltliche Fortschritte auf. Unter anderem der Klimaschutz bleibt Streitpunkt.",
+        "ranked": 7,
+        "epoch": 1636092005.7093902
+    },
+    {
+        "title": "RKI registriert mehr als 37.000 neue Corona-F\u00e4lle",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-11/coronavirus-neuinfektionen-rki-gesundheitsaemter-hoechstwert-vierte-welle",
+        "content": "Mit 37.120 Neuinfektionen verzeichnet das Robert Koch-Institut mehr Ansteckungen denn je. Auch mehrere Bundesl\u00e4nder melden H\u00f6chstwerte. Die Inzidenz steigt auf 169,9.",
+        "ranked": 8,
+        "epoch": 1636092005.7093909
+    },
+    {
+        "title": "Bayer 04 Leverkusen gewinnt spielfreudig gegen Real Betis Sevilla",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/europa-league-olympiakos-piraeus-eintracht-frankfurt-bayer-leverkusen-real-betis-sevilla",
+        "content": "Gegen Real Betis Sevilla kann Bayer 04 Leverkusen die Serie an zuletzt gl\u00fccklosen Spielen beenden. Eintracht Frankfurt siegt gegen Olympiakos Pir\u00e4us. Die Spielberichte",
+        "ranked": 9,
+        "epoch": 1636092005.7093916
+    },
+    {
+        "title": "Moderner F\u00fcnfkampf k\u00fcnftig ohne Reiten",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/moderner-fuenfkampf-olympia-reiten-ersatz",
+        "content": "Nach den Vorf\u00e4llen bei den Olympischen Spielen in Tokio soll das Reiten bald nicht mehr Teil des Modernen F\u00fcnfkampfs sein. Bis 2028 soll die neue Sportart feststehen.",
+        "ranked": 10,
+        "epoch": 1636092005.709392
+    },
+    {
+        "title": "Das Geheimnis ist die Pause",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/zeit-doctor/2021-11/geburtsschmerzen-natuerliche-geburten-wehen-schmerzempfinden-yoga-hypnose-entspannung",
+        "content": "Wie schmerzhaft die Geburt ist, unterscheidet sich von Frau zu Frau. Keine wei\u00df, wie es bei ihr sein wird. Woran liegt das und kann man sich auf den Schmerz vorbereiten?",
+        "ranked": 11,
+        "epoch": 1636092005.7093928
+    },
+    {
+        "title": "Gibt es wirklich eine Hierarchie unter Straft\u00e4tern?",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-08/vorurteil-gefaengnis-sexualstraftaeter-hierarchie-moerder",
+        "content": "Im Gef\u00e4ngnis hat jeder seinen Platz in der Hackordnung und eine Gruppe ist besonders verhasst. Stimmt das? Seelsorger und Insassen berichten, was im Knast wirklich z\u00e4hlt.",
+        "ranked": 12,
+        "epoch": 1636092005.7093935
+    },
+    {
+        "title": "Wusste er, was er tat?",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/maskenverweigerer-versuchter-totschlag-niedergestohen-corona-landgericht-hamburg",
+        "content": "Ein 27-j\u00e4hriger Hamburger sticht einen anderen nieder, als der ihn auffordert, eine Maske zu tragen. Ist es die Tat eines Corona-Leugners? Vor Gericht bleibt das offen.",
+        "ranked": 13,
+        "epoch": 1636092005.7093942
+    },
+    {
+        "title": "Jetzt aber nachr\u00fcsten",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/republik21-denkfabrik-andreas-roedder-kristina-schroeder-vorstellung",
+        "content": "So richtig Wumms hatte die b\u00fcrgerliche Mitte zuletzt wahrlich nicht: Andreas R\u00f6dder und die Ex-Familienministerin Kristina Schr\u00f6der wollen das mit einem Thinktank \u00e4ndern.",
+        "ranked": 14,
+        "epoch": 1636092005.7093947
+    },
+    {
+        "title": "Marschieren bis zum Tod",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/kz-wachmann-josef-s-holocaust-ueberlebender-aussage-israel-schuhlaeuferkommando",
+        "content": "Im Prozess gegen den Wachmann Josef S. hat ein \u00dcberlebender aus Israel ausgesagt. Er \u00fcberstand die gef\u00fcrchtete Strafkompanie Schuhl\u00e4ufer im KZ Sachsenhausen.",
+        "ranked": 15,
+        "epoch": 1636092005.7093952
+    },
+    {
+        "title": "Mitarbeiter der US-Botschaft d\u00fcrfen ausreisen",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/aethiopien-konflikt-regierungstruppen-tigray-befreiungsfront-waffenstillstand-ausland",
+        "content": "Das Ausland bem\u00fcht sich um Eind\u00e4mmung des Konflikts in \u00c4thiopien. Die EU droht mit Sanktionen, die US-Botschaft stellt ihrem Personal frei, das Land zu verlassen.",
+        "ranked": 16,
+        "epoch": 1636092005.7093956
+    },
+    {
+        "title": "Beate Zsch\u00e4pe scheitert mit Anh\u00f6rungsr\u00fcge vor Bundesgerichtshof",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/nsu-prozess-beate-zschaepe-bgh-anhoerungsruege-abgewiesen",
+        "content": "NSU-Terroristin Beate Zsch\u00e4pe soll an zehn Morden beteiligt gewesen sein. Die Best\u00e4tigung des Urteils will sie nicht akzeptieren, doch der BGH hat ihre R\u00fcge abgewiesen.",
+        "ranked": 17,
+        "epoch": 1636092005.7093964
+    },
+    {
+        "title": "Gesundheits\u00e4mter melden weiter steigende Corona-F\u00e4lle",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/leonie/coronavirus-neuinfektionen-rki-gesundheitsaemter-berlin-hoechststand",
+        "content": "Die Beh\u00f6rden haben dem RKI f\u00fcr Samstag 16.887 Neuinfektionen und 33 Tote in Verbindung mit dem Virus gemeldet. Die Inzidenz hat sich bundesweit auf knapp 150 erh\u00f6ht.",
+        "ranked": 18,
+        "epoch": 1636092005.709397
+    },
+    {
+        "title": "Eine Frau mehr im Haus",
+        "date_raw": "November 04, 2021",
+        "date": "2021-11-04",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-10/kinderbetreuung-nanny-tagesmutter-familien-gleichberechtigung-hausangestellte-feminismus",
+        "content": "Eltern, die eine Nanny besch\u00e4ftigen, scheinen freier, spontaner und gelassener zu sein. Unsere Autorin fragt sich: Warum habe ich eigentlich niemanden, der mir hilft?",
+        "ranked": 19,
+        "epoch": 1636092005.709401
+    }
+]
