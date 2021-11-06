@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-vingtaine-de-morts-dans-un-attentat-contre-un-hopital-de-kaboul-25775125.html",
         "duration": "01:29",
         "ranked": 0,
-        "epoch": 1636149611.3927221
+        "epoch": 1636236008.9109614
     },
     {
         "title": "COP 26: Rockefeller, Ikea et le Bezos Earth Fund s’allient pour développer des sources d'énergie propres",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/cop-26-rockefeller-ikea-et-le-bezos-earth-fund-s-allient-pour-developper-des-sources-d-energie-propres-25775129.html",
         "duration": "02:01",
         "ranked": 1,
-        "epoch": 1636149611.392725
+        "epoch": 1636236008.9109638
     },
     {
         "title": "COP 26: l’Inde s’engage à atteindre la neutralité carbone d’ici à 2070",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/cop-26-l-inde-s-engage-a-atteindre-la-neutralite-carbone-d-ici-a-2070-25775127.html",
         "duration": "01:47",
         "ranked": 2,
-        "epoch": 1636149611.3927264
+        "epoch": 1636236008.9109647
     },
     {
         "title": "Les acteurs économiques dans le Jura bernois investissent pour le rayonnement de la région",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-acteurs-economiques-dans-le-jura-bernois-investissent-pour-le-rayonnement-de-la-region-25775126.html",
         "duration": "02:09",
         "ranked": 3,
-        "epoch": 1636149611.3927274
+        "epoch": 1636236008.9109657
     },
     {
         "title": "Succès inespéré pour le 21e Salon Suisse des Goûts et Terroirs à Bulle",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/succes-inespere-pour-le-21e-salon-suisse-des-gouts-et-terroirs-a-bulle-25775130.html",
         "duration": "01:40",
         "ranked": 4,
-        "epoch": 1636149611.3927283
+        "epoch": 1636236008.9109666
     },
     {
         "title": "La Suisse réfléchit à mieux protéger les victimes de violences domestiques: interview de Lorella Bertani",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-reflechit-a-mieux-proteger-les-victimes-de-violences-domestiques-interview-de-lorella-bertani-25775143.html",
         "duration": "04:40",
         "ranked": 5,
-        "epoch": 1636149611.392729
+        "epoch": 1636236008.9109674
     },
     {
         "title": "Les habitants de Minneapolis votent sur une proposition de réforme radicale de la police",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-habitants-de-minneapolis-votent-sur-une-proposition-de-reforme-radicale-de-la-police-25775141.html",
         "duration": "02:36",
         "ranked": 6,
-        "epoch": 1636149611.3927298
+        "epoch": 1636236008.9109683
     },
     {
         "title": "Ligue des Champions: qui est Villareal, l’adversaire de Young Boys?",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/ligue-des-champions-qui-est-villareal-l-adversaire-de-young-boys-25775142.html",
         "duration": "01:47",
         "ranked": 7,
-        "epoch": 1636149611.3927307
+        "epoch": 1636236008.910969
     },
     {
         "title": "L’invitée du 12h30 - Lucienne Peiry présente l’exposition \"Ecrits d'Art brut\"",
@@ -87,6 +87,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invitee-du-12h30-lucienne-peiry-presente-l-exposition-ecrits-d-art-brut-25775144.html",
         "duration": "07:48",
         "ranked": 8,
-        "epoch": 1636149611.3927314
+        "epoch": 1636236008.9109702
     }
 ]
