@@ -75,10 +75,11 @@ def main():
             edition.append(scraped_info)
     now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
     if toDump:
-        f= open("collectedNews/flow/DE/Zeit/" + str(now) + "E" + str(time.time()) + ".json", "w")
+        my_f = str(now) + "E" + str(time.time())
+        f= open("collectedNews/flow/DE/Zeit/" + my_f + ".json", "w")
         json.dump(edition, f, indent= 4)
         f.close()
-        f= open("collectedNews/flow/DE/Zeit/" + str(now) + "E" + str(time.time()) + ".json", "a")
+        f= open("collectedNews/flow/DE/Zeit/" + my_f + ".json", "a")
         f.write("\n")
         f.close()
         i+=1
