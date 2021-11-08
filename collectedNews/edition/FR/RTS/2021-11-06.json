@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/des-manifestations-pour-le-climat-auront-lieu-ce-samedi-dans-le-monde-entier-en-marge-de-la-cop26-25776237.html",
         "duration": "02:03",
         "ranked": 0,
-        "epoch": 1636322410.722669
+        "epoch": 1636408812.17944
     },
     {
         "title": "Une commission du Conseil national refuse d’entrer en matière sur le droit de vote dès 16 ans",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-commission-du-conseil-national-refuse-d-entrer-en-matiere-sur-le-droit-de-vote-des-16-ans-25776236.html",
         "duration": "01:35",
         "ranked": 1,
-        "epoch": 1636322410.7227101
+        "epoch": 1636408812.1794426
     },
     {
         "title": "L’équipe féminine de Suisse de tennis joue la finale de la Billie Jean King Cup",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-equipe-feminine-de-suisse-de-tennis-joue-la-finale-de-la-billie-jean-king-cup-25776238.html",
         "duration": "01:22",
         "ranked": 2,
-        "epoch": 1636322410.7227113
+        "epoch": 1636408812.179444
     },
     {
         "title": "Le président Daniel Ortega est assuré d’être réélu au Nicaragua après avoir fait enfermer ses adversaires",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-president-daniel-ortega-est-assure-d-etre-reelu-au-nicaragua-apres-avoir-fait-enfermer-ses-adversaires-25776244.html",
         "duration": "02:05",
         "ranked": 3,
-        "epoch": 1636322410.7227123
+        "epoch": 1636408812.1794448
     },
     {
         "title": "Le Centre d’apprentissage de l’Arc jurassien ouvre ses portes au public ce week-end",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-centre-d-apprentissage-de-l-arc-jurassien-ouvre-ses-portes-au-public-ce-week-end-25776239.html",
         "duration": "02:33",
         "ranked": 4,
-        "epoch": 1636322410.722713
+        "epoch": 1636408812.1794457
     },
     {
         "title": "Une pièce de théâtre utilise la réalité virtuelle pour évoquer le syndrome d’enfermement",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-piece-de-theatre-utilise-la-realite-virtuelle-pour-evoquer-le-syndrome-d-enfermement-25776243.html",
         "duration": "02:38",
         "ranked": 5,
-        "epoch": 1636322410.7227142
+        "epoch": 1636408812.1794467
     },
     {
         "title": "15 minutes - Chauffeurs routier, à quand la relève?",
@@ -67,6 +67,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/15-minutes-chauffeurs-routier-a-quand-la-releve-25776253.html",
         "duration": "15:06",
         "ranked": 6,
-        "epoch": 1636322410.722715
+        "epoch": 1636408812.1794477
     }
 ]
