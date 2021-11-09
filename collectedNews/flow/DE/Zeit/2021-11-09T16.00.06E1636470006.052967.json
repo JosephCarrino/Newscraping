@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Benin fordert von Frankreich R\u00fcckgabe weiterer Kulturg\u00fcter",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/raubkunst-frankreich-benin-kolonialismus-rueckgabe-restitution",
+        "content": "In Paris wurden dem afrikanischen Land Benin 26 gestohlene Artefakte wiedergegeben. Dazu hatte sich Macron 2017 verpflichtet. Benin erwartet nun weitere R\u00fcckgaben.",
+        "ranked": 0,
+        "epoch": 1636470006.052921
+    },
+    {
+        "title": "Ist doch nur Spiel?",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/leben/2021-11/squid-game-netflix-serie-jugendliche-kinder-gewalt-medien-eltern",
+        "content": "Die Serie \"Squid Game\" hat erneut Sorge um die Verrohung der Jugend ausgel\u00f6st. Wie gef\u00e4hrlich Gewaltinhalte f\u00fcr Kinder wirklich sind und wie Eltern damit umgehen k\u00f6nnen.",
+        "ranked": 1,
+        "epoch": 1636470006.0529237
+    },
+    {
+        "title": "Schleppende Digitalisierung verschlingt laut Verband viel Steuergeld",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/schwarzbuch-bund-der-steuerzahler-corona-steuergelder-verschwendung",
+        "content": "Corona-Impfungen direkt elektronisch zu erfassen h\u00e4tte viel Geld gespart, ist der Bund der Steuerzahler \u00fcberzeugt. Er sieht weitere Beispiele f\u00fcr Verschwendung.",
+        "ranked": 2,
+        "epoch": 1636470006.0529244
+    },
+    {
+        "title": "Wie hei\u00df wird die Welt?",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-11/un-klimakonferenz-cop26-climate-action-tracker-erderwaermung-berechnung-klimaschutz",
+        "content": "Mit den neuen Klimazielen vieler L\u00e4nder k\u00f6nnte die Erderw\u00e4rmung erstmals unter zwei Grad bleiben, zeigen Daten. Nur fehlen realistische Pl\u00e4ne f\u00fcr die n\u00e4chsten zehn Jahre.",
+        "ranked": 3,
+        "epoch": 1636470006.052925
+    },
+    {
+        "title": "MDR erstattet nach Angriff auf Kamerateam in Zwickau Anzeige",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-demonstration-mdr-kamerafrau-angriff-zwickau-sachsen",
+        "content": "Bei Dreharbeiten zu einer Demo gegen Corona-Ma\u00dfnahmen haben Vermummte ein Team des Mitteldeutschen Rundfunks attackiert. Intendantin Karola Wille verurteilte die Gewalt.",
+        "ranked": 4,
+        "epoch": 1636470006.052926
+    },
+    {
+        "title": "Beim Reiten geht es vor allem um das eigene Ego",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/moderner-fuenfkampf-regelaenderung-reiten-reitsport-pferdefreundlich-olympia",
+        "content": "Das Springreiten wird aus dem Modernen F\u00fcnfkampf gestrichen. Unsere Autorin ist Freizeitreiterin und findet: Endlich! Das gro\u00dfe Dilemma des Pferdesports aber bleibt.",
+        "ranked": 5,
+        "epoch": 1636470006.0529268
+    },
+    {
+        "title": "Jeder f\u00fcnfte Besch\u00e4ftigte hat Erfahrung mit Depressionen",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/deutschland-barometer-depression-2021-umfrage-homeoffice-arbeitsplatz",
+        "content": "Einer Umfrage der Deutschen Depressionshilfe zufolge ist vor allem die Arbeitsbelastung schuld an psychischen Erkrankungen. Doch die Ursachen k\u00f6nnen auch woanders liegen.",
+        "ranked": 6,
+        "epoch": 1636470006.0529275
+    },
+    {
+        "title": "Kein Zutritt f\u00fcr Ungeimpfte",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/2g-regeln-sachsen-corona-inzidenzen-impfung-ungeimpfte-gastronomie",
+        "content": "In Sachsen gilt seit Montag in der Gastronomie 2G. Unterwegs im Landkreis S\u00e4chsische Schweiz, wo die Impfquote bei 52 Prozent liegt \u2013 und die Inzidenz bei fast 1.000.",
+        "ranked": 7,
+        "epoch": 1636470006.0529282
+    },
+    {
+        "title": "\"Ich mache Menschen s\u00fcchtig\"",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-11/maria-christina-piwowarski-buchladen-weihnachtsgeschaeft-ocelot-arbeit-podcast",
+        "content": "Maria-Christina Piwowarski f\u00fchrt einen Buchladen in Berlin. Im Podcast erz\u00e4hlt sie, wie sie acht B\u00fccher im Monat liest und was man der Schwiegermutter schenken sollte.",
+        "ranked": 8,
+        "epoch": 1636470006.0529287
+    },
+    {
+        "title": "Deutschland verbessert sich in internationalem Klimaranking",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/umwelt/2021-11/klimaschutz-index-2022-germanwatch-un-klimakonferenz-cop26-glasgow",
+        "content": "Im neuen Klimaschutz-Index dreier Umweltorganisationen belegt Deutschland Rang 13 von 64. An der Spitze stehen skandinavische L\u00e4nder. Auf einem 1,5-Grad-Pfad ist niemand.",
+        "ranked": 9,
+        "epoch": 1636470006.0529299
+    },
+    {
+        "title": "\"Die Regierung sollte die Verantwortung nicht auf uns abw\u00e4lzen\"",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-11/3g-2g-arbeitsplatz-corona-regeln-unternehmen-geschaeftsfuehrer-interview",
+        "content": "3G oder sogar 2G am Arbeitsplatz? Chefs von Unternehmen wie Bitburger oder Personio erkl\u00e4ren, wie sie ihre Angestellten sch\u00fctzen und was sie von der Politik erwarten.",
+        "ranked": 10,
+        "epoch": 1636470006.0529304
+    },
+    {
+        "title": "Pandemie verursacht Millionen Tonnen Plastikm\u00fcll",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/umwelt/2021-11/corona-umweltverschmutzung-plastikmuell-masken-tests-forschung-umweltschutz",
+        "content": "Weltweit sind durch die Corona-Pandemie einer Studie zufolge rund 8,4 Millionen Tonnen zus\u00e4tzlicher Plastikm\u00fcll angefallen. Ein Gro\u00dfteil davon entstand in Krankenh\u00e4usern.",
+        "ranked": 11,
+        "epoch": 1636470006.052931
+    },
+    {
+        "title": "Greenpeace klagt gegen VW f\u00fcr Verbrennerausstieg bis 2030",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/volkswagen-greenpeace-klage-klimaschutz-verbrenner-co2-2030-ausstieg",
+        "content": "Die Kl\u00e4ger werfen dem Autokonzern vor, sich nicht an das 1,5-Grad-Ziel zu binden \u2013 und fordern ein Ende des Verbrenners bis 2030. Volkswagen verweist auf den Gesetzgeber.",
+        "ranked": 12,
+        "epoch": 1636470006.0529315
+    },
+    {
+        "title": "Blo\u00df nicht leichtsinnig wirken",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/infektionsschutzgesetz-ampel-epidemische-lage-gesetzentwurf-testpflicht",
+        "content": "Lockdown und Ausgangssperre \u2013 soll es nicht mehr geben. Doch manche Ma\u00dfnahme versch\u00e4rft der Corona-Gesetzesentwurf der Ampel-Fraktionen. Andere Probleme umgeht er.",
+        "ranked": 13,
+        "epoch": 1636470006.0529323
+    },
+    {
+        "title": "Tausende Menschen im Grenzgebiet verbrachten Nacht in Zelten",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/belarus-polen-grenze-gefluechtete-zelte-kaelte-migration",
+        "content": "In der polnisch-belarussischen Grenzregion campieren bis zu 4.000 Menschen bei eisigen Temperaturen. Litauen will f\u00fcr sein Grenzgebiet den Ausnahmezustand verh\u00e4ngen.",
+        "ranked": 14,
+        "epoch": 1636470006.052933
+    },
+    {
+        "title": "F\u00fcnf Fu\u00dfballnationalspieler in Quarant\u00e4ne",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/corona-fall-dfb-team-nationalmannschaft-liechtenstein-heimspiel-wm-qualifikation-niklas-suele",
+        "content": "Bayern-Verteidiger Niklas S\u00fcle ist positiv auf das Coronavirus getestet worden. Das Mannschaftstraining des DFB-Teams wurde verschoben, mehrere Spieler m\u00fcssen abreisen.",
+        "ranked": 15,
+        "epoch": 1636470006.0529335
+    },
+    {
+        "title": "Gedenkfeier zum 9. November mit Bundespr\u00e4sident Steinmeier",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/livestream-frank-walter-steinmeier-9-november-gedenkfeier-geschichte",
+        "content": "Ausrufung der Republik, Reichspogromnacht, Mauerfall: Im Schloss Bellevue wird der Bedeutung des 9. November f\u00fcr die deutsche Geschichte gedacht. Jetzt im Livestream",
+        "ranked": 16,
+        "epoch": 1636470006.0529342
+    },
+    {
+        "title": "Eingebildetes Huhn",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-10/geroestetes-huhn-weintrauben-rezept-honigbutter",
+        "content": "S\u00fc\u00df und herzhaft? Eine magische Kombination. Zur Zeit der Weinlese wird Gefl\u00fcgel mit ein paar Weintrauben gleich ein paar Stufen besser.",
+        "ranked": 17,
+        "epoch": 1636470006.052935
+    },
+    {
+        "title": "Ausbildung? Studium? Beides!",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/elbvertiefung-09-11-2021",
+        "content": "Wie Hamburg den Fachkr\u00e4ftemangel l\u00f6sen will. Au\u00dferdem: Corona-Inzidenz steigt auf 148,8, Der Handel blickt vorsichtig optimistisch aufs Weihnachtsgesch\u00e4ft",
+        "ranked": 18,
+        "epoch": 1636470006.0529354
+    },
+    {
+        "title": "Hacker erbeuten Kundendaten von Trading-App Robinhood",
+        "date_raw": "November 09, 2021",
+        "date": "2021-11-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/robinhood-hackerangriff-online-trading-app-nutzerdaten-loesegeld",
+        "content": "Bei einem Angriff auf die Aktien-App sind Daten von Millionen Nutzern an Hacker gelangt. Ob das verlangte L\u00f6segeld gezahlt wurde, lie\u00df Robinhood offen.",
+        "ranked": 19,
+        "epoch": 1636470006.0529387
+    }
+]
