@@ -1,0 +1,202 @@
+[
+    {
+        "title": "China und USA einigen sich auf Vereinbarung zum Klimaschutz",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/china-usa-klimakonferenz-glasgow-klimaschutz-cop26",
+        "content": "Mit der Abmachung wollen die L\u00e4nder das Pariser Klimaabkommen einhalten. UN-Generalsekret\u00e4r Ant\u00f3nio Guterres h\u00e4lt dies f\u00fcr einen Schritt in die richtige Richtung.",
+        "ranked": 0,
+        "epoch": 1636578006.6300132
+    },
+    {
+        "title": "22 Arbeitsgruppen, 300 Fachpolitiker und ein Schweigegel\u00fcbde",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/koalitionsverhandlungen-spd-gruene-fdp-arbeitsgruppen-ergebnis",
+        "content": "Wer bis zum Morgen nicht geliefert hat, bekommt \u00c4rger: Die Koalitionsverhandlungen treten in die n\u00e4chste Phase. Doch es gibt noch diverse Konfliktpunkte.",
+        "ranked": 1,
+        "epoch": 1636578006.6300159
+    },
+    {
+        "title": "Impfung oder unbezahlter Urlaub",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/impfpflicht-new-york-corona-oeffentlicher-dienst-joe-biden-de-blasio",
+        "content": "Der Protest ist laut, der M\u00fcll t\u00fcrmt sich, die Feuerwehr ist ausged\u00fcnnt: Die New Yorker Impfpflicht f\u00fcr st\u00e4dtische Bedienstete hat viele Gegner. Doch sie wirkt offenbar.",
+        "ranked": 2,
+        "epoch": 1636578006.6300168
+    },
+    {
+        "title": "Lesbische Paare m\u00fcssen Kosten f\u00fcr k\u00fcnstliche Befruchtung selbst tragen",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/bundessozialgericht-urteil-homosexuelle-paare-kuenstliche-befruchtung-krankenkasse",
+        "content": "M\u00fcssen Krankenkassen die Kosten einer Kinderwunschbehandlung in jedem Fall \u00fcbernehmen? Nein, entschied das Bundessozialgericht und st\u00fctzte die geltende Rechtslage.",
+        "ranked": 3,
+        "epoch": 1636578006.6300178
+    },
+    {
+        "title": "Eine ganz gro\u00dfe Sache",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/rolling-stones-affaere-harald-roesler-prozess-hamburg",
+        "content": "Ist dies der gr\u00f6\u00dfte Korruptionsfall der Nachkriegsgeschichte? Oder hat sich die Staatsanwaltschaft verrannt? In Hamburg beginnt der Prozess um das Rolling-Stones-Konzert.",
+        "ranked": 4,
+        "epoch": 1636578006.6300218
+    },
+    {
+        "title": "Ministerium legt neue Verordnung f\u00fcr kostenlose Corona-Tests vor",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/gratis-corona-schnelltests-jens-spahn-winter-neuinfektionen",
+        "content": "In Abstimmung mit den Ampel-Parteien forciert das Bundesgesundheitsministerium die Wiedereinf\u00fchrung der B\u00fcrgertests. In der kommenden Woche soll es sie dann wieder geben.",
+        "ranked": 5,
+        "epoch": 1636578006.6300228
+    },
+    {
+        "title": "Eine Impfpflicht f\u00fcr Fu\u00dfballer ist Unsinn",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/corona-impfung-fussball-niklas-suele-impfpflicht-dfb",
+        "content": "Seit den Corona-Nachrichten aus dem Kader der Nationalelf fordern viele eine Impfpflicht im Fu\u00dfball. Das ist unfair. Denn in der Sache sind die Spieler l\u00e4ngst Vorbilder.",
+        "ranked": 6,
+        "epoch": 1636578006.6300235
+    },
+    {
+        "title": "Italienische Justiz erl\u00e4sst Haftbefehl in Sorgerechtsstreit",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/seilbahnunglueck-sorgerecht-eitan-haftbefehle-grossvater-justiz",
+        "content": "Im Mai hatte ein damals f\u00fcnfj\u00e4hriger Junge als einziges Familienmitglied ein Seilbahnungl\u00fcck \u00fcberlebt. Nun gibt es Haftbefehle gegen den Gro\u00dfvater und einen Helfer.",
+        "ranked": 7,
+        "epoch": 1636578006.6300242
+    },
+    {
+        "title": "Eine Krise zur rechten Zeit",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/polen-belarus-eu-grenzschutz-regierung-corona-inflation",
+        "content": "Polens rechtspopulistische Regierung feiert in der Fl\u00fcchtlingskrise mit Belarus die Grenzpolizisten. Das kommt gut an und lenkt von Pandemie und Inflation ab.",
+        "ranked": 8,
+        "epoch": 1636578006.630025
+    },
+    {
+        "title": "Auf der anderen Seite",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/new-jersey-new-york-city-renegades-buch-the-many-saints-of-newark-kinofilm",
+        "content": "New Jersey ist das ewige Hinterland von New York. Doch nun wird es wiederentdeckt, von und in M\u00e4nnern wie Bruce Springsteen, Jack Antonoff \u2013 und Tony Soprano (R.I.P.).",
+        "ranked": 9,
+        "epoch": 1636578006.6300254
+    },
+    {
+        "title": "Cruisen in Zeiten von Grindr",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zett/liebe-sex/2021-11/cruisen-gay-sauna-dampfbad-dating-apps-treffen-sex",
+        "content": "Schnelle Liebe suchen sich junge Menschen \u00fcber Dating-Apps. Chen aber besucht daf\u00fcr Saunen und Parks, wo sich fremde M\u00e4nner zum Sex treffen. Was ist so viel besser daran?",
+        "ranked": 10,
+        "epoch": 1636578006.6300263
+    },
+    {
+        "title": "Jens Spahn verzichtet auf Kandidatur f\u00fcr CDU-Vorsitz",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/cdu-vorsitz-jens-spahn-kandidatur-parteivorsitz",
+        "content": "\u00d6ffentlich kandidiert bislang niemand als CDU-Parteichef. Intern aber winkte einer nun ab: Die Basis wolle keinen aus der aktuellen Regierung, soll Spahn gesagt haben.",
+        "ranked": 11,
+        "epoch": 1636578006.6300268
+    },
+    {
+        "title": "Vestager bleibt Googles Albtraum",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/2021-11/eu-gericht-google-rechtsstreit-wettbewerbsrecht-tech-konzerne",
+        "content": "Das Gericht der EU best\u00e4tigt eine Milliardenstrafe gegen Google. Damit ist klar: Mit dem Wettbewerbsrecht kann die EU den Techkonzernen Einhalt gebieten.",
+        "ranked": 12,
+        "epoch": 1636578006.6300275
+    },
+    {
+        "title": "Ursula von der Leyen wirft Belarus \"hybriden Angriff\" vor",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/eu-belarus-migration-sanktion-grenzzaun-polen-gruene-kritik",
+        "content": "Die EU-Kommissionspr\u00e4sidentin k\u00fcndigt neue Sanktionen gegen das Regime in Minsk an. Polen will weitere Grenz\u00fcberg\u00e4nge schlie\u00dfen. In New York tagt der UN-Sicherheitsrat.",
+        "ranked": 13,
+        "epoch": 1636578006.630028
+    },
+    {
+        "title": "Sie",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/46/angela-merkel-fotografie-cdu-bundeskanzlerin-privat",
+        "content": "30 Jahre liegen zwischen ihren Anf\u00e4ngen als junge Ministerin und ihrem Abschied von der Macht. In dieser Zeit wurde Angela Merkel von der Fotografin Herlinde Koelbl immer wieder portr\u00e4tiert. Wir zeigen eine Auswahl der Bilder. Und Menschen, die Merkels Weg gekreuzt haben, antworten auf die Frage: Was denken Sie, wenn Sie diese Fotos sehen?",
+        "ranked": 14,
+        "epoch": 1636578006.6300287
+    },
+    {
+        "title": "2G, Kontaktbeschr\u00e4nkungen oder eine Impfpflicht f\u00fcr bestimmte Berufe?",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/2g-regel-christian-drosten-kontaktbeschraenkungen-corona-impfung-nachrichtenpodcast",
+        "content": "Weil die Infektionszahlen steigen, mehren sich die Forderungen nach neuen Schutzma\u00dfnahmen. Und: Wie die polnische Regierung den Streit mit Belarus innenpolitisch nutzt",
+        "ranked": 15,
+        "epoch": 1636578006.6300292
+    },
+    {
+        "title": "Die Impfmuffel in den Alpen",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/impfbereitschaft-corona-impfung-oesterreich-schweiz-deutschland-2g-regeln-politikpodcast",
+        "content": "Warum liegen \u00d6sterreich, die Schweiz und Deutschland bei den Corona-Impfungen so weit zur\u00fcck und ist 2G die Antwort? Und: Wer bei uns Instrumente lernt.",
+        "ranked": 16,
+        "epoch": 1636578006.6300302
+    },
+    {
+        "title": "Es geht nicht um mehr oder weniger",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/46/un-klimakonferenz-glasgow-regenwald-methan-1-5-grad",
+        "content": "Auf der Klimakonferenz in Glasgow l\u00e4uft alles in die richtige Richtung \u2013 w\u00e4re da nur nicht das CO\u2082.",
+        "ranked": 17,
+        "epoch": 1636578006.6300347
+    },
+    {
+        "title": "Was ist Einsamkeit?",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/46/psychologie-einsamkeit-pandemie-religion-philosophie-gesundheit",
+        "content": "Jedenfalls mehr als blo\u00dfes Alleinsein. Wer allein ist, bleibt umgeben von der F\u00fclle der anderen. Das Umfeld der Einsamen aber ist nur W\u00fcste.",
+        "ranked": 18,
+        "epoch": 1636578006.6300352
+    },
+    {
+        "title": "Du bist mehr als dein Etikett!",
+        "date_raw": "November 10, 2021",
+        "date": "2021-11-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/46/identitaet-im-zwielicht-joerg-scheller-buch-identitaetspolitik",
+        "content": "J\u00f6rg Scheller erkl\u00e4rt, wo Identit\u00e4tspolitik sinnvoll ist und wann Identit\u00e4tszwang die offene Gesellschaft bedroht.",
+        "ranked": 19,
+        "epoch": 1636578006.6300359
+    }
+]
