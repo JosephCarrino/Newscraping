@@ -1,0 +1,202 @@
+[
+    {
+        "title": "\"Die Familien wissen nicht, was sie hier erwartet\"",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/belarus-route-migration-polen-grenze-ngo-mitarbeiter-karol-wilczynski",
+        "content": "Bald ist es auch mit Schlafs\u00e4cken zu kalt, meint Karol Wilczynski. Er hilft Migranten im polnisch-belarussischen Grenzgebiet und sagt, manche wollten wieder nach Hause.",
+        "ranked": 0,
+        "epoch": 1636729205.3770547
+    },
+    {
+        "title": "Heiko Maas warnt vor Aufl\u00f6sung von russischer Organisation Memorial",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/russland-memorial-menschenrechte-organisation-heiko-maas",
+        "content": "Russlands \u00e4ltester B\u00fcrgerrechtsorganisation droht das Aus. Sie spricht von einer politischen Entscheidung. Deutsche Politiker sind besorgt.",
+        "ranked": 1,
+        "epoch": 1636729205.3770578
+    },
+    {
+        "title": "Kanzleramtschef Helge Braun kandidiert f\u00fcr CDU-Vorsitz",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/kanzleramtschef-helge-braun-kandidiert-fuer-cdu-vorsitz",
+        "content": "Der Amtschef der scheidenden Kanzlerin Merkel will sich wie erwartet um den CDU-Parteivorsitz bewerben. Das hat der hessische Landesverband der Partei mitgeteilt.",
+        "ranked": 2,
+        "epoch": 1636729205.3770585
+    },
+    {
+        "title": "Gibt es diese CDU wirklich?",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/norbert-roettgen-cdu-vorsitz-kandidatur-partei-erneuerung",
+        "content": "Eine Parteizentrale als Denkwerkstatt und Ort der Begegnung: Norbert R\u00f6ttgen will Chef einer Avantgarde-CDU werden. Mit einer Hamburgerin an seiner Seite.",
+        "ranked": 3,
+        "epoch": 1636729205.3770597
+    },
+    {
+        "title": "Belarus und Russland halten Milit\u00e4r\u00fcbung nahe polnischer Grenze ab",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/eu-belarus-grenze-miliaeruebung-polen-russland-sanktionen",
+        "content": "Wegen \"erh\u00f6hter milit\u00e4rischer Aktivit\u00e4t\" schicken Russland und Belarus Flugzeuge und Fallschirmj\u00e4ger an die EU-Au\u00dfengrenze. Dort stehen bereits 15.000 polnische Soldaten.",
+        "ranked": 4,
+        "epoch": 1636729205.3770604
+    },
+    {
+        "title": "Schon wenig Alkohol macht E-Scooterfahren deutlich unsicherer",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/mobilitaet/2021-11/e-scooter-unfaelle-alkohol-strassenverkehr-studie-fahrleistung-promille",
+        "content": "Ohne Gleichgewichtssinn kommt man auf E-Scootern nicht weit. Rechtsmediziner haben nun den Einfluss von Alkohol auf das Fahren untersucht \u2013 mit ern\u00fcchterndem Ergebnis.",
+        "ranked": 5,
+        "epoch": 1636729205.3770614
+    },
+    {
+        "title": "Drei Tote bei Explosion in Moschee",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/afghanistan-explosion-moschee-nangarhar-verletzte-taliban",
+        "content": "In der afghanischen Provinz Nangarhar ist w\u00e4hrend des Freitagsgebets eine Bombe explodiert. Mindestens 13 Menschen wurden verletzt, drei Menschen starben.",
+        "ranked": 6,
+        "epoch": 1636729205.3770618
+    },
+    {
+        "title": "\u00d6sterreichs Kanzler will bundesweiten Lockdown f\u00fcr Ungeimpfte",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/oesterreich-lockdown-ungeimpfte-ankuendigung-corona-massnahmen",
+        "content": "F\u00fcr Ungeimpfte k\u00f6nnte es im Nachbarland bald noch strengere Regeln geben. \"Wir m\u00fcssen die Schrauben noch mal enger ziehen\", sagt Kanzler Alexander Schallenberg.",
+        "ranked": 7,
+        "epoch": 1636729205.3770626
+    },
+    {
+        "title": "Beh\u00f6rden erlauben Julian Assange eine Hochzeit im Gef\u00e4ngnis",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/julian-assange-stella-moris-heirat-erlaubnis-grossbritannien-wikileaks",
+        "content": "WikiLeaks-Gr\u00fcnder Assange und Partnerin Stella Moris d\u00fcrfen im Londoner Hochsicherheitsgef\u00e4ngnis heiraten. Moris warf den Beh\u00f6rden vor, sie h\u00e4tten dies verhindern wollen.",
+        "ranked": 8,
+        "epoch": 1636729205.3770635
+    },
+    {
+        "title": "Die Triage findet im Stillen statt",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/rosenheim-corona-inzidenz-intensivbetten-heilpraktiker-impfung",
+        "content": "Rosenheim k\u00e4mpft mal wieder mit der Pandemie. Auch weil Heilpraktiker hier beliebter scheinen als Impfungen. Und t\u00e4glich sterben Menschen auf der Covid-Station.",
+        "ranked": 9,
+        "epoch": 1636729205.3770642
+    },
+    {
+        "title": "Ampel-Parteien diskutieren Impfpflicht f\u00fcr bestimmte Berufsgruppen",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-impfpflicht-ampel-plaene-bestimme-berufsgruppen",
+        "content": "Die neue Bundesregierung k\u00f6nnte etwa Pfleger und \u00c4rzte zur Impfung verpflichten. Die SPD zeigt sich offen, die FDP zur\u00fcckhaltend. Die Gr\u00fcnen sehen kaum eine andere Wahl.",
+        "ranked": 10,
+        "epoch": 1636729205.3770647
+    },
+    {
+        "title": "Untersch\u00e4tzte Herbstgr\u00fcne",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-11/gruene-tomaten-marmelade-rezept-herbst-gemuese-kuechenzuruf",
+        "content": "Gr\u00fcne Tomaten sind giftig, sauer und ungenie\u00dfbar. Hei\u00dft es oft. Wer so denkt, l\u00e4sst sich allerdings eine feine Tomatenmarmelade entgehen.",
+        "ranked": 11,
+        "epoch": 1636729205.3770654
+    },
+    {
+        "title": "Wenn Traum und Trauma nah beieinanderliegen",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/leben/2021-11/geburten-trauma-gedaechtnis-wehen-gynaekologische-psychosomatik",
+        "content": "Zwei \u00e4hnliche Geburten: die eine wurde als sch\u00f6n, die andere als furchtbar erlebt. Warum Frauen sich an Geburten unterschiedlich erinnern und wie sie Traumata vorbeugen.",
+        "ranked": 12,
+        "epoch": 1636729205.377066
+    },
+    {
+        "title": "H\u00f6rst Du die Gummischlange bitzeln?",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-11/asmr-eating-essgerauesche-youtube-trend-asmr-food-videos",
+        "content": "In ASMR-Foodvideos essen Menschen vor laufender Kamera, es wird geschmatzt, geknuspert, geknistert. Wieso guckt man sich das an? Ein Ausflug in die Welt der Essger\u00e4usche",
+        "ranked": 13,
+        "epoch": 1636729205.3770669
+    },
+    {
+        "title": "\"Die Klimakrise l\u00e4sst sich nicht bestechen\"",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-11/together-for-carbon-labeling-nestle-oatly-greenpeace-klimaschutz",
+        "content": "Oatly und Nestl\u00e9 werben gemeinsam f\u00fcr ein CO2-Label auf Lebensmitteln. \u00dcber die eigenn\u00fctzige Politik der Food-Konzerne und die Frage, ob sie trotzdem dem Klima hilft",
+        "ranked": 14,
+        "epoch": 1636729205.3770673
+    },
+    {
+        "title": "Viel Druck hilft viel",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/frankreich-corona-impfung-emmanuel-macron-druck-impfquote",
+        "content": "Gesundheitspass, Gehaltsk\u00fcrzungen und nun die dritte Spritze: Pr\u00e4sident Emmanuel Macron treibt in Frankreich die Impfquote hoch. Er tut es, weil er es kann.",
+        "ranked": 15,
+        "epoch": 1636729205.377068
+    },
+    {
+        "title": "\"Ich pers\u00f6nlich werde keine Silvesterparty besuchen\"",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-lage-jens-spahn-lothar-wieler-pressekonferenz-rki",
+        "content": "Wegen der steigenden Infektionszahlen ruft RKI-Pr\u00e4sident Lothar Wieler zu Kontaktbeschr\u00e4nkungen auf. Impf\u00e4rzte sollen laut Jens Spahn k\u00fcnftig h\u00f6here Zuschl\u00e4ge erhalten.",
+        "ranked": 16,
+        "epoch": 1636729205.3770685
+    },
+    {
+        "title": "Lothar Wieler und Jens Spahn zur aktuellen Corona-Lage",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/jens-spahn-lothar-wieler-corona-lage-livestream",
+        "content": "Der RKI-Pr\u00e4sident und Bundesgesundheitsminister Spahn informieren live zu m\u00f6glichen Schutzma\u00dfnahmen. Die Inzidenz ist zuletzt drastisch angestiegen.",
+        "ranked": 17,
+        "epoch": 1636729205.3770692
+    },
+    {
+        "title": "US-Journalist Danny Fenster zu elf Jahren Haft verurteilt",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/myanmar-festnahme-us-journalist-danny-fenster-haftstrafe",
+        "content": "Ausl\u00e4ndische Journalisten galten in Myanmar lange als relativ sicher. Der US-Journalist Danny Fenster wurde nun der Aufwiegelung f\u00fcr schuldig befunden.",
+        "ranked": 18,
+        "epoch": 1636729205.3770697
+    },
+    {
+        "title": "Die M\u00fctterrente ist auch was f\u00fcr V\u00e4ter",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/geldanlage/2021-10/muetterrente-kindererziehung-anerkennung-rente",
+        "content": "Kinder erzogen, den Job reduziert? Nicht nur Frauen profitieren von der M\u00fctterrente. Wir erkl\u00e4ren, was zu beachten ist und wie man strategisch die Alterbez\u00fcge aufbessert.",
+        "ranked": 19,
+        "epoch": 1636729205.3770745
+    }
+]
