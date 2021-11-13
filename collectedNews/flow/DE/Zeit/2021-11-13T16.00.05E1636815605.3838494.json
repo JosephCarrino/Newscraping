@@ -1,0 +1,202 @@
+[
+    {
+        "title": "2G oder Abpfiff",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/sachsen-mannschaftssport-corona-impfung-beliebtheit",
+        "content": "In Sachsen pausiert der Mannschaftssport mancherorts wieder wegen der geringen Impfquote. Die harte Debatte dar\u00fcber k\u00f6nnte auch bald andernorts so gef\u00fchrt werden.",
+        "ranked": 0,
+        "epoch": 1636815605.3838
+    },
+    {
+        "title": "\"Wir sind wieder gegangen, weil schon Hunderte vor uns standen\"",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/corona-impfung-sachsen-inzidenz-impfaufruf-chaos-boosterimpfung",
+        "content": "\u00dcberall sind dringende Impfaufrufe zu h\u00f6ren \u2013 auch in Sachsen, dem Bundesland mit der h\u00f6chsten Corona-Inzidenz. Doch die Impfteams sind v\u00f6llig \u00fcberlastet.",
+        "ranked": 1,
+        "epoch": 1636815605.3838027
+    },
+    {
+        "title": "Tobias Hans als CDU-Landeschef best\u00e4tigt",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/saarland-tobias-hans-cdu-chef-saarbruecken",
+        "content": "Der saarl\u00e4ndische Ministerpr\u00e4sident bleibt f\u00fcr weitere zwei Jahre Vorsitzender der Landes-CDU. Auf einem Parteitag haben 96,2 Prozent der Delegierten f\u00fcr ihn gestimmt.",
+        "ranked": 2,
+        "epoch": 1636815605.3838036
+    },
+    {
+        "title": "UN-Klimakonferenz will weiterhin weg von der Kohle",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/cop26-abschlusserklaerung-kohleausstieg-forderung-un-klimakonferenz-glasgow",
+        "content": "Trotz Widerstands bleibt es wohl dabei: Auch im neuesten Entwurf des Abschlussberichts soll ein Kohleausstieg festgehalten werden. Die COP26-Staaten beraten nun dar\u00fcber.",
+        "ranked": 3,
+        "epoch": 1636815605.3838043
+    },
+    {
+        "title": "Putin setzt auf Dialog zwischen Merkel und Lukaschenko",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/fluechtlinge-belarus-wladimir-putin-angela-merkel-alexander-lukaschenko-krise",
+        "content": "Russlands Pr\u00e4sident verweist in der Belaruskrise erneut auf Gespr\u00e4che zwischen Diktator Lukaschenko und Kanzlerin Merkel. Er bestritt, in die Krise verwickelt zu sein.",
+        "ranked": 4,
+        "epoch": 1636815605.3838053
+    },
+    {
+        "title": "Friedrich Merz will noch einmal f\u00fcr den CDU-Vorsitz kandidieren",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/friedrich-merz-cdu-parteivorsitz-bewerbung-kreisverband-hochsauerland-bestaetigung",
+        "content": "Ein drittes Mal m\u00f6chte der Ex-Unionsfraktionschef sich um das Amt des CDU-Vorsitzenden bewerben. Am Montag wird er laut Kreisverband seine Bewerbung offiziell begr\u00fcnden.",
+        "ranked": 5,
+        "epoch": 1636815605.3838062
+    },
+    {
+        "title": "Vibrieren im Stillstand",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/klimagipfel-katastrophe-rhetorik-kommunikation-probleme",
+        "content": "\u00dcberall Metaphernsalat und Beschwichtigung: Die Rhetorik der Klimakatastrophe schafft st\u00e4ndig neue Kommunikationsprobleme und es \u00e4ndert sich nichts. Was also tun?",
+        "ranked": 6,
+        "epoch": 1636815605.383807
+    },
+    {
+        "title": "Tod auf der Taufe",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/campus/2021-11/aufnahmerituale-studierende-studententaufe-belgien-tod-studentenverbindung",
+        "content": "In Belgien stirbt bei einer sogenannten Studententaufe ein junger Mann, nicht zum ersten Mal. Was muss noch passieren, damit diese erniedrigenden Rituale verboten werden?",
+        "ranked": 7,
+        "epoch": 1636815605.3838077
+    },
+    {
+        "title": "Bundesregierung verhandelt mit Taliban weiter \u00fcber Ausreisen",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/afghanistan-heiko-maas-bundesregierung-taliban-ausreise",
+        "content": "Tausende Menschen sitzen noch immer in Afghanistan fest, trotz Aufnahmezusage f\u00fcr Deutschland. Laut Au\u00dfenminister Heiko Maas laufen Bem\u00fchungen, dass sie ausreisen k\u00f6nnen.",
+        "ranked": 8,
+        "epoch": 1636815605.3838084
+    },
+    {
+        "title": "Verdi k\u00fcndigt verst\u00e4rkte Warnstreiks an Unikliniken an",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/gewerkschaft-verdi-warnstreik-unikliniken-pflege",
+        "content": "Die Gewerkschaft Verdi will den Druck f\u00fcr mehr Geld in der Pflege erh\u00f6hen. Viele Krankenh\u00e4user sind wegen der Corona-Pandemie bereits stark belastet.",
+        "ranked": 9,
+        "epoch": 1636815605.383809
+    },
+    {
+        "title": "Geimpft und trotzdem krank",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/impfschutz-corona-vierte-welle-ungeimpfte-rolle-impfeffekt",
+        "content": "Immer mehr Geimpfte liegen auf den Intensivstationen, vor allem \u00e4ltere. Von einer Pandemie der Geimpften kann trotzdem nicht die Rede sein. Das zeigen die Daten.",
+        "ranked": 10,
+        "epoch": 1636815605.3838098
+    },
+    {
+        "title": "Von Adenauer bis Merkel",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-11/deutsche-bundeskanzler-adenauer-merkel-politische-leistung-geschichte-podcast",
+        "content": "Sieben Kanzler und eine Kanzlerin hatte Deutschland seit 1949. Im Geschichtspodcast sprechen wir \u00fcber ihr Ringen mit Terror, der Mauer und Wirtschaftskrisen.",
+        "ranked": 11,
+        "epoch": 1636815605.3838105
+    },
+    {
+        "title": "Kein Chat zu geheim",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/2021-11/chatkontrolle-eu-kommission-kindesmissbrauch-ueberwachung-nachrichten-messenger-anbieter-faq",
+        "content": "Die EU-Kommission hegt Pl\u00e4ne, die Verbreitung von Kindesmissbrauchsbildern durch Scans verschl\u00fcsselter Messengerchats einzud\u00e4mmen. Dagegen gibt es Widerstand.",
+        "ranked": 12,
+        "epoch": 1636815605.383811
+    },
+    {
+        "title": "\"Unsere Situation f\u00fchlt sich an wie ein Stuhl, dem ein Bein fehlt\"",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zett/liebe-sex/2021-11/geld-in-beziehung-ungleichgewicht-verdienst-druck",
+        "content": "Jacob verdient f\u00fcnfmal mehr als seine Freundin. Er zahlt deswegen die Miete ihrer Wohnung in London. Oft versp\u00fcrt er deshalb Druck im Job. Was macht das mit ihrer Liebe?",
+        "ranked": 13,
+        "epoch": 1636815605.3838115
+    },
+    {
+        "title": "Achtung Minen",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/libyen-tripolis-buergerkrieg-parlamentswahlen-sicherheitslage-bevoelkerung",
+        "content": "Libyen scheint so stabil wie lange nicht, die K\u00e4mpfe sind vorbei, es soll sogar gew\u00e4hlt werden. Doch in Tripolis merkt man schnell: Das Land ist fragil.",
+        "ranked": 14,
+        "epoch": 1636815605.3838124
+    },
+    {
+        "title": "Steve Bannon wegen Missachtung des US-Kongresses angeklagt",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/sturm-us-kapitol-stephen-bannon-anklage-kongress-gericht",
+        "content": "Donald Trumps fr\u00fcherer Chefstratege sollte zum Sturm auf das US-Kapitol aussagen und weigert sich. F\u00fcr seine Loyalit\u00e4t zum Ex-Pr\u00e4sidenten droht ihm nun eine Haftstrafe.",
+        "ranked": 15,
+        "epoch": 1636815605.383813
+    },
+    {
+        "title": "Auch Werbung",
+        "date_raw": "November 13, 2021",
+        "date": "2021-11-13",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kaenguru-comics/2021-11/folge-275",
+        "content": "Der K\u00e4nguru-Comic vom 13. November 2021",
+        "ranked": 16,
+        "epoch": 1636815605.3838134
+    },
+    {
+        "title": "Gericht hebt Vormundschaft \u00fcber Britney Spears auf",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/britney-spears-saengerin-vormundschaft-aufgehoben-gericht",
+        "content": "Der Vater der S\u00e4ngerin war bereits vor sechs Wochen als Vormund abgesetzt worden. Jetzt kann Britney Spears wieder selbst \u00fcber ihr Leben und ihre Finanzen entscheiden.",
+        "ranked": 17,
+        "epoch": 1636815605.383814
+    },
+    {
+        "title": "Libyen-Konferenz dringt auf Wahlen und Abzug von S\u00f6ldnern",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/libyen-merkel-krieg-macron-konferenz-frieden-wahlen",
+        "content": "Wahlen w\u00e4ren f\u00fcr Libyen ein Schritt auf dem Weg hin zu Frieden und Stabilit\u00e4t. Damit sie wie geplant ablaufen, machte die internationale Gemeinschaft in Paris Druck.",
+        "ranked": 18,
+        "epoch": 1636815605.3838148
+    },
+    {
+        "title": "Vorsicht vor den Sneaker Waves!",
+        "date_raw": "November 12, 2021",
+        "date": "2021-11-12",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/musik/2021-11/damon-albarn-soloalbum-the-nearer-the-fountain-more-pure-the-stream-flows-damon",
+        "content": "Weltschmerzelnder Blick auf isl\u00e4ndische Moosfelder und schwarze Str\u00e4nde: Blur-Gr\u00fcnder Damon Albarn liefert in seinem zweiten Soloalbum saturierte Naturbetrachtungsmusik.",
+        "ranked": 19,
+        "epoch": 1636815605.3838198
+    }
+]
