@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-nouveau-parlement-fribourgeois-sera-plus-vert-et-plus-jeune-25776678.html",
         "duration": "01:33",
         "ranked": 0,
-        "epoch": 1636754409.7190435
+        "epoch": 1636840814.8243856
     },
     {
         "title": "Lise-Marie-Graden pourrait devenir la première préfète du canton de Fribourg",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/lise-marie-graden-pourrait-devenir-la-premiere-prefete-du-canton-de-fribourg-25776685.html",
         "duration": "01:23",
         "ranked": 1,
-        "epoch": 1636754409.7190464
+        "epoch": 1636840814.8243883
     },
     {
         "title": "La Suisse doit en faire plus pour soutenir la pratique de l'italien, montre une recherche nationale",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-doit-en-faire-plus-pour-soutenir-la-pratique-de-l-italien-montre-une-recherche-nationale-25776683.html",
         "duration": "01:58",
         "ranked": 2,
-        "epoch": 1636754409.7190473
+        "epoch": 1636840814.8243895
     },
     {
         "title": "La situation s'est encore améliorée sur le marché du travail en octobre",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-situation-s-est-encore-amelioree-sur-le-marche-du-travail-en-octobre-25776692.html",
         "duration": "01:26",
         "ranked": 3,
-        "epoch": 1636754409.7190485
+        "epoch": 1636840814.8243904
     },
     {
         "title": "La semaine de la vaccination commence: interview de Danitsa, engagée dans la campagne",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-semaine-de-la-vaccination-commence-interview-de-danitsa-engagee-dans-la-campagne-25776684.html",
         "duration": "03:34",
         "ranked": 4,
-        "epoch": 1636754409.7190495
+        "epoch": 1636840814.8243911
     },
     {
         "title": "Vaud veut réduire les émissions de CO2 des véhicules via un bonus-malus",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/vaud-veut-reduire-les-emissions-de-co2-des-vehicules-via-un-bonus-malus-25776693.html",
         "duration": "01:19",
         "ranked": 5,
-        "epoch": 1636754409.7190504
+        "epoch": 1636840814.824392
     },
     {
         "title": "Sévèrement réprimés, les appels à désobéissance civile et à la grève générale se poursuivent au Soudan",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/severement-reprimes-les-appels-a-desobeissance-civile-et-a-la-greve-generale-se-poursuivent-au-soudan-25776691.html",
         "duration": "01:58",
         "ranked": 6,
-        "epoch": 1636754409.7190516
+        "epoch": 1636840814.8243928
     },
     {
         "title": "Le réchauffement climatique est deux à trois fois plus important en Laponie qu’ailleurs",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-rechauffement-climatique-est-deux-a-trois-fois-plus-important-en-laponie-qu-ailleurs-25776700.html",
         "duration": "02:07",
         "ranked": 7,
-        "epoch": 1636754409.7190523
+        "epoch": 1636840814.8243935
     },
     {
         "title": "L’invité du 12h30 - Yannick Bestaven présente son livre \"Mon tour du monde en 80 jours\"",
@@ -87,6 +87,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-yannick-bestaven-presente-son-livre-mon-tour-du-monde-en-80-jours-25776701.html",
         "duration": "10:30",
         "ranked": 8,
-        "epoch": 1636754409.719053
+        "epoch": 1636840814.8243942
     }
 ]

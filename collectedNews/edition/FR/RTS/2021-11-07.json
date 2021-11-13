@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-population-fribourgeoise-renouvelle-son-parlement-et-son-conseil-d-etat-25776401.html",
         "duration": "01:41",
         "ranked": 0,
-        "epoch": 1636754409.607524
+        "epoch": 1636840814.950074
     },
     {
         "title": "La revue de presse alémanique",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-revue-de-presse-alemanique-25776403.html",
         "duration": "02:52",
         "ranked": 1,
-        "epoch": 1636754409.6075273
+        "epoch": 1636840814.9500763
     },
     {
         "title": "Manifestations massives en Pologne après la mort d'une femme non avortée",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/manifestations-massives-en-pologne-apres-la-mort-d-une-femme-non-avortee-25776406.html",
         "duration": "02:14",
         "ranked": 2,
-        "epoch": 1636754409.607529
+        "epoch": 1636840814.9500775
     },
     {
         "title": "eSport: reportage à la finale du Counter-Strike Major Championship à Stockholm",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/esport-reportage-a-la-finale-du-counter-strike-major-championship-a-stockholm-25776410.html",
         "duration": "01:38",
         "ranked": 3,
-        "epoch": 1636754409.6075304
+        "epoch": 1636840814.9500785
     },
     {
         "title": "\"Aventure 4x4\" déroule sa 30ème édition avec 85 équipages dans le Jura",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/aventure-4x4-deroule-sa-30eme-edition-avec-85-equipages-dans-le-jura-25776413.html",
         "duration": "02:32",
         "ranked": 4,
-        "epoch": 1636754409.6075315
+        "epoch": 1636840814.9500792
     },
     {
         "title": "L'Opéra de Lausanne annonce sa nouvelle saison avec les \"Noces de Figaro\"",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-opera-de-lausanne-annonce-sa-nouvelle-saison-avec-les-noces-de-figaro-25776415.html",
         "duration": "02:12",
         "ranked": 5,
-        "epoch": 1636754409.607533
+        "epoch": 1636840814.95008
     },
     {
         "title": "A voix haute - La photographe Laurence Bonvin dans les entrailles d’un glacier souffrant",
@@ -67,6 +67,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/a-voix-haute-la-photographe-laurence-bonvin-dans-les-entrailles-d-un-glacier-souffrant-25776426.html",
         "duration": "15:01",
         "ranked": 6,
-        "epoch": 1636754409.6075344
+        "epoch": 1636840814.9500809
     }
 ]
