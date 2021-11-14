@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Das Blut war schon geronnen",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-11/tatort-berlin-die-kalten-und-die-toten-kriminalfilm-obduktionsbericht",
+        "content": "Eine junge Frau stirbt nach einem Date und es gibt einen neuen Kollegen im Berliner Team. Dass dieser im Rollstuhl sitzt, macht der \"Tatort\" leider st\u00e4ndig zum Thema.",
+        "ranked": 0,
+        "epoch": 1636923605.9082386
+    },
+    {
+        "title": "Polizei nimmt drei M\u00e4nner nach t\u00f6dlicher Explosion fest",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/liverpool-frauenklinik-explosion-anti-terror-polizei",
+        "content": "Vor einer Frauenklinik in Liverpool ist ein Mann bei der Explosion eines Taxis get\u00f6tet worden. Die britische Anti-Terror-Polizei meldete drei Festnahmen.",
+        "ranked": 1,
+        "epoch": 1636923605.9082425
+    },
+    {
+        "title": "\"Ich habe noch nie so eine Katastrophe gesehen\"",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/malu-dreyer-flut-katastrophe-ahrtal-rheinland-pfalz-wiederaufbau",
+        "content": "Seit der Flut war f\u00fcr Trauer wenig Zeit: Ministerpr\u00e4sidentin Malu Dreyer spricht \u00fcber die Kritik am Wiederaufbau im Ahrtal, fehlende Heizungen und Hoffnungsschimmer.",
+        "ranked": 2,
+        "epoch": 1636923605.9082441
+    },
+    {
+        "title": "Deutschland entscheidet Qualifikationsspiel gegen Armenien f\u00fcr sich",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/wm-qualifikation-deutschland-armenien",
+        "content": "Auch das siebte WM-Qualifikationsspiel hat die deutsche Nationalmannschaft gewonnen. Die Teilnahme an der WM in Katar stand bereits vor der Partie gegen Armenien fest.",
+        "ranked": 3,
+        "epoch": 1636923605.9082456
+    },
+    {
+        "title": "Diese Koalitionsverhandlungen sind unvern\u00fcnftig",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/ampelkoalition-spd-gruene-fdp-koalitionsverhandlungen-ministerposten-verteilung",
+        "content": "Die Ampel-Parteien feilschen, statt zu argumentieren. Das schadet dem Ergebnis. Ein Vorschlag, wie es bei der Ministeriumsverteilung besser laufen kann",
+        "ranked": 4,
+        "epoch": 1636923605.9082472
+    },
+    {
+        "title": "Ungarns Ministerpr\u00e4sident warnt vor \"deutschem Europa\"",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/viktor-orban-ungarn-bundesregierung-eu",
+        "content": "Die n\u00e4chste Bundesregierung solle den Einfluss Deutschlands auf die EU verringern, sagt Viktor Orb\u00e1n. Er k\u00fcndigt eine \"Neuorganisation der Rechten\" in Europa an.",
+        "ranked": 5,
+        "epoch": 1636923605.9082487
+    },
+    {
+        "title": "Und was, wenn alle Gef\u00e4ngnisse schlie\u00dfen, Herr Galli?",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-10/haftstrafe-alternativen-gefaengnis-taeter-opfer-ausgleich-thomas-galli-interview",
+        "content": "Die Haft mache Straft\u00e4ter noch gef\u00e4hrlicher, sagt der Ex-Gef\u00e4ngnisleiter Thomas Galli. Nur die richtige Art zu Strafen halte die Gesellschaft zusammen. Wie s\u00e4he die aus?",
+        "ranked": 6,
+        "epoch": 1636923605.9082499
+    },
+    {
+        "title": "Acht Menschen sterben bei \u00dcberfahrt zu den Kanaren",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/seenotrettung-migranten-gran-canaria-arguineguin",
+        "content": "75 Kilometer vor der K\u00fcste Gran Canarias hat die Seenotrettung acht Tote aus einem Boot geborgen. 54 Migranten \u00fcberlebten. Sie werden auf der Insel medizinisch versorgt.",
+        "ranked": 7,
+        "epoch": 1636923605.908251
+    },
+    {
+        "title": "B\u00e4rbel Bas pl\u00e4diert f\u00fcr Volkentscheide auf Bundesebene",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/bundestagspraesidentin-baerbel-bas-volksentscheid-bundesebene-demokratie",
+        "content": "Durch Volksentscheide will die neue Bundestagspr\u00e4sidentin die Bev\u00f6lkerung mehr in Entscheidungen einbinden. Daf\u00fcr sei aber eine verfassungs\u00e4ndernde Mehrheit n\u00f6tig.",
+        "ranked": 8,
+        "epoch": 1636923605.9082522
+    },
+    {
+        "title": "Hier ist er Friedrich der Gro\u00dfe",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/cdu-thueringen-friedrich-merz-bundesvorsitzender-stimmungslage-ostdeutschland",
+        "content": "Die CDU-Basis im Osten hofft, dass Friedrich Merz im dritten Anlauf endlich Parteichef wird. Warum ist der Dauerkandidat hier so beliebt? Auf Stimmungssuche in Th\u00fcringen",
+        "ranked": 9,
+        "epoch": 1636923605.9082534
+    },
+    {
+        "title": "Heiko Maas k\u00fcndigt Sanktionen gegen Fluggesellschaften an",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/fluechtlingsstreit-belarus-eu-heiko-maas-sanktionen-fluggesellschaften",
+        "content": "Airlines, die Migranten nach Belarus bringen, m\u00fcssen dem Au\u00dfenminister zufolge mit Strafma\u00dfnahmen rechnen. Denkbar sei der Entzug von \u00dcberflugrechten.",
+        "ranked": 10,
+        "epoch": 1636923605.9082544
+    },
+    {
+        "title": "Rechtes Treffen f\u00fcr Nachwuchsextremisten",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/der-dritte-weg-marsch-wunsiedel-neonazis-rechte-szene-jugendliche-nachwuchs-rechtsextremismus",
+        "content": "Anh\u00e4nger der Neonazipartei Der Dritte Weg haben sich zum Gedenkmarsch getroffen. Seit Jahren werden die Teilnehmer der rechten Veranstaltung weniger \u2013 aber auch j\u00fcnger.",
+        "ranked": 11,
+        "epoch": 1636923605.9082556
+    },
+    {
+        "title": "\u00d6sterreich beschlie\u00dft Lockdown f\u00fcr Ungeimpfte",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/oesterreich-lockdown-ungeimpfte-corona-massnahmen-corona-pandemie-vierte-welle",
+        "content": "Die Regierung in Wien hat sich auf weitreichende Einschr\u00e4nkungen f\u00fcr Menschen geeinigt, die nicht geimpft sind. Die Stadt Wien f\u00fchrt 2G plus ein.",
+        "ranked": 12,
+        "epoch": 1636923605.9082568
+    },
+    {
+        "title": "Contra Smartboard",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/schule/2021-11/digitalisierung-schule-smartboards-franziska-giffey-kritik-bildungspolitik",
+        "content": "Wenn Politikerinnen die digitale Schule beschw\u00f6ren, lassen sie sich gerne vor Smartboards fotografieren. Aber mit teuren Tafeln machen Lehrer keinen besseren Unterricht.",
+        "ranked": 13,
+        "epoch": 1636923605.9082577
+    },
+    {
+        "title": "3G im Zug? Gerne, aber wer kontrolliert's?",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/mobilitaet/2021-11/3g-regel-zuege-fernverkehr-deutsche-bahn-corona-massnahmen-realisierbarkeit",
+        "content": "Politiker fordern mal wieder 3G-Regeln in Z\u00fcgen. Viele Bahnreisewillige w\u00e4ren wohl erleichtert. Das wirksam einzuf\u00fchren, ist aber weder billig noch einfach.",
+        "ranked": 14,
+        "epoch": 1636923605.908259
+    },
+    {
+        "title": "Bundesarbeitsminister will 3G-Regel und Homeoffice-Pflicht einf\u00fchren",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-11/hubertus-heil-arbeitsminister-spd-homeoffice-pflicht-3g-regel-arbeitsplatz-corona-massnahmen",
+        "content": "Wegen steigender Infektionszahlen soll es wieder eine Homeoffice-Pflicht geben. Wer weiterhin zur Arbeitsst\u00e4tte kommt, muss geimpft, genesen oder aktuell getestet sein.",
+        "ranked": 15,
+        "epoch": 1636923605.9082599
+    },
+    {
+        "title": "\"Wir m\u00fcssen Nachtz\u00fcge neuerfinden\"",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/mobilitaet/2021-11/start-up-midnight-trains-frankreich-nachtzuege-europa-romain-payet-interview",
+        "content": "Das Start-up Midnight Trains will ein Hotel auf R\u00e4dern anbieten und Fl\u00fcge \u00fcberfl\u00fcssig machen. Mitgr\u00fcnder Romain Payet sagt: Es soll nicht teurer sein als ein Billigflug.",
+        "ranked": 16,
+        "epoch": 1636923605.9082608
+    },
+    {
+        "title": "\"Der Geist des Wandels ist da\"",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/klimagipfel-glasgow-cop26-bilanz-ergebnisse-medienberichterstattung-presseschau",
+        "content": "Hat Greta Thunberg allen Grund, \u00fcber die Ergebnisse von COP26 frustriert zu sein? So kommentieren europ\u00e4ische Zeitungen das Ende des Glasgower Klimagipfels.",
+        "ranked": 17,
+        "epoch": 1636923605.9082618
+    },
+    {
+        "title": "\"Ich habe einen Firmenwagen mit Tankflatrate\"",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-11/informatikerin-softwareunternehmen-betriebsraetin-gehalt-einkommen-kontoauszug",
+        "content": "Sabine, 51, verdient als Informatikerin in einem Softwareunternehmen 6.100 Euro im Monat. Die meiste Arbeitszeit verbringt sie jedoch als Betriebsr\u00e4tin.",
+        "ranked": 18,
+        "epoch": 1636923605.9082632
+    },
+    {
+        "title": "Migranten \u00fcberqueren laut Polizei polnische Grenze",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/belarus-fluechtlinge-polen-grenzbarriere-durchbrechung-grenzuebertritt-eu-migration",
+        "content": "Eine Gruppe Fl\u00fcchtlinge ist \u00fcber die Grenze nach Polen gelangt. Bundestagspr\u00e4sidentin B\u00e4rbel Bas fordert, den Menschen an der polnisch-belarussischen Grenze zu helfen.",
+        "ranked": 19,
+        "epoch": 1636923605.9082675
+    }
+]
