@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Gr\u00fcnen-Landesverband beantragt Parteiausschluss von Boris Palmer",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/boris-palmer-parteiausschluss-beantragt-die-gruenen-baden-wuerttemberg",
+        "content": "Eine \"lange Liste kalkulierter Ausrutscher\": Nach einem Parteitagsbeschluss in Baden-W\u00fcrttemberg haben die Gr\u00fcnen ein Ausschlussverfahren gegen Boris Palmer begonnen.",
+        "ranked": 0,
+        "epoch": 1636977605.425791
+    },
+    {
+        "title": "Nach Krawallen bei Dynamo Dresden fast 240 Gewaltt\u00e4ter identifiziert",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/dynamo-dresden-ausschreitungen-gewalttaeter-identifiziert-polizei-angriff-flaschen",
+        "content": "Bei Ausschreitungen wurden insgesamt 185 Polizisten mit Flaschen, Steinen und Pyrotechnik beworfen und verletzt. 30 Beamte waren danach zeitweise dienstunf\u00e4hig.",
+        "ranked": 1,
+        "epoch": 1636977605.425794
+    },
+    {
+        "title": "Verband bezweifelt rasche Umsetzbarkeit von 3G im Nah- und Fernverkehr",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/3g-regel-oeffentlicher-nahverkehr-verband-deutscher-verkehrsunternehmen-bahn",
+        "content": "Nur noch geimpft, genesen oder getestet in Bus und Bahn? Die Verkehrsunternehmen glauben nicht, dass sich dieser Vorschlag der Ampel-Parteien schnell realisieren l\u00e4sst.",
+        "ranked": 2,
+        "epoch": 1636977605.425795
+    },
+    {
+        "title": "Ein Schmortopf aus Marokko",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-11/gemuese-tagine-aprikosen-marokkanischer-schmortopf-rezept",
+        "content": "Eine Tagine erlaubt Eint\u00f6pfe ohne verkochtes Gem\u00fcse. Wer keinen solchen Tontopf zu Hause hat, kann auch auf einen gusseisernen ausweichen. Aber Aprikosen sollten hinein.",
+        "ranked": 3,
+        "epoch": 1636977605.4257958
+    },
+    {
+        "title": "NRW-Ministerpr\u00e4sident verteidigt Karnevalsfeiern",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/nrw-ministerpraesident-hendrik-wuest-karnevalsauftakt-koeln-corona",
+        "content": "Nordrhein-Westfalens Regierungschef findet den umstrittenen Karnevalsauftakt richtig. Die Politik m\u00fcsse auch die Akzeptanz staatlichen Handelns im Blick haben.",
+        "ranked": 4,
+        "epoch": 1636977605.4257965
+    },
+    {
+        "title": "Belarus bem\u00fcht sich angeblich um R\u00fcckf\u00fchrung von Migranten",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/belarus-irak-migration-fluechtlinge-rueckfuehrung-migraanten-grenze-polen",
+        "content": "Man versuche, Migranten an der Grenze zu Polen zur Heimkehr zu bewegen, behauptet der belarusische Machthaber Lukaschenko. Die EU bereitet neue Sanktionen vor.",
+        "ranked": 5,
+        "epoch": 1636977605.4257977
+    },
+    {
+        "title": "Viele Tote bei Angriffen in Burkina Faso",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/terroranschlaege-burkina-faso-westafrika-tote",
+        "content": "Bei zwei Terroranschl\u00e4gen in der n\u00f6rdlichen Provinz Soum sind mindestens 27 Menschen get\u00f6tet worden \u2013 die meisten Opfer waren Polizisten. 60 Menschen werden vermisst.",
+        "ranked": 6,
+        "epoch": 1636977605.4257984
+    },
+    {
+        "title": "Koalitionsverhandlungen werden auf Spitzenebene weiter gef\u00fchrt",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/ampel-koalition-koalitionsverhandlungen-regierungsverhandlungen-hauptverhandlungsgruppe",
+        "content": "Nach den Arbeitsgruppen \u00fcbernimmt nun wieder die Hauptverhandlungsgruppe die Ampel-Gespr\u00e4che. Es geht um Streitpunkte \u2013 und m\u00f6glicherweise auch um Posten.",
+        "ranked": 7,
+        "epoch": 1636977605.4257991
+    },
+    {
+        "title": "\"Das Kind muss sich auch trauen k\u00f6nnen, die Eltern loszulassen\"",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/leben/2021-11/kita-eingewoehnung-kind-eltern-kindererziehung-paedagogin-birte-radmacher",
+        "content": "Die Kitaeingew\u00f6hnung ist die erste gro\u00dfe Trennung von Eltern und Kind. Wie sie gelingt und was Eltern dazu beitragen k\u00f6nnen, erkl\u00e4rt die Soziologin Birte Radmacher.",
+        "ranked": 8,
+        "epoch": 1636977605.4257998
+    },
+    {
+        "title": "USA k\u00fcndigen harten Wettbewerb mit China an",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/joe-biden-usa-china-wettbewerb-videogipfel",
+        "content": "Auf einem Videogipfel mit Xi Jinping will der US-Pr\u00e4sident \"sehr offen und direkt\" Streitthemen ansprechen. Xi wird wohl Taiwan in den Mittelpunkt stellen.",
+        "ranked": 9,
+        "epoch": 1636977605.4258008
+    },
+    {
+        "title": "Niedlich",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kaenguru-comics/2021-11/folge-276",
+        "content": "Der K\u00e4nguru-Comic vom 15. November 2021",
+        "ranked": 10,
+        "epoch": 1636977605.4258015
+    },
+    {
+        "title": "Wolfgang Joop entschuldigt sich f\u00fcr Modelkommentar",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/modedesigner-wolfgang-joop-model-interview",
+        "content": "\"Meine Aussage bez\u00fcglich der S\u00fcnde in der Modewelt war im Kontext deplatziert\", sagte der Modedesigner. In einem Interview hatte er sexuellen Missbrauch verharmlost.",
+        "ranked": 11,
+        "epoch": 1636977605.4258022
+    },
+    {
+        "title": "\"Das hei\u00dft in weiten Teilen: Lockdown f\u00fcr Ungeimpfte\"",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-massnahmen-beschraenkungen-ampel-koalitionsverhandlungen",
+        "content": "Die Ampel-Parteien versch\u00e4rfen ihre Pl\u00e4ne f\u00fcr das Corona-Gesetz. Kontaktbeschr\u00e4nkungen sollen m\u00f6glich bleiben, in Bussen und Bahnen soll erstmals 3G gelten.",
+        "ranked": 12,
+        "epoch": 1636977605.4258027
+    },
+    {
+        "title": "Argentiniens Regierung verliert Mehrheit im Parlament",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/argentinien-zwischenwahlen-verlust-mehrheit-parlament-regierung",
+        "content": "Armut, Inflation, Corona-Politik: Bei Wahlen in Argentinien ist das regierende B\u00fcndnis von Pr\u00e4sident Alberto Fern\u00e1ndez abgestraft worden.",
+        "ranked": 13,
+        "epoch": 1636977605.4258032
+    },
+    {
+        "title": "Was er besser macht als Jogi L\u00f6w",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/hansi-flick-armenien-deutschland-fussball-wm-qualifikation",
+        "content": "Eine Mannschaft entsteht weit vor dem Beginn eines Turniers. Der neue Fu\u00dfball-Bundestrainer Hansi Flick hat das erkannt und vermeidet den Fehler seines Vorg\u00e4ngers.",
+        "ranked": 14,
+        "epoch": 1636977605.4258037
+    },
+    {
+        "title": "Inzidenz \u00fcber 300, Krise an der EU-Au\u00dfengrenze, Ende des Klimagipfels",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-11/coronavirus-migranten-klimagipfel-2021-11-15",
+        "content": "Die Zahl der Neuinfektionen steigt, die EU-Au\u00dfenminister beraten \u00fcber den Streit mit Belarus und der Einstieg in den Kohleausstieg ist beschlossen. Der Morgen\u00fcberblick",
+        "ranked": 15,
+        "epoch": 1636977605.4258046
+    },
+    {
+        "title": "Gefangen im Grenzbegiet",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/polen-belarus-grenze-fluechtlinge-migration-nachrichtenpodcast",
+        "content": "Migrantinnen und Migranten werden im Grenzgebiet zwischen Polen und Belarus vor und zur\u00fcck gepusht, die Verzweiflung w\u00e4chst. Und: Droht Bosnien und Herzegowina ein Krieg?",
+        "ranked": 16,
+        "epoch": 1636977605.425805
+    },
+    {
+        "title": "Tesla ist einfach schneller",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/mobilitaet/2021-11/elektroautos-tesla-volkswagen-autoindustrie-kobaltfreie-batteriezellen-reichweite-model-3",
+        "content": "Bei den neuen Batterien des Model 3 zeigt sich, warum Tesla E-Auto-Marktf\u00fchrer ist. Doch die verwendete Technologie hat wom\u00f6glich einen entscheidenden Schwachpunkt.",
+        "ranked": 17,
+        "epoch": 1636977605.4258058
+    },
+    {
+        "title": "\"Die Pandemie wird enden, wenn wir es wollen\"",
+        "date_raw": "November 15, 2021",
+        "date": "2021-11-15",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/who-mike-ryan-corona-pandemie-epidemiologe-corona-impfung",
+        "content": "Die Menschheit hat mehr Kontrolle \u00fcber das Coronavirus, als sie denkt, sagt Mike Ryan. Der oberste Krisenmanager der WHO sieht Europa trotzdem vor einem dunklen Winter.",
+        "ranked": 18,
+        "epoch": 1636977605.4258063
+    },
+    {
+        "title": "Sauberere Luft w\u00fcrde etliche Leben retten",
+        "date_raw": "November 14, 2021",
+        "date": "2021-11-14",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/umwelt/2021-11/umweltagentur-europa-luftverschmutzung-todesfaelle",
+        "content": "Mindestens 300.000 Menschen sind 2019 in der EU wegen Feinstaubbelastung vorzeitig gestorben. Schadstoffgrenzwerte w\u00fcrden nicht eingehalten, so die EU-Umweltagentur.",
+        "ranked": 19,
+        "epoch": 1636977605.4258113
+    }
+]
