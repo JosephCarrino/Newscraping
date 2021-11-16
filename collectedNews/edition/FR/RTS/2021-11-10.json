@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/ligne-cff-lausanne-geneve-interrompue-interview-de-frederic-revaz-25777318.html",
         "duration": "02:17",
         "ranked": 0,
-        "epoch": 1637013609.068338
+        "epoch": 1637100008.8635807
     },
     {
         "title": "Les employés de la centrale d'appel d'urgence 144 dénoncent des dysfonctionnements",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-employes-de-la-centrale-d-appel-d-urgence-144-denoncent-des-dysfonctionnements-25777322.html",
         "duration": "01:55",
         "ranked": 1,
-        "epoch": 1637013609.0683513
+        "epoch": 1637100008.8635833
     },
     {
         "title": "Dysfonctionnement de la centrale d'appel 144: interview de Pierre Aubry",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/dysfonctionnement-de-la-centrale-d-appel-144-interview-de-pierre-aubry-25777325.html",
         "duration": "04:21",
         "ranked": 2,
-        "epoch": 1637013609.0683532
+        "epoch": 1637100008.8635848
     },
     {
         "title": "Le problème du pass Covid se pose pour les stations suisses transfrontalières avec l'Italie et l'Autriche",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-probleme-du-pass-covid-se-pose-pour-les-stations-suisses-transfrontalieres-avec-l-italie-et-l-autriche-25777331.html",
         "duration": "01:09",
         "ranked": 3,
-        "epoch": 1637013609.0683548
+        "epoch": 1637100008.8635857
     },
     {
         "title": "Hockey sur glace: Genève-Servette se sépare de son entraîneur Pat Edmond",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/hockey-sur-glace-geneve-servette-se-separe-de-son-entraineur-pat-edmond-25777332.html",
         "duration": "01:16",
         "ranked": 4,
-        "epoch": 1637013609.0683563
+        "epoch": 1637100008.8635867
     },
     {
         "title": "La Grèce connaît une nouvelle explosion des cas de Covid-19",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-grece-connait-une-nouvelle-explosion-des-cas-de-covid-19-25777329.html",
         "duration": "01:11",
         "ranked": 5,
-        "epoch": 1637013609.068358
+        "epoch": 1637100008.8635876
     },
     {
         "title": "Alliances de gauche et de droite se font face dans la course pour le Conseil d'Etat fribourgeois",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/alliances-de-gauche-et-de-droite-se-font-face-dans-la-course-pour-le-conseil-d-etat-fribourgeois-25777336.html",
         "duration": "01:51",
         "ranked": 6,
-        "epoch": 1637013609.0683594
+        "epoch": 1637100008.8635888
     },
     {
         "title": "Le parc régional Chasseral continuera d'être reconnu comme \"Parc d'importance nationale\" jusqu'en 2031",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-parc-regional-chasseral-continuera-d-etre-reconnu-comme-parc-d-importance-nationale-jusqu-en-2031-25777342.html",
         "duration": "01:42",
         "ranked": 7,
-        "epoch": 1637013609.068361
+        "epoch": 1637100008.8635895
     },
     {
         "title": "L'initiative populaire \"Micro-impôt sur le trafic de paiements sans espèces\" n'a pas convaincu",
@@ -87,7 +87,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-initiative-populaire-micro-impot-sur-le-trafic-de-paiements-sans-especes-n-a-pas-convaincu-25777344.html",
         "duration": "02:08",
         "ranked": 8,
-        "epoch": 1637013609.0683823
+        "epoch": 1637100008.8635905
     },
     {
         "title": "La série Netflix à succès \"Squid Game\" signe pour une deuxième saison",
@@ -97,7 +97,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-serie-netflix-a-succes-squid-game-signe-pour-une-deuxieme-saison-25777345.html",
         "duration": "01:34",
         "ranked": 9,
-        "epoch": 1637013609.0683837
+        "epoch": 1637100008.8635912
     },
     {
         "title": "Les invités du 12h30 - Christian Marthe et Claude Hayoz présentent leur BD \"Coup d'Okla\"",
@@ -107,6 +107,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-invites-du-12h30-christian-marthe-et-claude-hayoz-presentent-leur-bd-coup-d-okla-25777350.html",
         "duration": "08:11",
         "ranked": 10,
-        "epoch": 1637013609.0683851
+        "epoch": 1637100008.863592
     }
 ]

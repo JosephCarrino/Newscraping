@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-pacte-de-glasgow-de-la-cop26-fait-de-nombreux-decus-25778333.html",
         "duration": "02:03",
         "ranked": 0,
-        "epoch": 1637013609.2666302
+        "epoch": 1637100008.6903403
     },
     {
         "title": "Pas de compensations pour les pays en développement: interview de Melchior Lengsfeld",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/pas-de-compensations-pour-les-pays-en-developpement-interview-de-melchior-lengsfeld-25778335.html",
         "duration": "04:17",
         "ranked": 1,
-        "epoch": 1637013609.266633
+        "epoch": 1637100008.6903431
     },
     {
         "title": "La revue de presse alémanique",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-revue-de-presse-alemanique-25778337.html",
         "duration": "02:32",
         "ranked": 2,
-        "epoch": 1637013609.2666342
+        "epoch": 1637100008.690344
     },
     {
         "title": "Les autrices de BD sont à l'honneur ce week-end au festival Arvelac: interview de Renata Martino",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-autrices-de-bd-sont-a-l-honneur-ce-week-end-au-festival-arvelac-interview-de-renata-martino-25778340.html",
         "duration": "01:28",
         "ranked": 3,
-        "epoch": 1637013609.2666352
+        "epoch": 1637100008.6903453
     },
     {
         "title": "Élections présidentielles et législatives en Bulgarie",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/elections-presidentielles-et-legislatives-en-bulgarie-25778339.html",
         "duration": "01:22",
         "ranked": 4,
-        "epoch": 1637013609.2666361
+        "epoch": 1637100008.690346
     },
     {
         "title": "À voix haute - Comment renouer avec notre désir d’agir ?",
@@ -57,6 +57,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/a-voix-haute-comment-renouer-avec-notre-desir-d-agir-25778350.html",
         "duration": "15:17",
         "ranked": 5,
-        "epoch": 1637013609.2666385
+        "epoch": 1637100008.6903467
     }
 ]
