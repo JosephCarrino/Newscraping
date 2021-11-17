@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Der Friedensk\u00e4mpfer",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/47/libyen-buergerkrieg-miliz-diplomatie-mohammed-friwan",
+        "content": "Wie ein Milizenf\u00fchrer die Libyer an einen Tisch bringen will\u2002",
+        "ranked": 0,
+        "epoch": 1637161206.587329
+    },
+    {
+        "title": "Decathlon verkauft keine Boote mehr in \u00c4rmelkanalfilialen",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/frankreich-decathlon-kajak-verkaufsstopp-migranten-aermelkanal-illegale-ueberfahrt",
+        "content": "Oft versuchen Migranten mit Kajaks nach Gro\u00dfbritannien zu kommen. Damit sich nicht noch mehr Menschen in Gefahr bringen, hat der Konzern Boote aus dem Sortiment genommen.",
+        "ranked": 1,
+        "epoch": 1637161206.5873334
+    },
+    {
+        "title": "Warum haben Sie das gesagt, Herr Precht?",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/47/richard-david-precht-corona-impfung-kinder",
+        "content": "Der Philosoph Richard David Precht hat den Druck kritisiert, der auf Ungeimpfte ausge\u00fcbt werde. Daf\u00fcr erntete er einen Sturm der Entr\u00fcstung. Hier spricht er dar\u00fcber, ob er etwas zur\u00fcckzunehmen hat.",
+        "ranked": 2,
+        "epoch": 1637161206.5873349
+    },
+    {
+        "title": "Pssst! Lieber nicht zu laut \u00fcber den FC St. Pauli jubeln\u2026",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/elbvertiefung-17-11-2021",
+        "content": "180,9: Inzidenz so hoch wie nie, Hamburg weitet 2G-Modell aus, Streit zwischen Andy Grote und AfD, Alsterschw\u00e4ne ziehen ins Winterquartier, Das Recycling-Versprechen.",
+        "ranked": 3,
+        "epoch": 1637161206.5873365
+    },
+    {
+        "title": "Besch\u00e4ftigte beim Lieferdienst Gorillas d\u00fcrfen Betriebsrat w\u00e4hlen",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/gorillas-lieferdienst-start-up-berlin-betriebsratswahl-genehmigung-gerichtsentscheid",
+        "content": "Befristete Vertr\u00e4ge, mangelhafte Ausr\u00fcstung, schlechte Dienstplanung: Gegen das Liefer-Start-up Gorillas gibt es viele Vorw\u00fcrfe. Nun kann ein Betriebsrat gew\u00e4hlt werden.",
+        "ranked": 4,
+        "epoch": 1637161206.5873384
+    },
+    {
+        "title": "Neue Robustheit",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/47/europaische-union-belarus-russland-konflikt-aussengrenze",
+        "content": "Truppenaufmarsch an der ukrainischen Grenze, Fl\u00fcchtende an der polnischen \u2013 es sieht schlimm aus, aber die EU wehrt sich.",
+        "ranked": 5,
+        "epoch": 1637161206.58734
+    },
+    {
+        "title": "Das Recht der Reicheren",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/handball-champions-league-thw-kiel",
+        "content": "Im Handball gibt es kaum Regeln f\u00fcr Investoren \u2013 und nun lockt ein neues Projekt aus Norwegen vier Topspieler aus Deutschland. Verliert die Bundesliga den Anschluss?",
+        "ranked": 6,
+        "epoch": 1637161206.5873413
+    },
+    {
+        "title": "US-Lieferdienst DoorDash startet in Deutschland",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/doordash-us-lieferdienst-deutschland-stuttgart",
+        "content": "Sp\u00e4testens seit der Pandemie boomt das Gesch\u00e4ft mit Essenslieferungen. Nun mischt ein gro\u00dfer US-Anbieter in Deutschland mit, erster Standort ist Stuttgart.",
+        "ranked": 7,
+        "epoch": 1637161206.5873423
+    },
+    {
+        "title": "Kreml reagiert gelassen auf Verz\u00f6gerung bei Nord Stream 2",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/russland-nord-stream-2-bundesnetzagentur-zertifizierung",
+        "content": "Die Bundesnetzagentur hat die Zertifizierung der Gaspipeline Nord Stream 2 unterbrochen. Der Kreml sieht dahinter kein politisches Motiv \u2013 und gibt sich entspannt.",
+        "ranked": 8,
+        "epoch": 1637161206.5873437
+    },
+    {
+        "title": "Angela Merkel will Corona-Ma\u00dfnahmen an Krankenhausbelegung koppeln",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/angela-merkel-ampel-epidemische-notlage",
+        "content": "Vor dem Bund-L\u00e4nder-Gipfel hat die Kanzlerin die Pl\u00e4ne der Ampel-Parteien kritisiert. Um volle Intensivstationen zu verhindern, pl\u00e4diert sie f\u00fcr einen neuen Richtwert.",
+        "ranked": 9,
+        "epoch": 1637161206.5873446
+    },
+    {
+        "title": "Neue Dokumente zu einer alten Verschw\u00f6rungstheorie",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-11/jfk-revisited-die-wahrheit-ueber-den-mord-an-john-f-kennedy-oliver-stone-dokumentarfilm",
+        "content": "Einst s\u00e4te der Filmemacher Oliver Stone mit seinem Spielfilm \"JFK\" Zweifel an den Beh\u00f6rden. Nun will er mit einem Dokumentarfilm beweisen, dass seine Fiktion wahr ist.",
+        "ranked": 10,
+        "epoch": 1637161206.587346
+    },
+    {
+        "title": "Ampel plant 3G im \u00d6PNV und am Arbeitsplatz",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/ampel-corona-plaene-3g-homeoffice",
+        "content": "Die Ampel-Parteien wollen eine Homeoffice-Pflicht und strenge 3G-Regeln. Jens Spahn will das \"pandemiem\u00fcde Deutschland\" wachr\u00fctteln.",
+        "ranked": 11,
+        "epoch": 1637161206.5873475
+    },
+    {
+        "title": "In der Bravheitsfalle",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/gruene-buendnis-90-ampel-koalitionsverhandlungen-klima",
+        "content": "Bei den Gr\u00fcnen w\u00e4chst die Unzufriedenheit. In den Koalitionsverhandlungen f\u00fchlen sie sich \u00fcber den Tisch gezogen. Doch sie sind auch Opfer ihrer eigenen Strategie.",
+        "ranked": 12,
+        "epoch": 1637161206.5873485
+    },
+    {
+        "title": "\u00c4rzte ohne Grenzen findet zehn Tote in Fl\u00fcchtlingsboot vor Libyen",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/libyen-fluechtlingsboot-tote-seenotrettung-kueste",
+        "content": "Auf einem \u00fcberf\u00fcllten Holzboot vor der libyschen K\u00fcste sind zehn Menschen erstickt. 99 weitere konnten gerettet werden. Die Helfer suchen nun nach einem sicheren Hafen.",
+        "ranked": 13,
+        "epoch": 1637161206.5873494
+    },
+    {
+        "title": "Polen kritisiert Telefongespr\u00e4ch zwischen Merkel und Lukaschenko",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/polen-kritik-merkel-lukaschenko-grenzkonflikt",
+        "content": "Tausende Migranten harren an der EU-Au\u00dfengrenze zu Belarus aus. Die Vermittlungsversuche von Angela Merkel seien aber der falsche Schritt, sagt die Regierung in Warschau.",
+        "ranked": 14,
+        "epoch": 1637161206.5873506
+    },
+    {
+        "title": "Kommt die Impfpflicht, Herr Spahn?",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/47/jens-spahn-impfpflicht-corona-kampagne-vierte-welle",
+        "content": "Schuld an der vierten Welle seien die Ungeimpften, sagt Bundesgesundheitsminister Jens Spahn. Warum ihr Recht auf Verweigerung dennoch von gro\u00dfer Bedeutung f\u00fcr ihn ist",
+        "ranked": 15,
+        "epoch": 1637161206.5873516
+    },
+    {
+        "title": "Aserbaidschan und Armenien vereinbaren Waffenruhe",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/aserbaidschan-armenien-bergkarabach-konflikt-tote",
+        "content": "Bei K\u00e4mpfen in der Grenzregion Bergkarabach sind aserbaidschanische und armenische Soldaten get\u00f6tet worden. Russland vermittelte eine Waffenruhe zwischen den L\u00e4ndern.",
+        "ranked": 16,
+        "epoch": 1637161206.5873528
+    },
+    {
+        "title": "Seit Beginn des Ausnahmezustands tausend Festnahmen in \u00c4thiopien",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/uno-aethiopien-festnahmen-tigray-buergerkrieg",
+        "content": "In \u00c4thiopien wurde vor gut zwei Wochen der Ausnahmezustand verh\u00e4ngt. Laut UN wurden seitdem mindestens tausend Menschen festgenommen, darunter auch UN-Mitarbeiter.",
+        "ranked": 17,
+        "epoch": 1637161206.5873542
+    },
+    {
+        "title": "\"Das Kalorienz\u00e4hlen gucken sich Kinder ab\"",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zett/2021-11/koerper-wahrnehmung-kinder-gewicht-eltern",
+        "content": "Eltern sollten ihren eigenen K\u00f6rper vor Kindern nie negativ bewerten, sagt die Ern\u00e4hrungswissenschaftlerin Antje Hebestreit. Das erzeugt eine riskante Unzufriedenheit.",
+        "ranked": 18,
+        "epoch": 1637161206.5873616
+    },
+    {
+        "title": "Viele Ortskr\u00e4fte erhielten erst w\u00e4hrend Evakuierungen Aufnahmezusage",
+        "date_raw": "November 17, 2021",
+        "date": "2021-11-17",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/afghanistan-bundesregierung-aufnahme-zusagen-evakuierung",
+        "content": "Rund 5.300 Menschen flog die Bundeswehr im August aus Afghanistan aus. Tausende weitere erhielten laut einem Bericht erst sehr sp\u00e4t eine Zusage der Bundesregierung.",
+        "ranked": 19,
+        "epoch": 1637161206.5873623
+    }
+]
