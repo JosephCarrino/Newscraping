@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Bundestag beschlie\u00dft \u00c4nderungen des Infektionsschutzgesetzes",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/bundestag-beschliesst-neues-infektionsschutzgesetz",
+        "content": "Mit der Ampel-Mehrheit \u00e4ndert der Bundestag den Katalog der Pandemie-Ma\u00dfnahmen. Er sieht bundesweit 3G f\u00fcr Arbeitspl\u00e4tze und \u00d6PNV vor. Die Union droht mit einer Blockade.",
+        "ranked": 0,
+        "epoch": 1637236805.3788419
+    },
+    {
+        "title": "Wer ist mein Bild?",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/47/ludwig-wittgenstein-fotografie-ausstellung-wien",
+        "content": "Eine Wiener Ausstellung \u00fcber Ludwig Wittgenstein zeigt den Philosophen als Fotografen \u2002",
+        "ranked": 1,
+        "epoch": 1637236805.3788445
+    },
+    {
+        "title": "Seelenlage: Schmerzlich",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/47/daniel-schreiber-ruediger-safranski-literatur-einsamkeit",
+        "content": "Daniel Schreiber und R\u00fcdiger Safranski erkunden das vereinzelte Ich, auf verbl\u00fcffend verschiedene Weise.",
+        "ranked": 2,
+        "epoch": 1637236805.3788455
+    },
+    {
+        "title": "Armenien und Aserbaidschan streiten \u00fcber Sch\u00fcsse an der Grenze",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/suedkaukasus-armenien-aserbaidschan-konflikt-gefechte-schuesse-grenze",
+        "content": "Bei den bislang schwersten Gefechten gab es zu Wochenbeginn Tote auf beiden Seiten. Die Situation ist schon l\u00e4nger angespannt.",
+        "ranked": 3,
+        "epoch": 1637236805.3788464
+    },
+    {
+        "title": "St\u00e4ndige Impfkommission empfiehlt Booster f\u00fcr alle Erwachsenen",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/staendige-impfkommission-empfiehlt-booster-fuer-alle-erwachsene",
+        "content": "Ab sofort gilt die Empfehlung f\u00fcr eine Auffrischungsimpfung gegen Covid-19 f\u00fcr alle Menschen ab 18 Jahren. Sie soll sechs Monate nach der Grundimmunisierung erfolgen.",
+        "ranked": 4,
+        "epoch": 1637236805.3788478
+    },
+    {
+        "title": "Mario Czaja fordert \"gro\u00dfstadttaugliche Sprache\" der Union",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/cdu-mario-czaja-gespraechsformate-union-themen-grossstadttaugliche-sprache",
+        "content": "Aus Sicht des CDU-Politikers Mario Czaja m\u00fcssten die Gespr\u00e4chsformate der Union gro\u00dfstadttauglich sein. Daf\u00fcr m\u00fcsse man Herausforderungen direkt in den Kiezen angehen.",
+        "ranked": 5,
+        "epoch": 1637236805.3788486
+    },
+    {
+        "title": "Beschlussvorlage l\u00e4sst wichtige Punkte vor Bund-L\u00e4nder-Runde offen",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/ministerpraesidentenkonferenz-bund-laender-corona-massnahmen-hospitalisierungsrate-zugangsbeschraenkungen-ungeklaert",
+        "content": "Ab welcher Hospitalisierungsrate kommen Zugangsbeschr\u00e4nkungen f\u00fcr Ungeimpfte? Diese und weitere Fragen sind vor der Ministerpr\u00e4sidentenkonferenz am Nachmittag ungekl\u00e4rt.",
+        "ranked": 6,
+        "epoch": 1637236805.3788493
+    },
+    {
+        "title": "Polen nimmt 100 Migranten an Grenze zu Belarus fest",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/grenzstreit-polen-belarus-migranten-festgenommen-humanitaere-hilfe",
+        "content": "Die humanit\u00e4re Hilfe f\u00fcr die gestrandeten Migranten in Belarus wird ausgebaut. Rund 900 Menschen harren noch immer entlang der Grenze aus.",
+        "ranked": 7,
+        "epoch": 1637236805.3788502
+    },
+    {
+        "title": "Pkw-Neuzulassungen in der EU sinken deutlich",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/automobilindustrie-pkw-neuzulassungen-eu-sinken-volkswagen-absatz",
+        "content": "Im Oktober wurden in der EU fast ein Drittel weniger Autos neu zugelassen als ein Jahr zuvor. Insbesondere Volkswagen verzeichnete einen starken R\u00fcckgang.",
+        "ranked": 8,
+        "epoch": 1637236805.3788507
+    },
+    {
+        "title": "Die r\u00f6mische S\u00fcnderin",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/47/heimliche-reisen-helga-schuetz-autobiografisch-prosa",
+        "content": "Heimliche Reisen: Helga Sch\u00fctz verdichtet ihre Lebensfahrt.",
+        "ranked": 9,
+        "epoch": 1637236805.378852
+    },
+    {
+        "title": "\"Meine Mutter sagte: Diese M\u00e4nnerpartei hat deine Zeit nicht verdient\"",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/campus/2021-11/franziska-brandmann-fdp-julis-vorsitzende",
+        "content": "Mit Franziska Brandmann haben die Jungen Liberalen wieder eine Chefin. Eine Begegnung mit einer Frau, die ihren Verband weiblicher machen k\u00f6nnte. Aber will sie das auch?",
+        "ranked": 10,
+        "epoch": 1637236805.3788526
+    },
+    {
+        "title": "\"Ich liebe Horror\"",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/mia-morgan-musikerin-wochenende-podcast",
+        "content": "Mia Morgan schaut am Wochenende Horrorfilme und isst Porridge mit ganz viel Erdnussbutter. Im Podcast erkl\u00e4rt sie, warum sie vor fast nichts mehr Angst hat.",
+        "ranked": 11,
+        "epoch": 1637236805.378853
+    },
+    {
+        "title": "Live: Bundestag entscheidet \u00fcber das neue Infektionsschutzgesetz",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/infektionsschutzgesetz-bundestag-ampel-koalition-entwurf-verabschiedung-debatte-livestream",
+        "content": "Die Abgeordneten des Bundestages besch\u00e4ftigen sich mit dem \u00fcberarbeiteten Corona-Gesetz der Ampel-Fraktionen. Verfolgen Sie die Debatte und Abstimmung im Livestream.",
+        "ranked": 12,
+        "epoch": 1637236805.3788538
+    },
+    {
+        "title": "Tennisverband in Sorge um vermisste Spielerin Peng Shuai",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/wta-peng-shuai-chinesische-tennisspielerin-vermisst-mail-zweifel",
+        "content": "Seit etwa zwei Wochen ist Peng Shuai verschwunden. Nun soll sie sich in einer E-Mail gemeldet haben \u2013 der Verband der Profitennisspielerinnen zweifelt ihre Echtheit an.",
+        "ranked": 13,
+        "epoch": 1637236805.3788548
+    },
+    {
+        "title": "Notstand wegen schweren \u00dcberschwemmungen in Kanada",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/kanada-british-columbia-schwere-ueberschwemmungen-regenfaelle-notstand",
+        "content": "Nach tagelangen Regenf\u00e4llen hat Kanadas Regierung in British Columbia den Notstand ausgerufen. Medien berichten \u00fcber Panikk\u00e4ufe und leere Supermarktregale.",
+        "ranked": 14,
+        "epoch": 1637236805.3788552
+    },
+    {
+        "title": "Philippinen werfen China Schiffsblockade vor",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/china-philippinen-suedchinesisches-meer-konflikte-usa",
+        "content": "Die chinesische Marine hat im S\u00fcdchinesischen Meer philippinische Versorgungsschiffe mit Wasserkanonen beschossen. Die Philippinen sprechen von einer illegalen Aktion.",
+        "ranked": 15,
+        "epoch": 1637236805.378856
+    },
+    {
+        "title": "Haltloses Geplauder",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/47/matou-michael-koehlmeier-roman-kater",
+        "content": "Michael K\u00f6hlmeier schreibt einen Roman aus der Perspektive eines Katers. H\u00fcbsches Experiment, w\u00e4re es nur nicht so lang.\u2002",
+        "ranked": 16,
+        "epoch": 1637236805.3788567
+    },
+    {
+        "title": "Geheime Hefte",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/47/alba-de-cespedes-schriftstellerin-kuba-italien-literatur",
+        "content": "Eine bedeutende Entdeckung: Alba de C\u00e9spedes erz\u00e4hlt von einer Frau, die nach dem Krieg ihre eigene Stimme findet.",
+        "ranked": 17,
+        "epoch": 1637236805.3788657
+    },
+    {
+        "title": "Der Moment der Offenbarung",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/eu-taxonomie-oekonomie-nachhaltigkeit-gruene-investition-klimaschutz-green-deal-5v8",
+        "content": "Olaf Scholz sollte dringend etwas tun, Ursula von der Leyen unbedingt etwas lassen: Denn sonst f\u00f6rdert die EU bald Gas und Kernkraft als \"nachhaltige\" Energien.",
+        "ranked": 18,
+        "epoch": 1637236805.3788664
+    },
+    {
+        "title": "Willkommen in der Realit\u00e4t",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/ampelkoalition-spd-gruene-fdp-corona-politik",
+        "content": "Die FDP muss ihre Corona-Politik revidieren, Oppositionsrhetorik funktioniert an der Macht nicht. Selbst Angela Merkel musste das einst lernen.",
+        "ranked": 19,
+        "epoch": 1637236805.3788707
+    }
+]
