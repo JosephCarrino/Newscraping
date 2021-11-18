@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Gesundheits\u00e4mter registrieren 65.004 Neuinfektionen",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-11/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenzen-hoechstwerte-bayern",
+        "content": "Mit 65.004 Corona-F\u00e4llen melden die Gesundheits\u00e4mter erneut einen bundesweiten H\u00f6chstwert. Neun Bundesl\u00e4nder haben ebenfalls den zweiten Tag in Folge Rekorde \u00fcbermittelt.",
+        "ranked": 0,
+        "epoch": 1637269205.6731136
+    },
+    {
+        "title": "Hinter der Welle, mal wieder",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-massnahmen-epidemische-lage-ministerpraesidenten",
+        "content": "Die Aufhebung der epidemischen Lage kommt zur Unzeit. Die Kritik der Union daran ist allerdings nicht ohne Scheinheiligkeit. Auch sie h\u00e4tte l\u00e4ngst mehr tun k\u00f6nnen.",
+        "ranked": 1,
+        "epoch": 1637269205.6731157
+    },
+    {
+        "title": "So wollen Bund und L\u00e4nder die vierte Welle brechen",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/bund-laender-beschluesse-corona-massnahmen-lockdown-faq",
+        "content": "Einheitliche Schwellenwerte f\u00fcr 2G und 2G plus: Bund und L\u00e4nder versch\u00e4rfen die Corona-Ma\u00dfnahmen. Der Bund soll eine Impfpflicht f\u00fcr Klinik- und Pflegepersonal regeln.",
+        "ranked": 2,
+        "epoch": 1637269205.6731167
+    },
+    {
+        "title": "Ex-Kanzler Sebastian Kurz verliert Immunit\u00e4t",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/oesterreich-kanzler-sebastian-kurz-verliert-immunitaet",
+        "content": "Das Parlament in Wien hat weitere Ermittlungen gegen den fr\u00fcheren Regierungschef erm\u00f6glicht. Gegen Kurz gibt es Vorw\u00fcrfe der Untreue, Bestechung und Bestechlichkeit.",
+        "ranked": 3,
+        "epoch": 1637269205.6731174
+    },
+    {
+        "title": "Kanzlerin sieht \"absolute Zeit zum Handeln\" \u2013 N\u00e4chste MPK im Dezember",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/coronavirus-bund-und-laender-einigen-sich-auf-schwellenwerte-fuer-2g",
+        "content": "Die Lage sei \"hochdramatisch\", sie habe die 2G-Regel schon im August \"ins Auge gefasst\": Nach ihrer Runde mit den L\u00e4nderchefs zeigt sich Angela Merkel alarmiert.",
+        "ranked": 4,
+        "epoch": 1637269205.673118
+    },
+    {
+        "title": "Jetzt live: Angela Merkel zu den neuen Corona-Beschl\u00fcssen",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/livestream-angela-merkel-corona-massnahmen-bund-laender-ministerpraesidentenkonferenz",
+        "content": "Bund und L\u00e4nder haben sich auf neue Ma\u00dfnahmen im Kampf gegen Corona geeinigt. Die Presskonferenz mit der Bundeskanzlerin im Livestream",
+        "ranked": 5,
+        "epoch": 1637269205.6731193
+    },
+    {
+        "title": "Oskar Lafontaine zieht sich aus der Politik zur\u00fcck",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/oskar-lafontaine-die-linke-fraktionschef-saarland-politische-karriere-ende",
+        "content": "Oskar Lafontaine will seine politische Karriere komplett beenden. Die Parteif\u00fchrung der Linken w\u00fcsste nicht, wie man Wahlen gewinnt, sagt er.",
+        "ranked": 6,
+        "epoch": 1637269205.6731198
+    },
+    {
+        "title": "Sie k\u00f6nnten uns die Welt retten",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/green/2021-11/indigene-wissen-klimaschutz-natur",
+        "content": "Indigenen V\u00f6lkern sichere Landrechte zu geben, w\u00fcrde dem Klima enorm helfen. Doch das uralte Wissen Indigener zum Umgang mit der Natur wird noch zu wenig ber\u00fccksichtigt.",
+        "ranked": 7,
+        "epoch": 1637269205.6731205
+    },
+    {
+        "title": "Das wollen die drei Kandidaten f\u00fcr die CDU",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/cdu-vorsitz-friedrich-merz-helge-braun-norbert-roettgen-dreikampf-cdu-basis",
+        "content": "H\u00e4lt die Popularit\u00e4tswelle von Friedrich Merz ein drittes Mal? F\u00fcr wen stimmt das liberale Lager? Und was machen die Merkelianer? Fragen zum Kampf um den CDU-Vorsitz",
+        "ranked": 8,
+        "epoch": 1637269205.673121
+    },
+    {
+        "title": "Eine latente Triage",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/medizinische-versorgung-corona-pandemie-intensivstation-auslastung-triage-gesundheitssystem",
+        "content": "Tumor-Operationen werden verschoben, Patienten in andere Kliniken verlegt. Wie die Corona-Lage in einigen Bundesl\u00e4ndern die Versorgung kranker Menschen beeintr\u00e4chtigt.",
+        "ranked": 9,
+        "epoch": 1637269205.6731217
+    },
+    {
+        "title": "Annalena Baerbocks Buch wird nicht mehr gedruckt",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/annalena-baerbock-gruenen-chefin-plagiatsvorwurf-buch-druckstopp",
+        "content": "Eigentlich wollte die Gr\u00fcnenchefin ihr Buch um Quellenangaben erg\u00e4nzen \u2013 doch im Wahlkampf war daf\u00fcr offenbar keine Zeit. Nun verk\u00fcndet der Verlag einen Druckstopp.",
+        "ranked": 10,
+        "epoch": 1637269205.6731224
+    },
+    {
+        "title": "Kann das gut gehen?",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/infektionsschutzgesetz-corona-ampel-koalition-debatte-nachrichtenpodcast",
+        "content": "Der Bundestag \u00e4ndert das Infektionsschutzgesetz. Reichen die neuen Regeln oder brauchen wir eine Impfpflicht? Und im Podcast-Update: Apple repariert lieber.",
+        "ranked": 11,
+        "epoch": 1637269205.6731231
+    },
+    {
+        "title": "Die R\u00fcckkehr des \"zahnlosen Tigers\"",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/2021-11/corona-warn-app-kontaktnachverfolgung-rueckkehr-infektionszahlen-gesundheitsaemter-ueberforderung",
+        "content": "Das neue Infektionsschutzgesetz k\u00f6nnte die Corona-Warn-App zur Standard-Check-in-Methode machen. Das w\u00fcrde Gesundheits\u00e4mter entlasten, Luca war nicht die L\u00f6sung.",
+        "ranked": 12,
+        "epoch": 1637269205.6731236
+    },
+    {
+        "title": "Was will Kirsten Fehrs? Sie steht mit zwei Frauen an der Kirchenspitze",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/elbvertiefung-18-11-2021",
+        "content": "721 Neuinfektionen, Inzidenz bei 185,5, Ralf Neubauer ist neuer Bezirksamtschef in Hamburg-Mitte, Kapazit\u00e4ten bei den Corona-Auffrischungsimpfungen reichen aus, sagt KVH.",
+        "ranked": 13,
+        "epoch": 1637269205.6731243
+    },
+    {
+        "title": "\"Alpham\u00e4nner machen jedem das Leben zur H\u00f6lle. Auch sich selbst\"",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-11/jane-campion-the-power-of-the-dog-film",
+        "content": "In \"The Power of the Dog\" erz\u00e4hlt die Filmemacherin Jane Campion von einem homophoben Rancher in den 20er Jahren. Ein Gespr\u00e4ch \u00fcber M\u00e4nnlichkeit und die Liebe zu Figuren.",
+        "ranked": 14,
+        "epoch": 1637269205.6731248
+    },
+    {
+        "title": "Ein Riesengesch\u00e4ft",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/47/containerschiffe-groesse-reedereien-corona-gewinne-klima",
+        "content": "Containerschiffe werden immer gr\u00f6\u00dfer \u2013 und die Reedereien machen in der Pandemie Rekordgewinne. Eine \u00dcbersicht in Grafiken.",
+        "ranked": 15,
+        "epoch": 1637269205.6731253
+    },
+    {
+        "title": "Sonderflug aus Minsk bringt Migranten zur\u00fcck in den Irak",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/belarus-minsk-fluechtlinge-irak-rueckflug-bagdad",
+        "content": "430 Menschen sind freiwillig aus Belarus in den Irak zur\u00fcckgekehrt \u2013 weitere k\u00f6nnten folgen. Deutschland wird laut Horst Seehofer keine Gefl\u00fcchteten aufnehmen.",
+        "ranked": 16,
+        "epoch": 1637269205.6731262
+    },
+    {
+        "title": "W\u00fcrden Die 49 die Weihnachtsm\u00e4rkte absagen?",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/corona-massnahmen-weihnachtsmaerkte-absagen-inzidenzwerte-die-49",
+        "content": "Die Inzidenzwerte steigen deutschlandweit, einige Weihnachtsm\u00e4rkte sind bereits abgesagt. Wie Die 49 entscheiden w\u00fcrden.",
+        "ranked": 17,
+        "epoch": 1637269205.673127
+    },
+    {
+        "title": "Wer einen Freedom Day will, braucht die Impfpflicht",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/impfpflicht-corona-liberalismus-plaedoyer-staat",
+        "content": "Die Freiheit der Vielen muss beschnitten werden, weil sich wenige verweigern: Liberal ist das nicht. Warum gerade Freiheitsliebende f\u00fcr die Impfpflicht eintreten m\u00fcssten.",
+        "ranked": 18,
+        "epoch": 1637269205.6731274
+    },
+    {
+        "title": "Gericht entlastet CSU-Politiker in Maskenaff\u00e4re",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/csu-maskenaffaere-georg-nuesslein-alfred-sauer-korruptionsvorwuerfe-entlastung",
+        "content": "Die Korruptionsvorw\u00fcrfe gegen Georg N\u00fc\u00dflein und Alfred Sauter sind laut Oberlandesgericht M\u00fcnchen unbegr\u00fcndet. Die Generalstaatsanwaltschaft sieht das anders.",
+        "ranked": 19,
+        "epoch": 1637269205.6731315
+    }
+]
