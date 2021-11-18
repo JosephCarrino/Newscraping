@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Bund und L\u00e4nder einigen sich auf Schwellenwerte f\u00fcr 2G",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/coronavirus-bund-und-laender-einigen-sich-auf-schwellenwerte-fuer-2g",
+        "content": "Die Hospitalisierung wird zum neuen Ma\u00dfstab f\u00fcr die Corona-Regeln. Bei \u00dcberschreiten bestimmter Schwellen in den Kliniken sollen bundesweit sch\u00e4rfere Ma\u00dfnahmen greifen.",
+        "ranked": 0,
+        "epoch": 1637258406.2888846
+    },
+    {
+        "title": "Jetzt live: Angela Merkel zu den neuen Corona-Beschl\u00fcssen",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/livestream-angela-merkel-corona-massnahmen-bund-laender-ministerpraesidentenkonferenz",
+        "content": "Bund und L\u00e4nder haben sich auf neue Ma\u00dfnahmen im Kampf gegen Corona geeinigt. Die Presskonferenz mit der Bundeskanzlerin im Livestream",
+        "ranked": 1,
+        "epoch": 1637258406.2888875
+    },
+    {
+        "title": "Oskar Lafontaine zieht sich aus der Politik zur\u00fcck",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/oskar-lafontaine-die-linke-fraktionschef-saarland-politische-karriere-ende",
+        "content": "Oskar Lafontaine will seine politische Karriere komplett beenden. Die Parteif\u00fchrung der Linken w\u00fcsste nicht, wie man Wahlen gewinnt, sagt er.",
+        "ranked": 2,
+        "epoch": 1637258406.288889
+    },
+    {
+        "title": "Sie k\u00f6nnten uns die Welt retten",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/green/2021-11/indigene-wissen-klimaschutz-natur",
+        "content": "Indigenen V\u00f6lkern sichere Landrechte zu geben, w\u00fcrde dem Klima enorm helfen. Doch das uralte Wissen Indigener zum Umgang mit der Natur wird noch zu wenig ber\u00fccksichtigt.",
+        "ranked": 3,
+        "epoch": 1637258406.2888896
+    },
+    {
+        "title": "Das wollen die drei Kandidaten f\u00fcr die CDU",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/cdu-vorsitz-friedrich-merz-helge-braun-norbert-roettgen-dreikampf-cdu-basis",
+        "content": "H\u00e4lt die Popularit\u00e4tswelle von Friedrich Merz ein drittes Mal? F\u00fcr wen stimmt das liberale Lager? Und was machen die Merkelianer? Fragen zum Kampf um den CDU-Vorsitz",
+        "ranked": 4,
+        "epoch": 1637258406.2888906
+    },
+    {
+        "title": "Eine latente Triage",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/medizinische-versorgung-corona-pandemie-intensivstation-auslastung-triage-gesundheitssystem",
+        "content": "Tumor-Operationen werden verschoben, Patienten in andere Kliniken verlegt. Wie die Corona-Lage in einigen Bundesl\u00e4ndern die Versorgung kranker Menschen beeintr\u00e4chtigt.",
+        "ranked": 5,
+        "epoch": 1637258406.2888916
+    },
+    {
+        "title": "Annalena Baerbocks Buch wird nicht mehr gedruckt",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/annalena-baerbock-gruenen-chefin-plagiatsvorwurf-buch-druckstopp",
+        "content": "Eigentlich wollte die Gr\u00fcnenchefin ihr Buch um Quellenangaben erg\u00e4nzen \u2013 doch im Wahlkampf war daf\u00fcr offenbar keine Zeit. Nun verk\u00fcndet der Verlag einen Druckstopp.",
+        "ranked": 6,
+        "epoch": 1637258406.2888925
+    },
+    {
+        "title": "Kann das gut gehen?",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/infektionsschutzgesetz-corona-ampel-koalition-debatte-nachrichtenpodcast",
+        "content": "Der Bundestag \u00e4ndert das Infektionsschutzgesetz. Reichen die neuen Regeln oder brauchen wir eine Impfpflicht? Und im Podcast-Update: Apple repariert lieber.",
+        "ranked": 7,
+        "epoch": 1637258406.2888932
+    },
+    {
+        "title": "Die R\u00fcckkehr des \"zahnlosen Tigers\"",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/2021-11/corona-warn-app-kontaktnachverfolgung-rueckkehr-infektionszahlen-gesundheitsaemter-ueberforderung",
+        "content": "Das neue Infektionsschutzgesetz k\u00f6nnte die Corona-Warn-App zur Standard-Check-in-Methode machen. Das w\u00fcrde Gesundheits\u00e4mter entlasten, Luca war nicht die L\u00f6sung.",
+        "ranked": 8,
+        "epoch": 1637258406.2888937
+    },
+    {
+        "title": "Was will Kirsten Fehrs? Sie steht mit zwei Frauen an der Kirchenspitze",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/elbvertiefung-18-11-2021",
+        "content": "721 Neuinfektionen, Inzidenz bei 185,5, Ralf Neubauer ist neuer Bezirksamtschef in Hamburg-Mitte, Kapazit\u00e4ten bei den Corona-Auffrischungsimpfungen reichen aus, sagt KVH.",
+        "ranked": 9,
+        "epoch": 1637258406.2888944
+    },
+    {
+        "title": "\"Alpham\u00e4nner machen jedem das Leben zur H\u00f6lle. Auch sich selbst\"",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-11/jane-campion-the-power-of-the-dog-film",
+        "content": "In \"The Power of the Dog\" erz\u00e4hlt die Filmemacherin Jane Campion von einem homophoben Rancher in den 20er Jahren. Ein Gespr\u00e4ch \u00fcber M\u00e4nnlichkeit und die Liebe zu Figuren.",
+        "ranked": 10,
+        "epoch": 1637258406.2888951
+    },
+    {
+        "title": "Ein Riesengesch\u00e4ft",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/47/containerschiffe-groesse-reedereien-corona-gewinne-klima",
+        "content": "Containerschiffe werden immer gr\u00f6\u00dfer \u2013 und die Reedereien machen in der Pandemie Rekordgewinne. Eine \u00dcbersicht in Grafiken.",
+        "ranked": 11,
+        "epoch": 1637258406.2888958
+    },
+    {
+        "title": "Sonderflug aus Minsk bringt Migranten zur\u00fcck in den Irak",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/belarus-minsk-fluechtlinge-irak-rueckflug-bagdad",
+        "content": "430 Menschen sind freiwillig aus Belarus in den Irak zur\u00fcckgekehrt \u2013 weitere k\u00f6nnten folgen. Deutschland wird laut Horst Seehofer keine Gefl\u00fcchteten aufnehmen.",
+        "ranked": 12,
+        "epoch": 1637258406.2888966
+    },
+    {
+        "title": "W\u00fcrden Die 49 die Weihnachtsm\u00e4rkte absagen?",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/corona-massnahmen-weihnachtsmaerkte-absagen-inzidenzwerte-die-49",
+        "content": "Die Inzidenzwerte steigen deutschlandweit, einige Weihnachtsm\u00e4rkte sind bereits abgesagt. Wie Die 49 entscheiden w\u00fcrden.",
+        "ranked": 13,
+        "epoch": 1637258406.288897
+    },
+    {
+        "title": "Wer einen Freedom Day will, braucht die Impfpflicht",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/impfpflicht-corona-liberalismus-plaedoyer-staat",
+        "content": "Die Freiheit der Vielen muss beschnitten werden, weil sich wenige verweigern: Liberal ist das nicht. Warum gerade Freiheitsliebende f\u00fcr die Impfpflicht eintreten m\u00fcssten.",
+        "ranked": 14,
+        "epoch": 1637258406.2888975
+    },
+    {
+        "title": "Gericht entlastet CSU-Politiker in Maskenaff\u00e4re",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/csu-maskenaffaere-georg-nuesslein-alfred-sauer-korruptionsvorwuerfe-entlastung",
+        "content": "Die Korruptionsvorw\u00fcrfe gegen Georg N\u00fc\u00dflein und Alfred Sauter sind laut Oberlandesgericht M\u00fcnchen unbegr\u00fcndet. Die Generalstaatsanwaltschaft sieht das anders.",
+        "ranked": 15,
+        "epoch": 1637258406.2888982
+    },
+    {
+        "title": "Belarus meldet ersten Corona-Fall bei Migranten in Notunterkunft",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/polnisch-belarussischen-grenze-fluechtlinge-unterkunft-kuznica-erster-corona-fall",
+        "content": "In einer Migrantenunterkunft nahe der polnischen Grenze infiziert sich ein Mann mit dem Coronavirus. Dort soll nun eine Impfstelle errichten werden.",
+        "ranked": 16,
+        "epoch": 1637258406.2888987
+    },
+    {
+        "title": "Der Druck entl\u00e4dt sich durch Schikane",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/mobbing-erwachsene-arbeitsplatz-cybermobbing-buendnis-gegen-mobbing-studie",
+        "content": "In der Corona-Pandemie hat Cybermobbing am Arbeitsplatz einer neuen Studie zufolge zugenommen: Schikane geschieht oft bei hohem Leistungsdruck und starren Hierarchien.",
+        "ranked": 17,
+        "epoch": 1637258406.2888997
+    },
+    {
+        "title": "Die Biden-Agenda \u2013 welche Biden-Agenda?",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/us-praesident-joe-biden-china-europa-aussenpolitik-ok-america",
+        "content": "Was will US-Pr\u00e4sident Joe Biden ein Jahr nach der Wahl? Und was kann das Land international noch leisten? Ob es eine Biden-Doktrin gibt, diskutieren wir im US-Podcast.",
+        "ranked": 18,
+        "epoch": 1637258406.2889001
+    },
+    {
+        "title": "BKA rechnet mit mehr rechtsextremistischen Gef\u00e4hrdern",
+        "date_raw": "November 18, 2021",
+        "date": "2021-11-18",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/rechtsextremismus-bka-rechtsextreme-gefaehrder-deutschland-anstieg",
+        "content": "Bundesweit gelten 75 Rechtsextremisten als Gef\u00e4hrder. Der Anstieg l\u00e4sst sich laut Bundeskriminalamt nicht nur mit verst\u00e4rkter Gewaltbereitschaft in der Szene erkl\u00e4ren.",
+        "ranked": 19,
+        "epoch": 1637258406.288905
+    }
+]
