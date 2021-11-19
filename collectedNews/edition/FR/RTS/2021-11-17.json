@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-sondage-estime-le-oui-des-suisses-a-60-pour-la-loi-covid-25779235.html",
         "duration": "02:01",
         "ranked": 0,
-        "epoch": 1637272809.1136045
+        "epoch": 1637359211.3023162
     },
     {
         "title": "Lancement de la 3e dose du vaccin contre le Covid dans les EMS suisses",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/lancement-de-la-3e-dose-du-vaccin-contre-le-covid-dans-les-ems-suisses-25779236.html",
         "duration": "01:43",
         "ranked": 1,
-        "epoch": 1637272809.1136084
+        "epoch": 1637359211.3023188
     },
     {
         "title": "Arrestation de six personnes au Tessin en lien avec la mafia italienne",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/arrestation-de-six-personnes-au-tessin-en-lien-avec-la-mafia-italienne-25779238.html",
         "duration": "01:46",
         "ranked": 2,
-        "epoch": 1637272809.1136103
+        "epoch": 1637359211.3023198
     },
     {
         "title": "Le secteur médical peine à recruter au Royaume-Uni",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-secteur-medical-peine-a-recruter-au-royaume-uni-25779243.html",
         "duration": "02:16",
         "ranked": 3,
-        "epoch": 1637272809.1136117
+        "epoch": 1637359211.302321
     },
     {
         "title": "La pénurie de main d’œuvre en Suisse touche plusieurs secteurs: interview de Cédric Tille",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-penurie-de-main-d-uvre-en-suisse-touche-plusieurs-secteurs-interview-de-cedric-tille-25779241.html",
         "duration": "01:12",
         "ranked": 4,
-        "epoch": 1637272809.113613
+        "epoch": 1637359211.3023217
     },
     {
         "title": "Eric Zemmour comparaît devant la justice pour provocation à la haine",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/eric-zemmour-comparait-devant-la-justice-pour-provocation-a-la-haine-25779250.html",
         "duration": "01:33",
         "ranked": 5,
-        "epoch": 1637272809.113614
+        "epoch": 1637359211.3023226
     },
     {
         "title": "La joueuse de tennis chinoise Peng Shuai portée disparue suite à son accusation de viol",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-joueuse-de-tennis-chinoise-peng-shuai-portee-disparue-suite-a-son-accusation-de-viol-25779249.html",
         "duration": "01:31",
         "ranked": 6,
-        "epoch": 1637272809.1136148
+        "epoch": 1637359211.302324
     },
     {
         "title": "Les eaux contaminées de Fukushima sont rejetées dans la mer",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-eaux-contaminees-de-fukushima-sont-rejetees-dans-la-mer-25779251.html",
         "duration": "02:18",
         "ranked": 7,
-        "epoch": 1637272809.1136162
+        "epoch": 1637359211.302325
     },
     {
         "title": "La ville de Lausanne crée un inventaire du patrimoine de ses cafés et restaurants historiques",
@@ -87,7 +87,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-ville-de-lausanne-cree-un-inventaire-du-patrimoine-de-ses-cafes-et-restaurants-historiques-25779253.html",
         "duration": "01:48",
         "ranked": 8,
-        "epoch": 1637272809.1136172
+        "epoch": 1637359211.302326
     },
     {
         "title": "Festi'Neuch a dévoilé les têtes d'affiches de sa 21e édition: interview d’Antonin Rousseau",
@@ -97,7 +97,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/festi-neuch-a-devoile-les-tetes-d-affiches-de-sa-21e-edition-interview-d-antonin-rousseau-25779255.html",
         "duration": "01:41",
         "ranked": 9,
-        "epoch": 1637272809.1136181
+        "epoch": 1637359211.3023272
     },
     {
         "title": "L'invitée du 12h30 - La metteuse en scène Antea Tomicic",
@@ -107,6 +107,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invitee-du-12h30-la-metteuse-en-scene-antea-tomicic-25779260.html",
         "duration": "08:37",
         "ranked": 10,
-        "epoch": 1637272809.1136189
+        "epoch": 1637359211.3023279
     }
 ]
