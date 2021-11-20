@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Nur gute Nachrichten und Inspirierendes zum Wochenende",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-11/nur-gute-nachrichten-2021-11-20",
+        "content": "Die Samstagsausgabe unseres Newsletters ist auf vielfachen Wunsch besonders virenarm. Sie enth\u00e4lt ausschlie\u00dflich gutes Nachrichten sowie Inspirierendes.",
+        "ranked": 0,
+        "epoch": 1637398806.0301309
+    },
+    {
+        "title": "Welchen Westen h\u00e4tten Sie denn gern?",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/literatur/2021-11/pascal-bruckner-buch-die-neue-linke-westen",
+        "content": "Die Nation als Asyl: Der franz\u00f6sische Philosoph Pascal Bruckner kn\u00fcpft in seinem neuen Buch \u00fcber den Selbsthass des Westens an die eigenen Anf\u00e4nge an.",
+        "ranked": 1,
+        "epoch": 1637398806.030133
+    },
+    {
+        "title": "Polarisiert wie nie",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/praesidentschaftswahl-chile-verfassungsreform-grundgesetz-soziale-ungleichheit",
+        "content": "Bei der Pr\u00e4sidentschaftswahl in Chile wird dar\u00fcber entschieden, ob das Land sich wirklich ver\u00e4ndert. Oder ob es in alte Muster zur\u00fcckf\u00e4llt.",
+        "ranked": 2,
+        "epoch": 1637398806.030134
+    },
+    {
+        "title": "Hat sich Ihre Familie nach einem Impfstreit wieder vertragen?",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/corona-impfung-familie-streit-erfahrungen-leseraufruf",
+        "content": "Ein Familienmitglied lehnte die Impfung ab, die Familie war gespalten. Dann hat es sich doch immunisieren lassen. Haben Sie das erlebt? Schreiben Sie uns!",
+        "ranked": 3,
+        "epoch": 1637398806.0301347
+    },
+    {
+        "title": "Wie Sachsen die vierte Welle brechen will",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-massnahmen-sachsen-landesregierung-hotspots-ausgangsbeschraenkungen",
+        "content": "In dem Bundesland gilt ab Montag ein Teillockdown, das Wort wird aber tunlichst vermieden. Das Regelwerk ist kompliziert \u2013 und kommt f\u00fcr viele zu sp\u00e4t.",
+        "ranked": 4,
+        "epoch": 1637398806.0301356
+    },
+    {
+        "title": "Boris Johnson erw\u00e4gt Boykott von Olympia in China",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/olympische-winterspiele-peking-china-boykott-moeglich-grossbritannien-usa",
+        "content": "Nach den USA denkt auch die britische Regierung dar\u00fcber nach, keine Diplomaten zu den Spielen zu schicken. Damit will sie gegen Menschenrechtsverletzungen demonstrieren.",
+        "ranked": 5,
+        "epoch": 1637398806.0301363
+    },
+    {
+        "title": "Georgiens Ex-Pr\u00e4sident beendet Hungerstreik nach 50 Tagen",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/michail-saakaschwili-georgien-haft-hungerstreik-ende-proteste",
+        "content": "Michail Saakaschwili war nach seiner R\u00fcckkehr aus dem Exil verhaftet worden \u2013 dagegen hatte er protestiert. Vorw\u00fcrfe gegen ihn bezeichnet er als politisch motiviert.",
+        "ranked": 6,
+        "epoch": 1637398806.0301368
+    },
+    {
+        "title": "Jair Bolsonaro verschwieg offenbar Erkenntnisse zur Abholzung",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/un-klimakonferenz-brasilien-jair-bolsonaro-abholzung-daten",
+        "content": "Die brasilianische Regierung wusste nach Ministerangaben schon vor dem Klimagipfel, dass die Rodung stark gestiegen ist. Die Daten wurden demnach bewusst zur\u00fcckgehalten.",
+        "ranked": 7,
+        "epoch": 1637398806.0301375
+    },
+    {
+        "title": "Sch\u00fctze von Kenosha in allen Anklagepunkten freigesprochen",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/usa-kenosha-proteste-tote-schuetze-kyle-r-prozess-freispruch",
+        "content": "Der damals 17-J\u00e4hrige hatte im Zuge von Protesten gegen Polizeigewalt in Kenosha zwei Menschen erschossen. Joe Biden forderte die Bev\u00f6lkerung auf, friedlich zu bleiben.",
+        "ranked": 8,
+        "epoch": 1637398806.030138
+    },
+    {
+        "title": "Augsburg schl\u00e4gt die Bayern",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/bundesliga-12-spieltag-fc-augsburg-fc-bayern-muenchen-fussball-spielberichte",
+        "content": "Der FC Augsburg gewinnt das Freitagsspiel der Bundesliga mit 2:1 gegen den FC Bayern. Robert Lewandowski trifft f\u00fcr die M\u00fcnchener noch zum Anschluss. Der Spielbericht",
+        "ranked": 9,
+        "epoch": 1637398806.0301387
+    },
+    {
+        "title": "RKI registriert fast 19.000 Neuinfektionen mehr als eine Woche zuvor",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-11/coronavirus-neuinfektionen-anstieg-fallzahlen-hoechstwert-inzidenz",
+        "content": "Die Beh\u00f6rde hat knapp 64.000 neue Ansteckungen verzeichnet. Damit steigt die Sieben-Tage-Inzidenz auf einen H\u00f6chststand von 362,2.",
+        "ranked": 10,
+        "epoch": 1637398806.0301394
+    },
+    {
+        "title": "Sachsen schr\u00e4nkt weite Teile des \u00f6ffentlichen Lebens ein",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/coronavirus-sachsen-einschraenkungen-verschaerfung-kultur-freizeit-weihnachtsmaerkte-bars",
+        "content": "Die Regierung in Dresden versch\u00e4rft die Corona-Regeln deutlich: Kultur- und Sporteinrichtungen sowie Bars und Clubs schlie\u00dfen. Schulen und Kitas sollen ge\u00f6ffnet bleiben.",
+        "ranked": 11,
+        "epoch": 1637398806.03014
+    },
+    {
+        "title": "Auf taube Ohren",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/ondes-martenot-musicales-geschichte-mady-humbert-lavergne-10nach8",
+        "content": "Wie kann arabische Musik auf europ\u00e4ischen Instrumenten gespielt werden? Eine franz\u00f6sische Musikerin machte 1932 einen Vorschlag, den die M\u00e4nner des Fachs aber \u00fcbergingen.",
+        "ranked": 12,
+        "epoch": 1637398806.0301406
+    },
+    {
+        "title": "Der Reiz junger Rotweine",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-11/tempranillo-junger-rotwein-spanien-ribera-del-duero",
+        "content": "Wer Sch\u00f6nheit nicht mit Wucht gleichsetzt, kann mit jungen Rotweinen gro\u00dfe Freude haben. Besonders empfehlen sich spanische Trauben, etwa Tempranillo.",
+        "ranked": 13,
+        "epoch": 1637398806.030141
+    },
+    {
+        "title": "Repr\u00e4sentantenhaus beschlie\u00dft billionenschweres Sozial- und Klimapaket",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/usa-us-repraesentantenhaus-joe-biden-investitionspaket-soziales-klimaschutz",
+        "content": "Joe Bidens n\u00e4chstes innenpolitisches Gro\u00dfprojekt hat die erste H\u00fcrde genommen. Der US-Pr\u00e4sident w\u00fcnscht sich die schnelle Zustimmung des Senats \u2013 doch die ist fraglich.",
+        "ranked": 14,
+        "epoch": 1637398806.0301416
+    },
+    {
+        "title": "\"Es hagelt Stornierungen\"",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/gastronomie-weihnachtsgeschaeft-inzidenzen-stornierungen-dehoga-ingrid-hartges-interview",
+        "content": "F\u00fcr die Gastronomie ist der Dezember der wichtigste Monat. Doch die steigenden Inzidenzen machen das Weihnachtsgesch\u00e4ft zunichte, sagt Ingrid Hartges vom Dehoga.",
+        "ranked": 15,
+        "epoch": 1637398806.0301425
+    },
+    {
+        "title": "Ohne Einschr\u00e4nkungen f\u00fcr Geimpfte geht es nicht",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/vierte-welle-corona-lockdown-ungeimpfte-geimpfte",
+        "content": "Es w\u00e4re naheliegend und gerecht, die Welle mit einem Lockdown f\u00fcr Ungeimpfte zu brechen. Doch das wird nicht mehr reichen, um den Kollaps der Kliniken zu verhindern.",
+        "ranked": 16,
+        "epoch": 1637398806.030143
+    },
+    {
+        "title": "Ein z\u00e4hneknirschendes Ja der Union",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/infektionsschutzgesetz-bundesrat-corona-nachrichtenpodcast",
+        "content": "Der Bundesrat stimmt den neuen Corona-Regeln zu. Die CDU emp\u00f6rt sich \u00fcber das Ende der Notlage \u2013 zu Recht? Au\u00dferdem im Podcast-Update: \u00d6sterreich geht in den Lockdown.",
+        "ranked": 17,
+        "epoch": 1637398806.0301437
+    },
+    {
+        "title": "Also",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/eurotrash-schaubuehne-berlin-urauffuehrung-angela-winkler-joachim-meyerhoff-theater",
+        "content": "Die Schaub\u00fchne hat Christian Krachts Roman \"Eurotrash\" f\u00fcrs Theater adaptiert. Angela Winkler und Joachim Meyerhoff spielen eine fabelhaft kaputte Mutter-Sohn-Beziehung.",
+        "ranked": 18,
+        "epoch": 1637398806.0301445
+    },
+    {
+        "title": "Wir kaufen unseren Fu\u00dfballclub zur\u00fcck",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/inter-mailand-suning-group-china-verkauf-fussballfans-aktienkauf",
+        "content": "Inter Mailand geh\u00f6rt einem chinesischen Unternehmen. Nun wollen ein kluger \u00d6konom und Hunderttausende Fans den Club zur\u00fcckkaufen. Als Vorbild gilt: der FC Bayern.",
+        "ranked": 19,
+        "epoch": 1637398806.0301483
+    }
+]
