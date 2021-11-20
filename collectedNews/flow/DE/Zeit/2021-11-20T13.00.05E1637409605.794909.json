@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Traust du dich eh nicht!",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/internet/2021-11/online-challenges-tiktok-gefahr-umfrage",
+        "content": "TikTok gilt als bunt und lustig. Doch manche Challenges dort sind lebensgef\u00e4hrlich. Eine Umfrage macht das Problem nun messbar. Die Plattform unternimmt wenig.",
+        "ranked": 0,
+        "epoch": 1637409605.7948637
+    },
+    {
+        "title": "Tausende Gefl\u00fcchtete hoffen weiter auf \u00d6ffnung der EU-Au\u00dfengrenze",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/belarus-eu-grenze-polen-oeffnung-gefluechtete-hoffnung-migration",
+        "content": "Der polnische Grenzschutz hindert erneut Hunderte Menschen am Grenz\u00fcbertritt. Juso-Chefin Jessica Rosenthal fordert von EU und Ampel-Parteien, Gefl\u00fcchtete aufzunehmen.",
+        "ranked": 1,
+        "epoch": 1637409605.7948658
+    },
+    {
+        "title": "Massive Kritik an Spahns Pl\u00e4nen zur BioNTech-Deckelung",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/boosterimpfung-corona-jens-spahn-biontech-deckelung-moderna-kritik",
+        "content": "Das Bundesgesundheitsministerium setzt bei Boosterimpfungen verst\u00e4rkt auf das Moderna-Pr\u00e4parat \u2013 auch, weil dieses zu verfallen droht. Kritik kommt aus allen Richtungen.",
+        "ranked": 2,
+        "epoch": 1637409605.7948673
+    },
+    {
+        "title": "Trainer Markus Anfang tritt wegen Ermittlungen zur\u00fcck",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/werder-bremen-trainer-markus-anfang-tritt-wegen-ermittlungen-zurueck",
+        "content": "Werder Bremen trennt sich von Anfang sowie Co-Trainer Florian Junge. Gegen Anfang wird wegen des Verdachts ermittelt, einen gef\u00e4lschten Impfausweis benutzt zu haben.",
+        "ranked": 3,
+        "epoch": 1637409605.7948678
+    },
+    {
+        "title": "Jetzt r\u00e4cht sich sein Schweigen",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/olaf-scholz-corona-ampel-regierung",
+        "content": "Die Corona-Politik hatte f\u00fcr Olaf Scholz lange keine Priorit\u00e4t. Das macht ihn nun angreifbar und es ist eine Hypothek f\u00fcr die k\u00fcnftige Ampel-Regierung.",
+        "ranked": 4,
+        "epoch": 1637409605.7948687
+    },
+    {
+        "title": "Xavi verk\u00f6rpert Bar\u00e7as gro\u00dfe Zeit, doch die Zeiten haben sich ge\u00e4ndert",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/xavi-fc-barcelona-trainer-fussball",
+        "content": "Als Spieler verk\u00f6rperte er das Ideal des FC Barcelona, nun soll der Trainer Xavi den Club wiederbeleben. Unter den ge\u00e4nderten Vorzeichen dieser Epoche wird das schwierig.",
+        "ranked": 5,
+        "epoch": 1637409605.7948694
+    },
+    {
+        "title": "Nur gute Nachrichten und Inspirierendes zum Wochenende",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-11/nur-gute-nachrichten-2021-11-20",
+        "content": "Die Samstagsausgabe unseres Newsletters ist auf vielfachen Wunsch besonders virenarm. Sie enth\u00e4lt ausschlie\u00dflich gutes Nachrichten sowie Inspirierendes.",
+        "ranked": 6,
+        "epoch": 1637409605.7948704
+    },
+    {
+        "title": "Welchen Westen h\u00e4tten Sie denn gern?",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/literatur/2021-11/pascal-bruckner-buch-die-neue-linke-westen",
+        "content": "Die Nation als Asyl: Der franz\u00f6sische Philosoph Pascal Bruckner kn\u00fcpft in seinem neuen Buch \u00fcber den Selbsthass des Westens an die eigenen Anf\u00e4nge an.",
+        "ranked": 7,
+        "epoch": 1637409605.794871
+    },
+    {
+        "title": "Polarisiert wie nie",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/praesidentschaftswahl-chile-verfassungsreform-grundgesetz-soziale-ungleichheit",
+        "content": "Bei der Pr\u00e4sidentschaftswahl in Chile wird dar\u00fcber entschieden, ob das Land sich wirklich ver\u00e4ndert. Oder ob es in alte Muster zur\u00fcckf\u00e4llt.",
+        "ranked": 8,
+        "epoch": 1637409605.7948716
+    },
+    {
+        "title": "Hat sich Ihre Familie nach einem Impfstreit wieder vertragen?",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/corona-impfung-familie-streit-erfahrungen-leseraufruf",
+        "content": "Ein Familienmitglied lehnte die Impfung ab, die Familie war gespalten. Dann hat es sich doch immunisieren lassen. Haben Sie das erlebt? Schreiben Sie uns!",
+        "ranked": 9,
+        "epoch": 1637409605.794872
+    },
+    {
+        "title": "Wie Sachsen die vierte Welle brechen will",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-massnahmen-sachsen-landesregierung-hotspots-ausgangsbeschraenkungen",
+        "content": "In dem Bundesland gilt ab Montag ein Teillockdown, das Wort wird aber tunlichst vermieden. Das Regelwerk ist kompliziert \u2013 und kommt f\u00fcr viele zu sp\u00e4t.",
+        "ranked": 10,
+        "epoch": 1637409605.7948728
+    },
+    {
+        "title": "Boris Johnson erw\u00e4gt Boykott von Olympia in China",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/olympische-winterspiele-peking-china-boykott-moeglich-grossbritannien-usa",
+        "content": "Nach den USA denkt auch die britische Regierung dar\u00fcber nach, keine Diplomaten zu den Spielen zu schicken. Damit will sie gegen Menschenrechtsverletzungen demonstrieren.",
+        "ranked": 11,
+        "epoch": 1637409605.7948732
+    },
+    {
+        "title": "Georgiens Ex-Pr\u00e4sident beendet Hungerstreik nach 50 Tagen",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/michail-saakaschwili-georgien-haft-hungerstreik-ende-proteste",
+        "content": "Michail Saakaschwili war nach seiner R\u00fcckkehr aus dem Exil verhaftet worden \u2013 dagegen hatte er protestiert. Vorw\u00fcrfe gegen ihn bezeichnet er als politisch motiviert.",
+        "ranked": 12,
+        "epoch": 1637409605.7948742
+    },
+    {
+        "title": "Jair Bolsonaro verschwieg offenbar Erkenntnisse zur Abholzung",
+        "date_raw": "November 20, 2021",
+        "date": "2021-11-20",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/un-klimakonferenz-brasilien-jair-bolsonaro-abholzung-daten",
+        "content": "Die brasilianische Regierung wusste nach Ministerangaben schon vor dem Klimagipfel, dass die Rodung stark gestiegen ist. Die Daten wurden demnach bewusst zur\u00fcckgehalten.",
+        "ranked": 13,
+        "epoch": 1637409605.7948747
+    },
+    {
+        "title": "Sch\u00fctze von Kenosha in allen Anklagepunkten freigesprochen",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/usa-kenosha-proteste-tote-schuetze-kyle-r-prozess-freispruch",
+        "content": "Der damals 17-J\u00e4hrige hatte im Zuge von Protesten gegen Polizeigewalt in Kenosha zwei Menschen erschossen. Joe Biden forderte die Bev\u00f6lkerung auf, friedlich zu bleiben.",
+        "ranked": 14,
+        "epoch": 1637409605.7948751
+    },
+    {
+        "title": "Augsburg schl\u00e4gt die Bayern",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/bundesliga-12-spieltag-fc-augsburg-fc-bayern-muenchen-fussball-spielberichte",
+        "content": "Der FC Augsburg gewinnt das Freitagsspiel der Bundesliga mit 2:1 gegen den FC Bayern. Robert Lewandowski trifft f\u00fcr die M\u00fcnchener noch zum Anschluss. Der Spielbericht",
+        "ranked": 15,
+        "epoch": 1637409605.7948756
+    },
+    {
+        "title": "RKI registriert fast 19.000 Neuinfektionen mehr als eine Woche zuvor",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-11/coronavirus-neuinfektionen-anstieg-fallzahlen-hoechstwert-inzidenz",
+        "content": "Die Beh\u00f6rde hat knapp 64.000 neue Ansteckungen verzeichnet. Damit steigt die Sieben-Tage-Inzidenz auf einen H\u00f6chststand von 362,2.",
+        "ranked": 16,
+        "epoch": 1637409605.7948763
+    },
+    {
+        "title": "Sachsen schr\u00e4nkt weite Teile des \u00f6ffentlichen Lebens ein",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/coronavirus-sachsen-einschraenkungen-verschaerfung-kultur-freizeit-weihnachtsmaerkte-bars",
+        "content": "Die Regierung in Dresden versch\u00e4rft die Corona-Regeln deutlich: Kultur- und Sporteinrichtungen sowie Bars und Clubs schlie\u00dfen. Schulen und Kitas sollen ge\u00f6ffnet bleiben.",
+        "ranked": 17,
+        "epoch": 1637409605.7948768
+    },
+    {
+        "title": "Auf taube Ohren",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/ondes-martenot-musicales-geschichte-mady-humbert-lavergne-10nach8",
+        "content": "Wie kann arabische Musik auf europ\u00e4ischen Instrumenten gespielt werden? Eine franz\u00f6sische Musikerin machte 1932 einen Vorschlag, den die M\u00e4nner des Fachs aber \u00fcbergingen.",
+        "ranked": 18,
+        "epoch": 1637409605.7948778
+    },
+    {
+        "title": "Der Reiz junger Rotweine",
+        "date_raw": "November 19, 2021",
+        "date": "2021-11-19",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-11/tempranillo-junger-rotwein-spanien-ribera-del-duero",
+        "content": "Wer Sch\u00f6nheit nicht mit Wucht gleichsetzt, kann mit jungen Rotweinen gro\u00dfe Freude haben. Besonders empfehlen sich spanische Trauben, etwa Tempranillo.",
+        "ranked": 19,
+        "epoch": 1637409605.7948816
+    }
+]
