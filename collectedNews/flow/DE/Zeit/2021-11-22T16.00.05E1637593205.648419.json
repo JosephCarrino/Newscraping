@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Christdemokraten \u00e4ndern Verfahren zur Abstimmung \u00fcber Parteivorsitz",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/cdu-spitze-mitgliederbefragung-parteivorsitz-verfahren-vereinfachung",
+        "content": "CDU-Mitglieder, die sich noch nicht f\u00fcr das Online-Verfahren zur Parteichefwahl angemeldet haben, bekommen nun Briefwahlzettel. Vor allem zwei Kandidaten wollten das so.",
+        "ranked": 0,
+        "epoch": 1637593205.6483722
+    },
+    {
+        "title": "US-Pr\u00e4sident nominiert Fed-Chef Powell f\u00fcr zweite Amtszeit",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/jerome-powell-us-notenbank-federal-reserve-nominierung-joe-biden",
+        "content": "Jerome Powell hat als Chef der US-Notenbank den Ausstieg aus der lockeren Corona-Geldpolitik eingeleitet. Nun hat ihn Joe Biden f\u00fcr eine erneute Amtszeit nominiert.",
+        "ranked": 1,
+        "epoch": 1637593205.6483743
+    },
+    {
+        "title": "Bundesbank rechnet mit Inflation von knapp sechs Prozent",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/inflation-bundesbank-anstieg-6-prozent-teuerung-wirtschaft",
+        "content": "Die Teuerungsrate k\u00f6nnte laut Bundesbank zum Jahresende noch einmal kr\u00e4ftig zulegen \u2013 anders als die Wirtschaftsleistung. Ab Januar k\u00f6nnte die Inflation dann sinken.",
+        "ranked": 2,
+        "epoch": 1637593205.6483753
+    },
+    {
+        "title": "Sportlervereinigung kritisiert IOC im Fall Peng Shuai",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/peng-shuai-tennisspielerin-ioc-global-athlete-china-menschenrechte",
+        "content": "IOC-Pr\u00e4sident Thomas Bach hatte die vermisste Tennisspielerin per Videotelefonat gesprochen. Sie sei sicher. Das reiche nicht als Beweis, kritisiert Global Athlete.",
+        "ranked": 3,
+        "epoch": 1637593205.6483762
+    },
+    {
+        "title": "Corona-Lage laut Intensivmediziner-Pr\u00e4sident au\u00dfer Kontrolle",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/intensivmedizinervereinigung-divi-corona-lage-intensivstationen-gernot-marx-kontrolle",
+        "content": "Viele Intensivstationen gerieten ans Limit, Operationen m\u00fcssten verlegt werden, warnt Divi-Pr\u00e4sident Marx. Der Kanzlerin gehen die bisherigen Ma\u00dfnahmen nicht weit genug.",
+        "ranked": 4,
+        "epoch": 1637593205.6483772
+    },
+    {
+        "title": "Gut f\u00fcrs Karma",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-11/hyperland-film-dystopie-zdf",
+        "content": "Cee lebt in einer nahen dystopischen Zukunft. Dort bestimmt allein die Beurteilung durch andere den Wert des eigenen Lebens. Stoff f\u00fcr ein raues kleines Fernsehspiel",
+        "ranked": 5,
+        "epoch": 1637593205.648378
+    },
+    {
+        "title": "Auf dem Weg zur Nummer eins?",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/alexander-zverev-tennis-atp-finals-grand-slam-aussicht",
+        "content": "Alexander Zverev gewann 2021 die wichtigsten Titel au\u00dferhalb der Grand Slams. Dieses Ziel will er nun angehen. Wie sind seine Chancen im n\u00e4chsten Tennisjahr?",
+        "ranked": 6,
+        "epoch": 1637593205.6483786
+    },
+    {
+        "title": "Was tut Ihre Kita, um die Kinder zu sch\u00fctzen?",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/familie/2021-11/corona-massnahmen-kindertagesstaetten-kleinkinder-infektionen-leseraufruf",
+        "content": "Auch bei den Kleinkindern steigen die Corona-Zahlen \u2013 und noch gibt es keine Impfung f\u00fcr sie. Schreiben Sie uns, wie Ihre Kita mit der Situation umgeht.",
+        "ranked": 7,
+        "epoch": 1637593205.6483793
+    },
+    {
+        "title": "Landes\u00e4rztekammer h\u00e4lt baldige Triage f\u00fcr m\u00f6glich",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-11/corona-sachsen-triage-intesivstationen-ueberlastung-landesaerztekammer",
+        "content": "Sachsens \u00c4rztekammer bef\u00fcrchtet, dass Patienten in Sachsen bald um die Behandlung in Kliniken \"k\u00e4mpfen m\u00fcssen\". Ungeimpfte k\u00f6nnten dann schlechtere Chancen haben.",
+        "ranked": 8,
+        "epoch": 1637593205.64838
+    },
+    {
+        "title": "Lukaschenko fordert von Deutschland erneut Aufnahme von Migranten",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/migrationskrise-alexander-lukaschenko-eu-deutschland-aufforderung-fluechtlinge-aufnahme",
+        "content": "Der belarussische Machthaber behauptet, er habe eine Vereinbarung mit Kanzlerin Merkel und warte jetzt auf Antwort. Der Bundesinnenminister hatte dies bereits dementiert.",
+        "ranked": 9,
+        "epoch": 1637593205.6483808
+    },
+    {
+        "title": "Klimawandel laut Studie gr\u00f6\u00dfte Sorge junger Menschen",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/trendstudie-jugend-in-deutschland-klimawandel-sorgen-verzicht",
+        "content": "Mehr als jeder zweite 14- bis 29-J\u00e4hrige in Deutschland sorgt sich wegen der Klimakrise. Die Bereitschaft, zur Eind\u00e4mmung selbst Verzicht zu \u00fcben, ist dennoch gering.",
+        "ranked": 10,
+        "epoch": 1637593205.6483815
+    },
+    {
+        "title": "Wie ich es schaffte, wieder h\u00e4ufiger laufen zu gehen",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/laufsport-joggen-motivation-ratgeber-podcast",
+        "content": "Gr\u00fcnde, nicht laufen zu gehen, gibt es viele. Im Podcast spricht Lisa Hegemann mit Sebastian Horn dar\u00fcber, welche Expertentipps sie wieder f\u00fcrs Laufen begeistern konnten.",
+        "ranked": 11,
+        "epoch": 1637593205.648382
+    },
+    {
+        "title": "Deutschland, ein Wanderungsland",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/bevoelkerungsentwicklung-deutschland-regionen-datenanalyse-interaktive-karte",
+        "content": "Forscher haben die Bev\u00f6lkerungsentwicklung deutscher Regionen seit 1855 zusammengetragen: Ein Blick auf Zeiten, in denen der Osten Magnet war \u2013 und der S\u00fcden abgeh\u00e4ngt.",
+        "ranked": 12,
+        "epoch": 1637593205.6483827
+    },
+    {
+        "title": "\"Den R\u00fccken farbig zu t\u00e4towieren, kann ich gerade nicht verantworten\"",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-11/tattoo-farben-verbot-januar-2022-taetowierer-julian-siebert",
+        "content": "Ab Januar d\u00fcrfen viele Inhaltsstoffe, die in Tattoofarben enthalten sind, nicht mehr benutzt werden. Der T\u00e4towierer Julian Siebert erkl\u00e4rt, warum ihm das Probleme macht.",
+        "ranked": 13,
+        "epoch": 1637593205.6483831
+    },
+    {
+        "title": "Cremigkeit aus dem Vorratsschrank",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-11/rote-linsensuppe-pochiertes-ei-griechischer-joghurt-rezept",
+        "content": "Diese Suppe setzt ganz auf die Speisekammer: Konservierte Tomaten und Linsen werden mit warmen Gew\u00fcrzen p\u00fcriert und umsp\u00fclen dann ein wachsweich pochiertes Ei.",
+        "ranked": 14,
+        "epoch": 1637593205.6483839
+    },
+    {
+        "title": "\"Moderna ist ein guter, sicherer und sehr wirksamer Impfstoff\"",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/jens-spahn-corona-impfung-biontech-moderna-impfstoff",
+        "content": "Der Bundesgesundheitsminister verteidigt die Deckelung f\u00fcr BioNTech \u2013 und wirbt mit drastischen Worten f\u00fcr Impfungen. CSU-Chef S\u00f6der findet die Kommunikation \"desastr\u00f6s\".",
+        "ranked": 15,
+        "epoch": 1637593205.6483846
+    },
+    {
+        "title": "Live: Jens Spahn zur Impfung mit BioNTech und Moderna",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-impfung-jens-spahn-biontech-moderna-impfstoff-livestream",
+        "content": "Der Bundesgesundheitsminister steht in der Kritik, weil die Bestellmengen f\u00fcr den BioNTech-Impfstoff begrenzt werden sollen. Dazu \u00e4u\u00dfert sich Jens Spahn jetzt live.",
+        "ranked": 16,
+        "epoch": 1637593205.648385
+    },
+    {
+        "title": "Hartes Pflaster",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/elbvertiefung-22-11-2021",
+        "content": "Warum in St. Georg ein neuer Streit um die Drogenszene entbrannt ist. Und: Hamburgs Booster-Fahrplan \u2013 Warteschlangen vor Impfangeboten, Umbau der Esplanade abgeschlossen",
+        "ranked": 17,
+        "epoch": 1637593205.6483858
+    },
+    {
+        "title": "\"Ich gehe davon aus, dass das alles erst im Fr\u00fchjahr 2023 besser wird\"",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/corona-schulen-schliessung-impfpflicht-quarantaene",
+        "content": "In Bayern schlie\u00dfen die ersten Schulen, weil zu viele Sch\u00fcler und Lehrer in Quarant\u00e4ne m\u00fcssen. Schulleiterin Rita Bovenz bereitet ihr Gymnasium auf den Ernstfall vor.",
+        "ranked": 18,
+        "epoch": 1637593205.6483862
+    },
+    {
+        "title": "RKI-Chef bezeichnet Impfpflicht als \"letztes Mittel\"",
+        "date_raw": "November 22, 2021",
+        "date": "2021-11-22",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/impfpflicht-corona-lothar-wieler-rki-chef-letztes-mittel",
+        "content": "Lothar Wieler sieht eine Impfpflicht als Ultima Ratio, die niemand gerne wolle. Mehrere Unionspolitiker bef\u00fcrworten sie, Arbeitsminister Heil l\u00e4sst ihre Umsetzung pr\u00fcfen.",
+        "ranked": 19,
+        "epoch": 1637593205.6483898
+    }
+]
