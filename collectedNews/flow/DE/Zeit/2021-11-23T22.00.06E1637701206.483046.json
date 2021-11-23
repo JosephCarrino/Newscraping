@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Bayern M\u00fcnchen gewinnt gegen Dynamo Kiew",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/champions-league-dynamo-kiew-bayern-muenchen-fc-sevilla-vfl-wolfsburg-spielberichte",
+        "content": "Mit einem 2:1 gegen Dynamo Kiew hat sich Bayern M\u00fcnchen den 18. Gruppensieg in der Champions League gesichert. Nur der FC Barcelona hatte bisher mehr Gruppensiege.",
+        "ranked": 0,
+        "epoch": 1637701206.4829788
+    },
+    {
+        "title": "Der Tod braucht seinen Schrecken",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/corona-todesfaelle-deutschland-gesellschaft-abstumpfung",
+        "content": "Mehr als 100.000 Menschen starben allein in Deutschland durch Corona. Jeder Einzelne eine Trag\u00f6die, in Summe doch nur eine Zahl. Das ist n\u00f6tig und muss sich doch \u00e4ndern.",
+        "ranked": 1,
+        "epoch": 1637701206.4829817
+    },
+    {
+        "title": "FDP signalisiert Bereitschaft f\u00fcr teilweise Impfpflicht",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/beschraenkte-impfpflicht-corona-fdp-einrichtungen",
+        "content": "Die Liberalen zeigen sich offen f\u00fcr eine Impfpflich in Einrichtungen \u2013 unter Bedingungen. Derweil denken SPD-Ministerpr\u00e4sidenten \u00fcber eine allgemeine Impfpflicht nach.",
+        "ranked": 2,
+        "epoch": 1637701206.4829826
+    },
+    {
+        "title": "Mehr als 100.000 Tote in Deutschland seit Pandemiebeginn",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/coronavirus-neuinfektionen-rki-gesundheitsaemter-100000-tote",
+        "content": "100.048 Menschen sind in Deutschland im Zusammenhang mit dem Coronavirus gestorben, zeigen Recherchen von ZEIT ONLINE. Die Sieben-Tage-Inzidenz erreicht einen H\u00f6chstwert.",
+        "ranked": 3,
+        "epoch": 1637701206.4829834
+    },
+    {
+        "title": "Die geteilte Stadt",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/corona-hamburg-auswirkungen-soziale-ungleichheit-armut",
+        "content": "Die Pandemie bringt Menschen in Not, die schon vorher wenig hatten. Aber auch Selbstst\u00e4ndige und K\u00fcnstler k\u00e4mpfen gegen die Armut. Eine Spurensuche durch Hamburg",
+        "ranked": 4,
+        "epoch": 1637701206.4829843
+    },
+    {
+        "title": "\"Der Patient mit den besten \u00dcberlebenschancen bekommt das Bett\"",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/erik-bodendieck-sachsen-corona-intensivstationen",
+        "content": "In Sachsen ist die Corona-Lage dramatisch. Kliniken sind \u00fcberlastet und bereiten sich auf Triage-Situationen vor, sagt der Pr\u00e4sident der Landes\u00e4rztekammer.",
+        "ranked": 5,
+        "epoch": 1637701206.482985
+    },
+    {
+        "title": "Wie man einen Asteroiden rammt",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-11/nasa-raumsonde-dart-asteroid-abwehr-test",
+        "content": "Die Gefahr ist real: Wenn ein Asteroid auf die Erde trifft, k\u00f6nnte das die Menschheit ernsthaft gef\u00e4hrden. Eine Raumsonde der Nasa soll nun f\u00fcr den Ernstfall proben.",
+        "ranked": 6,
+        "epoch": 1637701206.4829862
+    },
+    {
+        "title": "Expertenkommission soll Berliner Wahlpannen aufarbeiten",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/abgeordnetenhauswahl-berlin-wahlpannen-aufarbeitung-expertenkommission",
+        "content": "Bei der Abgeordnetenhauswahl war es zu vielen Unstimmigkeiten gekommen. Damit sich dies bei k\u00fcnftigen Wahlen nicht wiederholt, werden Fachleute zurate gezogen.",
+        "ranked": 7,
+        "epoch": 1637701206.4829872
+    },
+    {
+        "title": "EU-Kommission droht Airlines bei Schleuserhilfe mit Sanktionen",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/belarus-fluechtlingskrise-sanktionen-eu-kommission-ursula-von-der-leyen",
+        "content": "Vom Visum bis zum Taxi an die Grenze: Die EU wirft Belarus organisierte Migration vor. Daran beteiligte Reiseunternehmen will die Kommission k\u00fcnftig sanktionieren.",
+        "ranked": 8,
+        "epoch": 1637701206.482988
+    },
+    {
+        "title": "Die Spaltung der Belegschaft",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-11/3g-arbeitsplatz-unternehmen-deutschland",
+        "content": "In allen Unternehmen gilt ab Mittwoch: Wer nicht geimpft ist, muss t\u00e4glich testen. Doch das ist teilweise gar nicht umsetzbar und f\u00fchrt zu Zerw\u00fcrfnissen in den Betrieben.",
+        "ranked": 9,
+        "epoch": 1637701206.482989
+    },
+    {
+        "title": "Krasses Gras",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/green/2021-11/cannabisanbau-legalisierung-klima-nachhaltigkeit",
+        "content": "Umstritten ist Gras ohnehin. Jetzt zeigt eine Studie aus den USA: Cannabis ist \u00e4hnlich klimasch\u00e4dlich wie Kohleabbau. Stimmt das auch f\u00fcr den Anbau in Deutschland?",
+        "ranked": 10,
+        "epoch": 1637701206.482993
+    },
+    {
+        "title": "\"Wir kommen an einer allgemeinen Impfpflicht einfach nicht vorbei\"",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/corona-krise-impfpflicht-neuinfektionen-infektionsschutz",
+        "content": "Die Corona Neuinfektionen erreichen einen H\u00f6chststand. Mehrere Ministerpr\u00e4sidenten bef\u00fcrworten die allgemeine Impfpflicht. Au\u00dferdem im Update: 3G Regel am Arbeitsplatz",
+        "ranked": 11,
+        "epoch": 1637701206.4829943
+    },
+    {
+        "title": "Russische Justiz leitet Prozess gegen Memorial ein",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/russland-memorial-menschenrechtsorganisation-moskau-aufloesung",
+        "content": "Wegen mutma\u00dflicher Verfassungsverst\u00f6\u00dfe soll die Menschenrechtsorganisation geschlossen werden. Bei einem ersten Prozess in Moskau wurde die \u00d6ffentlichkeit ausgeschlossen.",
+        "ranked": 12,
+        "epoch": 1637701206.4829957
+    },
+    {
+        "title": "Was jetzt in welchem Bundesland gilt",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-regeln-bundeslaender-faq",
+        "content": "2G, 3G, 2G plus: Viele Bundesl\u00e4nder beschlie\u00dfen h\u00e4rtere Corona-Regeln oder sch\u00e4rfen bestehende nach. Wo gelten aktuell welche Einschr\u00e4nkungen? Ein \u00dcberblick",
+        "ranked": 13,
+        "epoch": 1637701206.4829977
+    },
+    {
+        "title": "Geburtenrate in China f\u00e4llt auf niedrigsten Stand seit 1978",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/china-geburtenrate-2020-rueckgang-bearbeitet",
+        "content": "Nach Jahrzehnten der Einkindpolitik altert die Bev\u00f6lkerung in China rapide; die Geburtenrate bricht ein. Als Gr\u00fcnde gelten hohe Kosten etwa f\u00fcr Wohnraum und Ausbildung.",
+        "ranked": 14,
+        "epoch": 1637701206.4829984
+    },
+    {
+        "title": "Datensch\u00fctzer geht gegen Facebook-Aufsichtsbeh\u00f6rde in Irland vor",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/datenschutz/2021-11/max-schrems-facebook-datenschutzbehoerde-irland-anzeige",
+        "content": "Der Datenschutzaktivist Max Schrems hat mehrfach erfolgreich gegen Facebook geklagt. Jetzt wirft er der Beh\u00f6rde, die den Konzern beaufsichtigt, Korruption vor.",
+        "ranked": 15,
+        "epoch": 1637701206.482999
+    },
+    {
+        "title": "Joe Biden \u00f6ffnet strategische \u00d6lreserve der USA",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/usa-joe-biden-energiepreise-oelreserven-oeffnung",
+        "content": "50 Millionen Barrel \u00d6l hat der US-Pr\u00e4sident freigegeben, um gegen die hohen Energiepreise anzugehen. Der Schritt sei abgestimmt mit China, S\u00fcdkorea und Gro\u00dfbritannien.",
+        "ranked": 16,
+        "epoch": 1637701206.483
+    },
+    {
+        "title": "B\u00f6se Worte, gute Sachen",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/musik/2021-11/bitches-brauchen-rap-shirin-david-album-rezension",
+        "content": "Shirin David rappt jetzt auch! Was auf dem Deb\u00fct der K\u00fcnstlerin noch leere Behauptung blieb, best\u00e4tigt das zweite Album auch dank Davids neuem Sendungsbewusstsein.",
+        "ranked": 17,
+        "epoch": 1637701206.4830008
+    },
+    {
+        "title": "\"Fragen zu meinem Gewicht finde ich irriterend\"",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-11/katharina-althaus-skispringen-ausblick-presse-freizeit-arbeit-podcast",
+        "content": "Katharina Althaus ist eine der erfolgreichsten Skispringerinnen Deutschlands. Im Podcast erz\u00e4hlt sie, wann sie auf dem f\u00fcnften Platz zufriedener ist als mit einem Sieg.",
+        "ranked": 18,
+        "epoch": 1637701206.483002
+    },
+    {
+        "title": "Zahl der Gewaltdelikte in Beziehungen 2020 erneut gestiegen",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/familie/2021-11/gewalt-partnerschaften-bka-statistik",
+        "content": "Die Zahl der Gewaltdelikte in Partner- und Ex-Partnerschaften ist 2020 erneut gestiegen. Laut Kriminalstatistik geht die Gewalt zum \u00fcberwiegenden Teil von M\u00e4nnern aus.",
+        "ranked": 19,
+        "epoch": 1637701206.4830074
+    }
+]
