@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Bodybuilding bis zum Tod",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/shawn-rhoden-bodybuilding-tod-doping",
+        "content": "In den vergangenen Monaten starben gleich mehrere Bodybuilder. Nun ist auch Shawn Rhoden, der Mr. Olympia 2018, tot. Hat ihn das Doping umgebracht?",
+        "ranked": 0,
+        "epoch": 1637668805.5932136
+    },
+    {
+        "title": "Bienenk\u00f6nigin? Welche Bienenk\u00f6nigin?",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-11/queen-bee-carolin-kebekus-frauen",
+        "content": "Frauen erschweren anderen Frauen den Aufstieg, hei\u00dft es oft. Auch Carolin Kebekus schreibt das in ihrem aktuellen Buch. Das Problem: Das Queen-Bee-Syndrom gibt es nicht.",
+        "ranked": 1,
+        "epoch": 1637668805.593216
+    },
+    {
+        "title": "46 Tote bei Busungl\u00fcck in Bulgarien",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/bulgarien-busunglueck-sofia-unfall-tote",
+        "content": "Bei einem schweren Busungl\u00fcck in Bulgarien sind Dutzende Menschen ums Leben gekommen. Nur wenige Insassen schafften es lebend aus dem brennenden Fahrzeug.",
+        "ranked": 2,
+        "epoch": 1637668805.5932171
+    },
+    {
+        "title": "Die To-do-Liste der Regierung",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/koalitionsvertraege-parteien-regierungsprogramm-vereinbarung-demokratie",
+        "content": "Immer l\u00e4nger, detaillierter, komplizierter: Koalitionsvertr\u00e4ge haben immer mehr Bedeutung \u2013 obwohl keine Regierung sie einhalten muss. Wie wichtig ist das Papier?",
+        "ranked": 3,
+        "epoch": 1637668805.593218
+    },
+    {
+        "title": "Gebackene Herbstsonne",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-11/camenbert-cranberry-blaetterteig-ring-herbst-rezept",
+        "content": "Wenn die Sonne sich drau\u00dfen nicht zeigt, dann soll sie wenigstens auf dem Teller landen. Camembert, Pekann\u00fcsse und Zimt sorgen f\u00fcr den Herbst, Chili f\u00fcr die Hitze.",
+        "ranked": 4,
+        "epoch": 1637668805.5932188
+    },
+    {
+        "title": "Familie von Epstein-Vertrauter beschwert sich bei UN",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/ghislaine-maxwell-jeffrey-epstein-inhaftierung-uno",
+        "content": "Die Vertraute des verstorbenen US-Sexualstraft\u00e4ters Epstein, Ghislaine Maxwell, ist seit 16 Monaten in U-Haft: Ein Versto\u00df gegen die Unschuldsvermutung, so ihre Anw\u00e4lte.",
+        "ranked": 5,
+        "epoch": 1637668805.59322
+    },
+    {
+        "title": "Deutsche Bev\u00f6lkerung hat sich in 200 Jahren vervierfacht",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/bundesinstitut-fuer-bevoelkerungsforschung-studie-deutschland",
+        "content": "Eine Studie zur Bev\u00f6lkerung in Deutschland zeigt: Im Westen wuchs die Zahl der Menschen stetig. In Ostdeutschland gibt es seit der innerdeutschen Teilung Schwankungen.",
+        "ranked": 6,
+        "epoch": 1637668805.5932207
+    },
+    {
+        "title": "\"Wenn sich 50.000 Menschen infizieren, werden 400 von ihnen sterben\"",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/lothar-wieler-corona-impfung-rki-interview",
+        "content": "Die Corona-Lage wird noch schlimmer werden, sagt Lothar Wieler. Was muss jetzt geschehen? Der RKI-Chef \u00fcber Impfpflicht, sein Verh\u00e4ltnis zur Politik und weitere Wellen",
+        "ranked": 7,
+        "epoch": 1637668805.5932214
+    },
+    {
+        "title": "Expertenkommission soll k\u00fcnftige Koalition zu Volksentscheid beraten",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/berlin-enteignung-deutsche-wohnen-spd-gruene-linke",
+        "content": "Parallel zur Bundestagswahl hatte in Berlin das Volksbegehren zur Enteignung gro\u00dfer Wohnungskonzerne Erfolg. Eine Kommission soll kl\u00e4ren, wie das umgesetzt werden kann.",
+        "ranked": 8,
+        "epoch": 1637668805.5932221
+    },
+    {
+        "title": "E.on will 27 Milliarden Euro in Strom- und Gasnetz investieren",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-11/eon-energie-wachstum-co2-investition-netzausbau",
+        "content": "Der Konzern E.on will von einer \"CO2-freien, digitalen Energiewelt\" profitieren \u2013 und muss daf\u00fcr seine Netze ausbauen. 2026 soll dann ein Milliardengewinn stehen.",
+        "ranked": 9,
+        "epoch": 1637668805.5932226
+    },
+    {
+        "title": "Wenn die Corona-Krise zur Schulden-Krise wird",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/elbvertiefung-23-11-2021",
+        "content": "Von der Selbstst\u00e4ndigkeit in die Pleite: Ein \u00fcberschuldeter Hamburger erz\u00e4hlt. Und: Booster-Boom: Lange Schlange vor der Elphi, 514 Neuinfektionen, Inzidenz bei 217,4",
+        "ranked": 10,
+        "epoch": 1637668805.5932233
+    },
+    {
+        "title": "S\u00fcdkoreas Ex-Machthaber Chun ist tot",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/chun-doo-hwan-tot-suedkorea-ex-praesident",
+        "content": "Chun Doo Hwan ergriff 1979 nach einem Milit\u00e4rputsch in S\u00fcdkorea die Macht. Er regierte das Land autorit\u00e4r und ging als \"Schl\u00e4chter von Gwangju\" in die Geschichte ein.",
+        "ranked": 11,
+        "epoch": 1637668805.593224
+    },
+    {
+        "title": "Gut geht es ihm nicht",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/tuerkei-praesident-gesundheit-recep-tayyip-erdogan-geruechte-macht",
+        "content": "Die Ger\u00fcchte um Recep Tayyip Erdo\u011fans Gesundheit h\u00f6ren nicht auf. Selbst wenn der t\u00fcrkische Pr\u00e4sident nicht so krank ist, wie erz\u00e4hlt wird: Seine Macht schwindet.",
+        "ranked": 12,
+        "epoch": 1637668805.5932245
+    },
+    {
+        "title": "Gef\u00e4hrliche Abh\u00e4ngigkeit",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/china-geopolitik-macht-seltene-erden-abhaengigkeit-europa",
+        "content": "F\u00fcr die Energiewende braucht es Seltene Erden. In Europa steigt der Bedarf \u2013 doch der wird nahezu komplett von chinesischen Firmen gedeckt. Das muss sich \u00e4ndern.",
+        "ranked": 13,
+        "epoch": 1637668805.5932252
+    },
+    {
+        "title": "Schauspieler Volker Lechtenbrink gestorben",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/schauspieler-volker-lechtenbrink-gestorben",
+        "content": "Der Schauspieler, S\u00e4nger und Regisseur Volker Lechtenbrink ist im Alter von 77 Jahren gestorben. In besonderer Erinnerung wird seine sonore Stimme bleiben.",
+        "ranked": 14,
+        "epoch": 1637668805.5932257
+    },
+    {
+        "title": "Untersuchungsausschuss l\u00e4dt weitere Verb\u00fcndete Trumps vor",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/sturm-us-kapitol-ausschuss-weggefaehrten-donald-trump",
+        "content": "Politikberater Roger Stone gilt als Vertrauter des ehemaligen US-Pr\u00e4sidenten. Er soll wie der ultrakonservative Moderator Alex Jones zum Sturm auf das Kapitol aussagen.",
+        "ranked": 15,
+        "epoch": 1637668805.5932262
+    },
+    {
+        "title": "US-Bestsellerautor Noah Gordon ist tot",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/literatur/2021-11/noah-gordon-schriftsteller-usa-der-medicus-tot",
+        "content": "Mit seinem Roman \"Der Medicus\" wurde Noah Gordon weltber\u00fchmt, auch die zwei Folgeromane waren gro\u00dfe Erfolge. Nun ist der Autor im Alter von 95 Jahren gestorben.",
+        "ranked": 16,
+        "epoch": 1637668805.5932267
+    },
+    {
+        "title": "USA verh\u00e4ngen weitere Sanktionen wegen Nord Stream 2",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/nord-stream-2-gaspipeline-usa-sanktionen-russland",
+        "content": "Die Liste der US-Sanktionen gegen die Gaspipeline wird verl\u00e4ngert. Hinzu kommt eine Firma mit Verbindungen zu Russland. De facto d\u00fcrften die Auswirkungen gering sein.",
+        "ranked": 17,
+        "epoch": 1637668805.5932276
+    },
+    {
+        "title": "Merkel unzufrieden, Warnung vor Deutschlandreisen, besserer Babyschlaf",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-11/reisewarnung-massnahmen-babyschlaf-2021-11-23",
+        "content": "Die USA raten von Reisen nach Deutschland ab, die Kanzlerin ruft zu strengeren Regeln auf und wir haben Tipps f\u00fcr ruhigere N\u00e4chte mit kleinen Kindern. Der Morgen\u00fcberblick",
+        "ranked": 18,
+        "epoch": 1637668805.5932283
+    },
+    {
+        "title": "Das Boosterchaos",
+        "date_raw": "November 23, 2021",
+        "date": "2021-11-23",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/boosterimpfung-warteschlange-drittimpfung-corona-russland-menschenrechtsorganisation-nachrichtenpodcast",
+        "content": "Wer einen Termin f\u00fcr die Auffrischungsimpfung haben will, wird sich gedulden m\u00fcssen. Woran hakt es? Au\u00dferdem: Russland will eine Menschenrechtsorganisation aufl\u00f6sen.",
+        "ranked": 19,
+        "epoch": 1637668805.5932317
+    }
+]
