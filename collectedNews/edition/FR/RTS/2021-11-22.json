@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-autriche-replongee-dans-un-confinement-depuis-lundi-25780544.html",
         "duration": "02:00",
         "ranked": 0,
-        "epoch": 1637964008.442007
+        "epoch": 1638050409.0099738
     },
     {
         "title": "Des cantons pourraient annoncer de nouvelles mesures sanitaires",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/des-cantons-pourraient-annoncer-de-nouvelles-mesures-sanitaires-25780545.html",
         "duration": "02:07",
         "ranked": 1,
-        "epoch": 1637964008.44201
+        "epoch": 1638050409.0099769
     },
     {
         "title": "Le Covid pourrait changer la perception de la douleur",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-covid-pourrait-changer-la-perception-de-la-douleur-25780549.html",
         "duration": "01:08",
         "ranked": 2,
-        "epoch": 1637964008.442011
+        "epoch": 1638050409.009978
     },
     {
         "title": "Tribune de scientifiques appelant à la désobéissance civile: interview de Marc de Perrot",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/tribune-de-scientifiques-appelant-a-la-desobeissance-civile-interview-de-marc-de-perrot-25780559.html",
         "duration": "01:50",
         "ranked": 3,
-        "epoch": 1637964008.442012
+        "epoch": 1638050409.0099788
     },
     {
         "title": "Le PDC valaisan Yannick Buttet condamné pour attouchements",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-pdc-valaisan-yannick-buttet-condamne-pour-attouchements-25780552.html",
         "duration": "01:25",
         "ranked": 4,
-        "epoch": 1637964008.442013
+        "epoch": 1638050409.0099802
     },
     {
         "title": "Qui sont les électeurs du candidat d'extrême droite à la présidentielle chilienne?",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/qui-sont-les-electeurs-du-candidat-d-extreme-droite-a-la-presidentielle-chilienne-25780562.html",
         "duration": "03:43",
         "ranked": 5,
-        "epoch": 1637964008.442014
+        "epoch": 1638050409.0099812
     },
     {
         "title": "Qu'est-ce que l'esclavage contemporain? Interview de Nagham Hriech Wahabi",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/qu-est-ce-que-l-esclavage-contemporain-interview-de-nagham-hriech-wahabi-25780561.html",
         "duration": "03:36",
         "ranked": 6,
-        "epoch": 1637964008.4420147
+        "epoch": 1638050409.0099823
     },
     {
         "title": "Football: la ministre des Sports française s'exprime après le fiasco du match OL-OM",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/football-la-ministre-des-sports-francaise-s-exprime-apres-le-fiasco-du-match-ol-om-25780566.html",
         "duration": "01:38",
         "ranked": 7,
-        "epoch": 1637964008.4420164
+        "epoch": 1638050409.0099838
     },
     {
         "title": "La vente de voitures en Suisse au plus bas depuis plus de 30 ans",
@@ -87,7 +87,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-vente-de-voitures-en-suisse-au-plus-bas-depuis-plus-de-30-ans-25780568.html",
         "duration": "02:04",
         "ranked": 8,
-        "epoch": 1637964008.4420173
+        "epoch": 1638050409.0099845
     },
     {
         "title": "L'invité du 12h30 - Harrison Arévalo présente la pièce \"Le Ciel de Nantes\"",
@@ -97,6 +97,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-harrison-arevalo-presente-la-piece-le-ciel-de-nantes-25780575.html",
         "duration": "08:00",
         "ranked": 9,
-        "epoch": 1637964008.442018
+        "epoch": 1638050409.0099857
     }
 ]
