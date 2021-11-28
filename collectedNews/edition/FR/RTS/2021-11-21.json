@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-joueuse-de-tennis-chinoise-peng-shuai-est-reapparue-en-public-25780233.html",
         "duration": "01:34",
         "ranked": 0,
-        "epoch": 1638050408.9557893
+        "epoch": 1638136811.5039427
     },
     {
         "title": "Les Pays-Bas ont vécu une nouvelle nuit d’émeutes",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-pays-bas-ont-vecu-une-nouvelle-nuit-d-emeutes-25780234.html",
         "duration": "01:12",
         "ranked": 1,
-        "epoch": 1638050408.9557922
+        "epoch": 1638136811.5039458
     },
     {
         "title": "La revue de presse alémanique",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-revue-de-presse-alemanique-25780239.html",
         "duration": "02:48",
         "ranked": 2,
-        "epoch": 1638050408.9557934
+        "epoch": 1638136811.5039468
     },
     {
         "title": "Le premier tour de la présidence a lieu dimanche au Chili",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-premier-tour-de-la-presidence-a-lieu-dimanche-au-chili-25780245.html",
         "duration": "02:59",
         "ranked": 3,
-        "epoch": 1638050408.955794
+        "epoch": 1638136811.5039477
     },
     {
         "title": "Une initiative bernoise veut encourager l’énergie solaire partout dans le canton",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/une-initiative-bernoise-veut-encourager-l-energie-solaire-partout-dans-le-canton-25780238.html",
         "duration": "01:08",
         "ranked": 4,
-        "epoch": 1638050408.9557953
+        "epoch": 1638136811.5039487
     },
     {
         "title": "Le Sri Lanka réautorise les produits chimiques dans l’agriculture pour assurer sa sécurité alimentaire",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-sri-lanka-reautorise-les-produits-chimiques-dans-l-agriculture-pour-assurer-sa-securite-alimentaire-25780244.html",
         "duration": "00:17",
         "ranked": 5,
-        "epoch": 1638050408.9557962
+        "epoch": 1638136811.50395
     },
     {
         "title": "L’exposition \"Eloge de la lumière\" met en lumière le peintre Pierre Soulages et un vannier japonais",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-exposition-eloge-de-la-lumiere-met-en-lumiere-le-peintre-pierre-soulages-et-un-vannier-japonais-25780242.html",
         "duration": "02:26",
         "ranked": 6,
-        "epoch": 1638050408.9557972
+        "epoch": 1638136811.5039508
     },
     {
         "title": "Petra Vlhova a dominé la première manche du deuxième slalom de Levi",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/petra-vlhova-a-domine-la-premiere-manche-du-deuxieme-slalom-de-levi-25780248.html",
         "duration": "00:15",
         "ranked": 7,
-        "epoch": 1638050408.955798
+        "epoch": 1638136811.5039515
     },
     {
         "title": "À voix haute - L’artiste magnétique congolaise Bill Kouelany: son combat pour la liberté",
@@ -87,6 +87,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/a-voix-haute-l-artiste-magnetique-congolaise-bill-kouelany-son-combat-pour-la-liberte-25780256.html",
         "duration": "15:21",
         "ranked": 8,
-        "epoch": 1638050408.955799
+        "epoch": 1638136811.503952
     }
 ]

@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-restaurants-enregistrent-des-annulations-pour-les-fetes-suite-a-l-augmentation-des-cas-25781131.html",
         "duration": "01:49",
         "ranked": 0,
-        "epoch": 1638050408.9915905
+        "epoch": 1638136811.6668472
     },
     {
         "title": "Les tensions ethniques et politiques sont au plus haut en Ethiopie: interview de Mehdi Labzaé",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-tensions-ethniques-et-politiques-sont-au-plus-haut-en-ethiopie-interview-de-mehdi-labzae-25781139.html",
         "duration": "05:06",
         "ranked": 1,
-        "epoch": 1638050408.991593
+        "epoch": 1638136811.6668503
     },
     {
         "title": "Le footballeur Karim Benzema condamné à un an de prison avec sursis pour l’affaire de la sextape",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-footballeur-karim-benzema-condamne-a-un-an-de-prison-avec-sursis-pour-l-affaire-de-la-sextape-25781140.html",
         "duration": "01:37",
         "ranked": 2,
-        "epoch": 1638050408.9915946
+        "epoch": 1638136811.6668515
     },
     {
         "title": "La Chaux-de-Fonds prévoit un déficit de 14,3 millions de francs pour l'année prochaine",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-chaux-de-fonds-prevoit-un-deficit-de-14-3-millions-de-francs-pour-l-annee-prochaine-25781143.html",
         "duration": "01:44",
         "ranked": 3,
-        "epoch": 1638050408.9915955
+        "epoch": 1638136811.666853
     },
     {
         "title": "Magdalena Andersson devient la première femme à diriger le gouvernement en Suède",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/magdalena-andersson-devient-la-premiere-femme-a-diriger-le-gouvernement-en-suede-25781144.html",
         "duration": "01:33",
         "ranked": 4,
-        "epoch": 1638050408.9915962
+        "epoch": 1638136811.6668537
     },
     {
         "title": "Un labrador aide les patients à retrouver leur équilibre à l'hôpital fribourgeois de Riaz",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-labrador-aide-les-patients-a-retrouver-leur-equilibre-a-l-hopital-fribourgeois-de-riaz-25781148.html",
         "duration": "02:28",
         "ranked": 5,
-        "epoch": 1638050408.9915977
+        "epoch": 1638136811.6668549
     },
     {
         "title": "Le marché pharmaceutique a drastiquement évolué suite à la pandémie",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-marche-pharmaceutique-a-drastiquement-evolue-suite-a-la-pandemie-25781159.html",
         "duration": "01:52",
         "ranked": 6,
-        "epoch": 1638050408.9915986
+        "epoch": 1638136811.6668563
     },
     {
         "title": "Un collectionneur achète un manuscrit d’Albert Einstein pour douze millions de francs",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/un-collectionneur-achete-un-manuscrit-d-albert-einstein-pour-douze-millions-de-francs-25781158.html",
         "duration": "02:14",
         "ranked": 7,
-        "epoch": 1638050408.9915993
+        "epoch": 1638136811.6668575
     },
     {
         "title": "Les invités du 12h30 - \"Chaos\", le nouveau spectacle de la compagnie Le Lokart",
@@ -87,6 +87,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-invites-du-12h30-chaos-le-nouveau-spectacle-de-la-compagnie-le-lokart-25781160.html",
         "duration": "08:39",
         "ranked": 8,
-        "epoch": 1638050408.9916
+        "epoch": 1638136811.6668587
     }
 ]
