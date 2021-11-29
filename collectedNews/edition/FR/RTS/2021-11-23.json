@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/paleo-sort-sa-programmation-2022-interview-de-daniel-rossellat-25780847.html",
         "duration": "04:22",
         "ranked": 0,
-        "epoch": 1638136811.6012177
+        "epoch": 1638223210.148203
     },
     {
         "title": "Comment les ménages suisses gèrent-ils leur argent?",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/comment-les-menages-suisses-gerent-ils-leur-argent-25780850.html",
         "duration": "01:47",
         "ranked": 1,
-        "epoch": 1638136811.6012208
+        "epoch": 1638223210.1482055
     },
     {
         "title": "L’opération cabas vise à soutenir les plus précaires à Genève",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-operation-cabas-vise-a-soutenir-les-plus-precaires-a-geneve-25780855.html",
         "duration": "01:38",
         "ranked": 2,
-        "epoch": 1638136811.601222
+        "epoch": 1638223210.1482067
     },
     {
         "title": "La visite d’Ignazio Cassis en Chine s'annonce délicate",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-visite-d-ignazio-cassis-en-chine-s-annonce-delicate-25780853.html",
         "duration": "01:59",
         "ranked": 3,
-        "epoch": 1638136811.601223
+        "epoch": 1638223210.1482074
     },
     {
         "title": "Que sont devenus les forces de sécurité de l’ancien gouvernement afghan?",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/que-sont-devenus-les-forces-de-securite-de-l-ancien-gouvernement-afghan-25780857.html",
         "duration": "01:52",
         "ranked": 4,
-        "epoch": 1638136811.6012242
+        "epoch": 1638223210.1482084
     },
     {
         "title": "La justice italienne rouvre l’enquête sur les causes de la mort de l'ancien cycliste Marco Pantani, 17 ans après",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-justice-italienne-rouvre-l-enquete-sur-les-causes-de-la-mort-de-l-ancien-cycliste-marco-pantani-17-ans-apres-25780862.html",
         "duration": "01:35",
         "ranked": 5,
-        "epoch": 1638136811.6012254
+        "epoch": 1638223210.1482093
     },
     {
         "title": "La semaine des médias a démarré lundi en Suisse romande",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-semaine-des-medias-a-demarre-lundi-en-suisse-romande-25780864.html",
         "duration": "02:40",
         "ranked": 6,
-        "epoch": 1638136811.6012263
+        "epoch": 1638223210.1482103
     },
     {
         "title": "La ville de Neuchâtel propose des cours autour de l’alimentation à ses séniors",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-ville-de-neuchatel-propose-des-cours-autour-de-l-alimentation-a-ses-seniors-25780865.html",
         "duration": "01:48",
         "ranked": 7,
-        "epoch": 1638136811.6012273
+        "epoch": 1638223210.148211
     },
     {
         "title": "La série française Dix pour Cent reçoit un Emmy pour sa 4e saison",
@@ -87,7 +87,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-serie-francaise-dix-pour-cent-recoit-un-emmy-pour-sa-4e-saison-25780875.html",
         "duration": "01:31",
         "ranked": 8,
-        "epoch": 1638136811.601228
+        "epoch": 1638223210.148212
     },
     {
         "title": "L’invitée du 12h30 - La performeuse ORLAN",
@@ -97,6 +97,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invitee-du-12h30-la-performeuse-orlan-25780876.html",
         "duration": "07:22",
         "ranked": 9,
-        "epoch": 1638136811.601229
+        "epoch": 1638223210.1482127
     }
 ]
