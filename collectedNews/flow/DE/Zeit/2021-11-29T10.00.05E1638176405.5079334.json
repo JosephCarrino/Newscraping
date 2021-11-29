@@ -1,0 +1,202 @@
+[
+    {
+        "title": "\"Entweder Sie k\u00fcndigen oder wir finden einen anderen Weg\"",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-11/elternzeit-vater-job-diskriminierung",
+        "content": "V\u00e4ter wollen nach der Geburt Zeit mit ihren Kindern verbringen. Manchen Arbeitgebern ist das zu modern. Drei M\u00e4nner erz\u00e4hlen, wie ihre Elternzeit die Karriere ruinierte.",
+        "ranked": 0,
+        "epoch": 1638176405.5078778
+    },
+    {
+        "title": "Pr\u00e4sident des FC Bayern will nach Tumulten mit Mitgliedern sprechen",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/bayern-muenchen-herbert-hainer-mitglieder",
+        "content": "Auf der Jahreshauptversammlung des FC Bayern M\u00fcnchen gab es wegen eines umstrittenen Sponsors Proteste. Nun will der Pr\u00e4sident einen Schritt auf die Mitglieder zumachen.",
+        "ranked": 1,
+        "epoch": 1638176405.5078807
+    },
+    {
+        "title": "Schreibmachine",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kaenguru-comics/2021-11/folge-288",
+        "content": "Der K\u00e4nguru-Comic vom 29. November 2021",
+        "ranked": 2,
+        "epoch": 1638176405.5078819
+    },
+    {
+        "title": "Wie der Balkan das neue Norditalien wird",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/corona-suedosteuropa-impfgegner-balkan-kroatien",
+        "content": "S\u00fcdosteuropa kam bisher glimpflich durch die Corona-Pandemie. Nun verzeichnen die Staaten dort die h\u00f6chsten Todesraten weltweit. Ein Grund daf\u00fcr sind m\u00e4chtige Impfgegner.",
+        "ranked": 3,
+        "epoch": 1638176405.5078828
+    },
+    {
+        "title": "Christian Drosten besorgt \u00fcber Omicron-Variante",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/coronavirus-omicron-variante-christian-drosten-sorge",
+        "content": "Die in S\u00fcdafrika entdeckte Virusvariante k\u00f6nne die Immunabwehr umgehen, sagt der Charit\u00e9-Virologe. Noch fehlten aber klinische Daten. Sicher sei, dass eine Impfung helfe.",
+        "ranked": 4,
+        "epoch": 1638176405.5078835
+    },
+    {
+        "title": "Die \"Gig-Economy\" der Kriminellen",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/usa-kalifornien-anstieg-kriminalitaet-ueberfaelle-nordstrom-apple",
+        "content": "In Kalifornien h\u00e4ufen sich Raub\u00fcberf\u00e4lle auf Nobelkaufh\u00e4user. Dahinter stecken Kriminelle, die T\u00e4ter \u00fcber Soziale Medien anwerben. Brauchen die USA h\u00e4rtere Gesetze?",
+        "ranked": 5,
+        "epoch": 1638176405.5078845
+    },
+    {
+        "title": "Omicron, volle Intensivstationen, Schach-WM",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-11/omicron-intensivstationen-freundschaft-2021-11-29",
+        "content": "Die neue Variante ist in Deutschland, viele Intensivstationen sind bereits voll, Virgil Abloh ist gestorben und es k\u00f6nnte schneien. Der Morgen\u00fcberblick",
+        "ranked": 6,
+        "epoch": 1638176405.5078855
+    },
+    {
+        "title": "Ein Fu\u00dfballspiel als gro\u00dfer Rausch",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/erling-haaland-comeback-steffen-baumgart-bundesliga",
+        "content": "Ein Fu\u00dfballspiel als Karnevalssitzung, als gro\u00dfer Rausch der Massen \u2013 willkommen in K\u00f6ln! Und mit Obelix Haaland ist Dortmund bereit f\u00fcr die Bayern. Der 13. Spieltag",
+        "ranked": 7,
+        "epoch": 1638176405.5078862
+    },
+    {
+        "title": "Kein Grund zur Panik \u2013 aber zur Vorsicht",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/ampel-koalition-migration-eu-asyl-nachrichtenpodcast",
+        "content": "Obwohl wenig \u00fcber die Omicron-Variante bekannt ist, ist die Sorge gro\u00df. Au\u00dferdem im Nachrichtenpodcast: Was plant die Ampel in der Migrations- und Asylpolitik?",
+        "ranked": 8,
+        "epoch": 1638176405.507887
+    },
+    {
+        "title": "Gr\u00fcne Welle f\u00fcr Radfahrer",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/mobilitaet/2021-11/radverkehr-ampelschaltung-smartphone-app-verkehrswende",
+        "content": "Hamburg will mit Digitaltechnik den Fahrradverkehr deutlich sicherer und schneller machen. In den Niederlanden ist man schon viel weiter.",
+        "ranked": 9,
+        "epoch": 1638176405.5078876
+    },
+    {
+        "title": "Vor und zur\u00fcck und vor, \u2028hin und wieder her",
+        "date_raw": "November 28, 2021",
+        "date": "2021-11-28",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/jan-nepomnjaschtschi-magnus-carlsen-wm-dubai-partie-3",
+        "content": "So pr\u00e4zise k\u00f6nnen Rangierarbeiter sein: Magnus Carlsen zieht seine Figuren am Brettrand auf und ab, Jan Nepomnjaschtschi erreicht nichts. Die dritte WM-Partie",
+        "ranked": 10,
+        "epoch": 1638176405.5078883
+    },
+    {
+        "title": "Designer Virgil Abloh ist tot",
+        "date_raw": "November 28, 2021",
+        "date": "2021-11-28",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/louis-vuitton-designer-virgil-abloh-ist-tot",
+        "content": "Er war Chefstratege von Kanye West und der erste schwarze Mann als Chefdesigner der M\u00e4nnerlinie bei Louis Vuitton. Nun ist Virgil Abloh im Alter von 41 Jahren gestorben.",
+        "ranked": 11,
+        "epoch": 1638176405.5078888
+    },
+    {
+        "title": "RKI meldet leichten R\u00fcckgang der Neuinfektionen",
+        "date_raw": "November 28, 2021",
+        "date": "2021-11-28",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/coronavirus-neuinfektionen-rki-gesundheitsaemter-sachsen-hoechstwert",
+        "content": "Im Vergleich zur Vorwoche ist die Zahl der Neuinfektionen um knapp f\u00fcnf Prozent gesunken. Dennoch erreicht die Sieben-Tage-Inzidenz mit 452,4 einen H\u00f6chststand.",
+        "ranked": 12,
+        "epoch": 1638176405.5078895
+    },
+    {
+        "title": "Ich hab' kein Problem mit der Presse",
+        "date_raw": "November 28, 2021",
+        "date": "2021-11-28",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-11/tatort-dortmund-masken-misogynie-maenner",
+        "content": "Schon wieder misogyne M\u00e4nnerworkshops im \"Tatort\". Der neue Fall aus Dortmund n\u00e4hert sich den sogenannten Pick-up-Artists unreflektiert und unterkomplex.",
+        "ranked": 13,
+        "epoch": 1638176405.50789
+    },
+    {
+        "title": "Die st\u00e4ndige Angst, unheilbar krank zu sein",
+        "date_raw": "November 28, 2021",
+        "date": "2021-11-28",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/leben/2021-11/hypochondrie-angst-krankheit-tod-panik-psychologie-therapie",
+        "content": "Als Hypochonder bezeichnen sich viele leichtfertig. Doch was, wenn die Gedanken an eine Krankheit das Leben bestimmen? Wie eine Frau ihren Weg aus der Angst gefunden hat.",
+        "ranked": 14,
+        "epoch": 1638176405.5078907
+    },
+    {
+        "title": "Letztes Prinzip Hoffnung",
+        "date_raw": "November 28, 2021",
+        "date": "2021-11-28",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/pandemie-klimawandel-krisen-hoffnung-optimismus",
+        "content": "Vierte Welle, neue Virus-Variante, Spaltung der Gesellschaft: Die Lage ist trostlos. Doch trotz aller Novembrigkeit braucht es die Hoffnung \u2013 als aufkl\u00e4rerisches Prinzip.",
+        "ranked": 15,
+        "epoch": 1638176405.5078912
+    },
+    {
+        "title": "Frontex soll \u00c4rmelkanal aus der Luft \u00fcberwachen",
+        "date_raw": "November 28, 2021",
+        "date": "2021-11-28",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/migration-aermelkanal-frontex-flugzeug-krisentreffen-frankreich-grossbritannien-gerald-darmanin",
+        "content": "Nach dem Tod von 27 Gefl\u00fcchteten im \u00c4rmelkanal wollen die Anrainer h\u00e4rter gegen Schleuser vorgehen. Ein Frontex-Flugzeug soll den Meeresarm \"Tag und Nacht\" \u00fcberwachen.",
+        "ranked": 16,
+        "epoch": 1638176405.5078917
+    },
+    {
+        "title": "Ausgegendert",
+        "date_raw": "November 28, 2021",
+        "date": "2021-11-28",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/hamburg-eimsbuettel-gruen-schwarze-koalition",
+        "content": "In Hamburg-Eimsb\u00fcttel zerbricht die Koalition der CDU mit den Gr\u00fcnen. Die Ursache: ein Streit um gendergerechte Sprache im Bezirksamt. Und ein Antrag der SPD",
+        "ranked": 17,
+        "epoch": 1638176405.5078924
+    },
+    {
+        "title": "\"Notfalls m\u00fcssen eben alle erst mal zu Hause bleiben\"",
+        "date_raw": "November 28, 2021",
+        "date": "2021-11-28",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/omicron-variante-hamburg-corona-massnahmen",
+        "content": "Wie wappnet sich Hamburg gegen die Omicron-Variante? Virologen vom Leibniz-Institut fordern entschiedene Ma\u00dfnahmen. Die Gesundheitsbeh\u00f6rde wartet lieber ab.",
+        "ranked": 18,
+        "epoch": 1638176405.5078933
+    },
+    {
+        "title": "Koalitionsvertrag in Berlin steht",
+        "date_raw": "November 28, 2021",
+        "date": "2021-11-28",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/abgeordnetenhauswahl-berlin-koalitionsvertrag-spd-gruene-linke",
+        "content": "In Berlin haben sich SPD, Gr\u00fcne und Linke auf eine Fortsetzung ihres B\u00fcndnisses geeinigt. Am Montag wollen die Parteispitzen den Koalitionsvertrag vorstellen.",
+        "ranked": 19,
+        "epoch": 1638176405.5078974
+    }
+]
