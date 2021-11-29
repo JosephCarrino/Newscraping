@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Hit the road, Jack",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/internet/2021-11/twitter-jack-dorsey-ruecktritt-social-media",
+        "content": "Er hat das soziale Netzwerk einst gegr\u00fcndet, jetzt tritt er ab \u2013\u00a0wieder einmal: Jack Dorsey verl\u00e4sst Twitter. Wohl auch auf Druck von Investoren.",
+        "ranked": 0,
+        "epoch": 1638219605.254736
+    },
+    {
+        "title": "Gesundheits\u00e4mter melden leichten R\u00fcckgang der Neuinfektionen",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenz-knapp-unter-490",
+        "content": "Bundesweit wurden gut 40.200 neue Corona-F\u00e4lle registriert \u2013 das sind etwa 700 weniger als vor einer Woche. Die Sieben-Tage-Inzidenz sinkt leicht auf 487,5.",
+        "ranked": 1,
+        "epoch": 1638219605.254738
+    },
+    {
+        "title": "Eine Fliege \u2013 und so ein Hals!",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/umwelt/2021-11/insekt-des-jahres-schwarzhalsige-kamelhalsfliege-senckenberg-zoologie",
+        "content": "Schwarzhalsige Kamelhalsfliege \u2013 nie geh\u00f6rt? Na, umso besser, dass diese Unbekannte nun zum \"Insekt des Jahres\" gek\u00fcrt wurde. Was sie kann? Hier ein kleines Portr\u00e4t",
+        "ranked": 2,
+        "epoch": 1638219605.2547393
+    },
+    {
+        "title": "Fl\u00fcchtlinge zweiter Klasse",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/aermelkanal-fluechtlinge-grossbritannien-frankreich-seenotrettung",
+        "content": "Die lebensgef\u00e4hrliche \u00dcberfahrt durch den \u00c4rmelkanal ist f\u00fcr viele Migranten der einzige Weg nach Gro\u00dfbritannien. Nun will die Regierung die Asylgesetze versch\u00e4rfen.",
+        "ranked": 3,
+        "epoch": 1638219605.25474
+    },
+    {
+        "title": "\"Man startet eine Initiative und steht am Ende im Parlament\"",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/green/2021-11/philipp-von-der-wippel-zivilgesellschaft",
+        "content": "Der 25-j\u00e4hrige Philipp von der Wippel hat eine Organisation gegr\u00fcndet, die Politik und Zivilgesellschaft zusammenbringt. Nun steht seine Idee im Koalitionsvertrag.",
+        "ranked": 4,
+        "epoch": 1638219605.2547407
+    },
+    {
+        "title": "Die sch\u00f6nsten Jungs des Internets",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/campus/2021-11/elevator-boys-tiktok-social-media-influencer-karriere-erfolg",
+        "content": "F\u00fcnf junge M\u00e4nner filmen ein TikTok in einem Fahrstuhl und werden damit weltber\u00fchmt. Jetzt wollen sie darauf eine Karriere aufbauen und ihr Fuckboy-Image loswerden.",
+        "ranked": 5,
+        "epoch": 1638219605.2547414
+    },
+    {
+        "title": "Gesundheitsminister fordern von EU vorzeitige Impfstofflieferung",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/corona-impfung-kinder-gesundheitsminister-eu-kommission-impfstoff-freigabe",
+        "content": "Impfungen von F\u00fcnf- bis Elfj\u00e4hrigen sind ab 20. Dezember geplant. Die Gesundheitsminister der L\u00e4nder dringen auf einen fr\u00fcheren Termin \u2013 und machen Druck auf die Stiko.",
+        "ranked": 6,
+        "epoch": 1638219605.2547424
+    },
+    {
+        "title": "Wer tut hier zu wenig?",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-massnahmen-verschaerfungen-laender-kompetenzen-faq",
+        "content": "Bund und L\u00e4nder schieben sich die Schuld an der desastr\u00f6sen Pandemielage zu. Tun die L\u00e4nder nicht genug, oder blockiert der Bund ihre Ma\u00dfnahmen? Die wichtigsten Antworten",
+        "ranked": 7,
+        "epoch": 1638219605.254743
+    },
+    {
+        "title": "Habt besser mal eine Meinung zur Inflation!",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/inflation-geldsystem-feuilleton-podcast",
+        "content": "Geht eigentlich alles mit rechten Dingen zu in unserem Geldsystem? Im Feuilleton-Podcast erkl\u00e4ren Ijoma Mangold und Lars Weisbrod, warum Inflation uns alle angeht.",
+        "ranked": 8,
+        "epoch": 1638219605.2547436
+    },
+    {
+        "title": "Die besten Sendezeiten gibt Herr Bollor\u00e9 den Rechsextremen",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/eric-zemmour-frankreich-medien-vincent-bollore",
+        "content": "Ein Industrieller hat sich in Frankreich ein Medienimperium zusammengekauft und verbreitet dort seine radikale Weltsicht. Dem Rechtsextremisten \u00c9ric Zemmour n\u00fctzt das.",
+        "ranked": 9,
+        "epoch": 1638219605.2547443
+    },
+    {
+        "title": "\"15 Millionen E-Autos bis 2030, das muss man erst mal schaffen\"",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/umwelt/2021-11/klimapolitik-koalitionsvertrag-ampel-andreas-loeschel",
+        "content": "Im Koalitionsvertrag geht es auf \u00fcber 40 Seiten ums Klima. Der \u00d6konom Andreas L\u00f6schel sagt: Die Ziele sind \u00fcberraschend ambitioniert. Aber reichen sie auch?",
+        "ranked": 10,
+        "epoch": 1638219605.254745
+    },
+    {
+        "title": "Neue Landesregierung in Berlin will Wohnungsbau und Nahverkehr st\u00e4rken",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/berliner-koalitionsvertrag-spd-gruenen-linke",
+        "content": "Der neue Koalitionsvertrag von SPD, Gr\u00fcnen und Linken in Berlin sieht 20.000 neue Wohnungen pro Jahr vor. Die Opposition beklagt ein \"Sammelsurium von Kompromissen\".",
+        "ranked": 11,
+        "epoch": 1638219605.2547455
+    },
+    {
+        "title": "Journalisten fordern Freilassung von chinesischer Bloggerin",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/zhang-zhan-chinesische-bloggerin-corona-freilassung-forderung",
+        "content": "Die chinesische Bloggerin Zhang Zhan sitzt in Haft, nachdem sie 2020 vom Corona-Ausbruch in Wuhan berichtete. Ihre Familie bef\u00fcrchtet, dass sie nicht mehr lange lebt.",
+        "ranked": 12,
+        "epoch": 1638219605.2547462
+    },
+    {
+        "title": "Kenternde Boote im \u00c4rmelkanal",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/migration-aermelkanal-bootsfluechtlinge-situation-nachtrichtenpodcast",
+        "content": "Mit dem Brexit gelten EU-Asylregeln nicht mehr f\u00fcr London. Was wird aus den Migranten, die \u00fcber den \u00c4rmelkanal kommen? Und: Bund und L\u00e4nder ziehen ihr Corona-Treffen vor.",
+        "ranked": 13,
+        "epoch": 1638219605.2547467
+    },
+    {
+        "title": "Twitter-Chef Jack Dorsey tritt zur\u00fcck",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/2021-11/twitter-chef-jack-dorsey-tritt-zurueck",
+        "content": "Jack Dorsey hatte Twitter 2006 mitgegr\u00fcndet, jetzt verl\u00e4sst er die Unternehmensf\u00fchrung. Seine Nachfolge soll der bisherige Technikchef Parag Agrawal \u00fcbernehmen.",
+        "ranked": 14,
+        "epoch": 1638219605.2547474
+    },
+    {
+        "title": "Bund und L\u00e4nder beraten \u00fcber Corona-Krise",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-massnahmen-bund-laender-gipfel",
+        "content": "Merkel und Scholz wollen fr\u00fcher als geplant mit den L\u00e4nderchefs \u00fcber versch\u00e4rfte Corona-Regeln beraten. Auch das Urteil zur Bundesnotbremse soll diskutiert werden.",
+        "ranked": 15,
+        "epoch": 1638219605.2547479
+    },
+    {
+        "title": "Die Gr\u00fcnen haben die Verkehrswende geopfert",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/mobilitaet/2021-11/volker-wissing-bundesverkehrsminister-fpd-diesel",
+        "content": "Viele Gr\u00fcne zeigen sich \u00fcberrascht, dass der k\u00fcnftige Bundesverkehrsminister Dieselfahrer schonen will. Dabei sind sie selbst schuld, wenn es nichts wird mit der Wende.",
+        "ranked": 16,
+        "epoch": 1638219605.2547483
+    },
+    {
+        "title": "Magdalena Andersson erneut zu Schwedens Ministerpr\u00e4sidentin gew\u00e4hlt",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/magdalena-andersson-schweden-ministerpraesidentin-wiederwahl",
+        "content": "In der vergangenen Woche wurde Magdalena Andersson zur ersten schwedischen Ministerpr\u00e4sidentin gew\u00e4hlt \u2013 und trat am selben Tag zur\u00fcck. Jetzt nahm sie einen neuen Anlauf.",
+        "ranked": 17,
+        "epoch": 1638219605.2547493
+    },
+    {
+        "title": "\"Da muss man auch mal sagen: So weit sind wir noch nicht\"",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-11/arbeit-freundschaft-gespraech-bar-friseur-apotheke",
+        "content": "Es gibt Arbeitspl\u00e4tze, da wird man f\u00fcr seine Kunden unwillk\u00fcrlich zu einer Art Freund. Eine Friseurin, ein Barbesitzer und eine Apothekerin erz\u00e4hlen, wo die Grenzen sind.",
+        "ranked": 18,
+        "epoch": 1638219605.2547498
+    },
+    {
+        "title": "Inflation steigt im November \u00fcber F\u00fcnfprozentmarke",
+        "date_raw": "November 29, 2021",
+        "date": "2021-11-29",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/inflation-steigt-im-november-ueber-fuenf-prozent-marke",
+        "content": "Die Verbraucherpreise in Deutschland sind auf die h\u00f6chste Inflationsrate seit 1992 gestiegen. F\u00fcr den erneuten Preisschub sorgte vor allem teure Energie.",
+        "ranked": 19,
+        "epoch": 1638219605.254754
+    }
+]
