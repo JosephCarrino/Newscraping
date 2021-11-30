@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Der Furor der Vern\u00fcnftigen",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/wut-ungeimpfte-impfgegner-corona-gesellschaft",
+        "content": "Viele Menschen empfinden die Corona-Politik der Bundesregierung als zu lasch, Ungeimpfte als verantwortungslos. Wohin geht ihre Wut?",
+        "ranked": 0,
+        "epoch": 1638273605.6913886
+    },
+    {
+        "title": "Inflation im Euroraum steigt auf Rekordwert",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/inflation-verbraucherpreise-euroraum",
+        "content": "In der Eurozone sind die Verbraucherpreise im November um 4,9 Prozent gestiegen \u2013 und damit so stark wie noch nie im W\u00e4hrungsraum. Ursache sind die hohen Energiepreise.",
+        "ranked": 1,
+        "epoch": 1638273605.6913912
+    },
+    {
+        "title": "Rechtsradikaler \u00c9ric Zemmour kandidiert bei Pr\u00e4sidentschaftswahl",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/eric-zemmour-frankreich-praesidentschaftswahl",
+        "content": "Der Publizist \u00c9ric Zemmour ist bei rechtsextremen wie konservativen W\u00e4hlern beliebt. Nun bewirbt er sich um das Amt des franz\u00f6sischen Pr\u00e4sidenten.",
+        "ranked": 2,
+        "epoch": 1638273605.6913922
+    },
+    {
+        "title": "Polizei sucht Zeugen 30 Jahre nach rassistischem Anschlag",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/brandanschlag-kempten-1990-ermittlung-rechtsextremismus",
+        "content": "Vor drei Jahrzehnten starb ein F\u00fcnfj\u00e4hriger bei einem Anschlag im Allg\u00e4u. Nun rollt die Polizei den Fall neu auf \u2013 und fahndet nach T\u00e4tern aus dem rechtsextremen Milieu.",
+        "ranked": 3,
+        "epoch": 1638273605.6913934
+    },
+    {
+        "title": "Gericht verh\u00e4ngt lebenslange Haft f\u00fcr T\u00f6tung von jesidischem M\u00e4dchen",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/is-prozess-frankfurt-jesidisches-maedchen-urteil",
+        "content": "Weil er eine F\u00fcnfj\u00e4hrige im Irak gequ\u00e4lt und get\u00f6tet haben soll, muss ein Iraker lebenslang ins Gef\u00e4ngnis. Zudem muss er der Mutter des M\u00e4dchens 50.000 Euro zahlen.",
+        "ranked": 4,
+        "epoch": 1638273605.6913939
+    },
+    {
+        "title": "Squash-WM der M\u00e4nner abgesagt",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/squash-wm-abgesagt-malaysia-israel",
+        "content": "Weil das israelische Team nicht nach Malaysia einreisen darf, hat der Squash-Weltverband die WM abgesagt. Auch die Sorge vor Omikron spielte eine Rolle.",
+        "ranked": 5,
+        "epoch": 1638273605.6913948
+    },
+    {
+        "title": "Moderna rechnet mit geringerer Impfstoffwirksamkeit bei Omikron",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/corona-impfstoff-moderna-omikron-wirksamkeit",
+        "content": "Moderna-Chef Bancel geht davon aus, dass die Corona-Impfstoffe an die neue Virusvariante angepasst werden m\u00fcssen. Dies ist bei mRNA-Impfstoffen relativ unkompliziert.",
+        "ranked": 6,
+        "epoch": 1638273605.6913955
+    },
+    {
+        "title": "Herr Tschentscher, bitte sprechen Sie mit uns!",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/elbvertiefung-30-11-2021",
+        "content": "Senat ber\u00e4t heute \u00fcber versch\u00e4rfte Ma\u00dfnahmen, Anjes Tjarks freut sich \u00fcber neue Radwege, Krankenh\u00e4user sollen Operationen verschieben, Corona-Inzidenz sinkt leicht.",
+        "ranked": 7,
+        "epoch": 1638273605.691396
+    },
+    {
+        "title": "Ist Interpol Erdo\u011fans Polizei?",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/interpol-recep-tayyip-erdogan-tuerkei",
+        "content": "Staatschefs wie Erdo\u011fan, Putin und Xi betrachten Interpol als ihre pers\u00f6nliche Polizeiorganisation. Nun wurde bei der Jahrestagung in Istanbul ein neuer Chef gew\u00e4hlt.",
+        "ranked": 8,
+        "epoch": 1638273605.691397
+    },
+    {
+        "title": "INTERPOL, Erdo\u011fan\u2019\u0131n polis g\u00fcc\u00fc m\u00fc?",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/nterpol-recep-tayyip-erdogan-tuerkei-tuerkisch",
+        "content": "Erdo\u011fan, Putin, \u015ei gibi liderler, INTERPOL\u2019\u00fc, d\u00fcnyan\u0131n her yerinde, kendi muhaliflerinin pe\u015fine takabilecekleri, ki\u015fisel polis te\u015fkilat\u0131 gibi g\u00f6r\u00fcyor.",
+        "ranked": 9,
+        "epoch": 1638273605.6913974
+    },
+    {
+        "title": "Zahl der Arbeitslosen sinkt weiter",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/bundesagentur-fuer-arbeit-arbeitslosigkeit-sinkt",
+        "content": "Die vierte Welle hat sich bisher kaum am Arbeitsmarkt niedergeschlagen: Im November sank die Zahl der Arbeitslosen auf 2,317 Millionen, 60.000 weniger als im Oktober.",
+        "ranked": 10,
+        "epoch": 1638273605.6913981
+    },
+    {
+        "title": "Mehr als 100 afghanische Sicherheitskr\u00e4fte get\u00f6tet oder verschwunden",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/afghanistan-sicherheitskraefte-taliban-hrw",
+        "content": "Die Taliban hatten eine Generalamnestie f\u00fcr Sicherheitskr\u00e4fte versprochen, seit der Macht\u00fcbernahme wurden dennoch etliche get\u00f6tet. Das berichtet Human Rights Watch.",
+        "ranked": 11,
+        "epoch": 1638273605.6913986
+    },
+    {
+        "title": "Corona-Ausgangsbeschr\u00e4nkungen und Schulschlie\u00dfungen waren rechtens",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/bundesverfassungsgericht-bundesnotbremse-war-rechtmaessig",
+        "content": "Die Corona-Kontaktbeschr\u00e4nkungen und Schulschlie\u00dfungen im Rahmen der Bundesnotbremse waren grundgesetzkonform. Das hat das Bundesverfassungsgericht entschieden.",
+        "ranked": 12,
+        "epoch": 1638273605.6913993
+    },
+    {
+        "title": "Staatsanwaltschaft will Freilassung von Bill Cosby anfechten",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/bill-cosby-sexuelle-noetigungen-freilassung-usa-staatsanwaltschaft",
+        "content": "Vor f\u00fcnf Monaten war der ehemalige Sitcom-Star \u00fcberraschend aus dem Gef\u00e4ngnis entlassen worden. Die Staatsanwaltschaft will dagegen nun vor dem Supreme Court vorgehen.",
+        "ranked": 13,
+        "epoch": 1638273605.6914
+    },
+    {
+        "title": "Barbados sagt sich von britischer Krone los",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/karibik-barbados-republik-sandra-manson-queen-grossbritannien",
+        "content": "Die Ex-Kolonie Barbados hat sich vom britischen K\u00f6nigshaus gel\u00f6st, die Karibikinsel wird zur Republik. Richterin Sandra Mason l\u00f6ste die Queen als Staatsoberhaupt ab.",
+        "ranked": 14,
+        "epoch": 1638273605.6914005
+    },
+    {
+        "title": "Lionel Messi zum siebten Mal mit dem Ballon d'Or ausgezeichnet",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-11/ballon-dor-lionel-messi-weltfussballer-robert-lewandowski",
+        "content": "Bayern-Spieler Robert Lewandowski hatte auf die Auszeichnung gehofft, wurde aber nur als bester Torj\u00e4ger geehrt. Der Ballon d'Or ging einmal mehr an Lionel Messi.",
+        "ranked": 15,
+        "epoch": 1638273605.6914012
+    },
+    {
+        "title": "Ein Dokument voller schillernder Lichter",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/koalitionsvertrag-ampelkoalition-zielsetzung-5vor8",
+        "content": "Im Koalitionsvertrag der Ampel bleibt praktische Politik auf fatale Weise unterbelichtet. Drei Dinge st\u00f6ren unseren Kolumnisten besonders.",
+        "ranked": 16,
+        "epoch": 1638273605.6914017
+    },
+    {
+        "title": "Kannste dir nicht ausdenken!",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-11/faking-hitler-rtl-plus-serie-gefaelschte-tagebuecher",
+        "content": "Warum muss eine Serie \u00fcber die gef\u00e4lschten Hitler-Tageb\u00fccher etwas dazuerfinden? \"Faking Hitler\" ist ein Paradebeispiel f\u00fcr die Ideenlosigkeit fiktionaler TV-Stoffe.",
+        "ranked": 17,
+        "epoch": 1638273605.6914024
+    },
+    {
+        "title": "Corona-Ma\u00dfnahmen, Jack Dorsey, Elternzeit als Karrierekiller",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-11/corona-dorsey-elternzeit-2021-11-30",
+        "content": "Bund und L\u00e4nder beraten \u00fcber Ma\u00dfnahmen im Kampf gegen die Pandemie, die Sieben-Tage-Inzidenz sinkt und Twitter-Chef Jack Dorsey tritt ab. Der Morgen\u00fcberblick",
+        "ranked": 18,
+        "epoch": 1638273605.691403
+    },
+    {
+        "title": "Tag X f\u00fcr die Corona-Gesetze",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/corona-massnahmen-bundesverfassungsgericht-volker-wissing-dieselfahrer-nachrichtepodcast",
+        "content": "Das Bundesverfassungsgericht erkl\u00e4rt heute, ob die Ma\u00dfnahmen der Bundesnotbremse gerechtfertigt waren. Und: Die Gr\u00fcnen, die Verkehrswende und der FDP-Minister",
+        "ranked": 19,
+        "epoch": 1638273605.691407
+    }
+]
