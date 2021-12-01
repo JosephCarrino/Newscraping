@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Corona-Ma\u00dfnahmen, Omikron, Nato im Krisenmodus",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-12/corona-omikron-nato-2021-12-01",
+        "content": "Bund und L\u00e4nder planen neue Corona-Regeln, die Impfpflicht soll kommen und die Nato ist wegen russischer Truppen an der ukrainischen Grenze besorgt. Der Morgen\u00fcberblick",
+        "ranked": 0,
+        "epoch": 1638338406.1919422
+    },
+    {
+        "title": "Not und Verbot",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/49/bundesverfassungsgericht-notbremse-urteil-corona-lockdown",
+        "content": "Die Politik wollte vom Verfassungsgericht erfahren, ob sie durfte, was sie tat. Die Antwort: Das m\u00fcsst ihr selbst wissen",
+        "ranked": 1,
+        "epoch": 1638338406.1919446
+    },
+    {
+        "title": "Und nochmal ran an den Infektionsschutz",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-11/corona-gipfel-mpk-nachrichtenpodcast",
+        "content": "Bund und L\u00e4nder haben erneut \u00fcber die Corona-Situation beraten. Welche Versch\u00e4rfungen kommen? Au\u00dferdem im Podcast: Was gegen die steigende Inflation getan werden kann.",
+        "ranked": 2,
+        "epoch": 1638338406.191946
+    },
+    {
+        "title": "\"Dass sich viele Pflegekr\u00e4fte abwenden, liegt nicht an der Pandemie\"",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-11/pflegekraefte-arbeitsbedingungen-ueberlastung-gehalt-kuendigung",
+        "content": "Viele Pflegekr\u00e4fte haben in der Pandemie gek\u00fcndigt. Hier erz\u00e4hlen 25 von ihnen, weshalb sie ausgestiegen sind und was sich \u00e4ndern m\u00fcsste, damit sie zur\u00fcckkehren.",
+        "ranked": 3,
+        "epoch": 1638338406.191947
+    },
+    {
+        "title": "Deutsche Welle l\u00e4sst Antisemitismusvorw\u00fcrfe extern untersuchen",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-12/auslandssender-deutsche-welle-vorwuerfe-antisemitismus-untersuchung",
+        "content": "Der Auslandssender reagiert auf Vorw\u00fcrfe der \"S\u00fcddeutschen Zeitung\". Demnach h\u00e4tten mehrere Mitarbeitende des Senders antisemitische \u00c4u\u00dferungen im Internet gepostet.",
+        "ranked": 4,
+        "epoch": 1638338406.1919477
+    },
+    {
+        "title": "15-J\u00e4hriger t\u00f6tet drei Mitsch\u00fcler an seiner Highschool",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/waffengewalt-usa-michigan-highschool-schuesse-tote-festnahme",
+        "content": "Bei Sch\u00fcssen an einer Schule im US-Staat Michigan sind drei Menschen get\u00f6tet und acht weitere verletzt worden. Der T\u00e4ter wurde festgenommen, sein Motiv ist unklar.",
+        "ranked": 5,
+        "epoch": 1638338406.1919487
+    },
+    {
+        "title": "Polen schr\u00e4nkt weiter Zugang zum Grenzgebiet ein",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/belarus-polen-zugang-grenzgebiet-beschraenken-ausnahmezustand",
+        "content": "Nach drei Monaten l\u00e4uft in Polen der Ausnahmezustand in der Grenzregion zu Belarus aus. Doch ein neues Gesetz erm\u00f6glicht es, Journalisten weiter den Zugang zu verwehren.",
+        "ranked": 6,
+        "epoch": 1638338406.1919494
+    },
+    {
+        "title": "Gesundheits\u00e4mter melden 446 Todesf\u00e4lle durch Covid-19",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/coronavirus-neuinfektionen-gesundheitsaemter-rki-inzidenz-todesfaelle-anstieg",
+        "content": "Das RKI registriert 111 mehr Todesf\u00e4lle an einem Tag als noch vor einer Woche. Die Sieben-Tage-Inzidenz geht zum zweiten Mal in Folge leicht zur\u00fcck.",
+        "ranked": 7,
+        "epoch": 1638338406.19195
+    },
+    {
+        "title": "So will Deutschland der vierten Welle und Omikron trotzen",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/ministerpraesidentenkonferenz-corona-massnahmen-omikron-verfassungsgericht",
+        "content": "Impfpflicht, 2G im Einzelhandel, Schlie\u00dfung von Clubs, ein neuer Krisenstab, impfende Tier\u00e4rzte und Apotheker: Ein \u00dcberblick \u00fcber die neuen Pl\u00e4ne von Bund und L\u00e4ndern",
+        "ranked": 8,
+        "epoch": 1638338406.1919506
+    },
+    {
+        "title": "BioNTech-Chef ist zuversichtlich \u00fcber Schutzwirkung von Impfstoffen",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/biontech-chef-sahin-impfstoffe-omikron",
+        "content": "Omikron ist nicht die erste Virusvariante, sagt BioNTech-Gr\u00fcnder U\u011fur \u015eahin. Er ist deshalb sicher: Die Impfstoffe werden weiter vor schweren Verl\u00e4ufen sch\u00fctzen.",
+        "ranked": 9,
+        "epoch": 1638338406.1919513
+    },
+    {
+        "title": "Die verlorenen T\u00f6chter der Revolution",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-11/abtreibungsrecht-polen-frauen-emanzipation-pis",
+        "content": "F\u00fcr gut ausgebildete Polinnen, die heute etwa 40 Jahre alt sind, ging es lange um immer mehr Freiheit und Emanzipation. Dabei verga\u00dfen sie aber die Frustrierten im Land.",
+        "ranked": 10,
+        "epoch": 1638338406.1919522
+    },
+    {
+        "title": "Lkw-Maut verstie\u00df 2010 und 2011 teilweise gegen EU-Recht",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-11/lkw-maut-eu-recht-oberverwaltungsgericht-nrw",
+        "content": "Zwei polnische Spediteure aus Polen hatten die Bundesrepublik wegen der H\u00f6he ihrer Mautzahlung verklagt. Nun bekamen sie recht und weitere Firmen d\u00fcrften profitieren.",
+        "ranked": 11,
+        "epoch": 1638338406.1919527
+    },
+    {
+        "title": "Seine wahre Union",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-11/ungarischer-theologe-viktor-orban-katholisch",
+        "content": "Der Ungar P\u00e9ter Vida ist gl\u00e4ubig, von der EU ist er entt\u00e4uscht, er f\u00fcrchtet die Einwanderung von Muslimen nach Europa. Und doch will er Viktor Orb\u00e1n nicht w\u00e4hlen.",
+        "ranked": 12,
+        "epoch": 1638338406.1919534
+    },
+    {
+        "title": "Die neue Herausforderung",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-11/anja-hajduk-staatssekretaerin-robert-habeck-gruene-wirtschaftsministerium",
+        "content": "Die gr\u00fcne Finanzexpertin Anja Hajduk aus Hamburg soll in der neuen Bundesregierung die Politik des Klimaministers Robert Habeck durchsetzen. Das d\u00fcrfte ihr leichtfallen.",
+        "ranked": 13,
+        "epoch": 1638338406.1919541
+    },
+    {
+        "title": "Endlich aufgewacht",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/corona-notbremse-verfassungsgericht-politik",
+        "content": "Die Beschl\u00fcsse des Verfassungsgerichts haben die Corona-Starre der Politik beendet. Gut so. Leider gibt es trotzdem noch ein paar Gr\u00fcnde, sich zu beschweren.",
+        "ranked": 14,
+        "epoch": 1638338406.1919546
+    },
+    {
+        "title": "\"Die Rechtfertigungslast der Politik steigt damit enorm\"",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/schule/2021-11/schulschliessungen-corona-verfassungsgericht-bildungsrecht-michael-wrase",
+        "content": "Das Verfassungsgericht h\u00e4lt Schulschlie\u00dfungen f\u00fcr rechtm\u00e4\u00dfig. Entt\u00e4uschung sei aber unangebracht, sagt Bildungsrechtler Michael Wrase. Die Entscheidung sei wegweisend.",
+        "ranked": 15,
+        "epoch": 1638338406.1919556
+    },
+    {
+        "title": "\"Wenn's sein muss, 14 Uhr am Schei\u00dffluss?\"",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/entdecken/2021-11/spazieren-corona-pandemie-lockdown-winter",
+        "content": "Willkommen zu der n\u00e4chsten Runde Clown-Polonaise: Bald geht wieder das ganze Land spazieren. Weil uns sonst nichts bleibt. So wird Deutschland schlichtweg fr\u00fchvergreisen.",
+        "ranked": 16,
+        "epoch": 1638338406.191956
+    },
+    {
+        "title": "Olaf Scholz will allgemeine Impfpflicht bis sp\u00e4testens Anfang M\u00e4rz",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/impfpflicht-olaf-scholz-corona-beratungen",
+        "content": "Fr\u00fcher als geplant wollen Bund und L\u00e4nder neue Ma\u00dfnahmen beschlie\u00dfen \u2013 auch eine Impfpflicht soll kommen. Wenn es nach Olaf Scholz geht, schon in den kommenden Monaten.",
+        "ranked": 17,
+        "epoch": 1638338406.1919568
+    },
+    {
+        "title": "Das ist wichtig",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kaenguru-comics/2021-12/folge-290",
+        "content": "Der K\u00e4nguru-Comic vom 1. Dezember 2021",
+        "ranked": 18,
+        "epoch": 1638338406.1919572
+    },
+    {
+        "title": "Rechnungshof sieht Misswirtschaft und Strukturprobleme bei der Bahn",
+        "date_raw": "November 30, 2021",
+        "date": "2021-11-30",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/mobilitaet/2021-11/deutsche-bahn-rechnungshof-kritik-verkehrsministerium",
+        "content": "Der Bundesrechnungshof h\u00e4lt den verschuldeten Bahnkonzern f\u00fcr labil. Die k\u00fcnftige Regierung m\u00fcsse insbesondere die Doppelrolle der Abgeordneten reformieren.",
+        "ranked": 19,
+        "epoch": 1638338406.191962
+    }
+]
