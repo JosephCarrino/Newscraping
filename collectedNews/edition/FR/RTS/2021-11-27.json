@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-rencontres-privees-sont-limitees-a-dix-personnes-non-vaccinees-dans-les-cantons-du-valais-et-du-jura-25782005.html",
         "duration": "01:25",
         "ranked": 0,
-        "epoch": 1638309609.9050016
+        "epoch": 1638396009.1613934
     },
     {
         "title": "Le variant Omicron coupe net la saison touristique en Afrique du Sud",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-variant-omicron-coupe-net-la-saison-touristique-en-afrique-du-sud-25782004.html",
         "duration": "01:52",
         "ranked": 1,
-        "epoch": 1638309609.905004
+        "epoch": 1638396009.161397
     },
     {
         "title": "A Neuchâtel, les décrochages scolaires en forte hausse face aux restrictions liées au coronavirus",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/a-neuchatel-les-decrochages-scolaires-en-forte-hausse-face-aux-restrictions-liees-au-coronavirus-25782008.html",
         "duration": "01:59",
         "ranked": 2,
-        "epoch": 1638309609.905005
+        "epoch": 1638396009.161398
     },
     {
         "title": "L'opposante Svetlana Tikhanovskaïa organise une journée de solidarité pour les prisonniers politiques biélorusses",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-opposante-svetlana-tikhanovskaia-organise-une-journee-de-solidarite-pour-les-prisonniers-politiques-bielorusses-25782015.html",
         "duration": "01:46",
         "ranked": 3,
-        "epoch": 1638309609.9050062
+        "epoch": 1638396009.1613991
     },
     {
         "title": "Début des élections locales en Algérie après la chute d'Abdelaziz Bouteflika",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/debut-des-elections-locales-en-algerie-apres-la-chute-d-abdelaziz-bouteflika-25782009.html",
         "duration": "01:44",
         "ranked": 4,
-        "epoch": 1638309609.9050071
+        "epoch": 1638396009.1613998
     },
     {
         "title": "Début de la Coupe du monde de ski alpin: interview de Didier Defago",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/debut-de-la-coupe-du-monde-de-ski-alpin-interview-de-didier-defago-25782017.html",
         "duration": "01:47",
         "ranked": 5,
-        "epoch": 1638309609.9050078
+        "epoch": 1638396009.1614008
     },
     {
         "title": "15 Minutes - Le patrimoine immobilier des Eglises",
@@ -67,6 +67,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/15-minutes-le-patrimoine-immobilier-des-eglises-25782027.html",
         "duration": "15:04",
         "ranked": 6,
-        "epoch": 1638309609.9050086
+        "epoch": 1638396009.1614017
     }
 ]
