@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-canton-de-vaud-annonce-de-nouvelles-mesures-pour-lutter-contre-le-covid-19-25781454.html",
         "duration": "02:15",
         "ranked": 0,
-        "epoch": 1638396009.0112216
+        "epoch": 1638482410.444874
     },
     {
         "title": "Le point sur la pandémie de Covid-19 en Allemagne",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-point-sur-la-pandemie-de-covid-19-en-allemagne-25781458.html",
         "duration": "01:22",
         "ranked": 1,
-        "epoch": 1638396009.0112247
+        "epoch": 1638482410.444877
     },
     {
         "title": "Le naufrage de migrants le plus meurtrier depuis 3 ans dans la Manche fait réagir la France et l'Angleterre",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-naufrage-de-migrants-le-plus-meurtrier-depuis-3-ans-dans-la-manche-fait-reagir-la-france-et-l-angleterre-25781461.html",
         "duration": "03:32",
         "ranked": 2,
-        "epoch": 1638396009.0112264
+        "epoch": 1638482410.4448783
     },
     {
         "title": "Les CFF présentent leur stratégie 2030 et veulent mettre l'accent sur la ponctualité, la fiabilité et la sécurité",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-cff-presentent-leur-strategie-2030-et-veulent-mettre-l-accent-sur-la-ponctualite-la-fiabilite-et-la-securite-25781462.html",
         "duration": "01:35",
         "ranked": 3,
-        "epoch": 1638396009.0112274
+        "epoch": 1638482410.4448793
     },
     {
         "title": "La Suisse n'atteint pas ses objectifs concernant le transfert de la route au rail",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-n-atteint-pas-ses-objectifs-concernant-le-transfert-de-la-route-au-rail-25781478.html",
         "duration": "01:52",
         "ranked": 4,
-        "epoch": 1638396009.0112286
+        "epoch": 1638482410.4448805
     },
     {
         "title": "Marche silencieuse à la Chaux-de-Fonds contre les violences faites aux femmes: interview de Claudine Stähli-Wolf",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/marche-silencieuse-a-la-chaux-de-fonds-contre-les-violences-faites-aux-femmes-interview-de-claudine-stahli-wolf-25781472.html",
         "duration": "01:51",
         "ranked": 5,
-        "epoch": 1638396009.01123
+        "epoch": 1638482410.4448814
     },
     {
         "title": "Des ONG féministes turques manifestent contre le retrait du pays de la convention d’Istanbul",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/des-ong-feministes-turques-manifestent-contre-le-retrait-du-pays-de-la-convention-d-istanbul-25781475.html",
         "duration": "02:05",
         "ranked": 6,
-        "epoch": 1638396009.011231
+        "epoch": 1638482410.4448824
     },
     {
         "title": "Le nouveau documentaire sur les Beatles intitulé \"Get Back\" sort sur Disney +",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-nouveau-documentaire-sur-les-beatles-intitule-get-back-sort-sur-disney-25781474.html",
         "duration": "02:04",
         "ranked": 7,
-        "epoch": 1638396009.0112317
+        "epoch": 1638482410.4448833
     },
     {
         "title": "L’invité du 12h30 - Gilles Lipovetsky sur le sacre de l’authenticité",
@@ -87,6 +87,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-gilles-lipovetsky-sur-le-sacre-de-l-authenticite-25781477.html",
         "duration": "09:33",
         "ranked": 8,
-        "epoch": 1638396009.0112326
+        "epoch": 1638482410.4448843
     }
 ]

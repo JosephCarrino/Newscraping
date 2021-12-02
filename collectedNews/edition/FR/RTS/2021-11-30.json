@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/eric-zemmour-s-est-officiellement-declare-candidat-a-la-presidentielle-francaise-25782684.html",
         "duration": "02:04",
         "ranked": 0,
-        "epoch": 1638396009.2839856
+        "epoch": 1638482410.5698798
     },
     {
         "title": "Les attentes des élus à Berne avant la séance extraordinaire du Conseil fédéral consacrée au Covid-19",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/les-attentes-des-elus-a-berne-avant-la-seance-extraordinaire-du-conseil-federal-consacree-au-covid-19-25782685.html",
         "duration": "02:00",
         "ranked": 1,
-        "epoch": 1638396009.2839885
+        "epoch": 1638482410.569883
     },
     {
         "title": "Le variant Omicron déstabilise le secteur touristique suisse",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-variant-omicron-destabilise-le-secteur-touristique-suisse-25782689.html",
         "duration": "01:22",
         "ranked": 2,
-        "epoch": 1638396009.2839894
+        "epoch": 1638482410.569884
     },
     {
         "title": "Le canton de Vaud veut encourager l’apprentissage du latin et du grec grâce à une déléguée aux langues anciennes",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-canton-de-vaud-veut-encourager-l-apprentissage-du-latin-et-du-grec-grace-a-une-deleguee-aux-langues-anciennes-25782698.html",
         "duration": "03:00",
         "ranked": 3,
-        "epoch": 1638396009.2839909
+        "epoch": 1638482410.5698853
     },
     {
         "title": "Le Tribunal constitutionnel allemand valide les mesures prises par le gouvernement pour lutter contre la pandémie",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-tribunal-constitutionnel-allemand-valide-les-mesures-prises-par-le-gouvernement-pour-lutter-contre-la-pandemie-25782688.html",
         "duration": "01:19",
         "ranked": 4,
-        "epoch": 1638396009.283992
+        "epoch": 1638482410.569886
     },
     {
         "title": "La Ville de Lausanne a présenté son programme de législature",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-ville-de-lausanne-a-presente-son-programme-de-legislature-25782697.html",
         "duration": "01:55",
         "ranked": 5,
-        "epoch": 1638396009.283993
+        "epoch": 1638482410.569887
     },
     {
         "title": "Eitan, l’enfant survivant de la chute du téléphérique du Mottarone, va rentrer en Italie",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/eitan-l-enfant-survivant-de-la-chute-du-telepherique-du-mottarone-va-rentrer-en-italie-25782704.html",
         "duration": "01:10",
         "ranked": 6,
-        "epoch": 1638396009.2839942
+        "epoch": 1638482410.5698884
     },
     {
         "title": "Médecins du monde lance un podcast pour donner la parole aux sans abris",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/medecins-du-monde-lance-un-podcast-pour-donner-la-parole-aux-sans-abris-25782706.html",
         "duration": "02:05",
         "ranked": 7,
-        "epoch": 1638396009.2839952
+        "epoch": 1638482410.5698895
     },
     {
         "title": "Tiger Woods écarte un retour dans le golf à temps plein",
@@ -87,7 +87,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/tiger-woods-ecarte-un-retour-dans-le-golf-a-temps-plein-25782703.html",
         "duration": "00:59",
         "ranked": 8,
-        "epoch": 1638396009.2839959
+        "epoch": 1638482410.5698905
     },
     {
         "title": "La chanteuse Joséphine Baker va rentrer ce mardi au Panthéon",
@@ -97,7 +97,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-chanteuse-josephine-baker-va-rentrer-ce-mardi-au-pantheon-25782725.html",
         "duration": "01:19",
         "ranked": 9,
-        "epoch": 1638396009.2839966
+        "epoch": 1638482410.5698912
     },
     {
         "title": "L’invitée du 12h30 - Maria Mourani présente son nouveau livre, \"Machine Jihad\"",
@@ -107,6 +107,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invitee-du-12h30-maria-mourani-presente-son-nouveau-livre-machine-jihad-25782726.html",
         "duration": "10:13",
         "ranked": 10,
-        "epoch": 1638396009.2839975
+        "epoch": 1638482410.5698922
     }
 ]
