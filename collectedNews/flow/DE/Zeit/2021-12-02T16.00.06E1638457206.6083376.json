@@ -1,0 +1,202 @@
+[
+    {
+        "title": "EU-Kommission stellt Verfahren gegen Deutschland ein",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/ezb-urteil-anleihenkaeufe-eu-kommission-deutschland-verfahrenseinstellung",
+        "content": "Nach einem Urteil des Bundesverfassungsgerichts war es zum Streit mit der EU gekommen. Nun ist klar: Deutschland erkennt den Vorrang des EU-Rechts an.",
+        "ranked": 0,
+        "epoch": 1638457206.6082926
+    },
+    {
+        "title": "Angela Merkel spricht sich f\u00fcr Impfpflicht aus",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/bund-und-laender-beschliessen-bundesweite-einschraenkungen-fuer-ungeimpfte",
+        "content": "Bund und L\u00e4nder haben bundesweite Einschr\u00e4nkungen f\u00fcr Ungeimpfte beschlossen. Die gesch\u00e4ftsf\u00fchrende Kanzlerin Angela Merkel bezeichnete die Pandemie-Lage als sehr ernst.",
+        "ranked": 1,
+        "epoch": 1638457206.6082947
+    },
+    {
+        "title": "Zahl der frei lebenden Wolfsrudel in Deutschland w\u00e4chst weiter",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/umwelt/2021-12/woelfe-ausbreitung-rudel-schafe-naturschutz",
+        "content": "Der einst ausgerottete Wolf breitet sich weiter aus. Aus Sicht von Artensch\u00fctzern ist das ein gro\u00dfer Erfolg \u2013 f\u00fcr Landwirte und Nutztierhalter dagegen Anlass zur Sorge.",
+        "ranked": 2,
+        "epoch": 1638457206.6082957
+    },
+    {
+        "title": "Angela Merkel und Olaf Scholz stellen neue Corona-Ma\u00dfnahmen vor",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-11/ministerpraesidentenkonferenz-corona-regeln-notbremse-livestream",
+        "content": "Ministerpr\u00e4sidenten, Kanzlerin und der designierte Bundeskanzler haben sich auf neue, bundesweite Ma\u00dfnahmen geeinigt. Einzelheiten zu den Beschl\u00fcssen jetzt im Livestream",
+        "ranked": 3,
+        "epoch": 1638457206.6082964
+    },
+    {
+        "title": "Das Ende des Wunderkindes",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/sebastian-kurz-oesterreich-oevp-korruption",
+        "content": "Aufstieg und Fall in nur sechs Jahren: Sebastian Kurz geht. Er hat die \u00d6VP beherrscht und weit nach rechts ger\u00fcckt. Am Ende bleiben Korruptionsermittlungen und Intrigen.",
+        "ranked": 4,
+        "epoch": 1638457206.608297
+    },
+    {
+        "title": "Amerikas rassistische Justiz?",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/rassismus-usa-justiz-kyle-rittenhouse-ok-america",
+        "content": "Ein Freispruch f\u00fcr Kyle Rittenhouse, Schuldspr\u00fcche f\u00fcr die T\u00e4ter, die Ahmaud Arbery t\u00f6teten \u2013 und die Historie rassistisch motivierter Gewalt: die Themen im US-Podcast",
+        "ranked": 5,
+        "epoch": 1638457206.608298
+    },
+    {
+        "title": "\"Auch mit Impfung habe ich Angst, meine Mutter zu infizieren\"",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zett/2021-12/freiwillige-kontaktbeschraenkungen-lockdown-corona-winter",
+        "content": "Nele will mit ihrer Mutter unbesorgt Weihnachten feiern, Johanna hat Angst vor einem Impfdurchbruch. Drei geimpfte Menschen erz\u00e4hlen, warum sie sich selbst isolieren.",
+        "ranked": 6,
+        "epoch": 1638457206.6082988
+    },
+    {
+        "title": "Stiko-Chef r\u00e4umt Vers\u00e4umnisse bei Booster-Empfehlung ein",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-12/corona-impfung-booster-thomas-mertens-stiko",
+        "content": "R\u00fcckblickend sei manches zu sp\u00e4t entschieden worden, sagt Thomas Mertens mit Blick auf Auffrischungsimpfungen. Die Empfehlung zur Kinderimpfung solle rechtzeitig kommen.",
+        "ranked": 7,
+        "epoch": 1638457206.6082993
+    },
+    {
+        "title": "UN erwarten H\u00f6chstwert von 247 Millionen bed\u00fcrftigen Menschen",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-12/un-humanitaere-hilfe-pandemie",
+        "content": "Weltweit ben\u00f6tigen immer mehr Menschen humanit\u00e4re Hilfe. Die Vereinten Nationen rechnen 2022 mit 40 Millionen Betroffenen zus\u00e4tzlich.",
+        "ranked": 8,
+        "epoch": 1638457206.6083
+    },
+    {
+        "title": "\"Ich r\u00e4ume gerade mein Leben auf\"",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/entdecken/2021-11/iris-berben-schauspielerin-wochenende-podcast",
+        "content": "Das Wochenende beginnt Iris Berben am liebsten zu lauter Musik gr\u00f6hlend in der Wohnung. Im Podcast verr\u00e4t sie au\u00dferdem das Geheimnis der perfekten Bolognese.",
+        "ranked": 9,
+        "epoch": 1638457206.6083004
+    },
+    {
+        "title": "Arbeitslosenquote im Euroraum sinkt weiter",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-12/arbeitslosenquote-euroraum-senkung-arbeitsmarkt",
+        "content": "Die Corona-Pandemie hat sich auf den Arbeitsmarkt in der EU weniger stark ausgewirkt als bef\u00fcrchtet. Inzwischen geht die Zahl der Arbeitslosen wieder zur\u00fcck.",
+        "ranked": 10,
+        "epoch": 1638457206.6083014
+    },
+    {
+        "title": "Verbrauchersch\u00fctzer k\u00f6nnen Facebook ohne konkreten Auftrag verklagen",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-12/klage-facebook-dsgvo-verbraucherschuetzer-eugh",
+        "content": "In einem EuGH-Gutachten hei\u00dft es, dass Verbrauchersch\u00fctzer auch ohne Auftrag gegen Internetkonzerne klagen k\u00f6nnen. Die Frage angesto\u00dfen hat ein Fall aus Deutschland.",
+        "ranked": 11,
+        "epoch": 1638457206.6083019
+    },
+    {
+        "title": "Hei\u00dfe Hibiskusbl\u00fcte statt Gl\u00fchwein",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-12/hibiskus-sternanis-punsch-rezept",
+        "content": "Punsch ist was f\u00fcr Kinder? Von wegen. Wer ein alkoholfreies Gegenst\u00fcck zum Gl\u00fchwein sucht, wird in dieser w\u00e4rmendem Mischung aus Hibiskus, Sternanis und Zimt f\u00fcndig.",
+        "ranked": 12,
+        "epoch": 1638457206.6083026
+    },
+    {
+        "title": "Wehe, der Akku ist nicht versichert",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/mobilitaet/2021-12/e-auto-versicherung-batterie-elektromobilitaet-faq",
+        "content": "Grunds\u00e4tzlich brauchen E-Autos dieselben Versicherungen wie Verbrenner. Oft sind sie sogar g\u00fcnstiger. Doch im Detail kann man viel falsch machen.",
+        "ranked": 13,
+        "epoch": 1638457206.608303
+    },
+    {
+        "title": "Sebastian Kurz erkl\u00e4rt seinen R\u00fcckzug aus der Politik",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/livestream-sebastian-kurz-oesterreich-rueckzug-politik",
+        "content": "\u00d6sterreichs Ex-Bundeskanzler Sebastian Kurz will alle politischen \u00c4mter niederlegen. Zu seinen Beweggr\u00fcnden spricht er jetzt im Livestream.",
+        "ranked": 14,
+        "epoch": 1638457206.6083035
+    },
+    {
+        "title": "Zahl der Neuinfektionen in S\u00fcdafrika verdoppelt sich",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-12/omikron-variante-suedafrika-corona-neuinfektionen",
+        "content": "In S\u00fcdafrika steigen die Corona-Infektionszahlen stark an \u2013 zuletzt haben sie sich sogar innerhalb eines Tages verdoppelt.",
+        "ranked": 15,
+        "epoch": 1638457206.608304
+    },
+    {
+        "title": "Wie sich der E-Auto-Boom in Hamburg selbst blockiert",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-12/elbvertiefung-02-12-2021",
+        "content": "Hotellerie blickt besorgt auf Winter, Opposition kritisiert Impfkampagne des Senats, Corona-Inzidenz steigt auf 248,3, Warum sich junge Menschen \u00fcber Corona streiten.",
+        "ranked": 16,
+        "epoch": 1638457206.6083047
+    },
+    {
+        "title": "Grenzbeamte sollen Frontex-Dolmetscher illegal abgeschoben haben",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/griechenland-frontex-dolmetscher-abschiebung-tuerkei",
+        "content": "Ein \u00dcbersetzer, der f\u00fcr Frontex arbeitet, gibt an, von griechischen Beamten in die T\u00fcrkei gebracht worden zu sein. Die EU-Kommission will den Vorfall untersuchen.",
+        "ranked": 17,
+        "epoch": 1638457206.6083055
+    },
+    {
+        "title": "USA verursachen den meisten Plastikm\u00fcll",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-12/plastikmuell-usa-umweltverschmutzung-studie",
+        "content": "Jeder US-B\u00fcrger erzeugt laut einer Studie 130 Kilo Plastikm\u00fcll pro Jahr. Weltweit werden j\u00e4hrlich \u00fcber 380 Millionen Tonnen Kunststoff produziert, ein Teil endet im Meer.",
+        "ranked": 18,
+        "epoch": 1638457206.6083093
+    },
+    {
+        "title": "Sebastian Kurz zieht sich aus der Politik zur\u00fcck",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/oesterreich-sebastian-kurz-zieht-sich-aus-der-politik-zurueck",
+        "content": "Zwei Monate nach seinem R\u00fccktritt als Kanzler gibt Sebastian Kurz auch seine Partei\u00e4mter ab. Als Gr\u00fcnde nennt er sein Kind und eine nachlassende Begeisterung f\u00fcr Politik.",
+        "ranked": 19,
+        "epoch": 1638457206.60831
+    }
+]
