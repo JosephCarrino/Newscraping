@@ -1,0 +1,202 @@
+[
+    {
+        "title": "\"Wellenbrecher, da kann man ja mal weiter drauf rumdenken!\"",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-12/wort-des-jahres-wellenbrecher",
+        "content": "Wort des Jahres, Unwort des Jahres, Jugendwort des Jahres \u2013 nach der Verk\u00fcndung fragen sich traditionell die Feuilletons: Und was sagt das jetzt \u00fcber unsere Gesellschaft?",
+        "ranked": 0,
+        "epoch": 1638554406.3765733
+    },
+    {
+        "title": "Mehr als 14.000 Besch\u00e4ftigte beteiligen sich an Warnstreiks bei Airbus",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-12/ig-metall-airbus-warnstreik",
+        "content": "Airbus will Teile einer Zuliefertochter verkaufen und die Fertigung gro\u00dfer Flugzeugteile auslagern. Aus Protest gegen die Pl\u00e4ne blieben Tausende Arbeiter zu Hause.",
+        "ranked": 1,
+        "epoch": 1638554406.3765757
+    },
+    {
+        "title": "Ein bisschen General, ein bisschen Sekret\u00e4r",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/kevin-kuehnert-spd-generalsekretaer-nachrichtenpodcast",
+        "content": "Kevin K\u00fchnert soll Generalsekret\u00e4r der SPD werden. Eine gute Wahl? Au\u00dferdem im Update: Bricht die vierte Welle schon?",
+        "ranked": 2,
+        "epoch": 1638554406.3765767
+    },
+    {
+        "title": "Tote bei mutma\u00dflichem IS-Angriff im Nordirak",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/irak-is-angriff-tote-zivilisten-peschmerga",
+        "content": "Offenbar sind bei einem Angriff des IS im Irak mehrere Menschen get\u00f6tet worden. Darunter sind K\u00e4mpfer und Zivilisten. Die genauen Umst\u00e4nde sind unklar.",
+        "ranked": 3,
+        "epoch": 1638554406.3765774
+    },
+    {
+        "title": "Alles ein bisschen dichtmachen",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-12/corona-regeln-kultureinrichtungen-bund-laender-treffen-beschluesse",
+        "content": "Die neuen Corona-Ma\u00dfnahmen in der Kultur treffen vor allem Clubs. Es gibt aber mehr Spielr\u00e4ume als im vergangenen Winter. Wie sch\u00e4tzen Kulturvertreter die Regeln ein?",
+        "ranked": 4,
+        "epoch": 1638554406.376578
+    },
+    {
+        "title": "Haaland, Lewandowski oder Omikron?",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/bundesliga-vorschau-borussia-dortmund-fc-bayern-muenchen-spieltag-14",
+        "content": "Mitten in der vierten Emp\u00f6rungswelle kommt es in der Bundesliga zum Spitzenspiel: Dortmund gegen Bayern. Zudem im Gespr\u00e4ch: Homeoffice-Cheftrainer und Geisterspiele",
+        "ranked": 5,
+        "epoch": 1638554406.3765788
+    },
+    {
+        "title": "Das gebrochene Aufstiegsversprechen",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-12/mittelschicht-aufstieg-bildung-einkommen",
+        "content": "In keinem Industrieland ist die Mittelschicht so stark geschrumpft wie in Deutschland. Die Corona-Pandemie wird das Problem der sozialen Polarisierung weiter versch\u00e4rfen.",
+        "ranked": 6,
+        "epoch": 1638554406.3765793
+    },
+    {
+        "title": "SPD-Spitze schl\u00e4gt Kevin K\u00fchnert als neuen Generalsekret\u00e4r vor",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/kevin-kuehnert-spd-generalsekretaer-2",
+        "content": "Pr\u00e4sidium und Vorstand nominieren den fr\u00fcheren Juso-Chef Kevin K\u00fchnert f\u00fcr den Posten des SPD-Generalsekret\u00e4rs. Auf dem Parteitag in einer Woche soll er gew\u00e4hlt werden.",
+        "ranked": 7,
+        "epoch": 1638554406.37658
+    },
+    {
+        "title": "Bund registriert weniger illegale Einreisen aus Richtung Belarus",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/belarus-eu-migration-rueckgang",
+        "content": "An der deutsch-polnischen Grenze gab es im November knapp 3.000 unerlaubte Einreisen aus Belarus. Das Bundesinnenministerium spricht von einer \"deutlichen Entspannung\".",
+        "ranked": 8,
+        "epoch": 1638554406.3765807
+    },
+    {
+        "title": "Frankreich schlie\u00dft mit den Emiraten Milliardendeal bei Kampfjetkauf",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-12/vereinigte-arabische-emirate-frankreich-ruestungsdeal",
+        "content": "Die Vereinigten Arabischen Emirate kaufen f\u00fcr \u00fcber 17 Milliarden Euro Kriegsger\u00e4t in Frankreich. Franz\u00f6sische Waffen tauchten zuletzt im B\u00fcrgerkrieg in Jemen auf.",
+        "ranked": 9,
+        "epoch": 1638554406.3765817
+    },
+    {
+        "title": "Innenminister wollen mehr gegen LSBTI-feindliche Angriffe tun",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/homophobie-transphobie-innenminister-justiz-strafen",
+        "content": "Die L\u00e4nder wollen lesbische, schwule, bisexuelle, trans- und intergeschlechtliche Menschen besser vor Gewalt sch\u00fctzen. Die Polizei soll f\u00fcr das Thema sensibler werden.",
+        "ranked": 10,
+        "epoch": 1638554406.3765821
+    },
+    {
+        "title": "\"Nur so ist bei uns eine faire Entlohnung m\u00f6glich\"",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-12/sternekoch-silvio-pfeufer-einsunternull-spitzengastronomie-arbeitsbedinungen",
+        "content": "Die Gastronomie ist bekannt f\u00fcr schlechte Arbeitsbedingungen. K\u00f6nnte sie mit der Viertagewoche zum Vorreiter werden? Gespr\u00e4ch mit einem K\u00fcchenchef, der es ausprobiert",
+        "ranked": 11,
+        "epoch": 1638554406.3765829
+    },
+    {
+        "title": "\"90 Prozent geben an, dass ihnen ungefragt in die Haare gefasst wird\"",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zett/politik/2021-12/afrozensus-rassismus-befragung-eoto",
+        "content": "Der Afrozensus befragte Tausende Schwarze Menschen zu ihrem Leben in Deutschland. Das Ausma\u00df des erlebten Rassismus \u00fcberraschte selbst die Autor:innen des Berichts.",
+        "ranked": 12,
+        "epoch": 1638554406.3765833
+    },
+    {
+        "title": "Deutsche Welle stellt Mitarbeiter nach Antisemitismusvorw\u00fcrfen frei",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-12/auslandssender-deutsche-welle-antisemitismus-untersuchung",
+        "content": "Mehreren DW-Mitarbeitern werden antisemitische \u00c4u\u00dferungen in sozialen Netzwerken vorgeworfen. Zwei prominente Experten untersuchen nun die F\u00e4lle.",
+        "ranked": 13,
+        "epoch": 1638554406.376584
+    },
+    {
+        "title": "Fu\u00dfballweltmeister Horst Eckel gestorben",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/horst-eckel-tot-dfb-wm-1954",
+        "content": "Das \"Wunder von Bern\" erlebte Horst Eckel als j\u00fcngster Spieler der deutschen Mannschaft. Nun ist der letzte Weltmeister von 1954 im Alter von 89 Jahren gestorben.",
+        "ranked": 14,
+        "epoch": 1638554406.3765845
+    },
+    {
+        "title": "\"Da macht der Stalker die T\u00fcr zu und lacht sich kaputt\"",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/campus/2021-12/stalking-deutschland-rechtslage-rechtsanwalt-psychoterror",
+        "content": "Volkmar von Pechstaedt vertritt als Anwalt seit 20 Jahren Stalkingopfer vor Gericht. Das Stalking nimmt immer absurdere Formen an, aber in der Justiz \u00e4ndert sich wenig.",
+        "ranked": 15,
+        "epoch": 1638554406.3765852
+    },
+    {
+        "title": "Forscher bescheinigen Behindertenhilfe akuten Fachkr\u00e4ftemangel",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-11/pflegenotstand-behindertenhilfe-fachkraeftemangel-arbeitssituation-pflegekraefte",
+        "content": "Es fehlen Pflegekr\u00e4fte, Sozialarbeiter, Heilerziehungspfleger, \u00dcberstunden sind an der Tagesordnung: Eine Studie zeigt, woran es in der Behindertenhilfe mangelt.",
+        "ranked": 16,
+        "epoch": 1638554406.3765857
+    },
+    {
+        "title": "Sieger gesucht",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/schach-wm-live-magnus-carlsen-jan-nepomnjaschtschi-partie-6",
+        "content": "F\u00fcnf Runden zwischen Magnus Carlsen und Jan Nepomnjaschtschi brachten f\u00fcnf Remis. Wird es diesmal anders? Verfolgen Sie die sechste Partie der Schach-WM im Livestream.",
+        "ranked": 17,
+        "epoch": 1638554406.3765862
+    },
+    {
+        "title": "Inflation in der T\u00fcrkei auf h\u00f6chstem Stand seit drei Jahren",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-12/tuerkei-inflation-waehrungskrise-preissteigerung",
+        "content": "Viele Menschen in der T\u00fcrkei haben mit steigenden Preisen zu k\u00e4mpfen. Im November stieg die Inflation auf 21 Prozent. Die Zentralbank griff erneut in den Lira-Kurs ein.",
+        "ranked": 18,
+        "epoch": 1638554406.376587
+    },
+    {
+        "title": "Wie kriegen wir mehr Menschlichkeit ins deutsche Gesundheitssystem?",
+        "date_raw": "December 03, 2021",
+        "date": "2021-12-03",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/gesundheitswesen-krankenhaeuser-pflegekraefte-ueberlastung-politikpodcast",
+        "content": "Ersch\u00f6pftes Pflegepersonal, \u00dcbertherapie, zu wenig Zeit f\u00fcr die Patienten: Nicht erst seit Corona sind deutsche Krankenh\u00e4user am Limit. Was die Politik jetzt tun muss.",
+        "ranked": 19,
+        "epoch": 1638554406.3765905
+    }
+]

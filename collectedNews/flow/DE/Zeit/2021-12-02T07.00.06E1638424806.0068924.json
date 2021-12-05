@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Impf, zwo, drei, vier",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/corona-krisenstab-carsten-breuer-impfung-nachrichtenpodcast",
+        "content": "Generalmajor Carsten Breuer soll die Impfkampagne beschleunigen. Ist das mehr als Symbolpolitik? Au\u00dferdem im Nachrichtenpodcast: Wie nachhaltig sind Gas und Atomkraft?",
+        "ranked": 0,
+        "epoch": 1638424806.0068398
+    },
+    {
+        "title": "Kontaktbeschr\u00e4nkungen, CDU-Triell, Sneakerjagd",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-12/kontaktbeschraenkungen-cdu-sneakerjagd-2021-12-02",
+        "content": "Bund und L\u00e4nder planen Einschr\u00e4nkungen f\u00fcr Ungeimpfte, der Kampf um den CDU-Vorsitz geht weiter und Angela Merkel wird verabschiedet. Der Morgen\u00fcberblick",
+        "ranked": 1,
+        "epoch": 1638424806.0068421
+    },
+    {
+        "title": "Nutze den Schock",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/geldanlage/2021-12/boerse-omikron-schock-investieren-krisen",
+        "content": "Seit Wochen schwanken die Aktienkurse extrem \u2013 und nun l\u00e4sst Omikron sie auch noch einbrechen. Jetzt hei\u00dft es cool bleiben. Und am besten g\u00fcnstig einsteigen.",
+        "ranked": 2,
+        "epoch": 1638424806.0068433
+    },
+    {
+        "title": "Wo der Bus nur dreimal am Tag f\u00e4hrt",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/mobilitaet/2021-12/oeffentliche-verkehrsmittel-deutschland-fahrplan-auswertung",
+        "content": "Millionen Menschen in Deutschland sind kaum an \u00f6ffentliche Verkehrsmittel angebunden. Eine Fahrplanauswertung zeigt, wie Ihre Region im Vergleich dasteht.",
+        "ranked": 3,
+        "epoch": 1638424806.0068445
+    },
+    {
+        "title": "Mathelehrer",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kaenguru-comics/2021-12/folge-291",
+        "content": "Der K\u00e4nguru-Comic vom 2. Dezember 2021",
+        "ranked": 4,
+        "epoch": 1638424806.0068452
+    },
+    {
+        "title": "Recep Tayyip Erdo\u011fan tauscht erneut Finanzminister aus",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/lira-kurseinbruch-tuerkei-finanzminister-recep-tayyip-erdogan",
+        "content": "Die t\u00fcrkische Lira sinkt, weil der Pr\u00e4sident sich in die Geldpolitik der Notenbank eingemischt hat. Als Konsequenz muss sein Minister gehen.",
+        "ranked": 5,
+        "epoch": 1638424806.0068462
+    },
+    {
+        "title": "Alec Baldwin will Waffe auf Kamerafrau nicht abgefeuert haben",
+        "date_raw": "December 02, 2021",
+        "date": "2021-12-02",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-12/dreharbeiten-usa-alec-baldwin-schuss-halyna-hutchins-interview",
+        "content": "Wochen nach dem t\u00f6dlichen Schuss auf Halyna Hutchins an einem Filmset bestreitet der Schauspieler das Abfeuern des Revolvers. Ob Anklage erhoben wird, ist noch unklar.",
+        "ranked": 6,
+        "epoch": 1638424806.006847
+    },
+    {
+        "title": "WTA verzichtet nach Peng Shuais Verschwinden auf Turniere in China",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/wta-tennis-china-peng-shuai-vermisst-turniere",
+        "content": "Nach Vergewaltigungsvorw\u00fcrfen gegen einen Funktion\u00e4r sei die Profispielerin unter Druck gesetzt worden, schreibt der Verband. Peng ist inzwischen wieder aufgetaucht.",
+        "ranked": 7,
+        "epoch": 1638424806.0068479
+    },
+    {
+        "title": "Die Bilderbuchwahl",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/cdu-vorsitz-townhall-wahlkampf-friedrich-merz-norbert-roettgen-helge-braun",
+        "content": "Norbert R\u00f6ttgen ist im TV-Dreikampf um die CDU-Spitze in Form, Friedrich Merz kommt gut rein und Helge Braun wird \u00fcbersehen. Dann wird das Gesprochene zur Nebensache.",
+        "ranked": 8,
+        "epoch": 1638424806.0068486
+    },
+    {
+        "title": "Sieben-Tage-Inzidenz zum dritten Mal in Folge leicht gesunken",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-12/coronavirus-neuinfektionen-gesundheitsaemter-rki-inzidenz-ansteckungen-rueckgang",
+        "content": "73.209 Menschen haben sich laut dem RKI am Mittwoch neu infiziert, etwas weniger als eine Woche zuvor. Auch die Inzidenz sinkt leicht: auf 439,2.",
+        "ranked": 9,
+        "epoch": 1638424806.0068493
+    },
+    {
+        "title": "Bund und L\u00e4nder planen strenge Kontaktbeschr\u00e4nkungen f\u00fcr Ungeimpfte",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/mpk-bund-laender-kanzleramt-corona-massnahmen",
+        "content": "Im Kampf gegen die vierte Welle wollen Bund und L\u00e4nder die Corona-Regeln weiter versch\u00e4rfen. Im Einzelhandel soll grunds\u00e4tzlich und bundesweit die 2G-Regel gelten.",
+        "ranked": 10,
+        "epoch": 1638424806.00685
+    },
+    {
+        "title": "Die Entnazifizierung als Farce",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/literatur/2021-11/deutscher-herbst-stig-dagerman-nachwort",
+        "content": "Im Jahr 1946 reiste der junge schwedische Schriftsteller Stig Dagerman ins zerst\u00f6rte Deutschland. Seine pr\u00e4zisen, sarkastischen Reportagen kann man nun wiederentdecken.",
+        "ranked": 11,
+        "epoch": 1638424806.006851
+    },
+    {
+        "title": "Gute Eltern sind schlechte Freunde",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/leben/2021-11/freundschaft-trotz-kind-eltern-soziale-beziehungen",
+        "content": "Ein Kind \u00e4ndert alles, auch in Freundschaften. F\u00fcr Menschen ohne Kinder werden Eltern oft zur Zumutung. Dabei sind die alten Freundschaften so wichtig f\u00fcr das neue Leben.",
+        "ranked": 12,
+        "epoch": 1638424806.0068517
+    },
+    {
+        "title": "Proteste vor Anh\u00f6rung zum Recht auf Schwangerschaftsabbr\u00fcche",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/us-supreme-court-usa-abtreibungsrecht-justiz",
+        "content": "Die Entscheidung des Supreme Court k\u00f6nnte noch strengere Gesetze in konservativen Staaten zur Folge haben. Hunderte demonstrieren vor dem Gericht \u2013 daf\u00fcr und dagegen.",
+        "ranked": 13,
+        "epoch": 1638424806.0068524
+    },
+    {
+        "title": "Auch die f\u00fcnfte Partie in Dubai ohne Sieger",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/schach-wm-dubai-remis-fuenf-partie",
+        "content": "F\u00fcnftes Remis im f\u00fcnften Spiel. Doch immerhin verbuchte der russische Herausforderer Jan Nepomnjaschtschi einen Teilerfolg gegen Magnus Carlsen.",
+        "ranked": 14,
+        "epoch": 1638424806.0068529
+    },
+    {
+        "title": "Runter von der Resterampe",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-12/hiv-afrika-epidemie-welt-aids-tag",
+        "content": "In vielen afrikanischen L\u00e4ndern sind zu wenige Menschen gegen Corona geimpft. Es wiederholen sich Fehler, die schon im Kampf gegen HIV unz\u00e4hlige Leben gekostet haben.",
+        "ranked": 15,
+        "epoch": 1638424806.0068533
+    },
+    {
+        "title": "Kampf gegen Covid im Tarnanzug",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-11/francesco-paolo-figliuolo-general-italien-corona-impfung",
+        "content": "In Deutschland soll ein Milit\u00e4r den Corona-Krisenstab leiten. Mit Italien als Vorbild? Dort organisiert ein General die nationale Impfkampagne \u2013 und das erfolgreich.",
+        "ranked": 16,
+        "epoch": 1638424806.006854
+    },
+    {
+        "title": "Mehr Autorit\u00e4t wagen",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/corona-politik-ungeimpfte-staat-autoritaet",
+        "content": "Der Staat l\u00e4sst sich von Ungeimpften vor sich hertreiben. Das hat die deutsche Politik nicht n\u00f6tig. Es ist Zeit f\u00fcr eine Politik der Mehrheiten.",
+        "ranked": 17,
+        "epoch": 1638424806.006855
+    },
+    {
+        "title": "\"Es gibt Patienten, die k\u00f6nnen wir nicht mehr transportieren\"",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-11/corona-patienten-bundeswehr-martin-kulla",
+        "content": "Der Bundeswehr-Arzt Martin Kulla begleitet Corona-Intensivpatienten, wenn sie per Flugzeug verlegt werden. Er erkl\u00e4rt, wie die Fl\u00fcge ablaufen und wann es riskant wird.",
+        "ranked": 18,
+        "epoch": 1638424806.0068607
+    },
+    {
+        "title": "Mehr als 1.800 Festnahmen bei Eins\u00e4tzen gegen Geldw\u00e4sche",
+        "date_raw": "December 01, 2021",
+        "date": "2021-12-01",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-12/europol-geldwaesche-razzia-festnahmen-finanzkriminalitaet",
+        "content": "Sogenannte \"Geldesel\" waschen f\u00fcr Kriminelle Geld \u00fcber ihre privaten Konten. In einer mehrmonatigen Gro\u00dfrazzia konnte Europol nun in 27 L\u00e4ndern Verd\u00e4chtige festnehmen.",
+        "ranked": 19,
+        "epoch": 1638424806.0068617
+    }
+]
