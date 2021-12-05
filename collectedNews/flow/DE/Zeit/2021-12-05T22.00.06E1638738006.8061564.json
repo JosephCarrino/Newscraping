@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Dieses Vergangenheitsgew\u00fchle ist ja genau meins",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-12/polizeiruf-110-swiecko-hermann-obduktionsbericht",
+        "content": "Der deutsch-polnische \"Polizeiruf\" erz\u00e4hlt eine konventionelle Kriminalgeschichte. Am meisten \u00fcberzeugt er durch sein Ermittlerduo, das sich angenehm zur\u00fccknimmt.",
+        "ranked": 0,
+        "epoch": 1638738006.806107
+    },
+    {
+        "title": "Deutsche Welle setzt Kooperation mit jordanischem Sender aus",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-12/auslandssender-deutsche-welle-roya-tv-antisemitismus-vorwuerfe",
+        "content": "Roya TV hat deutschen Medienberichten zufolge antisemitische und antiisraelische Beitr\u00e4ge geteilt. Die Deutsche Welle \u00fcberpr\u00fcft die Zusammenarbeit mit dem Sender.",
+        "ranked": 1,
+        "epoch": 1638738006.8061097
+    },
+    {
+        "title": "Gesundheits\u00e4mter melden leicht sinkende Infektionszahlen",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-12/coronavirus-rki-neuinfektionen",
+        "content": "Mit 36.671 neuen F\u00e4llen ist die Zahl der t\u00e4glichen Ansteckungen im Vergleich zur Vorwoche zur\u00fcckgegangen. Auch die Zahl der Todesf\u00e4lle ist leicht gesunken.",
+        "ranked": 2,
+        "epoch": 1638738006.8061109
+    },
+    {
+        "title": "Die Werte, die uns wichtig sind",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-12/inflation-geldentwertung-preissteigerung-vermoegenswerte-konsumgueter",
+        "content": "Die hohe Inflation verunsichert viele. Was aber hat noch welchen Wert? Aktien, Immobilien, Computercodes \u00fcbersteigen alles Gekannte und etwas ger\u00e4t aus dem Gleichgewicht.",
+        "ranked": 3,
+        "epoch": 1638738006.8061118
+    },
+    {
+        "title": "Nur 22",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/campus/2021-11/kindheitsfreunde-freundschaft-todesfall-abschied",
+        "content": "Ein junger Mann stirbt, zur\u00fcck bleiben auch seine Freunde. Die trauern anders als die Familie. Eine Freundin m\u00f6chte ihm f\u00fcnf Jahre nach seinem Tod noch etwas sagen.",
+        "ranked": 4,
+        "epoch": 1638738006.8061125
+    },
+    {
+        "title": "Sommergetr\u00e4nk im Wintermantel",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-12/heisser-aperol-mandarine-rezept",
+        "content": "Aperol geh\u00f6rt in den Sommer? Nicht, wenn man ihn jahreszeitengerecht serviert. Im Winter nat\u00fcrlich ohne Eisw\u00fcrfel, daf\u00fcr mit Rosmarin und doppelter Mandarinendosis.",
+        "ranked": 5,
+        "epoch": 1638738006.8061135
+    },
+    {
+        "title": "Carlsen knackt Nepo",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/schach-wm-partie-8-magnus-carlsen-sieg-jan-nepomnjaschtschi",
+        "content": "Herausforderer Jan Nepomnjaschtschi verliert durch einen klaren Fehler die zweite Partie innerhalb von zwei Tagen. Magnus Carlsen dominiert die Schach-Weltmeisterschaft.",
+        "ranked": 6,
+        "epoch": 1638738006.8061142
+    },
+    {
+        "title": "\"\u00dcberquert man diese Grenze, kann man nicht in unser Universum zur\u00fcck\"",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-11/luciano-rezzolla-schwerkraft-schwarze-loecher-astrophysik",
+        "content": "Was passiert in einem Schwarzen Loch? Ist es der Schl\u00fcssel zu allem? Der Physiker Luciano Rezzolla erkl\u00e4rt, was Menschen wissen k\u00f6nnen und wo die Vorstellungskraft endet.",
+        "ranked": 7,
+        "epoch": 1638738006.806115
+    },
+    {
+        "title": "Ruhe jetzt!",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/games/2021-12/videospiele-eskapismus-realitaetsflucht-gaming-xbox-playstation",
+        "content": "Man bestellt kein Feld, besiegt nicht das B\u00f6se: Eskapistische Videospiele zelebrieren die Unproduktivit\u00e4t. F\u00fcnf Games, mit denen man herrlich der Realit\u00e4t entfliehen kann",
+        "ranked": 8,
+        "epoch": 1638738006.8061156
+    },
+    {
+        "title": "Was berauscht Sie?",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-12/drogenumfrage-drogenkonsum-erfahrung-leseraufruf",
+        "content": "Wie und wann nehmen Sie Drogen und hatten Sie schon mal Sex auf LSD? Sagen Sie es uns, nat\u00fcrlich anonym. ZEIT ONLINE ruft auf zur gr\u00f6\u00dften Onlinedrogenumfrage der Welt.",
+        "ranked": 9,
+        "epoch": 1638738006.8061166
+    },
+    {
+        "title": "Wird schon alles, irgendwie",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/leben/2021-12/corona-politik-naivitaet-optimismus-corona-zukunft",
+        "content": "Es ist menschlich, kommenden Schaden zu untersch\u00e4tzen. Muss man die Zukunftsgutgl\u00e4ubigkeit der Politik \u2013 und unsere eigene \u2013 vielleicht auch ein bisschen lieb haben?",
+        "ranked": 10,
+        "epoch": 1638738006.806117
+    },
+    {
+        "title": "Eltern des Sch\u00fctzen von Michigan pl\u00e4dieren auf nicht schuldig",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/schule/2021-12/amoklauf-michigan-usa-eltern-unschuld",
+        "content": "Die Staatsanwaltschaft in den USA klagt gegen die Eltern des 15-j\u00e4hrigen Todessch\u00fctzen. Sie sollen Warnungen ignoriert haben und mitverantwortlich f\u00fcr die Tat sein.",
+        "ranked": 11,
+        "epoch": 1638738006.8061178
+    },
+    {
+        "title": "Flexibel f\u00fcr die neue Realit\u00e4t",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/fdp-parteitag-liberalismus-pragmatismus-pandemiepolitik",
+        "content": "Die FDP hat es endlich in die Regierung geschafft \u2013 und steckt schon mitten im n\u00e4chsten Umbruch, wie ihr Parteitag zeigt. Nicht nur wegen der Impfpflichtdebatte.",
+        "ranked": 12,
+        "epoch": 1638738006.8061185
+    },
+    {
+        "title": "Papst kritisiert Fl\u00fcchtlingssituation als Schiffbruch der Zivilisation",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-12/papst-franziskus-fluechtlingslager-lesbos-griechenland",
+        "content": "Papst Franziskus hat zwei Fl\u00fcchtlingslager auf der Insel Lesbos besucht. Er warf Europa vor, dass einige hier die Angelegenheit behandelten, als sei man nicht betroffen.",
+        "ranked": 13,
+        "epoch": 1638738006.8061192
+    },
+    {
+        "title": "FDP stimmt f\u00fcr B\u00fcndnis mit SPD und Gr\u00fcnen",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/ampel-koalition-fdp-stimmt-fuer-buendnis-mit-spd-und-gruenen",
+        "content": "Der au\u00dferordentliche FDP-Bundesparteitag hat dem Koalitionsvertrag zugestimmt. Dieses Land werde von der Koalition profitieren, sagte Parteichef Christian Lindner.",
+        "ranked": 14,
+        "epoch": 1638738006.80612
+    },
+    {
+        "title": "Die B\u00fccher zum Fest",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/literatur/2021-12/literatur-buch-empfehlungen-weihnachten-zeit-mitarbeiter",
+        "content": "Leichtes, Schweres, Sch\u00f6nes, Politisches und Wiederentdecktes: Mitarbeiter und Mitarbeiterinnen von ZEIT und ZEIT ONLINE empfehlen ihre Favoriten zu Weihnachten.",
+        "ranked": 15,
+        "epoch": 1638738006.8061204
+    },
+    {
+        "title": "SPD in Berlin stimmt rot-rot-gr\u00fcnem Koalitionsvertrag zu",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/spd-koalitionsvertrag-zustimmung-senat-berlin",
+        "content": "Als erste der drei Parteien hat die SPD mit gro\u00dfer Mehrheit f\u00fcr das B\u00fcndnis mit Gr\u00fcnen und Linken gestimmt. Gehakt hatte es in den Gespr\u00e4chen besonders in einer Frage.",
+        "ranked": 16,
+        "epoch": 1638738006.806121
+    },
+    {
+        "title": "Er stach heraus",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-12/mirco-nontschew-komiker-comedian-nachruf",
+        "content": "Allein sein Gesicht war ein halbes Comedyprogramm, dann kam der Rest des K\u00f6rpers hinzu. Mirco Nontschew unterhielt wie niemand sonst in Deutschland. Ein Nachruf",
+        "ranked": 17,
+        "epoch": 1638738006.806122
+    },
+    {
+        "title": "Live: das Duell Carlsen gegen Nepomnjaschtschi",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/schach-wm-live-magnus-carlsen-jan-nepomniaschtschi",
+        "content": "Der Weltmeister aus Norwegen f\u00fchrt, doch der russische Herausforderer hat noch viele Chancen. Verfolgen Sie die achte Partie der Schach-WM in Dubai live.",
+        "ranked": 18,
+        "epoch": 1638738006.8061225
+    },
+    {
+        "title": "Das Chaos von Gr\u00fcnheide",
+        "date_raw": "December 05, 2021",
+        "date": "2021-12-05",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-12/tesla-gigafactory-gruenheide-naturschutz",
+        "content": "Noch dieses Jahr sollte die Teslaproduktion in Brandenburg starten, die Genehmigung wird in K\u00fcrze erwartet. Doch ob Autos bald in Serie gefertigt werden, ist ungewiss.",
+        "ranked": 19,
+        "epoch": 1638738006.806127
+    }
+]
