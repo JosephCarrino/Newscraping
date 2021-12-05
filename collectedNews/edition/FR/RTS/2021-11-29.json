@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/face-a-la-menace-du-nouveau-variant-omicron-plusieurs-pays-veulent-refermer-leurs-frontieres-25782381.html",
         "duration": "01:35",
         "ranked": 0,
-        "epoch": 1638655210.0473487
+        "epoch": 1638741608.7946606
     },
     {
         "title": "La Suisse durcit les conditions d'entrée pour les voyageurs en provenance de nombreux pays",
@@ -17,7 +17,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-suisse-durcit-les-conditions-d-entree-pour-les-voyageurs-en-provenance-de-nombreux-pays-25782393.html",
         "duration": "01:25",
         "ranked": 1,
-        "epoch": 1638655210.0473516
+        "epoch": 1638741608.7946684
     },
     {
         "title": "L’OMS réunie à Genève veut lancer la rédaction d'un traité sur les pandémies",
@@ -27,7 +27,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-oms-reunie-a-geneve-veut-lancer-la-redaction-d-un-traite-sur-les-pandemies-25782387.html",
         "duration": "01:18",
         "ranked": 2,
-        "epoch": 1638655210.0473528
+        "epoch": 1638741608.7946699
     },
     {
         "title": "Le contournement de La Chaux-de-Fonds accepté dans les urnes, mais des oppositions subsistent",
@@ -37,7 +37,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-contournement-de-la-chaux-de-fonds-accepte-dans-les-urnes-mais-des-oppositions-subsistent-25782396.html",
         "duration": "01:57",
         "ranked": 3,
-        "epoch": 1638655210.0473537
+        "epoch": 1638741608.7946708
     },
     {
         "title": "Par rapport à juin, 10% de plus de Suisses et Suissesses ont dit oui à la loi Covid: interview de Sean Müller",
@@ -47,7 +47,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/par-rapport-a-juin-10-de-plus-de-suisses-et-suissesses-ont-dit-oui-a-la-loi-covid-interview-de-sean-muller-25782383.html",
         "duration": "03:43",
         "ranked": 4,
-        "epoch": 1638655210.0473547
+        "epoch": 1638741608.7946715
     },
     {
         "title": "La socialiste Lise-Marie Graden, première préfète dans le canton de Fribourg",
@@ -57,7 +57,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-socialiste-lise-marie-graden-premiere-prefete-dans-le-canton-de-fribourg-25782386.html",
         "duration": "01:43",
         "ranked": 5,
-        "epoch": 1638655210.0473557
+        "epoch": 1638741608.7946727
     },
     {
         "title": "Irène Kälin accède au perchoir du Conseil national à 34 ans",
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/irene-kalin-accede-au-perchoir-du-conseil-national-a-34-ans-25782392.html",
         "duration": "02:16",
         "ranked": 6,
-        "epoch": 1638655210.0473564
+        "epoch": 1638741608.7946734
     },
     {
         "title": "La CGN tire un bilan mitigé de son premier semestre d'activité en 2021",
@@ -77,7 +77,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/la-cgn-tire-un-bilan-mitige-de-son-premier-semestre-d-activite-en-2021-25782395.html",
         "duration": "01:31",
         "ranked": 7,
-        "epoch": 1638655210.047357
+        "epoch": 1638741608.7946742
     },
     {
         "title": "Le Parlement indien retire deux lois agricoles controversées",
@@ -87,7 +87,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/le-parlement-indien-retire-deux-lois-agricoles-controversees-25782389.html",
         "duration": "01:47",
         "ranked": 8,
-        "epoch": 1638655210.0473583
+        "epoch": 1638741608.7946749
     },
     {
         "title": "L’invité du 12h30 - Adrien Romedenne présente son livre de cartes postales \"Une journée à Lausanne\"",
@@ -97,6 +97,6 @@
         "news_url": "https://www.rts.ch/audio-podcast/2021/audio/l-invite-du-12h30-adrien-romedenne-presente-son-livre-de-cartes-postales-une-journee-a-lausanne-25782400.html",
         "duration": "09:55",
         "ranked": 9,
-        "epoch": 1638655210.047359
+        "epoch": 1638741608.794676
     }
 ]
