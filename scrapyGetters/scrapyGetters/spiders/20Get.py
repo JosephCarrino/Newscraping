@@ -6,6 +6,11 @@ import time
 import os
 import json
 import re
+from scrapy.crawler import CrawlerProcess
+import vcr
+from urllib.request import urlopen
+
+test_dir = ""
 
 #sort i've found o StackOverflow, if I didn't use this I couldn't find the "last saved news" below
 #credits to Mark Byers
@@ -84,6 +89,28 @@ class A20getSpider(scrapy.Spider):
                 f.write("\n")
                 f.close()
                 #j+=1
-                
-            
+                global testdir
+                testdir = "../../../collectedNews/edition/DE/Tagesschau/" + str(scraped_info['date']) + ".json"
+
+         
+if __name__ == "__main__":
+    process = CrawlerProcess({
+        'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)', 
+    })
+
+    process.crawl(A20getSpider)
+    process.start() 
+    f = open(testdir)
+    response = json.load(f)
+    f.close()
+    with vcr.use_cassette('fixtures/vcr_cassettes/Tagesschau.yaml'):
+        myres = urlopen("https://www.tagesschau.de/multimedia/video/videoarchiv2.html").read()
+        if len(myres) > 0:
+            assert 0 < len(response)  
+            assert response[0]['title'] is not None 
+            for thisresp in response:  
+                assert str.encode(thisresp['title']) in myres  
+                assert thisresp['url_news'] is not None
+                #curr_url = urlopen(thisresp['url_news']).read()
+                #assert str.encode(thisresp['title']) in curr_url
             
