@@ -1,0 +1,202 @@
+[
+    {
+        "title": "RB Leipzig schl\u00e4gt Manchester City",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/champions-league-rb-leipzig-borussia-dortmund-spielberichte",
+        "content": "Durch einen \u00fcberraschenden 2:1-Sieg gegen Manchester City bleibt RB Leipzig im internationalen Wettbewerb. Die Partie fand vor leeren R\u00e4ngen statt. Der Spielbericht",
+        "ranked": 0,
+        "epoch": 1638910805.66833
+    },
+    {
+        "title": "Zuzutrauen ist ihm alles",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/wladimir-putin-joe-biden-ukraine-videogipfel",
+        "content": "Wladimir Putin hat sich mit seinen Truppen an der ukrainischen Grenze rabiat wieder ins Gespr\u00e4ch gebracht. Sein Videogipfel mit Joe Biden war nicht unbedingt die L\u00f6sung.",
+        "ranked": 1,
+        "epoch": 1638910805.6683323
+    },
+    {
+        "title": "\u00c4mter melden weniger Neuinfektionen als vor einer Woche",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-12/coronavirus-neuinfektionen-rki-gesundheitsaemter-todesfaelle-sachsen-bayern",
+        "content": "Die Beh\u00f6rden haben 50.627 neue Corona-F\u00e4lle registriert. Das sind 4.662 Ansteckungen weniger als in der Vorwoche. Die meisten Neuinfektionen meldet Baden-W\u00fcrttemberg.",
+        "ranked": 2,
+        "epoch": 1638910805.668333
+    },
+    {
+        "title": "Verd\u00e4chtiger im Mordfall Khashoggi festgenommen",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/jamal-khashoggi-mord-saudi-arabien-paris",
+        "content": "Im Fall um den Mord am Journalisten Jamal Khashoggi ist ein Verd\u00e4chtiger in Paris festgenommen worden. Es soll ein Ex-Mitglied der saudischen k\u00f6niglichen Garde sein.",
+        "ranked": 3,
+        "epoch": 1638910805.6683338
+    },
+    {
+        "title": "Advent hei\u00dft Panik",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-12/weihnachtsvorbereitungen-adventszeit-hauesliche-arbeit-familie-10nach8",
+        "content": "Einkaufen, Planen, Vorbereiten: Vor Weihnachten potenziert sich die h\u00e4usliche Arbeit. Und in zu vielen Familien hei\u00dft das immer noch: die Arbeit der Frauen.",
+        "ranked": 4,
+        "epoch": 1638910805.6683345
+    },
+    {
+        "title": "Der Kampf gegen Rassismus ist ihr Antrieb",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/nancy-faeser-spd-innenministerin-hessen-hanau",
+        "content": "Bundesweit war sie kaum bekannt, nun \u00fcbernimmt die SPD-Landespolitikerin Nancy Faeser von Horst Seehofer das Innenministerium. Sie d\u00fcrfte einen anderen Weg gehen als er.",
+        "ranked": 5,
+        "epoch": 1638910805.6683354
+    },
+    {
+        "title": "\"Es ist nahezu sicher, dass sie nicht schlimmer ist als Delta\"",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/corona-omikron-variante-anthony-fauci",
+        "content": "Mehr Mutationen, h\u00f6here Ansteckungsgefahr, aber weniger Klinikpatienten: Omikron k\u00f6nnte weniger gef\u00e4hrlich sein als Delta, sagt US-Immunologe Anthony Fauci.",
+        "ranked": 6,
+        "epoch": 1638910805.6683362
+    },
+    {
+        "title": "Europ\u00e4ische Verdr\u00e4ngungsakrobatik",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/eu-asylrecht-belarusgrenze-aufweichung",
+        "content": "Die EU wei\u00df sich in der Belarus-Krise nicht anders zu helfen, als das Asylrecht auch langfristig aufzuweichen. Das best\u00e4rkt alle, die Migration nur als Bedrohung sehen.",
+        "ranked": 7,
+        "epoch": 1638910805.6683369
+    },
+    {
+        "title": "Schach-WM fast entschieden",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/schach-wm-magnus-carlsen-jan-nepomnjaschtschi-partie-9",
+        "content": "Erneut unterl\u00e4uft dem Herausforderer Jan Nepomnjaschtschi ein ungew\u00f6hnlicher Patzer. Nach dem Sieg in der 9. Partie liegt Magnus Carlsen beinahe uneinholbar vorne.",
+        "ranked": 8,
+        "epoch": 1638910805.6683373
+    },
+    {
+        "title": "CSU und Linke zeigen sich entsetzt \u00fcber AfD-Vorsitz im Innenausschuss",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/afd-innenausschuss-vorsitz-bundestag",
+        "content": "Die AfD wird k\u00fcnftig die Sitzungen des Innenausschusses im Bundestag leiten. Abgeordnete von CSU und Linke sind emp\u00f6rt. Manche sehen darin ein Sicherheitsrisiko.",
+        "ranked": 9,
+        "epoch": 1638910805.668338
+    },
+    {
+        "title": "Gr\u00fcne und FDP w\u00e4hlen neue Fraktionsvorsitzende",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/bundestagsfraktionen-gruene-fdp-vorsitzende",
+        "content": "Die designierten Regierungsfraktionen von Gr\u00fcnen und FDP haben neue Chefs gew\u00e4hlt. Die Gr\u00fcnen setzen weiter auf eine Doppelspitze, die FDP auf einen Finanzpolitiker.",
+        "ranked": 10,
+        "epoch": 1638910805.668339
+    },
+    {
+        "title": "\"Wir l\u00fcgen Freund:innen an, um sie nicht zu verletzen\"",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zett/liebe-sex/2021-12/freundschaft-ehrlichkeit-kritik-anna-holfeld",
+        "content": "Wie ehrlich muss man in Freundschaften sein? An den richtigen Stellen m\u00fcsse man die Wahrheit sagen, erkl\u00e4rt Therapeutin Anna Holfeld.",
+        "ranked": 11,
+        "epoch": 1638910805.6683397
+    },
+    {
+        "title": "Chinas Chance auf eine PR-Show sinkt",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/olympia-boykott-china-usa-neuseeland-diplomatie",
+        "content": "China will aus den Winterspielen politisch Kapital schlagen. Durch den diplomatischen Boykott der USA ger\u00e4t dieser Plan in Gefahr. Weitere L\u00e4nder wollen sich anschlie\u00dfen.",
+        "ranked": 12,
+        "epoch": 1638910805.6683402
+    },
+    {
+        "title": "Deutschlands Sicherheit ist jetzt in Frauenhand",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/koaltiionsvertrag-ampel-nancy-feaser-impfpflicht-nachrichtenpodcast",
+        "content": "Zum ersten Mal wird es eine Innenministerin sein. Wer ist Nancy Faeser und was wird sie anders als Horst Seehofer machen? Und: Der Bundestag debattiert die Impfpflicht.",
+        "ranked": 13,
+        "epoch": 1638910805.6683407
+    },
+    {
+        "title": "Ampel-Parteien verschieben Bonus f\u00fcr Pflegekr\u00e4fte auf Anfang 2022",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/pflege-bonus-corona-praemie-ampel-koalition",
+        "content": "SPD, Gr\u00fcne und FDP planen neben der Impfpflicht in Kliniken und Heimen auch einen Bonus f\u00fcr Pflegekr\u00e4fte. \u00dcber beide Vorhaben soll aber nicht zusammen abgestimmt werden.",
+        "ranked": 14,
+        "epoch": 1638910805.6683414
+    },
+    {
+        "title": "Bundesanwalt fordert lebenslange Haft f\u00fcr Mord im Tiergarten",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-12/tiergartenmord-auftrag-berlin-russland",
+        "content": "Im Prozess um den Toten im Berliner Kleinen Tiergarten fordert der Bundesanwalt eine lebenslange Haftstrafe. Der Angeklagte habe einen staatlichen T\u00f6tungsauftrag befolgt.",
+        "ranked": 15,
+        "epoch": 1638910805.6683424
+    },
+    {
+        "title": "Mehr als nur eine Notgemeinschaft",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/ampel-koalition-koalitionsvertrag-pressekonferenz",
+        "content": "Olaf Scholz, Robert Habeck und Christian Lindner demonstrieren beim ersten Auftrittt zu dritt Harmonie. Trotzdem werden k\u00fcnftige Bruchstellen sp\u00fcrbar.",
+        "ranked": 16,
+        "epoch": 1638910805.6683428
+    },
+    {
+        "title": "IS-R\u00fcckkehrerin in Hamburg zu Haftstrafe verurteilt",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-12/is-rueckkehrerin-urteil-terrorismus",
+        "content": "Als Jugendliche reiste eine Hamburgerin nach Syrien und schloss sich der Terrormiliz IS an. Nun muss die 25-J\u00e4hrige f\u00fcr zwei Jahre und neun Monate in Haft.",
+        "ranked": 17,
+        "epoch": 1638910805.6683435
+    },
+    {
+        "title": "Jude Bellingham nach Kritik an Schiedsrichter zu Geldstrafe verurteilt",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/jude-bellingham-borussia-dortmund-geldstrafe-schiedsrichter",
+        "content": "Nach der Niederlage gegen Bayern M\u00fcnchen hatte Jude Bellingham Schiedsrichter Felix Zwayer verbal attackiert. Daf\u00fcr muss der Dortmunder 40.000 Euro zahlen.",
+        "ranked": 18,
+        "epoch": 1638910805.668344
+    },
+    {
+        "title": "Universit\u00e4t reicht Beschwerde gegen \"Bild\"-Zeitung ein",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-12/humboldt-universitaet-bild-zeitung-lockdown-macher",
+        "content": "Die Berliner Humboldt-Universit\u00e4t hat Beschwerde beim Presserat gegen die \"Bild\" eingelegt. Die Zeitung hatte Wissenschaftler f\u00fcr Corona-Ma\u00dfnahmen verantwortlich gemacht.",
+        "ranked": 19,
+        "epoch": 1638910805.6683483
+    }
+]
