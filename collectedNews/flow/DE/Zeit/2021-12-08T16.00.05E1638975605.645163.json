@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Das Kabinett Scholz ist im Amt",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/neue-bundesregierung-olaf-scholz-bundeskanzler-minister",
+        "content": "Ernennung in Schloss Bellevue, Amtseid im Bundestag: Die neuen Ministerinnen und Minister nehmen ihre Arbeit auf. Noch am Abend findet die erste Kabinettssitzung statt.",
+        "ranked": 0,
+        "epoch": 1638975605.645095
+    },
+    {
+        "title": "Bundesnetzagentur erleichtert Zahlungsminderung bei langsamem Internet",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/2021-12/internet-zahlung-verbraucherschutz-bundesnetzagentur",
+        "content": "Wer die bezahlte Datengeschwindigkeit an zwei von drei Tagen nicht erreicht, kann k\u00fcnftig die Zahlungen an den Provider k\u00fcrzen. F\u00fcr den Nachweis stellt der Bund ein Tool.",
+        "ranked": 1,
+        "epoch": 1638975605.6450975
+    },
+    {
+        "title": "Landesregierung wendet sich nach Mordpl\u00e4nen gegen Kretschmer an Faeser",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/sachsen-michael-kretschmer-mordplaene-innenministerium",
+        "content": "Polizei und Generalstaatsanwaltschaft ermitteln wegen Mordpl\u00e4nen gegen Ministerpr\u00e4sident Michael Kretschmer. Die Landesregierung schaltete das Bundesinnenministerium ein.",
+        "ranked": 2,
+        "epoch": 1638975605.6450984
+    },
+    {
+        "title": "Hinfahren und Flagge zeigen!",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/51/boykott-olympische-winterspiele-china-kritik",
+        "content": "Dass Politiker die Olympischen Spiele in China boykottieren, bringt nichts. Wirkungsvoller w\u00e4re Guerilla-Diplomatie vor Ort.",
+        "ranked": 3,
+        "epoch": 1638975605.6450994
+    },
+    {
+        "title": "Sorgt f\u00fcr das Fressen, nicht f\u00fcr die Moral!",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-12/werbekampagne-und-jetzt-alle-kommentar",
+        "content": "200 Unternehmen rufen zum Impfen auf. Das sieht erst einmal gut aus in der akuten Notlage. Tats\u00e4chlich ist es nicht nur ein zu bequemer Imagegewinn, sondern \u00fcbergriffig.",
+        "ranked": 4,
+        "epoch": 1638975605.6451
+    },
+    {
+        "title": "Ein feste Burg",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/51/angela-merkel-bundeskanzlerin-erinnerungen-helga-schubert",
+        "content": "Dieses erstaunliche Gesp\u00fcr f\u00fcr Loyalit\u00e4t und Diskretion: Erinnerung an die Frau, die sechzehn Jahre lang deutsche Bundeskanzlerin war",
+        "ranked": 5,
+        "epoch": 1638975605.6451015
+    },
+    {
+        "title": "Machtwechsel in Moll",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/olaf-scholz-regierungswechsel-corona-ampel",
+        "content": "Olaf Scholz hat keine 100 Tage Einarbeitungszeit, wie sie neue Regierungen meist bekommen. Die Ampel-Koalition ist l\u00e4ngst nicht so stabil, wie ihre Spitzen suggerieren.",
+        "ranked": 6,
+        "epoch": 1638975605.6451027
+    },
+    {
+        "title": "Auch die britische Regierung boykottiert die Olympischen Winterspiele",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/olympia-china-boykott-grossbritannien-peking-2022",
+        "content": "Nach den USA und Australien schickt auch Gro\u00dfbritannien keine Regierungsvertreter zu den Winterspielen nach China. Britische Athleten sollen aber teilnehmen.",
+        "ranked": 7,
+        "epoch": 1638975605.6451044
+    },
+    {
+        "title": "Kaufkraft der Deutschen soll 2022 deutlich ansteigen",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-12/gfk-studie-kaufkraft-deutschland",
+        "content": "Im kommenden Jahr werden die B\u00fcrger etwa 1.000 Euro mehr laut einer Studie zur Verf\u00fcgung haben. Das h\u00f6chste Pro-Kopf-Nettoeinkommen erreicht weiterhin Bayern.",
+        "ranked": 8,
+        "epoch": 1638975605.6451054
+    },
+    {
+        "title": "\"Wir sehen uns am Freitag\"",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/gratulationen-olaf-scholz-ausland",
+        "content": "Frankreichs Pr\u00e4sident Emmanuel Macron verbindet seinen Gl\u00fcckwunsch an Olaf Scholz mit einem Hinweis auf ihr Treffen in Paris. Aus Moskau kommt eine eher k\u00fchle Reaktion.",
+        "ranked": 9,
+        "epoch": 1638975605.6451068
+    },
+    {
+        "title": "Salz ist der neue Zucker",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/2021-12/salzkonsum-ernaehrung-lebensmittel-achim-bub-interview",
+        "content": "Der K\u00f6rper braucht Salz, doch in Deutschland essen die Menschen ungesund viel davon. Der Biochemiker Achim Bub erkl\u00e4rt, wie man den nat\u00fcrlichen Bedarf wiederherstellt.",
+        "ranked": 10,
+        "epoch": 1638975605.645108
+    },
+    {
+        "title": "\"Lasst uns endlich mal anfangen zu streiten!\"",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/51/claudia-roth-kulturstaatsministerin-ampel-kunstfreiheit-diversitaet",
+        "content": "Claudia Roth wird neue Kulturstaatsministerin im Ampel-Kabinett: Ein Gespr\u00e4ch \u00fcber Kunstfreiheit, Diversity, Anarcho-Kultur und die Lust auf frischen Wind.",
+        "ranked": 11,
+        "epoch": 1638975605.645109
+    },
+    {
+        "title": "Polizei l\u00f6st Demo von Impfgegnern vor Lauterbachs Wohnung in K\u00f6ln auf",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/corona-protest-karl-lauterbach-impfgegner-koeln",
+        "content": "Vier Impfgegner haben vor der Privatwohnung von Karl Lauterbach protestiert. Gegen sie wurden Verfahren wegen des Versto\u00dfes gegen das Versammlungsgesetz eingeleitet.",
+        "ranked": 12,
+        "epoch": 1638975605.6451104
+    },
+    {
+        "title": "Achtung, Machtwechsel",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-12/bundesregierung-oesterreich-deutschland-politikpodcast",
+        "content": "\u00d6sterreich bekommt einen neuen Kanzler und neue Minister, Deutschland eine neue Regierung \u2013 wie funktioniert das genau? Und: Was ohne Schnee aus dem Alpentourismus wird.",
+        "ranked": 13,
+        "epoch": 1638975605.6451113
+    },
+    {
+        "title": "Olaf Scholz legt seinen Amtseid ab",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/olaf-scholz-vereidigung-bundeskanzler-bundestag-livestream",
+        "content": "Mit 395 von 707 Stimmen ist der SPD-Politiker zum neuen Kanzler gew\u00e4hlt worden. Verfolgen Sie live seine Vereidigung durch Bundestagspr\u00e4sidentin B\u00e4rbel Bas.",
+        "ranked": 14,
+        "epoch": 1638975605.6451125
+    },
+    {
+        "title": "Der dritte Mann",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/51/karl-nehammer-bundeskanzler-oesterreich-oevp",
+        "content": "Der neue \u00f6sterreichische Bundeskanzler sollte die Chance erhalten, die \u00d6VP vom Populismus zu befreien.",
+        "ranked": 15,
+        "epoch": 1638975605.6451137
+    },
+    {
+        "title": "Russland sieht nach Treffen von Putin und Biden keine Durchbr\u00fcche",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/usa-russland-gipfel-putin-biden",
+        "content": "Die russische Regierung h\u00e4lt zentrale Fragen im Verh\u00e4ltnis zu den USA weiterhin f\u00fcr ungekl\u00e4rt. Mit Blick auf weitere Sanktionen zeigt man sich in Moskau unbeeindruckt.",
+        "ranked": 16,
+        "epoch": 1638975605.6451147
+    },
+    {
+        "title": "Wollen Sie nicht mehr in der Schule arbeiten?",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-12/lehrer-lehramt-schule-job-aufruf",
+        "content": "Schwierige Sch\u00fcler, anstrengende Eltern, wenig Anerkennung: Schreiben Sie uns, warum Sie nicht mehr Lehrer sein wollen und was sich an Schulen dringend \u00e4ndern m\u00fcsste.",
+        "ranked": 17,
+        "epoch": 1638975605.6451159
+    },
+    {
+        "title": "Steffen Hebestreit wird neuer Regierungssprecher",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/steffen-hebestreit-steffen-seibert-regierungssprecher",
+        "content": "Olaf Scholz nimmt seinen Sprecher aus dem Finanzministerium ins Kanzleramt mit. Die FDP hat den fr\u00fcheren \"Spiegel\"-Chefredakteur Wolfgang B\u00fcchner als Vize nominiert.",
+        "ranked": 18,
+        "epoch": 1638975605.645117
+    },
+    {
+        "title": "Kollaps mit L\u00e4ufer",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/2021/51/jan-nepomnjaschtischi-schach-weltmeisterschaft-magnus-carlsen",
+        "content": "Jan Nepomnjaschtschi will Weltmeister werden, spielt aber nicht einmal wie ein Gro\u00dfmeister, weil ihn eine alte Schw\u00e4che einholt. Magnus Carlsen nimmt Geschenke an.",
+        "ranked": 19,
+        "epoch": 1638975605.6451242
+    }
+]
