@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Bundesweite Razzien gegen Schleuser",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-12/bundespolizei-schleuser-razzia-bundesweit",
+        "content": "Die Bundespolizei ist gegen eine mutma\u00dfliche Schleuserbande vorgegangen. Wohnungen, Gesch\u00e4ftsr\u00e4ume und Logistikzentren wurden durchsucht.",
+        "ranked": 0,
+        "epoch": 1638954005.6861625
+    },
+    {
+        "title": "Die Abgeordneten w\u00e4hlen den neuen Bundeskanzler",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/olaf-scholz-bundeskanzler-wahl-bundestag-livestream",
+        "content": "Olaf Scholz soll die neue Regierung aus SPD, Gr\u00fcnen und FDP anf\u00fchren. Verfolgen Sie die Kanzlerwahl im Livestream.",
+        "ranked": 1,
+        "epoch": 1638954005.6861646
+    },
+    {
+        "title": "Erzbistum K\u00f6ln untersucht die Aufarbeitung des Missbrauchskandals",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-12/katholische-kirche-rainer-maria-woelki-vergabe-gutachten",
+        "content": "Der K\u00f6lner Kardinal Woelki ger\u00e4t zusehends in Bedr\u00e4ngnis. Er soll bei der Vergabe von Gutachten wichtige Entscheidungsgremien \u00fcbergangen haben.",
+        "ranked": 2,
+        "epoch": 1638954005.6861658
+    },
+    {
+        "title": "\"Die CDU darf nicht zur Echokammer werden\"",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/annette-widmann-mauz-frauen-union-cdu-vorsitz-zukunft-volkspartei",
+        "content": "Die Union sei mehr als ihre Fl\u00fcgel, mahnt die Chefin der Frauen Union, Annette Widmann-Mauz. Sie sagt: Opposition ist eine Chance auch f\u00fcr die Frauen in der Partei.",
+        "ranked": 3,
+        "epoch": 1638954005.6861665
+    },
+    {
+        "title": "Bei der Kanzlerwahl werden die Stimmen gez\u00e4hlt",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/ampel-koalition-olaf-scholz-regierung-vereidigung-live",
+        "content": "Der Bundestag ist zusammengekommen, um Olaf Scholz zum neuen Kanzler zu w\u00e4hlen. Angela Merkel verabschiedet sich aus dem Amt. Verfolgen Sie die Wahl im Liveblog",
+        "ranked": 4,
+        "epoch": 1638954005.6861672
+    },
+    {
+        "title": "Neue Bundesregierung, Olympia-Boykott, Biden und Putin",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-12/bundeskanzler-olympia-putin-2021-12-08",
+        "content": "Heute endet Angela Merkels Kanzlerschaft, Australien und Neuseeland schlie\u00dfen sich dem Olympia-Boykott an und die Schach-WM ist fast entschieden. Der Morgen\u00fcberblick",
+        "ranked": 5,
+        "epoch": 1638954005.686168
+    },
+    {
+        "title": "Wenn die Bewerbung zur Zumutung wird",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/arbeit/2021-11/bewerbung-vorstellungsgespraeche-bewerber-frust-unternehmen",
+        "content": "Viele Firmen drehen mit ihren Bewerbern absurd viele Runden, um sie zu testen. Aber so bekommen sie nicht unbedingt die Besten. Denn die springen meist vorher schon ab.",
+        "ranked": 6,
+        "epoch": 1638954005.686169
+    },
+    {
+        "title": "Wir m\u00fcssen drau\u00dfen bleiben",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/us-demokratie-gipfel-china-taiwan-5vor8",
+        "content": "Joe Biden l\u00e4dt zum Demokratie-Gipfel ein und Pekings F\u00fchrung kocht vor Wut. Nicht das gro\u00dfe China ist dabei, sondern das kleine Taiwan, wo die Demokratie funktioniert.",
+        "ranked": 7,
+        "epoch": 1638954005.6861696
+    },
+    {
+        "title": "Kanzler ohne Charisma?",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/olaf-scholz-kanzler-ampel-frankreich-nachrichtenpodcast",
+        "content": "Der k\u00fcnftige Bundeskanzler Olaf Scholz gilt nicht als mitrei\u00dfendster Redner. Kann er das als St\u00e4rke nutzen? Und: Warum Frankreich einen anderen Corona-Kurs einschl\u00e4gt.",
+        "ranked": 8,
+        "epoch": 1638954005.68617
+    },
+    {
+        "title": "Die Methode Scholz",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/olaf-scholz-neuer-bundeskanzler-deutschland",
+        "content": "Er ist streng, aber nicht intrigant. Er macht sich lieber rar als zu viel zu reden: Sechs Erkenntnisse, die helfen, den neuen Bundeskanzler Olaf Scholz zu verstehen.",
+        "ranked": 9,
+        "epoch": 1638954005.6861708
+    },
+    {
+        "title": "Angeschnallt",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kaenguru-comics/2021-12/folge-296",
+        "content": "Der K\u00e4nguru-Comic vom 8. Dezember 2021",
+        "ranked": 10,
+        "epoch": 1638954005.6861715
+    },
+    {
+        "title": "Tausende Ortskr\u00e4fte warten auf Ausreise nach Deutschland",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/afghanistan-ortskraefte-ausreise-deutschland",
+        "content": "25.000 Afghaninnen und Afghanen haben von Deutschland eine Aufnahmezusage erhalten. Angekommen ist bisher erst ein Viertel. Die Linke spricht von einem Armutszeugnis.",
+        "ranked": 11,
+        "epoch": 1638954005.6861722
+    },
+    {
+        "title": "Australien schlie\u00dft sich Boykott der Olympischen Winterspiele an",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/australien-boykott-olympische-winterspiele-china",
+        "content": "Wie die USA will auch Australien keine Regierungsvertreter nach China schicken. Aus dem EU-Parlament kommt die Forderung nach einem kompletten Olympia-Boykott.",
+        "ranked": 12,
+        "epoch": 1638954005.686173
+    },
+    {
+        "title": "Impfstoffe offenbar weniger wirksam gegen Omikron-Variante",
+        "date_raw": "December 08, 2021",
+        "date": "2021-12-08",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-12/coronavirus-christian-drosten-omikron-variante-krankheitsverlauf",
+        "content": "Omikron werde Deutschland bis in den Sommer 2022 deutlich besch\u00e4ftigen, erwartet der Virologe Christian Drosten. Die Variante k\u00f6nnte f\u00fcr schwere Covid-19-Verl\u00e4ufe sorgen.",
+        "ranked": 13,
+        "epoch": 1638954005.6861734
+    },
+    {
+        "title": "USA verh\u00e4ngen neue Sanktionen gegen den Iran",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/iran-usa-verhaengen-neue-sanktionen",
+        "content": "Inmitten der Gespr\u00e4che \u00fcber eine Neuauflage des Atomabkommens verk\u00fcnden die USA Strafma\u00dfnahmen gegen den Iran. Grund seien \"klare Verletzungen der Menschenrechte\".",
+        "ranked": 14,
+        "epoch": 1638954005.686174
+    },
+    {
+        "title": "Belarus verh\u00e4ngt Einfuhrverbot f\u00fcr Lebensmittel aus westlichen L\u00e4ndern",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/belarus-einfuhrverbot-lebensmittel-sanktionen-westliche-laender",
+        "content": "Die Regierung in Belarus reagiert auf die neuesten Sanktionen von EU und USA. Der Import von Fleisch und Gem\u00fcse aus mehreren westlichen Staaten ist ab Januar verboten.",
+        "ranked": 15,
+        "epoch": 1638954005.6861744
+    },
+    {
+        "title": "Borussia Dortmund siegt souver\u00e4n gegen Be\u015fikta\u015f Istanbul",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/champions-league-rb-leipzig-borussia-dortmund-spielberichte",
+        "content": "Der BVB zeigt sich gegen Be\u015fikta\u015f Istanbul klar \u00fcberlegen. Durch ein 2:1 gegen Manchester City bleibt auch RB Leipzig im internationalen Wettbewerb. Die Spielberichte",
+        "ranked": 16,
+        "epoch": 1638954005.6861753
+    },
+    {
+        "title": "Zuzutrauen ist ihm alles",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/wladimir-putin-joe-biden-ukraine-videogipfel",
+        "content": "Wladimir Putin hat sich mit seinen Truppen an der ukrainischen Grenze rabiat wieder ins Gespr\u00e4ch gebracht. Sein Videogipfel mit Joe Biden war nicht unbedingt die L\u00f6sung.",
+        "ranked": 17,
+        "epoch": 1638954005.6861758
+    },
+    {
+        "title": "So viele Corona-Tote wie seit Februar nicht mehr",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-12/coronavirus-neuinfektionen-rki-gesundheitsaemter-todesfaelle-sachsen-bayern",
+        "content": "Die Zahl der im Zusammenhang mit Covid-19 gestorbenen Patienten ist auf den h\u00f6chsten Stand seit Februar gestiegen. Zudem wurden fast 70.000 Neuinfektionen erfasst.",
+        "ranked": 18,
+        "epoch": 1638954005.6861765
+    },
+    {
+        "title": "Verd\u00e4chtiger im Mordfall Khashoggi festgenommen",
+        "date_raw": "December 07, 2021",
+        "date": "2021-12-07",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/jamal-khashoggi-mord-saudi-arabien-paris",
+        "content": "Im Fall um den Mord am Journalisten Jamal Khashoggi ist ein Verd\u00e4chtiger in Paris festgenommen worden. Es soll ein Ex-Mitglied der saudischen k\u00f6niglichen Garde sein.",
+        "ranked": 19,
+        "epoch": 1638954005.6861806
+    }
+]
