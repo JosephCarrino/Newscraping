@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Gericht genehmigt Herausgabe von Akten zu Erst\u00fcrmung des US-Kapitols",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/usa-gericht-akten-freigabe-sturm-auf-kapitol",
+        "content": "Donald Trump hat sich juristisch gegen die Untersuchung zu seiner Rolle bei den Ausschreitungen am 6. Januar gewehrt. Ein Bundesgericht hat seine Klage jedoch abgewiesen.",
+        "ranked": 0,
+        "epoch": 1639094409.8707068
+    },
+    {
+        "title": "Booster laut Ema schon drei Monate nach Zweitimpfung wirksam",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-12/booster-impfung-auffrischungsimpfung-ema-coronavirus",
+        "content": "Die Europ\u00e4ische Arzneimittelbeh\u00f6rde empfiehlt eine Auffrischungsimpfung nach sechs Monaten. Fr\u00fcheres Boostern sei m\u00f6glich, sollte von den L\u00e4ndern aber abgewogen werden.",
+        "ranked": 1,
+        "epoch": 1639094409.8707092
+    },
+    {
+        "title": "Mehr als 100.000 bekannte F\u00e4lle bei Sch\u00fclern in Deutschland",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/corona-faelle-schule-quarantaenemassnahmen-kmk",
+        "content": "An Schulen gab es Anfang Dezember wieder mehr Corona-Infektionen, zeigen Daten der Kultusministerkonferenz. Geschlossen waren 86 Schulen \u2013 weniger als in der Woche davor.",
+        "ranked": 2,
+        "epoch": 1639094409.8707104
+    },
+    {
+        "title": "Eintracht Frankfurt und Bayer Leverkusen holen Gruppensieg",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/europa-league-bayer-leverkusen-eintracht-frankfurt-spielberichte",
+        "content": "Frankfurt und Leverkusen kommen als Gruppenerste ins Achtelfinale. In der Conference League hat Union Berlin die Chance auf die n\u00e4chste Runde verpasst. Die Spielberichte",
+        "ranked": 3,
+        "epoch": 1639094409.870711
+    },
+    {
+        "title": "Olaf Scholz setzt auf Expertenrat und Krisenstab",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/ministerpraesidentenkonferenz-olaf-scholz-corona-pandemie-impfpflicht",
+        "content": "Der Bundeskanzler rechnet damit, dass \"wir deutlich l\u00e4nger impfen m\u00fcssen\". Notwendige Strukturen w\u00fcrden derzeit geschaffen. Die L\u00e4nder wollen gegen Hass im Netz vorgehen.",
+        "ranked": 4,
+        "epoch": 1639094409.8707116
+    },
+    {
+        "title": "\"Sie sagte, ich k\u00f6nne mich melden, wenn ich mich stabiler f\u00fchle\"",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zett/2021-12/freundschaft-psychische-erkrankungen-belastung-verlust",
+        "content": "Freundschaften halten vieles aus, aber psychische Erkrankungen k\u00f6nnen irgendwann auch zu belastend sein. Zwei Frauen erz\u00e4hlen, wie sie ihre besten Freundinnen verloren.",
+        "ranked": 5,
+        "epoch": 1639094409.8707125
+    },
+    {
+        "title": "\"Ich bezweifle, dass eine Fusion n\u00f6tig ist\"",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/hamburg/2021-12/hafenlogistik-hamburg-bremerhaven-wilhelmshaven-zusammenschluss-arbeitsplaetze",
+        "content": "Was bedeutet eine Zusammenlegung von Terminals in den H\u00e4fen von Hamburg und Bremerhaven f\u00fcr die Besch\u00e4ftigten? Nichts gutes, sagt HHLA-Betriebsratschef Norbert Paulsen.",
+        "ranked": 6,
+        "epoch": 1639094409.8707132
+    },
+    {
+        "title": "Gesundheits\u00e4mter registrieren 523 Todesf\u00e4lle",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-12/coronavirus-neuinfektionen-rki-gesundheitsaemter-inzidenz-kreise-sachsen-hamburg",
+        "content": "Die Beh\u00f6rden haben 180 Todesf\u00e4lle mehr gemeldet als am vergangenen Donnerstag. Bundesweit gab es 66.007 Neuinfektionen, Th\u00fcringen und Hamburg verzeichnen H\u00f6chstwerte.",
+        "ranked": 7,
+        "epoch": 1639094409.8707142
+    },
+    {
+        "title": "Nutzung von ARD-Wahlhochrechnung bei Bild-TV rechtswidrig",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-12/bild-tv-ard-wahlhochrechnung-unrechtmaessig",
+        "content": "Der Privatsender Bild hat bei der Bundestagswahl einen Ausschnitt von der ARD \u00fcbernommen \u2013 ohne Absprache. Laut einem Gerichtsurteil war das nicht rechtens.",
+        "ranked": 8,
+        "epoch": 1639094409.8707147
+    },
+    {
+        "title": "Das gro\u00dfe Schachgezocke",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/online-schach-twitch-wm-unterhaltung",
+        "content": "Horrende Fehler, daf\u00fcr viel Unterhaltung: Auf Twitch hat sich ein neues, schnelles, moderneres Schach entwickelt. Die Schach-WM wirkt dagegen wie aus der Zeit gefallen.",
+        "ranked": 9,
+        "epoch": 1639094409.8707156
+    },
+    {
+        "title": "Hei\u00dft das jetzt impfen oder nicht?",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-12/stiko-empfehlung-corona-impfung-kinder",
+        "content": "Die Stiko empfiehlt kranken Kindern zwischen f\u00fcnf und elf Jahren die Corona-Impfung. Der Rest bekommt sie auf individuellen Wunsch. Was Eltern jetzt wissen m\u00fcssen",
+        "ranked": 10,
+        "epoch": 1639094409.870716
+    },
+    {
+        "title": "Wir m\u00fcssen die Manolo Blahniks neu sortieren",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-12/and-just-like-that-rezension",
+        "content": "Schlechte Dialoge, eine Beerdigung und, nat\u00fcrlich, Stilettos: \"Sex and the City\" geht weiter, aber funktioniert die Adaption an die Gegenwart?",
+        "ranked": 11,
+        "epoch": 1639094409.8707166
+    },
+    {
+        "title": "Emmanuel Macron will neue Strategie zum Schutz der EU-Grenzen",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/emmanuel-macron-schengenraum-schutz-aussengrenzen",
+        "content": "F\u00fcr die EU-Ratspr\u00e4sidentschaft im kommenden Jahr hat Frankreichs Pr\u00e4sident konkrete Pl\u00e4ne: Macron will das Asylsystem sowie die Haushalts- und Au\u00dfenpolitik reformieren.",
+        "ranked": 12,
+        "epoch": 1639094409.8707175
+    },
+    {
+        "title": "Abges\u00e4gt, aber nur ein bisschen",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/mobilitaet/2021-12/vw-chef-herbert-diess-macht",
+        "content": "Die F\u00fchrungskrise bei Volkswagen ist vorerst gel\u00f6st: Herbert Diess, der mit seinen Tesla-Vergleichen verunsicherte, bleibt VW-Chef. Doch seine Macht wird begrenzt.",
+        "ranked": 13,
+        "epoch": 1639094409.870718
+    },
+    {
+        "title": "\"TikTok hat einen Teil seiner Magie verloren\"",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/2021-12/tiktok-algorithmus-funktionsweise-geheim-dokumente",
+        "content": "Die kurzen Videos bei TikTok fesseln Nutzer stundenlang. Interne Unterlagen zeigen, dass der Algorithmus dahinter gar nicht so spektakul\u00e4r ist, sagt Experte Marcus B\u00f6sch.",
+        "ranked": 14,
+        "epoch": 1639094409.8707185
+    },
+    {
+        "title": "Angez\u00e4hlt, aber l\u00e4ngst nicht k. o.",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-12/impfschutz-omikron-corona-boosterimpfung-antikoerper",
+        "content": "Erste Labordaten best\u00e4tigen, was viele bef\u00fcrchteten: Die neue Corona-Variante Omikron kann sch\u00fctzenden Antik\u00f6rpern ausweichen. Doch es h\u00e4tte noch schlimmer kommen k\u00f6nnen.",
+        "ranked": 15,
+        "epoch": 1639094409.870719
+    },
+    {
+        "title": "Tory-Partei muss Strafe f\u00fcr Luxussanierung zahlen",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/tory-partei-strafzahlung-dienstwohnung-grossbritannien",
+        "content": "Die Partei von Boris Johnson hat Arbeiten an der Dienstwohnung des Premiers mit einer Parteispende beglichen \u2013 diese aber nicht angemeldet. Daf\u00fcr muss sie nun zahlen.",
+        "ranked": 16,
+        "epoch": 1639094409.8707263
+    },
+    {
+        "title": "Einmal im Monat so richtig betrinken",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-12/global-drug-survey-2021-drogenkonsum-deutschland-alkohol-cannabis",
+        "content": "Alkohol bleibt das beliebteste Rauschmittel, der Joint wird seit Corona weniger herumgereicht und LSD feiert ein Revival. Ergebnisse der weltweit gr\u00f6\u00dften Drogenumfrage.",
+        "ranked": 17,
+        "epoch": 1639094409.870727
+    },
+    {
+        "title": "16 Prozent der Libellenarten laut Roter Liste der IUCN gef\u00e4hrdet",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/umwelt/2021-12/artensterben-libellen-rote-liste-iucn",
+        "content": "Libellen tummeln sich gern am Wasser, doch ihr Lebensraum ist zunehmend bedroht, zeigt eine Untersuchung der Weltnaturschutzunion (IUCN). Auch in Deutschland.",
+        "ranked": 18,
+        "epoch": 1639094409.870728
+    },
+    {
+        "title": "Jetzt wird losregiert",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/bundesregierung-erster-arbeitstag-boosterimpfung-eu",
+        "content": "Die neue Bundesinnenministerin ber\u00e4t in Br\u00fcssel \u00fcber die Lage in Belarus. Die Au\u00dfenministerin reist nach Paris. Au\u00dferdem im Update: Woher kommt die Boosterl\u00fccke?",
+        "ranked": 19,
+        "epoch": 1639094409.8707333
+    }
+]
