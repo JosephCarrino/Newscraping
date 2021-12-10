@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Die Abschreckung",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/2021-12/julian-assange-wikileaks-auslieferung-usa-grossbritannien-rechtsstreit",
+        "content": "WikiLeaks-Gr\u00fcnder Julian Assange soll doch in die USA ausgeliefert werden d\u00fcrfen, entschied der britische High Court. Das ist aus Sicht der Pressefreiheit gef\u00e4hrlich.",
+        "ranked": 0,
+        "epoch": 1639159206.2413368
+    },
+    {
+        "title": "Oberster Gerichtshof der USA l\u00e4sst strenges Abtreibungsgesetz in Kraft",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/supreme-court-schwangerschaftsabbruch-texas-usa",
+        "content": "Die juristische Auseinandersetzung d\u00fcrfte nun von vorne losgehen: Der Supreme Court hat das strenge Gesetz aus Texas nicht aufgehoben. Aber: Klagen dagegen sind m\u00f6glich.",
+        "ranked": 1,
+        "epoch": 1639159206.241339
+    },
+    {
+        "title": "Als Extremist eingestufter Gnauck f\u00fcr Verteidigungsausschuss benannt",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/afd-mad-extremisten-verteidigungsausschuss-innenausschuss",
+        "content": "Der AfD-Politiker Hannes Gnauck ist laut MAD Extremist. Dennoch soll er im Verteidigungsausschuss des Bundestags sitzen. Und ein suspendierter Polizist im Innenausschuss.",
+        "ranked": 2,
+        "epoch": 1639159206.24134
+    },
+    {
+        "title": "Die Impfpflicht im Gesundheitswesen kommt",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/infektionsschutzgesetz-corona-massnahmen-partielle-impfpflicht-nachrichtenpodcast",
+        "content": "Das Infektionsschutzgesetz ist verabschiedet. Karl Lauterbach hat die Bek\u00e4mpfung von Corona zum obersten Ziel der Regierung erkl\u00e4rt. Und: Assanges Auslieferung droht.",
+        "ranked": 3,
+        "epoch": 1639159206.2413406
+    },
+    {
+        "title": "\"Es w\u00e4re ein Angriff auf die direkte Demokratie\"",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-12/deutsche-wohnen-enteignen-volksentscheid-rouzbeh-taheri",
+        "content": "Berlin hat f\u00fcr eine Enteignung gro\u00dfer Wohnungskonzerne gestimmt, doch die Politik z\u00f6gert. Ist der Volksentscheid schon gescheitert? Die Initiatoren wollen weiterk\u00e4mpfen.",
+        "ranked": 4,
+        "epoch": 1639159206.2413414
+    },
+    {
+        "title": "Erst mal Verl\u00e4sslichkeit zeigen",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/olaf-scholz-paris-emmanuel-macron-aussenpolitik",
+        "content": "Unstimmigkeiten bleiben zun\u00e4chst au\u00dfen vor: Beim Antrittsbesuch des neuen Bundeskanzlers in Frankreich wird die enorme Bedeutung der Au\u00dfenpolitik f\u00fcr die Ampel deutlich.",
+        "ranked": 5,
+        "epoch": 1639159206.2413425
+    },
+    {
+        "title": "Magnus Carlsen verteidigt Schachweltmeistertitel",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/schach-wm-magnus-carlsen-verteidigt-weltmeistertitel",
+        "content": "Der Norweger Magnus Carlsen bleibt Schachweltmeister. Sein Herausforderer Jan Nepomnjaschtschi hatte ihm schon in den letzten Spielen immer weniger entgegenzusetzen.",
+        "ranked": 6,
+        "epoch": 1639159206.2413433
+    },
+    {
+        "title": "Maria Ressa und Dmitri Muratow mit Friedensnobelpreis geehrt",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2021-12/oslo-friedensnobelpreis-maria-ressa-dmitri-muratow",
+        "content": "Die Journalisten sind in Oslo ausgezeichnet worden. In ihren Reden forderten sie st\u00e4rkeres Eintreten f\u00fcr Pressefreiheit. Journalismus sei das \"Gegengift gegen Tyrannei\".",
+        "ranked": 7,
+        "epoch": 1639159206.241344
+    },
+    {
+        "title": "Schnappsch\u00fcsse der eigenen Unbestimmbarkeit",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/musik/2021-12/arca-album-komponistin-gender-elektro",
+        "content": "Die Komponistin Arca setzt sich auf vier neuen Alben \u00fcber vermeintliche Genre- und Gendergrenzen hinweg. Nicht nur ihre Musik, auch ihren K\u00f6rper modelliert sie neu.",
+        "ranked": 8,
+        "epoch": 1639159206.2413445
+    },
+    {
+        "title": "Immobilienpreise machen Zinsvorteil in der Gro\u00dfstadt zunichte",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-12/immobilienmarkt-niedrige-zinsen-vorteil-immoscout",
+        "content": "Die Preise f\u00fcr H\u00e4user und Wohnungen sind in der Stadt und auf dem Land gestiegen. K\u00f6nnen niedrige Zinsen das auffangen? Daten eines Immobilienportals geben Aufschluss.",
+        "ranked": 9,
+        "epoch": 1639159206.2413452
+    },
+    {
+        "title": "UN-Berichterstatter nennt Assange-Urteil Armutszeugnis f\u00fcr die Justiz",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/julian-assange-urteil-kritik-journalismus",
+        "content": "Ein Gericht hat das Auslieferungsverbot f\u00fcr Julian Assange gekippt. Seine Verlobte k\u00fcndigt Berufung an. Journalisten f\u00fcrchten durch das Urteil einen irreparablen Schaden.",
+        "ranked": 10,
+        "epoch": 1639159206.2413461
+    },
+    {
+        "title": "\"Mir fehlt das m\u00e4nnliche Geschlecht, um den Hof zu erben\"",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/campus/2021-12/landwirtschaft-zukunft-geschlecht-erbe-frauen",
+        "content": "Seit Jahren sterben Bauernh\u00f6fe. Drei junge Frauen erz\u00e4hlen, warum sie diesen Beruf gew\u00e4hlt haben und was es f\u00fcr eine zukunftsf\u00e4hige Landwirtschaft braucht.",
+        "ranked": 11,
+        "epoch": 1639159206.2413468
+    },
+    {
+        "title": "Polizei verhinderte laut Hamburgs Innensenator wom\u00f6glich Anschlag",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/hamburg-terrorverdacht-polizei-ermittlung",
+        "content": "In der Wohnung eines 20-j\u00e4hrigen Deutsch-Marokkaners hat die Polizei Material f\u00fcr einen Sprengsatz gefunden. Der Verd\u00e4chtige sitzt seit August in Untersuchungshaft.",
+        "ranked": 12,
+        "epoch": 1639159206.2413473
+    },
+    {
+        "title": "Checkt das noch einer?",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/2021-12/corona-warn-app-digitaler-impfnachweis-missbrauch",
+        "content": "Mit der Corona-Warn-App kann man auch fremde Impfnachweise speichern. Ohne Ausweiskontrollen l\u00e4dt das zum Missbrauch ein. Nun wird die App nachgebessert.",
+        "ranked": 13,
+        "epoch": 1639159206.241348
+    },
+    {
+        "title": "Briefe verschicken wird teurer",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-12/deutsche-post-briefe-porto-preiserhoehung",
+        "content": "Die Bundesnetzagentur hat der Post die Erlaubnis gegeben, das Porto zu erh\u00f6hen. Ab Januar m\u00fcssen die Kunden mit h\u00f6heren Preisen f\u00fcr Briefe und Postkarten rechnen.",
+        "ranked": 14,
+        "epoch": 1639159206.2413485
+    },
+    {
+        "title": "Fahrzeit von Berlin nach Hamburg wieder unter zwei Stunden",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/mobilitaet/2021-12/deutsch-bahn-berlin-hamburg-schnellfahrstrecke-sanierung",
+        "content": "Die Bauarbeiten auf der ICE-Strecke Berlin-Hamburg enden planm\u00e4\u00dfig. Zum Fahrplanwechsel am Sonntag fahren die Z\u00fcge wieder mit Tempo 230 zwischen den beiden St\u00e4dten.",
+        "ranked": 15,
+        "epoch": 1639159206.2413492
+    },
+    {
+        "title": "Verfassungsgericht weist Viktor Orb\u00e1ns Einspruch gegen EuGH-Urteil ab",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/ungarn-viktor-orban-verfassungsgericht-eugh-urteil-anfechtung",
+        "content": "2020 hatte der Europ\u00e4ische Gerichtshof Ungarn wegen des Versto\u00dfes gegen EU-Recht verurteilt. Dagegen wollte Ministerpr\u00e4sident Orb\u00e1n vorgehen \u2013 allerdings ohne Erfolg.",
+        "ranked": 16,
+        "epoch": 1639159206.24135
+    },
+    {
+        "title": "Die Bundesliga blamiert sich mal wieder",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/borussia-dortmund-vfl-bochum-ruhrgebiet-bundesliga-vorschau",
+        "content": "Die Champions League ist f\u00fcr die deutschen Clubs eine Nummer zu gro\u00df. Joshua Kimmich pausiert weiter. Und kehr, Bochum empf\u00e4ngt den BVB! Alles Wichtige zum 15. Spieltag",
+        "ranked": 17,
+        "epoch": 1639159206.2413504
+    },
+    {
+        "title": "Die Frau f\u00fcrs Grobe",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/film/2021-12/lina-wertmueller-filmregisseurin-italien-tod-nachruf",
+        "content": "Lina Wertm\u00fcller war als erste Frau f\u00fcr einen Regieoscar nominiert, ihre Filme polarisieren. Ein Nachruf auf eine K\u00fcnstlerin, die keine R\u00fccksicht auf Sensibilit\u00e4ten nahm",
+        "ranked": 18,
+        "epoch": 1639159206.2413511
+    },
+    {
+        "title": "Bayer gewinnt zweiten Glyphosat-Prozess in Kalifornien",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-12/usa-bayer-glyphosat-roundup-krebs-gerichtsurteil",
+        "content": "Die US-Amerikanerin Donnetta Stephens erkrankte an Krebs und machte daf\u00fcr ein Unkrautvernichtungsmittel verantwortlich. Ein Gericht entschied zugunsten des Herstellers.",
+        "ranked": 19,
+        "epoch": 1639159206.241355
+    }
+]
