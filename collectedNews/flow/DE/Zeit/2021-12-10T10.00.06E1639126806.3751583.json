@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Deutschland will 25.000 Menschen aus Afghanistan aufnehmen",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/eu-fluechtlingspolitik-afghanistan-deutschland-fluechtlingsaufnahme",
+        "content": "Mehrere EU-L\u00e4nder haben zugesagt, 40.000 Afghanen aufzunehmen. Der Gro\u00dfteil kommt demnach nach Deutschland. Unicef warnt indes vor einer humanit\u00e4ren Katastrophe im Land.",
+        "ranked": 0,
+        "epoch": 1639126806.3751109
+    },
+    {
+        "title": "Mehr als 50 Migranten kommen bei Lkw-Unfall in Mexiko ums Leben",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-12/mexiko-migration-usa-lkw-unfall",
+        "content": "Zusammengepfercht in einem Lastwagen waren mehr als 100 Menschen in Richtung USA unterwegs. Das \u00fcberf\u00fcllte Fahrzeug \u00fcberschlug sich. Dutzende Migranten starben.",
+        "ranked": 1,
+        "epoch": 1639126806.375113
+    },
+    {
+        "title": "Die Omikron-Welle wird kommen",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-12/coronavirus-omikron-welle-deutschland-variante",
+        "content": "Schon jetzt zeigt sich, dass sich die neue Corona-Variante wohl durchsetzen wird. Und zwar rasant. Was kommt auf Deutschland zu? Erste Analysen legen nahe: nichts Gutes.",
+        "ranked": 2,
+        "epoch": 1639126806.375114
+    },
+    {
+        "title": "Die Abschlussdebatte zur Impfpflicht in Kliniken und Pflegeheimen",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/bundestag-partielle-impfpflicht-abschlussdebatte-livestream",
+        "content": "Der Bundestag befasst sich erneut mit den Ampel-Pl\u00e4nen zu einer partiellen Impfpflicht ab Mitte M\u00e4rz. Nach der Debatte folgt die Abstimmung \u00fcber den Gesetzesentwurf.",
+        "ranked": 3,
+        "epoch": 1639126806.3751147
+    },
+    {
+        "title": "Biden sichert Selenskyj weiter Unterst\u00fctzung zu",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/ukraine-konflikt-joe-biden-wolodymyr-selenskyj-russland",
+        "content": "Der US-Pr\u00e4sident stellt sich im Ukraine-Konflikt an die Seite seines ukrainischen Amtskollegen. Russland droht er mit \"beispiellosen Sanktionen\" im Falle eines Angriffs.",
+        "ranked": 4,
+        "epoch": 1639126806.3751156
+    },
+    {
+        "title": "Studie zu 29 L\u00e4ndern: Deutschland recht krisenfest in der Pandemie",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-12/oecd-pandemie-vergleich-krise-deutschland-studie",
+        "content": "Eine Studie der Bertelsmann Stiftung zur Krisenfestigkeit von EU- und OECD-L\u00e4ndern sieht Deutschland gut aufgestellt. Das Schulsystem sei aber dringend reformbed\u00fcrftig.",
+        "ranked": 5,
+        "epoch": 1639126806.3751166
+    },
+    {
+        "title": "Dieser Gipfel ist eine verpasste Chance",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/us-demokratiegipfel-joe-biden-usa",
+        "content": "Es w\u00e4re wichtig gewesen, auch Polen und Brasilien vom Demokratiegipfel in den USA auszuschlie\u00dfen. Nationalistisch-autorit\u00e4re Regierungen brauchen ein klares Signal.",
+        "ranked": 6,
+        "epoch": 1639126806.375117
+    },
+    {
+        "title": "RKI r\u00e4t zu mehr Kontaktbeschr\u00e4nkungen",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesundheit/2021-12/corona-pandemie-rki-kontaktbeschraenkungen-omikron",
+        "content": "Als weiter sehr besorgniserregend stuft das RKI die Pandemielage ein. Trotz leicht sinkenden Infektionszahlen empfehlen die Experten, Veranstaltungen zu meiden.",
+        "ranked": 7,
+        "epoch": 1639126806.3751178
+    },
+    {
+        "title": "Gericht entscheidet \u00fcber Auslieferung von Julian Assange",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/gesellschaft/2021-12/julian-assange-wikileaks-london-urteil-auslieferung-usa",
+        "content": "Seit Monaten ist unklar, ob Gro\u00dfbritannien den Wikileaks-Gr\u00fcnder Julian Assange in die USA ausliefert. Nun soll in London eine wegweisende Entscheidung fallen.",
+        "ranked": 8,
+        "epoch": 1639126806.3751183
+    },
+    {
+        "title": "\"Annalena Baerbock ist ein gro\u00dfer Gewinn\"",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/kristina-lunz-feminismus-aussenpolitik-weltpolitik-interview",
+        "content": "Die Ampel will Au\u00dfenpolitik feministischer machen. Aber wie k\u00f6nnte das aussehen? Ein Erkl\u00e4rungsversuch der Aktivistin Kristina Lunz",
+        "ranked": 9,
+        "epoch": 1639126806.3751194
+    },
+    {
+        "title": "Stiko-Empfehlung f\u00fcr Kinder, Impfpflicht, deutsche Klassengesellschaft",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/newsletter/was-jetzt/2021-12/kinderimpfung-impfpflicht-booster-karl-lauterbach-2021-12-10",
+        "content": "Die Stiko empfiehlt kleinen Kindern mit Vorerkrankungen die Corona-Impfung, Kanzler Scholz reist nach Paris und Br\u00fcssel und es soll wieder schneien. Der Morgen\u00fcberblick",
+        "ranked": 10,
+        "epoch": 1639126806.37512
+    },
+    {
+        "title": "Ein Knusperh\u00e4uschen f\u00fcr die Rente",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/geldanlage/2021-12/koalitionsvertrag-wohnen-bauen-wohnungskauf-immobilien",
+        "content": "Wer langfristig ein Verm\u00f6gen aufbauen will, sollte \u00fcber den Kauf einer vermieteten Wohnung nachdenken. Die Pl\u00e4ne der neuen Regierung k\u00f6nnten dabei von Nutzen sein.",
+        "ranked": 11,
+        "epoch": 1639126806.3751206
+    },
+    {
+        "title": "Impfpflicht nein, Impfpflicht doch",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/corona-impfpflicht-politik-totimpfstoff-nachrichtenpodcast",
+        "content": "Erst hatte die Politik eine allgemeine Impfpflicht ausgeschlossen, jetzt ist sie daf\u00fcr. Legitimer Sinneswandel oder Wortbruch? Und: Was sogenannte Totimpfstoffe ausmacht.",
+        "ranked": 12,
+        "epoch": 1639126806.375121
+    },
+    {
+        "title": "Die Impfpflicht kommt \u2013 f\u00fcr wen?",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/impfpflicht-corona-arbeitsplatz-pflege-debatte-faq",
+        "content": "Menschen, die in Kliniken und in der Pflege arbeiten, m\u00fcssen ab Mitte M\u00e4rz gegen Corona geimpft sein. Was bedeutet das und mit welchen Strafen ist zu rechnen?",
+        "ranked": 13,
+        "epoch": 1639126806.3751216
+    },
+    {
+        "title": "Unwahrscheinlich",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kaenguru-comics/2021-12/folge-298",
+        "content": "Der K\u00e4nguru-Comic vom 10. Dezember 2021",
+        "ranked": 14,
+        "epoch": 1639126806.3751225
+    },
+    {
+        "title": "Wladimir Putin kritisiert Menschenrechtsorganisation Memorial",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/russland-praesident-wladimir-putin-memorial-gerichtsverfahren",
+        "content": "Der russische Pr\u00e4sident wirft Memorial vor, sich f\u00fcr Terroristen einzusetzen. Gegen die Organisation l\u00e4uft ein Verfahren, das zu ihrer Aufl\u00f6sung f\u00fchren k\u00f6nnte.",
+        "ranked": 15,
+        "epoch": 1639126806.375123
+    },
+    {
+        "title": "Nicaragua bricht diplomatische Beziehungen zu Taiwan ab",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/china-taiwan-nicaragua-anerkennung-diplomatie",
+        "content": "Taiwan verliert einen weiteren Verb\u00fcndeten in Lateinamerika: Nicaragua hat die diplomatischen Beziehungen beendet und sich zur Ein-China-Doktrin bekannt.",
+        "ranked": 16,
+        "epoch": 1639126806.3751235
+    },
+    {
+        "title": "Gericht genehmigt Herausgabe von Akten zu Erst\u00fcrmung des US-Kapitols",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/usa-gericht-akten-freigabe-sturm-auf-kapitol",
+        "content": "Donald Trump hat sich juristisch gegen die Untersuchung zu seiner Rolle bei den Ausschreitungen am 6. Januar gewehrt. Ein Bundesgericht hat seine Klage jedoch abgewiesen.",
+        "ranked": 17,
+        "epoch": 1639126806.3751242
+    },
+    {
+        "title": "Booster laut Ema schon drei Monate nach Zweitimpfung wirksam",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-12/booster-impfung-auffrischungsimpfung-ema-coronavirus",
+        "content": "Die Europ\u00e4ische Arzneimittelbeh\u00f6rde empfiehlt eine Auffrischungsimpfung nach sechs Monaten. Fr\u00fcheres Boostern sei m\u00f6glich, sollte von den L\u00e4ndern aber abgewogen werden.",
+        "ranked": 18,
+        "epoch": 1639126806.375125
+    },
+    {
+        "title": "Mehr als 100.000 bekannte F\u00e4lle bei Sch\u00fclern in Deutschland",
+        "date_raw": "December 09, 2021",
+        "date": "2021-12-09",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/corona-faelle-schule-quarantaenemassnahmen-kmk",
+        "content": "An Schulen gab es Anfang Dezember wieder mehr Corona-Infektionen, zeigen Daten der Kultusministerkonferenz. Geschlossen waren 86 Schulen \u2013 weniger als in der Woche davor.",
+        "ranked": 19,
+        "epoch": 1639126806.3751254
+    }
+]
