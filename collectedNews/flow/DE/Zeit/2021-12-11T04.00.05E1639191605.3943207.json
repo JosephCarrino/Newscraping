@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Ein Gro\u00dfmeister der Selbstvernichtung",
+        "date_raw": "December 11, 2021",
+        "date": "2021-12-11",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/magnus-carlsen-titelverteidigung-jan-nepomnjaschtschi-schach-wm-dubai",
+        "content": "Das Ende des Titelkampfes kommt noch schneller als gedacht. Magnus Carlsen ist der neue Weltmeister \u2013 sein Herausforderer st\u00fcrzt alle in Verwirrung. Die letzte Partie",
+        "ranked": 0,
+        "epoch": 1639191605.3942723
+    },
+    {
+        "title": "Michael Nesmith ist tot",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/musik/2021-12/the-monkees-michael-nesmith-ist-tot",
+        "content": "Mit den Hits \"I'm a Believer\" und \"Last Train to Clarksville\" wurde er mit der Band The Monkees erfolgreich. Nun ist Michael Nesmith im Alter von 78 Jahren gestorben.",
+        "ranked": 1,
+        "epoch": 1639191605.3942745
+    },
+    {
+        "title": "Scholz ber\u00e4t in Telefonat mit Biden \u00fcber Ukraine-Krise",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/bundeskanzler-olaf-scholz-us-praesident-joe-biden-telefonat-ukraine",
+        "content": "Bundeskanzler Scholz und US-Pr\u00e4sident Biden haben sich zu Russlands Truppenaufmarsch an der ukrainischen Grenze ausgetauscht. Auch der Klimawandel war Thema.",
+        "ranked": 2,
+        "epoch": 1639191605.3942757
+    },
+    {
+        "title": "Augsburg stoppt Negativserie gegen K\u00f6ln",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/bundesliga-spieltag-15-fussball-sport",
+        "content": "Der 1. FC K\u00f6ln hat seine erste Heimniederlage der Saison kassiert. Das Team von Steffen Baumgart verlor zum Auftakt des 15. Spieltages gegen den FC Augsburg.",
+        "ranked": 3,
+        "epoch": 1639191605.3942766
+    },
+    {
+        "title": "12.737 Neuinfektionen weniger als in der Vorwoche",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wissen/2021-12/coronavirus-zahl-neuinfektionen-gesundheitsaemter-rki-daten",
+        "content": "Nach Recherche von ZEIT ONLINE haben die Gesundheits\u00e4mter in Deutschland binnen eines Tages 58.198 Corona-Neuinfektionen gemeldet. 509 weitere Menschen starben.",
+        "ranked": 4,
+        "epoch": 1639191605.3942773
+    },
+    {
+        "title": "Olaf Scholz will Verteidigungsausgaben erh\u00f6hen",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/nato-bundeskanzler-olaf-scholz-verteidigungsausgaben-erhoehen",
+        "content": "Bundeskanzler Olaf Scholz hat der Nato h\u00f6here Milit\u00e4rausgaben in Aussicht gestellt. Die Verteidigungsausgaben sollen \"im Rahmen der Haushaltsm\u00f6glichkeiten\" steigen.",
+        "ranked": 5,
+        "epoch": 1639191605.3942788
+    },
+    {
+        "title": "B\u00fcrgerbewegung Leipzig 2021 als extremistische Gruppierung eingestuft",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/leipzig-2021-buergerbewegung-corona-proteste-verfassungssschutz-extremismus",
+        "content": "Die B\u00fcrgerbewegung ruft regelm\u00e4\u00dfig zu Protesten gegen die Corona-Ma\u00dfnahmen auf. Sachsens Verfassungsschutz kann nun nachrichtendienstlich gegen Teilnehmende vorgehen.",
+        "ranked": 6,
+        "epoch": 1639191605.3942795
+    },
+    {
+        "title": "Shell-Konzern \u00e4ndert Namen und verlegt Steuersitz nach Gro\u00dfbritannien",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-12/shell-royal-dutch-steuersitz-grossbritannien-klima-niederlande",
+        "content": "Europas gr\u00f6\u00dfter Energiekonzern verl\u00e4sst die EU und strukturiert sich neu. Mit dem aufsehenerregenden Klima-Urteil aus den Niederlanden habe der Schritt nichts zu tun.",
+        "ranked": 7,
+        "epoch": 1639191605.39428
+    },
+    {
+        "title": "Kurz vor dem Totalausfall",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/unternehmen/2021-12/evergrande-china-immobilienkonzern-fitch",
+        "content": "Die Ratingagentur Fitch hat den Immobiliengiganten Evergrande stark herabgestuft. Angeblich will Chinas F\u00fchrung den Konzern nicht retten \u2013 doch so einfach ist es nicht.",
+        "ranked": 8,
+        "epoch": 1639191605.3942807
+    },
+    {
+        "title": "Orrrrrr!",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/kultur/2021-12/schoenheitsoperationen-kinder-body-positivity-koerperbild",
+        "content": "Kinder sollen einen positiven Bezug zur Vielfalt und zum eigenen K\u00f6rper entwickeln. Aber wenn ein Baby abstehende Ohren hat, sind Sch\u00f6nheits-OPs immer noch verbreitet.",
+        "ranked": 9,
+        "epoch": 1639191605.3942814
+    },
+    {
+        "title": "Wie kann ich meine Frau wieder zum Sex einladen?",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/zeit-magazin/leben/2021-12/krankheit-sexualitaet-multiple-sklerose-partnerschaft-kommunikation",
+        "content": "Eine Krankheit wie Multiple Sklerose schr\u00e4nkt die Sexualfunktionen ein. Wer sich dennoch das Begehren nicht nehmen lassen will, braucht Freiheit \u2013 und Frechheit.",
+        "ranked": 10,
+        "epoch": 1639191605.3942826
+    },
+    {
+        "title": "War's das schon wieder mit der wertebasierten Au\u00dfenpolitik?",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/annalena-baerbock-aussenpolitik-china",
+        "content": "Es w\u00e4re Aufgabe der Au\u00dfenministerin, gegen Chinas Imperialismus aufzutreten. Doch das Einstimmigkeitsdogma der EU l\u00e4hmt. Der Kanzler droht die Leisetreterei fortzusetzen.",
+        "ranked": 11,
+        "epoch": 1639191605.394283
+    },
+    {
+        "title": "Gro\u00dfbritannien und USA verh\u00e4ngen neue Sanktionen gegen Myanmar",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/myanmar-militaerjunta-sanktionen-grossbritannien-usa",
+        "content": "Reisesperren und die Einfrierung von Verm\u00f6gen sollen Druck auf die Milit\u00e4rjunta in Myanmar aus\u00fcben. Gegner der Regimes riefen im Land zu einem Streik auf.",
+        "ranked": 12,
+        "epoch": 1639191605.3942835
+    },
+    {
+        "title": "Die Abschreckung",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/digital/2021-12/julian-assange-wikileaks-auslieferung-usa-grossbritannien-rechtsstreit",
+        "content": "WikiLeaks-Gr\u00fcnder Julian Assange soll doch in die USA ausgeliefert werden d\u00fcrfen, entschied der britische High Court. Das ist aus Sicht der Pressefreiheit gef\u00e4hrlich.",
+        "ranked": 13,
+        "epoch": 1639191605.3942842
+    },
+    {
+        "title": "Oberster Gerichtshof der USA l\u00e4sst strenges Abtreibungsgesetz in Kraft",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/supreme-court-schwangerschaftsabbruch-texas-usa",
+        "content": "Die juristische Auseinandersetzung d\u00fcrfte nun von vorne losgehen: Der Supreme Court hat das strenge Gesetz aus Texas nicht aufgehoben. Aber: Klagen dagegen sind m\u00f6glich.",
+        "ranked": 14,
+        "epoch": 1639191605.3942847
+    },
+    {
+        "title": "Als Extremist eingestufter Gnauck f\u00fcr Verteidigungsausschuss benannt",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/deutschland/2021-12/afd-mad-extremisten-verteidigungsausschuss-innenausschuss",
+        "content": "Der AfD-Politiker Hannes Gnauck ist laut MAD Extremist. Dennoch soll er im Verteidigungsausschuss des Bundestags sitzen. Und ein suspendierter Polizist im Innenausschuss.",
+        "ranked": 15,
+        "epoch": 1639191605.3942857
+    },
+    {
+        "title": "Die Impfpflicht im Gesundheitswesen kommt",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/2021-12/infektionsschutzgesetz-corona-massnahmen-partielle-impfpflicht-nachrichtenpodcast",
+        "content": "Das Infektionsschutzgesetz ist verabschiedet. Karl Lauterbach hat die Bek\u00e4mpfung von Corona zum obersten Ziel der Regierung erkl\u00e4rt. Und: Assanges Auslieferung droht.",
+        "ranked": 16,
+        "epoch": 1639191605.3942862
+    },
+    {
+        "title": "\"Es w\u00e4re ein Angriff auf die direkte Demokratie\"",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/wirtschaft/2021-12/deutsche-wohnen-enteignen-volksentscheid-rouzbeh-taheri",
+        "content": "Berlin hat f\u00fcr eine Enteignung gro\u00dfer Wohnungskonzerne gestimmt, doch die Politik z\u00f6gert. Ist der Volksentscheid schon gescheitert? Die Initiatoren wollen weiterk\u00e4mpfen.",
+        "ranked": 17,
+        "epoch": 1639191605.3942869
+    },
+    {
+        "title": "Erst mal Verl\u00e4sslichkeit zeigen",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/politik/ausland/2021-12/olaf-scholz-paris-emmanuel-macron-aussenpolitik",
+        "content": "Unstimmigkeiten bleiben zun\u00e4chst au\u00dfen vor: Beim Antrittsbesuch des neuen Bundeskanzlers in Frankreich wird die enorme Bedeutung der Au\u00dfenpolitik f\u00fcr die Ampel deutlich.",
+        "ranked": 18,
+        "epoch": 1639191605.3942876
+    },
+    {
+        "title": "Magnus Carlsen verteidigt Schachweltmeistertitel",
+        "date_raw": "December 10, 2021",
+        "date": "2021-12-10",
+        "url": "https://api.zeit.de/content?fields=title+subtitle+href+release_date+&limit=50",
+        "news_url": "https://www.zeit.de/sport/2021-12/schach-wm-magnus-carlsen-verteidigt-weltmeistertitel",
+        "content": "Der Norweger Magnus Carlsen bleibt Schachweltmeister. Sein Herausforderer Jan Nepomnjaschtschi hatte ihm schon in den letzten Spielen immer weniger entgegenzusetzen.",
+        "ranked": 19,
+        "epoch": 1639191605.3942914
+    }
+]
