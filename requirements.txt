@@ -12,8 +12,12 @@ attrs==21.2.0
     #   twisted
 automat==20.2.0
     # via twisted
+certifi==2021.10.8
+    # via requests
 cffi==1.15.0
     # via cryptography
+charset-normalizer==2.0.9
+    # via requests
 click==8.0.3
     # via pip-tools
 constantly==15.1.0
@@ -40,6 +44,7 @@ hyperlink==21.0.0
 idna==3.3
     # via
     #   hyperlink
+    #   requests
     #   yarl
 incremental==21.3.0
     # via twisted
@@ -97,6 +102,8 @@ pyyaml==6.0
     # via vcrpy
 queuelib==1.6.2
     # via scrapy
+requests==2.26.0
+    # via -r requirements.in
 scrapy==2.5.1
     # via -r requirements.in
 service-identity==21.1.0
@@ -118,6 +125,8 @@ twisted[http2]==21.7.0
     # via scrapy
 typing-extensions==4.0.1
     # via twisted
+urllib3==1.26.7
+    # via requests
 vcrpy==4.1.1
     # via -r requirements.in
 w3lib==1.22.0
