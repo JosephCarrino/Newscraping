@@ -10,3 +10,6 @@
 nytKey.txt
 gKey.txt
 zeitKey.txt
+
+# PyCharm settings
+.idea/
