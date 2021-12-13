@@ -1,26 +1,33 @@
-from datetime import datetime
+#!/usr/bin/env python
+
+from datetime import datetime, timedelta
+from os import path
 import json
 import time
-import urllib.request
+import requests
+
+SCRIPTS_DIR = path.dirname(__file__)
+PROJ_DIR = f"{SCRIPTS_DIR}/../"
+API_URL = "https://api.nytimes.com/svc/topstories/v2"
 
 
 def main():
-    f = open("keys/nytKey.txt", "r+")
-    key = f.read()
+    key = read_key("nyt")
 
-    conv_dic = {'https://api.nytimes.com/svc/topstories/v2/home.json?api-key='+key: "First_Page",
-            'https://api.nytimes.com/svc/topstories/v2/world.json?api-key='+key: "Abroad",
-            'https://api.nytimes.com/svc/topstories/v2/politics.json?api-key='+key: "Politics",
-            'https://api.nytimes.com/svc/topstories/v2/business.json?api-key='+key: "Economics"}
+    now = datetime.now()
+    now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
+    now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
 
-    urls_get = ['https://api.nytimes.com/svc/topstories/v2/home.json?api-key=' + key,
-        'https://api.nytimes.com/svc/topstories/v2/world.json?api-key=' + key,
-        'https://api.nytimes.com/svc/topstories/v2/politics.json?api-key=' + key,
-        'https://api.nytimes.com/svc/topstories/v2/business.json?api-key=' + key]
+    page_info = {
+        "First_Page": f"{API_URL}/home.json?api-key={key}",
+        "Abroad": f"{API_URL}/world.json?api-key={key}",
+        "Politics": f"{API_URL}/politics.json?api-key={key}",
+        "Economics": f"{API_URL}/business.json?api-key={key}",
+    }
 
-    for url_get in urls_get:
-        to_get = urllib.request.urlopen(url_get)
-        obj = json.loads(to_get.read().decode("utf-8"))
+    for section_name, section_url in page_info.items():
+        section_json_raw = requests.get(section_url).text
+        obj = json.loads(section_json_raw)
         titles = []
         contents = [] #abstract
         urls = []
@@ -29,8 +36,7 @@ def main():
         ranked = []
         more_info = []
         
-        i = 0
-        for result in obj['results']:   
+        for i, result in enumerate(obj['results']):
             del result['multimedia']
             titles.append(result['title'])
             del result['title']
@@ -40,23 +46,21 @@ def main():
             del result['url']
             dates.append(result['published_date'])
             del result['published_date']
-            placeds.append(conv_dic[url_get])
+            placeds.append(section_name)
             ranked.append(i)
             more_info.append(result)
-            i += 1
-        
+
         edition = []
-        i = 0
-        to_dump = True
-        for item in zip(titles, dates, urls, contents, ranked, placeds, more_info):
-            date= datetime.strptime(item[1][0:10], "%Y-%m-%d")
-            date_raw= date.strftime("%B %d, %Y")
-            date= date.strftime("%Y-%m-%d")
+        for i, item in enumerate(zip(titles, dates, urls, contents, ranked, placeds, more_info)):
+            date = datetime.strptime(item[1][0:10], "%Y-%m-%d")
+            date_raw = date.strftime("%B %d, %Y")
+            date = date.strftime("%Y-%m-%d")
+
             scraped_info = {
                 'title': item[0],
                 'date_raw': date_raw,
                 'date': date,
-                'url': url_get,
+                'url': section_url,
                 'news_url': item[2],
                 'content': item[3],
                 'ranked': item[4],
@@ -67,17 +71,24 @@ def main():
             if item[5] == "":
                 scraped_info['placed'] = "First_Page"
 
-            i += 1
             edition.append(scraped_info)
-        now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
-        if to_dump:
-            my_f = str(now) + "E" + str(time.time())
-            f = open("collectedNews/flow/EN/NYT/" + my_f + ".json", "w")
-            json.dump(edition, f, indent= 4)
-            f.close()
-            f = open("collectedNews/flow/EN/NYT/" + my_f + ".json", "a")
+
+        base_name = f"{now_s}E{now_epoch}-{section_name.lower()}.json"
+        scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/EN/NYT/"
+        scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+        with open(scraped_data_filepath, "w") as f:
+            json.dump(edition, f, indent=4, ensure_ascii=False)
             f.write("\n")
-            f.close()
+
+
+def read_key(key_name: str) -> str:
+    key_dir = f"{PROJ_DIR}/keys"
+
+    with open(f"{key_dir}/{key_name}Key.txt", "r") as f:
+        key = f.read()
+    key = key.strip()
+
+    return key
 
 
 if __name__ == "__main__":
