@@ -2,7 +2,7 @@ import vcr
 import nytimesGet
 from urllib.request import urlopen
 
-f= open("nytKey.txt", "r+")
+f= open("keys/nytKey.txt", "r+")
 key=f.read()
 f.close()
 

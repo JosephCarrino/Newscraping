@@ -15,7 +15,7 @@ def sorted_nicely( l ):
     alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ] 
     return sorted(l, key = alphanum_key)
 
-f= open("gKey.txt", "r+")
+f= open("keys/gKey.txt", "r+")
 key=f.read()
 
 #Insert here your GuardianAPI key

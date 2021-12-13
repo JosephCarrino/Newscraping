@@ -15,7 +15,7 @@ def sorted_nicely( l ):
 
 def main():
 
-    f= open("nytKey.txt", "r+")
+    f= open("keys/nytKey.txt", "r+")
     key=f.read()
 
     #Insert here your NewYorkTimesAPI key

@@ -14,7 +14,7 @@ def sorted_nicely( l ):
     return sorted(l, key = alphanum_key)
 
 def main():
-    f= open("zeitKey.txt", "r+")
+    f= open("keys/zeitKey.txt", "r+")
     key=f.read()
 
     #Insert here your ZeitAPI key
