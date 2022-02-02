@@ -4,9 +4,13 @@ from scrapy import Selector
 from datetime import datetime
 import datetime
 import time
-import os
+from os import path
 import json
-import re
+
+SCRIPTS_DIR = path.dirname(__file__)
+PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
+BASE_URL = f"https://www.pbs.org/newshour/show/"
+DOMAIN_URL = f"www.pbs.org"
 
 class PbsgetSpider(scrapy.Spider):
     name = 'pbsGet'
@@ -18,24 +22,12 @@ class PbsgetSpider(scrapy.Spider):
     isWeek= toD.weekday()
     #different urls for weekdays and weekends
     if isWeek < 5:
-        searchurl = "https://www.pbs.org/newshour/show/" + str(url) + "-pbs-newshour-full-episode"
+        searchurl = BASE_URL + str(url) + "-pbs-newshour-full-episode"
     else:
-        searchurl = "https://www.pbs.org/newshour/show/" + str(url) + "-pbs-newshour-weekend-full-episode"
-    #for i in range (1, 31):
-        #if i < 10:
-        #   ddate= datetime.strptime("0" + str(i) + "/09/2021", "%d/%m/%Y")
-        #   isWeek= ddate.weekday()
-        #else:
-        #   ddate= datetime.strptime(str(i) + "/09/2021", "%d/%m/%Y")
-        #    isWeek= ddate.weekday()
-        #if isWeek < 5:
-        #    urls.append("https://www.pbs.org/newshour/show/september-" + str(i) + "-2021-pbs-newshour-full-episode")
-        #else:
-        #    urls.append("https://www.pbs.org/newshour/show/september-" + str(i) + "-2021-pbs-newshour-weekend-full-episode")
+        searchurl = BASE_URL + str(url) + "-pbs-newshour-weekend-full-episode"
     
-    allowed_domains = ['www.pbs.org']
+    allowed_domains = [DOMAIN_URL]
     start_urls = [searchurl.lower()]
-    #start_urls = ["https://www.pbs.org/newshour/show/october-19-2021-pbs-newshour-full-episode"]
 
     def parse(self, response):
         ddate= datetime.datetime.strptime(response.css(".video-single__title--large").css("span::text").get(), "%B %d, %Y")
@@ -68,10 +60,10 @@ class PbsgetSpider(scrapy.Spider):
             }
             edition.append(scraped_info)
             
-        f= open("../../../collectedNews/edition/EN/PBS/" + str(date) + ".json", "w")
-        json.dump(edition, f, indent= 4, ensure_ascii=False)
-        f.close()
-        f= open("../../../collectedNews/edition/EN/PBS/" + str(date) + ".json", "a")
-        f.write("\n")
-        f.close()
+        base_name = f"{str(edition[0]['date'])}.json"
+        scraped_data_dir = f"{PROJ_DIR}/collectedNews/edition/EN/PBS"
+        scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+        with open(scraped_data_filepath, "w") as f:
+            json.dump(edition, f, indent=4, ensure_ascii=False)
+            f.write("\n")
             

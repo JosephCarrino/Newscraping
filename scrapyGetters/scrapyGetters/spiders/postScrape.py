@@ -1,22 +1,18 @@
 import scrapy
 from scrapy.http import HtmlResponse
 from scrapy import Selector
-from datetime import datetime
+from datetime import datetime, timedelta
 import time
-import os
+from os import path
 import json
-import re
 
-
-#sort i've found o StackOverflow, if I didn't use this I couldn't find the "last saved news" below
-#credits to Mark Byers
-def sorted_nicely( l ): 
-    """ Sort the given iterable in the way that humans expect.""" 
-    convert = lambda text: int(text) if text.isdigit() else text 
-    alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ] 
-    return sorted(l, key = alphanum_key)
-
-
+SCRIPTS_DIR = path.dirname(__file__)
+PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
+BASE_URL = f"www.ilpost.it"
+ARCH_URLS = [f"https://{BASE_URL}/",
+            f"https://{BASE_URL}/mondo/",
+            f"https://{BASE_URL}/politica/",
+            f"https://{BASE_URL}/economia/"]
 
 place_dict= {'https://www.ilpost.it/': "First_Page",
             'https://www.ilpost.it/mondo/': "Abroad",
@@ -26,11 +22,8 @@ place_dict= {'https://www.ilpost.it/': "First_Page",
 
 class PostscrapeSpider(scrapy.Spider):
     name = 'postScrape'
-    allowed_domains = ['www.ilpost.it']
-    start_urls = ['http://www.ilpost.it',
-                 'https://www.ilpost.it/mondo/',
-                 'https://www.ilpost.it/politica/',
-                 'https://www.ilpost.it/economia/']
+    allowed_domains = [BASE_URL]
+    start_urls = ARCH_URLS
 
     def parse(self, response):
         articles= response.css("#content").css("article")
@@ -42,6 +35,10 @@ class PostscrapeSpider(scrapy.Spider):
         placeds=[]
         rankeds= []
         
+        now = datetime.now()
+        now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
+        now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
+
         i= 0
         for article in articles:
             tourl= article.css("header").css("figure").css("a::attr(href)").get()
@@ -60,7 +57,6 @@ class PostscrapeSpider(scrapy.Spider):
             i+=1
          
         edition= []
-        toDump= True
         for item in zip(titles, dates_raw, dates, urls, contents, rankeds, placeds):
             scraped_info= {
                 'title': item[0],
@@ -75,12 +71,9 @@ class PostscrapeSpider(scrapy.Spider):
             }
             edition.append(scraped_info)
             
-        now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")    
-        if toDump:
-            my_f = str(now) + "E" + str(time.time())
-            f= open("../../../collectedNews/flow/IT/ilPost/" + my_f + ".json", "w")
+        base_name = f"{now_s}E{now_epoch}.json"
+        scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/IT/ilPost"
+        scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+        with open(scraped_data_filepath, "w") as f:
             json.dump(edition, f, indent= 4, ensure_ascii=False)
-            f.close()
-            f= open("../../../collectedNews/flow/IT/ilPost/" + my_f + ".json", "a")
             f.write("\n")
-            f.close()

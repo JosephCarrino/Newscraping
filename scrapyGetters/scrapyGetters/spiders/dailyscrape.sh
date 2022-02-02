@@ -7,8 +7,8 @@ scrapy crawl rtsGet
 scrapy crawl pbsGet
 scrapy crawl frGet
 scrapy crawl 20Get
-scrapy crawl gr1url
-scrapy crawl gr1Get
+# scrapy crawl gr1url
+# scrapy crawl gr1Get
 cd ../../..
 git add .
 git commit -m "daily_checkout"
