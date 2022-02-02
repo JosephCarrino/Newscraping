@@ -3,29 +3,22 @@ from scrapy.http import HtmlResponse
 from scrapy import Selector
 from datetime import datetime
 import time
-import os
+from os import path
 import json
-import re
 import dateparser
 
-#sort i've found o StackOverflow, if I didn't use this I couldn't find the "last saved news" below
-#credits to Mark Byers
-def sorted_nicely( l ): 
-    """ Sort the given iterable in the way that humans expect.""" 
-    convert = lambda text: int(text) if text.isdigit() else text 
-    alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ] 
-    return sorted(l, key = alphanum_key)
-
-
+SCRIPTS_DIR = path.dirname(__file__)
+PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
+BASE_URL = f"https://www.rts.ch/audio-podcast/2021/audio"
 
 class RtsgetSpider(scrapy.Spider):
     name = 'rtsGet'
     f=open("rtsurls.txt", "r+")
     toGetUrls= f.read()
-    #print(toGetUrls)
     toGetUrls = toGetUrls.split("\n")
     toGetUrls = list(dict.fromkeys(toGetUrls))
-    allowed_domains = ['https://www.rts.ch/audio-podcast/2021/audio']
+    allowed_domains = [BASE_URL]
+    print(toGetUrls)
     start_urls = toGetUrls
 
     def parse(self, response):
@@ -63,10 +56,9 @@ class RtsgetSpider(scrapy.Spider):
             }
             edition.append(scraped_info)
         
-        f= open("../../../collectedNews/edition/FR/RTS/" + str(edition[0]['date']) + ".json", "w")
-        json.dump(edition, f, indent= 4, ensure_ascii=False)
-        f.close()
-        f= open("../../../collectedNews/edition/FR/RTS/" + str(edition[0]['date']) + ".json", "a")
-        f.write("\n")
-        f.close()
-    
+        base_name = f"{str(edition[0]['date'])}.json"
+        scraped_data_dir = f"{PROJ_DIR}/collectedNews/edition/FR/RTS"
+        scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+        with open(scraped_data_filepath, "w") as f:
+            json.dump(edition, f, indent= 4, ensure_ascii=False)
+            f.write("\n")
