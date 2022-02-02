@@ -21,18 +21,19 @@ class A20getSpider(scrapy.Spider):
     allowed_domains = [ARCH_URL]
     start_urls = [ARCH_URL]
 
+    def check20Tagess(self, box) -> bool:
+        if box.css(".headline").css("a::text").get().rstrip() == "tagesschau" and box.css(".dachzeile::text").get()[11:16] == "20:00":
+            return True
+        else:
+            return False
+    
     def parse(self, response):
         boxes = response.css(".viewB")
         toRet= []
         for box in boxes:
             box= box.css(".teaser")
-            if box.css(".headline").css("a::text").get() == "tagesschau " or box.css(".headline").css("a::text").get() == "tagesschau":
-                if box.css(".dachzeile::text").get()[11:16] == "20:00":
-                    toRet.append(box)   
-        
-        now = datetime.now()
-        now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
-        now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
+            if self.check20Tagess(box):
+                toRet.append(box)   
                              
         
         for box in toRet:
