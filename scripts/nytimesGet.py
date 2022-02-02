@@ -74,7 +74,7 @@ def main():
             edition.append(scraped_info)
 
         base_name = f"{now_s}E{now_epoch}-{section_name.lower()}.json"
-        scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/EN/NYT/"
+        scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/EN/NYT"
         scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
         with open(scraped_data_filepath, "w") as f:
             json.dump(edition, f, indent=4, ensure_ascii=False)
