@@ -60,7 +60,7 @@ class A20getSpider(scrapy.Spider):
                 i+=1
                 edition.append(scraped_info)
 
-            base_name = f"{str(scraped_info['date'])}.json"
+            base_name = f"{str(edition[0]['date'])}.json"
             scraped_data_dir = f"{PROJ_DIR}/collectedNews/edition/DE/Tagesschau"
             scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
             with open(scraped_data_filepath, "w") as f:

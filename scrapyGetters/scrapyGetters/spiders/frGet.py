@@ -4,17 +4,23 @@ from scrapy import Selector
 from datetime import datetime
 from datetime import date
 import time
-import os
+from os import path
 import json
-import re
+
+SCRIPTS_DIR = path.dirname(__file__)
+PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
+ARCH_URL = f"https://www.france24.com/en/archives/2022/02/"
+MONTH = f"-February-2022"
+BASE_URL = f"https://www.france24.com/en"
+
 
 class FrgetSpider(scrapy.Spider):
     name = 'frGet'
     urls= []
     tod= date.today().strftime("%d")
     #for i in range(1, 31):
-    urls.append("https://www.france24.com/en/archives/2021/11/" + str(tod) + "-November-2021")
-    allowed_domains = ['https://www.france24.com/en']
+    urls.append(ARCH_URL + str(tod) + MONTH)
+    allowed_domains = [BASE_URL]
     start_urls = urls
 
     def parse(self, response):
@@ -48,11 +54,11 @@ class FrgetSpider(scrapy.Spider):
                 'epoch': time.time()                
             }
             edition.append(scraped_info)
-        this_name = edition[0]['date']
-        f= open("../../../collectedNews/edition/EN/France24/" + str(this_name) + ".json", "w")
-        json.dump(edition, f, indent= 4, ensure_ascii=False)
-        f.close()
-        f= open("../../../collectedNews/edition/EN/France24/" + str(this_name) + ".json", "a")
-        f.write("\n")
-        f.close()
+        
+        base_name = f"{str(edition[0]['date'])}.json"
+        scraped_data_dir = f"{PROJ_DIR}/collectedNews/edition/EN/France24"
+        scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+        with open(scraped_data_filepath, "w") as f:
+            json.dump(edition, f, indent= 4, ensure_ascii=False)
+            f.write("\n")
         
