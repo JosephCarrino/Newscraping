@@ -2,60 +2,39 @@ import scrapy
 from scrapy.selector import Selector
 from scrapy.http import HtmlResponse
 import time
+from os import path
 import json
-import os
-import re 
-from datetime import datetime
+from datetime import datetime, timedelta
 
-
-#sort i've found o StackOverflow, if I didn't use this I couldn't find the "last saved news" below
-#credits to Mark Byers
-def sorted_nicely( l ): 
-    """ Sort the given iterable in the way that humans expect.""" 
-    convert = lambda text: int(text) if text.isdigit() else text 
-    alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ] 
-    return sorted(l, key = alphanum_key)
-
+SCRIPTS_DIR = path.dirname(__file__)
+PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
+BASE_URL = f"www.bbc.com/news"
+ARCH_URLS = [
+    f"https://{BASE_URL}",
+    f"https://{BASE_URL}/world/",
+    f"https://{BASE_URL}/politics"
+]
 
 class BbcSpider(scrapy.Spider):
     name = 'bbc'
-    allowed_domains = ['www.bbc.com/news/world']
-    start_urls = ['https://www.bbc.com/news/world/',
-                 'https://www.bbc.com/news',
-                 'https://www.bbc.com/news/politics']
+    allowed_domains = [BASE_URL]
+    start_urls = ARCH_URLS
 
     def parse(self, response):
         #using scrapy css selectors to get informations I need
-        base_url= 'https://www.bbc.com/news/'
+        base_url= f"https://{BASE_URL}/"
         titles = response.css(".gs-c-promo-heading__title::text").getall()
         contents = response.css(".gs-c-promo-summary::text").getall()
         urls= response.css(".gs-c-promo-heading::attr(href)").getall()
         dates= response.css("time::attr(datetime)").getall()
 
-        #knowing my last saved news index, in order to not overwrite anything
-        #files= sorted_nicely(os.listdir("../../../UK"))
-        #if len(files) == 0:
-            #j= 0
-        #else:
-            #lastNew= files[len(files)-1]
-            #lastNew= lastNew.replace("news", "").replace(".json", "")
-            #j= int(lastNew)+1
-        
-        #array of news-titles, I will use this to notice if I have already saved a news
-        #searchin= []
-        #files= os.listdir("../../../collectedNews/UK/BBC")
-        #for index in range(0, j):
-            #try:
-                #f= open("../../../collectedNews/UK/BBC/" + str(index) + ".json", "r+")
-                #data = json.load(f)
-                #searchin.append(data['title'])
-            #maybe some news have been deleted so I just skip the numbers I can't find in the directory
-            #except:
-                #pass
-        
+        now = datetime.now()
+        now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
+        now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
+
+
         edition= []
         for item in zip(titles,contents,urls,dates):
-            toSave= True
             date= item[3][0:len(item[3])-5]
             try:
                 date= datetime.strptime(date,"%Y-%m-%dT%H:%M:%S").strftime("%Y-%m-%d")
@@ -65,7 +44,6 @@ class BbcSpider(scrapy.Spider):
                 'title': item[0],
                 'date': date,
                 'date_raw': date,
-                #'date': datetime.strptime(date, "%B %d, %Y").strftime("%Y-%m-%d"),
                 'url': response.request.url,
                 'news_url': "https://www.bbc.com" + item[2],
                 'content': item[1],
@@ -77,20 +55,11 @@ class BbcSpider(scrapy.Spider):
             if scraped_info['placed'] == base_url[0:len(base_url)-1]:
                 scraped_info['placed']= "First_Page"
             
-            #looking if I already saved the news
-            #for i in searchin:
-                #if i == scraped_info['title']:
-                    #toSave = False
-                    #break
             edition.append(scraped_info)
             
-        now = datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
-        if toSave:
-            my_f = str(now) + "E" + str(time.time()) 
-            f= open("../../../collectedNews/flow/EN/BBC/" + my_f + ".json", "w")
+        base_name = f"{now_s}E{now_epoch}.json"
+        scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/EN/BBC"
+        scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+        with open(scraped_data_filepath, "w") as f:
             json.dump(edition, f, indent= 4, ensure_ascii=False)
-            f.close()
-            f= open("../../../collectedNews/flow/EN/BBC/" + my_f + ".json", "a")
             f.write("\n")
-            f.close()
-            #j+=1
