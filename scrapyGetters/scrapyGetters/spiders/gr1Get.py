@@ -3,45 +3,36 @@ from scrapy.http import HtmlResponse
 from scrapy import Selector
 from datetime import datetime
 import time
-import os
+from os import path
 import json
-import re
 
+#SCRIPT NON FUNZIONANTE
+#CAUSA RIMOZIONE DESCRIZIONE EDIZIONI DEL GR1
 
-#sort i've found o StackOverflow, if I didn't use this I couldn't find the "last saved news" below
-#credits to Mark Byers
-def sorted_nicely( l ): 
-    """ Sort the given iterable in the way that humans expect.""" 
-    convert = lambda text: int(text) if text.isdigit() else text 
-    alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ] 
-    return sorted(l, key = alphanum_key)
-
+SCRIPTS_DIR = path.dirname(__file__)
+PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
+BASE_URL = f"www.raiplayradio.it"
 
 
 class Gr1getSpider(scrapy.Spider):
     f=open("gr1urls.txt", "r+")
     toGetUrls= f.read()
-    #print(toGetUrls)
+    f.close()
     toGetUrls = toGetUrls.split("\n")
     name = 'gr1Get'
-    allowed_domains = ['www.raiplayradio.it']
+    allowed_domains = [BASE_URL]
     start_urls = toGetUrls
 
-    def parse(self, response):
-        box= response.css(".descriptionProgramma")
-        timebox= box.css("ul").css("li").css("span::text").get()
-        date= datetime.strptime(timebox, "%d/%m/%Y")
-        d_raw= date.strftime("%B %d, %Y")
-        d_real= date.strftime("%Y-%m-%d")
-        url= response.url
-        titles= box.css(".aodHtmlDescription::text").getall()
+    def removingNewLines(self, titles):
         while True:
             try:
                 titles.remove("\n")
             except:
-                break
+                break       
         titles= titles[0:len(titles)-1]
-        
+        return titles
+    
+    def gettingContents(self, titles):
         contents= []
         for i in range(0, len(titles)):
             toApp= ""
@@ -51,23 +42,31 @@ class Gr1getSpider(scrapy.Spider):
             for c in con:
                 toApp+= c + ". "
             contents.append(toApp)
+        return (titles, contents)
+
+    def formatTitle(self, title):
+        return title.replace("\r", "").replace("\n", "").replace("\t", "").strip()
+
+    def parse(self, response):
+        box= response.css(".descriptionProgramma")
+        timebox= box.css("ul").css("li").css("span::text").get()
+        date= datetime.strptime(timebox, "%d/%m/%Y")
+        d_raw= date.strftime("%B %d, %Y")
+        d_real= date.strftime("%Y-%m-%d")
+        url= response.url
+        titles= box.css(".aodHtmlDescription::text").getall()
         
-        #lastNew = ""
-        #files= sorted_nicely(os.listdir("../../../gr1IT"))
-        #if len(files) == 0:
-            #j= 0
-        #else:
-            #lastNew= files[len(files)-1]
-            #j= len(files)
-                  
+        titles = self.removingNewLines(titles)
+        
+        (titles, contents) = self.gettingContents(titles)
+              
         i= 0
         edition= []
-        toDump= True
         for item in zip(titles, contents):
-            if item[0].replace("\r", "").replace("\n", "").replace("\t", "").strip() == ".":
+            if self.formatTitle(item[0]) == ".":
                 continue
             scraped_info = {
-                'title': item[0].replace("\r", "").replace("\n", "").replace("\t", "").strip(),
+                'title': self.formatTitle(item[0]),
                 'date_raw': d_raw,
                 'date': d_real,
                 'url': response.request.url,
@@ -77,21 +76,12 @@ class Gr1getSpider(scrapy.Spider):
                 'placed': "First_Page",
                 'epoch': time.time()
             }
-            #if lastNew != "" and len(edition) == 0:
-                #f= open("../../../gr1IT/" + lastNew, "r+")
-                #searchin= json.load(f)
-                #if searchin[0]['date'] >= scraped_info['date']:
-                    #f.close()
-                    #toDump= False
-                    #break
             edition.append(scraped_info)
             i+=1
-
-        if toDump:
-            f= open("../../../collectedNews/edition/IT/GR1/" + str(edition[0]['date']) + ".json", "w")
-            json.dump(edition, f, indent= 4, ensure_ascii=False)
-            f.close()
-            f= open("../../../collectedNews/edition/IT/GR1/" + str(edition[0]['date']) + ".json", "a")
+    
+        base_name = f"{str(edition[0]['date'])}.json"
+        scraped_data_dir = f"{PROJ_DIR}/collectedNews/edition/IT/GR1"
+        scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+        with open(scraped_data_filepath, "w") as f:
+            json.dump(edition, f, indent=4, ensure_ascii=False)
             f.write("\n")
-            f.close()
-            #j+=1

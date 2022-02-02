@@ -1,6 +1,10 @@
 import scrapy
 import re
 
+#SCRIPT NON FUNZIONANTE
+#CAUSA RIMOZIONE DESCRIZIONE EDIZIONI DEL GR1
+
+
 class Gr1urlSpider(scrapy.Spider):
     name = 'gr1url'
     allowed_domains = ['www.raiplayradio.it/programmi/']
