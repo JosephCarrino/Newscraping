@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import scrapy
 from scrapy.http import HtmlResponse
 from scrapy import Selector
