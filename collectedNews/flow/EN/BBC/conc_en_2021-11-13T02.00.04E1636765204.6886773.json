@@ -1,0 +1,643 @@
+[
+    {
+        "title": "Climate talks into overtime as nations near deal",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59269886",
+        "content": "Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations.",
+        "placed": "Abroad",
+        "epoch": 1636765204.688384,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Climate talks into overtime as nations near deal",
+        "en_content": "Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "overtime",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "nations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Climate talks into overtime as nations near deal",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59269886",
+        "content": "Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6884139,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Climate talks into overtime as nations near deal",
+        "en_content": "Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "overtime",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "nations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Britney released from 13-year conservatorship",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59217825",
+        "content": "An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6884353,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Britney released from 13-year conservatorship",
+        "en_content": "An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008.",
+        "concepts": [
+            {
+                "word": "Britney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conservatorship",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Steve Bannon charged with contempt of Congress",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59270291",
+        "content": "Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6884522,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Steve Bannon charged with contempt of Congress",
+        "en_content": "Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot.",
+        "concepts": [
+            {
+                "word": "Steve",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Congress",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Access denied: Scrambling for facts on Belarus border",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59258414",
+        "content": "Journalists and aid workers are kept away from the bleak spectacle of migrants on the Polish border.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6884687,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Access denied: Scrambling for facts on Belarus border",
+        "en_content": "Journalists and aid workers are kept away from the bleak spectacle of migrants on the Polish border.",
+        "concepts": [
+            {
+                "word": "Access",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "facts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "border",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US police officer sues boss over KKK note",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59260704",
+        "content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6884859,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "US police officer sues boss over KKK note",
+        "en_content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "officer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boss",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "KKK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "note",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "French teenage jogger admits lying about kidnap",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59266211",
+        "content": "The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France.",
+        "placed": "Abroad",
+        "epoch": 1636765204.688501,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "French teenage jogger admits lying about kidnap",
+        "en_content": "The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France.",
+        "concepts": [
+            {
+                "word": "jogger",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "kidnap",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dutch partial lockdown to tackle Covid surge",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59258409",
+        "content": "The measures will last three weeks, while Austria plans a lockdown for the unvaccinated.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6885154,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Dutch partial lockdown to tackle Covid surge",
+        "en_content": "The measures will last three weeks, while Austria plans a lockdown for the unvaccinated.",
+        "concepts": [
+            {
+                "word": "lockdown",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surge",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Climate talks into overtime as nations near deal",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59269886",
+        "content": "Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6885326,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Climate talks into overtime as nations near deal",
+        "en_content": "Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "overtime",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "nations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Britney released from 13-year conservatorship",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59217825",
+        "content": "An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6885476,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Britney released from 13-year conservatorship",
+        "en_content": "An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008.",
+        "concepts": [
+            {
+                "word": "Britney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conservatorship",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Steve Bannon charged with contempt of Congress",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59270291",
+        "content": "Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6885622,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Steve Bannon charged with contempt of Congress",
+        "en_content": "Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot.",
+        "concepts": [
+            {
+                "word": "Steve",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Congress",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Access denied: Scrambling for facts on Belarus border",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59258414",
+        "content": "Journalists and aid workers are kept away from the bleak spectacle of migrants on the Polish border.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6885765,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Access denied: Scrambling for facts on Belarus border",
+        "en_content": "Journalists and aid workers are kept away from the bleak spectacle of migrants on the Polish border.",
+        "concepts": [
+            {
+                "word": "Access",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "facts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "border",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US police officer sues boss over KKK note",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59260704",
+        "content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "placed": "Abroad",
+        "epoch": 1636765204.688591,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "US police officer sues boss over KKK note",
+        "en_content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "officer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boss",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "KKK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "note",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "French teenage jogger admits lying about kidnap",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59266211",
+        "content": "The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6886058,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "French teenage jogger admits lying about kidnap",
+        "en_content": "The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France.",
+        "concepts": [
+            {
+                "word": "jogger",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "kidnap",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dutch partial lockdown to tackle Covid surge",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59258409",
+        "content": "The measures will last three weeks, while Austria plans a lockdown for the unvaccinated.",
+        "placed": "Abroad",
+        "epoch": 1636765204.68862,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Dutch partial lockdown to tackle Covid surge",
+        "en_content": "The measures will last three weeks, while Austria plans a lockdown for the unvaccinated.",
+        "concepts": [
+            {
+                "word": "lockdown",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surge",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Britney released from 13-year conservatorship",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59217825",
+        "content": "An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6886349,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Britney released from 13-year conservatorship",
+        "en_content": "An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008.",
+        "concepts": [
+            {
+                "word": "Britney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conservatorship",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Steve Bannon charged with contempt of Congress",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59270291",
+        "content": "Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot.",
+        "placed": "Abroad",
+        "epoch": 1636765204.688649,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Steve Bannon charged with contempt of Congress",
+        "en_content": "Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot.",
+        "concepts": [
+            {
+                "word": "Steve",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "contempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Congress",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Access denied: Scrambling for facts on Belarus border",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59258414",
+        "content": "Journalists and aid workers are kept away from the bleak spectacle of migrants on the Polish border.",
+        "placed": "Abroad",
+        "epoch": 1636765204.6886632,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T02.00.04E1636765204.6886773.json",
+        "en_title": "Access denied: Scrambling for facts on Belarus border",
+        "en_content": "Journalists and aid workers are kept away from the bleak spectacle of migrants on the Polish border.",
+        "concepts": [
+            {
+                "word": "Access",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "facts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "border",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

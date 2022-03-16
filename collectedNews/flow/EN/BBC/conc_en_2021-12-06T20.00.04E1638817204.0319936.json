@@ -1,0 +1,524 @@
+[
+    {
+        "title": "Suu Kyi sentenced after widely criticised trial",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59544484",
+        "content": "The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0316458,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Suu Kyi sentenced after widely criticised trial",
+        "en_content": "The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison.",
+        "concepts": [
+            {
+                "word": "Suu",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kyi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Suu Kyi sentenced after widely criticised trial",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59544484",
+        "content": "The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0317183,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Suu Kyi sentenced after widely criticised trial",
+        "en_content": "The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison.",
+        "concepts": [
+            {
+                "word": "Suu",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kyi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Italy tightens Covid restrictions for unvaccinated",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59548210",
+        "content": "A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0317478,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Italy tightens Covid restrictions for unvaccinated",
+        "en_content": "A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants.",
+        "concepts": [
+            {
+                "word": "Italy",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Killing of man accused of blasphemy sparks protest",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/59501368",
+        "content": "More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0317678,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Killing of man accused of blasphemy sparks protest",
+        "en_content": "More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam.",
+        "concepts": [
+            {
+                "word": "man",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "blasphemy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Haiti kidnappers release three more missionaries",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59554201",
+        "content": "Three people among a group of 17 North American missionaries abducted in October are freed.",
+        "placed": "Abroad",
+        "epoch": 1638817204.031786,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Haiti kidnappers release three more missionaries",
+        "en_content": "Three people among a group of 17 North American missionaries abducted in October are freed.",
+        "concepts": [
+            {
+                "word": "Haiti",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "kidnappers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "missionaries",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ireland to receive €920m for Brexit impact",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59547054",
+        "content": "The country is the first to get money from the European Commission's Brexit Adjustment Reserve.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0318038,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Ireland to receive €920m for Brexit impact",
+        "en_content": "The country is the first to get money from the European Commission's Brexit Adjustment Reserve.",
+        "concepts": [
+            {
+                "word": "Ireland",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "m",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "impact",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nigerian outrage at boy's boarding school death",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59551124",
+        "content": "The father of Sylvester Oromoni, 12, believes he was attacked for refusing to join a “cult group”.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0318208,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Nigerian outrage at boy's boarding school death",
+        "en_content": "The father of Sylvester Oromoni, 12, believes he was attacked for refusing to join a “cult group”.",
+        "concepts": [
+            {
+                "word": "outrage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boy",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boarding",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "WATCH: The Palestinian jailbreak that rocked Israel",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59544484",
+        "content": "The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0318372,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "WATCH: The Palestinian jailbreak that rocked Israel",
+        "en_content": "The ex-leader of Myanmar, who faces a total of 11 charges, is sentenced to two years in prison.",
+        "concepts": [
+            {
+                "word": "jailbreak",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Israel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Suu Kyi sentenced after widely criticised trial",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59548210",
+        "content": "A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0318544,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Suu Kyi sentenced after widely criticised trial",
+        "en_content": "A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants.",
+        "concepts": [
+            {
+                "word": "Suu",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kyi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Italy tightens Covid restrictions for unvaccinated",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/59501368",
+        "content": "More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0318716,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Italy tightens Covid restrictions for unvaccinated",
+        "en_content": "More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam.",
+        "concepts": [
+            {
+                "word": "Italy",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Killing of man accused of blasphemy sparks protest",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59554201",
+        "content": "Three people among a group of 17 North American missionaries abducted in October are freed.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0318875,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Killing of man accused of blasphemy sparks protest",
+        "en_content": "Three people among a group of 17 North American missionaries abducted in October are freed.",
+        "concepts": [
+            {
+                "word": "man",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "blasphemy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Haiti kidnappers release three more missionaries",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59547054",
+        "content": "The country is the first to get money from the European Commission's Brexit Adjustment Reserve.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0319035,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Haiti kidnappers release three more missionaries",
+        "en_content": "The country is the first to get money from the European Commission's Brexit Adjustment Reserve.",
+        "concepts": [
+            {
+                "word": "Haiti",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "kidnappers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "missionaries",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ireland to receive €920m for Brexit impact",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59551124",
+        "content": "The father of Sylvester Oromoni, 12, believes he was attacked for refusing to join a “cult group”.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0319197,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Ireland to receive €920m for Brexit impact",
+        "en_content": "The father of Sylvester Oromoni, 12, believes he was attacked for refusing to join a “cult group”.",
+        "concepts": [
+            {
+                "word": "Ireland",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "m",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "impact",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nigerian outrage at boy's boarding school death",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59548210",
+        "content": "A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0319355,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Nigerian outrage at boy's boarding school death",
+        "en_content": "A so-called Super Green Pass will be needed to access theatres, cinemas and restaurants.",
+        "concepts": [
+            {
+                "word": "outrage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boy",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boarding",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "WATCH: The Palestinian jailbreak that rocked Israel",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/59501368",
+        "content": "More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0319605,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "WATCH: The Palestinian jailbreak that rocked Israel",
+        "en_content": "More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam.",
+        "concepts": [
+            {
+                "word": "jailbreak",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Israel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Italy tightens Covid restrictions for unvaccinated",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59554201",
+        "content": "Three people among a group of 17 North American missionaries abducted in October are freed.",
+        "placed": "Abroad",
+        "epoch": 1638817204.0319786,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T20.00.04E1638817204.0319936.json",
+        "en_title": "Italy tightens Covid restrictions for unvaccinated",
+        "en_content": "Three people among a group of 17 North American missionaries abducted in October are freed.",
+        "concepts": [
+            {
+                "word": "Italy",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

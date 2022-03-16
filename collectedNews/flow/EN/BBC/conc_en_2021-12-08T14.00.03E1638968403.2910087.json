@@ -1,0 +1,680 @@
+[
+    {
+        "title": "Johnson apologises for video but still denies Christmas party",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/59575030",
+        "content": "The PM pledges an inquiry into what happened but Labour leader Keir Starmer says he is \"taking the public for fools\".",
+        "placed": "First_Page",
+        "epoch": 1638968403.2905593,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Johnson apologises for video but still denies Christmas party",
+        "en_content": "The PM pledges an inquiry into what happened but Labour leader Keir Starmer says he is \"taking the public for fools\".",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Johnson apologises for video but still denies Christmas party",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/59575030",
+        "content": "The PM pledges an inquiry into what happened but Labour leader Keir Starmer says he is \"taking the public for fools\".",
+        "placed": "First_Page",
+        "epoch": 1638968403.2905962,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Johnson apologises for video but still denies Christmas party",
+        "en_content": "The PM pledges an inquiry into what happened but Labour leader Keir Starmer says he is \"taking the public for fools\".",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Scholz becomes German leader as Merkel bows out",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59575773",
+        "content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "placed": "First_Page",
+        "epoch": 1638968403.2906196,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Scholz becomes German leader as Merkel bows out",
+        "en_content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "concepts": [
+            {
+                "word": "Scholz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "leader",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Vaccines should work against Omicron, WHO says",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59573037",
+        "content": "A small study in South Africa suggests the new variant could partially evade the Pfizer jab.",
+        "placed": "First_Page",
+        "epoch": 1638968403.2906394,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Vaccines should work against Omicron, WHO says",
+        "en_content": "A small study in South Africa suggests the new variant could partially evade the Pfizer jab.",
+        "concepts": [
+            {
+                "word": "Vaccines",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Girls’ despair as Taliban confirm Afghan school ban",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59565558",
+        "content": "The BBC hears about the ban's harmful impact from teachers and students in 13 Afghan provinces.",
+        "placed": "First_Page",
+        "epoch": 1638968403.290653,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Girls’ despair as Taliban confirm Afghan school ban",
+        "en_content": "The BBC hears about the ban's harmful impact from teachers and students in 13 Afghan provinces.",
+        "concepts": [
+            {
+                "word": "Girls",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "despair",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ban",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Finnish PM sorry for clubbing after Covid contact",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59577371",
+        "content": "Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive.",
+        "placed": "First_Page",
+        "epoch": 1638968403.290694,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Finnish PM sorry for clubbing after Covid contact",
+        "en_content": "Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "contact",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US father fired on Zoom describes 'callous' call",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59573075",
+        "content": "Dad of five Christian was one of 900 Better.com employees laid-off on a Zoom call, weeks before Christmas.",
+        "placed": "First_Page",
+        "epoch": 1638968403.29074,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "US father fired on Zoom describes 'callous' call",
+        "en_content": "Dad of five Christian was one of 900 Better.com employees laid-off on a Zoom call, weeks before Christmas.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "father",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Zoom",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "describes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "call",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Fish 'whoops and growls’ heard on restored reef",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59567875",
+        "content": "Recordings of fish 'whooping, croaking and growling' reveal reef coming back to life, scientists say.",
+        "placed": "First_Page",
+        "epoch": 1638968403.290775,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Fish 'whoops and growls’ heard on restored reef",
+        "en_content": "Recordings of fish 'whooping, croaking and growling' reveal reef coming back to life, scientists say.",
+        "concepts": [
+            {
+                "word": "Fish",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "whoops",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "growls",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reef",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Japanese billionaire blasts off to play golf in space ",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59544223",
+        "content": "Yusaku Maezawa will spend 12 days at the International Space Station before returning to Earth.",
+        "placed": "First_Page",
+        "epoch": 1638968403.290795,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Japanese billionaire blasts off to play golf in space ",
+        "en_content": "Yusaku Maezawa will spend 12 days at the International Space Station before returning to Earth.",
+        "concepts": [
+            {
+                "word": "billionaire",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "golf",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "space",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "India's top general in helicopter crash",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59576082",
+        "content": "Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India.",
+        "placed": "First_Page",
+        "epoch": 1638968403.2908127,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "India's top general in helicopter crash",
+        "en_content": "Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "general",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "helicopter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "China is biggest captor of journalists - report",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59544226",
+        "content": "Advocacy group Reporters Without Borders said at least 127 journalists are currently detained.",
+        "placed": "First_Page",
+        "epoch": 1638968403.290853,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "China is biggest captor of journalists - report",
+        "en_content": "Advocacy group Reporters Without Borders said at least 127 journalists are currently detained.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "captor",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "journalists",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Lecturers in court over sex for grades in Morocco",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59578218",
+        "content": "They are charged with incitement to debauchery, gender discrimination and violence against women.",
+        "placed": "First_Page",
+        "epoch": 1638968403.2908735,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Lecturers in court over sex for grades in Morocco",
+        "en_content": "They are charged with incitement to debauchery, gender discrimination and violence against women.",
+        "concepts": [
+            {
+                "word": "Lecturers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sex",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "grades",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Morocco",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "China is biggest captor of journalists - report",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59544226",
+        "content": "Advocacy group Reporters Without Borders said at least 127 journalists are currently detained.",
+        "placed": "First_Page",
+        "epoch": 1638968403.2908905,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "China is biggest captor of journalists - report",
+        "en_content": "Advocacy group Reporters Without Borders said at least 127 journalists are currently detained.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "captor",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "journalists",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Lecturers in court over sex for grades in Morocco",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59578218",
+        "content": "They are charged with incitement to debauchery, gender discrimination and violence against women.",
+        "placed": "First_Page",
+        "epoch": 1638968403.2909071,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Lecturers in court over sex for grades in Morocco",
+        "en_content": "They are charged with incitement to debauchery, gender discrimination and violence against women.",
+        "concepts": [
+            {
+                "word": "Lecturers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sex",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "grades",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Morocco",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Comedian Nick Cannon announces death of young son",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59575491",
+        "content": "The American's five-month-old son Zen died after having had a brain tumour, he said on his show.",
+        "placed": "First_Page",
+        "epoch": 1638968403.2909238,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Comedian Nick Cannon announces death of young son",
+        "en_content": "The American's five-month-old son Zen died after having had a brain tumour, he said on his show.",
+        "concepts": [
+            {
+                "word": "Comedian",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Nick",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cannon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "son",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Myanmar soldiers accused of shooting villagers",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59574528",
+        "content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "placed": "First_Page",
+        "epoch": 1638968403.2909408,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Myanmar soldiers accused of shooting villagers",
+        "en_content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "concepts": [
+            {
+                "word": "Myanmar",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "soldiers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "villagers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Never-before-seen photos show Epstein-Maxwell bond",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59571857",
+        "content": "FBI agents submit previously unseen photo evidence as third accuser testifies in Maxwell trial.",
+        "placed": "First_Page",
+        "epoch": 1638968403.2909567,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Never-before-seen photos show Epstein-Maxwell bond",
+        "en_content": "FBI agents submit previously unseen photo evidence as third accuser testifies in Maxwell trial.",
+        "concepts": [
+            {
+                "word": "photos",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Epstein",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maxwell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bond",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Former Afghan child refugee - now a top lawyer",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/newsbeat-59555269",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638968403.2909732,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "Former Afghan child refugee - now a top lawyer",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "child",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "refugee",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawyer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638968403.2909894,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.2910087.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

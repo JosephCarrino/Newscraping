@@ -1,0 +1,643 @@
+[
+    {
+        "title": "Sturgeon dismisses speculation about her future",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59406430",
+        "content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "placed": "Politics",
+        "epoch": 1637802006.1174457,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "Sturgeon dismisses speculation about her future",
+        "en_content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "speculation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "future",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sturgeon dismisses speculation about her future",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59406430",
+        "content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "placed": "Politics",
+        "epoch": 1637802006.1174724,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "Sturgeon dismisses speculation about her future",
+        "en_content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "speculation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "future",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson hits back at critics at stormy PMQs",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59399874",
+        "content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "placed": "Politics",
+        "epoch": 1637802006.1174927,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "Johnson hits back at critics at stormy PMQs",
+        "en_content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "critics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PMQs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "As it happened: PM questioned over 'broken promises'",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-politics-59401486",
+        "content": "Boris Johnson was quizzed after a Tory rebellion on social care and criticism of a speech to business leaders.",
+        "placed": "Politics",
+        "epoch": 1637802006.1175103,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "As it happened: PM questioned over 'broken promises'",
+        "en_content": "Boris Johnson was quizzed after a Tory rebellion on social care and criticism of a speech to business leaders.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "promises",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PC Andrew Harper's widow wins bid to change law",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-berkshire-59394783",
+        "content": "Ministers back Lissie Harper's campaign to jail those who kill on-duty police and 999 workers for life.",
+        "placed": "Politics",
+        "epoch": 1637802006.117527,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "PC Andrew Harper's widow wins bid to change law",
+        "en_content": "Ministers back Lissie Harper's campaign to jail those who kill on-duty police and 999 workers for life.",
+        "concepts": [
+            {
+                "word": "PC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Andrew",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Harper",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "widow",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MP's law on Down's care needs moves step closer",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59402153",
+        "content": "A bill proposed by Tory backbencher Liam Fox to guarantee care needs is now expected to become law.",
+        "placed": "Politics",
+        "epoch": 1637802006.117543,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "MP's law on Down's care needs moves step closer",
+        "en_content": "A bill proposed by Tory backbencher Liam Fox to guarantee care needs is now expected to become law.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Down",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "care",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "moves",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "step",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "No babies allowed in Commons, MP told",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59396801",
+        "content": "A review of rules is called after Stella Creasy took her three-month-old into Westminster Hall.",
+        "placed": "Politics",
+        "epoch": 1637802006.117558,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "No babies allowed in Commons, MP told",
+        "en_content": "A review of rules is called after Stella Creasy took her three-month-old into Westminster Hall.",
+        "concepts": [
+            {
+                "word": "babies",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Commons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Drakeford asks PM for consultation on Covid probe",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-wales-politics-59156377",
+        "content": "First minister urges Boris Johnson to hold \"meaningful public consultation\" to set inquiry terms.",
+        "placed": "Politics",
+        "epoch": 1637802006.1175728,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "Drakeford asks PM for consultation on Covid probe",
+        "en_content": "First minister urges Boris Johnson to hold \"meaningful public consultation\" to set inquiry terms.",
+        "concepts": [
+            {
+                "word": "Drakeford",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "consultation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "probe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sturgeon dismisses speculation about her future",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59406430",
+        "content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "placed": "Politics",
+        "epoch": 1637802006.1175876,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "Sturgeon dismisses speculation about her future",
+        "en_content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "speculation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "future",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson hits back at critics at stormy PMQs",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59399874",
+        "content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "placed": "Politics",
+        "epoch": 1637802006.1176023,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "Johnson hits back at critics at stormy PMQs",
+        "en_content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "critics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PMQs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "As it happened: PM questioned over 'broken promises'",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-politics-59401486",
+        "content": "Boris Johnson was quizzed after a Tory rebellion on social care and criticism of a speech to business leaders.",
+        "placed": "Politics",
+        "epoch": 1637802006.1176171,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "As it happened: PM questioned over 'broken promises'",
+        "en_content": "Boris Johnson was quizzed after a Tory rebellion on social care and criticism of a speech to business leaders.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "promises",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PC Andrew Harper's widow wins bid to change law",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-berkshire-59394783",
+        "content": "Ministers back Lissie Harper's campaign to jail those who kill on-duty police and 999 workers for life.",
+        "placed": "Politics",
+        "epoch": 1637802006.11765,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "PC Andrew Harper's widow wins bid to change law",
+        "en_content": "Ministers back Lissie Harper's campaign to jail those who kill on-duty police and 999 workers for life.",
+        "concepts": [
+            {
+                "word": "PC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Andrew",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Harper",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "widow",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MP's law on Down's care needs moves step closer",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59402153",
+        "content": "A bill proposed by Tory backbencher Liam Fox to guarantee care needs is now expected to become law.",
+        "placed": "Politics",
+        "epoch": 1637802006.1176648,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "MP's law on Down's care needs moves step closer",
+        "en_content": "A bill proposed by Tory backbencher Liam Fox to guarantee care needs is now expected to become law.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Down",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "care",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "moves",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "step",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "No babies allowed in Commons, MP told",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59396801",
+        "content": "A review of rules is called after Stella Creasy took her three-month-old into Westminster Hall.",
+        "placed": "Politics",
+        "epoch": 1637802006.1176796,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "No babies allowed in Commons, MP told",
+        "en_content": "A review of rules is called after Stella Creasy took her three-month-old into Westminster Hall.",
+        "concepts": [
+            {
+                "word": "babies",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Commons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Drakeford asks PM for consultation on Covid probe",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-wales-politics-59156377",
+        "content": "First minister urges Boris Johnson to hold \"meaningful public consultation\" to set inquiry terms.",
+        "placed": "Politics",
+        "epoch": 1637802006.1176941,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "Drakeford asks PM for consultation on Covid probe",
+        "en_content": "First minister urges Boris Johnson to hold \"meaningful public consultation\" to set inquiry terms.",
+        "concepts": [
+            {
+                "word": "Drakeford",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "consultation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "probe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson hits back at critics at stormy PMQs",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59399874",
+        "content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "placed": "Politics",
+        "epoch": 1637802006.1177084,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "Johnson hits back at critics at stormy PMQs",
+        "en_content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "critics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PMQs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "As it happened: PM questioned over 'broken promises'",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-politics-59401486",
+        "content": "Boris Johnson was quizzed after a Tory rebellion on social care and criticism of a speech to business leaders.",
+        "placed": "Politics",
+        "epoch": 1637802006.117723,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "As it happened: PM questioned over 'broken promises'",
+        "en_content": "Boris Johnson was quizzed after a Tory rebellion on social care and criticism of a speech to business leaders.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "promises",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PC Andrew Harper's widow wins bid to change law",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-berkshire-59394783",
+        "content": "Ministers back Lissie Harper's campaign to jail those who kill on-duty police and 999 workers for life.",
+        "placed": "Politics",
+        "epoch": 1637802006.117737,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T02.00.06E1637802006.1177511.json",
+        "en_title": "PC Andrew Harper's widow wins bid to change law",
+        "en_content": "Ministers back Lissie Harper's campaign to jail those who kill on-duty police and 999 workers for life.",
+        "concepts": [
+            {
+                "word": "PC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Andrew",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Harper",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "widow",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

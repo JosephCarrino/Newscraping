@@ -1,0 +1,723 @@
+[
+    {
+        "title": "HS2 rail extension to Leeds set to be scrapped",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59292120",
+        "content": "Plans to extend the eastern leg of the high speed network will be ditched in favour of new shorter links.",
+        "placed": "Politics",
+        "epoch": 1637002804.7422435,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "HS2 rail extension to Leeds set to be scrapped",
+        "en_content": "Plans to extend the eastern leg of the high speed network will be ditched in favour of new shorter links.",
+        "concepts": [
+            {
+                "word": "HS2",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "extension",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Leeds",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "HS2 rail extension to Leeds set to be scrapped",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59292120",
+        "content": "Plans to extend the eastern leg of the high speed network will be ditched in favour of new shorter links.",
+        "placed": "Politics",
+        "epoch": 1637002804.742272,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "HS2 rail extension to Leeds set to be scrapped",
+        "en_content": "Plans to extend the eastern leg of the high speed network will be ditched in favour of new shorter links.",
+        "concepts": [
+            {
+                "word": "HS2",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "extension",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Leeds",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Not yet clear if Europe's Covid storm will affect UK - PM",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/world-59287535",
+        "content": "Boris Johnson urges the public to get vaccinated to avoid the re-introduction of Covid restrictions.",
+        "placed": "Politics",
+        "epoch": 1637002804.7423007,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "Not yet clear if Europe's Covid storm will affect UK - PM",
+        "en_content": "Boris Johnson urges the public to get vaccinated to avoid the re-introduction of Covid restrictions.",
+        "concepts": [
+            {
+                "word": "Europe",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "storm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Labour to hold vote on ban on MP consultancy jobs",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59288493",
+        "content": "Party leader Sir Keir Starmer says such a ban would help end \"dodgy lobbying\" in Parliament.",
+        "placed": "Politics",
+        "epoch": 1637002804.7423186,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "Labour to hold vote on ban on MP consultancy jobs",
+        "en_content": "Party leader Sir Keir Starmer says such a ban would help end \"dodgy lobbying\" in Parliament.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vote",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "consultancy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jobs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MoD not aware of any harm after Afghan data breach",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59288498",
+        "content": "An inquiry into the mistakes blames \"human error\", a lack of training and \"operational pressure\".",
+        "placed": "Politics",
+        "epoch": 1637002804.7423468,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "MoD not aware of any harm after Afghan data breach",
+        "en_content": "An inquiry into the mistakes blames \"human error\", a lack of training and \"operational pressure\".",
+        "concepts": [
+            {
+                "word": "MoD",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "harm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM: Climate deal sounds death knell for coal power",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59284505",
+        "content": "But Boris Johnson says the achievements of the Glasgow summit are \"tinged with disappointment\".",
+        "placed": "Politics",
+        "epoch": 1637002804.7423632,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "PM: Climate deal sounds death knell for coal power",
+        "en_content": "But Boris Johnson says the achievements of the Glasgow summit are \"tinged with disappointment\".",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "knell",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "power",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson: I could have handled Paterson row better",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59283099",
+        "content": "PM admits responsibility for some of the fallout over former MP Owen Paterson's lobbying work.",
+        "placed": "Politics",
+        "epoch": 1637002804.742388,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "Johnson: I could have handled Paterson row better",
+        "en_content": "PM admits responsibility for some of the fallout over former MP Owen Paterson's lobbying work.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "row",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Labour announces by-election candidate",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-shropshire-59281956",
+        "content": "Ben Wood, from Oswestry in Shropshire, is chosen by the party.",
+        "placed": "Politics",
+        "epoch": 1637002804.7424047,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "Labour announces by-election candidate",
+        "en_content": "Ben Wood, from Oswestry in Shropshire, is chosen by the party.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "candidate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "HS2 rail extension to Leeds set to be scrapped",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59292120",
+        "content": "Plans to extend the eastern leg of the high speed network will be ditched in favour of new shorter links.",
+        "placed": "Politics",
+        "epoch": 1637002804.7424288,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "HS2 rail extension to Leeds set to be scrapped",
+        "en_content": "Plans to extend the eastern leg of the high speed network will be ditched in favour of new shorter links.",
+        "concepts": [
+            {
+                "word": "HS2",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "extension",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Leeds",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Not yet clear if Europe's Covid storm will affect UK - PM",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/world-59287535",
+        "content": "Boris Johnson urges the public to get vaccinated to avoid the re-introduction of Covid restrictions.",
+        "placed": "Politics",
+        "epoch": 1637002804.742445,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "Not yet clear if Europe's Covid storm will affect UK - PM",
+        "en_content": "Boris Johnson urges the public to get vaccinated to avoid the re-introduction of Covid restrictions.",
+        "concepts": [
+            {
+                "word": "Europe",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "storm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Labour to hold vote on ban on MP consultancy jobs",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59288493",
+        "content": "Party leader Sir Keir Starmer says such a ban would help end \"dodgy lobbying\" in Parliament.",
+        "placed": "Politics",
+        "epoch": 1637002804.7424603,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "Labour to hold vote on ban on MP consultancy jobs",
+        "en_content": "Party leader Sir Keir Starmer says such a ban would help end \"dodgy lobbying\" in Parliament.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vote",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "consultancy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jobs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MoD not aware of any harm after Afghan data breach",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59288498",
+        "content": "An inquiry into the mistakes blames \"human error\", a lack of training and \"operational pressure\".",
+        "placed": "Politics",
+        "epoch": 1637002804.7424753,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "MoD not aware of any harm after Afghan data breach",
+        "en_content": "An inquiry into the mistakes blames \"human error\", a lack of training and \"operational pressure\".",
+        "concepts": [
+            {
+                "word": "MoD",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "harm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM: Climate deal sounds death knell for coal power",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59284505",
+        "content": "But Boris Johnson says the achievements of the Glasgow summit are \"tinged with disappointment\".",
+        "placed": "Politics",
+        "epoch": 1637002804.7424903,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "PM: Climate deal sounds death knell for coal power",
+        "en_content": "But Boris Johnson says the achievements of the Glasgow summit are \"tinged with disappointment\".",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "knell",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "power",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson: I could have handled Paterson row better",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59283099",
+        "content": "PM admits responsibility for some of the fallout over former MP Owen Paterson's lobbying work.",
+        "placed": "Politics",
+        "epoch": 1637002804.7424989,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "Johnson: I could have handled Paterson row better",
+        "en_content": "PM admits responsibility for some of the fallout over former MP Owen Paterson's lobbying work.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "row",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Labour announces by-election candidate",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-shropshire-59281956",
+        "content": "Ben Wood, from Oswestry in Shropshire, is chosen by the party.",
+        "placed": "Politics",
+        "epoch": 1637002804.7425225,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "Labour announces by-election candidate",
+        "en_content": "Ben Wood, from Oswestry in Shropshire, is chosen by the party.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "candidate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Not yet clear if Europe's Covid storm will affect UK - PM",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/world-59287535",
+        "content": "Boris Johnson urges the public to get vaccinated to avoid the re-introduction of Covid restrictions.",
+        "placed": "Politics",
+        "epoch": 1637002804.7425377,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "Not yet clear if Europe's Covid storm will affect UK - PM",
+        "en_content": "Boris Johnson urges the public to get vaccinated to avoid the re-introduction of Covid restrictions.",
+        "concepts": [
+            {
+                "word": "Europe",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "storm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Labour to hold vote on ban on MP consultancy jobs",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59288493",
+        "content": "Party leader Sir Keir Starmer says such a ban would help end \"dodgy lobbying\" in Parliament.",
+        "placed": "Politics",
+        "epoch": 1637002804.7425532,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "Labour to hold vote on ban on MP consultancy jobs",
+        "en_content": "Party leader Sir Keir Starmer says such a ban would help end \"dodgy lobbying\" in Parliament.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vote",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "consultancy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jobs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MoD not aware of any harm after Afghan data breach",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59288498",
+        "content": "An inquiry into the mistakes blames \"human error\", a lack of training and \"operational pressure\".",
+        "placed": "Politics",
+        "epoch": 1637002804.742571,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T20.00.04E1637002804.7425835.json",
+        "en_title": "MoD not aware of any harm after Afghan data breach",
+        "en_content": "An inquiry into the mistakes blames \"human error\", a lack of training and \"operational pressure\".",
+        "concepts": [
+            {
+                "word": "MoD",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "harm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

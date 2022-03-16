@@ -1,0 +1,643 @@
+[
+    {
+        "title": "Stratton quits as adviser after party video row",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59584736",
+        "content": "The tearful ex-journalist apologised, saying she would \"regret the remarks for the rest of my days\".",
+        "placed": "Politics",
+        "epoch": 1638990005.7789428,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "Stratton quits as adviser after party video row",
+        "en_content": "The tearful ex-journalist apologised, saying she would \"regret the remarks for the rest of my days\".",
+        "concepts": [
+            {
+                "word": "Stratton",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "adviser",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "video",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Stratton quits as adviser after party video row",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59584736",
+        "content": "The tearful ex-journalist apologised, saying she would \"regret the remarks for the rest of my days\".",
+        "placed": "Politics",
+        "epoch": 1638990005.7790062,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "Stratton quits as adviser after party video row",
+        "en_content": "The tearful ex-journalist apologised, saying she would \"regret the remarks for the rest of my days\".",
+        "concepts": [
+            {
+                "word": "Stratton",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "adviser",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "video",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM sorry for video after anger about lockdown party",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59580640",
+        "content": "Boris Johnson says he was assured no rules were broken, but Labour's Keir Starmer questions the PM's moral authority.",
+        "placed": "Politics",
+        "epoch": 1638990005.779021,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "PM sorry for video after anger about lockdown party",
+        "en_content": "Boris Johnson says he was assured no rules were broken, but Labour's Keir Starmer questions the PM's moral authority.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "anger",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Who is Allegra Stratton and why has she quit?",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59576697",
+        "content": "A profile of the woman who has resigned over unguarded comments about a No 10 lockdown party in a video.",
+        "placed": "Politics",
+        "epoch": 1638990005.7790453,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "Who is Allegra Stratton and why has she quit?",
+        "en_content": "A profile of the woman who has resigned over unguarded comments about a No 10 lockdown party in a video.",
+        "concepts": [
+            {
+                "word": "Allegra",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Stratton",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "What were the rules on Christmas parties?",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59577129",
+        "content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "placed": "Politics",
+        "epoch": 1638990005.7790663,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "What were the rules on Christmas parties?",
+        "en_content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "concepts": [
+            {
+                "word": "rules",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Scots Tory leader: PM must quit if he misled MPs",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59582426",
+        "content": "Scottish Conservative leader Douglas Ross says there was \"clearly\" a party of some sort in Downing Street last year.",
+        "placed": "Politics",
+        "epoch": 1638990005.7790868,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "Scots Tory leader: PM must quit if he misled MPs",
+        "en_content": "Scottish Conservative leader Douglas Ross says there was \"clearly\" a party of some sort in Downing Street last year.",
+        "concepts": [
+            {
+                "word": "Scots",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tory",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs earn up to £350 an hour for taking surveys",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59520755",
+        "content": "Over 120 politicians did work for polling companies, earning more than £116,000 since the last election.",
+        "placed": "Politics",
+        "epoch": 1638990005.779105,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "MPs earn up to £350 an hour for taking surveys",
+        "en_content": "Over 120 politicians did work for polling companies, earning more than £116,000 since the last election.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hour",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            },
+            {
+                "word": "surveys",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Covid bereaved families 'fuming' at No 10 party",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-wales-59578437",
+        "content": "Andrew Edwards' mum died alone in hospital with Covid on the day of the party.",
+        "placed": "Politics",
+        "epoch": 1638990005.779122,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "Covid bereaved families 'fuming' at No 10 party",
+        "en_content": "Andrew Edwards' mum died alone in hospital with Covid on the day of the party.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "families",
+                "meaning": "poss",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Stratton quits as adviser after party video row",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59584736",
+        "content": "The tearful ex-journalist apologised, saying she would \"regret the remarks for the rest of my days\".",
+        "placed": "Politics",
+        "epoch": 1638990005.7791393,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "Stratton quits as adviser after party video row",
+        "en_content": "The tearful ex-journalist apologised, saying she would \"regret the remarks for the rest of my days\".",
+        "concepts": [
+            {
+                "word": "Stratton",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "adviser",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "video",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM sorry for video after anger about lockdown party",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59580640",
+        "content": "Boris Johnson says he was assured no rules were broken, but Labour's Keir Starmer questions the PM's moral authority.",
+        "placed": "Politics",
+        "epoch": 1638990005.7791564,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "PM sorry for video after anger about lockdown party",
+        "en_content": "Boris Johnson says he was assured no rules were broken, but Labour's Keir Starmer questions the PM's moral authority.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "anger",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Who is Allegra Stratton and why has she quit?",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59576697",
+        "content": "A profile of the woman who has resigned over unguarded comments about a No 10 lockdown party in a video.",
+        "placed": "Politics",
+        "epoch": 1638990005.7791657,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "Who is Allegra Stratton and why has she quit?",
+        "en_content": "A profile of the woman who has resigned over unguarded comments about a No 10 lockdown party in a video.",
+        "concepts": [
+            {
+                "word": "Allegra",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Stratton",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "What were the rules on Christmas parties?",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59577129",
+        "content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "placed": "Politics",
+        "epoch": 1638990005.7791831,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "What were the rules on Christmas parties?",
+        "en_content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "concepts": [
+            {
+                "word": "rules",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Scots Tory leader: PM must quit if he misled MPs",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59582426",
+        "content": "Scottish Conservative leader Douglas Ross says there was \"clearly\" a party of some sort in Downing Street last year.",
+        "placed": "Politics",
+        "epoch": 1638990005.7791998,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "Scots Tory leader: PM must quit if he misled MPs",
+        "en_content": "Scottish Conservative leader Douglas Ross says there was \"clearly\" a party of some sort in Downing Street last year.",
+        "concepts": [
+            {
+                "word": "Scots",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tory",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs earn up to £350 an hour for taking surveys",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59520755",
+        "content": "Over 120 politicians did work for polling companies, earning more than £116,000 since the last election.",
+        "placed": "Politics",
+        "epoch": 1638990005.7792165,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "MPs earn up to £350 an hour for taking surveys",
+        "en_content": "Over 120 politicians did work for polling companies, earning more than £116,000 since the last election.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hour",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            },
+            {
+                "word": "surveys",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Covid bereaved families 'fuming' at No 10 party",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-wales-59578437",
+        "content": "Andrew Edwards' mum died alone in hospital with Covid on the day of the party.",
+        "placed": "Politics",
+        "epoch": 1638990005.7792325,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "Covid bereaved families 'fuming' at No 10 party",
+        "en_content": "Andrew Edwards' mum died alone in hospital with Covid on the day of the party.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "families",
+                "meaning": "poss",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM sorry for video after anger about lockdown party",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59580640",
+        "content": "Boris Johnson says he was assured no rules were broken, but Labour's Keir Starmer questions the PM's moral authority.",
+        "placed": "Politics",
+        "epoch": 1638990005.7792485,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "PM sorry for video after anger about lockdown party",
+        "en_content": "Boris Johnson says he was assured no rules were broken, but Labour's Keir Starmer questions the PM's moral authority.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "anger",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Who is Allegra Stratton and why has she quit?",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59576697",
+        "content": "A profile of the woman who has resigned over unguarded comments about a No 10 lockdown party in a video.",
+        "placed": "Politics",
+        "epoch": 1638990005.7792645,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "Who is Allegra Stratton and why has she quit?",
+        "en_content": "A profile of the woman who has resigned over unguarded comments about a No 10 lockdown party in a video.",
+        "concepts": [
+            {
+                "word": "Allegra",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Stratton",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "What were the rules on Christmas parties?",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59577129",
+        "content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "placed": "Politics",
+        "epoch": 1638990005.7792807,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.05E1638990005.7792935.json",
+        "en_title": "What were the rules on Christmas parties?",
+        "en_content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "concepts": [
+            {
+                "word": "rules",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

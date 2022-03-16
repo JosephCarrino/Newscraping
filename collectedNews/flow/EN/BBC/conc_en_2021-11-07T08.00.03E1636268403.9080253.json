@@ -1,0 +1,574 @@
+[
+    {
+        "title": "Ex-PM condemns government's 'shameful' actions",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59188972",
+        "content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "placed": "Politics",
+        "epoch": 1636268403.9077682,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Ex-PM condemns government's 'shameful' actions",
+        "en_content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "government",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ex-PM condemns government's 'shameful' actions",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59188972",
+        "content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "placed": "Politics",
+        "epoch": 1636268403.9077957,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Ex-PM condemns government's 'shameful' actions",
+        "en_content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "government",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Irish police arrest man over threats to kill UK MP",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-europe-59193243",
+        "content": "The 41-year-old who is believed to be from England was detained in a suburb of Cork city.",
+        "placed": "Politics",
+        "epoch": 1636268403.9078152,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Irish police arrest man over threats to kill UK MP",
+        "en_content": "The 41-year-old who is believed to be from England was detained in a suburb of Cork city.",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arrest",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "man",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'I have real faith in the MP standards system'",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59177413",
+        "content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "placed": "Politics",
+        "epoch": 1636268403.9078324,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "'I have real faith in the MP standards system'",
+        "en_content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "concepts": [
+            {
+                "word": "faith",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "system",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Paterson U-turn right thing to do, says minister",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59175448",
+        "content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "placed": "Politics",
+        "epoch": 1636268403.9078486,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Paterson U-turn right thing to do, says minister",
+        "en_content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "concepts": [
+            {
+                "word": "Paterson",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "U",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "thing",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs call for inquiry over Johnson's holiday",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59177409",
+        "content": "Labour and Lib Dems claim the PM has broken the MPs' code of conduct, but No 10 says he followed the rules.",
+        "placed": "Politics",
+        "epoch": 1636268403.907865,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "MPs call for inquiry over Johnson's holiday",
+        "en_content": "Labour and Lib Dems claim the PM has broken the MPs' code of conduct, but No 10 says he followed the rules.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "inquiry",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "holiday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour rules out cross-party anti-sleaze candidate",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59167967",
+        "content": "Lib Dems also say they will stand in the by-election to replace Owen Paterson who quit amid a lobbying row.",
+        "placed": "Politics",
+        "epoch": 1636268403.9078805,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Labour rules out cross-party anti-sleaze candidate",
+        "en_content": "Lib Dems also say they will stand in the by-election to replace Owen Paterson who quit amid a lobbying row.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "candidate",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Parliamentary correspondent",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59188972",
+        "content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "placed": "Politics",
+        "epoch": 1636268403.9078958,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Parliamentary correspondent",
+        "en_content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "concepts": [
+            {
+                "word": "correspondent",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Ex-PM condemns government's 'shameful' actions",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-europe-59193243",
+        "content": "The 41-year-old who is believed to be from England was detained in a suburb of Cork city.",
+        "placed": "Politics",
+        "epoch": 1636268403.9079106,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Ex-PM condemns government's 'shameful' actions",
+        "en_content": "The 41-year-old who is believed to be from England was detained in a suburb of Cork city.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "government",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Irish police arrest man over threats to kill UK MP",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59177413",
+        "content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "placed": "Politics",
+        "epoch": 1636268403.9079251,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Irish police arrest man over threats to kill UK MP",
+        "en_content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arrest",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "man",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'I have real faith in the MP standards system'",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59175448",
+        "content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "placed": "Politics",
+        "epoch": 1636268403.9079394,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "'I have real faith in the MP standards system'",
+        "en_content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "concepts": [
+            {
+                "word": "faith",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "system",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Paterson U-turn right thing to do, says minister",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59177409",
+        "content": "Labour and Lib Dems claim the PM has broken the MPs' code of conduct, but No 10 says he followed the rules.",
+        "placed": "Politics",
+        "epoch": 1636268403.9079537,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Paterson U-turn right thing to do, says minister",
+        "en_content": "Labour and Lib Dems claim the PM has broken the MPs' code of conduct, but No 10 says he followed the rules.",
+        "concepts": [
+            {
+                "word": "Paterson",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "U",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "thing",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs call for inquiry over Johnson's holiday",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59167967",
+        "content": "Lib Dems also say they will stand in the by-election to replace Owen Paterson who quit amid a lobbying row.",
+        "placed": "Politics",
+        "epoch": 1636268403.9079683,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "MPs call for inquiry over Johnson's holiday",
+        "en_content": "Lib Dems also say they will stand in the by-election to replace Owen Paterson who quit amid a lobbying row.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "inquiry",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "holiday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour rules out cross-party anti-sleaze candidate",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-europe-59193243",
+        "content": "The 41-year-old who is believed to be from England was detained in a suburb of Cork city.",
+        "placed": "Politics",
+        "epoch": 1636268403.9079828,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Labour rules out cross-party anti-sleaze candidate",
+        "en_content": "The 41-year-old who is believed to be from England was detained in a suburb of Cork city.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "candidate",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Parliamentary correspondent",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59177413",
+        "content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "placed": "Politics",
+        "epoch": 1636268403.9079974,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Parliamentary correspondent",
+        "en_content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "concepts": [
+            {
+                "word": "correspondent",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Irish police arrest man over threats to kill UK MP",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59175448",
+        "content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "placed": "Politics",
+        "epoch": 1636268403.908012,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.9080253.json",
+        "en_title": "Irish police arrest man over threats to kill UK MP",
+        "en_content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arrest",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "man",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

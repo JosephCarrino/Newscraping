@@ -1,0 +1,678 @@
+[
+    {
+        "title": "Javid orders review of medical device racial bias",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59363544",
+        "content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "placed": "Politics",
+        "epoch": 1637478004.2602725,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Javid orders review of medical device racial bias",
+        "en_content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "concepts": [
+            {
+                "word": "Javid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "orders",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "review",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "device",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "bias",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Javid orders review of medical device racial bias",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59363544",
+        "content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "placed": "Politics",
+        "epoch": 1637478004.2602997,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Javid orders review of medical device racial bias",
+        "en_content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "concepts": [
+            {
+                "word": "Javid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "orders",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "review",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "device",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "bias",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Mental health deaths on the rise, figures suggest",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59336579",
+        "content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "placed": "Politics",
+        "epoch": 1637478004.2603195,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Mental health deaths on the rise, figures suggest",
+        "en_content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "concepts": [
+            {
+                "word": "health",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "figures",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "State bank risked £335m to back Greensill, say MPs",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59351160",
+        "content": "A government-backed bank did not scrutinise Greensill Capital properly, MPs say.",
+        "placed": "Politics",
+        "epoch": 1637478004.2603364,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "State bank risked £335m to back Greensill, say MPs",
+        "en_content": "A government-backed bank did not scrutinise Greensill Capital properly, MPs say.",
+        "concepts": [
+            {
+                "word": "State",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bank",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Greensill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Minister to lead review into migrant crossings",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59357991",
+        "content": "Stephen Barclay will explore what government departments can do amid record numbers of Channel crossings.",
+        "placed": "Politics",
+        "epoch": 1637478004.2603517,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Minister to lead review into migrant crossings",
+        "en_content": "Stephen Barclay will explore what government departments can do amid record numbers of Channel crossings.",
+        "concepts": [
+            {
+                "word": "Minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "review",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs back raising minimum marriage age to 18",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59344731",
+        "content": "Tory Pauline Latham says outdated laws allow child marriage in the UK, which is tantamount to child abuse.",
+        "placed": "Politics",
+        "epoch": 1637478004.2603676,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "MPs back raising minimum marriage age to 18",
+        "en_content": "Tory Pauline Latham says outdated laws allow child marriage in the UK, which is tantamount to child abuse.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "marriage",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "age",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Starmer attacks Tory record on migrant crossings",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59348755",
+        "content": "The Labour leader says deals with France are not sufficient, and aid cuts have increased migration.",
+        "placed": "Politics",
+        "epoch": 1637478004.2603824,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Starmer attacks Tory record on migrant crossings",
+        "en_content": "The Labour leader says deals with France are not sufficient, and aid cuts have increased migration.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tory",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "record",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Paul Dacre quits race to head Ofcom media watchdog",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59353183",
+        "content": "The former Daily Mail editor says he will not take part in a re-run process to find the next chair.",
+        "placed": "Politics",
+        "epoch": 1637478004.2603967,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Paul Dacre quits race to head Ofcom media watchdog",
+        "en_content": "The former Daily Mail editor says he will not take part in a re-run process to find the next chair.",
+        "concepts": [
+            {
+                "word": "Paul",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dacre",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "race",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ofcom",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "watchdog",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Javid orders review of medical device racial bias",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59363544",
+        "content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "placed": "Politics",
+        "epoch": 1637478004.260411,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Javid orders review of medical device racial bias",
+        "en_content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "concepts": [
+            {
+                "word": "Javid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "orders",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "review",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "device",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "bias",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Mental health deaths on the rise, figures suggest",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59336579",
+        "content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "placed": "Politics",
+        "epoch": 1637478004.2604258,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Mental health deaths on the rise, figures suggest",
+        "en_content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "concepts": [
+            {
+                "word": "health",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "figures",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "State bank risked £335m to back Greensill, say MPs",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59351160",
+        "content": "A government-backed bank did not scrutinise Greensill Capital properly, MPs say.",
+        "placed": "Politics",
+        "epoch": 1637478004.2604406,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "State bank risked £335m to back Greensill, say MPs",
+        "en_content": "A government-backed bank did not scrutinise Greensill Capital properly, MPs say.",
+        "concepts": [
+            {
+                "word": "State",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bank",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Greensill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Minister to lead review into migrant crossings",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59357991",
+        "content": "Stephen Barclay will explore what government departments can do amid record numbers of Channel crossings.",
+        "placed": "Politics",
+        "epoch": 1637478004.2604694,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Minister to lead review into migrant crossings",
+        "en_content": "Stephen Barclay will explore what government departments can do amid record numbers of Channel crossings.",
+        "concepts": [
+            {
+                "word": "Minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "review",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs back raising minimum marriage age to 18",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59344731",
+        "content": "Tory Pauline Latham says outdated laws allow child marriage in the UK, which is tantamount to child abuse.",
+        "placed": "Politics",
+        "epoch": 1637478004.2604845,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "MPs back raising minimum marriage age to 18",
+        "en_content": "Tory Pauline Latham says outdated laws allow child marriage in the UK, which is tantamount to child abuse.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "marriage",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "age",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Starmer attacks Tory record on migrant crossings",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59348755",
+        "content": "The Labour leader says deals with France are not sufficient, and aid cuts have increased migration.",
+        "placed": "Politics",
+        "epoch": 1637478004.2604988,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Starmer attacks Tory record on migrant crossings",
+        "en_content": "The Labour leader says deals with France are not sufficient, and aid cuts have increased migration.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tory",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "record",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Paul Dacre quits race to head Ofcom media watchdog",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59353183",
+        "content": "The former Daily Mail editor says he will not take part in a re-run process to find the next chair.",
+        "placed": "Politics",
+        "epoch": 1637478004.2605135,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Paul Dacre quits race to head Ofcom media watchdog",
+        "en_content": "The former Daily Mail editor says he will not take part in a re-run process to find the next chair.",
+        "concepts": [
+            {
+                "word": "Paul",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dacre",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "race",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ofcom",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "watchdog",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Mental health deaths on the rise, figures suggest",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59336579",
+        "content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "placed": "Politics",
+        "epoch": 1637478004.260528,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Mental health deaths on the rise, figures suggest",
+        "en_content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "concepts": [
+            {
+                "word": "health",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "figures",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "State bank risked £335m to back Greensill, say MPs",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59351160",
+        "content": "A government-backed bank did not scrutinise Greensill Capital properly, MPs say.",
+        "placed": "Politics",
+        "epoch": 1637478004.2605426,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "State bank risked £335m to back Greensill, say MPs",
+        "en_content": "A government-backed bank did not scrutinise Greensill Capital properly, MPs say.",
+        "concepts": [
+            {
+                "word": "State",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bank",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Greensill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Minister to lead review into migrant crossings",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59357991",
+        "content": "Stephen Barclay will explore what government departments can do amid record numbers of Channel crossings.",
+        "placed": "Politics",
+        "epoch": 1637478004.2605572,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.04E1637478004.2605708.json",
+        "en_title": "Minister to lead review into migrant crossings",
+        "en_content": "Stephen Barclay will explore what government departments can do amid record numbers of Channel crossings.",
+        "concepts": [
+            {
+                "word": "Minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "review",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

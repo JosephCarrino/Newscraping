@@ -1,0 +1,670 @@
+[
+    {
+        "title": "WHO warns all countries face potential Omicron surge",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/world-59516131",
+        "content": "Officials say the number of countries detecting the new variant is increasing daily.",
+        "placed": "First_Page",
+        "epoch": 1638536404.0569994,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "WHO warns all countries face potential Omicron surge",
+        "en_content": "Officials say the number of countries detecting the new variant is increasing daily.",
+        "concepts": [
+            {
+                "word": "countries",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "WHO warns all countries face potential Omicron surge",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/world-59516131",
+        "content": "Officials say the number of countries detecting the new variant is increasing daily.",
+        "placed": "First_Page",
+        "epoch": 1638536404.0570316,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "WHO warns all countries face potential Omicron surge",
+        "en_content": "Officials say the number of countries detecting the new variant is increasing daily.",
+        "concepts": [
+            {
+                "word": "countries",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Baldwin says career may be over after shooting",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59514525",
+        "content": "But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October.",
+        "placed": "First_Page",
+        "epoch": 1638536404.0570555,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Baldwin says career may be over after shooting",
+        "en_content": "But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "career",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The drought ravaging East African wildlife and livestock",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59513118",
+        "content": "At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia.",
+        "placed": "First_Page",
+        "epoch": 1638536404.057075,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "The drought ravaging East African wildlife and livestock",
+        "en_content": "At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia.",
+        "concepts": [
+            {
+                "word": "drought",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wildlife",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "livestock",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "US tightens travel rules amid new variant cases",
+        "date": "P",
+        "date_raw": "P",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59512368",
+        "content": "President Biden says his plan \"doesn't include shutdowns or lockdowns\" or expand vaccine mandates.",
+        "placed": "First_Page",
+        "epoch": 1638536404.057084,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "US tightens travel rules amid new variant cases",
+        "en_content": "President Biden says his plan \"doesn't include shutdowns or lockdowns\" or expand vaccine mandates.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tightens",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cases",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Merkel's military farewell features punk singer's hit",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59514304",
+        "content": "A ceremony has been held for the German chancellor, who is due to step down after 16 years in office.",
+        "placed": "First_Page",
+        "epoch": 1638536404.0571005,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Merkel's military farewell features punk singer's hit",
+        "en_content": "A ceremony has been held for the German chancellor, who is due to step down after 16 years in office.",
+        "concepts": [
+            {
+                "word": "Merkel",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "farewell",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "punk",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "singer",
+                "meaning": "poss",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Staffer says he was told not to look Epstein in eye",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59516888",
+        "content": "A former housekeeper said Ghislaine Maxwell acted as \"lady of the house\" at Jeffrey Epstein's US home.",
+        "placed": "First_Page",
+        "epoch": 1638536404.0571163,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Staffer says he was told not to look Epstein in eye",
+        "en_content": "A former housekeeper said Ghislaine Maxwell acted as \"lady of the house\" at Jeffrey Epstein's US home.",
+        "concepts": [
+            {
+                "word": "Staffer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Epstein",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "eye",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Little Mix taking break after '10 amazing years'",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/newsbeat-59517505",
+        "content": "The group assure fans they are not splitting up permanently and have plans for more music and tours.",
+        "placed": "First_Page",
+        "epoch": 1638536404.0571313,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Little Mix taking break after '10 amazing years'",
+        "en_content": "The group assure fans they are not splitting up permanently and have plans for more music and tours.",
+        "concepts": [
+            {
+                "word": "Mix",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "break",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fourteen arrested over LA smash-and-grab raids",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59516307",
+        "content": "The mayor says Covid rules which allowed all the suspects to be released pending trial should change.",
+        "placed": "First_Page",
+        "epoch": 1638536404.0571458,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Fourteen arrested over LA smash-and-grab raids",
+        "en_content": "The mayor says Covid rules which allowed all the suspects to be released pending trial should change.",
+        "concepts": [
+            {
+                "word": "LA",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "smash",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "raids",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Austrian resignations trigger change of chancellor",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59516158",
+        "content": "Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil.",
+        "placed": "First_Page",
+        "epoch": 1638536404.0571606,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Austrian resignations trigger change of chancellor",
+        "en_content": "Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil.",
+        "concepts": [
+            {
+                "word": "resignations",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trigger",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chancellor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Euro 2020 disorder 'could have caused death'",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/football/59516147",
+        "content": "\"Ticketless, drunken and drugged-up thugs\" could have caused death at the Euro 2020 final as they attempted to storm Wembley Stadium says an independent review.",
+        "placed": "First_Page",
+        "epoch": 1638536404.0571756,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Euro 2020 disorder 'could have caused death'",
+        "en_content": "\"Ticketless, drunken and drugged-up thugs\" could have caused death at the Euro 2020 final as they attempted to storm Wembley Stadium says an independent review.",
+        "concepts": [
+            {
+                "word": "Euro",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disorder",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Thai paper rebuked for Covid headline about Africans",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59501055",
+        "content": "The country's Covid-19 taskforce admonished the paper by saying it was a \"poor choice of words.\"",
+        "placed": "First_Page",
+        "epoch": 1638536404.0571897,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Thai paper rebuked for Covid headline about Africans",
+        "en_content": "The country's Covid-19 taskforce admonished the paper by saying it was a \"poor choice of words.\"",
+        "concepts": [
+            {
+                "word": "paper",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "headline",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Africans",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Euro 2020 disorder 'could have caused death'",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/football/59516147",
+        "content": "\"Ticketless, drunken and drugged-up thugs\" could have caused death at the Euro 2020 final as they attempted to storm Wembley Stadium says an independent review.",
+        "placed": "First_Page",
+        "epoch": 1638536404.0572152,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Euro 2020 disorder 'could have caused death'",
+        "en_content": "\"Ticketless, drunken and drugged-up thugs\" could have caused death at the Euro 2020 final as they attempted to storm Wembley Stadium says an independent review.",
+        "concepts": [
+            {
+                "word": "Euro",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disorder",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Thai paper rebuked for Covid headline about Africans",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59501055",
+        "content": "The country's Covid-19 taskforce admonished the paper by saying it was a \"poor choice of words.\"",
+        "placed": "First_Page",
+        "epoch": 1638536404.0572295,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Thai paper rebuked for Covid headline about Africans",
+        "en_content": "The country's Covid-19 taskforce admonished the paper by saying it was a \"poor choice of words.\"",
+        "concepts": [
+            {
+                "word": "paper",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "headline",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Africans",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ed and Elton reveal their Christmas chart contender",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59509065",
+        "content": "The pop stars have teamed up for a collaborative Christmas song - but can it get to number one?",
+        "placed": "First_Page",
+        "epoch": 1638536404.0572438,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Ed and Elton reveal their Christmas chart contender",
+        "en_content": "The pop stars have teamed up for a collaborative Christmas song - but can it get to number one?",
+        "concepts": [
+            {
+                "word": "Ed",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Elton",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chart",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "contender",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Gene edited sex selection may spare animal suffering",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59505112",
+        "content": "A gene editing technique may prevent the slaughter of animals not needed by the livestock industry.",
+        "placed": "First_Page",
+        "epoch": 1638536404.057258,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "Gene edited sex selection may spare animal suffering",
+        "en_content": "A gene editing technique may prevent the slaughter of animals not needed by the livestock industry.",
+        "concepts": [
+            {
+                "word": "Gene",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "selection",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "animal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "suffering",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US government shutdown averted hours before deadline",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59514531",
+        "content": "The US Congress passes a bill to fund federal agencies until 18 February, avoiding a costly shutdown.",
+        "placed": "First_Page",
+        "epoch": 1638536404.0572724,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "US government shutdown averted hours before deadline",
+        "en_content": "The US Congress passes a bill to fund federal agencies until 18 February, avoiding a costly shutdown.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "government",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shutdown",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hours",
+                "meaning": "npadvmod",
+                "pos": "ADP"
+            },
+            {
+                "word": "deadline",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "NunTok: How religion is booming on social media",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59513177",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638536404.0572865,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "NunTok: How religion is booming on social media",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "NunTok",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "religion",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638536404.0572996,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.0573192.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

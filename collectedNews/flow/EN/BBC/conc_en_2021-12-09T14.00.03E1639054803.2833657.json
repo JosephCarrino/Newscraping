@@ -1,0 +1,705 @@
+[
+    {
+        "title": "Looting halts critical food aid in Ethiopia towns",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59588956",
+        "content": "Aid workers faced extreme intimidation and were held at gunpoint by looters, the UN says.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2829688,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Looting halts critical food aid in Ethiopia towns",
+        "en_content": "Aid workers faced extreme intimidation and were held at gunpoint by looters, the UN says.",
+        "concepts": [
+            {
+                "word": "Looting",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "halts",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "food",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aid",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Ethiopia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "towns",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Looting halts critical food aid in Ethiopia towns",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59588956",
+        "content": "Aid workers faced extreme intimidation and were held at gunpoint by looters, the UN says.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2830036,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Looting halts critical food aid in Ethiopia towns",
+        "en_content": "Aid workers faced extreme intimidation and were held at gunpoint by looters, the UN says.",
+        "concepts": [
+            {
+                "word": "Looting",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "halts",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "food",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aid",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Ethiopia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "towns",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "India’s farmers end year of mass protests",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59566157",
+        "content": "The announcement was made after hectic negotiations between farmer groups and the government.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2830262,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "India’s farmers end year of mass protests",
+        "en_content": "The announcement was made after hectic negotiations between farmer groups and the government.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "farmers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "mass",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chimamanda Ngozi Adichie: ‘I want to say what I think’",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59568638",
+        "content": "The Nigerian writer shares her experience of grief and her thoughts on \"cancel culture\" and trans rights.",
+        "placed": "First_Page",
+        "epoch": 1639054803.28304,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Chimamanda Ngozi Adichie: ‘I want to say what I think’",
+        "en_content": "The Nigerian writer shares her experience of grief and her thoughts on \"cancel culture\" and trans rights.",
+        "concepts": [
+            {
+                "word": "Chimamanda",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ngozi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Adichie",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Three UK government staff parties to be investigated",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-politics-59591610",
+        "content": "Labour says the PM must resign if he is found to have misled MPs about last year's gatherings.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2830603,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Three UK government staff parties to be investigated",
+        "en_content": "Labour says the PM must resign if he is found to have misled MPs about last year's gatherings.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "government",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "staff",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parties",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Epstein and Maxwell pictured at Queen's residence",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59590576",
+        "content": "The image of the couple at Balmoral was shown to a US court on Wednesday.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2830782,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Epstein and Maxwell pictured at Queen's residence",
+        "en_content": "The image of the couple at Balmoral was shown to a US court on Wednesday.",
+        "concepts": [
+            {
+                "word": "Epstein",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Maxwell",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Queen",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "residence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New Zealand law aims to phase out smoking",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59589775",
+        "content": "No New Zealander born after 2008 will be able to buy tobacco under proposed new health laws.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2830956,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "New Zealand law aims to phase out smoking",
+        "en_content": "No New Zealander born after 2008 will be able to buy tobacco under proposed new health laws.",
+        "concepts": [
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Zealand",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "smoking",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "China says nations will pay for Olympic boycott",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59592347",
+        "content": "The US, UK, Australia and Canada won't be sending government representatives to the Winter Olympics.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2831123,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "China says nations will pay for Olympic boycott",
+        "en_content": "The US, UK, Australia and Canada won't be sending government representatives to the Winter Olympics.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boycott",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Hong Kong tycoon found guilty for Tiananmen vigil",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59574530",
+        "content": "Jimmy Lai and other prominent activists were convicted for taking part in the unauthorised event.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2831283,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Hong Kong tycoon found guilty for Tiananmen vigil",
+        "en_content": "Jimmy Lai and other prominent activists were convicted for taking part in the unauthorised event.",
+        "concepts": [
+            {
+                "word": "Hong",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kong",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tycoon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tiananmen",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vigil",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Saudi camel beauty pageant cracks down on Botox",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59593001",
+        "content": "More than 40 camels are disqualified for receiving injections and other cosmetic enhancements.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2831452,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Saudi camel beauty pageant cracks down on Botox",
+        "en_content": "More than 40 camels are disqualified for receiving injections and other cosmetic enhancements.",
+        "concepts": [
+            {
+                "word": "camel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "beauty",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pageant",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cracks",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Botox",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New measures for England in face of Omicron",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/uk-59590486",
+        "content": "MPs are due to vote next week on stricter measures introduced in England to tackle the Omicron variant.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2831612,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "New measures for England in face of Omicron",
+        "en_content": "MPs are due to vote next week on stricter measures introduced in England to tackle the Omicron variant.",
+        "concepts": [
+            {
+                "word": "measures",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "England",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "face",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Remains found in car linked to 1976 cold case",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59592571",
+        "content": "Tests are under way to confirm that the remains belong to missing student Kyle Wade Clinkscales.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2832005,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Remains found in car linked to 1976 cold case",
+        "en_content": "Tests are under way to confirm that the remains belong to missing student Kyle Wade Clinkscales.",
+        "concepts": [
+            {
+                "word": "Remains",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "car",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New measures for England in face of Omicron",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/uk-59590486",
+        "content": "MPs are due to vote next week on stricter measures introduced in England to tackle the Omicron variant.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2832198,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "New measures for England in face of Omicron",
+        "en_content": "MPs are due to vote next week on stricter measures introduced in England to tackle the Omicron variant.",
+        "concepts": [
+            {
+                "word": "measures",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "England",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "face",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Remains found in car linked to 1976 cold case",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59592571",
+        "content": "Tests are under way to confirm that the remains belong to missing student Kyle Wade Clinkscales.",
+        "placed": "First_Page",
+        "epoch": 1639054803.283236,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Remains found in car linked to 1976 cold case",
+        "en_content": "Tests are under way to confirm that the remains belong to missing student Kyle Wade Clinkscales.",
+        "concepts": [
+            {
+                "word": "Remains",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "car",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Head ton compounds England misery",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/cricket/59574626",
+        "content": "England's dismal start to the Ashes series is compounded by Travis Head's blistering century on day two of the first Test at the Gabba.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2832522,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Head ton compounds England misery",
+        "en_content": "England's dismal start to the Ashes series is compounded by Travis Head's blistering century on day two of the first Test at the Gabba.",
+        "concepts": [
+            {
+                "word": "Head",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ton",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "England",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "misery",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rare Viking sword has 'many stories to tell'",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-59563721",
+        "content": "X-rays have revealed the heavily corroded weapon found in Orkney was highly decorated.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2832685,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Rare Viking sword has 'many stories to tell'",
+        "en_content": "X-rays have revealed the heavily corroded weapon found in Orkney was highly decorated.",
+        "concepts": [
+            {
+                "word": "Rare",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "sword",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "stories",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Toymaker Lego to build $1bn factory in Vietnam",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59588943",
+        "content": "It will be the toymaker's second manufacturing plant in Asia after it opened one in China in 2016.",
+        "placed": "First_Page",
+        "epoch": 1639054803.2832985,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Toymaker Lego to build $1bn factory in Vietnam",
+        "en_content": "It will be the toymaker's second manufacturing plant in Asia after it opened one in China in 2016.",
+        "concepts": [
+            {
+                "word": "Toymaker",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lego",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "factory",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Vietnam",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Held in chains for using WhatsApp",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59585597",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1639054803.2833176,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "Held in chains for using WhatsApp",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "chains",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "WhatsApp",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1639054803.283347,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-09T14.00.03E1639054803.2833657.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

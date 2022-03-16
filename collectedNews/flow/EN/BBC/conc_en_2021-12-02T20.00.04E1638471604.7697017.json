@@ -1,0 +1,542 @@
+[
+    {
+        "title": "Covid families 'sickened' by No 10 Christmas party",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505975",
+        "content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "placed": "Politics",
+        "epoch": 1638471604.7694,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "Covid families 'sickened' by No 10 Christmas party",
+        "en_content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "concepts": [
+            {
+                "word": "families",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Covid families 'sickened' by No 10 Christmas party",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505975",
+        "content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "placed": "Politics",
+        "epoch": 1638471604.7694273,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "Covid families 'sickened' by No 10 Christmas party",
+        "en_content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "concepts": [
+            {
+                "word": "families",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508496",
+        "content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "placed": "Politics",
+        "epoch": 1638471604.7694466,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "Political editor",
+        "en_content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Voters have right to elect racists if they want - MP",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505637",
+        "content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "placed": "Politics",
+        "epoch": 1638471604.769464,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "Voters have right to elect racists if they want - MP",
+        "en_content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "concepts": [
+            {
+                "word": "Voters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "racists",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Government fined £500,000 over honours data breach",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59506556",
+        "content": "Reports suggesting a US decision to maintain tariffs on UK steel is linked to Brexit are rejected.",
+        "placed": "Politics",
+        "epoch": 1638471604.7694798,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "Government fined £500,000 over honours data breach",
+        "en_content": "Reports suggesting a US decision to maintain tariffs on UK steel is linked to Brexit are rejected.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK plays down Brexit link in US steel tariff row",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59503425",
+        "content": "Sir Jeffrey Donaldson says Covid is no joking matter in response to Sammy Wilson's tweet.",
+        "placed": "Politics",
+        "epoch": 1638471604.7694955,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "UK plays down Brexit link in US steel tariff row",
+        "en_content": "Sir Jeffrey Donaldson says Covid is no joking matter in response to Sammy Wilson's tweet.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "link",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "steel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tariff",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "DUP MP rebuked by party leader for ping-dong tweet",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59497444",
+        "content": "Three Conservatives, including ex-leader Sir Iain Duncan Smith, give up paid roles advising firms.",
+        "placed": "Politics",
+        "epoch": 1638471604.7695112,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "DUP MP rebuked by party leader for ping-dong tweet",
+        "en_content": "Three Conservatives, including ex-leader Sir Iain Duncan Smith, give up paid roles advising firms.",
+        "concepts": [
+            {
+                "word": "DUP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ping",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dong",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tweet",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs quit second jobs ahead of likely rules change",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505975",
+        "content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "placed": "Politics",
+        "epoch": 1638471604.7695262,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "MPs quit second jobs ahead of likely rules change",
+        "en_content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "jobs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rules",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Covid families 'sickened' by No 10 Christmas party",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508496",
+        "content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "placed": "Politics",
+        "epoch": 1638471604.7695413,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "Covid families 'sickened' by No 10 Christmas party",
+        "en_content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "concepts": [
+            {
+                "word": "families",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505637",
+        "content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "placed": "Politics",
+        "epoch": 1638471604.7695558,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "Political editor",
+        "en_content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Voters have right to elect racists if they want - MP",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59506556",
+        "content": "Reports suggesting a US decision to maintain tariffs on UK steel is linked to Brexit are rejected.",
+        "placed": "Politics",
+        "epoch": 1638471604.7695706,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "Voters have right to elect racists if they want - MP",
+        "en_content": "Reports suggesting a US decision to maintain tariffs on UK steel is linked to Brexit are rejected.",
+        "concepts": [
+            {
+                "word": "Voters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "racists",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Government fined £500,000 over honours data breach",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59503425",
+        "content": "Sir Jeffrey Donaldson says Covid is no joking matter in response to Sammy Wilson's tweet.",
+        "placed": "Politics",
+        "epoch": 1638471604.7696126,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "Government fined £500,000 over honours data breach",
+        "en_content": "Sir Jeffrey Donaldson says Covid is no joking matter in response to Sammy Wilson's tweet.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK plays down Brexit link in US steel tariff row",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59497444",
+        "content": "Three Conservatives, including ex-leader Sir Iain Duncan Smith, give up paid roles advising firms.",
+        "placed": "Politics",
+        "epoch": 1638471604.7696376,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "UK plays down Brexit link in US steel tariff row",
+        "en_content": "Three Conservatives, including ex-leader Sir Iain Duncan Smith, give up paid roles advising firms.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "link",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "steel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tariff",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "DUP MP rebuked by party leader for ping-dong tweet",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508496",
+        "content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "placed": "Politics",
+        "epoch": 1638471604.7696607,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "DUP MP rebuked by party leader for ping-dong tweet",
+        "en_content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "concepts": [
+            {
+                "word": "DUP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ping",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dong",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tweet",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs quit second jobs ahead of likely rules change",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505637",
+        "content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "placed": "Politics",
+        "epoch": 1638471604.7696853,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.7697017.json",
+        "en_title": "MPs quit second jobs ahead of likely rules change",
+        "en_content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "jobs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rules",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

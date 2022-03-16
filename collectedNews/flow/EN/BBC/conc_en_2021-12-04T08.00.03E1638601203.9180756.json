@@ -1,0 +1,573 @@
+[
+    {
+        "title": "Reward to find parents charged in school shooting",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59530279",
+        "content": "US Marshals say the Michigan couple's son killed four students with the father's handgun.",
+        "placed": "Abroad",
+        "epoch": 1638601203.91777,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Reward to find parents charged in school shooting",
+        "en_content": "US Marshals say the Michigan couple's son killed four students with the father's handgun.",
+        "concepts": [
+            {
+                "word": "parents",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shooting",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Reward to find parents charged in school shooting",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59530279",
+        "content": "US Marshals say the Michigan couple's son killed four students with the father's handgun.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9177978,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Reward to find parents charged in school shooting",
+        "en_content": "US Marshals say the Michigan couple's son killed four students with the father's handgun.",
+        "concepts": [
+            {
+                "word": "parents",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shooting",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden warns Russia against Ukraine 'red lines'",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59528864",
+        "content": "Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9178178,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Biden warns Russia against Ukraine 'red lines'",
+        "en_content": "Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russia",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lines",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Don't panic about Covid variant - WHO",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59526252",
+        "content": "The World Health Organization urges people to be cautious and prepare for the Omicron variant.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9178355,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Don't panic about Covid variant - WHO",
+        "en_content": "The World Health Organization urges people to be cautious and prepare for the Omicron variant.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Missing aircraft: Could MH370 finally be found?",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59517821",
+        "content": "A British engineer believes he may help solve one of the world's greatest aviation mysteries.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9178514,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Missing aircraft: Could MH370 finally be found?",
+        "en_content": "A British engineer believes he may help solve one of the world's greatest aviation mysteries.",
+        "concepts": [
+            {
+                "word": "aircraft",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MH370",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ready for power: Team Scholz promises a new Germany",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59516156",
+        "content": "Next week will see a handover of power from the Merkel era and this is what to expect.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9178684,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Ready for power: Team Scholz promises a new Germany",
+        "en_content": "Next week will see a handover of power from the Merkel era and this is what to expect.",
+        "concepts": [
+            {
+                "word": "power",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Team",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Scholz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Germany",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bolsonaro investigated for vaccine and Aids claim",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59528857",
+        "content": "Brazil's president will face a Supreme Court inquiry for his falsehood about Covid-19 jabs and Aids.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9178832,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Bolsonaro investigated for vaccine and Aids claim",
+        "en_content": "Brazil's president will face a Supreme Court inquiry for his falsehood about Covid-19 jabs and Aids.",
+        "concepts": [
+            {
+                "word": "Bolsonaro",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Aids",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Rare turtle washes up 4,000 miles from home",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-wales-59520232",
+        "content": "Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico.",
+        "placed": "Abroad",
+        "epoch": 1638601203.917896,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Rare turtle washes up 4,000 miles from home",
+        "en_content": "Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico.",
+        "concepts": [
+            {
+                "word": "turtle",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "miles",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "home",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Reward to find parents charged in school shooting",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59530279",
+        "content": "US Marshals say the Michigan couple's son killed four students with the father's handgun.",
+        "placed": "Abroad",
+        "epoch": 1638601203.917911,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Reward to find parents charged in school shooting",
+        "en_content": "US Marshals say the Michigan couple's son killed four students with the father's handgun.",
+        "concepts": [
+            {
+                "word": "parents",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shooting",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden warns Russia against Ukraine 'red lines'",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59528864",
+        "content": "Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports.",
+        "placed": "Abroad",
+        "epoch": 1638601203.917926,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Biden warns Russia against Ukraine 'red lines'",
+        "en_content": "Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russia",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lines",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Don't panic about Covid variant - WHO",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59526252",
+        "content": "The World Health Organization urges people to be cautious and prepare for the Omicron variant.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9179409,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Don't panic about Covid variant - WHO",
+        "en_content": "The World Health Organization urges people to be cautious and prepare for the Omicron variant.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Missing aircraft: Could MH370 finally be found?",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59517821",
+        "content": "A British engineer believes he may help solve one of the world's greatest aviation mysteries.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9179552,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Missing aircraft: Could MH370 finally be found?",
+        "en_content": "A British engineer believes he may help solve one of the world's greatest aviation mysteries.",
+        "concepts": [
+            {
+                "word": "aircraft",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MH370",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ready for power: Team Scholz promises a new Germany",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59516156",
+        "content": "Next week will see a handover of power from the Merkel era and this is what to expect.",
+        "placed": "Abroad",
+        "epoch": 1638601203.917991,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Ready for power: Team Scholz promises a new Germany",
+        "en_content": "Next week will see a handover of power from the Merkel era and this is what to expect.",
+        "concepts": [
+            {
+                "word": "power",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Team",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Scholz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Germany",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bolsonaro investigated for vaccine and Aids claim",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59528857",
+        "content": "Brazil's president will face a Supreme Court inquiry for his falsehood about Covid-19 jabs and Aids.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9180074,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Bolsonaro investigated for vaccine and Aids claim",
+        "en_content": "Brazil's president will face a Supreme Court inquiry for his falsehood about Covid-19 jabs and Aids.",
+        "concepts": [
+            {
+                "word": "Bolsonaro",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Aids",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Rare turtle washes up 4,000 miles from home",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-wales-59520232",
+        "content": "Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9180217,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Rare turtle washes up 4,000 miles from home",
+        "en_content": "Tally the Turtle is recovering in a UK zoo awaiting a flight back to the warm waters of Mexico.",
+        "concepts": [
+            {
+                "word": "turtle",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "miles",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "home",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden warns Russia against Ukraine 'red lines'",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59528864",
+        "content": "Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9180293,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Biden warns Russia against Ukraine 'red lines'",
+        "en_content": "Intelligence officials fear Russia could invade Ukraine as soon as early 2022, US media reports.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russia",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lines",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Don't panic about Covid variant - WHO",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59526252",
+        "content": "The World Health Organization urges people to be cautious and prepare for the Omicron variant.",
+        "placed": "Abroad",
+        "epoch": 1638601203.9180453,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Don't panic about Covid variant - WHO",
+        "en_content": "The World Health Organization urges people to be cautious and prepare for the Omicron variant.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Missing aircraft: Could MH370 finally be found?",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59517821",
+        "content": "A British engineer believes he may help solve one of the world's greatest aviation mysteries.",
+        "placed": "Abroad",
+        "epoch": 1638601203.91806,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-04T08.00.03E1638601203.9180756.json",
+        "en_title": "Missing aircraft: Could MH370 finally be found?",
+        "en_content": "A British engineer believes he may help solve one of the world's greatest aviation mysteries.",
+        "concepts": [
+            {
+                "word": "aircraft",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MH370",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

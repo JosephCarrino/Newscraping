@@ -1,0 +1,532 @@
+[
+    {
+        "title": "New variant classed 'of concern' and named Omicron",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59438723",
+        "content": "More nations are restricting travel to southern Africa to try to slow the spread of a new variant.",
+        "placed": "Abroad",
+        "epoch": 1637996404.35393,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "New variant classed 'of concern' and named Omicron",
+        "en_content": "More nations are restricting travel to southern Africa to try to slow the spread of a new variant.",
+        "concepts": [
+            {
+                "word": "variant",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "concern",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "oprd",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "New variant classed 'of concern' and named Omicron",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59438723",
+        "content": "More nations are restricting travel to southern Africa to try to slow the spread of a new variant.",
+        "placed": "Abroad",
+        "epoch": 1637996404.3539572,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "New variant classed 'of concern' and named Omicron",
+        "en_content": "More nations are restricting travel to southern Africa to try to slow the spread of a new variant.",
+        "concepts": [
+            {
+                "word": "variant",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "concern",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "oprd",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US joins EU in restricting southern Africa flights",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59427770",
+        "content": "Flights from eight African nations to be blocked as new variant is classified as being \"of concern\".",
+        "placed": "Abroad",
+        "epoch": 1637996404.3539767,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "US joins EU in restricting southern Africa flights",
+        "en_content": "Flights from eight African nations to be blocked as new variant is classified as being \"of concern\".",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "flights",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Kurdish woman is first Channel victim to be named",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59439533",
+        "content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "placed": "Abroad",
+        "epoch": 1637996404.3539934,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "Kurdish woman is first Channel victim to be named",
+        "en_content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "concepts": [
+            {
+                "word": "woman",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victim",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The windswept beaches of opportunity and fear",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59380745",
+        "content": "Sunday's referendum is held in a country with one of the lowest vaccination rates in Western Europe.",
+        "placed": "Abroad",
+        "epoch": 1637996404.3540092,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "The windswept beaches of opportunity and fear",
+        "en_content": "Sunday's referendum is held in a country with one of the lowest vaccination rates in Western Europe.",
+        "concepts": [
+            {
+                "word": "beaches",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "opportunity",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fear",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Swiss vote on ending restrictions amid Covid surge",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59428712",
+        "content": "He says an alleged plan to overthrow his government comes amid threats of a Russian invasion.",
+        "placed": "Abroad",
+        "epoch": 1637996404.3540246,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "Swiss vote on ending restrictions amid Covid surge",
+        "en_content": "He says an alleged plan to overthrow his government comes amid threats of a Russian invasion.",
+        "concepts": [
+            {
+                "word": "vote",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ukraine leader alleges coup plan involving Russians",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59428406",
+        "content": "The boss of the world's largest fertiliser producer says gas prices are responsible for higher food prices.",
+        "placed": "Abroad",
+        "epoch": 1637996404.3540397,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "Ukraine leader alleges coup plan involving Russians",
+        "en_content": "The boss of the world's largest fertiliser producer says gas prices are responsible for higher food prices.",
+        "concepts": [
+            {
+                "word": "leader",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "coup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russians",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Poorest face food crisis amid fertiliser shortage",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59438723",
+        "content": "More nations are restricting travel to southern Africa to try to slow the spread of a new variant.",
+        "placed": "Abroad",
+        "epoch": 1637996404.3540542,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "Poorest face food crisis amid fertiliser shortage",
+        "en_content": "More nations are restricting travel to southern Africa to try to slow the spread of a new variant.",
+        "concepts": [
+            {
+                "word": "face",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "food",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crisis",
+                "meaning": "dobj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "fertiliser",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shortage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New variant classed 'of concern' and named Omicron",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59427770",
+        "content": "Flights from eight African nations to be blocked as new variant is classified as being \"of concern\".",
+        "placed": "Abroad",
+        "epoch": 1637996404.3540685,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "New variant classed 'of concern' and named Omicron",
+        "en_content": "Flights from eight African nations to be blocked as new variant is classified as being \"of concern\".",
+        "concepts": [
+            {
+                "word": "variant",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "concern",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "oprd",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US joins EU in restricting southern Africa flights",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59439533",
+        "content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "placed": "Abroad",
+        "epoch": 1637996404.3540833,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "US joins EU in restricting southern Africa flights",
+        "en_content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "flights",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Kurdish woman is first Channel victim to be named",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59380745",
+        "content": "Sunday's referendum is held in a country with one of the lowest vaccination rates in Western Europe.",
+        "placed": "Abroad",
+        "epoch": 1637996404.3540983,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "Kurdish woman is first Channel victim to be named",
+        "en_content": "Sunday's referendum is held in a country with one of the lowest vaccination rates in Western Europe.",
+        "concepts": [
+            {
+                "word": "woman",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victim",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The windswept beaches of opportunity and fear",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59428712",
+        "content": "He says an alleged plan to overthrow his government comes amid threats of a Russian invasion.",
+        "placed": "Abroad",
+        "epoch": 1637996404.3541129,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "The windswept beaches of opportunity and fear",
+        "en_content": "He says an alleged plan to overthrow his government comes amid threats of a Russian invasion.",
+        "concepts": [
+            {
+                "word": "beaches",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "opportunity",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fear",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Swiss vote on ending restrictions amid Covid surge",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59428406",
+        "content": "The boss of the world's largest fertiliser producer says gas prices are responsible for higher food prices.",
+        "placed": "Abroad",
+        "epoch": 1637996404.3541281,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "Swiss vote on ending restrictions amid Covid surge",
+        "en_content": "The boss of the world's largest fertiliser producer says gas prices are responsible for higher food prices.",
+        "concepts": [
+            {
+                "word": "vote",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ukraine leader alleges coup plan involving Russians",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59427770",
+        "content": "Flights from eight African nations to be blocked as new variant is classified as being \"of concern\".",
+        "placed": "Abroad",
+        "epoch": 1637996404.3541427,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "Ukraine leader alleges coup plan involving Russians",
+        "en_content": "Flights from eight African nations to be blocked as new variant is classified as being \"of concern\".",
+        "concepts": [
+            {
+                "word": "leader",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "coup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russians",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Poorest face food crisis amid fertiliser shortage",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59439533",
+        "content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "placed": "Abroad",
+        "epoch": 1637996404.354157,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T08.00.04E1637996404.3541713.json",
+        "en_title": "Poorest face food crisis amid fertiliser shortage",
+        "en_content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "concepts": [
+            {
+                "word": "face",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "food",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crisis",
+                "meaning": "dobj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "fertiliser",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shortage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

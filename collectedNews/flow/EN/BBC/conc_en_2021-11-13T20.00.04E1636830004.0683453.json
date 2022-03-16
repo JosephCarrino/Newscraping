@@ -1,0 +1,673 @@
+[
+    {
+        "title": "Putin warns Belarus over gas threat to Europe",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59274351",
+        "content": "Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland.",
+        "placed": "Abroad",
+        "epoch": 1636830004.0679896,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Putin warns Belarus over gas threat to Europe",
+        "en_content": "Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland.",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threat",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Putin warns Belarus over gas threat to Europe",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59274351",
+        "content": "Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland.",
+        "placed": "Abroad",
+        "epoch": 1636830004.0680213,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Putin warns Belarus over gas threat to Europe",
+        "en_content": "Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland.",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threat",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate summit approaches 'moment of truth'",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59269886",
+        "content": "The president of the COP26 climate summit says talks are approaching a \"moment of truth\".",
+        "placed": "Abroad",
+        "epoch": 1636830004.0680423,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Climate summit approaches 'moment of truth'",
+        "en_content": "The president of the COP26 climate summit says talks are approaching a \"moment of truth\".",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "approaches",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "moment",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "truth",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New prison riot in Ecuador leaves 68 dead",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59276428",
+        "content": "Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening.",
+        "placed": "Abroad",
+        "epoch": 1636830004.0680597,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "New prison riot in Ecuador leaves 68 dead",
+        "en_content": "Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening.",
+        "concepts": [
+            {
+                "word": "prison",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "riot",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ecuador",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Duterte daughter to run as Philippines VP",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59274204",
+        "content": "Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos.",
+        "placed": "Abroad",
+        "epoch": 1636830004.0680757,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Duterte daughter to run as Philippines VP",
+        "en_content": "Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos.",
+        "concepts": [
+            {
+                "word": "Duterte",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "daughter",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Philippines",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "VP",
+                "meaning": "advcl",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Richard Ratcliffe ends hunger strike after 21 days",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59275772",
+        "content": "The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child \"needs two parents\".",
+        "placed": "Abroad",
+        "epoch": 1636830004.0680919,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Richard Ratcliffe ends hunger strike after 21 days",
+        "en_content": "The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child \"needs two parents\".",
+        "concepts": [
+            {
+                "word": "Richard",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ratcliffe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hunger",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "days",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dutch anti-lockdown protesters face water cannon",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59258409",
+        "content": "Police in The Hague use water cannon on protesters opposing a lockdown amid a rise in Covid infections.",
+        "placed": "Abroad",
+        "epoch": 1636830004.0681074,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Dutch anti-lockdown protesters face water cannon",
+        "en_content": "Police in The Hague use water cannon on protesters opposing a lockdown amid a rise in Covid infections.",
+        "concepts": [
+            {
+                "word": "protesters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "water",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cannon",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Britney released from 13-year conservatorship",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59217825",
+        "content": "An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008.",
+        "placed": "Abroad",
+        "epoch": 1636830004.068131,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Britney released from 13-year conservatorship",
+        "en_content": "An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008.",
+        "concepts": [
+            {
+                "word": "Britney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conservatorship",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Putin warns Belarus over gas threat to Europe",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59274351",
+        "content": "Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland.",
+        "placed": "Abroad",
+        "epoch": 1636830004.0681546,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Putin warns Belarus over gas threat to Europe",
+        "en_content": "Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland.",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threat",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate summit approaches 'moment of truth'",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59269886",
+        "content": "The president of the COP26 climate summit says talks are approaching a \"moment of truth\".",
+        "placed": "Abroad",
+        "epoch": 1636830004.0681784,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Climate summit approaches 'moment of truth'",
+        "en_content": "The president of the COP26 climate summit says talks are approaching a \"moment of truth\".",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "approaches",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "moment",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "truth",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New prison riot in Ecuador leaves 68 dead",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59276428",
+        "content": "Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening.",
+        "placed": "Abroad",
+        "epoch": 1636830004.0682032,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "New prison riot in Ecuador leaves 68 dead",
+        "en_content": "Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening.",
+        "concepts": [
+            {
+                "word": "prison",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "riot",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ecuador",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Duterte daughter to run as Philippines VP",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59274204",
+        "content": "Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos.",
+        "placed": "Abroad",
+        "epoch": 1636830004.0682275,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Duterte daughter to run as Philippines VP",
+        "en_content": "Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos.",
+        "concepts": [
+            {
+                "word": "Duterte",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "daughter",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Philippines",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "VP",
+                "meaning": "advcl",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Richard Ratcliffe ends hunger strike after 21 days",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59275772",
+        "content": "The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child \"needs two parents\".",
+        "placed": "Abroad",
+        "epoch": 1636830004.068253,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Richard Ratcliffe ends hunger strike after 21 days",
+        "en_content": "The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child \"needs two parents\".",
+        "concepts": [
+            {
+                "word": "Richard",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ratcliffe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hunger",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "days",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dutch anti-lockdown protesters face water cannon",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59258409",
+        "content": "Police in The Hague use water cannon on protesters opposing a lockdown amid a rise in Covid infections.",
+        "placed": "Abroad",
+        "epoch": 1636830004.0682728,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Dutch anti-lockdown protesters face water cannon",
+        "en_content": "Police in The Hague use water cannon on protesters opposing a lockdown amid a rise in Covid infections.",
+        "concepts": [
+            {
+                "word": "protesters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "water",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cannon",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Britney released from 13-year conservatorship",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59217825",
+        "content": "An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008.",
+        "placed": "Abroad",
+        "epoch": 1636830004.068288,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Britney released from 13-year conservatorship",
+        "en_content": "An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008.",
+        "concepts": [
+            {
+                "word": "Britney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conservatorship",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate summit approaches 'moment of truth'",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59269886",
+        "content": "The president of the COP26 climate summit says talks are approaching a \"moment of truth\".",
+        "placed": "Abroad",
+        "epoch": 1636830004.0683026,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Climate summit approaches 'moment of truth'",
+        "en_content": "The president of the COP26 climate summit says talks are approaching a \"moment of truth\".",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "approaches",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "moment",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "truth",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New prison riot in Ecuador leaves 68 dead",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59276428",
+        "content": "Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening.",
+        "placed": "Abroad",
+        "epoch": 1636830004.068317,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "New prison riot in Ecuador leaves 68 dead",
+        "en_content": "Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening.",
+        "concepts": [
+            {
+                "word": "prison",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "riot",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ecuador",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Duterte daughter to run as Philippines VP",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59274204",
+        "content": "Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos.",
+        "placed": "Abroad",
+        "epoch": 1636830004.0683312,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-13T20.00.04E1636830004.0683453.json",
+        "en_title": "Duterte daughter to run as Philippines VP",
+        "en_content": "Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos.",
+        "concepts": [
+            {
+                "word": "Duterte",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "daughter",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Philippines",
+                "meaning": "nsubj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "VP",
+                "meaning": "advcl",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

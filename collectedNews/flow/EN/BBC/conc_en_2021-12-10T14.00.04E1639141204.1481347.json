@@ -1,0 +1,653 @@
+[
+    {
+        "title": "At least 54 people killed in Mexico truck crash",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59603801",
+        "content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "placed": "Abroad",
+        "epoch": 1639141204.147819,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "At least 54 people killed in Mexico truck crash",
+        "en_content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "truck",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "At least 54 people killed in Mexico truck crash",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59603801",
+        "content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1478503,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "At least 54 people killed in Mexico truck crash",
+        "en_content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "truck",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Putin compares Ukraine war zone to genocide",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59599066",
+        "content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1478722,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Putin compares Ukraine war zone to genocide",
+        "en_content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "war",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "zone",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Trump swears in criticism of Netanyahu’s loyalty",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59571713",
+        "content": "The former president rails against his once-close ally, and says he saved Israel from destruction.",
+        "placed": "Abroad",
+        "epoch": 1639141204.147892,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Trump swears in criticism of Netanyahu’s loyalty",
+        "en_content": "The former president rails against his once-close ally, and says he saved Israel from destruction.",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "criticism",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "loyalty",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Actor Jussie Smollett guilty of lying about attack",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59599142",
+        "content": "A lawyer for the actor has said his client plans \"100%\" to appeal the verdict.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1479106,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Actor Jussie Smollett guilty of lying about attack",
+        "en_content": "A lawyer for the actor has said his client plans \"100%\" to appeal the verdict.",
+        "concepts": [
+            {
+                "word": "Actor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jussie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smollett",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Assange can be extradited to the US, court rules",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59608641",
+        "content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1479285,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Assange can be extradited to the US, court rules",
+        "en_content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "concepts": [
+            {
+                "word": "Assange",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "court",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Finding Afghanistan's exiled women MPs",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59598535",
+        "content": "Most of Afghanistan's 69 women MPs are now in exile and have vowed to continue fighting for women's rights.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1479464,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Finding Afghanistan's exiled women MPs",
+        "en_content": "Most of Afghanistan's 69 women MPs are now in exile and have vowed to continue fighting for women's rights.",
+        "concepts": [
+            {
+                "word": "Afghanistan",
+                "meaning": "poss",
+                "pos": "VERB"
+            },
+            {
+                "word": "women",
+                "meaning": "compound",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bushfires rage in Western Australia tourist region",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59604211",
+        "content": "The blazes near Margaret River have forced evacuations and scorched over 6,000 hectares of land.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1479607,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Bushfires rage in Western Australia tourist region",
+        "en_content": "The blazes near Margaret River have forced evacuations and scorched over 6,000 hectares of land.",
+        "concepts": [
+            {
+                "word": "Bushfires",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Western",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tourist",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "region",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "At least 54 people killed in Mexico truck crash",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59603801",
+        "content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1479788,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "At least 54 people killed in Mexico truck crash",
+        "en_content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "truck",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Putin compares Ukraine war zone to genocide",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59599066",
+        "content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "placed": "Abroad",
+        "epoch": 1639141204.147996,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Putin compares Ukraine war zone to genocide",
+        "en_content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "war",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "zone",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Trump swears in criticism of Netanyahu’s loyalty",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59571713",
+        "content": "The former president rails against his once-close ally, and says he saved Israel from destruction.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1480129,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Trump swears in criticism of Netanyahu’s loyalty",
+        "en_content": "The former president rails against his once-close ally, and says he saved Israel from destruction.",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "criticism",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "loyalty",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Actor Jussie Smollett guilty of lying about attack",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59599142",
+        "content": "A lawyer for the actor has said his client plans \"100%\" to appeal the verdict.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1480298,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Actor Jussie Smollett guilty of lying about attack",
+        "en_content": "A lawyer for the actor has said his client plans \"100%\" to appeal the verdict.",
+        "concepts": [
+            {
+                "word": "Actor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jussie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smollett",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Assange can be extradited to the US, court rules",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59608641",
+        "content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "placed": "Abroad",
+        "epoch": 1639141204.148046,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Assange can be extradited to the US, court rules",
+        "en_content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "concepts": [
+            {
+                "word": "Assange",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "court",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Finding Afghanistan's exiled women MPs",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59598535",
+        "content": "Most of Afghanistan's 69 women MPs are now in exile and have vowed to continue fighting for women's rights.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1480622,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Finding Afghanistan's exiled women MPs",
+        "en_content": "Most of Afghanistan's 69 women MPs are now in exile and have vowed to continue fighting for women's rights.",
+        "concepts": [
+            {
+                "word": "Afghanistan",
+                "meaning": "poss",
+                "pos": "VERB"
+            },
+            {
+                "word": "women",
+                "meaning": "compound",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bushfires rage in Western Australia tourist region",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59604211",
+        "content": "The blazes near Margaret River have forced evacuations and scorched over 6,000 hectares of land.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1480787,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Bushfires rage in Western Australia tourist region",
+        "en_content": "The blazes near Margaret River have forced evacuations and scorched over 6,000 hectares of land.",
+        "concepts": [
+            {
+                "word": "Bushfires",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Western",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tourist",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "region",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Putin compares Ukraine war zone to genocide",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59599066",
+        "content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1480875,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Putin compares Ukraine war zone to genocide",
+        "en_content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "war",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "zone",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Trump swears in criticism of Netanyahu’s loyalty",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59571713",
+        "content": "The former president rails against his once-close ally, and says he saved Israel from destruction.",
+        "placed": "Abroad",
+        "epoch": 1639141204.1481044,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Trump swears in criticism of Netanyahu’s loyalty",
+        "en_content": "The former president rails against his once-close ally, and says he saved Israel from destruction.",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "criticism",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "loyalty",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Actor Jussie Smollett guilty of lying about attack",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59599142",
+        "content": "A lawyer for the actor has said his client plans \"100%\" to appeal the verdict.",
+        "placed": "Abroad",
+        "epoch": 1639141204.148121,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T14.00.04E1639141204.1481347.json",
+        "en_title": "Actor Jussie Smollett guilty of lying about attack",
+        "en_content": "A lawyer for the actor has said his client plans \"100%\" to appeal the verdict.",
+        "concepts": [
+            {
+                "word": "Actor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jussie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smollett",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

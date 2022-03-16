@@ -1,0 +1,670 @@
+[
+    {
+        "title": "G20 pledge climate action but make few commitments",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59109186",
+        "content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "placed": "Abroad",
+        "epoch": 1635728404.0835934,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "G20 pledge climate action but make few commitments",
+        "en_content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledge",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "commitments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "G20 pledge climate action but make few commitments",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59109186",
+        "content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "placed": "Abroad",
+        "epoch": 1635728404.083627,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "G20 pledge climate action but make few commitments",
+        "en_content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledge",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "commitments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Macron says Australian PM lied over submarine deal",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59113710",
+        "content": "Asked if Australia's leader was untruthful, France's president responds: \"I don't think, I know.\"",
+        "placed": "Abroad",
+        "epoch": 1635728404.0836525,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "Macron says Australian PM lied over submarine deal",
+        "en_content": "Asked if Australia's leader was untruthful, France's president responds: \"I don't think, I know.\"",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "submarine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Extreme weather events are 'the new norm'",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59105963",
+        "content": "Scientists from the WMO say global warming is leading the world into \"uncharted territory\".",
+        "placed": "Abroad",
+        "epoch": 1635728404.0836744,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "Extreme weather events are 'the new norm'",
+        "en_content": "Scientists from the WMO say global warming is leading the world into \"uncharted territory\".",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "events",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "norm",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59103664",
+        "content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "placed": "Abroad",
+        "epoch": 1635728404.0836954,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "en_content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "concepts": [
+            {
+                "word": "Tokyo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "subway",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "knife",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hurt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "One dead in Czech cable car crash",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59106907",
+        "content": "The incident at a popular tourist site happened when one cabin came loose from its cable and fell.",
+        "placed": "Abroad",
+        "epoch": 1635728404.0837162,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "One dead in Czech cable car crash",
+        "en_content": "The incident at a popular tourist site happened when one cabin came loose from its cable and fell.",
+        "concepts": [
+            {
+                "word": "Czech",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cable",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "car",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK and France blame each other over fishing row",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-politics-59109804",
+        "content": "Johnson says Macron should \"de-escalate the rhetoric\" and Macron says the \"ball is in Britain's court\".",
+        "placed": "Abroad",
+        "epoch": 1635728404.0837362,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "UK and France blame each other over fishing row",
+        "en_content": "Johnson says Macron should \"de-escalate the rhetoric\" and Macron says the \"ball is in Britain's court\".",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sudan anti-coup protesters barricade roads",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59109729",
+        "content": "Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday.",
+        "placed": "Abroad",
+        "epoch": 1635728404.0837555,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "Sudan anti-coup protesters barricade roads",
+        "en_content": "Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday.",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "G20 pledge climate action but make few commitments",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59109186",
+        "content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "placed": "Abroad",
+        "epoch": 1635728404.0837753,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "G20 pledge climate action but make few commitments",
+        "en_content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledge",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "commitments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Macron says Australian PM lied over submarine deal",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59113710",
+        "content": "Asked if Australia's leader was untruthful, France's president responds: \"I don't think, I know.\"",
+        "placed": "Abroad",
+        "epoch": 1635728404.0837946,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "Macron says Australian PM lied over submarine deal",
+        "en_content": "Asked if Australia's leader was untruthful, France's president responds: \"I don't think, I know.\"",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "submarine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Extreme weather events are 'the new norm'",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59105963",
+        "content": "Scientists from the WMO say global warming is leading the world into \"uncharted territory\".",
+        "placed": "Abroad",
+        "epoch": 1635728404.0838137,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "Extreme weather events are 'the new norm'",
+        "en_content": "Scientists from the WMO say global warming is leading the world into \"uncharted territory\".",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "events",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "norm",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59103664",
+        "content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "placed": "Abroad",
+        "epoch": 1635728404.0838323,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "en_content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "concepts": [
+            {
+                "word": "Tokyo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "subway",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "knife",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hurt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "One dead in Czech cable car crash",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59106907",
+        "content": "The incident at a popular tourist site happened when one cabin came loose from its cable and fell.",
+        "placed": "Abroad",
+        "epoch": 1635728404.083851,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "One dead in Czech cable car crash",
+        "en_content": "The incident at a popular tourist site happened when one cabin came loose from its cable and fell.",
+        "concepts": [
+            {
+                "word": "Czech",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cable",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "car",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK and France blame each other over fishing row",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-politics-59109804",
+        "content": "Johnson says Macron should \"de-escalate the rhetoric\" and Macron says the \"ball is in Britain's court\".",
+        "placed": "Abroad",
+        "epoch": 1635728404.0838697,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "UK and France blame each other over fishing row",
+        "en_content": "Johnson says Macron should \"de-escalate the rhetoric\" and Macron says the \"ball is in Britain's court\".",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sudan anti-coup protesters barricade roads",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59109729",
+        "content": "Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday.",
+        "placed": "Abroad",
+        "epoch": 1635728404.0838883,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "Sudan anti-coup protesters barricade roads",
+        "en_content": "Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday.",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Macron says Australian PM lied over submarine deal",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59113710",
+        "content": "Asked if Australia's leader was untruthful, France's president responds: \"I don't think, I know.\"",
+        "placed": "Abroad",
+        "epoch": 1635728404.083907,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "Macron says Australian PM lied over submarine deal",
+        "en_content": "Asked if Australia's leader was untruthful, France's president responds: \"I don't think, I know.\"",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "submarine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Extreme weather events are 'the new norm'",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59105963",
+        "content": "Scientists from the WMO say global warming is leading the world into \"uncharted territory\".",
+        "placed": "Abroad",
+        "epoch": 1635728404.083925,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "Extreme weather events are 'the new norm'",
+        "en_content": "Scientists from the WMO say global warming is leading the world into \"uncharted territory\".",
+        "concepts": [
+            {
+                "word": "weather",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "events",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "norm",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59103664",
+        "content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "placed": "Abroad",
+        "epoch": 1635728404.083944,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T02.00.04E1635728404.0839627.json",
+        "en_title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "en_content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "concepts": [
+            {
+                "word": "Tokyo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "subway",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "knife",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hurt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

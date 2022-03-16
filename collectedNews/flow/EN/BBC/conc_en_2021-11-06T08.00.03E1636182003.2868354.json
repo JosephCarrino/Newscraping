@@ -1,0 +1,713 @@
+[
+    {
+        "title": "US lawmakers approve $1tn infrastructure bill",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180745",
+        "content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "placed": "Abroad",
+        "epoch": 1636182003.286549,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "US lawmakers approve $1tn infrastructure bill",
+        "en_content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawmakers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "infrastructure",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US lawmakers approve $1tn infrastructure bill",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180745",
+        "content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2865753,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "US lawmakers approve $1tn infrastructure bill",
+        "en_content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawmakers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "infrastructure",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59165781",
+        "content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2865949,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "en_content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Thunberg",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "COP26",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "failure",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "PR",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exercise",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Full footage of black jogger's death shown at trial",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180744",
+        "content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2866123,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Full footage of black jogger's death shown at trial",
+        "en_content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "concepts": [
+            {
+                "word": "footage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jogger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59175404",
+        "content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2866282,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "en_content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "soldiers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rebels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Hello, Senator? Duchess of Sussex calling",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186204",
+        "content": "Meghan Markle reportedly placed calls with US senators this week to lobby for family leave.",
+        "placed": "Abroad",
+        "epoch": 1636182003.286644,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Hello, Senator? Duchess of Sussex calling",
+        "en_content": "Meghan Markle reportedly placed calls with US senators this week to lobby for family leave.",
+        "concepts": [
+            {
+                "word": "Senator",
+                "meaning": "npadvmod",
+                "pos": "INTJ"
+            },
+            {
+                "word": "Duchess",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sussex",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Brazil singer Mendonca dies in plane crash at 26",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59186654",
+        "content": "Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2866602,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Brazil singer Mendonca dies in plane crash at 26",
+        "en_content": "Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women.",
+        "concepts": [
+            {
+                "word": "Brazil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "singer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mendonca",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plane",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chinese man convicted on aviation spy charges",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186980",
+        "content": "US authorities say Xu Yanjun sought to steal trade secrets from US aviation companies.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2866752,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Chinese man convicted on aviation spy charges",
+        "en_content": "US authorities say Xu Yanjun sought to steal trade secrets from US aviation companies.",
+        "concepts": [
+            {
+                "word": "man",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aviation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "charges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US lawmakers approve $1tn infrastructure bill",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180745",
+        "content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2866898,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "US lawmakers approve $1tn infrastructure bill",
+        "en_content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawmakers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "infrastructure",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59165781",
+        "content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2867043,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "en_content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Thunberg",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "COP26",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "failure",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "PR",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exercise",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Full footage of black jogger's death shown at trial",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180744",
+        "content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "placed": "Abroad",
+        "epoch": 1636182003.286719,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Full footage of black jogger's death shown at trial",
+        "en_content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "concepts": [
+            {
+                "word": "footage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jogger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59175404",
+        "content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2867334,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "en_content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "soldiers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rebels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Hello, Senator? Duchess of Sussex calling",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186204",
+        "content": "Meghan Markle reportedly placed calls with US senators this week to lobby for family leave.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2867475,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Hello, Senator? Duchess of Sussex calling",
+        "en_content": "Meghan Markle reportedly placed calls with US senators this week to lobby for family leave.",
+        "concepts": [
+            {
+                "word": "Senator",
+                "meaning": "npadvmod",
+                "pos": "INTJ"
+            },
+            {
+                "word": "Duchess",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sussex",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Brazil singer Mendonca dies in plane crash at 26",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59186654",
+        "content": "Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women.",
+        "placed": "Abroad",
+        "epoch": 1636182003.286762,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Brazil singer Mendonca dies in plane crash at 26",
+        "en_content": "Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women.",
+        "concepts": [
+            {
+                "word": "Brazil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "singer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mendonca",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plane",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chinese man convicted on aviation spy charges",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186980",
+        "content": "US authorities say Xu Yanjun sought to steal trade secrets from US aviation companies.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2867768,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Chinese man convicted on aviation spy charges",
+        "en_content": "US authorities say Xu Yanjun sought to steal trade secrets from US aviation companies.",
+        "concepts": [
+            {
+                "word": "man",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aviation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "charges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59165781",
+        "content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2867906,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "en_content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Thunberg",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "COP26",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "failure",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "PR",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exercise",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Full footage of black jogger's death shown at trial",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180744",
+        "content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "placed": "Abroad",
+        "epoch": 1636182003.286805,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Full footage of black jogger's death shown at trial",
+        "en_content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "concepts": [
+            {
+                "word": "footage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jogger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59175404",
+        "content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "placed": "Abroad",
+        "epoch": 1636182003.2868192,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.2868354.json",
+        "en_title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "en_content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "soldiers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rebels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

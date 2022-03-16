@@ -1,0 +1,568 @@
+[
+    {
+        "title": "Biden says Omicron lockdowns not needed 'for now'",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59469486",
+        "content": "The president says a new US lockdown can be avoided \"if people are vaccinated and wear their masks\".",
+        "placed": "Abroad",
+        "epoch": 1638255604.218239,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "Biden says Omicron lockdowns not needed 'for now'",
+        "en_content": "The president says a new US lockdown can be avoided \"if people are vaccinated and wear their masks\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden says Omicron lockdowns not needed 'for now'",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59469486",
+        "content": "The president says a new US lockdown can be avoided \"if people are vaccinated and wear their masks\".",
+        "placed": "Abroad",
+        "epoch": 1638255604.218266,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "Biden says Omicron lockdowns not needed 'for now'",
+        "en_content": "The president says a new US lockdown can be avoided \"if people are vaccinated and wear their masks\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Barbados becomes the world's newest republic",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59470843",
+        "content": "The Caribbean nation parts ways with the Queen in a ceremony attended by Prince Charles and Rihanna.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2182832,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "Barbados becomes the world's newest republic",
+        "en_content": "The Caribbean nation parts ways with the Queen in a ceremony attended by Prince Charles and Rihanna.",
+        "concepts": [
+            {
+                "word": "Barbados",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "republic",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "WHO warns of very high global risk from Omicron",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59468155",
+        "content": "Omicron could lead to severe consequences in some regions, the World Health Organization has warned.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2183018,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "WHO warns of very high global risk from Omicron",
+        "en_content": "Omicron could lead to severe consequences in some regions, the World Health Organization has warned.",
+        "concepts": [
+            {
+                "word": "risk",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The children haunted by 'ghosts' of war",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59464760",
+        "content": "BBC Middle East Editor Jeremy Bowen meets terrified families running from civil war in Yemen.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2183182,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "The children haunted by 'ghosts' of war",
+        "en_content": "BBC Middle East Editor Jeremy Bowen meets terrified families running from civil war in Yemen.",
+        "concepts": [
+            {
+                "word": "children",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ghosts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "war",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Maxwell 'preyed on' young girls for Epstein",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59455605",
+        "content": "Prosecutors say Ghislaine Maxwell was \"essential\" to Jeffrey Epstein's abuse, as her trial opens.",
+        "placed": "Abroad",
+        "epoch": 1638255604.218327,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "Maxwell 'preyed on' young girls for Epstein",
+        "en_content": "Prosecutors say Ghislaine Maxwell was \"essential\" to Jeffrey Epstein's abuse, as her trial opens.",
+        "concepts": [
+            {
+                "word": "Maxwell",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "girls",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Epstein",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia bank pays out over charging dead people",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/59470666",
+        "content": "Australia's second largest bank Westpac has agreed to pay $81m in penalties and compensate customers.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2183433,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "Australia bank pays out over charging dead people",
+        "en_content": "Australia's second largest bank Westpac has agreed to pay $81m in penalties and compensate customers.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bank",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "people",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US actor hatched 'secret plan for hoax hate crime'",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59439796",
+        "content": "The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies.",
+        "placed": "Abroad",
+        "epoch": 1638255604.218359,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "US actor hatched 'secret plan for hoax hate crime'",
+        "en_content": "The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crime",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden says Omicron lockdowns not needed 'for now'",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59469486",
+        "content": "The president says a new US lockdown can be avoided \"if people are vaccinated and wear their masks\".",
+        "placed": "Abroad",
+        "epoch": 1638255604.2183738,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "Biden says Omicron lockdowns not needed 'for now'",
+        "en_content": "The president says a new US lockdown can be avoided \"if people are vaccinated and wear their masks\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Barbados becomes the world's newest republic",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59470843",
+        "content": "The Caribbean nation parts ways with the Queen in a ceremony attended by Prince Charles and Rihanna.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2183886,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "Barbados becomes the world's newest republic",
+        "en_content": "The Caribbean nation parts ways with the Queen in a ceremony attended by Prince Charles and Rihanna.",
+        "concepts": [
+            {
+                "word": "Barbados",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "republic",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "WHO warns of very high global risk from Omicron",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59468155",
+        "content": "Omicron could lead to severe consequences in some regions, the World Health Organization has warned.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2184029,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "WHO warns of very high global risk from Omicron",
+        "en_content": "Omicron could lead to severe consequences in some regions, the World Health Organization has warned.",
+        "concepts": [
+            {
+                "word": "risk",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The children haunted by 'ghosts' of war",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59464760",
+        "content": "BBC Middle East Editor Jeremy Bowen meets terrified families running from civil war in Yemen.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2184107,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "The children haunted by 'ghosts' of war",
+        "en_content": "BBC Middle East Editor Jeremy Bowen meets terrified families running from civil war in Yemen.",
+        "concepts": [
+            {
+                "word": "children",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ghosts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "war",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Maxwell 'preyed on' young girls for Epstein",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59455605",
+        "content": "Prosecutors say Ghislaine Maxwell was \"essential\" to Jeffrey Epstein's abuse, as her trial opens.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2184381,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "Maxwell 'preyed on' young girls for Epstein",
+        "en_content": "Prosecutors say Ghislaine Maxwell was \"essential\" to Jeffrey Epstein's abuse, as her trial opens.",
+        "concepts": [
+            {
+                "word": "Maxwell",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "girls",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Epstein",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia bank pays out over charging dead people",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/59470666",
+        "content": "Australia's second largest bank Westpac has agreed to pay $81m in penalties and compensate customers.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2184532,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "Australia bank pays out over charging dead people",
+        "en_content": "Australia's second largest bank Westpac has agreed to pay $81m in penalties and compensate customers.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bank",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "people",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US actor hatched 'secret plan for hoax hate crime'",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59439796",
+        "content": "The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2184606,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "US actor hatched 'secret plan for hoax hate crime'",
+        "en_content": "The actor is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crime",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Barbados becomes the world's newest republic",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59470843",
+        "content": "The Caribbean nation parts ways with the Queen in a ceremony attended by Prince Charles and Rihanna.",
+        "placed": "Abroad",
+        "epoch": 1638255604.218475,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "Barbados becomes the world's newest republic",
+        "en_content": "The Caribbean nation parts ways with the Queen in a ceremony attended by Prince Charles and Rihanna.",
+        "concepts": [
+            {
+                "word": "Barbados",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "republic",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "WHO warns of very high global risk from Omicron",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59468155",
+        "content": "Omicron could lead to severe consequences in some regions, the World Health Organization has warned.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2184894,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "WHO warns of very high global risk from Omicron",
+        "en_content": "Omicron could lead to severe consequences in some regions, the World Health Organization has warned.",
+        "concepts": [
+            {
+                "word": "risk",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The children haunted by 'ghosts' of war",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59464760",
+        "content": "BBC Middle East Editor Jeremy Bowen meets terrified families running from civil war in Yemen.",
+        "placed": "Abroad",
+        "epoch": 1638255604.2185037,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T08.00.04E1638255604.2185178.json",
+        "en_title": "The children haunted by 'ghosts' of war",
+        "en_content": "BBC Middle East Editor Jeremy Bowen meets terrified families running from civil war in Yemen.",
+        "concepts": [
+            {
+                "word": "children",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ghosts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "war",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

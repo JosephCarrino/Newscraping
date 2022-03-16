@@ -1,0 +1,723 @@
+[
+    {
+        "title": "Deadly storm cuts transport links around Vancouver",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59314791",
+        "content": "A woman has died in what one official described as the \"worst weather storm in a century\".",
+        "placed": "Abroad",
+        "epoch": 1637154004.544849,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Deadly storm cuts transport links around Vancouver",
+        "en_content": "A woman has died in what one official described as the \"worst weather storm in a century\".",
+        "concepts": [
+            {
+                "word": "storm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "transport",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "links",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Vancouver",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Deadly storm cuts transport links around Vancouver",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59314791",
+        "content": "A woman has died in what one official described as the \"worst weather storm in a century\".",
+        "placed": "Abroad",
+        "epoch": 1637154004.544885,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Deadly storm cuts transport links around Vancouver",
+        "en_content": "A woman has died in what one official described as the \"worst weather storm in a century\".",
+        "concepts": [
+            {
+                "word": "storm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "transport",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "links",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Vancouver",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Delhi shuts schools and colleges as air turns toxic",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59258910",
+        "content": "The decision was announced after several parts of the city recorded severe air quality.",
+        "placed": "Abroad",
+        "epoch": 1637154004.5449064,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Delhi shuts schools and colleges as air turns toxic",
+        "en_content": "The decision was announced after several parts of the city recorded severe air quality.",
+        "concepts": [
+            {
+                "word": "Delhi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "schools",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "colleges",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "air",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Naomi Osaka voices worry over China tennis star",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59315374",
+        "content": "Peng Shuai has not been heard from since she made sexual assault allegations against a Chinese official.",
+        "placed": "Abroad",
+        "epoch": 1637154004.5449262,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Naomi Osaka voices worry over China tennis star",
+        "en_content": "Peng Shuai has not been heard from since she made sexual assault allegations against a Chinese official.",
+        "concepts": [
+            {
+                "word": "Naomi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Osaka",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "voices",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Bodies spotted 11 years after coal mine disaster",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59317919",
+        "content": "Human remains have been pictured in the Pike River Mine - 11 years after 29 men lost their lives.",
+        "placed": "Abroad",
+        "epoch": 1637154004.5449452,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Bodies spotted 11 years after coal mine disaster",
+        "en_content": "Human remains have been pictured in the Pike River Mine - 11 years after 29 men lost their lives.",
+        "concepts": [
+            {
+                "word": "Bodies",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disaster",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Retailer halts canoe sales amid migrant crossings",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59317299",
+        "content": "Decathlon's decision comes after a sharp rise in attempts to reach the UK from northern France.",
+        "placed": "Abroad",
+        "epoch": 1637154004.5449643,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Retailer halts canoe sales amid migrant crossings",
+        "en_content": "Decathlon's decision comes after a sharp rise in attempts to reach the UK from northern France.",
+        "concepts": [
+            {
+                "word": "Retailer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "canoe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sales",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Frida Kahlo art fetches record $34.9m at auction",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59315174",
+        "content": "It is the most expensive piece by a Latin American, beating a record set by her husband Diego Rivera.",
+        "placed": "Abroad",
+        "epoch": 1637154004.5449822,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Frida Kahlo art fetches record $34.9m at auction",
+        "en_content": "It is the most expensive piece by a Latin American, beating a record set by her husband Diego Rivera.",
+        "concepts": [
+            {
+                "word": "Frida",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kahlo",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "art",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "m",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "auction",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Heated protests outside court ahead of Rittenhouse verdict",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59314811",
+        "content": "Demonstrators argue angrily in Wisconsin as a jury deliberates in the Kyle Rittenhouse trial.",
+        "placed": "Abroad",
+        "epoch": 1637154004.5449972,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Heated protests outside court ahead of Rittenhouse verdict",
+        "en_content": "Demonstrators argue angrily in Wisconsin as a jury deliberates in the Kyle Rittenhouse trial.",
+        "concepts": [
+            {
+                "word": "protests",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Rittenhouse",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "verdict",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Deadly storm cuts transport links around Vancouver",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59314791",
+        "content": "A woman has died in what one official described as the \"worst weather storm in a century\".",
+        "placed": "Abroad",
+        "epoch": 1637154004.5450127,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Deadly storm cuts transport links around Vancouver",
+        "en_content": "A woman has died in what one official described as the \"worst weather storm in a century\".",
+        "concepts": [
+            {
+                "word": "storm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "transport",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "links",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Vancouver",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Delhi shuts schools and colleges as air turns toxic",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59258910",
+        "content": "The decision was announced after several parts of the city recorded severe air quality.",
+        "placed": "Abroad",
+        "epoch": 1637154004.5450284,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Delhi shuts schools and colleges as air turns toxic",
+        "en_content": "The decision was announced after several parts of the city recorded severe air quality.",
+        "concepts": [
+            {
+                "word": "Delhi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "schools",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "colleges",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "air",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Naomi Osaka voices worry over China tennis star",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59315374",
+        "content": "Peng Shuai has not been heard from since she made sexual assault allegations against a Chinese official.",
+        "placed": "Abroad",
+        "epoch": 1637154004.5450432,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Naomi Osaka voices worry over China tennis star",
+        "en_content": "Peng Shuai has not been heard from since she made sexual assault allegations against a Chinese official.",
+        "concepts": [
+            {
+                "word": "Naomi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Osaka",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "voices",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Bodies spotted 11 years after coal mine disaster",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59317919",
+        "content": "Human remains have been pictured in the Pike River Mine - 11 years after 29 men lost their lives.",
+        "placed": "Abroad",
+        "epoch": 1637154004.545058,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Bodies spotted 11 years after coal mine disaster",
+        "en_content": "Human remains have been pictured in the Pike River Mine - 11 years after 29 men lost their lives.",
+        "concepts": [
+            {
+                "word": "Bodies",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disaster",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Retailer halts canoe sales amid migrant crossings",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59317299",
+        "content": "Decathlon's decision comes after a sharp rise in attempts to reach the UK from northern France.",
+        "placed": "Abroad",
+        "epoch": 1637154004.5450733,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Retailer halts canoe sales amid migrant crossings",
+        "en_content": "Decathlon's decision comes after a sharp rise in attempts to reach the UK from northern France.",
+        "concepts": [
+            {
+                "word": "Retailer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "canoe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sales",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Frida Kahlo art fetches record $34.9m at auction",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59315174",
+        "content": "It is the most expensive piece by a Latin American, beating a record set by her husband Diego Rivera.",
+        "placed": "Abroad",
+        "epoch": 1637154004.545088,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Frida Kahlo art fetches record $34.9m at auction",
+        "en_content": "It is the most expensive piece by a Latin American, beating a record set by her husband Diego Rivera.",
+        "concepts": [
+            {
+                "word": "Frida",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kahlo",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "art",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "m",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "auction",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Heated protests outside court ahead of Rittenhouse verdict",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59314811",
+        "content": "Demonstrators argue angrily in Wisconsin as a jury deliberates in the Kyle Rittenhouse trial.",
+        "placed": "Abroad",
+        "epoch": 1637154004.545103,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Heated protests outside court ahead of Rittenhouse verdict",
+        "en_content": "Demonstrators argue angrily in Wisconsin as a jury deliberates in the Kyle Rittenhouse trial.",
+        "concepts": [
+            {
+                "word": "protests",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Rittenhouse",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "verdict",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Delhi shuts schools and colleges as air turns toxic",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59258910",
+        "content": "The decision was announced after several parts of the city recorded severe air quality.",
+        "placed": "Abroad",
+        "epoch": 1637154004.545111,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Delhi shuts schools and colleges as air turns toxic",
+        "en_content": "The decision was announced after several parts of the city recorded severe air quality.",
+        "concepts": [
+            {
+                "word": "Delhi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "schools",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "colleges",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "air",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Naomi Osaka voices worry over China tennis star",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59315374",
+        "content": "Peng Shuai has not been heard from since she made sexual assault allegations against a Chinese official.",
+        "placed": "Abroad",
+        "epoch": 1637154004.545132,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Naomi Osaka voices worry over China tennis star",
+        "en_content": "Peng Shuai has not been heard from since she made sexual assault allegations against a Chinese official.",
+        "concepts": [
+            {
+                "word": "Naomi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Osaka",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "voices",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Bodies spotted 11 years after coal mine disaster",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59317919",
+        "content": "Human remains have been pictured in the Pike River Mine - 11 years after 29 men lost their lives.",
+        "placed": "Abroad",
+        "epoch": 1637154004.5451515,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T14.00.04E1637154004.545166.json",
+        "en_title": "Bodies spotted 11 years after coal mine disaster",
+        "en_content": "Human remains have been pictured in the Pike River Mine - 11 years after 29 men lost their lives.",
+        "concepts": [
+            {
+                "word": "Bodies",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disaster",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

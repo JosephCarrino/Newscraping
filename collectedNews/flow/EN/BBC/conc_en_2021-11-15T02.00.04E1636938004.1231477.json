@@ -1,0 +1,678 @@
+[
+    {
+        "title": "PM: Climate deal sounds death knell for coal power",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59284505",
+        "content": "But Boris Johnson says the achievements of the Glasgow summit are \"tinged with disappointment\".",
+        "placed": "Politics",
+        "epoch": 1636938004.122817,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "PM: Climate deal sounds death knell for coal power",
+        "en_content": "But Boris Johnson says the achievements of the Glasgow summit are \"tinged with disappointment\".",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "knell",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "power",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM: Climate deal sounds death knell for coal power",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59284505",
+        "content": "But Boris Johnson says the achievements of the Glasgow summit are \"tinged with disappointment\".",
+        "placed": "Politics",
+        "epoch": 1636938004.1228898,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "PM: Climate deal sounds death knell for coal power",
+        "en_content": "But Boris Johnson says the achievements of the Glasgow summit are \"tinged with disappointment\".",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "knell",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "power",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson: I could have handled Paterson row better",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59283099",
+        "content": "PM admits responsibility for some of the fallout over former MP Owen Paterson's lobbying work.",
+        "placed": "Politics",
+        "epoch": 1636938004.1229012,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "Johnson: I could have handled Paterson row better",
+        "en_content": "PM admits responsibility for some of the fallout over former MP Owen Paterson's lobbying work.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "row",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Shapps denies lobbying against houses on airfields",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59283239",
+        "content": "Labour says a group set up by the transport secretary argued against government housing policy.",
+        "placed": "Politics",
+        "epoch": 1636938004.1229215,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "Shapps denies lobbying against houses on airfields",
+        "en_content": "Labour says a group set up by the transport secretary argued against government housing policy.",
+        "concepts": [
+            {
+                "word": "Shapps",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "houses",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "airfields",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour announces by-election candidate",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-shropshire-59281956",
+        "content": "Ben Wood, from Oswestry in Shropshire, is chosen by the party.",
+        "placed": "Politics",
+        "epoch": 1636938004.1229398,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "Labour announces by-election candidate",
+        "en_content": "Ben Wood, from Oswestry in Shropshire, is chosen by the party.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "candidate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Scottish Tory leader in second job 'sleaze' row",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59270798",
+        "content": "Douglas Ross failed to declare earnings as an MSP and as a football referee for the SFA.",
+        "placed": "Politics",
+        "epoch": 1636938004.1229575,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "Scottish Tory leader in second job 'sleaze' row",
+        "en_content": "Douglas Ross failed to declare earnings as an MSP and as a football referee for the SFA.",
+        "concepts": [
+            {
+                "word": "Scottish",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Tory",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "job",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sleaze",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs admit using Commons offices for paid meeting",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59275207",
+        "content": "Lib Dem Layla Moran and Tory Crispin Blunt took part in the same panel discussion via video link.",
+        "placed": "Politics",
+        "epoch": 1636938004.1229742,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "MPs admit using Commons offices for paid meeting",
+        "en_content": "Lib Dem Layla Moran and Tory Crispin Blunt took part in the same panel discussion via video link.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Commons",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "offices",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "meeting",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs letting homes and renting another on expenses",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59259342",
+        "content": "At least 15 are claiming up to £22,920 a year on rental costs, research by the BBC finds.",
+        "placed": "Politics",
+        "epoch": 1636938004.12299,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "MPs letting homes and renting another on expenses",
+        "en_content": "At least 15 are claiming up to £22,920 a year on rental costs, research by the BBC finds.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "homes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "expenses",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM: Climate deal sounds death knell for coal power",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59284505",
+        "content": "But Boris Johnson says the achievements of the Glasgow summit are \"tinged with disappointment\".",
+        "placed": "Politics",
+        "epoch": 1636938004.1230052,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "PM: Climate deal sounds death knell for coal power",
+        "en_content": "But Boris Johnson says the achievements of the Glasgow summit are \"tinged with disappointment\".",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "death",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "knell",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "power",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson: I could have handled Paterson row better",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59283099",
+        "content": "PM admits responsibility for some of the fallout over former MP Owen Paterson's lobbying work.",
+        "placed": "Politics",
+        "epoch": 1636938004.1230202,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "Johnson: I could have handled Paterson row better",
+        "en_content": "PM admits responsibility for some of the fallout over former MP Owen Paterson's lobbying work.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "row",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Shapps denies lobbying against houses on airfields",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59283239",
+        "content": "Labour says a group set up by the transport secretary argued against government housing policy.",
+        "placed": "Politics",
+        "epoch": 1636938004.1230285,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "Shapps denies lobbying against houses on airfields",
+        "en_content": "Labour says a group set up by the transport secretary argued against government housing policy.",
+        "concepts": [
+            {
+                "word": "Shapps",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "houses",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "airfields",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour announces by-election candidate",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-shropshire-59281956",
+        "content": "Ben Wood, from Oswestry in Shropshire, is chosen by the party.",
+        "placed": "Politics",
+        "epoch": 1636938004.1230433,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "Labour announces by-election candidate",
+        "en_content": "Ben Wood, from Oswestry in Shropshire, is chosen by the party.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "candidate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Scottish Tory leader in second job 'sleaze' row",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59270798",
+        "content": "Douglas Ross failed to declare earnings as an MSP and as a football referee for the SFA.",
+        "placed": "Politics",
+        "epoch": 1636938004.1230583,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "Scottish Tory leader in second job 'sleaze' row",
+        "en_content": "Douglas Ross failed to declare earnings as an MSP and as a football referee for the SFA.",
+        "concepts": [
+            {
+                "word": "Scottish",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Tory",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "job",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sleaze",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs admit using Commons offices for paid meeting",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59275207",
+        "content": "Lib Dem Layla Moran and Tory Crispin Blunt took part in the same panel discussion via video link.",
+        "placed": "Politics",
+        "epoch": 1636938004.123073,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "MPs admit using Commons offices for paid meeting",
+        "en_content": "Lib Dem Layla Moran and Tory Crispin Blunt took part in the same panel discussion via video link.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Commons",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "offices",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "meeting",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs letting homes and renting another on expenses",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59259342",
+        "content": "At least 15 are claiming up to £22,920 a year on rental costs, research by the BBC finds.",
+        "placed": "Politics",
+        "epoch": 1636938004.123088,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "MPs letting homes and renting another on expenses",
+        "en_content": "At least 15 are claiming up to £22,920 a year on rental costs, research by the BBC finds.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "homes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "expenses",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson: I could have handled Paterson row better",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59283099",
+        "content": "PM admits responsibility for some of the fallout over former MP Owen Paterson's lobbying work.",
+        "placed": "Politics",
+        "epoch": 1636938004.1231024,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "Johnson: I could have handled Paterson row better",
+        "en_content": "PM admits responsibility for some of the fallout over former MP Owen Paterson's lobbying work.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "row",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Shapps denies lobbying against houses on airfields",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59283239",
+        "content": "Labour says a group set up by the transport secretary argued against government housing policy.",
+        "placed": "Politics",
+        "epoch": 1636938004.1231167,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "Shapps denies lobbying against houses on airfields",
+        "en_content": "Labour says a group set up by the transport secretary argued against government housing policy.",
+        "concepts": [
+            {
+                "word": "Shapps",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "houses",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "airfields",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour announces by-election candidate",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-shropshire-59281956",
+        "content": "Ben Wood, from Oswestry in Shropshire, is chosen by the party.",
+        "placed": "Politics",
+        "epoch": 1636938004.123131,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T02.00.04E1636938004.1231477.json",
+        "en_title": "Labour announces by-election candidate",
+        "en_content": "Ben Wood, from Oswestry in Shropshire, is chosen by the party.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "candidate",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

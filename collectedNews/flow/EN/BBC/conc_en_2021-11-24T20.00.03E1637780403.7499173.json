@@ -1,0 +1,552 @@
+[
+    {
+        "title": "Shooting of black jogger - defendants found guilty",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/world-us-canada-59379518",
+        "content": "Three men are in the dock for murder after pursuing and shooting him - what some called a modern-day lynching.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7496579,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Shooting of black jogger - defendants found guilty",
+        "en_content": "Three men are in the dock for murder after pursuing and shooting him - what some called a modern-day lynching.",
+        "concepts": [
+            {
+                "word": "Shooting",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "jogger",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "defendants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Shooting of black jogger - defendants found guilty",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/world-us-canada-59379518",
+        "content": "Three men are in the dock for murder after pursuing and shooting him - what some called a modern-day lynching.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7496963,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Shooting of black jogger - defendants found guilty",
+        "en_content": "Three men are in the dock for murder after pursuing and shooting him - what some called a modern-day lynching.",
+        "concepts": [
+            {
+                "word": "Shooting",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "jogger",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "defendants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Migrants die in biggest loss of life in Channel",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59406355",
+        "content": "Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7497168,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Migrants die in biggest loss of life in Channel",
+        "en_content": "Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais.",
+        "concepts": [
+            {
+                "word": "Migrants",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "loss",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "life",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Channel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Channel rescue operation after dozens of migrants drown",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/world-europe-59406632",
+        "content": "Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7497344,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Channel rescue operation after dozens of migrants drown",
+        "en_content": "Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy.",
+        "concepts": [
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rescue",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "operation",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dozens",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Germany's Scholz seals deal to end Merkel era",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59399702",
+        "content": "Magdalena Andersson, the country's first female prime minister, resigns hours after taking the role.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7497506,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Germany's Scholz seals deal to end Merkel era",
+        "en_content": "Magdalena Andersson, the country's first female prime minister, resigns hours after taking the role.",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Scholz",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seals",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "era",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Sweden's first female PM resigns on day one",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59400539",
+        "content": "Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7497668,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Sweden's first female PM resigns on day one",
+        "en_content": "Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war.",
+        "concepts": [
+            {
+                "word": "Sweden",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia's Olympic heroes ready to join war",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59393463",
+        "content": "A minister has written a letter to the former boxer, who has invested in a cannabis farm in the US.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7497823,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Ethiopia's Olympic heroes ready to join war",
+        "en_content": "A minister has written a letter to the former boxer, who has invested in a cannabis farm in the US.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Olympic",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "heroes",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "war",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Malawi asks Mike Tyson to be cannabis ambassador",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59406196",
+        "content": "Three men are in the dock for murder after pursuing and shooting him - what some called a modern-day lynching.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7497976,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Malawi asks Mike Tyson to be cannabis ambassador",
+        "en_content": "Three men are in the dock for murder after pursuing and shooting him - what some called a modern-day lynching.",
+        "concepts": [
+            {
+                "word": "Malawi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mike",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Tyson",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambassador",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Shooting of black jogger - defendants found guilty",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/world-us-canada-59379518",
+        "content": "Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7498124,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Shooting of black jogger - defendants found guilty",
+        "en_content": "Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais.",
+        "concepts": [
+            {
+                "word": "Shooting",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "jogger",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "defendants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Migrants die in biggest loss of life in Channel",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59406355",
+        "content": "Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7498274,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Migrants die in biggest loss of life in Channel",
+        "en_content": "Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy.",
+        "concepts": [
+            {
+                "word": "Migrants",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "loss",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "life",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Channel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Channel rescue operation after dozens of migrants drown",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/world-europe-59406632",
+        "content": "Magdalena Andersson, the country's first female prime minister, resigns hours after taking the role.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7498422,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Channel rescue operation after dozens of migrants drown",
+        "en_content": "Magdalena Andersson, the country's first female prime minister, resigns hours after taking the role.",
+        "concepts": [
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rescue",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "operation",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dozens",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Germany's Scholz seals deal to end Merkel era",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59399702",
+        "content": "Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7498572,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Germany's Scholz seals deal to end Merkel era",
+        "en_content": "Haile Gebrselassie and Feyisa Lilesa back the PM's call to go to the front line of the Tigray war.",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Scholz",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seals",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "era",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Sweden's first female PM resigns on day one",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59400539",
+        "content": "A minister has written a letter to the former boxer, who has invested in a cannabis farm in the US.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7498722,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Sweden's first female PM resigns on day one",
+        "en_content": "A minister has written a letter to the former boxer, who has invested in a cannabis farm in the US.",
+        "concepts": [
+            {
+                "word": "Sweden",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia's Olympic heroes ready to join war",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59393463",
+        "content": "Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7498875,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Ethiopia's Olympic heroes ready to join war",
+        "en_content": "Boris Johnson says it is vital to stop people trafficking gangs after at least 27 drown near Calais.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Olympic",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "heroes",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "war",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Malawi asks Mike Tyson to be cannabis ambassador",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59406196",
+        "content": "Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy.",
+        "placed": "Abroad",
+        "epoch": 1637780403.7499025,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T20.00.03E1637780403.7499173.json",
+        "en_title": "Malawi asks Mike Tyson to be cannabis ambassador",
+        "en_content": "Olaf Scholz will head a three-party coalition with broad plans for transition to a green economy.",
+        "concepts": [
+            {
+                "word": "Malawi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mike",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Tyson",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambassador",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

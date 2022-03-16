@@ -1,0 +1,725 @@
+[
+    {
+        "title": "Five dead after car drives into Wisconsin parade",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59369492",
+        "content": "A car ploughs into a Christmas parade in the city of Waukesha, hitting dozens including children.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2783272,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Five dead after car drives into Wisconsin parade",
+        "en_content": "A car ploughs into a Christmas parade in the city of Waukesha, hitting dozens including children.",
+        "concepts": [
+            {
+                "word": "car",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drives",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Wisconsin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parade",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Five dead after car drives into Wisconsin parade",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59369492",
+        "content": "A car ploughs into a Christmas parade in the city of Waukesha, hitting dozens including children.",
+        "placed": "First_Page",
+        "epoch": 1637564403.278366,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Five dead after car drives into Wisconsin parade",
+        "en_content": "A car ploughs into a Christmas parade in the city of Waukesha, hitting dozens including children.",
+        "concepts": [
+            {
+                "word": "car",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drives",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Wisconsin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parade",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Austria back in lockdown despite protests",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59369488",
+        "content": "Unrest has spread across the continent as countries bring in measures to curb infections.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2783868,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Austria back in lockdown despite protests",
+        "en_content": "Unrest has spread across the continent as countries bring in measures to curb infections.",
+        "concepts": [
+            {
+                "word": "Austria",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Water cannons fired at Covid protesters in Belgium",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59368718",
+        "content": "Belgium is the latest country to face unrest over new Covid-19 measures, with anger spreading across Europe.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2783995,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Water cannons fired at Covid protesters in Belgium",
+        "en_content": "Belgium is the latest country to face unrest over new Covid-19 measures, with anger spreading across Europe.",
+        "concepts": [
+            {
+                "word": "Water",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cannons",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Belgium",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UN ignored plea for Beirut blast probe evidence",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59290301",
+        "content": "Letters to the UN chief's office requesting key information have gone unanswered, the BBC has found.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2784176,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "UN ignored plea for Beirut blast probe evidence",
+        "en_content": "Letters to the UN chief's office requesting key information have gone unanswered, the BBC has found.",
+        "concepts": [
+            {
+                "word": "UN",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plea",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Beirut",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "blast",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "probe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "evidence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "China tennis star claims to be safe in video call",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59368774",
+        "content": "Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2784345,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "China tennis star claims to be safe in video call",
+        "en_content": "Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "video",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "call",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "TV host sorry for Adele interview blunder",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59370263",
+        "content": "Matt Doran admitted during an interview with Adele that he had not listened to her new album.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2784503,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "TV host sorry for Adele interview blunder",
+        "en_content": "Matt Doran admitted during an interview with Adele that he had not listened to her new album.",
+        "concepts": [
+            {
+                "word": "TV",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "host",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Adele",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "interview",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "blunder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Taliban bans women from TV dramas in Afghanistan",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59368488",
+        "content": "The Islamist group unveils new rules including ordering female TV presenters to wear headscarves.",
+        "placed": "First_Page",
+        "epoch": 1637564403.278466,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Taliban bans women from TV dramas in Afghanistan",
+        "en_content": "The Islamist group unveils new rules including ordering female TV presenters to wear headscarves.",
+        "concepts": [
+            {
+                "word": "Taliban",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "women",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "TV",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "dramas",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Afghanistan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sudan's military reinstates ousted civilian PM",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59364349",
+        "content": "Abdalla Hamdok's release from house arrest fails to stop protests against the army's political role.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2784815,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Sudan's military reinstates ousted civilian PM",
+        "en_content": "Abdalla Hamdok's release from house arrest fails to stop protests against the army's political role.",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "military",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reinstates",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Haiti kidnappers release two missionary hostages",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59369455",
+        "content": "Two people among a group of 17 US and Canadian missionaries abducted last month are said to be safe.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2784965,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Haiti kidnappers release two missionary hostages",
+        "en_content": "Two people among a group of 17 US and Canadian missionaries abducted last month are said to be safe.",
+        "concepts": [
+            {
+                "word": "Haiti",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "kidnappers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hostages",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Khashoggi fiancee urges Bieber to cancel Saudi show",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59369676",
+        "content": "The fiancee of murdered journalist Jamal Khashoggi urges the star not to perform in Saudi Arabia.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2785113,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Khashoggi fiancee urges Bieber to cancel Saudi show",
+        "en_content": "The fiancee of murdered journalist Jamal Khashoggi urges the star not to perform in Saudi Arabia.",
+        "concepts": [
+            {
+                "word": "Khashoggi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fiancee",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Bieber",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "show",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Kenyan police investigate BBC worker's death",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59368778",
+        "content": "Kate Mitchell, a British national who worked for BBC Media Action, is found dead in the capital Nairobi.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2785256,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Kenyan police investigate BBC worker's death",
+        "en_content": "Kate Mitchell, a British national who worked for BBC Media Action, is found dead in the capital Nairobi.",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "worker",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Khashoggi fiancee urges Bieber to cancel Saudi show",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59369676",
+        "content": "The fiancee of murdered journalist Jamal Khashoggi urges the star not to perform in Saudi Arabia.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2785404,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Khashoggi fiancee urges Bieber to cancel Saudi show",
+        "en_content": "The fiancee of murdered journalist Jamal Khashoggi urges the star not to perform in Saudi Arabia.",
+        "concepts": [
+            {
+                "word": "Khashoggi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fiancee",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Bieber",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "show",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Kenyan police investigate BBC worker's death",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59368778",
+        "content": "Kate Mitchell, a British national who worked for BBC Media Action, is found dead in the capital Nairobi.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2785547,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Kenyan police investigate BBC worker's death",
+        "en_content": "Kate Mitchell, a British national who worked for BBC Media Action, is found dead in the capital Nairobi.",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "worker",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Australia to relax border ban on some foreigners",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59370203",
+        "content": "Among those prioritised are international students, skilled migrants, South Koreans and Japanese.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2785695,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Australia to relax border ban on some foreigners",
+        "en_content": "Among those prioritised are international students, skilled migrants, South Koreans and Japanese.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ban",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "foreigners",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Amazon India execs charged in drug smuggling case",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59342011",
+        "content": "It comes after two men allegedly used the company's website as part of a drug smuggling operation.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2785888,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "Amazon India execs charged in drug smuggling case",
+        "en_content": "It comes after two men allegedly used the company's website as part of a drug smuggling operation.",
+        "concepts": [
+            {
+                "word": "Amazon",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "India",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "smuggling",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "WhatsApp changes privacy policy after fine",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/technology-59348921",
+        "content": "WhatsApp is rewriting policies to comply with regulator demands after being issued an enormous fine.",
+        "placed": "First_Page",
+        "epoch": 1637564403.2786038,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "WhatsApp changes privacy policy after fine",
+        "en_content": "WhatsApp is rewriting policies to comply with regulator demands after being issued an enormous fine.",
+        "concepts": [
+            {
+                "word": "WhatsApp",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "privacy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "policy",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'Telling stories gives me hope' - war photographer",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-wales-59332407",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1637564403.2786226,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "'Telling stories gives me hope' - war photographer",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "stories",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hope",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "war",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "photographer",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1637564403.278638,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T08.00.03E1637564403.278661.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

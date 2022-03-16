@@ -1,0 +1,580 @@
+[
+    {
+        "title": "Republican set for shock Virginia win",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59144293",
+        "content": "Glenn Youngkin's victory in the race for governor will be seen as a huge blow for President Joe Biden.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1934571,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Republican set for shock Virginia win",
+        "en_content": "Glenn Youngkin's victory in the race for governor will be seen as a huge blow for President Joe Biden.",
+        "concepts": [
+            {
+                "word": "shock",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Virginia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "win",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Republican set for shock Virginia win",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59144293",
+        "content": "Glenn Youngkin's victory in the race for governor will be seen as a huge blow for President Joe Biden.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1934962,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Republican set for shock Virginia win",
+        "en_content": "Glenn Youngkin's victory in the race for governor will be seen as a huge blow for President Joe Biden.",
+        "concepts": [
+            {
+                "word": "shock",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Virginia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "win",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden attacks China and Russia for missing COP26",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59138578",
+        "content": "The US president calls the Chinese leader's absence from the Glasgow summit a \"big mistake\".",
+        "placed": "Abroad",
+        "epoch": 1635922804.19352,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Biden attacks China and Russia for missing COP26",
+        "en_content": "The US president calls the Chinese leader's absence from the Glasgow summit a \"big mistake\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russia",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Missing girl found alive weeks after vanishing",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59143494",
+        "content": "Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1935394,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Missing girl found alive weeks after vanishing",
+        "en_content": "Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite.",
+        "concepts": [
+            {
+                "word": "girl",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "weeks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "More than 20 killed in Kabul hospital attack",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59133026",
+        "content": "The Islamic State affiliate IS-K says it carried out the Sardar Daud Khan hospital attack.",
+        "placed": "Abroad",
+        "epoch": 1635922804.193557,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "More than 20 killed in Kabul hospital attack",
+        "en_content": "The Islamic State affiliate IS-K says it carried out the Sardar Daud Khan hospital attack.",
+        "concepts": [
+            {
+                "word": "Kabul",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hospital",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ex-football chiefs Blatter and Platini charged",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59133079",
+        "content": "Sepp Blatter and Michel Platini, former world and European football heads, are charged with fraud.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1935747,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Ex-football chiefs Blatter and Platini charged",
+        "en_content": "Sepp Blatter and Michel Platini, former world and European football heads, are charged with fraud.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "football",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chiefs",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Blatter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Platini",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "US fully approves vaccine for children over five",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044853",
+        "content": "Children aged five to 11 can now receive the Pfizer jab, clearing the way for millions to get vaccinated.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1935918,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "US fully approves vaccine for children over five",
+        "en_content": "Children aged five to 11 can now receive the Pfizer jab, clearing the way for millions to get vaccinated.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "children",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Two dead after fall at Abba tribute concert",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59140788",
+        "content": "Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1936085,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Two dead after fall at Abba tribute concert",
+        "en_content": "Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others.",
+        "concepts": [
+            {
+                "word": "fall",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tribute",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "concert",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Republican set for shock Virginia win",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59144293",
+        "content": "Glenn Youngkin's victory in the race for governor will be seen as a huge blow for President Joe Biden.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1936247,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Republican set for shock Virginia win",
+        "en_content": "Glenn Youngkin's victory in the race for governor will be seen as a huge blow for President Joe Biden.",
+        "concepts": [
+            {
+                "word": "shock",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Virginia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "win",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden attacks China and Russia for missing COP26",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59138578",
+        "content": "The US president calls the Chinese leader's absence from the Glasgow summit a \"big mistake\".",
+        "placed": "Abroad",
+        "epoch": 1635922804.193642,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Biden attacks China and Russia for missing COP26",
+        "en_content": "The US president calls the Chinese leader's absence from the Glasgow summit a \"big mistake\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russia",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Missing girl found alive weeks after vanishing",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59143494",
+        "content": "Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1936786,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Missing girl found alive weeks after vanishing",
+        "en_content": "Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite.",
+        "concepts": [
+            {
+                "word": "girl",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "weeks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "More than 20 killed in Kabul hospital attack",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59133026",
+        "content": "The Islamic State affiliate IS-K says it carried out the Sardar Daud Khan hospital attack.",
+        "placed": "Abroad",
+        "epoch": 1635922804.193699,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "More than 20 killed in Kabul hospital attack",
+        "en_content": "The Islamic State affiliate IS-K says it carried out the Sardar Daud Khan hospital attack.",
+        "concepts": [
+            {
+                "word": "Kabul",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hospital",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ex-football chiefs Blatter and Platini charged",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59133079",
+        "content": "Sepp Blatter and Michel Platini, former world and European football heads, are charged with fraud.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1937156,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Ex-football chiefs Blatter and Platini charged",
+        "en_content": "Sepp Blatter and Michel Platini, former world and European football heads, are charged with fraud.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "football",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chiefs",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Blatter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Platini",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "US fully approves vaccine for children over five",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59044853",
+        "content": "Children aged five to 11 can now receive the Pfizer jab, clearing the way for millions to get vaccinated.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1937318,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "US fully approves vaccine for children over five",
+        "en_content": "Children aged five to 11 can now receive the Pfizer jab, clearing the way for millions to get vaccinated.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "children",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Two dead after fall at Abba tribute concert",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59140788",
+        "content": "Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others.",
+        "placed": "Abroad",
+        "epoch": 1635922804.193748,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Two dead after fall at Abba tribute concert",
+        "en_content": "Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others.",
+        "concepts": [
+            {
+                "word": "fall",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tribute",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "concert",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden attacks China and Russia for missing COP26",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59138578",
+        "content": "The US president calls the Chinese leader's absence from the Glasgow summit a \"big mistake\".",
+        "placed": "Abroad",
+        "epoch": 1635922804.1937637,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Biden attacks China and Russia for missing COP26",
+        "en_content": "The US president calls the Chinese leader's absence from the Glasgow summit a \"big mistake\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russia",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Missing girl found alive weeks after vanishing",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59143494",
+        "content": "Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1937797,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "Missing girl found alive weeks after vanishing",
+        "en_content": "Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite.",
+        "concepts": [
+            {
+                "word": "girl",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "weeks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "More than 20 killed in Kabul hospital attack",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59133026",
+        "content": "The Islamic State affiliate IS-K says it carried out the Sardar Daud Khan hospital attack.",
+        "placed": "Abroad",
+        "epoch": 1635922804.1937957,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.04E1635922804.193811.json",
+        "en_title": "More than 20 killed in Kabul hospital attack",
+        "en_content": "The Islamic State affiliate IS-K says it carried out the Sardar Daud Khan hospital attack.",
+        "concepts": [
+            {
+                "word": "Kabul",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hospital",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

@@ -1,0 +1,616 @@
+[
+    {
+        "title": "Republican set for shock Virginia win",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59144293",
+        "content": "Glenn Youngkin's victory in the race for governor will be seen as a huge blow for President Joe Biden.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9489274,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Republican set for shock Virginia win",
+        "en_content": "Glenn Youngkin's victory in the race for governor will be seen as a huge blow for President Joe Biden.",
+        "concepts": [
+            {
+                "word": "shock",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Virginia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "win",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Republican set for shock Virginia win",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59144293",
+        "content": "Glenn Youngkin's victory in the race for governor will be seen as a huge blow for President Joe Biden.",
+        "placed": "First_Page",
+        "epoch": 1635922803.948964,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Republican set for shock Virginia win",
+        "en_content": "Glenn Youngkin's victory in the race for governor will be seen as a huge blow for President Joe Biden.",
+        "concepts": [
+            {
+                "word": "shock",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Virginia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "win",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden attacks China and Russia for missing COP26",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59138578",
+        "content": "The US president calls the Chinese leader's absence from the Glasgow summit a \"big mistake\".",
+        "placed": "First_Page",
+        "epoch": 1635922803.948988,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Biden attacks China and Russia for missing COP26",
+        "en_content": "The US president calls the Chinese leader's absence from the Glasgow summit a \"big mistake\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russia",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Missing girl found alive weeks after vanishing",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59143494",
+        "content": "Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite.",
+        "placed": "First_Page",
+        "epoch": 1635922803.949008,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Missing girl found alive weeks after vanishing",
+        "en_content": "Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite.",
+        "concepts": [
+            {
+                "word": "girl",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "weeks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ardern: More needs to be done on climate change",
+        "date_raw": "P",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59144313",
+        "content": "Jacinda Ardern defends New Zealand's climate policies, and its role as a Pacific nation.",
+        "placed": "First_Page",
+        "epoch": 1635922803.949021,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Ardern: More needs to be done on climate change",
+        "en_content": "Jacinda Ardern defends New Zealand's climate policies, and its role as a Pacific nation.",
+        "concepts": [
+            {
+                "word": "needs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Revealed: The Cryptoqueen's £13.5m London penthouse",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/stories-59062959",
+        "content": "The story of cryptocurrency scammer Dr Ruja Ignatova's London flat - and how her purchase was concealed.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9490404,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Revealed: The Cryptoqueen's £13.5m London penthouse",
+        "en_content": "The story of cryptocurrency scammer Dr Ruja Ignatova's London flat - and how her purchase was concealed.",
+        "concepts": [
+            {
+                "word": "Cryptoqueen",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "London",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "penthouse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK's 'most durable' patch of snow melts away",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-scotland-highlands-islands-58980007",
+        "content": "Dubbed the Sphinx, the snow on a remote Scottish mountain has in the past survived for decades at a time.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9490595,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "UK's 'most durable' patch of snow melts away",
+        "en_content": "Dubbed the Sphinx, the snow on a remote Scottish mountain has in the past survived for decades at a time.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "patch",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "snow",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "melts",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "China school locks down children after Covid case",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59144554",
+        "content": "Large crowd of parents waited outside the school till almost midnight for news of their kids.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9490767,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "China school locks down children after Covid case",
+        "en_content": "Large crowd of parents waited outside the school till almost midnight for news of their kids.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "children",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Citizens urged to defend Ethiopia's capital",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59134431",
+        "content": "Addis Ababa residents are told to register weapons and protect areas as rebels advance.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9490936,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Citizens urged to defend Ethiopia's capital",
+        "en_content": "Addis Ababa residents are told to register weapons and protect areas as rebels advance.",
+        "concepts": [
+            {
+                "word": "Citizens",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ethiopia",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "capital",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Minneapolis rejects move to replace police department",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59143893",
+        "content": "The vote comes six months after a white police officer was convicted of the murder of George Floyd.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9491107,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Minneapolis rejects move to replace police department",
+        "en_content": "The vote comes six months after a white police officer was convicted of the murder of George Floyd.",
+        "concepts": [
+            {
+                "word": "Minneapolis",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rejects",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "department",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Taliban bans foreign currencies in Afghanistan",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59129470",
+        "content": "The country's economy is on the brink of collapse after the exodus of international support.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9491277,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Taliban bans foreign currencies in Afghanistan",
+        "en_content": "The country's economy is on the brink of collapse after the exodus of international support.",
+        "concepts": [
+            {
+                "word": "Taliban",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "currencies",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Afghanistan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Two dead after fall at Abba tribute concert",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59140788",
+        "content": "Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9491441,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Two dead after fall at Abba tribute concert",
+        "en_content": "Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others.",
+        "concepts": [
+            {
+                "word": "fall",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tribute",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "concert",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Taliban bans foreign currencies in Afghanistan",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59129470",
+        "content": "The country's economy is on the brink of collapse after the exodus of international support.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9491603,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Taliban bans foreign currencies in Afghanistan",
+        "en_content": "The country's economy is on the brink of collapse after the exodus of international support.",
+        "concepts": [
+            {
+                "word": "Taliban",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "currencies",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Afghanistan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Two dead after fall at Abba tribute concert",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59140788",
+        "content": "Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9491863,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Two dead after fall at Abba tribute concert",
+        "en_content": "Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others.",
+        "concepts": [
+            {
+                "word": "fall",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tribute",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "concert",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Facebook to end use of facial recognition software",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59143323",
+        "content": "Facebook will now delete the \"facial recognition templates\" of more than one billion people.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9492047,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Facebook to end use of facial recognition software",
+        "en_content": "Facebook will now delete the \"facial recognition templates\" of more than one billion people.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "use",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "recognition",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "software",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ex-football chiefs Blatter and Platini charged",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59133079",
+        "content": "Sepp Blatter and Michel Platini, former world and European football heads, are charged with fraud.",
+        "placed": "First_Page",
+        "epoch": 1635922803.949221,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Ex-football chiefs Blatter and Platini charged",
+        "en_content": "Sepp Blatter and Michel Platini, former world and European football heads, are charged with fraud.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "football",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chiefs",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Blatter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Platini",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Shipping boss: Christmas 'safe' from shortages",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59142910",
+        "content": "The boss of shipping giant Maersk said \"Christmas will be safe\" from supply chain problems.",
+        "placed": "First_Page",
+        "epoch": 1635922803.9492364,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "Shipping boss: Christmas 'safe' from shortages",
+        "en_content": "The boss of shipping giant Maersk said \"Christmas will be safe\" from supply chain problems.",
+        "concepts": [
+            {
+                "word": "Shipping",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shortages",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "What does net zero mean?",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-58874518",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1635922803.9492528,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "What does net zero mean?",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "net",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "How many trees has the world been cutting down?",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/59136545",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1635922803.949269,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-03T08.00.03E1635922803.9492962.json",
+        "en_title": "How many trees has the world been cutting down?",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "trees",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

@@ -1,0 +1,715 @@
+[
+    {
+        "title": "England imposes new Africa Covid travel restrictions",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59424269",
+        "content": "Six southern African countries are put on the red list, amid \"deep concern\" over a new variant of the virus.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1627843,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "England imposes new Africa Covid travel restrictions",
+        "en_content": "Six southern African countries are put on the red list, amid \"deep concern\" over a new variant of the virus.",
+        "concepts": [
+            {
+                "word": "England",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "England imposes new Africa Covid travel restrictions",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59424269",
+        "content": "Six southern African countries are put on the red list, amid \"deep concern\" over a new variant of the virus.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1628146,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "England imposes new Africa Covid travel restrictions",
+        "en_content": "Six southern African countries are put on the red list, amid \"deep concern\" over a new variant of the virus.",
+        "concepts": [
+            {
+                "word": "England",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "New heavily mutated Covid variant raises concern",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59418127",
+        "content": "Scientists are closely watching a new variant circulating in South Africa - but there are few clear answers.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1628346,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "New heavily mutated Covid variant raises concern",
+        "en_content": "Scientists are closely watching a new variant circulating in South Africa - but there are few clear answers.",
+        "concepts": [
+            {
+                "word": "New",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "concern",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK PM calls on France to 'take back' migrants",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59423245",
+        "content": "A returns agreement would have an \"immediate\" impact on the number of crossings, Boris Johnson says.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1628616,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "UK PM calls on France to 'take back' migrants",
+        "en_content": "A returns agreement would have an \"immediate\" impact on the number of crossings, Boris Johnson says.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Whose lives were lost in Channel tragedy?",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59416022",
+        "content": "At least 27 people died trying to reach the UK by boat. Officials are trying to find their identities.",
+        "placed": "First_Page",
+        "epoch": 1637888403.162882,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Whose lives were lost in Channel tragedy?",
+        "en_content": "At least 27 people died trying to reach the UK by boat. Officials are trying to find their identities.",
+        "concepts": [
+            {
+                "word": "lives",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tragedy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Russian mine death toll jumps to 52 - local media",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59421319",
+        "content": "A search for survivors after an accident in a Siberian mine turns to tragedy, with rescuers among the dead.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1628976,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Russian mine death toll jumps to 52 - local media",
+        "en_content": "A search for survivors after an accident in a Siberian mine turns to tragedy, with rescuers among the dead.",
+        "concepts": [
+            {
+                "word": "mine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "toll",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Grand opening for Luxor's 'Avenue of the Sphinxes'",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59424084",
+        "content": "The ancient walkway, connecting two of the Egyptian city's greatest temples, took decades to excavate.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1629095,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Grand opening for Luxor's 'Avenue of the Sphinxes'",
+        "en_content": "The ancient walkway, connecting two of the Egyptian city's greatest temples, took decades to excavate.",
+        "concepts": [
+            {
+                "word": "opening",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Luxor",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Avenue",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sphinxes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Turkish police tear gas women's rights marchers",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59423301",
+        "content": "It comes months after Turkey withdrew from a treaty to combat violence against women.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1629248,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Turkish police tear gas women's rights marchers",
+        "en_content": "It comes months after Turkey withdrew from a treaty to combat violence against women.",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tear",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "women",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rights",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "marchers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Amazon workers plan Black Friday strikes",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/technology-59419572",
+        "content": "Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1629388,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Amazon workers plan Black Friday strikes",
+        "en_content": "Strikes or protests are planned in 20 countries, on one of the busiest days of the year for retail.",
+        "concepts": [
+            {
+                "word": "Amazon",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "workers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Black",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Friday",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "New Interpol chief accused of torture",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59417409",
+        "content": "Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1629531,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "New Interpol chief accused of torture",
+        "en_content": "Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces.",
+        "concepts": [
+            {
+                "word": "Interpol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "torture",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Man receives world's first 3D-printed eye",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59410743",
+        "content": "Steve Verze will be given the realistic eye at Moorfields Eye Hospital in London.",
+        "placed": "First_Page",
+        "epoch": 1637888403.162968,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Man receives world's first 3D-printed eye",
+        "en_content": "Steve Verze will be given the realistic eye at Moorfields Eye Hospital in London.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "3D",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "eye",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Is this city Europe's best kept cycling secret?",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59386433",
+        "content": "Portugal's bike factories have been very busy since April 2020 as cycling has surged in popularity.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1629817,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Is this city Europe's best kept cycling secret?",
+        "en_content": "Portugal's bike factories have been very busy since April 2020 as cycling has surged in popularity.",
+        "concepts": [
+            {
+                "word": "city",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Europe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Man receives world's first 3D-printed eye",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59410743",
+        "content": "Steve Verze will be given the realistic eye at Moorfields Eye Hospital in London.",
+        "placed": "First_Page",
+        "epoch": 1637888403.162996,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Man receives world's first 3D-printed eye",
+        "en_content": "Steve Verze will be given the realistic eye at Moorfields Eye Hospital in London.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "3D",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "eye",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Is this city Europe's best kept cycling secret?",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59386433",
+        "content": "Portugal's bike factories have been very busy since April 2020 as cycling has surged in popularity.",
+        "placed": "First_Page",
+        "epoch": 1637888403.16301,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Is this city Europe's best kept cycling secret?",
+        "en_content": "Portugal's bike factories have been very busy since April 2020 as cycling has surged in popularity.",
+        "concepts": [
+            {
+                "word": "city",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Europe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Female Dr Who robs boys of role models, claims MP",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-politics-59421259",
+        "content": "MP Nick Fletcher suggests boys are turning to crime because male characters tend to be criminals.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1630235,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Female Dr Who robs boys of role models, claims MP",
+        "en_content": "MP Nick Fletcher suggests boys are turning to crime because male characters tend to be criminals.",
+        "concepts": [
+            {
+                "word": "Female",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dr",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "boys",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "role",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "models",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Baby Yoda soars over New York for Thanksgiving",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59423297",
+        "content": "Thousands turn out to enjoy the annual parade with millions more watching on television.",
+        "placed": "First_Page",
+        "epoch": 1637888403.1630368,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Baby Yoda soars over New York for Thanksgiving",
+        "en_content": "Thousands turn out to enjoy the annual parade with millions more watching on television.",
+        "concepts": [
+            {
+                "word": "Baby",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Yoda",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "York",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Thanksgiving",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia cricket captain takes break from game",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/cricket/59345925",
+        "content": "Former Australia Test captain Tim Paine is to take an immediate break from all forms of cricket \"for the foreseeable future\".",
+        "placed": "First_Page",
+        "epoch": 1637888403.163054,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Australia cricket captain takes break from game",
+        "en_content": "Former Australia Test captain Tim Paine is to take an immediate break from all forms of cricket \"for the foreseeable future\".",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cricket",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "captain",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "break",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "game",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Spellbinding photo of Welsh lighthouse wins award",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/in-pictures-59403205",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1637888403.163068,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "Spellbinding photo of Welsh lighthouse wins award",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "photo",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Welsh",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "lighthouse",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "award",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-04-04",
+        "date_raw": "2021-04-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1637888403.1630828,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.03E1637888403.1631045.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

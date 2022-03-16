@@ -1,0 +1,700 @@
+[
+    {
+        "title": "More protests erupt in Europe over Covid curbs",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59363256",
+        "content": "Belgium says 35,000 took part in protests, with unrest in the Netherlands, Austria and Italy.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9718738,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "More protests erupt in Europe over Covid curbs",
+        "en_content": "Belgium says 35,000 took part in protests, with unrest in the Netherlands, Austria and Italy.",
+        "concepts": [
+            {
+                "word": "protests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "curbs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "More protests erupt in Europe over Covid curbs",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59363256",
+        "content": "Belgium says 35,000 took part in protests, with unrest in the Netherlands, Austria and Italy.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9719093,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "More protests erupt in Europe over Covid curbs",
+        "en_content": "Belgium says 35,000 took part in protests, with unrest in the Netherlands, Austria and Italy.",
+        "concepts": [
+            {
+                "word": "protests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "curbs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chinese tennis star tells officials she is safe",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59368774",
+        "content": "Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9719296,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Chinese tennis star tells officials she is safe",
+        "en_content": "Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese minister.",
+        "concepts": [
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "officials",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Sudan's military reinstates ousted civilian PM",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59364349",
+        "content": "Abdalla Hamdok's release from house arrest fails to stop protests against the army's political role.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9719462,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Sudan's military reinstates ousted civilian PM",
+        "en_content": "Abdalla Hamdok's release from house arrest fails to stop protests against the army's political role.",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "military",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reinstates",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rising tensions with Russia on Ukraine and Belarus",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59348985",
+        "content": "Ros Atkins on how troop build up near Ukraine and the Belarus migrant crisis are creating global concern.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9719574,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Rising tensions with Russia on Ukraine and Belarus",
+        "en_content": "Ros Atkins on how troop build up near Ukraine and the Belarus migrant crisis are creating global concern.",
+        "concepts": [
+            {
+                "word": "tensions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Russia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Man Utd sack manager Solskjaer",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/football/54826343",
+        "content": "Manchester United manager Ole Gunnar Solskjaer leaves the club after a 4-1 defeat on Saturday.",
+        "placed": "First_Page",
+        "epoch": 1637521202.971974,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Man Utd sack manager Solskjaer",
+        "en_content": "Manchester United manager Ole Gunnar Solskjaer leaves the club after a 4-1 defeat on Saturday.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Utd",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sack",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "manager",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Solskjaer",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Adele gets Spotify to take shuffle off album pages",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59365019",
+        "content": "\"Our art tells a story and our stories should be listened to as we intended,\" the singer says.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9719892,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Adele gets Spotify to take shuffle off album pages",
+        "en_content": "\"Our art tells a story and our stories should be listened to as we intended,\" the singer says.",
+        "concepts": [
+            {
+                "word": "Adele",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Spotify",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shuffle",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "album",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pages",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Gunman kills one and injures three in Jerusalem",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59365512",
+        "content": "A member of the Hamas militant group opens fire in the Old City, and is shot dead by Israeli police.",
+        "placed": "First_Page",
+        "epoch": 1637521202.972004,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Gunman kills one and injures three in Jerusalem",
+        "en_content": "A member of the Hamas militant group opens fire in the Old City, and is shot dead by Israeli police.",
+        "concepts": [
+            {
+                "word": "Jerusalem",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tech retailers warn of low Black Friday stock",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59363094",
+        "content": "Supply chain delays mean some firms may not be able to meet demand during the busy shopping period.",
+        "placed": "First_Page",
+        "epoch": 1637521202.972018,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Tech retailers warn of low Black Friday stock",
+        "en_content": "Supply chain delays mean some firms may not be able to meet demand during the busy shopping period.",
+        "concepts": [
+            {
+                "word": "retailers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Black",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Friday",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stock",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "El Salvador plans Bitcoin city at base of volcano",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59368483",
+        "content": "Funded by the cryptocurrency, it will use the volcano's energy to power mining, the president says.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9720323,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "El Salvador plans Bitcoin city at base of volcano",
+        "en_content": "Funded by the cryptocurrency, it will use the volcano's energy to power mining, the president says.",
+        "concepts": [
+            {
+                "word": "El",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Salvador",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Bitcoin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "city",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "base",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "volcano",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Miracle I'm alive, says Liverpool bomb taxi driver",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-merseyside-59366975",
+        "content": "David Perry was injured when a bomb exploded as he pulled up outside Liverpool Women's Hospital.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9720466,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Miracle I'm alive, says Liverpool bomb taxi driver",
+        "en_content": "David Perry was injured when a bomb exploded as he pulled up outside Liverpool Women's Hospital.",
+        "concepts": [
+            {
+                "word": "Miracle",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Liverpool",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bomb",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "taxi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "driver",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bear shot dead by 70-year-old hunter in France",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59362845",
+        "content": "A female bear roaming with her cubs is killed after attacking and injuring a man, officials say.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9720604,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Bear shot dead by 70-year-old hunter in France",
+        "en_content": "A female bear roaming with her cubs is killed after attacking and injuring a man, officials say.",
+        "concepts": [
+            {
+                "word": "Bear",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "hunter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Miracle I'm alive, says Liverpool bomb taxi driver",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-merseyside-59366975",
+        "content": "David Perry was injured when a bomb exploded as he pulled up outside Liverpool Women's Hospital.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9720747,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Miracle I'm alive, says Liverpool bomb taxi driver",
+        "en_content": "David Perry was injured when a bomb exploded as he pulled up outside Liverpool Women's Hospital.",
+        "concepts": [
+            {
+                "word": "Miracle",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Liverpool",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bomb",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "taxi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "driver",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bear shot dead by 70-year-old hunter in France",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59362845",
+        "content": "A female bear roaming with her cubs is killed after attacking and injuring a man, officials say.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9720886,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Bear shot dead by 70-year-old hunter in France",
+        "en_content": "A female bear roaming with her cubs is killed after attacking and injuring a man, officials say.",
+        "concepts": [
+            {
+                "word": "Bear",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "hunter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK orders review of medical device racial bias",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59363544",
+        "content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9721024,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "UK orders review of medical device racial bias",
+        "en_content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "orders",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "review",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "device",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "bias",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Chile voters go to polls amid deep divisions",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59331694",
+        "content": "It is being billed as the most polarising election in decades and comes after divisive mass protests.",
+        "placed": "First_Page",
+        "epoch": 1637521202.9721162,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Chile voters go to polls amid deep divisions",
+        "en_content": "It is being billed as the most polarising election in decades and comes after divisive mass protests.",
+        "concepts": [
+            {
+                "word": "Chile",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "voters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "polls",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "divisions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Prominent Somali journalist killed in bomb attack",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59352179",
+        "content": "Abdiaziz Mohamud Guled, a critic of the Islamist militant group al-Shabab, is killed in a suicide attack.",
+        "placed": "First_Page",
+        "epoch": 1637521202.972137,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Prominent Somali journalist killed in bomb attack",
+        "en_content": "Abdiaziz Mohamud Guled, a critic of the Islamist militant group al-Shabab, is killed in a suicide attack.",
+        "concepts": [
+            {
+                "word": "journalist",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bomb",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Barcelona tackles wild boar 'invasion'",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59352740",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1637521202.9721591,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "Barcelona tackles wild boar 'invasion'",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Barcelona",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boar",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "invasion",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1637521202.9721744,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.02E1637521202.9721951.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

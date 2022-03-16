@@ -1,0 +1,683 @@
+[
+    {
+        "title": "Germany bars unvaccinated from much of public life",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59502180",
+        "content": "Chancellor Angela Merkel describes the far-reaching measures as an act of \"national solidarity\".",
+        "placed": "Abroad",
+        "epoch": 1638471604.5491102,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Germany bars unvaccinated from much of public life",
+        "en_content": "Chancellor Angela Merkel describes the far-reaching measures as an act of \"national solidarity\".",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "life",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Germany bars unvaccinated from much of public life",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59502180",
+        "content": "Chancellor Angela Merkel describes the far-reaching measures as an act of \"national solidarity\".",
+        "placed": "Abroad",
+        "epoch": 1638471604.5491357,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Germany bars unvaccinated from much of public life",
+        "en_content": "Chancellor Angela Merkel describes the far-reaching measures as an act of \"national solidarity\".",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "life",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Shock over verdict in judo champion’s assault case",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59503827",
+        "content": "Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof.",
+        "placed": "Abroad",
+        "epoch": 1638471604.5491548,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Shock over verdict in judo champion’s assault case",
+        "en_content": "Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof.",
+        "concepts": [
+            {
+                "word": "Shock",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "verdict",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "judo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "champion",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "assault",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Omicron drives major surge in S Africa Covid cases",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59503517",
+        "content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "placed": "Abroad",
+        "epoch": 1638471604.5491722,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Omicron drives major surge in S Africa Covid cases",
+        "en_content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cases",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Russia warns of military confrontation nightmare",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59503762",
+        "content": "Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion.",
+        "placed": "Abroad",
+        "epoch": 1638471604.5491881,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Russia warns of military confrontation nightmare",
+        "en_content": "Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion.",
+        "concepts": [
+            {
+                "word": "Russia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "confrontation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nightmare",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US and Mexico to restart 'Remain in Mexico' policy",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59509854",
+        "content": "More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme.",
+        "placed": "Abroad",
+        "epoch": 1638471604.549203,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "US and Mexico to restart 'Remain in Mexico' policy",
+        "en_content": "More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "policy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ex-Afghan president: The Taliban are my brothers",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59505688",
+        "content": "In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan.",
+        "placed": "Abroad",
+        "epoch": 1638471604.5492163,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Ex-Afghan president: The Taliban are my brothers",
+        "en_content": "In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "president",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "brothers",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Elle to stop promoting animal fur in its magazines",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59511820",
+        "content": "It is the first major fashion publication to make the pledge, citing its support for animal rights.",
+        "placed": "Abroad",
+        "epoch": 1638471604.549231,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Elle to stop promoting animal fur in its magazines",
+        "en_content": "It is the first major fashion publication to make the pledge, citing its support for animal rights.",
+        "concepts": [
+            {
+                "word": "Elle",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "animal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fur",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "magazines",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Germany bars unvaccinated from much of public life",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59502180",
+        "content": "Chancellor Angela Merkel describes the far-reaching measures as an act of \"national solidarity\".",
+        "placed": "Abroad",
+        "epoch": 1638471604.5492463,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Germany bars unvaccinated from much of public life",
+        "en_content": "Chancellor Angela Merkel describes the far-reaching measures as an act of \"national solidarity\".",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "life",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Shock over verdict in judo champion’s assault case",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59503827",
+        "content": "Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof.",
+        "placed": "Abroad",
+        "epoch": 1638471604.5492616,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Shock over verdict in judo champion’s assault case",
+        "en_content": "Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof.",
+        "concepts": [
+            {
+                "word": "Shock",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "verdict",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "judo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "champion",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "assault",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Omicron drives major surge in S Africa Covid cases",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59503517",
+        "content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "placed": "Abroad",
+        "epoch": 1638471604.5492764,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Omicron drives major surge in S Africa Covid cases",
+        "en_content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cases",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Russia warns of military confrontation nightmare",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59503762",
+        "content": "Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion.",
+        "placed": "Abroad",
+        "epoch": 1638471604.5492914,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Russia warns of military confrontation nightmare",
+        "en_content": "Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion.",
+        "concepts": [
+            {
+                "word": "Russia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "confrontation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nightmare",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US and Mexico to restart 'Remain in Mexico' policy",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59509854",
+        "content": "More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme.",
+        "placed": "Abroad",
+        "epoch": 1638471604.549306,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "US and Mexico to restart 'Remain in Mexico' policy",
+        "en_content": "More than 60,000 asylum seekers have been sent back to Mexico under the controversial programme.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "policy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ex-Afghan president: The Taliban are my brothers",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59505688",
+        "content": "In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan.",
+        "placed": "Abroad",
+        "epoch": 1638471604.5493205,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Ex-Afghan president: The Taliban are my brothers",
+        "en_content": "In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "president",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "brothers",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Elle to stop promoting animal fur in its magazines",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59511820",
+        "content": "It is the first major fashion publication to make the pledge, citing its support for animal rights.",
+        "placed": "Abroad",
+        "epoch": 1638471604.549328,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Elle to stop promoting animal fur in its magazines",
+        "en_content": "It is the first major fashion publication to make the pledge, citing its support for animal rights.",
+        "concepts": [
+            {
+                "word": "Elle",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "animal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fur",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "magazines",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Shock over verdict in judo champion’s assault case",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59503827",
+        "content": "Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof.",
+        "placed": "Abroad",
+        "epoch": 1638471604.5493433,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Shock over verdict in judo champion’s assault case",
+        "en_content": "Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof.",
+        "concepts": [
+            {
+                "word": "Shock",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "verdict",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "judo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "champion",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "assault",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Omicron drives major surge in S Africa Covid cases",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59503517",
+        "content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "placed": "Abroad",
+        "epoch": 1638471604.5493581,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Omicron drives major surge in S Africa Covid cases",
+        "en_content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cases",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Russia warns of military confrontation nightmare",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59503762",
+        "content": "Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion.",
+        "placed": "Abroad",
+        "epoch": 1638471604.5493734,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.5493875.json",
+        "en_title": "Russia warns of military confrontation nightmare",
+        "en_content": "Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion.",
+        "concepts": [
+            {
+                "word": "Russia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "confrontation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nightmare",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

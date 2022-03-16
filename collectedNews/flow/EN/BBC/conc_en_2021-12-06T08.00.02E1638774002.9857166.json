@@ -1,0 +1,703 @@
+[
+    {
+        "title": "Aung San Suu Kyi sentenced to four years in jail",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59544484",
+        "content": "This is the first verdict delivered for the ex-leader, who faces a total of 11 charges.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9853606,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Aung San Suu Kyi sentenced to four years in jail",
+        "en_content": "This is the first verdict delivered for the ex-leader, who faces a total of 11 charges.",
+        "concepts": [
+            {
+                "word": "Aung",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "San",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Suu",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kyi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "jail",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Aung San Suu Kyi sentenced to four years in jail",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59544484",
+        "content": "This is the first verdict delivered for the ex-leader, who faces a total of 11 charges.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9854007,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Aung San Suu Kyi sentenced to four years in jail",
+        "en_content": "This is the first verdict delivered for the ex-leader, who faces a total of 11 charges.",
+        "concepts": [
+            {
+                "word": "Aung",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "San",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Suu",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kyi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "jail",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Colombian rebel leader 'El Paisa' killed in ambush",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59543742",
+        "content": "The feared ex-Farc commander had become notorious for his bloody guerrilla attacks and kidnappings.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9854217,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Colombian rebel leader 'El Paisa' killed in ambush",
+        "en_content": "The feared ex-Farc commander had become notorious for his bloody guerrilla attacks and kidnappings.",
+        "concepts": [
+            {
+                "word": "rebel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "El",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Paisa",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ambush",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden leads tributes to 'dear friend' Bob Dole",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59542811",
+        "content": "Tributes have been paid across the US political divide to the late Republican leader Bob Dole.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9854383,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Biden leads tributes to 'dear friend' Bob Dole",
+        "en_content": "Tributes have been paid across the US political divide to the late Republican leader Bob Dole.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tributes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "friend",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bob",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dole",
+                "meaning": "pobj",
+                "pos": "PART"
+            }
+        ]
+    },
+    {
+        "title": "WATCH: The Palestinian jailbreak that rocked Israel",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59542211",
+        "content": "More funding is needed to prepare for pandemics and prevent gains from being lost, Dame Sarah Gilbert says.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9854543,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "WATCH: The Palestinian jailbreak that rocked Israel",
+        "en_content": "More funding is needed to prepare for pandemics and prevent gains from being lost, Dame Sarah Gilbert says.",
+        "concepts": [
+            {
+                "word": "jailbreak",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Israel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Next pandemic could be more lethal - jab creator",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59543735",
+        "content": "The photo of Thomas Massie's family posing with firearms was posted days after a deadly school shooting.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9854703,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Next pandemic could be more lethal - jab creator",
+        "en_content": "The photo of Thomas Massie's family posing with firearms was posted days after a deadly school shooting.",
+        "concepts": [
+            {
+                "word": "pandemic",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "jab",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "creator",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US congressman condemned for Christmas guns photo",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/59501368",
+        "content": "More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9854853,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "US congressman condemned for Christmas guns photo",
+        "en_content": "More than 100 have been arrested over the lynching of a Sri Lankan man accused of insulting Islam.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "congressman",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guns",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "photo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pakistan mob killing of Sri Lankan sparks protests",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59543120",
+        "content": "Rescuers are searching for survivors after Mt Semeru erupted in eastern Java on Saturday.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9854965,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Pakistan mob killing of Sri Lankan sparks protests",
+        "en_content": "Rescuers are searching for survivors after Mt Semeru erupted in eastern Java on Saturday.",
+        "concepts": [
+            {
+                "word": "Pakistan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mob",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "killing",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sri",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lankan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "protests",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Indonesia volcano: Villages buried under hot ash",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59531670",
+        "content": "They're among 10 acts tipped for success in the annual BBC list, previously won by Adele and Celeste.",
+        "placed": "First_Page",
+        "epoch": 1638774002.985514,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Indonesia volcano: Villages buried under hot ash",
+        "en_content": "They're among 10 acts tipped for success in the annual BBC list, previously won by Adele and Celeste.",
+        "concepts": [
+            {
+                "word": "Indonesia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "volcano",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Villages",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Wet Leg and Central Cee make BBC Sound of 2022 list",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/formula1/59542213",
+        "content": "Lewis Hamilton beats Max Verstappen in a chaotic Saudi Arabian Grand Prix to set up a winner-takes-all championship finale.",
+        "placed": "First_Page",
+        "epoch": 1638774002.985547,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Wet Leg and Central Cee make BBC Sound of 2022 list",
+        "en_content": "Lewis Hamilton beats Max Verstappen in a chaotic Saudi Arabian Grand Prix to set up a winner-takes-all championship finale.",
+        "concepts": [
+            {
+                "word": "Wet",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leg",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Central",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cee",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sound",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "list",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Hamilton wins thrilling Saudi Arabian GP",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59543875",
+        "content": "Last month, JP Morgan's Jamie Dimon apologised for comments he made about the Chinese Communist Party.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9855728,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Hamilton wins thrilling Saudi Arabian GP",
+        "en_content": "Last month, JP Morgan's Jamie Dimon apologised for comments he made about the Chinese Communist Party.",
+        "concepts": [
+            {
+                "word": "Hamilton",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "GP",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US billionaire Ray Dalio walks back China comments",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/formula1/59542213",
+        "content": "Lewis Hamilton beats Max Verstappen in a chaotic Saudi Arabian Grand Prix to set up a winner-takes-all championship finale.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9855907,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "US billionaire Ray Dalio walks back China comments",
+        "en_content": "Lewis Hamilton beats Max Verstappen in a chaotic Saudi Arabian Grand Prix to set up a winner-takes-all championship finale.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "billionaire",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ray",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dalio",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "comments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Hamilton wins thrilling Saudi Arabian GP",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59543875",
+        "content": "Last month, JP Morgan's Jamie Dimon apologised for comments he made about the Chinese Communist Party.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9856055,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Hamilton wins thrilling Saudi Arabian GP",
+        "en_content": "Last month, JP Morgan's Jamie Dimon apologised for comments he made about the Chinese Communist Party.",
+        "concepts": [
+            {
+                "word": "Hamilton",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "GP",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US billionaire Ray Dalio walks back China comments",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59544599",
+        "content": "Indian security forces have killed 14 civilians in the north-eastern state of Nagaland in separate incidents.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9856312,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "US billionaire Ray Dalio walks back China comments",
+        "en_content": "Indian security forces have killed 14 civilians in the north-eastern state of Nagaland in separate incidents.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "billionaire",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ray",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dalio",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "comments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Why violence has gripped India's Nagaland state",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59542813",
+        "content": "The electoral commission names Adama Barrow the winner despite his opponents questioning the vote.",
+        "placed": "First_Page",
+        "epoch": 1638774002.985646,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Why violence has gripped India's Nagaland state",
+        "en_content": "The electoral commission names Adama Barrow the winner despite his opponents questioning the vote.",
+        "concepts": [
+            {
+                "word": "violence",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "India",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Nagaland",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "state",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Gambian incumbent declared election winner",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/africa/59089895",
+        "content": "The shortlist for BBC African Sports Personality of the Year 2021 award is revealed - and you can vote for your favourite.",
+        "placed": "First_Page",
+        "epoch": 1638774002.9856699,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "Gambian incumbent declared election winner",
+        "en_content": "The shortlist for BBC African Sports Personality of the Year 2021 award is revealed - and you can vote for your favourite.",
+        "concepts": [
+            {
+                "word": "incumbent",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "winner",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "African Sports Personality 2021 shortlist revealed",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59528113",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638774002.9856842,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "African Sports Personality 2021 shortlist revealed",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "African",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sports",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Personality",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shortlist",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "How Lebanon's economic problems could leave Sara blind",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638774002.9856982,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-06T08.00.02E1638774002.9857166.json",
+        "en_title": "How Lebanon's economic problems could leave Sara blind",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Lebanon",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "problems",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sara",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

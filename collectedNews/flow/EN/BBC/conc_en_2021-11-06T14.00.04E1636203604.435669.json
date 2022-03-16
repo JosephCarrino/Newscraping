@@ -1,0 +1,544 @@
+[
+    {
+        "title": "Ex-PM condemns government's 'shameful' actions",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59188972",
+        "content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "placed": "Politics",
+        "epoch": 1636203604.435414,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "Ex-PM condemns government's 'shameful' actions",
+        "en_content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "government",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ex-PM condemns government's 'shameful' actions",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59188972",
+        "content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "placed": "Politics",
+        "epoch": 1636203604.4354427,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "Ex-PM condemns government's 'shameful' actions",
+        "en_content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "government",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'I have real faith in the MP standards system'",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59177413",
+        "content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "placed": "Politics",
+        "epoch": 1636203604.4354622,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "'I have real faith in the MP standards system'",
+        "en_content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "concepts": [
+            {
+                "word": "faith",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "system",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Paterson U-turn right thing to do, says minister",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59175448",
+        "content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "placed": "Politics",
+        "epoch": 1636203604.4354784,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "Paterson U-turn right thing to do, says minister",
+        "en_content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "concepts": [
+            {
+                "word": "Paterson",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "U",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "thing",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Paterson row: How did PM score spectacular own goal?",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59184786",
+        "content": "After a week of rebellions, U-turns and resignations, the BBC's Iain Watson explains what went on behind closed doors.",
+        "placed": "Politics",
+        "epoch": 1636203604.4354944,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "Paterson row: How did PM score spectacular own goal?",
+        "en_content": "After a week of rebellions, U-turns and resignations, the BBC's Iain Watson explains what went on behind closed doors.",
+        "concepts": [
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "goal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs call for inquiry over Johnson's holiday",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59177409",
+        "content": "Labour and Lib Dems claim the PM has broken the MPs' code of conduct, but No 10 says he followed the rules.",
+        "placed": "Politics",
+        "epoch": 1636203604.4355106,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "MPs call for inquiry over Johnson's holiday",
+        "en_content": "Labour and Lib Dems claim the PM has broken the MPs' code of conduct, but No 10 says he followed the rules.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "inquiry",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "holiday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour rules out cross-party anti-sleaze candidate",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59167967",
+        "content": "Lib Dems also say they will stand in the by-election to replace Owen Paterson who quit amid a lobbying row.",
+        "placed": "Politics",
+        "epoch": 1636203604.4355254,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "Labour rules out cross-party anti-sleaze candidate",
+        "en_content": "Lib Dems also say they will stand in the by-election to replace Owen Paterson who quit amid a lobbying row.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "candidate",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Parliamentary correspondent",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59188972",
+        "content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "placed": "Politics",
+        "epoch": 1636203604.4355397,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "Parliamentary correspondent",
+        "en_content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "concepts": [
+            {
+                "word": "correspondent",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Ex-PM condemns government's 'shameful' actions",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59177413",
+        "content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "placed": "Politics",
+        "epoch": 1636203604.435554,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "Ex-PM condemns government's 'shameful' actions",
+        "en_content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "government",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'I have real faith in the MP standards system'",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59175448",
+        "content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "placed": "Politics",
+        "epoch": 1636203604.4355688,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "'I have real faith in the MP standards system'",
+        "en_content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "concepts": [
+            {
+                "word": "faith",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "system",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Paterson U-turn right thing to do, says minister",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59184786",
+        "content": "After a week of rebellions, U-turns and resignations, the BBC's Iain Watson explains what went on behind closed doors.",
+        "placed": "Politics",
+        "epoch": 1636203604.435583,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "Paterson U-turn right thing to do, says minister",
+        "en_content": "After a week of rebellions, U-turns and resignations, the BBC's Iain Watson explains what went on behind closed doors.",
+        "concepts": [
+            {
+                "word": "Paterson",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "U",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "thing",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Paterson row: How did PM score spectacular own goal?",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59177409",
+        "content": "Labour and Lib Dems claim the PM has broken the MPs' code of conduct, but No 10 says he followed the rules.",
+        "placed": "Politics",
+        "epoch": 1636203604.4355974,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "Paterson row: How did PM score spectacular own goal?",
+        "en_content": "Labour and Lib Dems claim the PM has broken the MPs' code of conduct, but No 10 says he followed the rules.",
+        "concepts": [
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "goal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs call for inquiry over Johnson's holiday",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59167967",
+        "content": "Lib Dems also say they will stand in the by-election to replace Owen Paterson who quit amid a lobbying row.",
+        "placed": "Politics",
+        "epoch": 1636203604.4356115,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "MPs call for inquiry over Johnson's holiday",
+        "en_content": "Lib Dems also say they will stand in the by-election to replace Owen Paterson who quit amid a lobbying row.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "inquiry",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "holiday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour rules out cross-party anti-sleaze candidate",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59177413",
+        "content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "placed": "Politics",
+        "epoch": 1636203604.4356256,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "Labour rules out cross-party anti-sleaze candidate",
+        "en_content": "A member of the public who helps oversee MPs' conduct talks of her disappointment after the week's row.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "candidate",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Parliamentary correspondent",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59175448",
+        "content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "placed": "Politics",
+        "epoch": 1636203604.4356394,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "Parliamentary correspondent",
+        "en_content": "Cabinet minister Nadhim Zahawi admits a government plan to overhaul MPs' standards was a \"mistake\".",
+        "concepts": [
+            {
+                "word": "correspondent",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "'I have real faith in the MP standards system'",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59184786",
+        "content": "After a week of rebellions, U-turns and resignations, the BBC's Iain Watson explains what went on behind closed doors.",
+        "placed": "Politics",
+        "epoch": 1636203604.4356534,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.04E1636203604.435669.json",
+        "en_title": "'I have real faith in the MP standards system'",
+        "en_content": "After a week of rebellions, U-turns and resignations, the BBC's Iain Watson explains what went on behind closed doors.",
+        "concepts": [
+            {
+                "word": "faith",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "system",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

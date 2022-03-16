@@ -1,0 +1,603 @@
+[
+    {
+        "title": "PM says anyone arriving in UK must take PCR test",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-59443504",
+        "content": "The move is part of a raft of measures aimed at tackling the new Covid variant in the run-up to Christmas.",
+        "placed": "Politics",
+        "epoch": 1638039603.8743746,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "PM says anyone arriving in UK must take PCR test",
+        "en_content": "The move is part of a raft of measures aimed at tackling the new Covid variant in the run-up to Christmas.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PCR",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM says anyone arriving in UK must take PCR test",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-59443504",
+        "content": "The move is part of a raft of measures aimed at tackling the new Covid variant in the run-up to Christmas.",
+        "placed": "Politics",
+        "epoch": 1638039603.8744018,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "PM says anyone arriving in UK must take PCR test",
+        "en_content": "The move is part of a raft of measures aimed at tackling the new Covid variant in the run-up to Christmas.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PCR",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Mandatory face masks return to tackle new variant",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59445124",
+        "content": "Boris Johnson says \"temporary and precautionary\" measures will be introduced to slow the spread of Omicron.",
+        "placed": "Politics",
+        "epoch": 1638039603.8744216,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Mandatory face masks return to tackle new variant",
+        "en_content": "Boris Johnson says \"temporary and precautionary\" measures will be introduced to slow the spread of Omicron.",
+        "concepts": [
+            {
+                "word": "face",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "masks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Two cases of new variant of Covid detected in UK",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59445388",
+        "content": "Two people in the UK have been found to be infected with the new Covid variant, Omicron, the health secretary says.",
+        "placed": "Politics",
+        "epoch": 1638039603.874438,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Two cases of new variant of Covid detected in UK",
+        "en_content": "Two people in the UK have been found to be infected with the new Covid variant, Omicron, the health secretary says.",
+        "concepts": [
+            {
+                "word": "cases",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "variant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Macron and Johnson clash over migrant boats",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-europe-59428311",
+        "content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "placed": "Politics",
+        "epoch": 1638039603.874454,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Macron and Johnson clash over migrant boats",
+        "en_content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "boats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Has Sturgeon delivered on her conference pledges?",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59334883",
+        "content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "placed": "Politics",
+        "epoch": 1638039603.8744693,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Has Sturgeon delivered on her conference pledges?",
+        "en_content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conference",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM under pressure to act on migrant sea crossings",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59438500",
+        "content": "Lives remain at risk, but as the crisis persists, the greater the political risks for the PM too.",
+        "placed": "Politics",
+        "epoch": 1638039603.8744845,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "PM under pressure to act on migrant sea crossings",
+        "en_content": "Lives remain at risk, but as the crisis persists, the greater the political risks for the PM too.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pressure",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sea",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Whitty: Public would need to back more Covid curbs",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59434196",
+        "content": "England's chief medical officer wonders if \"we could take people with us\" if new restrictions are imposed.",
+        "placed": "Politics",
+        "epoch": 1638039603.8744988,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Whitty: Public would need to back more Covid curbs",
+        "en_content": "England's chief medical officer wonders if \"we could take people with us\" if new restrictions are imposed.",
+        "concepts": [
+            {
+                "word": "Whitty",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Public",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "curbs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM says anyone arriving in UK must take PCR test",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-59443504",
+        "content": "The move is part of a raft of measures aimed at tackling the new Covid variant in the run-up to Christmas.",
+        "placed": "Politics",
+        "epoch": 1638039603.8745131,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "PM says anyone arriving in UK must take PCR test",
+        "en_content": "The move is part of a raft of measures aimed at tackling the new Covid variant in the run-up to Christmas.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PCR",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Mandatory face masks return to tackle new variant",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59445124",
+        "content": "Boris Johnson says \"temporary and precautionary\" measures will be introduced to slow the spread of Omicron.",
+        "placed": "Politics",
+        "epoch": 1638039603.8745275,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Mandatory face masks return to tackle new variant",
+        "en_content": "Boris Johnson says \"temporary and precautionary\" measures will be introduced to slow the spread of Omicron.",
+        "concepts": [
+            {
+                "word": "face",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "masks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Two cases of new variant of Covid detected in UK",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59445388",
+        "content": "Two people in the UK have been found to be infected with the new Covid variant, Omicron, the health secretary says.",
+        "placed": "Politics",
+        "epoch": 1638039603.8745418,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Two cases of new variant of Covid detected in UK",
+        "en_content": "Two people in the UK have been found to be infected with the new Covid variant, Omicron, the health secretary says.",
+        "concepts": [
+            {
+                "word": "cases",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "variant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Macron and Johnson clash over migrant boats",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-europe-59428311",
+        "content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "placed": "Politics",
+        "epoch": 1638039603.874556,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Macron and Johnson clash over migrant boats",
+        "en_content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "boats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Has Sturgeon delivered on her conference pledges?",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59334883",
+        "content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "placed": "Politics",
+        "epoch": 1638039603.8745706,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Has Sturgeon delivered on her conference pledges?",
+        "en_content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conference",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM under pressure to act on migrant sea crossings",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59438500",
+        "content": "Lives remain at risk, but as the crisis persists, the greater the political risks for the PM too.",
+        "placed": "Politics",
+        "epoch": 1638039603.8745847,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "PM under pressure to act on migrant sea crossings",
+        "en_content": "Lives remain at risk, but as the crisis persists, the greater the political risks for the PM too.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pressure",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sea",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Whitty: Public would need to back more Covid curbs",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59434196",
+        "content": "England's chief medical officer wonders if \"we could take people with us\" if new restrictions are imposed.",
+        "placed": "Politics",
+        "epoch": 1638039603.8745985,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Whitty: Public would need to back more Covid curbs",
+        "en_content": "England's chief medical officer wonders if \"we could take people with us\" if new restrictions are imposed.",
+        "concepts": [
+            {
+                "word": "Whitty",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Public",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "curbs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Mandatory face masks return to tackle new variant",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59445124",
+        "content": "Boris Johnson says \"temporary and precautionary\" measures will be introduced to slow the spread of Omicron.",
+        "placed": "Politics",
+        "epoch": 1638039603.874613,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Mandatory face masks return to tackle new variant",
+        "en_content": "Boris Johnson says \"temporary and precautionary\" measures will be introduced to slow the spread of Omicron.",
+        "concepts": [
+            {
+                "word": "face",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "masks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Two cases of new variant of Covid detected in UK",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59445388",
+        "content": "Two people in the UK have been found to be infected with the new Covid variant, Omicron, the health secretary says.",
+        "placed": "Politics",
+        "epoch": 1638039603.8746269,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Two cases of new variant of Covid detected in UK",
+        "en_content": "Two people in the UK have been found to be infected with the new Covid variant, Omicron, the health secretary says.",
+        "concepts": [
+            {
+                "word": "cases",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "variant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Macron and Johnson clash over migrant boats",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-europe-59428311",
+        "content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "placed": "Politics",
+        "epoch": 1638039603.874641,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.8746536.json",
+        "en_title": "Macron and Johnson clash over migrant boats",
+        "en_content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "boats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

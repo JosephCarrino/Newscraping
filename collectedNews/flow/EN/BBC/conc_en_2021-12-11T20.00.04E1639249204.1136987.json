@@ -1,0 +1,683 @@
+[
+    {
+        "title": "More than 70 killed in Kentucky tornadoes",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59620091",
+        "content": "The governor says the number of victims could rise above 100, in the deadliest event in state history.",
+        "placed": "Abroad",
+        "epoch": 1639249204.1133692,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "More than 70 killed in Kentucky tornadoes",
+        "en_content": "The governor says the number of victims could rise above 100, in the deadliest event in state history.",
+        "concepts": [
+            {
+                "word": "Kentucky",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tornadoes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "More than 70 killed in Kentucky tornadoes",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59620091",
+        "content": "The governor says the number of victims could rise above 100, in the deadliest event in state history.",
+        "placed": "Abroad",
+        "epoch": 1639249204.1134017,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "More than 70 killed in Kentucky tornadoes",
+        "en_content": "The governor says the number of victims could rise above 100, in the deadliest event in state history.",
+        "concepts": [
+            {
+                "word": "Kentucky",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tornadoes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Drone footage shows collapsed Amazon warehouse",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59621245",
+        "content": "Tornadoes have ripped through several states killing more than 70 people, authorities say.",
+        "placed": "Abroad",
+        "epoch": 1639249204.113418,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Drone footage shows collapsed Amazon warehouse",
+        "en_content": "Tornadoes have ripped through several states killing more than 70 people, authorities say.",
+        "concepts": [
+            {
+                "word": "Drone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "footage",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shows",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Amazon",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "warehouse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK warns Russia of consequences if Ukraine invaded",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59616743",
+        "content": "The foreign secretary says G7 ministers will warn Moscow such action would be a \"strategic mistake\".",
+        "placed": "Abroad",
+        "epoch": 1639249204.11344,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "UK warns Russia of consequences if Ukraine invaded",
+        "en_content": "The foreign secretary says G7 ministers will warn Moscow such action would be a \"strategic mistake\".",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russia",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "consequences",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ghislaine Maxwell prosecutors rest their case",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59616024",
+        "content": "Prosecutors say Ms Maxwell ran \"a pyramid scheme of abuse\" with convicted sex offender Jeffrey Epstein.",
+        "placed": "Abroad",
+        "epoch": 1639249204.1134584,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Ghislaine Maxwell prosecutors rest their case",
+        "en_content": "Prosecutors say Ms Maxwell ran \"a pyramid scheme of abuse\" with convicted sex offender Jeffrey Epstein.",
+        "concepts": [
+            {
+                "word": "Ghislaine",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maxwell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prosecutors",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ex-Barcelona academy chief faces sex abuse claims",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59623258",
+        "content": "The allegations against Albert Benaiges date back to his time as a teacher in the 1980s and 90s.",
+        "placed": "Abroad",
+        "epoch": 1639249204.1134772,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Ex-Barcelona academy chief faces sex abuse claims",
+        "en_content": "The allegations against Albert Benaiges date back to his time as a teacher in the 1980s and 90s.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-",
+                "meaning": "punct",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Barcelona",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "academy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abuse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "claims",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Four convicted over fire in Brazil that killed 242",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59617508",
+        "content": "The fire in 2013 began when a band playing at a nightclub used flares which set light to the ceiling.",
+        "placed": "Abroad",
+        "epoch": 1639249204.1134949,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Four convicted over fire in Brazil that killed 242",
+        "en_content": "The fire in 2013 began when a band playing at a nightclub used flares which set light to the ceiling.",
+        "concepts": [
+            {
+                "word": "fire",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Brazil",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Crackdown on people smugglers after Mexico crash",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59612811",
+        "content": "More than 50 people. thought to be migrants from Central America, were killed in a truck crash.",
+        "placed": "Abroad",
+        "epoch": 1639249204.113512,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Crackdown on people smugglers after Mexico crash",
+        "en_content": "More than 50 people. thought to be migrants from Central America, were killed in a truck crash.",
+        "concepts": [
+            {
+                "word": "Crackdown",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "people",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "smugglers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "More than 70 killed in Kentucky tornadoes",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59620091",
+        "content": "The governor says the number of victims could rise above 100, in the deadliest event in state history.",
+        "placed": "Abroad",
+        "epoch": 1639249204.1135287,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "More than 70 killed in Kentucky tornadoes",
+        "en_content": "The governor says the number of victims could rise above 100, in the deadliest event in state history.",
+        "concepts": [
+            {
+                "word": "Kentucky",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tornadoes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Drone footage shows collapsed Amazon warehouse",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59621245",
+        "content": "Tornadoes have ripped through several states killing more than 70 people, authorities say.",
+        "placed": "Abroad",
+        "epoch": 1639249204.1135452,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Drone footage shows collapsed Amazon warehouse",
+        "en_content": "Tornadoes have ripped through several states killing more than 70 people, authorities say.",
+        "concepts": [
+            {
+                "word": "Drone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "footage",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shows",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Amazon",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "warehouse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK warns Russia of consequences if Ukraine invaded",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59616743",
+        "content": "The foreign secretary says G7 ministers will warn Moscow such action would be a \"strategic mistake\".",
+        "placed": "Abroad",
+        "epoch": 1639249204.1135588,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "UK warns Russia of consequences if Ukraine invaded",
+        "en_content": "The foreign secretary says G7 ministers will warn Moscow such action would be a \"strategic mistake\".",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russia",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "consequences",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ghislaine Maxwell prosecutors rest their case",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59616024",
+        "content": "Prosecutors say Ms Maxwell ran \"a pyramid scheme of abuse\" with convicted sex offender Jeffrey Epstein.",
+        "placed": "Abroad",
+        "epoch": 1639249204.1135921,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Ghislaine Maxwell prosecutors rest their case",
+        "en_content": "Prosecutors say Ms Maxwell ran \"a pyramid scheme of abuse\" with convicted sex offender Jeffrey Epstein.",
+        "concepts": [
+            {
+                "word": "Ghislaine",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maxwell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prosecutors",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ex-Barcelona academy chief faces sex abuse claims",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59623258",
+        "content": "The allegations against Albert Benaiges date back to his time as a teacher in the 1980s and 90s.",
+        "placed": "Abroad",
+        "epoch": 1639249204.1136115,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Ex-Barcelona academy chief faces sex abuse claims",
+        "en_content": "The allegations against Albert Benaiges date back to his time as a teacher in the 1980s and 90s.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-",
+                "meaning": "punct",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Barcelona",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "academy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abuse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "claims",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Four convicted over fire in Brazil that killed 242",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59617508",
+        "content": "The fire in 2013 began when a band playing at a nightclub used flares which set light to the ceiling.",
+        "placed": "Abroad",
+        "epoch": 1639249204.1136281,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Four convicted over fire in Brazil that killed 242",
+        "en_content": "The fire in 2013 began when a band playing at a nightclub used flares which set light to the ceiling.",
+        "concepts": [
+            {
+                "word": "fire",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Brazil",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Crackdown on people smugglers after Mexico crash",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59612811",
+        "content": "More than 50 people. thought to be migrants from Central America, were killed in a truck crash.",
+        "placed": "Abroad",
+        "epoch": 1639249204.1136441,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Crackdown on people smugglers after Mexico crash",
+        "en_content": "More than 50 people. thought to be migrants from Central America, were killed in a truck crash.",
+        "concepts": [
+            {
+                "word": "Crackdown",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "people",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "smugglers",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Drone footage shows collapsed Amazon warehouse",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59621245",
+        "content": "Tornadoes have ripped through several states killing more than 70 people, authorities say.",
+        "placed": "Abroad",
+        "epoch": 1639249204.11366,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Drone footage shows collapsed Amazon warehouse",
+        "en_content": "Tornadoes have ripped through several states killing more than 70 people, authorities say.",
+        "concepts": [
+            {
+                "word": "Drone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "footage",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shows",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Amazon",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "warehouse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK warns Russia of consequences if Ukraine invaded",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59616743",
+        "content": "The foreign secretary says G7 ministers will warn Moscow such action would be a \"strategic mistake\".",
+        "placed": "Abroad",
+        "epoch": 1639249204.1136768,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "UK warns Russia of consequences if Ukraine invaded",
+        "en_content": "The foreign secretary says G7 ministers will warn Moscow such action would be a \"strategic mistake\".",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russia",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "consequences",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ghislaine Maxwell prosecutors rest their case",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59616024",
+        "content": "Prosecutors say Ms Maxwell ran \"a pyramid scheme of abuse\" with convicted sex offender Jeffrey Epstein.",
+        "placed": "Abroad",
+        "epoch": 1639249204.113686,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T20.00.04E1639249204.1136987.json",
+        "en_title": "Ghislaine Maxwell prosecutors rest their case",
+        "en_content": "Prosecutors say Ms Maxwell ran \"a pyramid scheme of abuse\" with convicted sex offender Jeffrey Epstein.",
+        "concepts": [
+            {
+                "word": "Ghislaine",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maxwell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prosecutors",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

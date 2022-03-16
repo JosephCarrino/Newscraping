@@ -1,0 +1,648 @@
+[
+    {
+        "title": "Scores dead in Sierra Leone tanker explosion",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59188753",
+        "content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9170165,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Scores dead in Sierra Leone tanker explosion",
+        "en_content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "concepts": [
+            {
+                "word": "Scores",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sierra",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tanker",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "explosion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Scores dead in Sierra Leone tanker explosion",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59188753",
+        "content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9170442,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Scores dead in Sierra Leone tanker explosion",
+        "en_content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "concepts": [
+            {
+                "word": "Scores",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sierra",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tanker",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "explosion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Travis Scott 'devastated' by Texas festival deaths",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59193150",
+        "content": "The rapper says he is \"absolutely devastated\" by the deaths that occurred at his Astroworld festival.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9170647,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Travis Scott 'devastated' by Texas festival deaths",
+        "en_content": "The rapper says he is \"absolutely devastated\" by the deaths that occurred at his Astroworld festival.",
+        "concepts": [
+            {
+                "word": "Travis",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Scott",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Texas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "festival",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden: Infrastructure bill is monumental step",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59192048",
+        "content": "The long-delayed $1tn (£741bn) spending package is a major domestic win for the US president.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9170828,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Biden: Infrastructure bill is monumental step",
+        "en_content": "The long-delayed $1tn (£741bn) spending package is a major domestic win for the US president.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "bill",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "step",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Thousands march in Glasgow's biggest COP26 demo",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59185007",
+        "content": "Organisers say about 100,000 people joined a rally on Glasgow Green to demand more action on the climate crisis.",
+        "placed": "Abroad",
+        "epoch": 1636225203.917099,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Thousands march in Glasgow's biggest COP26 demo",
+        "en_content": "Organisers say about 100,000 people joined a rally on Glasgow Green to demand more action on the climate crisis.",
+        "concepts": [
+            {
+                "word": "Thousands",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "march",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Glasgow",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "demo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Three injured in knife attack on German train",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59181509",
+        "content": "A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9171152,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Three injured in knife attack on German train",
+        "en_content": "A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria.",
+        "concepts": [
+            {
+                "word": "knife",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "train",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fleeing passengers shut down busy Spanish airport",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59191108",
+        "content": "Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9171455,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Fleeing passengers shut down busy Spanish airport",
+        "en_content": "Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac.",
+        "concepts": [
+            {
+                "word": "passengers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "airport",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What Alaska’s shrinking island means for all of us",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186214",
+        "content": "Melting ice and rising sea levels threaten this community's existence. It's a warning to the world.",
+        "placed": "Abroad",
+        "epoch": 1636225203.91716,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "What Alaska’s shrinking island means for all of us",
+        "en_content": "Melting ice and rising sea levels threaten this community's existence. It's a warning to the world.",
+        "concepts": [
+            {
+                "word": "Alaska",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "island",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Scores dead in Sierra Leone tanker explosion",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59188753",
+        "content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9171753,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Scores dead in Sierra Leone tanker explosion",
+        "en_content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "concepts": [
+            {
+                "word": "Scores",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sierra",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tanker",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "explosion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Travis Scott 'devastated' by Texas festival deaths",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59193150",
+        "content": "The rapper says he is \"absolutely devastated\" by the deaths that occurred at his Astroworld festival.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9171903,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Travis Scott 'devastated' by Texas festival deaths",
+        "en_content": "The rapper says he is \"absolutely devastated\" by the deaths that occurred at his Astroworld festival.",
+        "concepts": [
+            {
+                "word": "Travis",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Scott",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Texas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "festival",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden: Infrastructure bill is monumental step",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59192048",
+        "content": "The long-delayed $1tn (£741bn) spending package is a major domestic win for the US president.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9172056,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Biden: Infrastructure bill is monumental step",
+        "en_content": "The long-delayed $1tn (£741bn) spending package is a major domestic win for the US president.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "bill",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "step",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Thousands march in Glasgow's biggest COP26 demo",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59185007",
+        "content": "Organisers say about 100,000 people joined a rally on Glasgow Green to demand more action on the climate crisis.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9172204,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Thousands march in Glasgow's biggest COP26 demo",
+        "en_content": "Organisers say about 100,000 people joined a rally on Glasgow Green to demand more action on the climate crisis.",
+        "concepts": [
+            {
+                "word": "Thousands",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "march",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Glasgow",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "demo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Three injured in knife attack on German train",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59181509",
+        "content": "A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9172351,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Three injured in knife attack on German train",
+        "en_content": "A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria.",
+        "concepts": [
+            {
+                "word": "knife",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "train",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fleeing passengers shut down busy Spanish airport",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59191108",
+        "content": "Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9172504,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Fleeing passengers shut down busy Spanish airport",
+        "en_content": "Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac.",
+        "concepts": [
+            {
+                "word": "passengers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "airport",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What Alaska’s shrinking island means for all of us",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186214",
+        "content": "Melting ice and rising sea levels threaten this community's existence. It's a warning to the world.",
+        "placed": "Abroad",
+        "epoch": 1636225203.917265,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "What Alaska’s shrinking island means for all of us",
+        "en_content": "Melting ice and rising sea levels threaten this community's existence. It's a warning to the world.",
+        "concepts": [
+            {
+                "word": "Alaska",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "island",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Travis Scott 'devastated' by Texas festival deaths",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59193150",
+        "content": "The rapper says he is \"absolutely devastated\" by the deaths that occurred at his Astroworld festival.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9172726,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Travis Scott 'devastated' by Texas festival deaths",
+        "en_content": "The rapper says he is \"absolutely devastated\" by the deaths that occurred at his Astroworld festival.",
+        "concepts": [
+            {
+                "word": "Travis",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Scott",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Texas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "festival",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden: Infrastructure bill is monumental step",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59192048",
+        "content": "The long-delayed $1tn (£741bn) spending package is a major domestic win for the US president.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9172873,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Biden: Infrastructure bill is monumental step",
+        "en_content": "The long-delayed $1tn (£741bn) spending package is a major domestic win for the US president.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "bill",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "step",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Thousands march in Glasgow's biggest COP26 demo",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59185007",
+        "content": "Organisers say about 100,000 people joined a rally on Glasgow Green to demand more action on the climate crisis.",
+        "placed": "Abroad",
+        "epoch": 1636225203.9173017,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T20.00.03E1636225203.9173143.json",
+        "en_title": "Thousands march in Glasgow's biggest COP26 demo",
+        "en_content": "Organisers say about 100,000 people joined a rally on Glasgow Green to demand more action on the climate crisis.",
+        "concepts": [
+            {
+                "word": "Thousands",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "march",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Glasgow",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "demo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

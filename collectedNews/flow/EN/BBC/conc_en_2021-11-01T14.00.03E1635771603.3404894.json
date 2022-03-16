@@ -1,0 +1,636 @@
+[
+    {
+        "title": "Leaders under pressure as Johnson opens climate summit",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/world-59103425",
+        "content": "The UK prime minister tells fellow leaders in Glasgow that if they don't act now, it will be \"too late\" for future generations.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3401349,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Leaders under pressure as Johnson opens climate summit",
+        "en_content": "The UK prime minister tells fellow leaders in Glasgow that if they don't act now, it will be \"too late\" for future generations.",
+        "concepts": [
+            {
+                "word": "Leaders",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pressure",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The challenges that COP26 needs to tackle",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59114255",
+        "content": "As world leaders gather for COP26 in Glasgow, Prime Minister Boris Johnson says urgent action is needed.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3401709,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "The challenges that COP26 needs to tackle",
+        "en_content": "As world leaders gather for COP26 in Glasgow, Prime Minister Boris Johnson says urgent action is needed.",
+        "concepts": [
+            {
+                "word": "challenges",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "A really simple guide to climate change",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-24021772",
+        "content": "Asked if Australia's leader was untruthful, France's president responds: \"I don't think, I know.\"",
+        "placed": "First_Page",
+        "epoch": 1635771603.3401937,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "A really simple guide to climate change",
+        "en_content": "Asked if Australia's leader was untruthful, France's president responds: \"I don't think, I know.\"",
+        "concepts": [
+            {
+                "word": "guide",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What you can do to reduce emissions",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-58171814",
+        "content": "Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3402076,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "What you can do to reduce emissions",
+        "en_content": "Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein.",
+        "concepts": [
+            {
+                "word": "emissions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What action are the biggest carbon polluters taking?",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/58956714",
+        "content": "International travellers hug loved ones at Sydney Airport for the first time in 20 months.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3402271,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "What action are the biggest carbon polluters taking?",
+        "en_content": "International travellers hug loved ones at Sydney Airport for the first time in 20 months.",
+        "concepts": [
+            {
+                "word": "action",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "carbon",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "polluters",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Life where it's too hot to work, too hot to sleep",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59051407",
+        "content": "The Chinese theme park closes for at least two days after a visitor tests positive.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3402455,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Life where it's too hot to work, too hot to sleep",
+        "en_content": "The Chinese theme park closes for at least two days after a visitor tests positive.",
+        "concepts": [
+            {
+                "word": "Life",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Climate at one minute to midnight, says Johnson",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59114871",
+        "content": "The win, seen by some as a much-needed PR victory for bats, has ruffled feathers among bird-lovers.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3402624,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Climate at one minute to midnight, says Johnson",
+        "en_content": "The win, seen by some as a much-needed PR victory for bats, has ruffled feathers among bird-lovers.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minute",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "midnight",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Macron says Australian PM lied over submarine deal",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59113710",
+        "content": "Abiy Ahmed says advancing Tigray People's Liberation Front are \"pushing the country to its demise.\"",
+        "placed": "First_Page",
+        "epoch": 1635771603.3402789,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Macron says Australian PM lied over submarine deal",
+        "en_content": "Abiy Ahmed says advancing Tigray People's Liberation Front are \"pushing the country to its demise.\"",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "submarine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Barclays boss in shock exit over Epstein inquiry",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59117084",
+        "content": "The foreign secretary accuses France of \"unfair behaviour\" as it warns it could block British boats.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3402946,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Barclays boss in shock exit over Epstein inquiry",
+        "en_content": "The foreign secretary accuses France of \"unfair behaviour\" as it warns it could block British boats.",
+        "concepts": [
+            {
+                "word": "Barclays",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Epstein",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "inquiry",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Joyful reunions as Australia's border opens",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59115079",
+        "content": "The Oxford English Dictionary said the word had made \"the most striking impact\".",
+        "placed": "First_Page",
+        "epoch": 1635771603.340311,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Joyful reunions as Australia's border opens",
+        "en_content": "The Oxford English Dictionary said the word had made \"the most striking impact\".",
+        "concepts": [
+            {
+                "word": "reunions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Australia",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "border",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Single Covid case shuts down Shanghai Disneyland",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59119621",
+        "content": "Authorities hope reopening will generate $30bn for the tourism sector despite ongoing restrictions.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3403265,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Single Covid case shuts down Shanghai Disneyland",
+        "en_content": "Authorities hope reopening will generate $30bn for the tourism sector despite ongoing restrictions.",
+        "concepts": [
+            {
+                "word": "Single",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Shanghai",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Disneyland",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "NZ bat flies away with bird of the year award",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59115346",
+        "content": "Berlin officials say Covid lockdown sceptic Attila Hildmann was passed data about a probe into him.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3403418,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "NZ bat flies away with bird of the year award",
+        "en_content": "Berlin officials say Covid lockdown sceptic Attila Hildmann was passed data about a probe into him.",
+        "concepts": [
+            {
+                "word": "NZ",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bat",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bird",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "year",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "award",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia PM calls on citizens to take up arms",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59118773",
+        "content": "Authorities hope reopening will generate $30bn for the tourism sector despite ongoing restrictions.",
+        "placed": "First_Page",
+        "epoch": 1635771603.340357,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Ethiopia PM calls on citizens to take up arms",
+        "en_content": "Authorities hope reopening will generate $30bn for the tourism sector despite ongoing restrictions.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "citizens",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "arms",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK threatens legal action over French fishing row",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-politics-59117529",
+        "content": "Berlin officials say Covid lockdown sceptic Attila Hildmann was passed data about a probe into him.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3403723,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "UK threatens legal action over French fishing row",
+        "en_content": "Berlin officials say Covid lockdown sceptic Attila Hildmann was passed data about a probe into him.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "action",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Vax declared word of the year for 2021",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59089596",
+        "content": "The Yemeni government blames Houthi rebels for the attack, which killed or wounded 29 civilians.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3403876,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Vax declared word of the year for 2021",
+        "en_content": "The Yemeni government blames Houthi rebels for the attack, which killed or wounded 29 civilians.",
+        "concepts": [
+            {
+                "word": "Vax",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "word",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Thailand reopens to tourists from over 60 nations",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59115395",
+        "content": "He has defied initial expectations to lead the Liberal Democratic Party to a comfortable majority.",
+        "placed": "First_Page",
+        "epoch": 1635771603.3404026,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Thailand reopens to tourists from over 60 nations",
+        "en_content": "He has defied initial expectations to lead the Liberal Democratic Party to a comfortable majority.",
+        "concepts": [
+            {
+                "word": "Thailand",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tourists",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "nations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Mole suspected of leaks to Germany conspiracist",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59119319",
+        "content": "Video footage shows passengers desperately running from fire and the man who was wielding a knife.",
+        "placed": "First_Page",
+        "epoch": 1635771603.340418,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Mole suspected of leaks to Germany conspiracist",
+        "en_content": "Video footage shows passengers desperately running from fire and the man who was wielding a knife.",
+        "concepts": [
+            {
+                "word": "Mole",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "leaks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Germany",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "conspiracist",
+                "meaning": "oprd",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Thailand reopens to tourists from over 60 nations",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59115395",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1635771603.3404331,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Thailand reopens to tourists from over 60 nations",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Thailand",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tourists",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "nations",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Mole suspected of leaks to Germany conspiracist",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59119319",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1635771603.3404486,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-01T14.00.03E1635771603.3404894.json",
+        "en_title": "Mole suspected of leaks to Germany conspiracist",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Mole",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "leaks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Germany",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "conspiracist",
+                "meaning": "oprd",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

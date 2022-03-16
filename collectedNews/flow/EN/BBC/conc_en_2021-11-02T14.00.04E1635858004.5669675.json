@@ -1,0 +1,635 @@
+[
+    {
+        "title": "France delays sanctions as fishing talks continue",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59127717",
+        "content": "Paris has stepped back from a threat to block British fishing boats from its ports from midnight.",
+        "placed": "Politics",
+        "epoch": 1635858004.566639,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "France delays sanctions as fishing talks continue",
+        "en_content": "Paris has stepped back from a threat to block British fishing boats from its ports from midnight.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sanctions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "France delays sanctions as fishing talks continue",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59127717",
+        "content": "Paris has stepped back from a threat to block British fishing boats from its ports from midnight.",
+        "placed": "Politics",
+        "epoch": 1635858004.5666714,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "France delays sanctions as fishing talks continue",
+        "en_content": "Paris has stepped back from a threat to block British fishing boats from its ports from midnight.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sanctions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs told to wear masks amid Covid case rise",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59132968",
+        "content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "placed": "Politics",
+        "epoch": 1635858004.5666947,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "MPs told to wear masks amid Covid case rise",
+        "en_content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "masks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson apology to minister over wheelchair access",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-59132811",
+        "content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "placed": "Politics",
+        "epoch": 1635858004.5667143,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "Johnson apology to minister over wheelchair access",
+        "en_content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "apology",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wheelchair",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "access",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Morrisons sorry for 'non-EU salt and pepper' label",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59134190",
+        "content": "The supermarket says it was an \"error\" to put the description on one of its chickens.",
+        "placed": "Politics",
+        "epoch": 1635858004.5667331,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "Morrisons sorry for 'non-EU salt and pepper' label",
+        "en_content": "The supermarket says it was an \"error\" to put the description on one of its chickens.",
+        "concepts": [
+            {
+                "word": "Morrisons",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "salt",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pepper",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "label",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Plastics in wet wipes should be banned, says MP",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59128718",
+        "content": "Labour MP Fleur Anderson is proposing a new law to ban wet wipes that contain plastic.",
+        "placed": "Politics",
+        "epoch": 1635858004.5667484,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "Plastics in wet wipes should be banned, says MP",
+        "en_content": "Labour MP Fleur Anderson is proposing a new law to ban wet wipes that contain plastic.",
+        "concepts": [
+            {
+                "word": "Plastics",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "wipes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "World leaders promise to end deforestation by 2030",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/science-environment-59088498",
+        "content": "More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal.",
+        "placed": "Politics",
+        "epoch": 1635858004.5667672,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "World leaders promise to end deforestation by 2030",
+        "en_content": "More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal.",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deforestation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Call for delay in all-lane smart motorways",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-59125133",
+        "content": "More safety data is needed before the hard shoulder is made into a permanent traffic lane, MPs have said.",
+        "placed": "Politics",
+        "epoch": 1635858004.5667846,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "Call for delay in all-lane smart motorways",
+        "en_content": "More safety data is needed before the hard shoulder is made into a permanent traffic lane, MPs have said.",
+        "concepts": [
+            {
+                "word": "delay",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lane",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "motorways",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "France delays sanctions as fishing talks continue",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59127717",
+        "content": "Paris has stepped back from a threat to block British fishing boats from its ports from midnight.",
+        "placed": "Politics",
+        "epoch": 1635858004.566801,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "France delays sanctions as fishing talks continue",
+        "en_content": "Paris has stepped back from a threat to block British fishing boats from its ports from midnight.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sanctions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs told to wear masks amid Covid case rise",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59132968",
+        "content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "placed": "Politics",
+        "epoch": 1635858004.566818,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "MPs told to wear masks amid Covid case rise",
+        "en_content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "masks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson apology to minister over wheelchair access",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-59132811",
+        "content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "placed": "Politics",
+        "epoch": 1635858004.566835,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "Johnson apology to minister over wheelchair access",
+        "en_content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "apology",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wheelchair",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "access",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Morrisons sorry for 'non-EU salt and pepper' label",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59134190",
+        "content": "The supermarket says it was an \"error\" to put the description on one of its chickens.",
+        "placed": "Politics",
+        "epoch": 1635858004.5668602,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "Morrisons sorry for 'non-EU salt and pepper' label",
+        "en_content": "The supermarket says it was an \"error\" to put the description on one of its chickens.",
+        "concepts": [
+            {
+                "word": "Morrisons",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "salt",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pepper",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "label",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Plastics in wet wipes should be banned, says MP",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59128718",
+        "content": "Labour MP Fleur Anderson is proposing a new law to ban wet wipes that contain plastic.",
+        "placed": "Politics",
+        "epoch": 1635858004.5668783,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "Plastics in wet wipes should be banned, says MP",
+        "en_content": "Labour MP Fleur Anderson is proposing a new law to ban wet wipes that contain plastic.",
+        "concepts": [
+            {
+                "word": "Plastics",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "wipes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "World leaders promise to end deforestation by 2030",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/science-environment-59088498",
+        "content": "More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal.",
+        "placed": "Politics",
+        "epoch": 1635858004.5668876,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "World leaders promise to end deforestation by 2030",
+        "en_content": "More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal.",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deforestation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Call for delay in all-lane smart motorways",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-59125133",
+        "content": "More safety data is needed before the hard shoulder is made into a permanent traffic lane, MPs have said.",
+        "placed": "Politics",
+        "epoch": 1635858004.5669043,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "Call for delay in all-lane smart motorways",
+        "en_content": "More safety data is needed before the hard shoulder is made into a permanent traffic lane, MPs have said.",
+        "concepts": [
+            {
+                "word": "delay",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lane",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "motorways",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs told to wear masks amid Covid case rise",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59132968",
+        "content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "placed": "Politics",
+        "epoch": 1635858004.5669208,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "MPs told to wear masks amid Covid case rise",
+        "en_content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "masks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson apology to minister over wheelchair access",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-59132811",
+        "content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "placed": "Politics",
+        "epoch": 1635858004.5669367,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "Johnson apology to minister over wheelchair access",
+        "en_content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "apology",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wheelchair",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "access",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Morrisons sorry for 'non-EU salt and pepper' label",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59134190",
+        "content": "The supermarket says it was an \"error\" to put the description on one of its chickens.",
+        "placed": "Politics",
+        "epoch": 1635858004.5669532,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.04E1635858004.5669675.json",
+        "en_title": "Morrisons sorry for 'non-EU salt and pepper' label",
+        "en_content": "The supermarket says it was an \"error\" to put the description on one of its chickens.",
+        "concepts": [
+            {
+                "word": "Morrisons",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "salt",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pepper",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "label",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

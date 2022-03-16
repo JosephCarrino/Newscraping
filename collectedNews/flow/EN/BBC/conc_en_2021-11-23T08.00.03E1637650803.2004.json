@@ -1,0 +1,653 @@
+[
+    {
+        "title": "Dozens killed in Bulgaria bus fire",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59383852",
+        "content": "At least 45 die, including children, after a bus catches fire in western Bulgaria, officials say.",
+        "placed": "Abroad",
+        "epoch": 1637650803.2000694,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Dozens killed in Bulgaria bus fire",
+        "en_content": "At least 45 die, including children, after a bus catches fire in western Bulgaria, officials say.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Bulgaria",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dozens killed in Bulgaria bus fire",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59383852",
+        "content": "At least 45 die, including children, after a bus catches fire in western Bulgaria, officials say.",
+        "placed": "Abroad",
+        "epoch": 1637650803.2000973,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Dozens killed in Bulgaria bus fire",
+        "en_content": "At least 45 die, including children, after a bus catches fire in western Bulgaria, officials say.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Bulgaria",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Parade incident driver to be charged with homicide",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59378571",
+        "content": "At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration.",
+        "placed": "Abroad",
+        "epoch": 1637650803.200115,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Parade incident driver to be charged with homicide",
+        "en_content": "At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration.",
+        "concepts": [
+            {
+                "word": "Parade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incident",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "driver",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "homicide",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Can UK avoid a Europe-style return to lockdown?",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/health-59378849",
+        "content": "Good vaccine uptake and natural immunity, coupled with public caution, has put UK in a strong position.",
+        "placed": "Abroad",
+        "epoch": 1637650803.2001407,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Can UK avoid a Europe-style return to lockdown?",
+        "en_content": "Good vaccine uptake and natural immunity, coupled with public caution, has put UK in a strong position.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "style",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "return",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'You don’t only have rights, you have obligations'",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59378552",
+        "content": "Austria's chancellor regrets jabs will be mandatory, but current low rates are \"too little, too late\".",
+        "placed": "Abroad",
+        "epoch": 1637650803.200164,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "'You don’t only have rights, you have obligations'",
+        "en_content": "Austria's chancellor regrets jabs will be mandatory, but current low rates are \"too little, too late\".",
+        "concepts": [
+            {
+                "word": "rights",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "obligations",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rittenhouse says his case 'nothing to do with race'",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59382788",
+        "content": "\"I support the BLM movement,\" says the teen, who was acquitted of shooting three during racial unrest.",
+        "placed": "Abroad",
+        "epoch": 1637650803.2001774,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Rittenhouse says his case 'nothing to do with race'",
+        "en_content": "\"I support the BLM movement,\" says the teen, who was acquitted of shooting three during racial unrest.",
+        "concepts": [
+            {
+                "word": "Rittenhouse",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "race",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Mission to smack a space rock is set for launch",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59327293",
+        "content": "A spacecraft is set to launch on a mission to nudge an asteroid off course.",
+        "placed": "Abroad",
+        "epoch": 1637650803.2002022,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Mission to smack a space rock is set for launch",
+        "en_content": "A spacecraft is set to launch on a mission to nudge an asteroid off course.",
+        "concepts": [
+            {
+                "word": "Mission",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "space",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rock",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "launch",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia declares La Niña weather event has begun",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59383008",
+        "content": "The phenomenon can lead to significant weather changes in different parts of the world.",
+        "placed": "Abroad",
+        "epoch": 1637650803.200225,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Australia declares La Niña weather event has begun",
+        "en_content": "The phenomenon can lead to significant weather changes in different parts of the world.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "La",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Niña",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "weather",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "event",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Dozens killed in Bulgaria bus fire",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59383852",
+        "content": "At least 45 die, including children, after a bus catches fire in western Bulgaria, officials say.",
+        "placed": "Abroad",
+        "epoch": 1637650803.2002466,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Dozens killed in Bulgaria bus fire",
+        "en_content": "At least 45 die, including children, after a bus catches fire in western Bulgaria, officials say.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Bulgaria",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Parade incident driver to be charged with homicide",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59378571",
+        "content": "At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration.",
+        "placed": "Abroad",
+        "epoch": 1637650803.2002702,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Parade incident driver to be charged with homicide",
+        "en_content": "At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration.",
+        "concepts": [
+            {
+                "word": "Parade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incident",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "driver",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "homicide",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Can UK avoid a Europe-style return to lockdown?",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/health-59378849",
+        "content": "Good vaccine uptake and natural immunity, coupled with public caution, has put UK in a strong position.",
+        "placed": "Abroad",
+        "epoch": 1637650803.200286,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Can UK avoid a Europe-style return to lockdown?",
+        "en_content": "Good vaccine uptake and natural immunity, coupled with public caution, has put UK in a strong position.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "style",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "return",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'You don’t only have rights, you have obligations'",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59378552",
+        "content": "Austria's chancellor regrets jabs will be mandatory, but current low rates are \"too little, too late\".",
+        "placed": "Abroad",
+        "epoch": 1637650803.2002954,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "'You don’t only have rights, you have obligations'",
+        "en_content": "Austria's chancellor regrets jabs will be mandatory, but current low rates are \"too little, too late\".",
+        "concepts": [
+            {
+                "word": "rights",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "obligations",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rittenhouse says his case 'nothing to do with race'",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59382788",
+        "content": "\"I support the BLM movement,\" says the teen, who was acquitted of shooting three during racial unrest.",
+        "placed": "Abroad",
+        "epoch": 1637650803.2003188,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Rittenhouse says his case 'nothing to do with race'",
+        "en_content": "\"I support the BLM movement,\" says the teen, who was acquitted of shooting three during racial unrest.",
+        "concepts": [
+            {
+                "word": "Rittenhouse",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "race",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Mission to smack a space rock is set for launch",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59327293",
+        "content": "A spacecraft is set to launch on a mission to nudge an asteroid off course.",
+        "placed": "Abroad",
+        "epoch": 1637650803.200335,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Mission to smack a space rock is set for launch",
+        "en_content": "A spacecraft is set to launch on a mission to nudge an asteroid off course.",
+        "concepts": [
+            {
+                "word": "Mission",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "space",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rock",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "launch",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia declares La Niña weather event has begun",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59383008",
+        "content": "The phenomenon can lead to significant weather changes in different parts of the world.",
+        "placed": "Abroad",
+        "epoch": 1637650803.200343,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Australia declares La Niña weather event has begun",
+        "en_content": "The phenomenon can lead to significant weather changes in different parts of the world.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "La",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Niña",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "weather",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "event",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Parade incident driver to be charged with homicide",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59378571",
+        "content": "At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration.",
+        "placed": "Abroad",
+        "epoch": 1637650803.200358,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Parade incident driver to be charged with homicide",
+        "en_content": "At least five people, aged 52 to 81, were killed when an SUV ploughed into a Christmas celebration.",
+        "concepts": [
+            {
+                "word": "Parade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incident",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "driver",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "homicide",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Can UK avoid a Europe-style return to lockdown?",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/health-59378849",
+        "content": "Good vaccine uptake and natural immunity, coupled with public caution, has put UK in a strong position.",
+        "placed": "Abroad",
+        "epoch": 1637650803.2003722,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "Can UK avoid a Europe-style return to lockdown?",
+        "en_content": "Good vaccine uptake and natural immunity, coupled with public caution, has put UK in a strong position.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "style",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "return",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'You don’t only have rights, you have obligations'",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59378552",
+        "content": "Austria's chancellor regrets jabs will be mandatory, but current low rates are \"too little, too late\".",
+        "placed": "Abroad",
+        "epoch": 1637650803.2003868,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T08.00.03E1637650803.2004.json",
+        "en_title": "'You don’t only have rights, you have obligations'",
+        "en_content": "Austria's chancellor regrets jabs will be mandatory, but current low rates are \"too little, too late\".",
+        "concepts": [
+            {
+                "word": "rights",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "obligations",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

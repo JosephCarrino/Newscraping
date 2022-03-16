@@ -8,7 +8,7 @@
         "content": "",
         "ranked": 0,
         "placed": "First_Page",
-        "epoch": 1636236014.3033636,
+        "epoch": 1638828017.566118,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
@@ -56,7 +56,7 @@
         "content": "",
         "ranked": 1,
         "placed": "First_Page",
-        "epoch": 1636236014.3033671,
+        "epoch": 1638828017.566121,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
@@ -109,7 +109,7 @@
         "content": "",
         "ranked": 2,
         "placed": "First_Page",
-        "epoch": 1636236014.3033683,
+        "epoch": 1638828017.5661228,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "title": "Sudan coup talks hit \"semi-deadlock\", sources from ousted government say",
+        "title": "Sudan coup talks hit 'semi-deadlock', sources from ousted government say",
         "date_raw": "November 06, 2021",
         "date": "2021-11-06",
         "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
@@ -152,11 +152,11 @@
         "content": "",
         "ranked": 3,
         "placed": "First_Page",
-        "epoch": 1636236014.3033693,
+        "epoch": 1638828017.566124,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
-        "en_title": "Sudan coup talks hit \"semi-deadlock\", sources from ousted government say",
+        "en_title": "Sudan coup talks hit 'semi-deadlock', sources from ousted government say",
         "en_content": "",
         "concepts": [
             {
@@ -172,16 +172,6 @@
             {
                 "word": "talks",
                 "meaning": "nsubj",
-                "pos": "VERB"
-            },
-            {
-                "word": "-",
-                "meaning": "dobj",
-                "pos": "VERB"
-            },
-            {
-                "word": "deadlock",
-                "meaning": "dobj",
                 "pos": "VERB"
             },
             {
@@ -205,7 +195,7 @@
         "content": "",
         "ranked": 4,
         "placed": "First_Page",
-        "epoch": 1636236014.3033702,
+        "epoch": 1638828017.5661252,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
@@ -250,7 +240,7 @@
         ]
     },
     {
-        "title": "Four women slain in Afghanistan after phone call Ã¢ÂÂto join evacuation flightÃ¢ÂÂ",
+        "title": "Four women slain in Afghanistan after phone call ‘to join evacuation flight’",
         "date_raw": "November 06, 2021",
         "date": "2021-11-06",
         "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
@@ -258,11 +248,11 @@
         "content": "",
         "ranked": 5,
         "placed": "First_Page",
-        "epoch": 1636236014.3033712,
+        "epoch": 1638828017.5661335,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
-        "en_title": "Four women slain in Afghanistan after phone call Ã¢ÂÂto join evacuation flightÃ¢ÂÂ",
+        "en_title": "Four women slain in Afghanistan after phone call ‘to join evacuation flight’",
         "en_content": "",
         "concepts": [
             {
@@ -282,11 +272,6 @@
             },
             {
                 "word": "call",
-                "meaning": "compound",
-                "pos": "NOUN"
-            },
-            {
-                "word": "Ã¢ÂÂto",
                 "meaning": "nsubj",
                 "pos": "VERB"
             },
@@ -296,14 +281,14 @@
                 "pos": "NOUN"
             },
             {
-                "word": "flightÃ¢ÂÂ",
+                "word": "flight",
                 "meaning": "dobj",
                 "pos": "VERB"
             }
         ]
     },
     {
-        "title": "Barca hail return of legendary Xavi Ã¢ÂÂla MaquinaÃ¢ÂÂ Hernandez as coach",
+        "title": "Barca hail return of legendary Xavi ‘la Maquina’ Hernandez as coach",
         "date_raw": "November 06, 2021",
         "date": "2021-11-06",
         "url": "https://www.france24.com/en/archives/2021/11/06-November-2021",
@@ -311,11 +296,11 @@
         "content": "",
         "ranked": 6,
         "placed": "First_Page",
-        "epoch": 1636236014.3033721,
+        "epoch": 1638828017.5661345,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
-        "en_title": "Barca hail return of legendary Xavi Ã¢ÂÂla MaquinaÃ¢ÂÂ Hernandez as coach",
+        "en_title": "Barca hail return of legendary Xavi ‘la Maquina’ Hernandez as coach",
         "en_content": "",
         "concepts": [
             {
@@ -335,17 +320,17 @@
             },
             {
                 "word": "Xavi",
-                "meaning": "compound",
+                "meaning": "nmod",
                 "pos": "PROPN"
             },
             {
-                "word": "Ã¢ÂÂla",
-                "meaning": "compound",
+                "word": "la",
+                "meaning": "nmod",
                 "pos": "PROPN"
             },
             {
-                "word": "MaquinaÃ¢ÂÂ",
-                "meaning": "compound",
+                "word": "Maquina",
+                "meaning": "nmod",
                 "pos": "PROPN"
             },
             {
@@ -369,7 +354,7 @@
         "content": "",
         "ranked": 7,
         "placed": "First_Page",
-        "epoch": 1636236014.3033729,
+        "epoch": 1638828017.5661354,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
@@ -422,7 +407,7 @@
         "content": "",
         "ranked": 8,
         "placed": "First_Page",
-        "epoch": 1636236014.3033736,
+        "epoch": 1638828017.5661361,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
@@ -455,7 +440,7 @@
         "content": "",
         "ranked": 9,
         "placed": "First_Page",
-        "epoch": 1636236014.3033745,
+        "epoch": 1638828017.5661368,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
@@ -503,7 +488,7 @@
         "content": "",
         "ranked": 10,
         "placed": "First_Page",
-        "epoch": 1636236014.3033757,
+        "epoch": 1638828017.5661376,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
@@ -546,7 +531,7 @@
         "content": "",
         "ranked": 11,
         "placed": "First_Page",
-        "epoch": 1636236014.3033764,
+        "epoch": 1638828017.5661383,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
@@ -589,7 +574,7 @@
         "content": "",
         "ranked": 12,
         "placed": "First_Page",
-        "epoch": 1636236014.3033838,
+        "epoch": 1638828017.5661392,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",
@@ -642,7 +627,7 @@
         "content": "",
         "ranked": 13,
         "placed": "First_Page",
-        "epoch": 1636236014.3033845,
+        "epoch": 1638828017.56614,
         "language": "en",
         "source": "France24",
         "filename": "conc_en_2021-11-06.json",

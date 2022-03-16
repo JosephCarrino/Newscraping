@@ -1,0 +1,688 @@
+[
+    {
+        "title": "Further unrest in Netherlands amid Covid protests",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59363256",
+        "content": "Riots erupt in the Netherlands for a second night, with protests held in Austria, Italy and France.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9869418,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Further unrest in Netherlands amid Covid protests",
+        "en_content": "Riots erupt in the Netherlands for a second night, with protests held in Austria, Italy and France.",
+        "concepts": [
+            {
+                "word": "unrest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Further unrest in Netherlands amid Covid protests",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59363256",
+        "content": "Riots erupt in the Netherlands for a second night, with protests held in Austria, Italy and France.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9869683,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Further unrest in Netherlands amid Covid protests",
+        "en_content": "Riots erupt in the Netherlands for a second night, with protests held in Austria, Italy and France.",
+        "concepts": [
+            {
+                "word": "unrest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Video claims to show Peng Shuai at tournament",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59363156",
+        "content": "A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing.",
+        "placed": "Abroad",
+        "epoch": 1637478003.986988,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Video claims to show Peng Shuai at tournament",
+        "en_content": "A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing.",
+        "concepts": [
+            {
+                "word": "Video",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shuai",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tournament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fireworks and chaos as Dutch Covid riots continue",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59357633",
+        "content": "Rioters in the Netherlands clashed with police for a second night over new coronavirus measures.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9870026,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Fireworks and chaos as Dutch Covid riots continue",
+        "en_content": "Rioters in the Netherlands clashed with police for a second night over new coronavirus measures.",
+        "concepts": [
+            {
+                "word": "Fireworks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "chaos",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Dutch",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "riots",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Calls for calm as teen gunman acquittal divides US",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59358172",
+        "content": "Families say justice is needed \"not more violence\" after Kyle Rittenhouse is cleared of murder.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9870193,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Calls for calm as teen gunman acquittal divides US",
+        "en_content": "Families say justice is needed \"not more violence\" after Kyle Rittenhouse is cleared of murder.",
+        "concepts": [
+            {
+                "word": "Calls",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "calm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "teen",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "gunman",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "acquittal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bear shot dead by 70-year-old hunter in France",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59362845",
+        "content": "A female bear roaming with her cubs is killed after attacking and injuring a man, officials say.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9870274,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Bear shot dead by 70-year-old hunter in France",
+        "en_content": "A female bear roaming with her cubs is killed after attacking and injuring a man, officials say.",
+        "concepts": [
+            {
+                "word": "Bear",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "hunter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chile voters go to polls amid deep divisions",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59331694",
+        "content": "It is being billed as the most polarising election in decades and comes after divisive mass protests.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9870436,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Chile voters go to polls amid deep divisions",
+        "en_content": "It is being billed as the most polarising election in decades and comes after divisive mass protests.",
+        "concepts": [
+            {
+                "word": "Chile",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "voters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "polls",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "divisions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Prominent Somali journalist killed in bomb attack",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59352179",
+        "content": "Abdiaziz Mohamud Guled, a critic of the Islamist militant group al-Shabab, is killed in a suicide attack.",
+        "placed": "Abroad",
+        "epoch": 1637478003.987059,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Prominent Somali journalist killed in bomb attack",
+        "en_content": "Abdiaziz Mohamud Guled, a critic of the Islamist militant group al-Shabab, is killed in a suicide attack.",
+        "concepts": [
+            {
+                "word": "journalist",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bomb",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Further unrest in Netherlands amid Covid protests",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59363256",
+        "content": "Riots erupt in the Netherlands for a second night, with protests held in Austria, Italy and France.",
+        "placed": "Abroad",
+        "epoch": 1637478003.98709,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Further unrest in Netherlands amid Covid protests",
+        "en_content": "Riots erupt in the Netherlands for a second night, with protests held in Austria, Italy and France.",
+        "concepts": [
+            {
+                "word": "unrest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Video claims to show Peng Shuai at tournament",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59363156",
+        "content": "A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9871054,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Video claims to show Peng Shuai at tournament",
+        "en_content": "A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing.",
+        "concepts": [
+            {
+                "word": "Video",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shuai",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tournament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fireworks and chaos as Dutch Covid riots continue",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59357633",
+        "content": "Rioters in the Netherlands clashed with police for a second night over new coronavirus measures.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9871302,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Fireworks and chaos as Dutch Covid riots continue",
+        "en_content": "Rioters in the Netherlands clashed with police for a second night over new coronavirus measures.",
+        "concepts": [
+            {
+                "word": "Fireworks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "chaos",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Dutch",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "riots",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Calls for calm as teen gunman acquittal divides US",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59358172",
+        "content": "Families say justice is needed \"not more violence\" after Kyle Rittenhouse is cleared of murder.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9871454,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Calls for calm as teen gunman acquittal divides US",
+        "en_content": "Families say justice is needed \"not more violence\" after Kyle Rittenhouse is cleared of murder.",
+        "concepts": [
+            {
+                "word": "Calls",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "calm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "teen",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "gunman",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "acquittal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bear shot dead by 70-year-old hunter in France",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59362845",
+        "content": "A female bear roaming with her cubs is killed after attacking and injuring a man, officials say.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9871538,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Bear shot dead by 70-year-old hunter in France",
+        "en_content": "A female bear roaming with her cubs is killed after attacking and injuring a man, officials say.",
+        "concepts": [
+            {
+                "word": "Bear",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "hunter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chile voters go to polls amid deep divisions",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59331694",
+        "content": "It is being billed as the most polarising election in decades and comes after divisive mass protests.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9871686,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Chile voters go to polls amid deep divisions",
+        "en_content": "It is being billed as the most polarising election in decades and comes after divisive mass protests.",
+        "concepts": [
+            {
+                "word": "Chile",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "voters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "polls",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "divisions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Prominent Somali journalist killed in bomb attack",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59352179",
+        "content": "Abdiaziz Mohamud Guled, a critic of the Islamist militant group al-Shabab, is killed in a suicide attack.",
+        "placed": "Abroad",
+        "epoch": 1637478003.987176,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Prominent Somali journalist killed in bomb attack",
+        "en_content": "Abdiaziz Mohamud Guled, a critic of the Islamist militant group al-Shabab, is killed in a suicide attack.",
+        "concepts": [
+            {
+                "word": "journalist",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bomb",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Video claims to show Peng Shuai at tournament",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59363156",
+        "content": "A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9871902,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Video claims to show Peng Shuai at tournament",
+        "en_content": "A state media video claims to show her as a guest at a tournament, amid concerns for her wellbeing.",
+        "concepts": [
+            {
+                "word": "Video",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shuai",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tournament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fireworks and chaos as Dutch Covid riots continue",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59357633",
+        "content": "Rioters in the Netherlands clashed with police for a second night over new coronavirus measures.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9872048,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Fireworks and chaos as Dutch Covid riots continue",
+        "en_content": "Rioters in the Netherlands clashed with police for a second night over new coronavirus measures.",
+        "concepts": [
+            {
+                "word": "Fireworks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "chaos",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Dutch",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "riots",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Calls for calm as teen gunman acquittal divides US",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59358172",
+        "content": "Families say justice is needed \"not more violence\" after Kyle Rittenhouse is cleared of murder.",
+        "placed": "Abroad",
+        "epoch": 1637478003.9872203,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T08.00.03E1637478003.987233.json",
+        "en_title": "Calls for calm as teen gunman acquittal divides US",
+        "en_content": "Families say justice is needed \"not more violence\" after Kyle Rittenhouse is cleared of murder.",
+        "concepts": [
+            {
+                "word": "Calls",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "calm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "teen",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "gunman",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "acquittal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

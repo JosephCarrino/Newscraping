@@ -19,6 +19,8 @@ ARCH_URLS = [
     f"{CATE_URL}Dal%20Mondo&pagina=150"
 ]
 
+globEdition= []
+
 class TelegetSpider(scrapy.Spider):
     
     cate_conv= {'0': "First_Page",
@@ -32,9 +34,11 @@ class TelegetSpider(scrapy.Spider):
     base_url= "https://www.servizitelevideo.rai.it/televideo/pub/solotesto.jsp?pagina="
     
     name = 'teleGet'
-    allowed_domains = [BASE_URL]
+    allowed_domains = ["www.servizitelevideo.rai.it"]
     start_urls = ARCH_URLS
     
+   
+
     def stringFormat(self, s):
         return s.replace('\n', ' ').replace('\\', '').replace('  ', ' ').strip()
 
@@ -48,10 +52,6 @@ class TelegetSpider(scrapy.Spider):
         placed= []
         ranked= []
         
-        now = datetime.now()
-        now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
-        now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
-       
         edition= []
         i= 0
         for info in titleString:
@@ -67,27 +67,45 @@ class TelegetSpider(scrapy.Spider):
                 else:
                     placed.append(self.cate_conv[url[len(url)-2]])
             i+= 1
-        i= 0
+
+        j= 0
 
         for item in zip(titles, urls, contents, ranked, placed):
-            scraped_info = {
+            j+=1
+            yield scrapy.Request(item[1], callback=self.getFullContent, meta= {'data': item, 'currelem': j, 'edition': edition, 'oldurl': response.request.url})
+        
+
+
+    def getFullContent(self, response):
+        content = response.css("pre::text").get()
+        if response.request.url[len(response.request.url)-1] == "0":
+            content= ""
+        item= response.meta.get('data')
+        print(item)
+        scraped_info = {
                 'title': item[0],
                 'date_raw': date.today().strftime("%B %d, %Y"),
                 'date': date.today().strftime("%Y-%m-%d"),
-                'url': response.request.url,
+                'url': response.meta.get('oldurl'),
                 'news_url': item[1],
-                'content': item[2],
+                'content': content.replace("\n", "").replace("   ", " ").replace("  ", " ").replace("- ", ""),
                 'ranked': item[3],
                 'placed': item[4],
                 'epoch': time.time()
             }
-            i+=1
-            edition.append(scraped_info)
-        
-        base_name = f"{now_s}E{now_epoch}.json"
-        scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/IT/Televideo"
-        scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
-        with open(scraped_data_filepath, "w") as f:
-            json.dump(edition, f, indent= 4, ensure_ascii=False)
-            f.write("\n")
 
+        response.meta.get('edition').append(scraped_info)
+        global globEdition
+        globEdition.append(scraped_info)
+        if response.meta.get('currelem') == len(item):
+            now = datetime.now()
+            now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
+            now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
+       
+            base_name = f"{now_s}E{now_epoch}.json"
+            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/IT/Televideo"
+            scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+            with open(scraped_data_filepath, "w") as f:
+                json.dump(globEdition, f, indent= 4, ensure_ascii=False)
+                f.write("\n")
+        

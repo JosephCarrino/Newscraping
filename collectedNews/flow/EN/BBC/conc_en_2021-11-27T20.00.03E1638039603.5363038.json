@@ -1,0 +1,572 @@
+[
+    {
+        "title": "S Africa 'punished' for finding new Covid variant",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59442129",
+        "content": "South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5360727,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "S Africa 'punished' for finding new Covid variant",
+        "en_content": "South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say.",
+        "concepts": [
+            {
+                "word": "S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "variant",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "S Africa 'punished' for finding new Covid variant",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59442129",
+        "content": "South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5361013,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "S Africa 'punished' for finding new Covid variant",
+        "en_content": "South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say.",
+        "concepts": [
+            {
+                "word": "S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "variant",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Dozens test positive on SA-Netherlands flights",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59442149",
+        "content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5361211,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "Dozens test positive on SA-Netherlands flights",
+        "en_content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "flights",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kurdish woman is first Channel victim to be named",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59439533",
+        "content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "placed": "Abroad",
+        "epoch": 1638039603.536137,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "Kurdish woman is first Channel victim to be named",
+        "en_content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "concepts": [
+            {
+                "word": "woman",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victim",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The Channel beaches that host a lethal trade in human hope",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59443519",
+        "content": "The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5361526,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "The Channel beaches that host a lethal trade in human hope",
+        "en_content": "The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion.",
+        "concepts": [
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "beaches",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hope",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tennis official still concerned about Peng Shuai",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59443521",
+        "content": "The protest comes amid fear of an Islamist encroachment following a number of recent attacks.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5361688,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "Tennis official still concerned about Peng Shuai",
+        "en_content": "The protest comes amid fear of an Islamist encroachment following a number of recent attacks.",
+        "concepts": [
+            {
+                "word": "Tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shuai",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Burkina Faso police fire tear gas at protesters",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59446488",
+        "content": "Archaeologists think the mummy, found near Lima, could be up to 1,200 years old.",
+        "placed": "Abroad",
+        "epoch": 1638039603.536182,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "Burkina Faso police fire tear gas at protesters",
+        "en_content": "Archaeologists think the mummy, found near Lima, could be up to 1,200 years old.",
+        "concepts": [
+            {
+                "word": "Burkina",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Faso",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tear",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gas",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pre-Inca mummy found in Peru",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59442129",
+        "content": "South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5361972,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "Pre-Inca mummy found in Peru",
+        "en_content": "South Africa should be praised for discovering Omicron, not hit with travel bans, its officials say.",
+        "concepts": [
+            {
+                "word": "Pre",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Inca",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mummy",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Peru",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "S Africa 'punished' for finding new Covid variant",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59442149",
+        "content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5362115,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "S Africa 'punished' for finding new Covid variant",
+        "en_content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "concepts": [
+            {
+                "word": "S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "variant",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Dozens test positive on SA-Netherlands flights",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59439533",
+        "content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5362258,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "Dozens test positive on SA-Netherlands flights",
+        "en_content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "flights",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kurdish woman is first Channel victim to be named",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59443519",
+        "content": "The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion.",
+        "placed": "Abroad",
+        "epoch": 1638039603.53624,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "Kurdish woman is first Channel victim to be named",
+        "en_content": "The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion.",
+        "concepts": [
+            {
+                "word": "woman",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victim",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The Channel beaches that host a lethal trade in human hope",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59443521",
+        "content": "The protest comes amid fear of an Islamist encroachment following a number of recent attacks.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5362542,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "The Channel beaches that host a lethal trade in human hope",
+        "en_content": "The protest comes amid fear of an Islamist encroachment following a number of recent attacks.",
+        "concepts": [
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "beaches",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hope",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tennis official still concerned about Peng Shuai",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59446488",
+        "content": "Archaeologists think the mummy, found near Lima, could be up to 1,200 years old.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5362682,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "Tennis official still concerned about Peng Shuai",
+        "en_content": "Archaeologists think the mummy, found near Lima, could be up to 1,200 years old.",
+        "concepts": [
+            {
+                "word": "Tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shuai",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Burkina Faso police fire tear gas at protesters",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59442149",
+        "content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5362763,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "Burkina Faso police fire tear gas at protesters",
+        "en_content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "concepts": [
+            {
+                "word": "Burkina",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Faso",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tear",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gas",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pre-Inca mummy found in Peru",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59439533",
+        "content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "placed": "Abroad",
+        "epoch": 1638039603.5362906,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T20.00.03E1638039603.5363038.json",
+        "en_title": "Pre-Inca mummy found in Peru",
+        "en_content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "concepts": [
+            {
+                "word": "Pre",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Inca",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mummy",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Peru",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

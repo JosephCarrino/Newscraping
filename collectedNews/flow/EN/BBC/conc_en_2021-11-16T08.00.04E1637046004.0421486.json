@@ -1,0 +1,668 @@
+[
+    {
+        "title": "Russian anti-satellite missile test sparks outrage",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59299101",
+        "content": "The US says Russia \"recklessly\" destroyed a satellite, endangering astronauts in space.",
+        "placed": "Abroad",
+        "epoch": 1637046004.0418591,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Russian anti-satellite missile test sparks outrage",
+        "en_content": "The US says Russia \"recklessly\" destroyed a satellite, endangering astronauts in space.",
+        "concepts": [
+            {
+                "word": "missile",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "outrage",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Russian anti-satellite missile test sparks outrage",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59299101",
+        "content": "The US says Russia \"recklessly\" destroyed a satellite, endangering astronauts in space.",
+        "placed": "Abroad",
+        "epoch": 1637046004.0418868,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Russian anti-satellite missile test sparks outrage",
+        "en_content": "The US says Russia \"recklessly\" destroyed a satellite, endangering astronauts in space.",
+        "concepts": [
+            {
+                "word": "missile",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "outrage",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden tells Xi not to 'undermine' Taiwan peace",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59301167",
+        "content": "The leaders concluded their first virtual summit, the most substantive talks they have had so far.",
+        "placed": "Abroad",
+        "epoch": 1637046004.0419064,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Biden tells Xi not to 'undermine' Taiwan peace",
+        "en_content": "The leaders concluded their first virtual summit, the most substantive talks they have had so far.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Xi",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "peace",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Trump ally Bannon defiant after surrender to FBI",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/59253089",
+        "content": "The former top Trump adviser told reporters: \"This is going to be the misdemeanour from hell.\"",
+        "placed": "Abroad",
+        "epoch": 1637046004.0419242,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Trump ally Bannon defiant after surrender to FBI",
+        "en_content": "The former top Trump adviser told reporters: \"This is going to be the misdemeanour from hell.\"",
+        "concepts": [
+            {
+                "word": "ally",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surrender",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "FBI",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "EU to widen Belarus sanctions as border row grows",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59289998",
+        "content": "The crisis intensifies as hundreds more migrants arrive at the border with Poland.",
+        "placed": "Abroad",
+        "epoch": 1637046004.0419405,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "EU to widen Belarus sanctions as border row grows",
+        "en_content": "The crisis intensifies as hundreds more migrants arrive at the border with Poland.",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sanctions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Nigerian army 'shot #EndSars protesters': report",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59300011",
+        "content": "Tens of thousands of Nigerians took to the streets last October as part of the #EndSars protests.",
+        "placed": "Abroad",
+        "epoch": 1637046004.0419574,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Nigerian army 'shot #EndSars protesters': report",
+        "en_content": "Tens of thousands of Nigerians took to the streets last October as part of the #EndSars protests.",
+        "concepts": [
+            {
+                "word": "army",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EndSars",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Aung San Suu Kyi being treated well, army insists",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59300015",
+        "content": "Aung San Suu Kyi has not been seen in public since a coup removed her from office in February.",
+        "placed": "Abroad",
+        "epoch": 1637046004.0419734,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Aung San Suu Kyi being treated well, army insists",
+        "en_content": "Aung San Suu Kyi has not been seen in public since a coup removed her from office in February.",
+        "concepts": [
+            {
+                "word": "Aung",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "San",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Suu",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kyi",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "army",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The women of Iran's underground metal scene",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59294328",
+        "content": "Women are forbidden from singing publicly in Iran except in choirs or female-only company.",
+        "placed": "Abroad",
+        "epoch": 1637046004.0419872,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "The women of Iran's underground metal scene",
+        "en_content": "Women are forbidden from singing publicly in Iran except in choirs or female-only company.",
+        "concepts": [
+            {
+                "word": "women",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Iran",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "metal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scene",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Russian anti-satellite missile test sparks outrage",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59299101",
+        "content": "The US says Russia \"recklessly\" destroyed a satellite, endangering astronauts in space.",
+        "placed": "Abroad",
+        "epoch": 1637046004.042003,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Russian anti-satellite missile test sparks outrage",
+        "en_content": "The US says Russia \"recklessly\" destroyed a satellite, endangering astronauts in space.",
+        "concepts": [
+            {
+                "word": "missile",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "outrage",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden tells Xi not to 'undermine' Taiwan peace",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59301167",
+        "content": "The leaders concluded their first virtual summit, the most substantive talks they have had so far.",
+        "placed": "Abroad",
+        "epoch": 1637046004.0420187,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Biden tells Xi not to 'undermine' Taiwan peace",
+        "en_content": "The leaders concluded their first virtual summit, the most substantive talks they have had so far.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Xi",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "peace",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Trump ally Bannon defiant after surrender to FBI",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/59253089",
+        "content": "The former top Trump adviser told reporters: \"This is going to be the misdemeanour from hell.\"",
+        "placed": "Abroad",
+        "epoch": 1637046004.0420344,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Trump ally Bannon defiant after surrender to FBI",
+        "en_content": "The former top Trump adviser told reporters: \"This is going to be the misdemeanour from hell.\"",
+        "concepts": [
+            {
+                "word": "ally",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surrender",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "FBI",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "EU to widen Belarus sanctions as border row grows",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59289998",
+        "content": "The crisis intensifies as hundreds more migrants arrive at the border with Poland.",
+        "placed": "Abroad",
+        "epoch": 1637046004.04205,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "EU to widen Belarus sanctions as border row grows",
+        "en_content": "The crisis intensifies as hundreds more migrants arrive at the border with Poland.",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sanctions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Nigerian army 'shot #EndSars protesters': report",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59300011",
+        "content": "Tens of thousands of Nigerians took to the streets last October as part of the #EndSars protests.",
+        "placed": "Abroad",
+        "epoch": 1637046004.0420644,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Nigerian army 'shot #EndSars protesters': report",
+        "en_content": "Tens of thousands of Nigerians took to the streets last October as part of the #EndSars protests.",
+        "concepts": [
+            {
+                "word": "army",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EndSars",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Aung San Suu Kyi being treated well, army insists",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59300015",
+        "content": "Aung San Suu Kyi has not been seen in public since a coup removed her from office in February.",
+        "placed": "Abroad",
+        "epoch": 1637046004.0420794,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Aung San Suu Kyi being treated well, army insists",
+        "en_content": "Aung San Suu Kyi has not been seen in public since a coup removed her from office in February.",
+        "concepts": [
+            {
+                "word": "Aung",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "San",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Suu",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kyi",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "army",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The women of Iran's underground metal scene",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59294328",
+        "content": "Women are forbidden from singing publicly in Iran except in choirs or female-only company.",
+        "placed": "Abroad",
+        "epoch": 1637046004.042094,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "The women of Iran's underground metal scene",
+        "en_content": "Women are forbidden from singing publicly in Iran except in choirs or female-only company.",
+        "concepts": [
+            {
+                "word": "women",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Iran",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "metal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scene",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden tells Xi not to 'undermine' Taiwan peace",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59301167",
+        "content": "The leaders concluded their first virtual summit, the most substantive talks they have had so far.",
+        "placed": "Abroad",
+        "epoch": 1637046004.0421033,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Biden tells Xi not to 'undermine' Taiwan peace",
+        "en_content": "The leaders concluded their first virtual summit, the most substantive talks they have had so far.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Xi",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "peace",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Trump ally Bannon defiant after surrender to FBI",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/59253089",
+        "content": "The former top Trump adviser told reporters: \"This is going to be the misdemeanour from hell.\"",
+        "placed": "Abroad",
+        "epoch": 1637046004.0421193,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "Trump ally Bannon defiant after surrender to FBI",
+        "en_content": "The former top Trump adviser told reporters: \"This is going to be the misdemeanour from hell.\"",
+        "concepts": [
+            {
+                "word": "ally",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surrender",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "FBI",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "EU to widen Belarus sanctions as border row grows",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59289998",
+        "content": "The crisis intensifies as hundreds more migrants arrive at the border with Poland.",
+        "placed": "Abroad",
+        "epoch": 1637046004.042134,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T08.00.04E1637046004.0421486.json",
+        "en_title": "EU to widen Belarus sanctions as border row grows",
+        "en_content": "The crisis intensifies as hundreds more migrants arrive at the border with Poland.",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sanctions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

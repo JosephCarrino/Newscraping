@@ -1,0 +1,450 @@
+[
+    {
+        "title": "No excuses for not tackling climate change - Johnson",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59113676",
+        "content": "Boris Johnson warns world leaders there is a \"huge way to go\" ahead of the COP26 climate summit.",
+        "placed": "Politics",
+        "epoch": 1635706804.311348,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "No excuses for not tackling climate change - Johnson",
+        "en_content": "Boris Johnson warns world leaders there is a \"huge way to go\" ahead of the COP26 climate summit.",
+        "concepts": [
+            {
+                "word": "excuses",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "No excuses for not tackling climate change - Johnson",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59113676",
+        "content": "Boris Johnson warns world leaders there is a \"huge way to go\" ahead of the COP26 climate summit.",
+        "placed": "Politics",
+        "epoch": 1635706804.311379,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "No excuses for not tackling climate change - Johnson",
+        "en_content": "Boris Johnson warns world leaders there is a \"huge way to go\" ahead of the COP26 climate summit.",
+        "concepts": [
+            {
+                "word": "excuses",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Up to France to end fishing row, says UK",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59109804",
+        "content": "Boris Johnson tells Emmanuel Macron to \"de-escalate the rhetoric\" around the post-Brexit issues.",
+        "placed": "Politics",
+        "epoch": 1635706804.311401,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "Up to France to end fishing row, says UK",
+        "en_content": "Boris Johnson tells Emmanuel Macron to \"de-escalate the rhetoric\" around the post-Brexit issues.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59110765",
+        "content": "The COP26 president has been addressing delegates on day one of the climate summit in Glasgow.",
+        "placed": "Politics",
+        "epoch": 1635706804.3114204,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "Political editor",
+        "en_content": "The COP26 president has been addressing delegates on day one of the climate summit in Glasgow.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "'Window closing' on 1.5C target - Alok Sharma",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-59109186",
+        "content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "placed": "Politics",
+        "epoch": 1635706804.3114388,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "'Window closing' on 1.5C target - Alok Sharma",
+        "en_content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "concepts": [
+            {
+                "word": "Window",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "closing",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "target",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Alok",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sharma",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "G20 pledge climate action but make few commitments",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088563",
+        "content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "placed": "Politics",
+        "epoch": 1635706804.3114564,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "G20 pledge climate action but make few commitments",
+        "en_content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledge",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "commitments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59113676",
+        "content": "Boris Johnson warns world leaders there is a \"huge way to go\" ahead of the COP26 climate summit.",
+        "placed": "Politics",
+        "epoch": 1635706804.3114738,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "Political editor",
+        "en_content": "Boris Johnson warns world leaders there is a \"huge way to go\" ahead of the COP26 climate summit.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Disgraced MP back in Conservative Party on Monday",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59109804",
+        "content": "Boris Johnson tells Emmanuel Macron to \"de-escalate the rhetoric\" around the post-Brexit issues.",
+        "placed": "Politics",
+        "epoch": 1635706804.311491,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "Disgraced MP back in Conservative Party on Monday",
+        "en_content": "Boris Johnson tells Emmanuel Macron to \"de-escalate the rhetoric\" around the post-Brexit issues.",
+        "concepts": [
+            {
+                "word": "Disgraced",
+                "meaning": "amod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "Conservative",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Monday",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "No excuses for not tackling climate change - Johnson",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59110765",
+        "content": "The COP26 president has been addressing delegates on day one of the climate summit in Glasgow.",
+        "placed": "Politics",
+        "epoch": 1635706804.3115075,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "No excuses for not tackling climate change - Johnson",
+        "en_content": "The COP26 president has been addressing delegates on day one of the climate summit in Glasgow.",
+        "concepts": [
+            {
+                "word": "excuses",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Up to France to end fishing row, says UK",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-59109186",
+        "content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "placed": "Politics",
+        "epoch": 1635706804.3115244,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "Up to France to end fishing row, says UK",
+        "en_content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date_raw": "2021-10-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59088563",
+        "content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "placed": "Politics",
+        "epoch": 1635706804.3115404,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "Political editor",
+        "en_content": "Rob Roberts, who was suspended for sexually harassing a staff member, will be readmitted in days.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "'Window closing' on 1.5C target - Alok Sharma",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59109804",
+        "content": "Boris Johnson tells Emmanuel Macron to \"de-escalate the rhetoric\" around the post-Brexit issues.",
+        "placed": "Politics",
+        "epoch": 1635706804.3115563,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "'Window closing' on 1.5C target - Alok Sharma",
+        "en_content": "Boris Johnson tells Emmanuel Macron to \"de-escalate the rhetoric\" around the post-Brexit issues.",
+        "concepts": [
+            {
+                "word": "Window",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "closing",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "target",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Alok",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sharma",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "G20 pledge climate action but make few commitments",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59110765",
+        "content": "The COP26 president has been addressing delegates on day one of the climate summit in Glasgow.",
+        "placed": "Politics",
+        "epoch": 1635706804.3115723,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.04E1635706804.3115869.json",
+        "en_title": "G20 pledge climate action but make few commitments",
+        "en_content": "The COP26 president has been addressing delegates on day one of the climate summit in Glasgow.",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledge",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "commitments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

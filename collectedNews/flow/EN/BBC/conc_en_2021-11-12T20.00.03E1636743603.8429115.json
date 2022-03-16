@@ -1,0 +1,685 @@
+[
+    {
+        "title": "Climate talks into overtime as nations grasp for deal",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/uk-59253838",
+        "content": "Boris Johnson has called on richer countries to \"put more cash on the table\" to secure an agreement at COP26.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8425674,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "Climate talks into overtime as nations grasp for deal",
+        "en_content": "Boris Johnson has called on richer countries to \"put more cash on the table\" to secure an agreement at COP26.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "overtime",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate talks into overtime as nations grasp for deal",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/uk-59253838",
+        "content": "Boris Johnson has called on richer countries to \"put more cash on the table\" to secure an agreement at COP26.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8425994,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "Climate talks into overtime as nations grasp for deal",
+        "en_content": "Boris Johnson has called on richer countries to \"put more cash on the table\" to secure an agreement at COP26.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "overtime",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dutch partial lockdown to tackle Covid surge",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59258409",
+        "content": "The measures will last three weeks, while Austria plans a lockdown for the unvaccinated.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8426206,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "Dutch partial lockdown to tackle Covid surge",
+        "en_content": "The measures will last three weeks, while Austria plans a lockdown for the unvaccinated.",
+        "concepts": [
+            {
+                "word": "lockdown",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surge",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "UK bucks Europe Covid trend but concern over winter",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59262701",
+        "content": "New infections remain steady in the UK, but there's worry over rising cases in mainland Europe.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8426385,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "UK bucks Europe Covid trend but concern over winter",
+        "en_content": "New infections remain steady in the UK, but there's worry over rising cases in mainland Europe.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bucks",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Europe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trend",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "concern",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "winter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US police officer sues boss over KKK note",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59260704",
+        "content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "placed": "First_Page",
+        "epoch": 1636743603.842655,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "US police officer sues boss over KKK note",
+        "en_content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "officer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boss",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "KKK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "note",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "France probes alleged rape at presidential palace",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59262811",
+        "content": "Local media report prosecutors are investigating the alleged rape of a soldier at the Élysée palace.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8426707,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "France probes alleged rape at presidential palace",
+        "en_content": "Local media report prosecutors are investigating the alleged rape of a soldier at the Élysée palace.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rape",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "palace",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "TikTok supermarket star lands dream West End role",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-berkshire-59260899",
+        "content": "Hannah Lowther began singing on social media when she took a job in a supermarket during lockdown.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8426857,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "TikTok supermarket star lands dream West End role",
+        "en_content": "Hannah Lowther began singing on social media when she took a job in a supermarket during lockdown.",
+        "concepts": [
+            {
+                "word": "supermarket",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dream",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "West",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "End",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "role",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Turkey pulls Belarus flights to ease migrant crisis",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59266209",
+        "content": "Turkey has stopped all citizens from Iraq, Syria and Yemen from flying from Turkey to Belarus.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8427005,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "Turkey pulls Belarus flights to ease migrant crisis",
+        "en_content": "Turkey has stopped all citizens from Iraq, Syria and Yemen from flying from Turkey to Belarus.",
+        "concepts": [
+            {
+                "word": "Turkey",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "flights",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crisis",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "French teenage jogger admits lying about kidnap",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59266211",
+        "content": "The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8427193,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "French teenage jogger admits lying about kidnap",
+        "en_content": "The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France.",
+        "concepts": [
+            {
+                "word": "jogger",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "kidnap",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Coal compromise as leaders near climate deal",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59221790",
+        "content": "All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8427346,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "Coal compromise as leaders near climate deal",
+        "en_content": "All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours.",
+        "concepts": [
+            {
+                "word": "Coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "compromise",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "AstraZeneca to take profits from Covid vaccine",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59256223",
+        "content": "The drugs giant signs new deals, but poorer countries will continue to get the vaccine at cost price.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8427496,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "AstraZeneca to take profits from Covid vaccine",
+        "en_content": "The drugs giant signs new deals, but poorer countries will continue to get the vaccine at cost price.",
+        "concepts": [
+            {
+                "word": "AstraZeneca",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "profits",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Britney hoping to be released from conservatorship",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59217825",
+        "content": "The pop star, 39, has asked a court to terminate the guardianship, which was set up by her father.",
+        "placed": "First_Page",
+        "epoch": 1636743603.842765,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "Britney hoping to be released from conservatorship",
+        "en_content": "The pop star, 39, has asked a court to terminate the guardianship, which was set up by her father.",
+        "concepts": [
+            {
+                "word": "Britney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conservatorship",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "AstraZeneca to take profits from Covid vaccine",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59256223",
+        "content": "The drugs giant signs new deals, but poorer countries will continue to get the vaccine at cost price.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8427873,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "AstraZeneca to take profits from Covid vaccine",
+        "en_content": "The drugs giant signs new deals, but poorer countries will continue to get the vaccine at cost price.",
+        "concepts": [
+            {
+                "word": "AstraZeneca",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "profits",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Britney hoping to be released from conservatorship",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59217825",
+        "content": "The pop star, 39, has asked a court to terminate the guardianship, which was set up by her father.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8428109,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "Britney hoping to be released from conservatorship",
+        "en_content": "The pop star, 39, has asked a court to terminate the guardianship, which was set up by her father.",
+        "concepts": [
+            {
+                "word": "Britney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conservatorship",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Austrians heading for lockdown for unvaccinated",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59245018",
+        "content": "The measures comes as record infections are reported in Austria, Germany and the Netherlands.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8428261,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "Austrians heading for lockdown for unvaccinated",
+        "en_content": "The measures comes as record infections are reported in Austria, Germany and the Netherlands.",
+        "concepts": [
+            {
+                "word": "Austrians",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Portugal bans bosses texting staff after-hours",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59263300",
+        "content": "The move is part of sweeping labour laws to regulate the country's expansion of home-working.",
+        "placed": "First_Page",
+        "epoch": 1636743603.842841,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "Portugal bans bosses texting staff after-hours",
+        "en_content": "The move is part of sweeping labour laws to regulate the country's expansion of home-working.",
+        "concepts": [
+            {
+                "word": "Portugal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bosses",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "texting",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "staff",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hours",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden tightens restrictions on Huawei and ZTE",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/technology-59262329",
+        "content": "A new law stops companies judged to be a security threat receiving telecoms equipment licences.",
+        "placed": "First_Page",
+        "epoch": 1636743603.8428593,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "Biden tightens restrictions on Huawei and ZTE",
+        "en_content": "A new law stops companies judged to be a security threat receiving telecoms equipment licences.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Huawei",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ZTE",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "How green was the COP26 climate summit?",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59248023",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1636743603.8428738,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "How green was the COP26 climate summit?",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "COP26",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Climate summit: Daily briefing",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59247795",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1636743603.842888,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T20.00.03E1636743603.8429115.json",
+        "en_title": "Climate summit: Daily briefing",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

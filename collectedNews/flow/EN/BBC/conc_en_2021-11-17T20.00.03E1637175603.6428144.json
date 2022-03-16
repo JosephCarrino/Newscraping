@@ -1,0 +1,708 @@
+[
+    {
+        "title": "Canada storm linked to climate change - minister",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59324764",
+        "content": "Mike Farnworth says he has \"no doubt these are climate-related events\", as at least one person dies.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6425161,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Canada storm linked to climate change - minister",
+        "en_content": "Mike Farnworth says he has \"no doubt these are climate-related events\", as at least one person dies.",
+        "concepts": [
+            {
+                "word": "Canada",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "storm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "change",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Canada storm linked to climate change - minister",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59324764",
+        "content": "Mike Farnworth says he has \"no doubt these are climate-related events\", as at least one person dies.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6425452,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Canada storm linked to climate change - minister",
+        "en_content": "Mike Farnworth says he has \"no doubt these are climate-related events\", as at least one person dies.",
+        "concepts": [
+            {
+                "word": "Canada",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "storm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "change",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Germany hit by full force of Covid, warns Merkel",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59320515",
+        "content": "The chancellor speaks of a dramatic situation as European governments respond to a surge in cases.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6425655,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Germany hit by full force of Covid, warns Merkel",
+        "en_content": "The chancellor speaks of a dramatic situation as European governments respond to a surge in cases.",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "force",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US annual drug overdose deaths hit record levels",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59253091",
+        "content": "Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6425822,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "US annual drug overdose deaths hit record levels",
+        "en_content": "Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "overdose",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "record",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "levels",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Belarus moves migrants stuck in border stand-off",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59317306",
+        "content": "About 1,000 migrants are offered shelter from the cold after camping at the Belarus-Poland border.",
+        "placed": "Abroad",
+        "epoch": 1637175603.642598,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Belarus moves migrants stuck in border stand-off",
+        "en_content": "About 1,000 migrants are offered shelter from the cold after camping at the Belarus-Poland border.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "off",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Capitol riot: 'QAnon Shaman' sentenced to prison",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59253090",
+        "content": "Jacob Chansley became one of the most recognisable figures from the 6 January siege on the Capitol.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6426136,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Capitol riot: 'QAnon Shaman' sentenced to prison",
+        "en_content": "Jacob Chansley became one of the most recognisable figures from the 6 January siege on the Capitol.",
+        "concepts": [
+            {
+                "word": "Capitol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "riot",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "QAnon",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shaman",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prison",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tourists pay price for sneaky Colosseum beer",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59325398",
+        "content": "A pair of American visitors are fined for sneaking into Rome's Colosseum for a beer with a view.",
+        "placed": "Abroad",
+        "epoch": 1637175603.642629,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Tourists pay price for sneaky Colosseum beer",
+        "en_content": "A pair of American visitors are fined for sneaking into Rome's Colosseum for a beer with a view.",
+        "concepts": [
+            {
+                "word": "Tourists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "price",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Colosseum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "beer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Britney Spears: Life after conservatorship",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59322526",
+        "content": "Britney Spears has posted a video on her social media platforms answering questions following the termination of the conservatorship.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6426456,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Britney Spears: Life after conservatorship",
+        "en_content": "Britney Spears has posted a video on her social media platforms answering questions following the termination of the conservatorship.",
+        "concepts": [
+            {
+                "word": "Britney",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Spears",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Life",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "conservatorship",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Canada storm linked to climate change - minister",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59324764",
+        "content": "Mike Farnworth says he has \"no doubt these are climate-related events\", as at least one person dies.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6426618,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Canada storm linked to climate change - minister",
+        "en_content": "Mike Farnworth says he has \"no doubt these are climate-related events\", as at least one person dies.",
+        "concepts": [
+            {
+                "word": "Canada",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "storm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "change",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Germany hit by full force of Covid, warns Merkel",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59320515",
+        "content": "The chancellor speaks of a dramatic situation as European governments respond to a surge in cases.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6426766,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Germany hit by full force of Covid, warns Merkel",
+        "en_content": "The chancellor speaks of a dramatic situation as European governments respond to a surge in cases.",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "force",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US annual drug overdose deaths hit record levels",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59253091",
+        "content": "Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6426914,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "US annual drug overdose deaths hit record levels",
+        "en_content": "Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "overdose",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "record",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "levels",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Belarus moves migrants stuck in border stand-off",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59317306",
+        "content": "About 1,000 migrants are offered shelter from the cold after camping at the Belarus-Poland border.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6427062,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Belarus moves migrants stuck in border stand-off",
+        "en_content": "About 1,000 migrants are offered shelter from the cold after camping at the Belarus-Poland border.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "off",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Capitol riot: 'QAnon Shaman' sentenced to prison",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59253090",
+        "content": "Jacob Chansley became one of the most recognisable figures from the 6 January siege on the Capitol.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6427217,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Capitol riot: 'QAnon Shaman' sentenced to prison",
+        "en_content": "Jacob Chansley became one of the most recognisable figures from the 6 January siege on the Capitol.",
+        "concepts": [
+            {
+                "word": "Capitol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "riot",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "QAnon",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shaman",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prison",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tourists pay price for sneaky Colosseum beer",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59325398",
+        "content": "A pair of American visitors are fined for sneaking into Rome's Colosseum for a beer with a view.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6427407,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Tourists pay price for sneaky Colosseum beer",
+        "en_content": "A pair of American visitors are fined for sneaking into Rome's Colosseum for a beer with a view.",
+        "concepts": [
+            {
+                "word": "Tourists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "price",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Colosseum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "beer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Britney Spears: Life after conservatorship",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59322526",
+        "content": "Britney Spears has posted a video on her social media platforms answering questions following the termination of the conservatorship.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6427574,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Britney Spears: Life after conservatorship",
+        "en_content": "Britney Spears has posted a video on her social media platforms answering questions following the termination of the conservatorship.",
+        "concepts": [
+            {
+                "word": "Britney",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Spears",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Life",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "conservatorship",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Germany hit by full force of Covid, warns Merkel",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59320515",
+        "content": "The chancellor speaks of a dramatic situation as European governments respond to a surge in cases.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6427653,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Germany hit by full force of Covid, warns Merkel",
+        "en_content": "The chancellor speaks of a dramatic situation as European governments respond to a surge in cases.",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "force",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US annual drug overdose deaths hit record levels",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59253091",
+        "content": "Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise.",
+        "placed": "Abroad",
+        "epoch": 1637175603.6427855,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "US annual drug overdose deaths hit record levels",
+        "en_content": "Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "overdose",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "record",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "levels",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Belarus moves migrants stuck in border stand-off",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59317306",
+        "content": "About 1,000 migrants are offered shelter from the cold after camping at the Belarus-Poland border.",
+        "placed": "Abroad",
+        "epoch": 1637175603.642801,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-17T20.00.03E1637175603.6428144.json",
+        "en_title": "Belarus moves migrants stuck in border stand-off",
+        "en_content": "About 1,000 migrants are offered shelter from the cold after camping at the Belarus-Poland border.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "off",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

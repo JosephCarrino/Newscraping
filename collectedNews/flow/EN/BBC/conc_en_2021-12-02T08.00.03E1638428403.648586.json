@@ -1,0 +1,725 @@
+[
+    {
+        "title": "Scientists find trigger for rare AstraZeneca clots",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59418123",
+        "content": "Researchers in Cardiff and the US work out how the Covid jab may be linked to the extremely rare clots.",
+        "placed": "First_Page",
+        "epoch": 1638428403.6482837,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Scientists find trigger for rare AstraZeneca clots",
+        "en_content": "Researchers in Cardiff and the US work out how the Covid jab may be linked to the extremely rare clots.",
+        "concepts": [
+            {
+                "word": "Scientists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trigger",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "AstraZeneca",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "clots",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Scientists find trigger for rare AstraZeneca clots",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59418123",
+        "content": "Researchers in Cardiff and the US work out how the Covid jab may be linked to the extremely rare clots.",
+        "placed": "First_Page",
+        "epoch": 1638428403.6483185,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Scientists find trigger for rare AstraZeneca clots",
+        "en_content": "Researchers in Cardiff and the US work out how the Covid jab may be linked to the extremely rare clots.",
+        "concepts": [
+            {
+                "word": "Scientists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trigger",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "AstraZeneca",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "clots",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Top US judges signal support for abortion limits",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59495210",
+        "content": "The court's eventual ruling may cut off abortion access for tens of millions of American women.",
+        "placed": "First_Page",
+        "epoch": 1638428403.6483393,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Top US judges signal support for abortion limits",
+        "en_content": "The court's eventual ruling may cut off abortion access for tens of millions of American women.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "judges",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "support",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "limits",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "WTA suspends China tournaments over Peng Shuai",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/tennis/59498779",
+        "content": "The WTA announces the immediate suspension amid concern for Chinese tennis player Peng Shuai.",
+        "placed": "First_Page",
+        "epoch": 1638428403.6483572,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "WTA suspends China tournaments over Peng Shuai",
+        "en_content": "The WTA announces the immediate suspension amid concern for Chinese tennis player Peng Shuai.",
+        "concepts": [
+            {
+                "word": "WTA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tournaments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shuai",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ghislaine Maxwell a 'master manipulator'",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59498832",
+        "content": "The BBC spoke to Teresa Helm, who accused Epstein of sexually assaulting her at the age of 22.",
+        "placed": "First_Page",
+        "epoch": 1638428403.648369,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Ghislaine Maxwell a 'master manipulator'",
+        "en_content": "The BBC spoke to Teresa Helm, who accused Epstein of sexually assaulting her at the age of 22.",
+        "concepts": [
+            {
+                "word": "Ghislaine",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maxwell",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "master",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "manipulator",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Alec Baldwin says he didn't fire gun on film set",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59499237",
+        "content": "\"I didn't pull the trigger,\" says the star, in his first interview about a fatal accident on his film set.",
+        "placed": "First_Page",
+        "epoch": 1638428403.6483855,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Alec Baldwin says he didn't fire gun on film set",
+        "en_content": "\"I didn't pull the trigger,\" says the star, in his first interview about a fatal accident on his film set.",
+        "concepts": [
+            {
+                "word": "Alec",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fire",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "gun",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "film",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Michigan school shooter charged as an adult",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59498167",
+        "content": "The 15-year-old killed four students in an \"absolutely premeditated\" attack, say prosecutors.",
+        "placed": "First_Page",
+        "epoch": 1638428403.6484005,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Michigan school shooter charged as an adult",
+        "en_content": "The 15-year-old killed four students in an \"absolutely premeditated\" attack, say prosecutors.",
+        "concepts": [
+            {
+                "word": "Michigan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shooter",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "adult",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Canadian MPs vote to ban LGBT 'conversion therapy'",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59500095",
+        "content": "MPs cross the aisle to shake hands with and even hug their counterparts as the bill is passed.",
+        "placed": "First_Page",
+        "epoch": 1638428403.6484156,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Canadian MPs vote to ban LGBT 'conversion therapy'",
+        "en_content": "MPs cross the aisle to shake hands with and even hug their counterparts as the bill is passed.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vote",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "LGBT",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conversion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "therapy",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Disney elects woman as chairman for first time",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59500682",
+        "content": "Susan Arnold, who has been a board member for 14 years, will succeed Bob Iger at the end of the year.",
+        "placed": "First_Page",
+        "epoch": 1638428403.64843,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Disney elects woman as chairman for first time",
+        "en_content": "Susan Arnold, who has been a board member for 14 years, will succeed Bob Iger at the end of the year.",
+        "concepts": [
+            {
+                "word": "Disney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "woman",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "chairman",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "time",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Facebook uncovers China network behind fake expert",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59456548",
+        "content": "It deleted 500 accounts which amplified claims that the US was meddling in the Covid origins search.",
+        "placed": "First_Page",
+        "epoch": 1638428403.648445,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Facebook uncovers China network behind fake expert",
+        "en_content": "It deleted 500 accounts which amplified claims that the US was meddling in the Covid origins search.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "uncovers",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "network",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "expert",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia minister stood aside over abuse claims",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59501182",
+        "content": "Mr Tudge's ex-staffer said she had experienced bullying during their consensual affair in 2017.",
+        "placed": "First_Page",
+        "epoch": 1638428403.6484592,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Australia minister stood aside over abuse claims",
+        "en_content": "Mr Tudge's ex-staffer said she had experienced bullying during their consensual affair in 2017.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abuse",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claims",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Doctor fined for amputating wrong leg of patient",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59498082",
+        "content": "The patient's right leg was removed instead of his left, with the mistake discovered two days later.",
+        "placed": "First_Page",
+        "epoch": 1638428403.648473,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Doctor fined for amputating wrong leg of patient",
+        "en_content": "The patient's right leg was removed instead of his left, with the mistake discovered two days later.",
+        "concepts": [
+            {
+                "word": "Doctor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "leg",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "patient",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia minister stood aside over abuse claims",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59501182",
+        "content": "Mr Tudge's ex-staffer said she had experienced bullying during their consensual affair in 2017.",
+        "placed": "First_Page",
+        "epoch": 1638428403.6484873,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Australia minister stood aside over abuse claims",
+        "en_content": "Mr Tudge's ex-staffer said she had experienced bullying during their consensual affair in 2017.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abuse",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claims",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Doctor fined for amputating wrong leg of patient",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59498082",
+        "content": "The patient's right leg was removed instead of his left, with the mistake discovered two days later.",
+        "placed": "First_Page",
+        "epoch": 1638428403.6485019,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Doctor fined for amputating wrong leg of patient",
+        "en_content": "The patient's right leg was removed instead of his left, with the mistake discovered two days later.",
+        "concepts": [
+            {
+                "word": "Doctor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "leg",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "patient",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden puts faith in Santa amid supply chain woes",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59500093",
+        "content": "The US president says only Father Christmas can ensure every gift is delivered amid supply chain woes.",
+        "placed": "First_Page",
+        "epoch": 1638428403.648516,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Biden puts faith in Santa amid supply chain woes",
+        "en_content": "The US president says only Father Christmas can ensure every gift is delivered amid supply chain woes.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "faith",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Santa",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "supply",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chain",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Argentina's ex-president charged in spying case",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59500496",
+        "content": "Mauricio Macri denies ordering the spying on relatives of the victims of a 2017 submarine disaster.",
+        "placed": "First_Page",
+        "epoch": 1638428403.648524,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Argentina's ex-president charged in spying case",
+        "en_content": "Mauricio Macri denies ordering the spying on relatives of the victims of a 2017 submarine disaster.",
+        "concepts": [
+            {
+                "word": "Argentina",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ex",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "president",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Match to pay Tinder founders $441m in legal battle",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59497392",
+        "content": "Dating app Tinder's founders claimed in court that Match had undervalued the firm by $10bn in 2017.",
+        "placed": "First_Page",
+        "epoch": 1638428403.648538,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Match to pay Tinder founders $441m in legal battle",
+        "en_content": "Dating app Tinder's founders claimed in court that Match had undervalued the firm by $10bn in 2017.",
+        "concepts": [
+            {
+                "word": "Tinder",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "founders",
+                "meaning": "dative",
+                "pos": "VERB"
+            },
+            {
+                "word": "battle",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Venezuela's hospital 'hell'",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59498152",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638428403.6485524,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "Venezuela's hospital 'hell'",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Venezuela",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hospital",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hell",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638428403.6485665,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.648586.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

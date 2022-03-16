@@ -1,0 +1,562 @@
+[
+    {
+        "title": "PM's press chief spoke at No 10 party last year",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59601447",
+        "content": "Jack Doyle gave a speech and handed out awards at the gathering on 18 December, it is understood.",
+        "placed": "Politics",
+        "epoch": 1639119603.2864904,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "PM's press chief spoke at No 10 party last year",
+        "en_content": "Jack Doyle gave a speech and handed out awards at the gathering on 18 December, it is understood.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "press",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM's press chief spoke at No 10 party last year",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59601447",
+        "content": "Jack Doyle gave a speech and handed out awards at the gathering on 18 December, it is understood.",
+        "placed": "Politics",
+        "epoch": 1639119603.2865205,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "PM's press chief spoke at No 10 party last year",
+        "en_content": "Jack Doyle gave a speech and handed out awards at the gathering on 18 December, it is understood.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "press",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59599310",
+        "content": "\"Double-whammy\" tax hike warning as BBC finds council tax set to increase in many areas of England.",
+        "placed": "Politics",
+        "epoch": 1639119603.2865424,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "Political editor",
+        "en_content": "\"Double-whammy\" tax hike warning as BBC finds council tax set to increase in many areas of England.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Dozens of English councils eyeing council tax rise",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59591917",
+        "content": "Labour accuses the PM of lying about a donation, as the Tories are fined for failing to properly declare it.",
+        "placed": "Politics",
+        "epoch": 1639119603.2865622,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "Dozens of English councils eyeing council tax rise",
+        "en_content": "Labour accuses the PM of lying about a donation, as the Tories are fined for failing to properly declare it.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "councils",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "council",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tax",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rise",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM faces fresh questions over flat revamp costs",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59600519",
+        "content": "The people who held or went to unlawful gatherings on 18 December last year saw their cases end in fines.",
+        "placed": "Politics",
+        "epoch": 1639119603.2865806,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "PM faces fresh questions over flat revamp costs",
+        "en_content": "The people who held or went to unlawful gatherings on 18 December last year saw their cases end in fines.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "questions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "revamp",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "costs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Three fined for parties on same day as No 10 event",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-essex-59596499",
+        "content": "Charlie Sansom, of South Basildon Conservatives, tells BBC Essex he disagrees with tighter rules.",
+        "placed": "Politics",
+        "epoch": 1639119603.2865982,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "Three fined for parties on same day as No 10 event",
+        "en_content": "Charlie Sansom, of South Basildon Conservatives, tells BBC Essex he disagrees with tighter rules.",
+        "concepts": [
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "day",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "event",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tory group chairman resigns live on BBC radio",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59601275",
+        "content": "The three ministers came into close contact with Australia's deputy PM, who was later diagnosed with Covid.",
+        "placed": "Politics",
+        "epoch": 1639119603.2866158,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "Tory group chairman resigns live on BBC radio",
+        "en_content": "The three ministers came into close contact with Australia's deputy PM, who was later diagnosed with Covid.",
+        "concepts": [
+            {
+                "word": "Tory",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "group",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chairman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "radio",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Gove, Shapps and Raab self-isolate after meeting",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59601447",
+        "content": "Jack Doyle gave a speech and handed out awards at the gathering on 18 December, it is understood.",
+        "placed": "Politics",
+        "epoch": 1639119603.2866323,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "Gove, Shapps and Raab self-isolate after meeting",
+        "en_content": "Jack Doyle gave a speech and handed out awards at the gathering on 18 December, it is understood.",
+        "concepts": [
+            {
+                "word": "Gove",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shapps",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Raab",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "self",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "isolate",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "PM's press chief spoke at No 10 party last year",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59599310",
+        "content": "\"Double-whammy\" tax hike warning as BBC finds council tax set to increase in many areas of England.",
+        "placed": "Politics",
+        "epoch": 1639119603.2866483,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "PM's press chief spoke at No 10 party last year",
+        "en_content": "\"Double-whammy\" tax hike warning as BBC finds council tax set to increase in many areas of England.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "press",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59591917",
+        "content": "Labour accuses the PM of lying about a donation, as the Tories are fined for failing to properly declare it.",
+        "placed": "Politics",
+        "epoch": 1639119603.2866642,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "Political editor",
+        "en_content": "Labour accuses the PM of lying about a donation, as the Tories are fined for failing to properly declare it.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Dozens of English councils eyeing council tax rise",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59600519",
+        "content": "The people who held or went to unlawful gatherings on 18 December last year saw their cases end in fines.",
+        "placed": "Politics",
+        "epoch": 1639119603.2866805,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "Dozens of English councils eyeing council tax rise",
+        "en_content": "The people who held or went to unlawful gatherings on 18 December last year saw their cases end in fines.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "councils",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "council",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tax",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rise",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM faces fresh questions over flat revamp costs",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-essex-59596499",
+        "content": "Charlie Sansom, of South Basildon Conservatives, tells BBC Essex he disagrees with tighter rules.",
+        "placed": "Politics",
+        "epoch": 1639119603.286697,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "PM faces fresh questions over flat revamp costs",
+        "en_content": "Charlie Sansom, of South Basildon Conservatives, tells BBC Essex he disagrees with tighter rules.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "questions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "revamp",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "costs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Three fined for parties on same day as No 10 event",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59601275",
+        "content": "The three ministers came into close contact with Australia's deputy PM, who was later diagnosed with Covid.",
+        "placed": "Politics",
+        "epoch": 1639119603.2867134,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "Three fined for parties on same day as No 10 event",
+        "en_content": "The three ministers came into close contact with Australia's deputy PM, who was later diagnosed with Covid.",
+        "concepts": [
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "day",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "event",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tory group chairman resigns live on BBC radio",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59599310",
+        "content": "\"Double-whammy\" tax hike warning as BBC finds council tax set to increase in many areas of England.",
+        "placed": "Politics",
+        "epoch": 1639119603.28673,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "Tory group chairman resigns live on BBC radio",
+        "en_content": "\"Double-whammy\" tax hike warning as BBC finds council tax set to increase in many areas of England.",
+        "concepts": [
+            {
+                "word": "Tory",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "group",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chairman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "radio",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Gove, Shapps and Raab self-isolate after meeting",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59591917",
+        "content": "Labour accuses the PM of lying about a donation, as the Tories are fined for failing to properly declare it.",
+        "placed": "Politics",
+        "epoch": 1639119603.2867472,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T08.00.03E1639119603.2867599.json",
+        "en_title": "Gove, Shapps and Raab self-isolate after meeting",
+        "en_content": "Labour accuses the PM of lying about a donation, as the Tories are fined for failing to properly declare it.",
+        "concepts": [
+            {
+                "word": "Gove",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shapps",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Raab",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "self",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "isolate",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    }
+]

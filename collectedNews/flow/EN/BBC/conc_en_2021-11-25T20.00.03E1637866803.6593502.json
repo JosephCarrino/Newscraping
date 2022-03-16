@@ -1,0 +1,658 @@
+[
+    {
+        "title": "Channel deaths were avoidable - UN",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/world-europe-59406632",
+        "content": "The UN says it warned closing off legal routes to people applying for asylum could lead to more deaths.",
+        "placed": "Abroad",
+        "epoch": 1637866803.659079,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Channel deaths were avoidable - UN",
+        "en_content": "The UN says it warned closing off legal routes to people applying for asylum could lead to more deaths.",
+        "concepts": [
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "UN",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Channel deaths were avoidable - UN",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/world-europe-59406632",
+        "content": "The UN says it warned closing off legal routes to people applying for asylum could lead to more deaths.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6591055,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Channel deaths were avoidable - UN",
+        "en_content": "The UN says it warned closing off legal routes to people applying for asylum could lead to more deaths.",
+        "concepts": [
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "UN",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "More people cross the Channel after deadliest day",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59412329",
+        "content": "Around 40 migrants arrived in Dover this morning but strong winds halt crossings in the afternoon.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6591208,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "More people cross the Channel after deadliest day",
+        "en_content": "Around 40 migrants arrived in Dover this morning but strong winds halt crossings in the afternoon.",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Channel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Baby Yoda soars over New York for Thanksgiving",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59423297",
+        "content": "Thousands turn out to enjoy the annual parade with millions more watching on television.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6591396,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Baby Yoda soars over New York for Thanksgiving",
+        "en_content": "Thousands turn out to enjoy the annual parade with millions more watching on television.",
+        "concepts": [
+            {
+                "word": "Baby",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Yoda",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "York",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Thanksgiving",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Russian troop build-up: View from Ukraine front line",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59402658",
+        "content": "BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6591566,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Russian troop build-up: View from Ukraine front line",
+        "en_content": "BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements.",
+        "concepts": [
+            {
+                "word": "troop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "build",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "up",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "View",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "line",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Rescuers among the dead in Siberian mine accident",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59421319",
+        "content": "The bodies of three rescuers are found hours after a fire filled the mine with smoke, killing 11.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6591728,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Rescuers among the dead in Siberian mine accident",
+        "en_content": "The bodies of three rescuers are found hours after a fire filled the mine with smoke, killing 11.",
+        "concepts": [
+            {
+                "word": "Rescuers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "accident",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia sends troops to riot-hit Solomon Islands",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59412000",
+        "content": "Violent riots have rocked the Pacific Island nation for a second straight day.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6591878,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Australia sends troops to riot-hit Solomon Islands",
+        "en_content": "Violent riots have rocked the Pacific Island nation for a second straight day.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "troops",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "riot",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Solomon",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Islands",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "New Interpol chief accused of torture",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59417409",
+        "content": "Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6592023,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "New Interpol chief accused of torture",
+        "en_content": "Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces.",
+        "concepts": [
+            {
+                "word": "Interpol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "torture",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Channel deaths were avoidable - UN",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/world-europe-59406632",
+        "content": "The UN says it warned closing off legal routes to people applying for asylum could lead to more deaths.",
+        "placed": "Abroad",
+        "epoch": 1637866803.659217,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Channel deaths were avoidable - UN",
+        "en_content": "The UN says it warned closing off legal routes to people applying for asylum could lead to more deaths.",
+        "concepts": [
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "UN",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "More people cross the Channel after deadliest day",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59412329",
+        "content": "Around 40 migrants arrived in Dover this morning but strong winds halt crossings in the afternoon.",
+        "placed": "Abroad",
+        "epoch": 1637866803.659225,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "More people cross the Channel after deadliest day",
+        "en_content": "Around 40 migrants arrived in Dover this morning but strong winds halt crossings in the afternoon.",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Channel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Baby Yoda soars over New York for Thanksgiving",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59423297",
+        "content": "Thousands turn out to enjoy the annual parade with millions more watching on television.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6592405,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Baby Yoda soars over New York for Thanksgiving",
+        "en_content": "Thousands turn out to enjoy the annual parade with millions more watching on television.",
+        "concepts": [
+            {
+                "word": "Baby",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Yoda",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "York",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Thanksgiving",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Russian troop build-up: View from Ukraine front line",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59402658",
+        "content": "BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6592553,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Russian troop build-up: View from Ukraine front line",
+        "en_content": "BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements.",
+        "concepts": [
+            {
+                "word": "troop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "build",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "up",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "View",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "line",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Rescuers among the dead in Siberian mine accident",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59421319",
+        "content": "The bodies of three rescuers are found hours after a fire filled the mine with smoke, killing 11.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6592696,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Rescuers among the dead in Siberian mine accident",
+        "en_content": "The bodies of three rescuers are found hours after a fire filled the mine with smoke, killing 11.",
+        "concepts": [
+            {
+                "word": "Rescuers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "accident",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia sends troops to riot-hit Solomon Islands",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59412000",
+        "content": "Violent riots have rocked the Pacific Island nation for a second straight day.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6592839,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Australia sends troops to riot-hit Solomon Islands",
+        "en_content": "Violent riots have rocked the Pacific Island nation for a second straight day.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "troops",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "riot",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Solomon",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Islands",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "New Interpol chief accused of torture",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59417409",
+        "content": "Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces.",
+        "placed": "Abroad",
+        "epoch": 1637866803.659298,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "New Interpol chief accused of torture",
+        "en_content": "Ahmed al-Raisi was chosen despite facing claims of complicity in torture by UAE security forces.",
+        "concepts": [
+            {
+                "word": "Interpol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "torture",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "More people cross the Channel after deadliest day",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59412329",
+        "content": "Around 40 migrants arrived in Dover this morning but strong winds halt crossings in the afternoon.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6593127,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "More people cross the Channel after deadliest day",
+        "en_content": "Around 40 migrants arrived in Dover this morning but strong winds halt crossings in the afternoon.",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Channel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Baby Yoda soars over New York for Thanksgiving",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59423297",
+        "content": "Thousands turn out to enjoy the annual parade with millions more watching on television.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6593199,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Baby Yoda soars over New York for Thanksgiving",
+        "en_content": "Thousands turn out to enjoy the annual parade with millions more watching on television.",
+        "concepts": [
+            {
+                "word": "Baby",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Yoda",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "York",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Thanksgiving",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Russian troop build-up: View from Ukraine front line",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59402658",
+        "content": "BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements.",
+        "placed": "Abroad",
+        "epoch": 1637866803.6593354,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T20.00.03E1637866803.6593502.json",
+        "en_title": "Russian troop build-up: View from Ukraine front line",
+        "en_content": "BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements.",
+        "concepts": [
+            {
+                "word": "troop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "build",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "up",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "View",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "line",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

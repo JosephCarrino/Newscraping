@@ -1,0 +1,725 @@
+[
+    {
+        "title": "Pope condemns treatment of migrants in Europe",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59538413",
+        "content": "Visiting a camp in Greece, Francis calls the neglect of migrants the \"shipwreck of civilisation\".",
+        "placed": "First_Page",
+        "epoch": 1638730804.024064,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Pope condemns treatment of migrants in Europe",
+        "en_content": "Visiting a camp in Greece, Francis calls the neglect of migrants the \"shipwreck of civilisation\".",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "treatment",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pope condemns treatment of migrants in Europe",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59538413",
+        "content": "Visiting a camp in Greece, Francis calls the neglect of migrants the \"shipwreck of civilisation\".",
+        "placed": "First_Page",
+        "epoch": 1638730804.024093,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Pope condemns treatment of migrants in Europe",
+        "en_content": "Visiting a camp in Greece, Francis calls the neglect of migrants the \"shipwreck of civilisation\".",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "treatment",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK travel changes too late to stop Omicron - scientist",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59536795",
+        "content": "The return of pre-departure Covid tests for travellers to the UK will come into force on Tuesday.",
+        "placed": "First_Page",
+        "epoch": 1638730804.0241125,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "UK travel changes too late to stop Omicron - scientist",
+        "en_content": "The return of pre-departure Covid tests for travellers to the UK will come into force on Tuesday.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "changes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scientist",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Volcano rescuers face ash as high as rooftops",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59532251",
+        "content": "At least 14 people are dead and dozens injured after Mt Semeru erupted on Indonesia's Java island.",
+        "placed": "First_Page",
+        "epoch": 1638730804.0241294,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Volcano rescuers face ash as high as rooftops",
+        "en_content": "At least 14 people are dead and dozens injured after Mt Semeru erupted on Indonesia's Java island.",
+        "concepts": [
+            {
+                "word": "Volcano",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rescuers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ash",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rooftops",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Military truck rams into group of Myanmar protesters",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59540695",
+        "content": "Several people have been injured during a demonstration against the country's military rulers.",
+        "placed": "First_Page",
+        "epoch": 1638730804.0241456,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Military truck rams into group of Myanmar protesters",
+        "en_content": "Several people have been injured during a demonstration against the country's military rulers.",
+        "concepts": [
+            {
+                "word": "truck",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rams",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "group",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Myanmar",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Veteran Republican leader Bob Dole dies",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-45667690",
+        "content": "Long-serving senator, who recovered from terrible injuries to run for president, dies at 98",
+        "placed": "First_Page",
+        "epoch": 1638730804.0241613,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Veteran Republican leader Bob Dole dies",
+        "en_content": "Long-serving senator, who recovered from terrible injuries to run for president, dies at 98",
+        "concepts": [
+            {
+                "word": "Veteran",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bob",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dole",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Mandatory jabs: Three reasons for and against",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59506339",
+        "content": "Blanket vaccination mandates are on the agenda but do they work and what are their costs?",
+        "placed": "First_Page",
+        "epoch": 1638730804.0241761,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Mandatory jabs: Three reasons for and against",
+        "en_content": "Blanket vaccination mandates are on the agenda but do they work and what are their costs?",
+        "concepts": [
+            {
+                "word": "jabs",
+                "meaning": "dep",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reasons",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Verstappen takes lead for second time after restart in crash-strewn Saudi Arabian GP",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/live/formula1/54911282",
+        "content": "Follow live text and audio commentary of the Saudi Arabian Grand Prix.",
+        "placed": "First_Page",
+        "epoch": 1638730804.0241947,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Verstappen takes lead for second time after restart in crash-strewn Saudi Arabian GP",
+        "en_content": "Follow live text and audio commentary of the Saudi Arabian Grand Prix.",
+        "concepts": [
+            {
+                "word": "Verstappen",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lead",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "time",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "restart",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "crash",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "GP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ocean garbage patch is immense plastic habitat",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59521211",
+        "content": "Researchers discover coastal species living on debris miles from their natural surroundings.",
+        "placed": "First_Page",
+        "epoch": 1638730804.02421,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Ocean garbage patch is immense plastic habitat",
+        "en_content": "Researchers discover coastal species living on debris miles from their natural surroundings.",
+        "concepts": [
+            {
+                "word": "Ocean",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "garbage",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "patch",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "habitat",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "French climber handed Mont Blanc gems after find",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59538540",
+        "content": "The stones are believed to be from an Air India plane which crashed into the mountain in 1966.",
+        "placed": "First_Page",
+        "epoch": 1638730804.0242248,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "French climber handed Mont Blanc gems after find",
+        "en_content": "The stones are believed to be from an Air India plane which crashed into the mountain in 1966.",
+        "concepts": [
+            {
+                "word": "climber",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mont",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Blanc",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gems",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Claims of drug use in UK parliament to be raised with police",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-politics-59539589",
+        "content": "Commons Speaker Sir Lindsay Hoyle says allegations of cocaine taking are \"deeply concerning\".",
+        "placed": "First_Page",
+        "epoch": 1638730804.0242388,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Claims of drug use in UK parliament to be raised with police",
+        "en_content": "Commons Speaker Sir Lindsay Hoyle says allegations of cocaine taking are \"deeply concerning\".",
+        "concepts": [
+            {
+                "word": "Claims",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "use",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "police",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Prince William reveals toll of air ambulance rescues",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59536792",
+        "content": "The Duke of Cambridge recalls taking home other people's \"sadness\" when he was a pilot.",
+        "placed": "First_Page",
+        "epoch": 1638730804.024253,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Prince William reveals toll of air ambulance rescues",
+        "en_content": "The Duke of Cambridge recalls taking home other people's \"sadness\" when he was a pilot.",
+        "concepts": [
+            {
+                "word": "Prince",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "William",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "toll",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ambulance",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rescues",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Claims of drug use in UK parliament to be raised with police",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-politics-59539589",
+        "content": "Commons Speaker Sir Lindsay Hoyle says allegations of cocaine taking are \"deeply concerning\".",
+        "placed": "First_Page",
+        "epoch": 1638730804.0242665,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Claims of drug use in UK parliament to be raised with police",
+        "en_content": "Commons Speaker Sir Lindsay Hoyle says allegations of cocaine taking are \"deeply concerning\".",
+        "concepts": [
+            {
+                "word": "Claims",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "use",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "police",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Prince William reveals toll of air ambulance rescues",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59536792",
+        "content": "The Duke of Cambridge recalls taking home other people's \"sadness\" when he was a pilot.",
+        "placed": "First_Page",
+        "epoch": 1638730804.0242803,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Prince William reveals toll of air ambulance rescues",
+        "en_content": "The Duke of Cambridge recalls taking home other people's \"sadness\" when he was a pilot.",
+        "concepts": [
+            {
+                "word": "Prince",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "William",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "toll",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ambulance",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rescues",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nations denounce Taliban over targeted killings",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59536522",
+        "content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "placed": "First_Page",
+        "epoch": 1638730804.024294,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Nations denounce Taliban over targeted killings",
+        "en_content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "concepts": [
+            {
+                "word": "Nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "killings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Trump social media firm says it has raised $1bn",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59538590",
+        "content": "The former US president is working to launch a social media app called Truth Social early next year.",
+        "placed": "First_Page",
+        "epoch": 1638730804.0243077,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Trump social media firm says it has raised $1bn",
+        "en_content": "The former US president is working to launch a social media app called Truth Social early next year.",
+        "concepts": [
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "firm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Indian forces kill 13 civilians amid ambush blunder",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59531445",
+        "content": "Home Minister Amit Shah expresses \"anguish\" after troops fire on miners in the country's north-east.",
+        "placed": "First_Page",
+        "epoch": 1638730804.024325,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "Indian forces kill 13 civilians amid ambush blunder",
+        "en_content": "Home Minister Amit Shah expresses \"anguish\" after troops fire on miners in the country's north-east.",
+        "concepts": [
+            {
+                "word": "forces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "civilians",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "blunder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'I balanced a Mini on my head'",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-derbyshire-59497332",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638730804.0243418,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "'I balanced a Mini on my head'",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Mini",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "head",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638730804.0243556,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T20.00.04E1638730804.0243795.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

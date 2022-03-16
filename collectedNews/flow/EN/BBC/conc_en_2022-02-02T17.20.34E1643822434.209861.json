@@ -1,0 +1,527 @@
+[
+    {
+        "title": "More Tories come out against PM amid parties row",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60227531",
+        "content": "Two more Tories, including an ex-minister, say they have submitted no-confidence letters in the PM.",
+        "placed": "Politics",
+        "epoch": 1643818834.2099833,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "More Tories come out against PM amid parties row",
+        "en_content": "Two more Tories, including an ex-minister, say they have submitted no-confidence letters in the PM.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "parties",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "More Tories come out against PM amid parties row",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60227531",
+        "content": "Two more Tories, including an ex-minister, say they have submitted no-confidence letters in the PM.",
+        "placed": "Politics",
+        "epoch": 1643818834.2100108,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "More Tories come out against PM amid parties row",
+        "en_content": "Two more Tories, including an ex-minister, say they have submitted no-confidence letters in the PM.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "parties",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Gove unveiling 'levelling up' strategy in Commons",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-politics-60228372",
+        "content": "The government gives itself until 2030 to improve transport, business, housing and education.",
+        "placed": "Politics",
+        "epoch": 1643818834.2100277,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "Gove unveiling 'levelling up' strategy in Commons",
+        "en_content": "The government gives itself until 2030 to improve transport, business, housing and education.",
+        "concepts": [
+            {
+                "word": "strategy",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Commons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'Levelling-up' plan unveiled for UK",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60216307",
+        "content": "The home secretary condemns culture of misogyny and discrimination at Met Police uncovered in a report.",
+        "placed": "Politics",
+        "epoch": 1643818834.2100427,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "'Levelling-up' plan unveiled for UK",
+        "en_content": "The home secretary condemns culture of misogyny and discrimination at Met Police uncovered in a report.",
+        "concepts": [
+            {
+                "word": "Levelling",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Patel 'sickened' by Charing Cross police behaviour",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60229869",
+        "content": "They discussed whether to recruit a new commissioner after controversy over Sarah Everard's case, the BBC is told.",
+        "placed": "Politics",
+        "epoch": 1643818834.2100554,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "Patel 'sickened' by Charing Cross police behaviour",
+        "en_content": "They discussed whether to recruit a new commissioner after controversy over Sarah Everard's case, the BBC is told.",
+        "concepts": [
+            {
+                "word": "Patel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Charing",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cross",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "behaviour",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tensions between Patel and No 10 over Met chief",
+        "date": "2022-02-01",
+        "date_raw": "2022-02-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60229473",
+        "content": "Waiting for Gray was the mantra for Tory MPs wondering about the PM's future. Iain Watson finds out what comes next.",
+        "placed": "Politics",
+        "epoch": 1643818834.2100687,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "Tensions between Patel and No 10 over Met chief",
+        "en_content": "Waiting for Gray was the mantra for Tory MPs wondering about the PM's future. Iain Watson finds out what comes next.",
+        "concepts": [
+            {
+                "word": "Tensions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Patel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Met",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "How long do Tories think Boris Johnson has got?",
+        "date": "2022-02-01",
+        "date_raw": "2022-02-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60220881",
+        "content": "The PM emphasises Western unity as he visits Ukraine amid fears of a Russian invasion.",
+        "placed": "Politics",
+        "epoch": 1643818834.2100818,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "How long do Tories think Boris Johnson has got?",
+        "en_content": "The PM emphasises Western unity as he visits Ukraine amid fears of a Russian invasion.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Boris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Under-pressure Johnson takes to world stage",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60222559",
+        "content": "Two more Tories, including an ex-minister, say they have submitted no-confidence letters in the PM.",
+        "placed": "Politics",
+        "epoch": 1643818834.2100947,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "Under-pressure Johnson takes to world stage",
+        "en_content": "Two more Tories, including an ex-minister, say they have submitted no-confidence letters in the PM.",
+        "concepts": [
+            {
+                "word": "pressure",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "More Tories come out against PM amid parties row",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60227531",
+        "content": "The government gives itself until 2030 to improve transport, business, housing and education.",
+        "placed": "Politics",
+        "epoch": 1643818834.2101068,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "More Tories come out against PM amid parties row",
+        "en_content": "The government gives itself until 2030 to improve transport, business, housing and education.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "parties",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Gove unveiling 'levelling up' strategy in Commons",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-politics-60228372",
+        "content": "The home secretary condemns culture of misogyny and discrimination at Met Police uncovered in a report.",
+        "placed": "Politics",
+        "epoch": 1643818834.2101195,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "Gove unveiling 'levelling up' strategy in Commons",
+        "en_content": "The home secretary condemns culture of misogyny and discrimination at Met Police uncovered in a report.",
+        "concepts": [
+            {
+                "word": "strategy",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Commons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'Levelling-up' plan unveiled for UK",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60216307",
+        "content": "They discussed whether to recruit a new commissioner after controversy over Sarah Everard's case, the BBC is told.",
+        "placed": "Politics",
+        "epoch": 1643818834.2101314,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "'Levelling-up' plan unveiled for UK",
+        "en_content": "They discussed whether to recruit a new commissioner after controversy over Sarah Everard's case, the BBC is told.",
+        "concepts": [
+            {
+                "word": "Levelling",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Patel 'sickened' by Charing Cross police behaviour",
+        "date": "2022-02-01",
+        "date_raw": "2022-02-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60229869",
+        "content": "Waiting for Gray was the mantra for Tory MPs wondering about the PM's future. Iain Watson finds out what comes next.",
+        "placed": "Politics",
+        "epoch": 1643818834.2101433,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "Patel 'sickened' by Charing Cross police behaviour",
+        "en_content": "Waiting for Gray was the mantra for Tory MPs wondering about the PM's future. Iain Watson finds out what comes next.",
+        "concepts": [
+            {
+                "word": "Patel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Charing",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cross",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "behaviour",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tensions between Patel and No 10 over Met chief",
+        "date": "2022-02-01",
+        "date_raw": "2022-02-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60229473",
+        "content": "The PM emphasises Western unity as he visits Ukraine amid fears of a Russian invasion.",
+        "placed": "Politics",
+        "epoch": 1643818834.2101614,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "Tensions between Patel and No 10 over Met chief",
+        "en_content": "The PM emphasises Western unity as he visits Ukraine amid fears of a Russian invasion.",
+        "concepts": [
+            {
+                "word": "Tensions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Patel",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Met",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "How long do Tories think Boris Johnson has got?",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60220881",
+        "content": "The government gives itself until 2030 to improve transport, business, housing and education.",
+        "placed": "Politics",
+        "epoch": 1643818834.2101738,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "How long do Tories think Boris Johnson has got?",
+        "en_content": "The government gives itself until 2030 to improve transport, business, housing and education.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Boris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Under-pressure Johnson takes to world stage",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-60222559",
+        "content": "The home secretary condemns culture of misogyny and discrimination at Met Police uncovered in a report.",
+        "placed": "Politics",
+        "epoch": 1643818834.2101855,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.209861.json",
+        "en_title": "Under-pressure Johnson takes to world stage",
+        "en_content": "The home secretary condemns culture of misogyny and discrimination at Met Police uncovered in a report.",
+        "concepts": [
+            {
+                "word": "pressure",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stage",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

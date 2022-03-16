@@ -1,0 +1,688 @@
+[
+    {
+        "title": "Actor Jussie Smollett guilty of lying about attack",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59599142",
+        "content": "A jury convicted the former Empire actor of five of six counts of felony disorderly conduct.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3569064,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "Actor Jussie Smollett guilty of lying about attack",
+        "en_content": "A jury convicted the former Empire actor of five of six counts of felony disorderly conduct.",
+        "concepts": [
+            {
+                "word": "Actor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jussie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smollett",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Actor Jussie Smollett guilty of lying about attack",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59599142",
+        "content": "A jury convicted the former Empire actor of five of six counts of felony disorderly conduct.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3569624,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "Actor Jussie Smollett guilty of lying about attack",
+        "en_content": "A jury convicted the former Empire actor of five of six counts of felony disorderly conduct.",
+        "concepts": [
+            {
+                "word": "Actor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jussie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smollett",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Putin compares Ukraine war zone to genocide",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59599066",
+        "content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "placed": "Abroad",
+        "epoch": 1639098003.357003,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "Putin compares Ukraine war zone to genocide",
+        "en_content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "war",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "zone",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Macron: China Olympic boycott is insignificant",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59599063",
+        "content": "The French president says some Western countries' refusal to send officials has no useful outcome.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3570259,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "Macron: China Olympic boycott is insignificant",
+        "en_content": "The French president says some Western countries' refusal to send officials has no useful outcome.",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "China",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boycott",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "US Starbucks store votes for labour union",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59588905",
+        "content": "Staff at one branch vote to unionise, the first in the coffee chain's own stores since the 1980s.",
+        "placed": "Abroad",
+        "epoch": 1639098003.357045,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "US Starbucks store votes for labour union",
+        "en_content": "Staff at one branch vote to unionise, the first in the coffee chain's own stores since the 1980s.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Starbucks",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "store",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "votes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "labour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "union",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'We are the bad ones', Kenyan police recruits brag",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59598455",
+        "content": "A video of Kenyan police recruits acting in an intimidating fashion is widely condemned.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3570645,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "'We are the bad ones', Kenyan police recruits brag",
+        "en_content": "A video of Kenyan police recruits acting in an intimidating fashion is widely condemned.",
+        "concepts": [
+            {
+                "word": "ones",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "recruits",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "New York’s Met museum to remove Sackler name",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59572668",
+        "content": "The Sackler family founded Purdue Pharma, which manufactured opioids linked to the deaths of thousands.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3570828,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "New York’s Met museum to remove Sackler name",
+        "en_content": "The Sackler family founded Purdue Pharma, which manufactured opioids linked to the deaths of thousands.",
+        "concepts": [
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "York",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Met",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "museum",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sackler",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "name",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US court rejects Trump's request to block files",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59599279",
+        "content": "A panel investigating the Capitol riot wants to see the ex-president's White House records.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3571005,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "US court rejects Trump's request to block files",
+        "en_content": "A panel investigating the Capitol riot wants to see the ex-president's White House records.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Trump",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "request",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "files",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Actor Jussie Smollett guilty of lying about attack",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59599142",
+        "content": "A jury convicted the former Empire actor of five of six counts of felony disorderly conduct.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3571184,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "Actor Jussie Smollett guilty of lying about attack",
+        "en_content": "A jury convicted the former Empire actor of five of six counts of felony disorderly conduct.",
+        "concepts": [
+            {
+                "word": "Actor",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jussie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smollett",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Putin compares Ukraine war zone to genocide",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59599066",
+        "content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3571365,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "Putin compares Ukraine war zone to genocide",
+        "en_content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "war",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "zone",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Macron: China Olympic boycott is insignificant",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59599063",
+        "content": "The French president says some Western countries' refusal to send officials has no useful outcome.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3571532,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "Macron: China Olympic boycott is insignificant",
+        "en_content": "The French president says some Western countries' refusal to send officials has no useful outcome.",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "China",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boycott",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "US Starbucks store votes for labour union",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59588905",
+        "content": "Staff at one branch vote to unionise, the first in the coffee chain's own stores since the 1980s.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3571699,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "US Starbucks store votes for labour union",
+        "en_content": "Staff at one branch vote to unionise, the first in the coffee chain's own stores since the 1980s.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Starbucks",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "store",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "votes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "labour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "union",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'We are the bad ones', Kenyan police recruits brag",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59598455",
+        "content": "A video of Kenyan police recruits acting in an intimidating fashion is widely condemned.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3571866,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "'We are the bad ones', Kenyan police recruits brag",
+        "en_content": "A video of Kenyan police recruits acting in an intimidating fashion is widely condemned.",
+        "concepts": [
+            {
+                "word": "ones",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "recruits",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "New York’s Met museum to remove Sackler name",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59572668",
+        "content": "The Sackler family founded Purdue Pharma, which manufactured opioids linked to the deaths of thousands.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3572032,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "New York’s Met museum to remove Sackler name",
+        "en_content": "The Sackler family founded Purdue Pharma, which manufactured opioids linked to the deaths of thousands.",
+        "concepts": [
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "York",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Met",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "museum",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sackler",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "name",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US court rejects Trump's request to block files",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59599279",
+        "content": "A panel investigating the Capitol riot wants to see the ex-president's White House records.",
+        "placed": "Abroad",
+        "epoch": 1639098003.35722,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "US court rejects Trump's request to block files",
+        "en_content": "A panel investigating the Capitol riot wants to see the ex-president's White House records.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Trump",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "request",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "files",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Putin compares Ukraine war zone to genocide",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59599066",
+        "content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3572361,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "Putin compares Ukraine war zone to genocide",
+        "en_content": "Russia's leader ramps up his rhetoric as the US and Ukrainian presidents discuss border tensions.",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "war",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "zone",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Macron: China Olympic boycott is insignificant",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59599063",
+        "content": "The French president says some Western countries' refusal to send officials has no useful outcome.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3572526,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "Macron: China Olympic boycott is insignificant",
+        "en_content": "The French president says some Western countries' refusal to send officials has no useful outcome.",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "China",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boycott",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "US Starbucks store votes for labour union",
+        "date": "2021-12-09",
+        "date_raw": "2021-12-09",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59588905",
+        "content": "Staff at one branch vote to unionise, the first in the coffee chain's own stores since the 1980s.",
+        "placed": "Abroad",
+        "epoch": 1639098003.3572693,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T02.00.03E1639098003.3572822.json",
+        "en_title": "US Starbucks store votes for labour union",
+        "en_content": "Staff at one branch vote to unionise, the first in the coffee chain's own stores since the 1980s.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Starbucks",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "store",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "votes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "labour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "union",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

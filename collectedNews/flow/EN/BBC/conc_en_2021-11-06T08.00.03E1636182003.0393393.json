@@ -1,0 +1,735 @@
+[
+    {
+        "title": "US lawmakers approve $1tn infrastructure bill",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180745",
+        "content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0389793,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "US lawmakers approve $1tn infrastructure bill",
+        "en_content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawmakers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "infrastructure",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US lawmakers approve $1tn infrastructure bill",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180745",
+        "content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "placed": "First_Page",
+        "epoch": 1636182003.039012,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "US lawmakers approve $1tn infrastructure bill",
+        "en_content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawmakers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "infrastructure",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59165781",
+        "content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0390353,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "en_content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Thunberg",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "COP26",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "failure",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "PR",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exercise",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Full footage of black jogger's death shown at trial",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180744",
+        "content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "placed": "First_Page",
+        "epoch": 1636182003.039056,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Full footage of black jogger's death shown at trial",
+        "en_content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "concepts": [
+            {
+                "word": "footage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jogger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Brazil singer Mendonca dies in plane crash at 26",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59186654",
+        "content": "Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0390756,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Brazil singer Mendonca dies in plane crash at 26",
+        "en_content": "Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women.",
+        "concepts": [
+            {
+                "word": "Brazil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "singer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mendonca",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plane",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Hello, Senator? Duchess of Sussex calling",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186204",
+        "content": "Meghan Markle reportedly placed calls with US senators this week to lobby for family leave.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0390944,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Hello, Senator? Duchess of Sussex calling",
+        "en_content": "Meghan Markle reportedly placed calls with US senators this week to lobby for family leave.",
+        "concepts": [
+            {
+                "word": "Senator",
+                "meaning": "npadvmod",
+                "pos": "INTJ"
+            },
+            {
+                "word": "Duchess",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sussex",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Colin Powell: Funeral for 'great lion with big heart'",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59186088",
+        "content": "US presidents, past and present, attended the service to remember the former secretary of state.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0391076,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Colin Powell: Funeral for 'great lion with big heart'",
+        "en_content": "US presidents, past and present, attended the service to remember the former secretary of state.",
+        "concepts": [
+            {
+                "word": "Colin",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Powell",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Funeral",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "heart",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59175404",
+        "content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0391269,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "en_content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "soldiers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rebels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Man found naked inside wall of US theatre",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186739",
+        "content": "Authorities said the man had been trapped for two days before he was heard calling for help.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0391502,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Man found naked inside wall of US theatre",
+        "en_content": "Authorities said the man had been trapped for two days before he was heard calling for help.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "wall",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "theatre",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chinese man convicted on aviation spy charges",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186980",
+        "content": "US authorities say Xu Yanjun sought to steal trade secrets from US aviation companies.",
+        "placed": "First_Page",
+        "epoch": 1636182003.03918,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Chinese man convicted on aviation spy charges",
+        "en_content": "US authorities say Xu Yanjun sought to steal trade secrets from US aviation companies.",
+        "concepts": [
+            {
+                "word": "man",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aviation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "charges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Beware road humps: Escaped camels wander Madrid",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59186294",
+        "content": "Eight camels and a llama were found, with managers blaming their escape on animal rights activists.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0391998,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Beware road humps: Escaped camels wander Madrid",
+        "en_content": "Eight camels and a llama were found, with managers blaming their escape on animal rights activists.",
+        "concepts": [
+            {
+                "word": "road",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "humps",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Escaped",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "camels",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Madrid",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Costa Rica makes Covid jab mandatory for children",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59162510",
+        "content": "The country becomes the first in the world to mandate vaccinations for those aged five to 11.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0392148,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Costa Rica makes Covid jab mandatory for children",
+        "en_content": "The country becomes the first in the world to mandate vaccinations for those aged five to 11.",
+        "concepts": [
+            {
+                "word": "Costa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rica",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jab",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "children",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Beware road humps: Escaped camels wander Madrid",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59186294",
+        "content": "Eight camels and a llama were found, with managers blaming their escape on animal rights activists.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0392292,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Beware road humps: Escaped camels wander Madrid",
+        "en_content": "Eight camels and a llama were found, with managers blaming their escape on animal rights activists.",
+        "concepts": [
+            {
+                "word": "road",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "humps",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Escaped",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "camels",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Madrid",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Costa Rica makes Covid jab mandatory for children",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59162510",
+        "content": "The country becomes the first in the world to mandate vaccinations for those aged five to 11.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0392437,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Costa Rica makes Covid jab mandatory for children",
+        "en_content": "The country becomes the first in the world to mandate vaccinations for those aged five to 11.",
+        "concepts": [
+            {
+                "word": "Costa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rica",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jab",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "children",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "EU warns of consequences if UK triggers Article 16",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59167024",
+        "content": "EC Vice-President Maros Sefcovic says the move would lead to instability in Northern Ireland.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0392578,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "EU warns of consequences if UK triggers Article 16",
+        "en_content": "EC Vice-President Maros Sefcovic says the move would lead to instability in Northern Ireland.",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "consequences",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Article",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Iowa teens charged with murder of Spanish teacher",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59185265",
+        "content": "Police say the two 16 year olds posted details of the killings to social media.",
+        "placed": "First_Page",
+        "epoch": 1636182003.0392716,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Iowa teens charged with murder of Spanish teacher",
+        "en_content": "Police say the two 16 year olds posted details of the killings to social media.",
+        "concepts": [
+            {
+                "word": "Iowa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "teens",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "teacher",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Clooney asks media not to use photos of his kids",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59180528",
+        "content": "The actor says images of his children being made public could put their lives in danger.",
+        "placed": "First_Page",
+        "epoch": 1636182003.039286,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "Clooney asks media not to use photos of his kids",
+        "en_content": "The actor says images of his children being made public could put their lives in danger.",
+        "concepts": [
+            {
+                "word": "Clooney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "photos",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "kids",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "How the world is reacting to COP26",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59036722",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1636182003.0393004,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "How the world is reacting to COP26",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "world",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The US state taking on an oil giant for greenwashing",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/blogs-trending-59070451",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1636182003.039314,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T08.00.03E1636182003.0393393.json",
+        "en_title": "The US state taking on an oil giant for greenwashing",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "state",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "oil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "giant",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

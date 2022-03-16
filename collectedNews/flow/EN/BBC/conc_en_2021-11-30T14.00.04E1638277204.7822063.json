@@ -1,0 +1,693 @@
+[
+    {
+        "title": "Omicron variant in Netherlands earlier than thought",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59473131",
+        "content": "The new Covid-19 variant is found in Dutch samples taken before it was reported by South Africa.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7818925,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "Omicron variant in Netherlands earlier than thought",
+        "en_content": "The new Covid-19 variant is found in Dutch samples taken before it was reported by South Africa.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Omicron variant in Netherlands earlier than thought",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59473131",
+        "content": "The new Covid-19 variant is found in Dutch samples taken before it was reported by South Africa.",
+        "placed": "First_Page",
+        "epoch": 1638277204.781925,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "Omicron variant in Netherlands earlier than thought",
+        "en_content": "The new Covid-19 variant is found in Dutch samples taken before it was reported by South Africa.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Barbados becomes the world's newest republic",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59470843",
+        "content": "The Caribbean nation parts ways with the Queen in a ceremony attended by Prince Charles and Rihanna.",
+        "placed": "First_Page",
+        "epoch": 1638277204.781945,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "Barbados becomes the world's newest republic",
+        "en_content": "The Caribbean nation parts ways with the Queen in a ceremony attended by Prince Charles and Rihanna.",
+        "concepts": [
+            {
+                "word": "Barbados",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "republic",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Man rescued after 22 hours adrift off Japan coast",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59477186",
+        "content": "Watch the moment rescuers reach the 69-year-old, whose boat capsized in stormy waters.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7819576,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "Man rescued after 22 hours adrift off Japan coast",
+        "en_content": "Watch the moment rescuers reach the 69-year-old, whose boat capsized in stormy waters.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "hours",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Japan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coast",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Zara founder’s daughter gets top job at fashion giant",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59474142",
+        "content": "Marta Ortega has been with the firm for 15 years, starting out as an assistant at its High Street brand Bershka.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7819896,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "Zara founder’s daughter gets top job at fashion giant",
+        "en_content": "Marta Ortega has been with the firm for 15 years, starting out as an assistant at its High Street brand Bershka.",
+        "concepts": [
+            {
+                "word": "Zara",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "founder",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "daughter",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "job",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fashion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "giant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK spy boss warns of China 'debt and data traps'",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59474365",
+        "content": "Richard Moore also denies the fall of Kabul was an intelligence failure in a BBC Radio 4 interview.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7820106,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "UK spy boss warns of China 'debt and data traps'",
+        "en_content": "Richard Moore also denies the fall of Kabul was an intelligence failure in a BBC Radio 4 interview.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "debt",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "data",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "traps",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Gucci family hits out at insulting film portrayal",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59473981",
+        "content": "The heirs of Italian fashion house Gucci criticise depiction of the family in House of Gucci film.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7820265,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "Gucci family hits out at insulting film portrayal",
+        "en_content": "The heirs of Italian fashion house Gucci criticise depiction of the family in House of Gucci film.",
+        "concepts": [
+            {
+                "word": "Gucci",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "family",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "film",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "portrayal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "IS man guilty of genocide in Yazidi murder trial",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59474616",
+        "content": "Taha al-Jumailly is jailed for life for crimes including the murder of a young Yazidi girl in 2015.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7820423,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "IS man guilty of genocide in Yazidi murder trial",
+        "en_content": "Taha al-Jumailly is jailed for life for crimes including the murder of a young Yazidi girl in 2015.",
+        "concepts": [
+            {
+                "word": "man",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "genocide",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Yazidi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dozens of former forces killed by Taliban - report",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59474965",
+        "content": "Human Rights Watch says more than 100 former Afghan personnel have been killed or have disappeared.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7820606,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "Dozens of former forces killed by Taliban - report",
+        "en_content": "Human Rights Watch says more than 100 former Afghan personnel have been killed or have disappeared.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "forces",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The children haunted by ghosts of war",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59464760",
+        "content": "BBC Middle East editor Jeremy Bowen meets terrified families running from civil war in Yemen.",
+        "placed": "First_Page",
+        "epoch": 1638277204.782076,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "The children haunted by ghosts of war",
+        "en_content": "BBC Middle East editor Jeremy Bowen meets terrified families running from civil war in Yemen.",
+        "concepts": [
+            {
+                "word": "children",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ghosts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "war",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sex harassment rife in Australia parliament - report",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59472194",
+        "content": "Canberra's workplace culture has left a \"trail of devastation\" for women especially, a review finds.",
+        "placed": "First_Page",
+        "epoch": 1638277204.782084,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "Sex harassment rife in Australia parliament - report",
+        "en_content": "Canberra's workplace culture has left a \"trail of devastation\" for women especially, a review finds.",
+        "concepts": [
+            {
+                "word": "Sex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "harassment",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rife",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parliament",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The children haunted by ghosts of war",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59464760",
+        "content": "BBC Middle East editor Jeremy Bowen meets terrified families running from civil war in Yemen.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7820995,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "The children haunted by ghosts of war",
+        "en_content": "BBC Middle East editor Jeremy Bowen meets terrified families running from civil war in Yemen.",
+        "concepts": [
+            {
+                "word": "children",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ghosts",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "war",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sex harassment rife in Australia parliament - report",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59472194",
+        "content": "Canberra's workplace culture has left a \"trail of devastation\" for women especially, a review finds.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7821143,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "Sex harassment rife in Australia parliament - report",
+        "en_content": "Canberra's workplace culture has left a \"trail of devastation\" for women especially, a review finds.",
+        "concepts": [
+            {
+                "word": "Sex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "harassment",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rife",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parliament",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "France issues warrant over Japan 'parental kidnap'",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59474807",
+        "content": "Vincent Fichot says his Japanese wife disappeared from the family home with his two children in 2018.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7821221,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "France issues warrant over Japan 'parental kidnap'",
+        "en_content": "Vincent Fichot says his Japanese wife disappeared from the family home with his two children in 2018.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "issues",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Japan",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "kidnap",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US actor hatched 'secret plan for hoax hate crime'",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59439796",
+        "content": "Jussie Smollett is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7821372,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "US actor hatched 'secret plan for hoax hate crime'",
+        "en_content": "Jussie Smollett is accused of staging an attack on himself in 2019 as a publicity stunt, which he denies.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crime",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ronaldo disputes Ballon d'Or Messi claim",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/football/59473338",
+        "content": "An editor said the Portugese player's only ambition was to retire with more Ballons d'Or than Lionel Messi.",
+        "placed": "First_Page",
+        "epoch": 1638277204.7821517,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "Ronaldo disputes Ballon d'Or Messi claim",
+        "en_content": "An editor said the Portugese player's only ambition was to retire with more Ballons d'Or than Lionel Messi.",
+        "concepts": [
+            {
+                "word": "Ronaldo",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ballon",
+                "meaning": "nmod",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Messi",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claim",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Why France is making this woman a national hero",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59468682",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638277204.782169,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "Why France is making this woman a national hero",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "woman",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hero",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638277204.7821834,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T14.00.04E1638277204.7822063.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

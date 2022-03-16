@@ -1,0 +1,512 @@
+[
+    {
+        "title": "Tories hold Old Bexley and Sidcup in by-election",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59505204",
+        "content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "placed": "Politics",
+        "epoch": 1638514804.1817951,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Tories hold Old Bexley and Sidcup in by-election",
+        "en_content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Old",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bexley",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sidcup",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tories hold Old Bexley and Sidcup in by-election",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59505204",
+        "content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "placed": "Politics",
+        "epoch": 1638514804.1818228,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Tories hold Old Bexley and Sidcup in by-election",
+        "en_content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Old",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bexley",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sidcup",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Covid loan anti-fraud checks inadequate - watchdog",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59504943",
+        "content": "The government acted too slowly to stop fraudsters exploiting its Bounce Back Loan scheme, a report says.",
+        "placed": "Politics",
+        "epoch": 1638514804.1818428,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Covid loan anti-fraud checks inadequate - watchdog",
+        "en_content": "The government acted too slowly to stop fraudsters exploiting its Bounce Back Loan scheme, a report says.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "loan",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "checks",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "watchdog",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Covid families 'sickened' by No 10 Christmas party",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505975",
+        "content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "placed": "Politics",
+        "epoch": 1638514804.1818593,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Covid families 'sickened' by No 10 Christmas party",
+        "en_content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "concepts": [
+            {
+                "word": "families",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508496",
+        "content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "placed": "Politics",
+        "epoch": 1638514804.181875,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Political editor",
+        "en_content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Voters have right to elect racists if they want - MP",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508501",
+        "content": "The Barking MP held ministerial posts and chaired the powerful Public Accounts Committee.",
+        "placed": "Politics",
+        "epoch": 1638514804.181892,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Voters have right to elect racists if they want - MP",
+        "en_content": "The Barking MP held ministerial posts and chaired the powerful Public Accounts Committee.",
+        "concepts": [
+            {
+                "word": "Voters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "racists",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Labour's Margaret Hodge to step down as MP",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505637",
+        "content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "placed": "Politics",
+        "epoch": 1638514804.1819074,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Labour's Margaret Hodge to step down as MP",
+        "en_content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Margaret",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hodge",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Government fined £500,000 over honours data breach",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59505204",
+        "content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "placed": "Politics",
+        "epoch": 1638514804.1819222,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Government fined £500,000 over honours data breach",
+        "en_content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tories hold Old Bexley and Sidcup in by-election",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59504943",
+        "content": "The government acted too slowly to stop fraudsters exploiting its Bounce Back Loan scheme, a report says.",
+        "placed": "Politics",
+        "epoch": 1638514804.1819372,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Tories hold Old Bexley and Sidcup in by-election",
+        "en_content": "The government acted too slowly to stop fraudsters exploiting its Bounce Back Loan scheme, a report says.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Old",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bexley",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sidcup",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Covid loan anti-fraud checks inadequate - watchdog",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505975",
+        "content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "placed": "Politics",
+        "epoch": 1638514804.181952,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Covid loan anti-fraud checks inadequate - watchdog",
+        "en_content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "loan",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "checks",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "watchdog",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Covid families 'sickened' by No 10 Christmas party",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508496",
+        "content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "placed": "Politics",
+        "epoch": 1638514804.1819663,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Covid families 'sickened' by No 10 Christmas party",
+        "en_content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "concepts": [
+            {
+                "word": "families",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508501",
+        "content": "The Barking MP held ministerial posts and chaired the powerful Public Accounts Committee.",
+        "placed": "Politics",
+        "epoch": 1638514804.1819985,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Political editor",
+        "en_content": "The Barking MP held ministerial posts and chaired the powerful Public Accounts Committee.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Voters have right to elect racists if they want - MP",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505637",
+        "content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "placed": "Politics",
+        "epoch": 1638514804.1820133,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Voters have right to elect racists if they want - MP",
+        "en_content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "concepts": [
+            {
+                "word": "Voters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "racists",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Labour's Margaret Hodge to step down as MP",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59504943",
+        "content": "The government acted too slowly to stop fraudsters exploiting its Bounce Back Loan scheme, a report says.",
+        "placed": "Politics",
+        "epoch": 1638514804.1820273,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Labour's Margaret Hodge to step down as MP",
+        "en_content": "The government acted too slowly to stop fraudsters exploiting its Bounce Back Loan scheme, a report says.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Margaret",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hodge",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Government fined £500,000 over honours data breach",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505975",
+        "content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "placed": "Politics",
+        "epoch": 1638514804.1820416,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T08.00.04E1638514804.1820617.json",
+        "en_title": "Government fined £500,000 over honours data breach",
+        "en_content": "A bereaved families group calls for an apology from Boris Johnson over lockdown gathering.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

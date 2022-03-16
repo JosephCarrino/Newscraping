@@ -1,0 +1,650 @@
+[
+    {
+        "title": "Survivor haunted by deadliest Channel crossing",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59480814",
+        "content": "Mohamed Isa Omar, one of two survivors of last week's disaster, tells the BBC he saw people drown.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7748523,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Survivor haunted by deadliest Channel crossing",
+        "en_content": "Mohamed Isa Omar, one of two survivors of last week's disaster, tells the BBC he saw people drown.",
+        "concepts": [
+            {
+                "word": "Survivor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crossing",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Survivor haunted by deadliest Channel crossing",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59480814",
+        "content": "Mohamed Isa Omar, one of two survivors of last week's disaster, tells the BBC he saw people drown.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7748923,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Survivor haunted by deadliest Channel crossing",
+        "en_content": "Mohamed Isa Omar, one of two survivors of last week's disaster, tells the BBC he saw people drown.",
+        "concepts": [
+            {
+                "word": "Survivor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crossing",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CNN star anchor suspended over help to his brother",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59485945",
+        "content": "The cable host provided extensive advice to Governor Andrew Cuomo as he battled an abuse scandal.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7749128,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "CNN star anchor suspended over help to his brother",
+        "en_content": "The cable host provided extensive advice to Governor Andrew Cuomo as he battled an abuse scandal.",
+        "concepts": [
+            {
+                "word": "CNN",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "anchor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "help",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "brother",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Multi-billion EU bid to challenge China",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59473071",
+        "content": "The \"Global Gateway\" plan is seen as an attempt to counter Chinese influence in Africa and beyond.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7749298,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Multi-billion EU bid to challenge China",
+        "en_content": "The \"Global Gateway\" plan is seen as an attempt to counter Chinese influence in Africa and beyond.",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bid",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "China",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Epstein pilot testifies that he flew Prince Andrew",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59484332",
+        "content": "The paedophile financier's pilot tells a court he also flew Bill Clinton and Donald Trump on the jet.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7749462,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Epstein pilot testifies that he flew Prince Andrew",
+        "en_content": "The paedophile financier's pilot tells a court he also flew Bill Clinton and Donald Trump on the jet.",
+        "concepts": [
+            {
+                "word": "Epstein",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pilot",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Prince",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Andrew",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Honduras set for first female president",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59485606",
+        "content": "Xiomara Castro's victory will bring to an end to the the 12-year rule of the right-wing National Party.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7749624,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Honduras set for first female president",
+        "en_content": "Xiomara Castro's victory will bring to an end to the the 12-year rule of the right-wing National Party.",
+        "concepts": [
+            {
+                "word": "Honduras",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "president",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US author apologises to man cleared of her rape",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59485586",
+        "content": "Anthony Broadwater spent 16 years in prison after being wrongly convicted of raping Alice Sebold.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7749767,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "US author apologises to man cleared of her rape",
+        "en_content": "Anthony Broadwater spent 16 years in prison after being wrongly convicted of raping Alice Sebold.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "author",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rape",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Student fatally shoots three in Michigan school",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59484333",
+        "content": "Police allege the suspect, a 15-year-old student, used a gun his father had bought days earlier.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7749908,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Student fatally shoots three in Michigan school",
+        "en_content": "Police allege the suspect, a 15-year-old student, used a gun his father had bought days earlier.",
+        "concepts": [
+            {
+                "word": "Student",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Michigan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "school",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Hundreds of Taiwanese extradited to China: Report",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59486286",
+        "content": "A human rights group says the practice is being used to bolster Chinese influence abroad.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7750053,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Hundreds of Taiwanese extradited to China: Report",
+        "en_content": "A human rights group says the practice is being used to bolster Chinese influence abroad.",
+        "concepts": [
+            {
+                "word": "Hundreds",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taiwanese",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "China",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Facebook reverses Kyle Rittenhouse search policy",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/technology-59486397",
+        "content": "The company had blocked searches for the US teen after he was acquitted of killing two people.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7750201,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Facebook reverses Kyle Rittenhouse search policy",
+        "en_content": "The company had blocked searches for the US teen after he was acquitted of killing two people.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Kyle",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rittenhouse",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "search",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "policy",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Australia police arrest quarantine escapees",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59486285",
+        "content": "The trio had fled a remote camp near Darwin by scaling a fence in the middle of the night.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7750392,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Australia police arrest quarantine escapees",
+        "en_content": "The trio had fled a remote camp near Darwin by scaling a fence in the middle of the night.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arrest",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "quarantine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "escapees",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Four dead as storm tears through Turkey",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59484633",
+        "content": "Strong winds hit the country's western coast, destroying buildings and blowing ships ashore.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7750506,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Four dead as storm tears through Turkey",
+        "en_content": "Strong winds hit the country's western coast, destroying buildings and blowing ships ashore.",
+        "concepts": [
+            {
+                "word": "storm",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "Turkey",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia police arrest quarantine escapees",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59486285",
+        "content": "The trio had fled a remote camp near Darwin by scaling a fence in the middle of the night.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7750661,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Australia police arrest quarantine escapees",
+        "en_content": "The trio had fled a remote camp near Darwin by scaling a fence in the middle of the night.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arrest",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "quarantine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "escapees",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Four dead as storm tears through Turkey",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59484633",
+        "content": "Strong winds hit the country's western coast, destroying buildings and blowing ships ashore.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7750804,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Four dead as storm tears through Turkey",
+        "en_content": "Strong winds hit the country's western coast, destroying buildings and blowing ships ashore.",
+        "concepts": [
+            {
+                "word": "storm",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "Turkey",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Mike Pence calls for curtailed abortion rights",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59480917",
+        "content": "The former vice-president spoke on the eve of the most important abortion case in years at the top US court.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7750878,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Mike Pence calls for curtailed abortion rights",
+        "en_content": "The former vice-president spoke on the eve of the most important abortion case in years at the top US court.",
+        "concepts": [
+            {
+                "word": "Mike",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pence",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rights",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dutch release Omicron quarantine couple",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59473067",
+        "content": "A couple who fled an isolation hotel in the Netherlands are told they can now go home.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7751024,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Dutch release Omicron quarantine couple",
+        "en_content": "A couple who fled an isolation hotel in the Netherlands are told they can now go home.",
+        "concepts": [
+            {
+                "word": "release",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "quarantine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "couple",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Italy football fan banned for 'slapping' reporter",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59478152",
+        "content": "Greta Beccaglia reported the man to the police after the incident outside a stadium in Florence.",
+        "placed": "First_Page",
+        "epoch": 1638342004.7751172,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "Italy football fan banned for 'slapping' reporter",
+        "en_content": "Greta Beccaglia reported the man to the police after the incident outside a stadium in Florence.",
+        "concepts": [
+            {
+                "word": "Italy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "football",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "reporter",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'The place I grew up in will not survive'",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59480146",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638342004.7751348,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "'The place I grew up in will not survive'",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "place",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638342004.7751524,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T08.00.04E1638342004.7751768.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

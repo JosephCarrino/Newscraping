@@ -1,0 +1,698 @@
+[
+    {
+        "title": "Nations condemn Taliban over targeted killings",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59536522",
+        "content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0491056,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Nations condemn Taliban over targeted killings",
+        "en_content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "concepts": [
+            {
+                "word": "Nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "killings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nations condemn Taliban over targeted killings",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59536522",
+        "content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "placed": "Abroad",
+        "epoch": 1638687604.049132,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Nations condemn Taliban over targeted killings",
+        "en_content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "concepts": [
+            {
+                "word": "Nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "killings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Death toll from Indonesia eruption rises to 13",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59532251",
+        "content": "Residents sprinted for cover from a giant ash cloud as Mt Semeru erupted on Indonesia's Java island.",
+        "placed": "Abroad",
+        "epoch": 1638687604.049149,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Death toll from Indonesia eruption rises to 13",
+        "en_content": "Residents sprinted for cover from a giant ash cloud as Mt Semeru erupted on Indonesia's Java island.",
+        "concepts": [
+            {
+                "word": "Death",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "toll",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Indonesia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "eruption",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CNN fires Chris Cuomo for helping governor brother",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59536519",
+        "content": "The star TV presenter is sacked over efforts to help his brother defend sexual harassment claims.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0491757,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "CNN fires Chris Cuomo for helping governor brother",
+        "en_content": "The star TV presenter is sacked over efforts to help his brother defend sexual harassment claims.",
+        "concepts": [
+            {
+                "word": "CNN",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fires",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Chris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cuomo",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "governor",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "brother",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden and Putin to hold call amid Ukraine tensions",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59533689",
+        "content": "On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0491986,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Biden and Putin to hold call amid Ukraine tensions",
+        "en_content": "On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Putin",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "call",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tensions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ocean 'garbage patch' is immense plastic habitat",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59521211",
+        "content": "Researchers discover coastal species living on debris miles from their natural surroundings.",
+        "placed": "Abroad",
+        "epoch": 1638687604.049216,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Ocean 'garbage patch' is immense plastic habitat",
+        "en_content": "Researchers discover coastal species living on debris miles from their natural surroundings.",
+        "concepts": [
+            {
+                "word": "Ocean",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "garbage",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "patch",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "habitat",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Why France faces so much anger in West Africa",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59517501",
+        "content": "Despite engaging better with the African continent recently, the ex-colonial power faces a backlash.",
+        "placed": "Abroad",
+        "epoch": 1638687604.049234,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Why France faces so much anger in West Africa",
+        "en_content": "Despite engaging better with the African continent recently, the ex-colonial power faces a backlash.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "anger",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "West",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Snotty-nosed hippos test positive for Covid",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59516896",
+        "content": "Officials at Antwerp zoo do not know how the pair - now in quarantine - caught the virus.",
+        "placed": "Abroad",
+        "epoch": 1638687604.049256,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Snotty-nosed hippos test positive for Covid",
+        "en_content": "Officials at Antwerp zoo do not know how the pair - now in quarantine - caught the virus.",
+        "concepts": [
+            {
+                "word": "Snotty",
+                "meaning": "amod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "hippos",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nations condemn Taliban over targeted killings",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59536522",
+        "content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0492716,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Nations condemn Taliban over targeted killings",
+        "en_content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "concepts": [
+            {
+                "word": "Nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "killings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Death toll from Indonesia eruption rises to 13",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59532251",
+        "content": "Residents sprinted for cover from a giant ash cloud as Mt Semeru erupted on Indonesia's Java island.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0492866,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Death toll from Indonesia eruption rises to 13",
+        "en_content": "Residents sprinted for cover from a giant ash cloud as Mt Semeru erupted on Indonesia's Java island.",
+        "concepts": [
+            {
+                "word": "Death",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "toll",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Indonesia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "eruption",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CNN fires Chris Cuomo for helping governor brother",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59536519",
+        "content": "The star TV presenter is sacked over efforts to help his brother defend sexual harassment claims.",
+        "placed": "Abroad",
+        "epoch": 1638687604.049296,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "CNN fires Chris Cuomo for helping governor brother",
+        "en_content": "The star TV presenter is sacked over efforts to help his brother defend sexual harassment claims.",
+        "concepts": [
+            {
+                "word": "CNN",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fires",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Chris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cuomo",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "governor",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "brother",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden and Putin to hold call amid Ukraine tensions",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59533689",
+        "content": "On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0493107,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Biden and Putin to hold call amid Ukraine tensions",
+        "en_content": "On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Putin",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "call",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tensions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ocean 'garbage patch' is immense plastic habitat",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59521211",
+        "content": "Researchers discover coastal species living on debris miles from their natural surroundings.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0493252,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Ocean 'garbage patch' is immense plastic habitat",
+        "en_content": "Researchers discover coastal species living on debris miles from their natural surroundings.",
+        "concepts": [
+            {
+                "word": "Ocean",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "garbage",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "patch",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "habitat",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Why France faces so much anger in West Africa",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59517501",
+        "content": "Despite engaging better with the African continent recently, the ex-colonial power faces a backlash.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0493395,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Why France faces so much anger in West Africa",
+        "en_content": "Despite engaging better with the African continent recently, the ex-colonial power faces a backlash.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "anger",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "West",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Snotty-nosed hippos test positive for Covid",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59516896",
+        "content": "Officials at Antwerp zoo do not know how the pair - now in quarantine - caught the virus.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0493538,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Snotty-nosed hippos test positive for Covid",
+        "en_content": "Officials at Antwerp zoo do not know how the pair - now in quarantine - caught the virus.",
+        "concepts": [
+            {
+                "word": "Snotty",
+                "meaning": "amod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "hippos",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Death toll from Indonesia eruption rises to 13",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59532251",
+        "content": "Residents sprinted for cover from a giant ash cloud as Mt Semeru erupted on Indonesia's Java island.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0493677,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Death toll from Indonesia eruption rises to 13",
+        "en_content": "Residents sprinted for cover from a giant ash cloud as Mt Semeru erupted on Indonesia's Java island.",
+        "concepts": [
+            {
+                "word": "Death",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "toll",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Indonesia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "eruption",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CNN fires Chris Cuomo for helping governor brother",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59536519",
+        "content": "The star TV presenter is sacked over efforts to help his brother defend sexual harassment claims.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0493817,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "CNN fires Chris Cuomo for helping governor brother",
+        "en_content": "The star TV presenter is sacked over efforts to help his brother defend sexual harassment claims.",
+        "concepts": [
+            {
+                "word": "CNN",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fires",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Chris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cuomo",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "governor",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "brother",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden and Putin to hold call amid Ukraine tensions",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59533689",
+        "content": "On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine.",
+        "placed": "Abroad",
+        "epoch": 1638687604.0493894,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.049402.json",
+        "en_title": "Biden and Putin to hold call amid Ukraine tensions",
+        "en_content": "On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Putin",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "call",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tensions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

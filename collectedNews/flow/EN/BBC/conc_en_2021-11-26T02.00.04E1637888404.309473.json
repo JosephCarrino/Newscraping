@@ -1,0 +1,678 @@
+[
+    {
+        "title": "Coronavirus variant fear sparks Africa travel curbs",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59424269",
+        "content": "Six southern African countries are put on the red list, amid \"deep concern\" over a new variant of the virus.",
+        "placed": "Politics",
+        "epoch": 1637888404.3091786,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Coronavirus variant fear sparks Africa travel curbs",
+        "en_content": "Six southern African countries are put on the red list, amid \"deep concern\" over a new variant of the virus.",
+        "concepts": [
+            {
+                "word": "Coronavirus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fear",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "curbs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Coronavirus variant fear sparks Africa travel curbs",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59424269",
+        "content": "Six southern African countries are put on the red list, amid \"deep concern\" over a new variant of the virus.",
+        "placed": "Politics",
+        "epoch": 1637888404.3092105,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Coronavirus variant fear sparks Africa travel curbs",
+        "en_content": "Six southern African countries are put on the red list, amid \"deep concern\" over a new variant of the virus.",
+        "concepts": [
+            {
+                "word": "Coronavirus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fear",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "curbs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Starmer: Over a year since I spoke to Corbyn",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59422675",
+        "content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "placed": "Politics",
+        "epoch": 1637888404.3092306,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Starmer: Over a year since I spoke to Corbyn",
+        "en_content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Corbyn",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM calls on France to take back migrants",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59423245",
+        "content": "A returns agreement would have an \"immediate\" impact on the number of crossings, Boris Johnson says.",
+        "placed": "Politics",
+        "epoch": 1637888404.3092477,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "PM calls on France to take back migrants",
+        "en_content": "A returns agreement would have an \"immediate\" impact on the number of crossings, Boris Johnson says.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Women MPs lobby Speaker against babies in debates",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59421260",
+        "content": "Sir Lindsay Hoyle says MPs have texted \"do not give in\" after Labour's Stella Creasy raised the issue.",
+        "placed": "Politics",
+        "epoch": 1637888404.3092642,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Women MPs lobby Speaker against babies in debates",
+        "en_content": "Sir Lindsay Hoyle says MPs have texted \"do not give in\" after Labour's Stella Creasy raised the issue.",
+        "concepts": [
+            {
+                "word": "Women",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MPs",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Speaker",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "babies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "debates",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Highest UK asylum claims since 2004",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59414460",
+        "content": "Separate figures show net migration to the UK fell 88% last year due to Covid restrictions.",
+        "placed": "Politics",
+        "epoch": 1637888404.3092804,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Highest UK asylum claims since 2004",
+        "en_content": "Separate figures show net migration to the UK fell 88% last year due to Covid restrictions.",
+        "concepts": [
+            {
+                "word": "Highest",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "asylum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claims",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Female Dr Who robs boys of role models, claims MP",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59421259",
+        "content": "MP Nick Fletcher suggests boys are turning to crime because male characters tend to be criminals.",
+        "placed": "Politics",
+        "epoch": 1637888404.309296,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Female Dr Who robs boys of role models, claims MP",
+        "en_content": "MP Nick Fletcher suggests boys are turning to crime because male characters tend to be criminals.",
+        "concepts": [
+            {
+                "word": "Female",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dr",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "boys",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "role",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "models",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Improve cross-border rail and roads, review says",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59423943",
+        "content": "A review of UK transport links recommends improving the A1, A75, A77, and upgrading the east and west coast mainlines.",
+        "placed": "Politics",
+        "epoch": 1637888404.309311,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Improve cross-border rail and roads, review says",
+        "en_content": "A review of UK transport links recommends improving the A1, A75, A77, and upgrading the east and west coast mainlines.",
+        "concepts": [
+            {
+                "word": "rail",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "review",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Coronavirus variant fear sparks Africa travel curbs",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59424269",
+        "content": "Six southern African countries are put on the red list, amid \"deep concern\" over a new variant of the virus.",
+        "placed": "Politics",
+        "epoch": 1637888404.3093264,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Coronavirus variant fear sparks Africa travel curbs",
+        "en_content": "Six southern African countries are put on the red list, amid \"deep concern\" over a new variant of the virus.",
+        "concepts": [
+            {
+                "word": "Coronavirus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fear",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "curbs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Starmer: Over a year since I spoke to Corbyn",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59422675",
+        "content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "placed": "Politics",
+        "epoch": 1637888404.3093412,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Starmer: Over a year since I spoke to Corbyn",
+        "en_content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Corbyn",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM calls on France to take back migrants",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59423245",
+        "content": "A returns agreement would have an \"immediate\" impact on the number of crossings, Boris Johnson says.",
+        "placed": "Politics",
+        "epoch": 1637888404.309356,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "PM calls on France to take back migrants",
+        "en_content": "A returns agreement would have an \"immediate\" impact on the number of crossings, Boris Johnson says.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Women MPs lobby Speaker against babies in debates",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59421260",
+        "content": "Sir Lindsay Hoyle says MPs have texted \"do not give in\" after Labour's Stella Creasy raised the issue.",
+        "placed": "Politics",
+        "epoch": 1637888404.309371,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Women MPs lobby Speaker against babies in debates",
+        "en_content": "Sir Lindsay Hoyle says MPs have texted \"do not give in\" after Labour's Stella Creasy raised the issue.",
+        "concepts": [
+            {
+                "word": "Women",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MPs",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Speaker",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "babies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "debates",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Highest UK asylum claims since 2004",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59414460",
+        "content": "Separate figures show net migration to the UK fell 88% last year due to Covid restrictions.",
+        "placed": "Politics",
+        "epoch": 1637888404.3093858,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Highest UK asylum claims since 2004",
+        "en_content": "Separate figures show net migration to the UK fell 88% last year due to Covid restrictions.",
+        "concepts": [
+            {
+                "word": "Highest",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "asylum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claims",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Female Dr Who robs boys of role models, claims MP",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59421259",
+        "content": "MP Nick Fletcher suggests boys are turning to crime because male characters tend to be criminals.",
+        "placed": "Politics",
+        "epoch": 1637888404.3094006,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Female Dr Who robs boys of role models, claims MP",
+        "en_content": "MP Nick Fletcher suggests boys are turning to crime because male characters tend to be criminals.",
+        "concepts": [
+            {
+                "word": "Female",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dr",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "boys",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "role",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "models",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Improve cross-border rail and roads, review says",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59423943",
+        "content": "A review of UK transport links recommends improving the A1, A75, A77, and upgrading the east and west coast mainlines.",
+        "placed": "Politics",
+        "epoch": 1637888404.3094156,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Improve cross-border rail and roads, review says",
+        "en_content": "A review of UK transport links recommends improving the A1, A75, A77, and upgrading the east and west coast mainlines.",
+        "concepts": [
+            {
+                "word": "rail",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "review",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Starmer: Over a year since I spoke to Corbyn",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59422675",
+        "content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "placed": "Politics",
+        "epoch": 1637888404.3094296,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Starmer: Over a year since I spoke to Corbyn",
+        "en_content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Corbyn",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM calls on France to take back migrants",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59423245",
+        "content": "A returns agreement would have an \"immediate\" impact on the number of crossings, Boris Johnson says.",
+        "placed": "Politics",
+        "epoch": 1637888404.3094442,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "PM calls on France to take back migrants",
+        "en_content": "A returns agreement would have an \"immediate\" impact on the number of crossings, Boris Johnson says.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Women MPs lobby Speaker against babies in debates",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59421260",
+        "content": "Sir Lindsay Hoyle says MPs have texted \"do not give in\" after Labour's Stella Creasy raised the issue.",
+        "placed": "Politics",
+        "epoch": 1637888404.3094587,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T02.00.04E1637888404.309473.json",
+        "en_title": "Women MPs lobby Speaker against babies in debates",
+        "en_content": "Sir Lindsay Hoyle says MPs have texted \"do not give in\" after Labour's Stella Creasy raised the issue.",
+        "concepts": [
+            {
+                "word": "Women",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MPs",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Speaker",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "babies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "debates",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

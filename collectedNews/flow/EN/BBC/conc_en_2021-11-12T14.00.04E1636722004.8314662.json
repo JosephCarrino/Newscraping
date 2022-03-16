@@ -1,0 +1,512 @@
+[
+    {
+        "title": "Frost and Šefčovič to discuss NI Protocol progress",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59252244",
+        "content": "The pair will assess if any progress on the issue has been made, but expectations are low.",
+        "placed": "Politics",
+        "epoch": 1636722004.8312016,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Frost and Šefčovič to discuss NI Protocol progress",
+        "en_content": "The pair will assess if any progress on the issue has been made, but expectations are low.",
+        "concepts": [
+            {
+                "word": "Frost",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Šefčovič",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protocol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "progress",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Frost and Šefčovič to discuss NI Protocol progress",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59252244",
+        "content": "The pair will assess if any progress on the issue has been made, but expectations are low.",
+        "placed": "Politics",
+        "epoch": 1636722004.831231,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Frost and Šefčovič to discuss NI Protocol progress",
+        "en_content": "The pair will assess if any progress on the issue has been made, but expectations are low.",
+        "concepts": [
+            {
+                "word": "Frost",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Šefčovič",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protocol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "progress",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59259338",
+        "content": "Michael Gove is in charge of delivering Boris Johnson's flagship policy - here is what he plans to do.",
+        "placed": "Politics",
+        "epoch": 1636722004.8312511,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Political editor",
+        "en_content": "Michael Gove is in charge of delivering Boris Johnson's flagship policy - here is what he plans to do.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Gove's plan to end levelling-up confusion",
+        "date": "2021-11-11",
+        "date_raw": "2021-11-11",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59238435",
+        "content": "Invoking the post-Brexit clause would be poisonous, says Labour's shadow NI secretary Louise Haigh.",
+        "placed": "Politics",
+        "epoch": 1636722004.8312678,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Gove's plan to end levelling-up confusion",
+        "en_content": "Invoking the post-Brexit clause would be poisonous, says Labour's shadow NI secretary Louise Haigh.",
+        "concepts": [
+            {
+                "word": "Gove",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "levelling",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "confusion",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Triggering Article 16 'would provoke instability'",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59257107",
+        "content": "Around 1,000 people reached the UK by boat on Thursday, with more than 20,000 arriving this year.",
+        "placed": "Politics",
+        "epoch": 1636722004.831283,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Triggering Article 16 'would provoke instability'",
+        "en_content": "Around 1,000 people reached the UK by boat on Thursday, with more than 20,000 arriving this year.",
+        "concepts": [
+            {
+                "word": "Article",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "instability",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Migrant Channel crossings hit new daily record",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59257286",
+        "content": "Michael Fawcett faces claims he offered to help a wealthy Saudi donor secure an honour.",
+        "placed": "Politics",
+        "epoch": 1636722004.831299,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Migrant Channel crossings hit new daily record",
+        "en_content": "Michael Fawcett faces claims he offered to help a wealthy Saudi donor secure an honour.",
+        "concepts": [
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crossings",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "record",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "CEO quits Charles' charity amid honours inquiry",
+        "date": "2021-11-11",
+        "date_raw": "2021-11-11",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59243206",
+        "content": "The defence secretary writes to Labour and the SNP over claims about a trip arranged with the military.",
+        "placed": "Politics",
+        "epoch": 1636722004.8313143,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "CEO quits Charles' charity amid honours inquiry",
+        "en_content": "The defence secretary writes to Labour and the SNP over claims about a trip arranged with the military.",
+        "concepts": [
+            {
+                "word": "CEO",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Charles",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "charity",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "inquiry",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Row over 'drunk' MPs on Gibraltar visit",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59252244",
+        "content": "The pair will assess if any progress on the issue has been made, but expectations are low.",
+        "placed": "Politics",
+        "epoch": 1636722004.8313293,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Row over 'drunk' MPs on Gibraltar visit",
+        "en_content": "The pair will assess if any progress on the issue has been made, but expectations are low.",
+        "concepts": [
+            {
+                "word": "Row",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Gibraltar",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "visit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Frost and Šefčovič to discuss NI Protocol progress",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59259338",
+        "content": "Michael Gove is in charge of delivering Boris Johnson's flagship policy - here is what he plans to do.",
+        "placed": "Politics",
+        "epoch": 1636722004.831344,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Frost and Šefčovič to discuss NI Protocol progress",
+        "en_content": "Michael Gove is in charge of delivering Boris Johnson's flagship policy - here is what he plans to do.",
+        "concepts": [
+            {
+                "word": "Frost",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Šefčovič",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Protocol",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "progress",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-11-11",
+        "date_raw": "2021-11-11",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59238435",
+        "content": "Invoking the post-Brexit clause would be poisonous, says Labour's shadow NI secretary Louise Haigh.",
+        "placed": "Politics",
+        "epoch": 1636722004.8313584,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Political editor",
+        "en_content": "Invoking the post-Brexit clause would be poisonous, says Labour's shadow NI secretary Louise Haigh.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Gove's plan to end levelling-up confusion",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59257107",
+        "content": "Around 1,000 people reached the UK by boat on Thursday, with more than 20,000 arriving this year.",
+        "placed": "Politics",
+        "epoch": 1636722004.8313828,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Gove's plan to end levelling-up confusion",
+        "en_content": "Around 1,000 people reached the UK by boat on Thursday, with more than 20,000 arriving this year.",
+        "concepts": [
+            {
+                "word": "Gove",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "levelling",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "confusion",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Triggering Article 16 'would provoke instability'",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59257286",
+        "content": "Michael Fawcett faces claims he offered to help a wealthy Saudi donor secure an honour.",
+        "placed": "Politics",
+        "epoch": 1636722004.8313982,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Triggering Article 16 'would provoke instability'",
+        "en_content": "Michael Fawcett faces claims he offered to help a wealthy Saudi donor secure an honour.",
+        "concepts": [
+            {
+                "word": "Article",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "instability",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Migrant Channel crossings hit new daily record",
+        "date": "2021-11-11",
+        "date_raw": "2021-11-11",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59243206",
+        "content": "The defence secretary writes to Labour and the SNP over claims about a trip arranged with the military.",
+        "placed": "Politics",
+        "epoch": 1636722004.831413,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Migrant Channel crossings hit new daily record",
+        "en_content": "The defence secretary writes to Labour and the SNP over claims about a trip arranged with the military.",
+        "concepts": [
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crossings",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "record",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "CEO quits Charles' charity amid honours inquiry",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59259338",
+        "content": "Michael Gove is in charge of delivering Boris Johnson's flagship policy - here is what he plans to do.",
+        "placed": "Politics",
+        "epoch": 1636722004.8314364,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "CEO quits Charles' charity amid honours inquiry",
+        "en_content": "Michael Gove is in charge of delivering Boris Johnson's flagship policy - here is what he plans to do.",
+        "concepts": [
+            {
+                "word": "CEO",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Charles",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "charity",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "inquiry",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Row over 'drunk' MPs on Gibraltar visit",
+        "date": "2021-11-11",
+        "date_raw": "2021-11-11",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59238435",
+        "content": "Invoking the post-Brexit clause would be poisonous, says Labour's shadow NI secretary Louise Haigh.",
+        "placed": "Politics",
+        "epoch": 1636722004.831451,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.8314662.json",
+        "en_title": "Row over 'drunk' MPs on Gibraltar visit",
+        "en_content": "Invoking the post-Brexit clause would be poisonous, says Labour's shadow NI secretary Louise Haigh.",
+        "concepts": [
+            {
+                "word": "Row",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Gibraltar",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "visit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

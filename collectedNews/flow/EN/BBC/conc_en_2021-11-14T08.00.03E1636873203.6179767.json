@@ -1,0 +1,685 @@
+[
+    {
+        "title": "New global climate deal struck in Glasgow",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59277788",
+        "content": "New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal",
+        "placed": "First_Page",
+        "epoch": 1636873203.6173737,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "New global climate deal struck in Glasgow",
+        "en_content": "New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal",
+        "concepts": [
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Glasgow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate deal 'won't save us from drowning'",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59268394",
+        "content": "Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil.",
+        "placed": "First_Page",
+        "epoch": 1636873203.6174257,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Climate deal 'won't save us from drowning'",
+        "en_content": "Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Alok Sharma fights back tears as climate pact reached",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59276651",
+        "content": "Steve Rosenberg reports from the migrant camps within touching distance of the EU.",
+        "placed": "First_Page",
+        "epoch": 1636873203.6174467,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Alok Sharma fights back tears as climate pact reached",
+        "en_content": "Steve Rosenberg reports from the migrant camps within touching distance of the EU.",
+        "concepts": [
+            {
+                "word": "Alok",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sharma",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tears",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pact",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Evasive words and coal compromise, but deal shows progress",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59277977",
+        "content": "The accountant-turned-novelist's 49 books have sold more than 140 million copies worldwide.",
+        "placed": "First_Page",
+        "epoch": 1636873203.6174772,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Evasive words and coal compromise, but deal shows progress",
+        "en_content": "The accountant-turned-novelist's 49 books have sold more than 140 million copies worldwide.",
+        "concepts": [
+            {
+                "word": "words",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "compromise",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "progress",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "How might decisions made at COP26 change our lives?",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59263761",
+        "content": "Most in the Netherlands support a new lockdown-lite, despite anti-lockdown protests making headlines.",
+        "placed": "First_Page",
+        "epoch": 1636873203.617514,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "How might decisions made at COP26 change our lives?",
+        "en_content": "Most in the Netherlands support a new lockdown-lite, despite anti-lockdown protests making headlines.",
+        "concepts": [
+            {
+                "word": "decisions",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lives",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'Paris built the arena, Glasgow starts the race'",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59278509",
+        "content": "The agency is investigating after thousands of messages were sent warning of a possible cyber-attack.",
+        "placed": "First_Page",
+        "epoch": 1636873203.6175437,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "'Paris built the arena, Glasgow starts the race'",
+        "en_content": "The agency is investigating after thousands of messages were sent warning of a possible cyber-attack.",
+        "concepts": [
+            {
+                "word": "Paris",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "arena",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Glasgow",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "race",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Gang fight at Ecuador prison leaves 68 dead",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59276428",
+        "content": "Large crowds are expected as veterans and military personnel gather for the ceremony in central London.",
+        "placed": "First_Page",
+        "epoch": 1636873203.617571,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Gang fight at Ecuador prison leaves 68 dead",
+        "en_content": "Large crowds are expected as veterans and military personnel gather for the ceremony in central London.",
+        "concepts": [
+            {
+                "word": "Gang",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fight",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ecuador",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prison",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The migrants camped on the EU's freezing border",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59273174",
+        "content": "Five protesters were killed, medics say, days after military leaders tightened their grip on power.",
+        "placed": "First_Page",
+        "epoch": 1636873203.6175973,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "The migrants camped on the EU's freezing border",
+        "en_content": "Five protesters were killed, medics say, days after military leaders tightened their grip on power.",
+        "concepts": [
+            {
+                "word": "migrants",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "border",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Best-selling author Wilbur Smith dies aged 88",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59278275",
+        "content": "The world's second largest airline says climate change is the biggest challenge facing aviation.",
+        "placed": "First_Page",
+        "epoch": 1636873203.6176233,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Best-selling author Wilbur Smith dies aged 88",
+        "en_content": "The world's second largest airline says climate change is the biggest challenge facing aviation.",
+        "concepts": [
+            {
+                "word": "author",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Wilbur",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smith",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "As another lockdown starts, Dutch ask: When will this end?",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59274688",
+        "content": "Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland.",
+        "placed": "First_Page",
+        "epoch": 1636873203.6176896,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "As another lockdown starts, Dutch ask: When will this end?",
+        "en_content": "Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland.",
+        "concepts": [
+            {
+                "word": "lockdown",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ask",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Fake email messages sent from internal FBI server",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59278277",
+        "content": "The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child \"needs two parents\".",
+        "placed": "First_Page",
+        "epoch": 1636873203.617716,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Fake email messages sent from internal FBI server",
+        "en_content": "The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child \"needs two parents\".",
+        "concepts": [
+            {
+                "word": "email",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "messages",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "FBI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "server",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Queen to attend Cenotaph Remembrance service",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59276572",
+        "content": "Kid Galahad suffers a devastating defeat in his maiden defence of the IBF world featherweight title, knocked out in the sixth round by Spaniard Kiko Martinez.",
+        "placed": "First_Page",
+        "epoch": 1636873203.6177475,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Queen to attend Cenotaph Remembrance service",
+        "en_content": "Kid Galahad suffers a devastating defeat in his maiden defence of the IBF world featherweight title, knocked out in the sixth round by Spaniard Kiko Martinez.",
+        "concepts": [
+            {
+                "word": "Queen",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Cenotaph",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Remembrance",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "service",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Five deaths reported in fresh Sudan coup protests",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59276274",
+        "content": "The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child \"needs two parents\".",
+        "placed": "First_Page",
+        "epoch": 1636873203.6177733,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Five deaths reported in fresh Sudan coup protests",
+        "en_content": "The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child \"needs two parents\".",
+        "concepts": [
+            {
+                "word": "deaths",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Delta: Climate change means flying will cost more",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59261408",
+        "content": "Kid Galahad suffers a devastating defeat in his maiden defence of the IBF world featherweight title, knocked out in the sixth round by Spaniard Kiko Martinez.",
+        "placed": "First_Page",
+        "epoch": 1636873203.617812,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Delta: Climate change means flying will cost more",
+        "en_content": "Kid Galahad suffers a devastating defeat in his maiden defence of the IBF world featherweight title, knocked out in the sixth round by Spaniard Kiko Martinez.",
+        "concepts": [
+            {
+                "word": "Delta",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Putin warns Belarus over gas threat to Europe",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59274351",
+        "content": "Glen de Vries went to the the edge of space with Star Trek actor William Shatner just one month ago.",
+        "placed": "First_Page",
+        "epoch": 1636873203.6178381,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Putin warns Belarus over gas threat to Europe",
+        "en_content": "Glen de Vries went to the the edge of space with Star Trek actor William Shatner just one month ago.",
+        "concepts": [
+            {
+                "word": "Putin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "threat",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Richard Ratcliffe ends hunger strike after 21 days",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59275772",
+        "content": "Australia and New Zealand meet in an unexpected T20 World Cup final on Sunday, with both chasing their own pieces of history.",
+        "placed": "First_Page",
+        "epoch": 1636873203.6178641,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Richard Ratcliffe ends hunger strike after 21 days",
+        "en_content": "Australia and New Zealand meet in an unexpected T20 World Cup final on Sunday, with both chasing their own pieces of history.",
+        "concepts": [
+            {
+                "word": "Richard",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ratcliffe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hunger",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "days",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Martinez stuns Galahad to take IBF title",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/boxing/59278155",
+        "content": "Three people are killed by scorpion stings after storms brought the creatures onto the streets.",
+        "placed": "First_Page",
+        "epoch": 1636873203.617894,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Martinez stuns Galahad to take IBF title",
+        "en_content": "Three people are killed by scorpion stings after storms brought the creatures onto the streets.",
+        "concepts": [
+            {
+                "word": "Martinez",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "Galahad",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "IBF",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "title",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Richard Ratcliffe ends hunger strike after 21 days",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59275772",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1636873203.6179194,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Richard Ratcliffe ends hunger strike after 21 days",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Richard",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ratcliffe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hunger",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strike",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "days",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Martinez stuns Galahad to take IBF title",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/boxing/59278155",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1636873203.6179445,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.6179767.json",
+        "en_title": "Martinez stuns Galahad to take IBF title",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Martinez",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "Galahad",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "IBF",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "title",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

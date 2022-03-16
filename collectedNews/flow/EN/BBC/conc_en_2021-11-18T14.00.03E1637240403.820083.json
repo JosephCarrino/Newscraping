@@ -1,0 +1,441 @@
+[
+    {
+        "title": "HS2 Leeds leg cut amid promise to transform rail",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59334043",
+        "content": "A key leg of the high speed rail line is axed but government says upgrades will improve services.",
+        "placed": "Politics",
+        "epoch": 1637240403.819884,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "HS2 Leeds leg cut amid promise to transform rail",
+        "en_content": "A key leg of the high speed rail line is axed but government says upgrades will improve services.",
+        "concepts": [
+            {
+                "word": "HS2",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leeds",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leg",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cut",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "promise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "rail",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "HS2 Leeds leg cut amid promise to transform rail",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59334043",
+        "content": "A key leg of the high speed rail line is axed but government says upgrades will improve services.",
+        "placed": "Politics",
+        "epoch": 1637240403.8199108,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "HS2 Leeds leg cut amid promise to transform rail",
+        "en_content": "A key leg of the high speed rail line is axed but government says upgrades will improve services.",
+        "concepts": [
+            {
+                "word": "HS2",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leeds",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leg",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cut",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "promise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "rail",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rail times in northern England to be slashed - Shapps",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-59331826",
+        "content": "The comments follow MPs voting to tighten the rules around paid work on top of their constituency job.",
+        "placed": "Politics",
+        "epoch": 1637240403.81993,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "Rail times in northern England to be slashed - Shapps",
+        "en_content": "The comments follow MPs voting to tighten the rules around paid work on top of their constituency job.",
+        "concepts": [
+            {
+                "word": "Rail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "times",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "England",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Shapps",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM: I crashed the car over Paterson case",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59330152",
+        "content": "Labour says the move to change the way care costs are covered will hit the poorest hardest.",
+        "placed": "Politics",
+        "epoch": 1637240403.819947,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "PM: I crashed the car over Paterson case",
+        "en_content": "Labour says the move to change the way care costs are covered will hit the poorest hardest.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "car",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59323311",
+        "content": "Priti Patel says the inquiry will examine any Russian involvement in Dawn Sturgess's death in 2018.",
+        "placed": "Politics",
+        "epoch": 1637240403.8199635,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "Political editor",
+        "en_content": "Priti Patel says the inquiry will examine any Russian involvement in Dawn Sturgess's death in 2018.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Government changes rules on social care cap",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-wiltshire-59332227",
+        "content": "Labour accuses Gillian Keegan of a \"ridiculous\" attempt to avoid transparency over Covid contracts.",
+        "placed": "Politics",
+        "epoch": 1637240403.8199792,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "Government changes rules on social care cap",
+        "en_content": "Labour accuses Gillian Keegan of a \"ridiculous\" attempt to avoid transparency over Covid contracts.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cap",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Public inquiry to be held into Novichok death",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59320858",
+        "content": "A key leg of the high speed rail line is axed but government says upgrades will improve services.",
+        "placed": "Politics",
+        "epoch": 1637240403.8199942,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "Public inquiry to be held into Novichok death",
+        "en_content": "A key leg of the high speed rail line is axed but government says upgrades will improve services.",
+        "concepts": [
+            {
+                "word": "inquiry",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Novichok",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Minister says she can't find Randox meeting minutes",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59334043",
+        "content": "The comments follow MPs voting to tighten the rules around paid work on top of their constituency job.",
+        "placed": "Politics",
+        "epoch": 1637240403.8200092,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "Minister says she can't find Randox meeting minutes",
+        "en_content": "The comments follow MPs voting to tighten the rules around paid work on top of their constituency job.",
+        "concepts": [
+            {
+                "word": "Minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Randox",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "meeting",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minutes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "HS2 Leeds leg cut amid promise to transform rail",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-59331826",
+        "content": "Labour says the move to change the way care costs are covered will hit the poorest hardest.",
+        "placed": "Politics",
+        "epoch": 1637240403.8200238,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "HS2 Leeds leg cut amid promise to transform rail",
+        "en_content": "Labour says the move to change the way care costs are covered will hit the poorest hardest.",
+        "concepts": [
+            {
+                "word": "HS2",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leeds",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leg",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cut",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "promise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "rail",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rail times in northern England to be slashed - Shapps",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59330152",
+        "content": "Priti Patel says the inquiry will examine any Russian involvement in Dawn Sturgess's death in 2018.",
+        "placed": "Politics",
+        "epoch": 1637240403.8200388,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "Rail times in northern England to be slashed - Shapps",
+        "en_content": "Priti Patel says the inquiry will examine any Russian involvement in Dawn Sturgess's death in 2018.",
+        "concepts": [
+            {
+                "word": "Rail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "times",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "England",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Shapps",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM: I crashed the car over Paterson case",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59323311",
+        "content": "Labour accuses Gillian Keegan of a \"ridiculous\" attempt to avoid transparency over Covid contracts.",
+        "placed": "Politics",
+        "epoch": 1637240403.820054,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "PM: I crashed the car over Paterson case",
+        "en_content": "Labour accuses Gillian Keegan of a \"ridiculous\" attempt to avoid transparency over Covid contracts.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "car",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-wiltshire-59332227",
+        "content": "The comments follow MPs voting to tighten the rules around paid work on top of their constituency job.",
+        "placed": "Politics",
+        "epoch": 1637240403.8200688,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T14.00.03E1637240403.820083.json",
+        "en_title": "Political editor",
+        "en_content": "The comments follow MPs voting to tighten the rules around paid work on top of their constituency job.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

@@ -1,0 +1,660 @@
+[
+    {
+        "title": "'If Glasgow fails, whole thing fails', says Johnson",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/world-59082573",
+        "content": "The UK prime minister says there are no compelling reasons for procrastination on climate change.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8712592,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "'If Glasgow fails, whole thing fails', says Johnson",
+        "en_content": "The UK prime minister says there are no compelling reasons for procrastination on climate change.",
+        "concepts": [
+            {
+                "word": "Glasgow",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "thing",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'If Glasgow fails, whole thing fails', says Johnson",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/world-59082573",
+        "content": "The UK prime minister says there are no compelling reasons for procrastination on climate change.",
+        "placed": "Abroad",
+        "epoch": 1635706803.87129,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "'If Glasgow fails, whole thing fails', says Johnson",
+        "en_content": "The UK prime minister says there are no compelling reasons for procrastination on climate change.",
+        "concepts": [
+            {
+                "word": "Glasgow",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "thing",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "G20 pledge climate action but make few commitments",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59109186",
+        "content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "placed": "Abroad",
+        "epoch": 1635706803.871312,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "G20 pledge climate action but make few commitments",
+        "en_content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledge",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "commitments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Car bombing at Yemen airport kills nine",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59109560",
+        "content": "The attack near Aden's airport is the deadliest to strike the temporary capital since last year.",
+        "placed": "Abroad",
+        "epoch": 1635706803.871331,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "Car bombing at Yemen airport kills nine",
+        "en_content": "The attack near Aden's airport is the deadliest to strike the temporary capital since last year.",
+        "concepts": [
+            {
+                "word": "Car",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bombing",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Yemen",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "airport",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59103664",
+        "content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "placed": "Abroad",
+        "epoch": 1635706803.871349,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "en_content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "concepts": [
+            {
+                "word": "Tokyo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "subway",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "knife",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hurt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Sudan anti-coup protesters barricade roads",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59109729",
+        "content": "Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8713672,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "Sudan anti-coup protesters barricade roads",
+        "en_content": "Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday.",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'Father of tiramisu' Ado Campeol dies aged 93",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59103658",
+        "content": "Campeol owned a restaurant in Italy where the dessert was invented by his wife and a pastry chef.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8714025,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "'Father of tiramisu' Ado Campeol dies aged 93",
+        "en_content": "Campeol owned a restaurant in Italy where the dessert was invented by his wife and a pastry chef.",
+        "concepts": [
+            {
+                "word": "Father",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "tiramisu",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ado",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Campeol",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Man dies during Spanish bull-running event",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59103659",
+        "content": "Authorities said the man suffered a head wound and had an artery punctured in his thigh by the bull.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8714428,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "Man dies during Spanish bull-running event",
+        "en_content": "Authorities said the man suffered a head wound and had an artery punctured in his thigh by the bull.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bull",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "event",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'If Glasgow fails, whole thing fails', says Johnson",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/world-59082573",
+        "content": "The UK prime minister says there are no compelling reasons for procrastination on climate change.",
+        "placed": "Abroad",
+        "epoch": 1635706803.871478,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "'If Glasgow fails, whole thing fails', says Johnson",
+        "en_content": "The UK prime minister says there are no compelling reasons for procrastination on climate change.",
+        "concepts": [
+            {
+                "word": "Glasgow",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "thing",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "G20 pledge climate action but make few commitments",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59109186",
+        "content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "placed": "Abroad",
+        "epoch": 1635706803.871516,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "G20 pledge climate action but make few commitments",
+        "en_content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledge",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "commitments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Car bombing at Yemen airport kills nine",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59109560",
+        "content": "The attack near Aden's airport is the deadliest to strike the temporary capital since last year.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8715556,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "Car bombing at Yemen airport kills nine",
+        "en_content": "The attack near Aden's airport is the deadliest to strike the temporary capital since last year.",
+        "concepts": [
+            {
+                "word": "Car",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bombing",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Yemen",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "airport",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59103664",
+        "content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8715925,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "en_content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "concepts": [
+            {
+                "word": "Tokyo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "subway",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "knife",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hurt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Sudan anti-coup protesters barricade roads",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59109729",
+        "content": "Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8716276,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "Sudan anti-coup protesters barricade roads",
+        "en_content": "Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday.",
+        "concepts": [
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protesters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'Father of tiramisu' Ado Campeol dies aged 93",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59103658",
+        "content": "Campeol owned a restaurant in Italy where the dessert was invented by his wife and a pastry chef.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8716629,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "'Father of tiramisu' Ado Campeol dies aged 93",
+        "en_content": "Campeol owned a restaurant in Italy where the dessert was invented by his wife and a pastry chef.",
+        "concepts": [
+            {
+                "word": "Father",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "tiramisu",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ado",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Campeol",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Man dies during Spanish bull-running event",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59103659",
+        "content": "Authorities said the man suffered a head wound and had an artery punctured in his thigh by the bull.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8717,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "Man dies during Spanish bull-running event",
+        "en_content": "Authorities said the man suffered a head wound and had an artery punctured in his thigh by the bull.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "bull",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "event",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "G20 pledge climate action but make few commitments",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59109186",
+        "content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8717275,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "G20 pledge climate action but make few commitments",
+        "en_content": "The agreement between the world's richest economies makes no reference to cutting emissions by 2050.",
+        "concepts": [
+            {
+                "word": "G20",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledge",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "commitments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Car bombing at Yemen airport kills nine",
+        "date_raw": "2021-10-30",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59109560",
+        "content": "The attack near Aden's airport is the deadliest to strike the temporary capital since last year.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8717644,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "Car bombing at Yemen airport kills nine",
+        "en_content": "The attack near Aden's airport is the deadliest to strike the temporary capital since last year.",
+        "concepts": [
+            {
+                "word": "Car",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bombing",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Yemen",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "airport",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "date_raw": "2021-10-31",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59103664",
+        "content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "placed": "Abroad",
+        "epoch": 1635706803.8717854,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-10-31T20.00.03E1635706803.8718061.json",
+        "en_title": "Tokyo subway knife and fire attack leaves 17 hurt",
+        "en_content": "Video footage shows passengers desperately running from fire and a man said to be wielding a knife.",
+        "concepts": [
+            {
+                "word": "Tokyo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "subway",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "knife",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hurt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

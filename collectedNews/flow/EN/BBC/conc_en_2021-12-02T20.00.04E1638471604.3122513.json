@@ -1,0 +1,705 @@
+[
+    {
+        "title": "Germany bars unvaccinated from much of public life",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59502180",
+        "content": "Chancellor Angela Merkel describes the far-reaching measures as an act of \"national solidarity\".",
+        "placed": "First_Page",
+        "epoch": 1638471604.3119242,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Germany bars unvaccinated from much of public life",
+        "en_content": "Chancellor Angela Merkel describes the far-reaching measures as an act of \"national solidarity\".",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "life",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Germany bars unvaccinated from much of public life",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59502180",
+        "content": "Chancellor Angela Merkel describes the far-reaching measures as an act of \"national solidarity\".",
+        "placed": "First_Page",
+        "epoch": 1638471604.311956,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Germany bars unvaccinated from much of public life",
+        "en_content": "Chancellor Angela Merkel describes the far-reaching measures as an act of \"national solidarity\".",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "life",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Omicron drives major surge in S Africa Covid cases",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59503517",
+        "content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3119783,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Omicron drives major surge in S Africa Covid cases",
+        "en_content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cases",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Russia warns of military confrontation nightmare",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59503762",
+        "content": "Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion.",
+        "placed": "First_Page",
+        "epoch": 1638471604.312002,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Russia warns of military confrontation nightmare",
+        "en_content": "Foreign Minister Sergei Lavrov floats the idea of a new European security pact to prevent Nato expansion.",
+        "concepts": [
+            {
+                "word": "Russia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "confrontation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nightmare",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ex-Afghan president: The Taliban are my brothers",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59505688",
+        "content": "In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3120136,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Ex-Afghan president: The Taliban are my brothers",
+        "en_content": "In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "president",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "brothers",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Shock over verdict in judo champion’s assault case",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59503827",
+        "content": "Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3120346,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Shock over verdict in judo champion’s assault case",
+        "en_content": "Margaux Pinot accuses her partner of domestic abuse, but a court acquits him, citing lack of proof.",
+        "concepts": [
+            {
+                "word": "Shock",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "verdict",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "judo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "champion",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "assault",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Elle to stop promoting animal fur in its magazines",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59511820",
+        "content": "It is the first major fashion publication to make the pledge, citing its support for animal rights.",
+        "placed": "First_Page",
+        "epoch": 1638471604.312051,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Elle to stop promoting animal fur in its magazines",
+        "en_content": "It is the first major fashion publication to make the pledge, citing its support for animal rights.",
+        "concepts": [
+            {
+                "word": "Elle",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "animal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fur",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "magazines",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ikea customers and staff sleep in store after snow",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59509814",
+        "content": "The group was left stranded after up to 30cm (12in) of snow fell in the Danish city of Aalborg.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3120654,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Ikea customers and staff sleep in store after snow",
+        "en_content": "The group was left stranded after up to 30cm (12in) of snow fell in the Danish city of Aalborg.",
+        "concepts": [
+            {
+                "word": "Ikea",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "customers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "staff",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sleep",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "store",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "snow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Second US Omicron case as Biden urges booster jabs",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59512368",
+        "content": "Public health officials in Minnesota have just reported a second US case of the Omicron variant.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3120794,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Second US Omicron case as Biden urges booster jabs",
+        "en_content": "Public health officials in Minnesota have just reported a second US case of the Omicron variant.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "booster",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jabs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Merkel picks punk singer for big farewell event",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59502177",
+        "content": "Nina Hagen's song will be played during a military ceremony in the outgoing chancellor's honour.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3120947,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Merkel picks punk singer for big farewell event",
+        "en_content": "Nina Hagen's song will be played during a military ceremony in the outgoing chancellor's honour.",
+        "concepts": [
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "punk",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "singer",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "farewell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "event",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Meghan wins ruling in Mail on Sunday privacy fight",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59502787",
+        "content": "The Duchess of Sussex took action after the paper carried extracts of a letter to her father.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3121116,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Meghan wins ruling in Mail on Sunday privacy fight",
+        "en_content": "The Duchess of Sussex took action after the paper carried extracts of a letter to her father.",
+        "concepts": [
+            {
+                "word": "Meghan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mail",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sunday",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "privacy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Maxwell lawyers seek to discredit key accuser",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59503757",
+        "content": "Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3121254,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Maxwell lawyers seek to discredit key accuser",
+        "en_content": "Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial.",
+        "concepts": [
+            {
+                "word": "Maxwell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawyers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "accuser",
+                "meaning": "advmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Meghan wins ruling in Mail on Sunday privacy fight",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59502787",
+        "content": "The Duchess of Sussex took action after the paper carried extracts of a letter to her father.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3121393,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Meghan wins ruling in Mail on Sunday privacy fight",
+        "en_content": "The Duchess of Sussex took action after the paper carried extracts of a letter to her father.",
+        "concepts": [
+            {
+                "word": "Meghan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mail",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sunday",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "privacy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Maxwell lawyers seek to discredit key accuser",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59503757",
+        "content": "Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3121564,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Maxwell lawyers seek to discredit key accuser",
+        "en_content": "Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial.",
+        "concepts": [
+            {
+                "word": "Maxwell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawyers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "accuser",
+                "meaning": "advmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Scientists find trigger for rare AstraZeneca clots",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59418123",
+        "content": "Researchers in Cardiff and the US work out how the Covid jab may be linked to the extremely rare clots.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3121703,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Scientists find trigger for rare AstraZeneca clots",
+        "en_content": "Researchers in Cardiff and the US work out how the Covid jab may be linked to the extremely rare clots.",
+        "concepts": [
+            {
+                "word": "Scientists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trigger",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "AstraZeneca",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "clots",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Facebook uncovers China network behind fake expert",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59456548",
+        "content": "It deleted 500 accounts which amplified claims that the US was meddling in the Covid origins search.",
+        "placed": "First_Page",
+        "epoch": 1638471604.312184,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Facebook uncovers China network behind fake expert",
+        "en_content": "It deleted 500 accounts which amplified claims that the US was meddling in the Covid origins search.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "uncovers",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "network",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "expert",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Lizard found after accidental 4,500-mile bag trip",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-tyne-59508158",
+        "content": "The lizard had crept into a holidaymaker's bag and flew from Orlando to Whitley Bay.",
+        "placed": "First_Page",
+        "epoch": 1638471604.3122017,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "Lizard found after accidental 4,500-mile bag trip",
+        "en_content": "The lizard had crept into a holidaymaker's bag and flew from Orlando to Whitley Bay.",
+        "concepts": [
+            {
+                "word": "Lizard",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "mile",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bag",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trip",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "How do you say 'Omicron'?",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59512165",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638471604.3122156,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "How do you say 'Omicron'?",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638471604.3122292,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T20.00.04E1638471604.3122513.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

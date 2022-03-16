@@ -1,0 +1,685 @@
+[
+    {
+        "title": "Child is sixth fatality in US parade car-ramming",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59396999",
+        "content": "An eight-year-old boy is the latest person to die after a car ploughed into a crowd in Wisconsin.",
+        "placed": "First_Page",
+        "epoch": 1637737203.474293,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Child is sixth fatality in US parade car-ramming",
+        "en_content": "An eight-year-old boy is the latest person to die after a car ploughed into a crowd in Wisconsin.",
+        "concepts": [
+            {
+                "word": "Child",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "fatality",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "car",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ramming",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Child is sixth fatality in US parade car-ramming",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59396999",
+        "content": "An eight-year-old boy is the latest person to die after a car ploughed into a crowd in Wisconsin.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4743276,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Child is sixth fatality in US parade car-ramming",
+        "en_content": "An eight-year-old boy is the latest person to die after a car ploughed into a crowd in Wisconsin.",
+        "concepts": [
+            {
+                "word": "Child",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "fatality",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "car",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ramming",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Mission to smack a space rock launches",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59327293",
+        "content": "A spacecraft has started its journey as it aims to deliberately nudge an asteroid off course.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4743478,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Mission to smack a space rock launches",
+        "en_content": "A spacecraft has started its journey as it aims to deliberately nudge an asteroid off course.",
+        "concepts": [
+            {
+                "word": "Mission",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "space",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rock",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "launches",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Far-right rally organisers must pay damages ",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59355019",
+        "content": "A woman died after an avowed neo-Nazi drove a car into counter-protesters in Charlottesville, Virginia.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4743655,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Far-right rally organisers must pay damages ",
+        "en_content": "A woman died after an avowed neo-Nazi drove a car into counter-protesters in Charlottesville, Virginia.",
+        "concepts": [
+            {
+                "word": "rally",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "organisers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "damages",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Europe faces 700,000 more Covid deaths, WHO warns",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59397182",
+        "content": "The World Health Organization says the regional death toll could exceed 2.2 million by 1 March.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4743826,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Europe faces 700,000 more Covid deaths, WHO warns",
+        "en_content": "The World Health Organization says the regional death toll could exceed 2.2 million by 1 March.",
+        "concepts": [
+            {
+                "word": "Europe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deaths",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'Ahmaud was wonderful in every way'",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59399109",
+        "content": "In an exclusive BBC interview, Ahmaud Arbery's sister remembers the jogger killed by three white men.",
+        "placed": "First_Page",
+        "epoch": 1637737203.474394,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "'Ahmaud was wonderful in every way'",
+        "en_content": "In an exclusive BBC interview, Ahmaud Arbery's sister remembers the jogger killed by three white men.",
+        "concepts": [
+            {
+                "word": "Ahmaud",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "way",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Photographer sorry for 'small eyes' Dior picture",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59397737",
+        "content": "Some Chinese netizens found her photo insulting and racist as it showed a woman with small eyes.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4744139,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Photographer sorry for 'small eyes' Dior picture",
+        "en_content": "Some Chinese netizens found her photo insulting and racist as it showed a woman with small eyes.",
+        "concepts": [
+            {
+                "word": "eyes",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "picture",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Giant chimneys get demolished in Australia",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59397899",
+        "content": "Huge amounts of metal and concrete will be recycled after the demolition of an old coal power plant.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4744291,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Giant chimneys get demolished in Australia",
+        "en_content": "Huge amounts of metal and concrete will be recycled after the demolition of an old coal power plant.",
+        "concepts": [
+            {
+                "word": "chimneys",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Australia",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Apple sues Israeli spyware firm NSO Group",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59393823",
+        "content": "Apple is the latest in a string of firms and governments to go after the hacking tool firm.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4744377,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Apple sues Israeli spyware firm NSO Group",
+        "en_content": "Apple is the latest in a string of firms and governments to go after the hacking tool firm.",
+        "concepts": [
+            {
+                "word": "Apple",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spyware",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "firm",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "NSO",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Group",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia escalation prompts foreign exodus call",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59395482",
+        "content": "Germany and France are the latest countries to advise citizens to leave, as the UN relocates staff.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4744525,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Ethiopia escalation prompts foreign exodus call",
+        "en_content": "Germany and France are the latest countries to advise citizens to leave, as the UN relocates staff.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "escalation",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "exodus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "call",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "LGBT in Poland: I still can't be myself",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59396518",
+        "content": "Provinces recently started to backtrack on \"LGBT-free zones\" after the EU threatened to freeze funds.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4744678,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "LGBT in Poland: I still can't be myself",
+        "en_content": "Provinces recently started to backtrack on \"LGBT-free zones\" after the EU threatened to freeze funds.",
+        "concepts": [
+            {
+                "word": "LGBT",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Poland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Deadly bus inferno survivors fled through window",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59389864",
+        "content": "At least 46 people, including 12 children, died when the vehicle caught fire on a Bulgarian motorway.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4744828,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Deadly bus inferno survivors fled through window",
+        "en_content": "At least 46 people, including 12 children, died when the vehicle caught fire on a Bulgarian motorway.",
+        "concepts": [
+            {
+                "word": "bus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "inferno",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "survivors",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "window",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "LGBT in Poland: I still can't be myself",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59396518",
+        "content": "Provinces recently started to backtrack on \"LGBT-free zones\" after the EU threatened to freeze funds.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4744902,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "LGBT in Poland: I still can't be myself",
+        "en_content": "Provinces recently started to backtrack on \"LGBT-free zones\" after the EU threatened to freeze funds.",
+        "concepts": [
+            {
+                "word": "LGBT",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Poland",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Deadly bus inferno survivors fled through window",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59389864",
+        "content": "At least 46 people, including 12 children, died when the vehicle caught fire on a Bulgarian motorway.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4745047,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Deadly bus inferno survivors fled through window",
+        "en_content": "At least 46 people, including 12 children, died when the vehicle caught fire on a Bulgarian motorway.",
+        "concepts": [
+            {
+                "word": "bus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "inferno",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "survivors",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "window",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New Zealand to re-open to vaccinated visitors",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59397637",
+        "content": "It is easing curbs that have locked out many citizens and tourists since the start of the pandemic.",
+        "placed": "First_Page",
+        "epoch": 1637737203.474519,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "New Zealand to re-open to vaccinated visitors",
+        "en_content": "It is easing curbs that have locked out many citizens and tourists since the start of the pandemic.",
+        "concepts": [
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Zealand",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "visitors",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Missouri man exonerated after 42 years behind bars",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59396598",
+        "content": "Kevin Strickland was arrested at age 18 and convicted of a triple murder he did not commit.",
+        "placed": "First_Page",
+        "epoch": 1637737203.4745264,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Missouri man exonerated after 42 years behind bars",
+        "en_content": "Kevin Strickland was arrested at age 18 and convicted of a triple murder he did not commit.",
+        "concepts": [
+            {
+                "word": "Missouri",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "npadvmod",
+                "pos": "ADP"
+            },
+            {
+                "word": "bars",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Weeknd track named Billboard's all time No. 1 song",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59397120",
+        "content": "Blinding Lights ousts Chubby Checker's 1960s hit The Twist to clinch the top spot.",
+        "placed": "First_Page",
+        "epoch": 1637737203.474544,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Weeknd track named Billboard's all time No. 1 song",
+        "en_content": "Blinding Lights ousts Chubby Checker's 1960s hit The Twist to clinch the top spot.",
+        "concepts": [
+            {
+                "word": "Weeknd",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "track",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Billboard",
+                "meaning": "oprd",
+                "pos": "VERB"
+            },
+            {
+                "word": "time",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "No",
+                "meaning": "oprd",
+                "pos": "VERB"
+            },
+            {
+                "word": ".",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "song",
+                "meaning": "oprd",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Hawkeye: A Marvel TV show about impostor syndrome",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/newsbeat-59388069",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1637737203.474558,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "Hawkeye: A Marvel TV show about impostor syndrome",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Hawkeye",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Marvel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "show",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "impostor",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "syndrome",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1637737203.474572,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-24T08.00.03E1637737203.474595.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

@@ -1,0 +1,663 @@
+[
+    {
+        "title": "PM under fire over No 10 lockdown Christmas parties",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59491568",
+        "content": "Boris Johnson says all Covid guidance was followed after reports of parties last year in Downing Street.",
+        "placed": "Politics",
+        "epoch": 1638385203.7300997,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "PM under fire over No 10 lockdown Christmas parties",
+        "en_content": "Boris Johnson says all Covid guidance was followed after reports of parties last year in Downing Street.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM under fire over No 10 lockdown Christmas parties",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59491568",
+        "content": "Boris Johnson says all Covid guidance was followed after reports of parties last year in Downing Street.",
+        "placed": "Politics",
+        "epoch": 1638385203.7301283,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "PM under fire over No 10 lockdown Christmas parties",
+        "en_content": "Boris Johnson says all Covid guidance was followed after reports of parties last year in Downing Street.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pre-travel Covid tests would be valuable - scientists",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59489339",
+        "content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "placed": "Politics",
+        "epoch": 1638385203.7301483,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Pre-travel Covid tests would be valuable - scientists",
+        "en_content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "concepts": [
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "scientists",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rees-Mogg investigated by standards watchdog",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59491565",
+        "content": "The Commons leader denies breaking the rules over £6m in loans from one of his own companies.",
+        "placed": "Politics",
+        "epoch": 1638385203.7301657,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Rees-Mogg investigated by standards watchdog",
+        "en_content": "The Commons leader denies breaking the rules over £6m in loans from one of his own companies.",
+        "concepts": [
+            {
+                "word": "Rees",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mogg",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "watchdog",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Help for home changes pledged in social care plan",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59494574",
+        "content": "Ministers say how they want to spend extra money - but are accused of failing to fix immediate problems.",
+        "placed": "Politics",
+        "epoch": 1638385203.730182,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Help for home changes pledged in social care plan",
+        "en_content": "Ministers say how they want to spend extra money - but are accused of failing to fix immediate problems.",
+        "concepts": [
+            {
+                "word": "Help",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "home",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "changes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "What's happened to the 40 new hospitals pledge?",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/59372348",
+        "content": "The Conservatives' 2019 manifesto promised 40 new hospitals across England - are they delivering on this?",
+        "placed": "Politics",
+        "epoch": 1638385203.7301974,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "What's happened to the 40 new hospitals pledge?",
+        "en_content": "The Conservatives' 2019 manifesto promised 40 new hospitals across England - are they delivering on this?",
+        "concepts": [
+            {
+                "word": "hospitals",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Turning back boats will increase danger, MPs warn",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59481143",
+        "content": "Home Secretary Priti Patel is urged to ditch plans to push back migrants trying to cross the Channel.",
+        "placed": "Politics",
+        "epoch": 1638385203.7302127,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Turning back boats will increase danger, MPs warn",
+        "en_content": "Home Secretary Priti Patel is urged to ditch plans to push back migrants trying to cross the Channel.",
+        "concepts": [
+            {
+                "word": "boats",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "danger",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Family spending predicted to rise £1,700 a year",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59477093",
+        "content": "Monthly spend over Christmas expected to increase by £109, according to projections for BBC Panorama.",
+        "placed": "Politics",
+        "epoch": 1638385203.7302282,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Family spending predicted to rise £1,700 a year",
+        "en_content": "Monthly spend over Christmas expected to increase by £109, according to projections for BBC Panorama.",
+        "concepts": [
+            {
+                "word": "Family",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spending",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            }
+        ]
+    },
+    {
+        "title": "PM under fire over No 10 lockdown Christmas parties",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59491568",
+        "content": "Boris Johnson says all Covid guidance was followed after reports of parties last year in Downing Street.",
+        "placed": "Politics",
+        "epoch": 1638385203.730243,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "PM under fire over No 10 lockdown Christmas parties",
+        "en_content": "Boris Johnson says all Covid guidance was followed after reports of parties last year in Downing Street.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pre-travel Covid tests would be valuable - scientists",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59489339",
+        "content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "placed": "Politics",
+        "epoch": 1638385203.730258,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Pre-travel Covid tests would be valuable - scientists",
+        "en_content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "concepts": [
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "scientists",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rees-Mogg investigated by standards watchdog",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59491565",
+        "content": "The Commons leader denies breaking the rules over £6m in loans from one of his own companies.",
+        "placed": "Politics",
+        "epoch": 1638385203.7302728,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Rees-Mogg investigated by standards watchdog",
+        "en_content": "The Commons leader denies breaking the rules over £6m in loans from one of his own companies.",
+        "concepts": [
+            {
+                "word": "Rees",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mogg",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "watchdog",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Help for home changes pledged in social care plan",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59494574",
+        "content": "Ministers say how they want to spend extra money - but are accused of failing to fix immediate problems.",
+        "placed": "Politics",
+        "epoch": 1638385203.7302873,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Help for home changes pledged in social care plan",
+        "en_content": "Ministers say how they want to spend extra money - but are accused of failing to fix immediate problems.",
+        "concepts": [
+            {
+                "word": "Help",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "home",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "changes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "What's happened to the 40 new hospitals pledge?",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/59372348",
+        "content": "The Conservatives' 2019 manifesto promised 40 new hospitals across England - are they delivering on this?",
+        "placed": "Politics",
+        "epoch": 1638385203.7303019,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "What's happened to the 40 new hospitals pledge?",
+        "en_content": "The Conservatives' 2019 manifesto promised 40 new hospitals across England - are they delivering on this?",
+        "concepts": [
+            {
+                "word": "hospitals",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Turning back boats will increase danger, MPs warn",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59481143",
+        "content": "Home Secretary Priti Patel is urged to ditch plans to push back migrants trying to cross the Channel.",
+        "placed": "Politics",
+        "epoch": 1638385203.7303164,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Turning back boats will increase danger, MPs warn",
+        "en_content": "Home Secretary Priti Patel is urged to ditch plans to push back migrants trying to cross the Channel.",
+        "concepts": [
+            {
+                "word": "boats",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "danger",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Family spending predicted to rise £1,700 a year",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59477093",
+        "content": "Monthly spend over Christmas expected to increase by £109, according to projections for BBC Panorama.",
+        "placed": "Politics",
+        "epoch": 1638385203.7303307,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Family spending predicted to rise £1,700 a year",
+        "en_content": "Monthly spend over Christmas expected to increase by £109, according to projections for BBC Panorama.",
+        "concepts": [
+            {
+                "word": "Family",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spending",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            }
+        ]
+    },
+    {
+        "title": "Pre-travel Covid tests would be valuable - scientists",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59489339",
+        "content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "placed": "Politics",
+        "epoch": 1638385203.7303448,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Pre-travel Covid tests would be valuable - scientists",
+        "en_content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "concepts": [
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "scientists",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rees-Mogg investigated by standards watchdog",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59491565",
+        "content": "The Commons leader denies breaking the rules over £6m in loans from one of his own companies.",
+        "placed": "Politics",
+        "epoch": 1638385203.7303588,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Rees-Mogg investigated by standards watchdog",
+        "en_content": "The Commons leader denies breaking the rules over £6m in loans from one of his own companies.",
+        "concepts": [
+            {
+                "word": "Rees",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mogg",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "watchdog",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Help for home changes pledged in social care plan",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59494574",
+        "content": "Ministers say how they want to spend extra money - but are accused of failing to fix immediate problems.",
+        "placed": "Politics",
+        "epoch": 1638385203.730373,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T20.00.03E1638385203.730385.json",
+        "en_title": "Help for home changes pledged in social care plan",
+        "en_content": "Ministers say how they want to spend extra money - but are accused of failing to fix immediate problems.",
+        "concepts": [
+            {
+                "word": "Help",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "home",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "changes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

@@ -1,0 +1,628 @@
+[
+    {
+        "title": "Don't kiss strangers under mistletoe - minister",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59500232",
+        "content": "People should try to reduce Covid transmission so we can all enjoy Christmas \"knees up\", Therese Coffey says.",
+        "placed": "Politics",
+        "epoch": 1638428403.7584934,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Don't kiss strangers under mistletoe - minister",
+        "en_content": "People should try to reduce Covid transmission so we can all enjoy Christmas \"knees up\", Therese Coffey says.",
+        "concepts": [
+            {
+                "word": "strangers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "mistletoe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Don't kiss strangers under mistletoe - minister",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59500232",
+        "content": "People should try to reduce Covid transmission so we can all enjoy Christmas \"knees up\", Therese Coffey says.",
+        "placed": "Politics",
+        "epoch": 1638428403.7585201,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Don't kiss strangers under mistletoe - minister",
+        "en_content": "People should try to reduce Covid transmission so we can all enjoy Christmas \"knees up\", Therese Coffey says.",
+        "concepts": [
+            {
+                "word": "strangers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "mistletoe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kuenssberg: Playing by the rules?",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59500512",
+        "content": "Claims about Christmas parties at No 10 during last year's lockdown can't just be shrugged off.",
+        "placed": "Politics",
+        "epoch": 1638428403.7585394,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Kuenssberg: Playing by the rules?",
+        "en_content": "Claims about Christmas parties at No 10 during last year's lockdown can't just be shrugged off.",
+        "concepts": [
+            {
+                "word": "Kuenssberg",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "rules",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MoD aims to double female military recruits by 2030",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59499247",
+        "content": "The new target is unveiled in response to concerns raised by a committee of MPs.",
+        "placed": "Politics",
+        "epoch": 1638428403.758556,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "MoD aims to double female military recruits by 2030",
+        "en_content": "The new target is unveiled in response to concerns raised by a committee of MPs.",
+        "concepts": [
+            {
+                "word": "MoD",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "military",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "recruits",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "New plan to pay farmers who protect winter soil",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59499371",
+        "content": "The empty brown fields of winter countryside could be transformed under new land subsidy rules for England.",
+        "placed": "Politics",
+        "epoch": 1638428403.7585719,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "New plan to pay farmers who protect winter soil",
+        "en_content": "The empty brown fields of winter countryside could be transformed under new land subsidy rules for England.",
+        "concepts": [
+            {
+                "word": "plan",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "farmers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "winter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "soil",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Pre-travel Covid tests would be valuable - scientists",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59489339",
+        "content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "placed": "Politics",
+        "epoch": 1638428403.7585876,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Pre-travel Covid tests would be valuable - scientists",
+        "en_content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "concepts": [
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "scientists",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rees-Mogg investigated by standards watchdog",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59491565",
+        "content": "The Commons leader denies breaking the rules over £6m in loans from one of his own companies.",
+        "placed": "Politics",
+        "epoch": 1638428403.7586024,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Rees-Mogg investigated by standards watchdog",
+        "en_content": "The Commons leader denies breaking the rules over £6m in loans from one of his own companies.",
+        "concepts": [
+            {
+                "word": "Rees",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mogg",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "watchdog",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Help for home changes pledged in social care plan",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59494574",
+        "content": "Ministers say how they want to spend extra money - but are accused of failing to fix immediate problems.",
+        "placed": "Politics",
+        "epoch": 1638428403.758617,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Help for home changes pledged in social care plan",
+        "en_content": "Ministers say how they want to spend extra money - but are accused of failing to fix immediate problems.",
+        "concepts": [
+            {
+                "word": "Help",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "home",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "changes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Don't kiss strangers under mistletoe - minister",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59500232",
+        "content": "People should try to reduce Covid transmission so we can all enjoy Christmas \"knees up\", Therese Coffey says.",
+        "placed": "Politics",
+        "epoch": 1638428403.7586315,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Don't kiss strangers under mistletoe - minister",
+        "en_content": "People should try to reduce Covid transmission so we can all enjoy Christmas \"knees up\", Therese Coffey says.",
+        "concepts": [
+            {
+                "word": "strangers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "mistletoe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kuenssberg: Playing by the rules?",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59500512",
+        "content": "Claims about Christmas parties at No 10 during last year's lockdown can't just be shrugged off.",
+        "placed": "Politics",
+        "epoch": 1638428403.7586458,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Kuenssberg: Playing by the rules?",
+        "en_content": "Claims about Christmas parties at No 10 during last year's lockdown can't just be shrugged off.",
+        "concepts": [
+            {
+                "word": "Kuenssberg",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "rules",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MoD aims to double female military recruits by 2030",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59499247",
+        "content": "The new target is unveiled in response to concerns raised by a committee of MPs.",
+        "placed": "Politics",
+        "epoch": 1638428403.7586718,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "MoD aims to double female military recruits by 2030",
+        "en_content": "The new target is unveiled in response to concerns raised by a committee of MPs.",
+        "concepts": [
+            {
+                "word": "MoD",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "military",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "recruits",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "New plan to pay farmers who protect winter soil",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59499371",
+        "content": "The empty brown fields of winter countryside could be transformed under new land subsidy rules for England.",
+        "placed": "Politics",
+        "epoch": 1638428403.7586896,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "New plan to pay farmers who protect winter soil",
+        "en_content": "The empty brown fields of winter countryside could be transformed under new land subsidy rules for England.",
+        "concepts": [
+            {
+                "word": "plan",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "farmers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "winter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "soil",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Pre-travel Covid tests would be valuable - scientists",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59489339",
+        "content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "placed": "Politics",
+        "epoch": 1638428403.7587125,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Pre-travel Covid tests would be valuable - scientists",
+        "en_content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "concepts": [
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "scientists",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rees-Mogg investigated by standards watchdog",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59491565",
+        "content": "The Commons leader denies breaking the rules over £6m in loans from one of his own companies.",
+        "placed": "Politics",
+        "epoch": 1638428403.7587318,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Rees-Mogg investigated by standards watchdog",
+        "en_content": "The Commons leader denies breaking the rules over £6m in loans from one of his own companies.",
+        "concepts": [
+            {
+                "word": "Rees",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mogg",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "watchdog",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Help for home changes pledged in social care plan",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59494574",
+        "content": "Ministers say how they want to spend extra money - but are accused of failing to fix immediate problems.",
+        "placed": "Politics",
+        "epoch": 1638428403.7587492,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Help for home changes pledged in social care plan",
+        "en_content": "Ministers say how they want to spend extra money - but are accused of failing to fix immediate problems.",
+        "concepts": [
+            {
+                "word": "Help",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "home",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "changes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kuenssberg: Playing by the rules?",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59500512",
+        "content": "Claims about Christmas parties at No 10 during last year's lockdown can't just be shrugged off.",
+        "placed": "Politics",
+        "epoch": 1638428403.7587638,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "Kuenssberg: Playing by the rules?",
+        "en_content": "Claims about Christmas parties at No 10 during last year's lockdown can't just be shrugged off.",
+        "concepts": [
+            {
+                "word": "Kuenssberg",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "rules",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MoD aims to double female military recruits by 2030",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59499247",
+        "content": "The new target is unveiled in response to concerns raised by a committee of MPs.",
+        "placed": "Politics",
+        "epoch": 1638428403.758778,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "MoD aims to double female military recruits by 2030",
+        "en_content": "The new target is unveiled in response to concerns raised by a committee of MPs.",
+        "concepts": [
+            {
+                "word": "MoD",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "military",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "recruits",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "New plan to pay farmers who protect winter soil",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59499371",
+        "content": "The empty brown fields of winter countryside could be transformed under new land subsidy rules for England.",
+        "placed": "Politics",
+        "epoch": 1638428403.7588012,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T08.00.03E1638428403.7588153.json",
+        "en_title": "New plan to pay farmers who protect winter soil",
+        "en_content": "The empty brown fields of winter countryside could be transformed under new land subsidy rules for England.",
+        "concepts": [
+            {
+                "word": "plan",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "farmers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "winter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "soil",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

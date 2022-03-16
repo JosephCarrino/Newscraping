@@ -1,0 +1,703 @@
+[
+    {
+        "title": "MPs to debate standards reform after Paterson row",
+        "date": "2021-11-08",
+        "date_raw": "2021-11-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59199634",
+        "content": "The Lib Dems are calling for the system to be overhauled, amid claims of \"sleaze\" at Westminster.",
+        "placed": "Politics",
+        "epoch": 1636333206.3759885,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "MPs to debate standards reform after Paterson row",
+        "en_content": "The Lib Dems are calling for the system to be overhauled, amid claims of \"sleaze\" at Westminster.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reform",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs to debate standards reform after Paterson row",
+        "date": "2021-11-08",
+        "date_raw": "2021-11-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59199634",
+        "content": "The Lib Dems are calling for the system to be overhauled, amid claims of \"sleaze\" at Westminster.",
+        "placed": "Politics",
+        "epoch": 1636333206.3760192,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "MPs to debate standards reform after Paterson row",
+        "en_content": "The Lib Dems are calling for the system to be overhauled, amid claims of \"sleaze\" at Westminster.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reform",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM's actions over Paterson corrupt - Starmer",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59196404",
+        "content": "Labour accuses Boris Johnson of \"contemptible\" behaviour, but the government says it wants a fairer system.",
+        "placed": "Politics",
+        "epoch": 1636333206.3760393,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "PM's actions over Paterson corrupt - Starmer",
+        "en_content": "Labour accuses Boris Johnson of \"contemptible\" behaviour, but the government says it wants a fairer system.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Starmer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Time for bold compromises at COP26, says PM",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/science-environment-59191376",
+        "content": "Officials must \"pull together\" as the climate summit in Glasgow enters its final week, Boris Johnson says.",
+        "placed": "Politics",
+        "epoch": 1636333206.3760571,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "Time for bold compromises at COP26, says PM",
+        "en_content": "Officials must \"pull together\" as the climate summit in Glasgow enters its final week, Boris Johnson says.",
+        "concepts": [
+            {
+                "word": "Time",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "compromises",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK -EU trade deal 'could collapse over NI row'",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59198125",
+        "content": "The UK is laying foundations to suspend parts of the NI Protocol, says the Irish foreign minister.",
+        "placed": "Politics",
+        "epoch": 1636333206.3760762,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "UK -EU trade deal 'could collapse over NI row'",
+        "en_content": "The UK is laying foundations to suspend parts of the NI Protocol, says the Irish foreign minister.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-EU",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK booster jabs pass 10m but more needed - PM",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59191506",
+        "content": "It is vital people get their \"lifesaving\" third jab to ensure protection in winter, Boris Johnson says.",
+        "placed": "Politics",
+        "epoch": 1636333206.3760934,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "UK booster jabs pass 10m but more needed - PM",
+        "en_content": "It is vital people get their \"lifesaving\" third jab to ensure protection in winter, Boris Johnson says.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "booster",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "jabs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "m",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Succession's Cox on why he stopped backing Labour",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59197759",
+        "content": "The actor, a former party supporter who defected to the SNP in 2015, says Scotland is his first concern.",
+        "placed": "Politics",
+        "epoch": 1636333206.3761094,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "Succession's Cox on why he stopped backing Labour",
+        "en_content": "The actor, a former party supporter who defected to the SNP in 2015, says Scotland is his first concern.",
+        "concepts": [
+            {
+                "word": "Succession",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cox",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Labour",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Starmer calls for convicted MP to quit Commons",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-leicestershire-59197910",
+        "content": "Leicester East MP Claudia Webbe, who threatened her victim with acid, received a suspended jail term.",
+        "placed": "Politics",
+        "epoch": 1636333206.3761268,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "Starmer calls for convicted MP to quit Commons",
+        "en_content": "Leicester East MP Claudia Webbe, who threatened her victim with acid, received a suspended jail term.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Commons",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs to debate standards reform after Paterson row",
+        "date": "2021-11-08",
+        "date_raw": "2021-11-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59199634",
+        "content": "The Lib Dems are calling for the system to be overhauled, amid claims of \"sleaze\" at Westminster.",
+        "placed": "Politics",
+        "epoch": 1636333206.3761423,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "MPs to debate standards reform after Paterson row",
+        "en_content": "The Lib Dems are calling for the system to be overhauled, amid claims of \"sleaze\" at Westminster.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reform",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM's actions over Paterson corrupt - Starmer",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59196404",
+        "content": "Labour accuses Boris Johnson of \"contemptible\" behaviour, but the government says it wants a fairer system.",
+        "placed": "Politics",
+        "epoch": 1636333206.3761573,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "PM's actions over Paterson corrupt - Starmer",
+        "en_content": "Labour accuses Boris Johnson of \"contemptible\" behaviour, but the government says it wants a fairer system.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Starmer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Time for bold compromises at COP26, says PM",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/science-environment-59191376",
+        "content": "Officials must \"pull together\" as the climate summit in Glasgow enters its final week, Boris Johnson says.",
+        "placed": "Politics",
+        "epoch": 1636333206.3761737,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "Time for bold compromises at COP26, says PM",
+        "en_content": "Officials must \"pull together\" as the climate summit in Glasgow enters its final week, Boris Johnson says.",
+        "concepts": [
+            {
+                "word": "Time",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "compromises",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK -EU trade deal 'could collapse over NI row'",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59198125",
+        "content": "The UK is laying foundations to suspend parts of the NI Protocol, says the Irish foreign minister.",
+        "placed": "Politics",
+        "epoch": 1636333206.376189,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "UK -EU trade deal 'could collapse over NI row'",
+        "en_content": "The UK is laying foundations to suspend parts of the NI Protocol, says the Irish foreign minister.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-EU",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK booster jabs pass 10m but more needed - PM",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59191506",
+        "content": "It is vital people get their \"lifesaving\" third jab to ensure protection in winter, Boris Johnson says.",
+        "placed": "Politics",
+        "epoch": 1636333206.3762183,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "UK booster jabs pass 10m but more needed - PM",
+        "en_content": "It is vital people get their \"lifesaving\" third jab to ensure protection in winter, Boris Johnson says.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "booster",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "jabs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "m",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Succession's Cox on why he stopped backing Labour",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59197759",
+        "content": "The actor, a former party supporter who defected to the SNP in 2015, says Scotland is his first concern.",
+        "placed": "Politics",
+        "epoch": 1636333206.3762348,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "Succession's Cox on why he stopped backing Labour",
+        "en_content": "The actor, a former party supporter who defected to the SNP in 2015, says Scotland is his first concern.",
+        "concepts": [
+            {
+                "word": "Succession",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cox",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Labour",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Starmer calls for convicted MP to quit Commons",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-leicestershire-59197910",
+        "content": "Leicester East MP Claudia Webbe, who threatened her victim with acid, received a suspended jail term.",
+        "placed": "Politics",
+        "epoch": 1636333206.3762496,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "Starmer calls for convicted MP to quit Commons",
+        "en_content": "Leicester East MP Claudia Webbe, who threatened her victim with acid, received a suspended jail term.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Commons",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM's actions over Paterson corrupt - Starmer",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59196404",
+        "content": "Labour accuses Boris Johnson of \"contemptible\" behaviour, but the government says it wants a fairer system.",
+        "placed": "Politics",
+        "epoch": 1636333206.3762665,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "PM's actions over Paterson corrupt - Starmer",
+        "en_content": "Labour accuses Boris Johnson of \"contemptible\" behaviour, but the government says it wants a fairer system.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "actions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Starmer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Time for bold compromises at COP26, says PM",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/science-environment-59191376",
+        "content": "Officials must \"pull together\" as the climate summit in Glasgow enters its final week, Boris Johnson says.",
+        "placed": "Politics",
+        "epoch": 1636333206.376281,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "Time for bold compromises at COP26, says PM",
+        "en_content": "Officials must \"pull together\" as the climate summit in Glasgow enters its final week, Boris Johnson says.",
+        "concepts": [
+            {
+                "word": "Time",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "compromises",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK -EU trade deal 'could collapse over NI row'",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59198125",
+        "content": "The UK is laying foundations to suspend parts of the NI Protocol, says the Irish foreign minister.",
+        "placed": "Politics",
+        "epoch": 1636333206.3762956,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.06E1636333206.3763106.json",
+        "en_title": "UK -EU trade deal 'could collapse over NI row'",
+        "en_content": "The UK is laying foundations to suspend parts of the NI Protocol, says the Irish foreign minister.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-EU",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

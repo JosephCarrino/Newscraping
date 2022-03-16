@@ -1,0 +1,618 @@
+[
+    {
+        "title": "Biden angry after teen acquitted of shooting",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59356081",
+        "content": "The president expresses dismay after a teen who shot dead two men during racial unrest is cleared.",
+        "placed": "First_Page",
+        "epoch": 1637391603.723171,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Biden angry after teen acquitted of shooting",
+        "en_content": "The president expresses dismay after a teen who shot dead two men during racial unrest is cleared.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "teen",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden angry after teen acquitted of shooting",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59356081",
+        "content": "The president expresses dismay after a teen who shot dead two men during racial unrest is cleared.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7232034,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Biden angry after teen acquitted of shooting",
+        "en_content": "The president expresses dismay after a teen who shot dead two men during racial unrest is cleared.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "teen",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Belarus leader: We may have helped migrants into EU",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59343815",
+        "content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7232242,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Belarus leader: We may have helped migrants into EU",
+        "en_content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dutch police clash with anti-lockdown rioters",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59355950",
+        "content": "Seven people are injured in Rotterdam as protests against new coronavirus curbs turn violent.",
+        "placed": "First_Page",
+        "epoch": 1637391603.723242,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Dutch police clash with anti-lockdown rioters",
+        "en_content": "Seven people are injured in Rotterdam as protests against new coronavirus curbs turn violent.",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rioters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Theranos boss makes surprise testimony at trial",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59355955",
+        "content": "Elizabeth Holmes, the ex-boss of blood testing company Theranos, took the stand in her defence.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7232587,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Theranos boss makes surprise testimony at trial",
+        "en_content": "Elizabeth Holmes, the ex-boss of blood testing company Theranos, took the stand in her defence.",
+        "concepts": [
+            {
+                "word": "Theranos",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surprise",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "testimony",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Why did this mum take her children to the IS capital?",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59327679",
+        "content": "Peng Shuai, 35, has not been heard from since she accused a top Chinese official of sexual assault.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7232747,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Why did this mum take her children to the IS capital?",
+        "en_content": "Peng Shuai, 35, has not been heard from since she accused a top Chinese official of sexual assault.",
+        "concepts": [
+            {
+                "word": "mum",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "children",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "IS",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "capital",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US 'deeply concerned' over Chinese tennis star",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352170",
+        "content": "Vice-President Kamala Harris took control for 85 minutes during Joe Biden's routine health check.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7232895,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "US 'deeply concerned' over Chinese tennis star",
+        "en_content": "Vice-President Kamala Harris took control for 85 minutes during Joe Biden's routine health check.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Harris first woman to get US presidential powers",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59346106",
+        "content": "The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7233107,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Harris first woman to get US presidential powers",
+        "en_content": "The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case.",
+        "concepts": [
+            {
+                "word": "Harris",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woman",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "powers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Deathbed confession sparks Jimmy Hoffa body hunt",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59343650",
+        "content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7233334,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Deathbed confession sparks Jimmy Hoffa body hunt",
+        "en_content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "concepts": [
+            {
+                "word": "confession",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Jimmy",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hoffa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "body",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hunt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Austria to go into full lockdown as Covid surges",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352804",
+        "content": "More than 100 soldiers have so far been deployed to Canada's west, with thousands more on standby.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7233553,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Austria to go into full lockdown as Covid surges",
+        "en_content": "More than 100 soldiers have so far been deployed to Canada's west, with thousands more on standby.",
+        "concepts": [
+            {
+                "word": "Austria",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Petrol rationed in western Canada after storm",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/technology-59357306",
+        "content": "The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7233772,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Petrol rationed in western Canada after storm",
+        "en_content": "The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error.",
+        "concepts": [
+            {
+                "word": "Petrol",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Canada",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "storm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Outage locks Tesla drivers out of their cars",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352804",
+        "content": "More than 100 soldiers have so far been deployed to Canada's west, with thousands more on standby.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7233999,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Outage locks Tesla drivers out of their cars",
+        "en_content": "More than 100 soldiers have so far been deployed to Canada's west, with thousands more on standby.",
+        "concepts": [
+            {
+                "word": "Outage",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tesla",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drivers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cars",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Petrol rationed in western Canada after storm",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/technology-59357306",
+        "content": "The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7234185,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Petrol rationed in western Canada after storm",
+        "en_content": "The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error.",
+        "concepts": [
+            {
+                "word": "Petrol",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Canada",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "storm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Outage locks Tesla drivers out of their cars",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59351261",
+        "content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7234335,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Outage locks Tesla drivers out of their cars",
+        "en_content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "concepts": [
+            {
+                "word": "Outage",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tesla",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drivers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cars",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US House passes $1.9tn social spending bill",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/technology-59348915",
+        "content": "Facebook says it is testing controls to let users see more content from friends and less from groups.",
+        "placed": "First_Page",
+        "epoch": 1637391603.7234478,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "US House passes $1.9tn social spending bill",
+        "en_content": "Facebook says it is testing controls to let users see more content from friends and less from groups.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "House",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Facebook gives users 'more control' over news feed",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/cricket/59351446",
+        "content": "Cricket chiefs in England and Wales say racism and discrimination is a \"blight\" on our game and they \"apologise unreservedly\".",
+        "placed": "First_Page",
+        "epoch": 1637391603.723462,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "Facebook gives users 'more control' over news feed",
+        "en_content": "Cricket chiefs in England and Wales say racism and discrimination is a \"blight\" on our game and they \"apologise unreservedly\".",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "users",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "control",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "news",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "feed",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'Racism is a blight on cricket'",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.comhttps://www.bbc.co.uk/ideas/videos/the-extraordinary-power-of-poo/p09wk7ln",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1637391603.72349,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "'Racism is a blight on cricket'",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Racism",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "blight",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "cricket",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The extraordinary power of poo",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1637391603.7235053,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T08.00.03E1637391603.7235239.json",
+        "en_title": "The extraordinary power of poo",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "power",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "poo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

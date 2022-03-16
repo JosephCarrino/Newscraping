@@ -1,0 +1,653 @@
+[
+    {
+        "title": "Teenager cleared of all charges in US shootings",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352228",
+        "content": "Kyle Rittenhouse killed two men during racial justice protests and rioting in Kenosha, Wisconsin.",
+        "placed": "First_Page",
+        "epoch": 1637370003.88147,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "Teenager cleared of all charges in US shootings",
+        "en_content": "Kyle Rittenhouse killed two men during racial justice protests and rioting in Kenosha, Wisconsin.",
+        "concepts": [
+            {
+                "word": "Teenager",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "charges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shootings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Teenager cleared of all charges in US shootings",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352228",
+        "content": "Kyle Rittenhouse killed two men during racial justice protests and rioting in Kenosha, Wisconsin.",
+        "placed": "First_Page",
+        "epoch": 1637370003.881504,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "Teenager cleared of all charges in US shootings",
+        "en_content": "Kyle Rittenhouse killed two men during racial justice protests and rioting in Kenosha, Wisconsin.",
+        "concepts": [
+            {
+                "word": "Teenager",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "charges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shootings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Belarus leader: We may have helped migrants into EU",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59343815",
+        "content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "placed": "First_Page",
+        "epoch": 1637370003.8815246,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "Belarus leader: We may have helped migrants into EU",
+        "en_content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dutch police clash with anti-lockdown rioters",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59355950",
+        "content": "Several people are injured in Rotterdam as protests against new coronavirus curbs turn violent.",
+        "placed": "First_Page",
+        "epoch": 1637370003.8815472,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "Dutch police clash with anti-lockdown rioters",
+        "en_content": "Several people are injured in Rotterdam as protests against new coronavirus curbs turn violent.",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rioters",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Harris first woman to get US presidential powers",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352170",
+        "content": "Vice-President Kamala Harris took control for 85 minutes during Joe Biden's routine health check.",
+        "placed": "First_Page",
+        "epoch": 1637370003.8815775,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "Harris first woman to get US presidential powers",
+        "en_content": "Vice-President Kamala Harris took control for 85 minutes during Joe Biden's routine health check.",
+        "concepts": [
+            {
+                "word": "Harris",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woman",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "powers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Why did this mum take her children to the IS capital?",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59327679",
+        "content": "Peng Shuai, 35, has not been heard from since she accused a top Chinese official of sexual assault.",
+        "placed": "First_Page",
+        "epoch": 1637370003.881594,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "Why did this mum take her children to the IS capital?",
+        "en_content": "Peng Shuai, 35, has not been heard from since she accused a top Chinese official of sexual assault.",
+        "concepts": [
+            {
+                "word": "mum",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "children",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "IS",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "capital",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US 'deeply concerned' over Chinese tennis star",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59346106",
+        "content": "The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case.",
+        "placed": "First_Page",
+        "epoch": 1637370003.8816087,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "US 'deeply concerned' over Chinese tennis star",
+        "en_content": "The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Deathbed confession sparks Jimmy Hoffa body hunt",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59343650",
+        "content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "placed": "First_Page",
+        "epoch": 1637370003.8816233,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "Deathbed confession sparks Jimmy Hoffa body hunt",
+        "en_content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "concepts": [
+            {
+                "word": "confession",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Jimmy",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hoffa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "body",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hunt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Austria to go into full lockdown as Covid surges",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59341770",
+        "content": "The figures come after Brazil promised to end the practice by 2030 during the COP climate summit.",
+        "placed": "First_Page",
+        "epoch": 1637370003.881661,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "Austria to go into full lockdown as Covid surges",
+        "en_content": "The figures come after Brazil promised to end the practice by 2030 during the COP climate summit.",
+        "concepts": [
+            {
+                "word": "Austria",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Amazon sees worst deforestation in 15 years",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.comhttps://www.bbc.co.uk/news/live/world-africa-47639452?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=61978522f425de0f2968401b%26SA%27s%20levels%20of%20rape%20a%20disturbing%20disgrace%20-%20minister%262021-11-19T11%3A11%3A43.632Z&ns_fee=0&pinned_post_locator=urn:asset:fed592ca-c4c7-432b-93a1-18dde611ab31&pinned_post_asset_id=61978522f425de0f2968401b&pinned_post_type=share",
+        "content": "Police Minister Bheki Cele presents a grim set of statistics including that there are four rapes an hour.",
+        "placed": "First_Page",
+        "epoch": 1637370003.8816793,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "Amazon sees worst deforestation in 15 years",
+        "en_content": "Police Minister Bheki Cele presents a grim set of statistics including that there are four rapes an hour.",
+        "concepts": [
+            {
+                "word": "Amazon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deforestation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "South Africa is a very violent country - minister",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59351261",
+        "content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "placed": "First_Page",
+        "epoch": 1637370003.8816936,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "South Africa is a very violent country - minister",
+        "en_content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "concepts": [
+            {
+                "word": "South",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "country",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "US House passes $1.9tn social spending bill",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.comhttps://www.bbc.co.uk/news/live/world-africa-47639452?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=61978522f425de0f2968401b%26SA%27s%20levels%20of%20rape%20a%20disturbing%20disgrace%20-%20minister%262021-11-19T11%3A11%3A43.632Z&ns_fee=0&pinned_post_locator=urn:asset:fed592ca-c4c7-432b-93a1-18dde611ab31&pinned_post_asset_id=61978522f425de0f2968401b&pinned_post_type=share",
+        "content": "Police Minister Bheki Cele presents a grim set of statistics including that there are four rapes an hour.",
+        "placed": "First_Page",
+        "epoch": 1637370003.8817081,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "US House passes $1.9tn social spending bill",
+        "en_content": "Police Minister Bheki Cele presents a grim set of statistics including that there are four rapes an hour.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "House",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "South Africa is a very violent country - minister",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59351261",
+        "content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "placed": "First_Page",
+        "epoch": 1637370003.8817272,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "South Africa is a very violent country - minister",
+        "en_content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "concepts": [
+            {
+                "word": "South",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "country",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "US House passes $1.9tn social spending bill",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/technology-59348915",
+        "content": "Facebook says it is testing controls to let users see more content from friends and less from groups.",
+        "placed": "First_Page",
+        "epoch": 1637370003.8817415,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "US House passes $1.9tn social spending bill",
+        "en_content": "Facebook says it is testing controls to let users see more content from friends and less from groups.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "House",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Facebook gives users 'more control' over news feed",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59343922",
+        "content": "Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak.",
+        "placed": "First_Page",
+        "epoch": 1637370003.8817554,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "Facebook gives users 'more control' over news feed",
+        "en_content": "Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "users",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "control",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "news",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "feed",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Millions sent to allies of Congo ex-leader - leak",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/cricket/59351446",
+        "content": "Cricket chiefs in England and Wales say racism and discrimination is a \"blight\" on our game and they \"apologise unreservedly\".",
+        "placed": "First_Page",
+        "epoch": 1637370003.8817694,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "Millions sent to allies of Congo ex-leader - leak",
+        "en_content": "Cricket chiefs in England and Wales say racism and discrimination is a \"blight\" on our game and they \"apologise unreservedly\".",
+        "concepts": [
+            {
+                "word": "Millions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "allies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Congo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leak",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'Racism is a blight on cricket'",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.comhttps://www.bbc.co.uk/ideas/videos/the-extraordinary-power-of-poo/p09wk7ln",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1637370003.8817902,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "'Racism is a blight on cricket'",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Racism",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "blight",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "cricket",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The extraordinary power of poo",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1637370003.8818066,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T02.00.03E1637370003.8818293.json",
+        "en_title": "The extraordinary power of poo",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "power",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "poo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

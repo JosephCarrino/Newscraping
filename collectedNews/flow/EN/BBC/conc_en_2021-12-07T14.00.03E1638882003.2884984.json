@@ -1,0 +1,581 @@
+[
+    {
+        "title": "US will pay price for Olympics boycott, China says",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59559703",
+        "content": "China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2881653,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "US will pay price for Olympics boycott, China says",
+        "en_content": "China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "price",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Olympics",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boycott",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US will pay price for Olympics boycott, China says",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59559703",
+        "content": "China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2882004,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "US will pay price for Olympics boycott, China says",
+        "en_content": "China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "price",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Olympics",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boycott",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59549868",
+        "content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2882228,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "en_content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "concepts": [
+            {
+                "word": "Whistleblower",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "chaos",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Western powers back Ukraine amid invasion fears",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59558099",
+        "content": "The US and its European allies urge Russia to de-escalate, amid fears it could invade Ukraine.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2882416,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "Western powers back Ukraine amid invasion fears",
+        "en_content": "The US and its European allies urge Russia to de-escalate, amid fears it could invade Ukraine.",
+        "concepts": [
+            {
+                "word": "powers",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "invasion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fears",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "BBC 100 women: Who is on the list?",
+        "date": "PT1",
+        "date_raw": "PT1",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59560809",
+        "content": "Watch Valdya Baraputri in Indonesia describe the path of destruction from Mount Semeru's eruption.",
+        "placed": "First_Page",
+        "epoch": 1638882003.288255,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "BBC 100 women: Who is on the list?",
+        "en_content": "Watch Valdya Baraputri in Indonesia describe the path of destruction from Mount Semeru's eruption.",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "women",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "list",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "BBC reporter surrounded by houses buried in ash",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59561876",
+        "content": "The outbreak among ICU staff in Málaga is believed to have started at a Christmas party last week.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2882736,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "BBC reporter surrounded by houses buried in ash",
+        "en_content": "The outbreak among ICU staff in Málaga is believed to have started at a Christmas party last week.",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reporter",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "houses",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nearly 70 medics Covid positive after party",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59560444",
+        "content": "Vice-President Prosper Bazombanza says the fire tore through a prison in the capital Gitega.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2882917,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "Nearly 70 medics Covid positive after party",
+        "en_content": "Vice-President Prosper Bazombanza says the fire tore through a prison in the capital Gitega.",
+        "concepts": [
+            {
+                "word": "medics",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Prison fire kills at least 38 in Burundi",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59557022",
+        "content": "An accuser says Ms Maxwell suggested she dress up to serve tea to paedophile Jeffrey Epstein.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2883077,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "Prison fire kills at least 38 in Burundi",
+        "en_content": "An accuser says Ms Maxwell suggested she dress up to serve tea to paedophile Jeffrey Epstein.",
+        "concepts": [
+            {
+                "word": "Prison",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Burundi",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Maxwell 'gave schoolgirl outfit to Epstein victim'",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59559122",
+        "content": "The 19-year-old had eloped and married a man without her family's consent, police said.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2883239,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "Maxwell 'gave schoolgirl outfit to Epstein victim'",
+        "en_content": "The 19-year-old had eloped and married a man without her family's consent, police said.",
+        "concepts": [
+            {
+                "word": "Maxwell",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "outfit",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Epstein",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victim",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Indian teen arrested for beheading pregnant sister",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59544221",
+        "content": "Peter Foster was declared a fugitive six months ago after allegedly skipping bail on fraud charges.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2883399,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "Indian teen arrested for beheading pregnant sister",
+        "en_content": "Peter Foster was declared a fugitive six months ago after allegedly skipping bail on fraud charges.",
+        "concepts": [
+            {
+                "word": "teen",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Australian conman caught after six-month manhunt",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59559122",
+        "content": "The 19-year-old had eloped and married a man without her family's consent, police said.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2883556,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "Australian conman caught after six-month manhunt",
+        "en_content": "The 19-year-old had eloped and married a man without her family's consent, police said.",
+        "concepts": [
+            {
+                "word": "conman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "month",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "manhunt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Indian teen arrested for beheading pregnant sister",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59544221",
+        "content": "Peter Foster was declared a fugitive six months ago after allegedly skipping bail on fraud charges.",
+        "placed": "First_Page",
+        "epoch": 1638882003.288371,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "Indian teen arrested for beheading pregnant sister",
+        "en_content": "Peter Foster was declared a fugitive six months ago after allegedly skipping bail on fraud charges.",
+        "concepts": [
+            {
+                "word": "teen",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Australian conman caught after six-month manhunt",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59543021",
+        "content": "Michael Steinhardt is banned for life from buying such treasures following an investigation.",
+        "placed": "First_Page",
+        "epoch": 1638882003.288401,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "Australian conman caught after six-month manhunt",
+        "en_content": "Michael Steinhardt is banned for life from buying such treasures following an investigation.",
+        "concepts": [
+            {
+                "word": "conman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "month",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "manhunt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Billionaire hands over antiquities worth $70m",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59554585",
+        "content": "\"Last time I did this I cried,\" said the head of the online mortgage lender laying off 15% of his staff.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2884214,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "Billionaire hands over antiquities worth $70m",
+        "en_content": "\"Last time I did this I cried,\" said the head of the online mortgage lender laying off 15% of his staff.",
+        "concepts": [
+            {
+                "word": "Billionaire",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "antiquities",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US boss fires 900 employees over Zoom",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/newsbeat-59550776",
+        "content": "The decision has reportedly been made at the request of Drake and his management.",
+        "placed": "First_Page",
+        "epoch": 1638882003.2884376,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "US boss fires 900 employees over Zoom",
+        "en_content": "The decision has reportedly been made at the request of Drake and his management.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "employees",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Zoom",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Drake withdraws Grammy Award nominations",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59527102",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638882003.288453,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "Drake withdraws Grammy Award nominations",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Drake",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "withdraws",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Grammy",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Award",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nominations",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "'Play football in your mind, if only for now'",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59453143",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638882003.288477,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.03E1638882003.2884984.json",
+        "en_title": "'Play football in your mind, if only for now'",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "football",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "mind",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

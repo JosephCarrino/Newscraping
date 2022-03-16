@@ -1,0 +1,623 @@
+[
+    {
+        "title": "Three vaccine doses key for tackling Omicron",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59615005",
+        "content": "But UK tests show a booster vaccine dose is key, offering 75% protection against symptomatic Covid.",
+        "placed": "First_Page",
+        "epoch": 1639184403.131741,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Three vaccine doses key for tackling Omicron",
+        "en_content": "But UK tests show a booster vaccine dose is key, offering 75% protection against symptomatic Covid.",
+        "concepts": [
+            {
+                "word": "vaccine",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Three vaccine doses key for tackling Omicron",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59615005",
+        "content": "But UK tests show a booster vaccine dose is key, offering 75% protection against symptomatic Covid.",
+        "placed": "First_Page",
+        "epoch": 1639184403.1317747,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Three vaccine doses key for tackling Omicron",
+        "en_content": "But UK tests show a booster vaccine dose is key, offering 75% protection against symptomatic Covid.",
+        "concepts": [
+            {
+                "word": "vaccine",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ghislaine Maxwell prosecutors rest their case",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59616024",
+        "content": "Prosecutors say Ms Maxwell ran \"a pyramid scheme of abuse\" with paedophile Jeffrey Epstein.",
+        "placed": "First_Page",
+        "epoch": 1639184403.1317973,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Ghislaine Maxwell prosecutors rest their case",
+        "en_content": "Prosecutors say Ms Maxwell ran \"a pyramid scheme of abuse\" with paedophile Jeffrey Epstein.",
+        "concepts": [
+            {
+                "word": "Ghislaine",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maxwell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prosecutors",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "case",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The struggle to recover the dead, metres deep in ash",
+        "date": "P",
+        "date_raw": "P",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59616114",
+        "content": "The effort to recover bodies is continuing in Indonesia, after the eruption of Mount Semeru last week.",
+        "placed": "First_Page",
+        "epoch": 1639184403.1318107,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "The struggle to recover the dead, metres deep in ash",
+        "en_content": "The effort to recover bodies is continuing in Indonesia, after the eruption of Mount Semeru last week.",
+        "concepts": [
+            {
+                "word": "struggle",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "metres",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nobel winner attacks social media 'toxic sludge'",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59613540",
+        "content": "Philippine journalist Maria Ressa accuses internet sites of using a \"God-like power\" to sow division.",
+        "placed": "First_Page",
+        "epoch": 1639184403.13183,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Nobel winner attacks social media 'toxic sludge'",
+        "en_content": "Philippine journalist Maria Ressa accuses internet sites of using a \"God-like power\" to sow division.",
+        "concepts": [
+            {
+                "word": "Nobel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "winner",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sludge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Four convicted over fire in Brazil that killed 242",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59617508",
+        "content": "The fire in 2013 began when a band playing at a nightclub used flares which set light to the ceiling.",
+        "placed": "First_Page",
+        "epoch": 1639184403.131849,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Four convicted over fire in Brazil that killed 242",
+        "en_content": "The fire in 2013 began when a band playing at a nightclub used flares which set light to the ceiling.",
+        "concepts": [
+            {
+                "word": "fire",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Brazil",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Assange can be extradited to the US, court rules",
+        "date": "2021-12-11",
+        "date_raw": "2021-12-11",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59608641",
+        "content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "placed": "First_Page",
+        "epoch": 1639184403.1318667,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Assange can be extradited to the US, court rules",
+        "en_content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "concepts": [
+            {
+                "word": "Assange",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "court",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "The Monkees star Michael Nesmith dies at 78",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59606993",
+        "content": "With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s.",
+        "placed": "First_Page",
+        "epoch": 1639184403.131884,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "The Monkees star Michael Nesmith dies at 78",
+        "en_content": "With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s.",
+        "concepts": [
+            {
+                "word": "Monkees",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Michael",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Nesmith",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Trump uses expletive to attack ex-ally Netanyahu",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59571713",
+        "content": "The former president rails against the ex-Israeli leader, saying he saved Israel from destruction.",
+        "placed": "First_Page",
+        "epoch": 1639184403.1319003,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Trump uses expletive to attack ex-ally Netanyahu",
+        "en_content": "The former president rails against the ex-Israeli leader, saying he saved Israel from destruction.",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "expletive",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ally",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Towns engulfed in deadly Spanish floods",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59608785",
+        "content": "At least one person died when rivers burst their banks in northern Spain.",
+        "placed": "First_Page",
+        "epoch": 1639184403.131917,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Towns engulfed in deadly Spanish floods",
+        "en_content": "At least one person died when rivers burst their banks in northern Spain.",
+        "concepts": [
+            {
+                "word": "Towns",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "floods",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Top US court lets abortion clinics sue over ban",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59381081",
+        "content": "The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits",
+        "placed": "First_Page",
+        "epoch": 1639184403.1319337,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Top US court lets abortion clinics sue over ban",
+        "en_content": "The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "clinics",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Towns engulfed in deadly Spanish floods",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59608785",
+        "content": "At least one person died when rivers burst their banks in northern Spain.",
+        "placed": "First_Page",
+        "epoch": 1639184403.13195,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Towns engulfed in deadly Spanish floods",
+        "en_content": "At least one person died when rivers burst their banks in northern Spain.",
+        "concepts": [
+            {
+                "word": "Towns",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "floods",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Top US court lets abortion clinics sue over ban",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59381081",
+        "content": "The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits",
+        "placed": "First_Page",
+        "epoch": 1639184403.1319718,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Top US court lets abortion clinics sue over ban",
+        "en_content": "The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "clinics",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Mexico works to identify truck crash victims",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59612811",
+        "content": "More than 50 people. thought to be migrants from Central America, were killed in the crash.",
+        "placed": "First_Page",
+        "epoch": 1639184403.1319902,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Mexico works to identify truck crash victims",
+        "en_content": "More than 50 people. thought to be migrants from Central America, were killed in the crash.",
+        "concepts": [
+            {
+                "word": "Mexico",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "truck",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victims",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US price rises hit highest level for 40 years",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59573145",
+        "content": "Prices rose 6.8% in the year to November with the cost of fuel, used cars and food rising fastest.",
+        "placed": "First_Page",
+        "epoch": 1639184403.1320064,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "US price rises hit highest level for 40 years",
+        "en_content": "Prices rose 6.8% in the year to November with the cost of fuel, used cars and food rising fastest.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "price",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rises",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "level",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Downing Street Christmas party called off after row",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-politics-59606793",
+        "content": "Boris Johnson says he has full confidence in his press chief after controversy over 2020's gathering.",
+        "placed": "First_Page",
+        "epoch": 1639184403.132027,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "Downing Street Christmas party called off after row",
+        "en_content": "Boris Johnson says he has full confidence in his press chief after controversy over 2020's gathering.",
+        "concepts": [
+            {
+                "word": "Downing",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Street",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "BBC 100 Women 2021: Who is on the list?",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59514598",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1639184403.1320438,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "BBC 100 Women 2021: Who is on the list?",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Women",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "list",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'Play football in your mind, if only for now'",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/digihub/magazine-59462509",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1639184403.1320605,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-11T02.00.03E1639184403.1320827.json",
+        "en_title": "'Play football in your mind, if only for now'",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "football",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "mind",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

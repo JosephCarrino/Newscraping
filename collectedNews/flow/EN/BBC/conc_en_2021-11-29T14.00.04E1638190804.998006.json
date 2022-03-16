@@ -1,0 +1,648 @@
+[
+    {
+        "title": "Travel bans must be urgently lifted - SA president",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59453842",
+        "content": "Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9977038,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Travel bans must be urgently lifted - SA president",
+        "en_content": "Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary.",
+        "concepts": [
+            {
+                "word": "Travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "president",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Travel bans must be urgently lifted - SA president",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59453842",
+        "content": "Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9977322,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Travel bans must be urgently lifted - SA president",
+        "en_content": "Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary.",
+        "concepts": [
+            {
+                "word": "Travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "president",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ghislaine Maxwell's sex-trafficking trial to begin",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59455605",
+        "content": "The UK socialite denies grooming girls for convicted paedophile Jeffrey Epstein to sexually abuse.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9977508,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Ghislaine Maxwell's sex-trafficking trial to begin",
+        "en_content": "The UK socialite denies grooming girls for convicted paedophile Jeffrey Epstein to sexually abuse.",
+        "concepts": [
+            {
+                "word": "Ghislaine",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maxwell",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sex",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "trial",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Dutch police arrest Covid quarantine escapees",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59456332",
+        "content": "Police say the arrests were made on a plane in Amsterdam's airport before take-off to Spain on Sunday.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9977674,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Dutch police arrest Covid quarantine escapees",
+        "en_content": "Police say the arrests were made on a plane in Amsterdam's airport before take-off to Spain on Sunday.",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arrest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "quarantine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "escapees",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "China captures North Korean fugitive after 40 days",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59456540",
+        "content": "The defector had been on the run after staging a daring escape from a Chinese prison.",
+        "placed": "Abroad",
+        "epoch": 1638190804.997783,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "China captures North Korean fugitive after 40 days",
+        "en_content": "The defector had been on the run after staging a daring escape from a Chinese prison.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fugitive",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "days",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Oscar Pistorius to meet victim's parents",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59458460",
+        "content": "The ex-Paralympian is moved to a prison closer to the parents of the woman he killed, Reeva Steenkamp.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9977987,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Oscar Pistorius to meet victim's parents",
+        "en_content": "The ex-Paralympian is moved to a prison closer to the parents of the woman he killed, Reeva Steenkamp.",
+        "concepts": [
+            {
+                "word": "Oscar",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pistorius",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "victim",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parents",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Honduras opposition surges ahead in election",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59459660",
+        "content": "Early results give the left-wing opposition a strong lead, but the governing party has not conceded.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9978144,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Honduras opposition surges ahead in election",
+        "en_content": "Early results give the left-wing opposition a strong lead, but the governing party has not conceded.",
+        "concepts": [
+            {
+                "word": "Honduras",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "opposition",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Anguish over family missing since Channel tragedy",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59454243",
+        "content": "Rizgar Hussein has not spoken to his family since they boarded a boat across the Channel on Tuesday.",
+        "placed": "Abroad",
+        "epoch": 1638190804.99783,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Anguish over family missing since Channel tragedy",
+        "en_content": "Rizgar Hussein has not spoken to his family since they boarded a boat across the Channel on Tuesday.",
+        "concepts": [
+            {
+                "word": "family",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tragedy",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Travel bans must be urgently lifted - SA president",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59453842",
+        "content": "Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9978445,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Travel bans must be urgently lifted - SA president",
+        "en_content": "Cyril Ramaphosa says the action by countries including the UK and US is discriminatory and unnecessary.",
+        "concepts": [
+            {
+                "word": "Travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SA",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "president",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ghislaine Maxwell's sex-trafficking trial to begin",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59455605",
+        "content": "The UK socialite denies grooming girls for convicted paedophile Jeffrey Epstein to sexually abuse.",
+        "placed": "Abroad",
+        "epoch": 1638190804.99786,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Ghislaine Maxwell's sex-trafficking trial to begin",
+        "en_content": "The UK socialite denies grooming girls for convicted paedophile Jeffrey Epstein to sexually abuse.",
+        "concepts": [
+            {
+                "word": "Ghislaine",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maxwell",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sex",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "trial",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Dutch police arrest Covid quarantine escapees",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59456332",
+        "content": "Police say the arrests were made on a plane in Amsterdam's airport before take-off to Spain on Sunday.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9978745,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Dutch police arrest Covid quarantine escapees",
+        "en_content": "Police say the arrests were made on a plane in Amsterdam's airport before take-off to Spain on Sunday.",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arrest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "quarantine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "escapees",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "China captures North Korean fugitive after 40 days",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59456540",
+        "content": "The defector had been on the run after staging a daring escape from a Chinese prison.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9978893,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "China captures North Korean fugitive after 40 days",
+        "en_content": "The defector had been on the run after staging a daring escape from a Chinese prison.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fugitive",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "days",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Oscar Pistorius to meet victim's parents",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59458460",
+        "content": "The ex-Paralympian is moved to a prison closer to the parents of the woman he killed, Reeva Steenkamp.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9979038,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Oscar Pistorius to meet victim's parents",
+        "en_content": "The ex-Paralympian is moved to a prison closer to the parents of the woman he killed, Reeva Steenkamp.",
+        "concepts": [
+            {
+                "word": "Oscar",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Pistorius",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "victim",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parents",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Honduras opposition surges ahead in election",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59459660",
+        "content": "Early results give the left-wing opposition a strong lead, but the governing party has not conceded.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9979186,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Honduras opposition surges ahead in election",
+        "en_content": "Early results give the left-wing opposition a strong lead, but the governing party has not conceded.",
+        "concepts": [
+            {
+                "word": "Honduras",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "opposition",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Anguish over family missing since Channel tragedy",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59454243",
+        "content": "Rizgar Hussein has not spoken to his family since they boarded a boat across the Channel on Tuesday.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9979331,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Anguish over family missing since Channel tragedy",
+        "en_content": "Rizgar Hussein has not spoken to his family since they boarded a boat across the Channel on Tuesday.",
+        "concepts": [
+            {
+                "word": "family",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tragedy",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Ghislaine Maxwell's sex-trafficking trial to begin",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59455605",
+        "content": "The UK socialite denies grooming girls for convicted paedophile Jeffrey Epstein to sexually abuse.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9979477,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Ghislaine Maxwell's sex-trafficking trial to begin",
+        "en_content": "The UK socialite denies grooming girls for convicted paedophile Jeffrey Epstein to sexually abuse.",
+        "concepts": [
+            {
+                "word": "Ghislaine",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Maxwell",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sex",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "trial",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Dutch police arrest Covid quarantine escapees",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59456332",
+        "content": "Police say the arrests were made on a plane in Amsterdam's airport before take-off to Spain on Sunday.",
+        "placed": "Abroad",
+        "epoch": 1638190804.997962,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "Dutch police arrest Covid quarantine escapees",
+        "en_content": "Police say the arrests were made on a plane in Amsterdam's airport before take-off to Spain on Sunday.",
+        "concepts": [
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "arrest",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "quarantine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "escapees",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "China captures North Korean fugitive after 40 days",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59456540",
+        "content": "The defector had been on the run after staging a daring escape from a Chinese prison.",
+        "placed": "Abroad",
+        "epoch": 1638190804.9979925,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.04E1638190804.998006.json",
+        "en_title": "China captures North Korean fugitive after 40 days",
+        "en_content": "The defector had been on the run after staging a daring escape from a Chinese prison.",
+        "concepts": [
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fugitive",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "days",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

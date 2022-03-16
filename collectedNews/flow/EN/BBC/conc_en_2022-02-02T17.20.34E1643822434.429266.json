@@ -1,0 +1,552 @@
+[
+    {
+        "title": "US boosts troops in Europe amid Ukraine tensions",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-60234377",
+        "content": "The US president is to send troops to Poland and Germany amid fears of a Russian invasion of Ukraine.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4293468,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "US boosts troops in Europe amid Ukraine tensions",
+        "en_content": "The US president is to send troops to Poland and Germany amid fears of a Russian invasion of Ukraine.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "troops",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tensions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US boosts troops in Europe amid Ukraine tensions",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-60234377",
+        "content": "The US president is to send troops to Poland and Germany amid fears of a Russian invasion of Ukraine.",
+        "placed": "Abroad",
+        "epoch": 1643818834.429367,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "US boosts troops in Europe amid Ukraine tensions",
+        "en_content": "The US president is to send troops to Poland and Germany amid fears of a Russian invasion of Ukraine.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "troops",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tensions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Omicron sub-variant detected in 57 countries - WHO",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/uk-60212641",
+        "content": "The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4293826,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "Omicron sub-variant detected in 57 countries - WHO",
+        "en_content": "The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sub",
+                "meaning": "compound",
+                "pos": "ADJ"
+            },
+            {
+                "word": "countries",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Power cable collapse at DR Congo market kills 26",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-60228996",
+        "content": "A highly controversial decision to class nuclear and gas power as \"green\" splits EU members.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4293964,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "Power cable collapse at DR Congo market kills 26",
+        "en_content": "A highly controversial decision to class nuclear and gas power as \"green\" splits EU members.",
+        "concepts": [
+            {
+                "word": "Power",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cable",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "collapse",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "DR",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Congo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "market",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "EU moves to label nuclear and gas as sustainable",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-60229199",
+        "content": "Dillon Helbig's Christmas tale creates a buzz after he sneaks a copy into his local library in Idaho.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4294093,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "EU moves to label nuclear and gas as sustainable",
+        "en_content": "Dillon Helbig's Christmas tale creates a buzz after he sneaks a copy into his local library in Idaho.",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gas",
+                "meaning": "conj",
+                "pos": "ADJ"
+            }
+        ]
+    },
+    {
+        "title": "Eight-year-old's handwritten book grips US town",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-60229749",
+        "content": "President Embaló says he and his cabinet survived five hours under fire from heavy weaponry.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4294221,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "Eight-year-old's handwritten book grips US town",
+        "en_content": "President Embaló says he and his cabinet survived five hours under fire from heavy weaponry.",
+        "concepts": [
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "book",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "town",
+                "meaning": "appos",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Many feared dead after Guinea-Bissau coup attempt",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-60220701",
+        "content": "It is the latest major economy to announce its own virtual currency, as China trials the digital yuan.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4294336,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "Many feared dead after Guinea-Bissau coup attempt",
+        "en_content": "It is the latest major economy to announce its own virtual currency, as China trials the digital yuan.",
+        "concepts": [
+            {
+                "word": "Guinea",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bissau",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "India to launch digital rupee as soon as this year",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-60225372",
+        "content": "The US president is to send troops to Poland and Germany amid fears of a Russian invasion of Ukraine.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4294453,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "India to launch digital rupee as soon as this year",
+        "en_content": "The US president is to send troops to Poland and Germany amid fears of a Russian invasion of Ukraine.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rupee",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US boosts troops in Europe amid Ukraine tensions",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-60234377",
+        "content": "The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa.",
+        "placed": "Abroad",
+        "epoch": 1643818834.429457,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "US boosts troops in Europe amid Ukraine tensions",
+        "en_content": "The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "troops",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tensions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Omicron sub-variant detected in 57 countries - WHO",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/live/uk-60212641",
+        "content": "A highly controversial decision to class nuclear and gas power as \"green\" splits EU members.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4294684,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "Omicron sub-variant detected in 57 countries - WHO",
+        "en_content": "A highly controversial decision to class nuclear and gas power as \"green\" splits EU members.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sub",
+                "meaning": "compound",
+                "pos": "ADJ"
+            },
+            {
+                "word": "countries",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Power cable collapse at DR Congo market kills 26",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-60228996",
+        "content": "Dillon Helbig's Christmas tale creates a buzz after he sneaks a copy into his local library in Idaho.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4294796,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "Power cable collapse at DR Congo market kills 26",
+        "en_content": "Dillon Helbig's Christmas tale creates a buzz after he sneaks a copy into his local library in Idaho.",
+        "concepts": [
+            {
+                "word": "Power",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cable",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "collapse",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "DR",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Congo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "market",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "EU moves to label nuclear and gas as sustainable",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-60229199",
+        "content": "President Embaló says he and his cabinet survived five hours under fire from heavy weaponry.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4294913,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "EU moves to label nuclear and gas as sustainable",
+        "en_content": "President Embaló says he and his cabinet survived five hours under fire from heavy weaponry.",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "gas",
+                "meaning": "conj",
+                "pos": "ADJ"
+            }
+        ]
+    },
+    {
+        "title": "Eight-year-old's handwritten book grips US town",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-60229749",
+        "content": "It is the latest major economy to announce its own virtual currency, as China trials the digital yuan.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4295025,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "Eight-year-old's handwritten book grips US town",
+        "en_content": "It is the latest major economy to announce its own virtual currency, as China trials the digital yuan.",
+        "concepts": [
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "book",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "town",
+                "meaning": "appos",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Many feared dead after Guinea-Bissau coup attempt",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-60220701",
+        "content": "The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4295142,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "Many feared dead after Guinea-Bissau coup attempt",
+        "en_content": "The high-voltage overhead cable reportedly fell into a drainage ditch at a market near Kinshasa.",
+        "concepts": [
+            {
+                "word": "Guinea",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bissau",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "India to launch digital rupee as soon as this year",
+        "date": "2022-02-02",
+        "date_raw": "2022-02-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-60225372",
+        "content": "A highly controversial decision to class nuclear and gas power as \"green\" splits EU members.",
+        "placed": "Abroad",
+        "epoch": 1643818834.4295259,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2022-02-02T17.20.34E1643822434.429266.json",
+        "en_title": "India to launch digital rupee as soon as this year",
+        "en_content": "A highly controversial decision to class nuclear and gas power as \"green\" splits EU members.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rupee",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

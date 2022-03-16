@@ -1,0 +1,613 @@
+[
+    {
+        "title": "Air passengers have new variant in Netherlands",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59451103",
+        "content": "Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron.",
+        "placed": "Abroad",
+        "epoch": 1638126003.791801,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Air passengers have new variant in Netherlands",
+        "en_content": "Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron.",
+        "concepts": [
+            {
+                "word": "Air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "passengers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "variant",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Air passengers have new variant in Netherlands",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59451103",
+        "content": "Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7918293,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Air passengers have new variant in Netherlands",
+        "en_content": "Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron.",
+        "concepts": [
+            {
+                "word": "Air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "passengers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "variant",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Israel to ban foreigners from entering over Covid",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59448547",
+        "content": "Travellers from all countries will be banned from entering Israel for 14 days, local media report.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7918503,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Israel to ban foreigners from entering over Covid",
+        "en_content": "Travellers from all countries will be banned from entering Israel for 14 days, local media report.",
+        "concepts": [
+            {
+                "word": "Israel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "foreigners",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New variant symptoms mild, says doctor who spotted it",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59450988",
+        "content": "The South African doctor who spotted the new variant says patients show very mild symptoms so far.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7918649,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "New variant symptoms mild, says doctor who spotted it",
+        "en_content": "The South African doctor who spotted the new variant says patients show very mild symptoms so far.",
+        "concepts": [
+            {
+                "word": "symptoms",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "doctor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "France wants 'serious' talks with UK on migrants",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59454135",
+        "content": "Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7918823,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "France wants 'serious' talks with UK on migrants",
+        "en_content": "Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "talks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Calais activists: Migrants call us from boats asking for help",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59444335",
+        "content": "Activists in Calais demand change after decades of people coming to the city looking to reach the UK.",
+        "placed": "Abroad",
+        "epoch": 1638126003.791899,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Calais activists: Migrants call us from boats asking for help",
+        "en_content": "Activists in Calais demand change after decades of people coming to the city looking to reach the UK.",
+        "concepts": [
+            {
+                "word": "activists",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Migrants",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "help",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fundraiser for exonerated Missouri man tops $1.5m",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59452651",
+        "content": "Kevin Strickland was released after 42 years in jail over a triple murder he did not commit.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7919147,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Fundraiser for exonerated Missouri man tops $1.5m",
+        "en_content": "Kevin Strickland was released after 42 years in jail over a triple murder he did not commit.",
+        "concepts": [
+            {
+                "word": "Fundraiser",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Missouri",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "man",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Czech PM appointed from behind plexiglass box",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59452646",
+        "content": "Petr Fiala was appointed by a president who is in self-isolation after testing positive for coronavirus.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7919302,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Czech PM appointed from behind plexiglass box",
+        "en_content": "Petr Fiala was appointed by a president who is in self-isolation after testing positive for coronavirus.",
+        "concepts": [
+            {
+                "word": "Czech",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plexiglass",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "box",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Air passengers have new variant in Netherlands",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59451103",
+        "content": "Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7919452,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Air passengers have new variant in Netherlands",
+        "en_content": "Thirteen people who travelled from South Africa to the Netherlands have tested positive for Omicron.",
+        "concepts": [
+            {
+                "word": "Air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "passengers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "variant",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Israel to ban foreigners from entering over Covid",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59448547",
+        "content": "Travellers from all countries will be banned from entering Israel for 14 days, local media report.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7919602,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Israel to ban foreigners from entering over Covid",
+        "en_content": "Travellers from all countries will be banned from entering Israel for 14 days, local media report.",
+        "concepts": [
+            {
+                "word": "Israel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "foreigners",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New variant symptoms mild, says doctor who spotted it",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59450988",
+        "content": "The South African doctor who spotted the new variant says patients show very mild symptoms so far.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7919755,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "New variant symptoms mild, says doctor who spotted it",
+        "en_content": "The South African doctor who spotted the new variant says patients show very mild symptoms so far.",
+        "concepts": [
+            {
+                "word": "symptoms",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "doctor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "France wants 'serious' talks with UK on migrants",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59454135",
+        "content": "Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7919843,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "France wants 'serious' talks with UK on migrants",
+        "en_content": "Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "talks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Calais activists: Migrants call us from boats asking for help",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59444335",
+        "content": "Activists in Calais demand change after decades of people coming to the city looking to reach the UK.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7919996,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Calais activists: Migrants call us from boats asking for help",
+        "en_content": "Activists in Calais demand change after decades of people coming to the city looking to reach the UK.",
+        "concepts": [
+            {
+                "word": "activists",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Migrants",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "help",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fundraiser for exonerated Missouri man tops $1.5m",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59452651",
+        "content": "Kevin Strickland was released after 42 years in jail over a triple murder he did not commit.",
+        "placed": "Abroad",
+        "epoch": 1638126003.792014,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Fundraiser for exonerated Missouri man tops $1.5m",
+        "en_content": "Kevin Strickland was released after 42 years in jail over a triple murder he did not commit.",
+        "concepts": [
+            {
+                "word": "Fundraiser",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Missouri",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "man",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Czech PM appointed from behind plexiglass box",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59452646",
+        "content": "Petr Fiala was appointed by a president who is in self-isolation after testing positive for coronavirus.",
+        "placed": "Abroad",
+        "epoch": 1638126003.792031,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Czech PM appointed from behind plexiglass box",
+        "en_content": "Petr Fiala was appointed by a president who is in self-isolation after testing positive for coronavirus.",
+        "concepts": [
+            {
+                "word": "Czech",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plexiglass",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "box",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Israel to ban foreigners from entering over Covid",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59448547",
+        "content": "Travellers from all countries will be banned from entering Israel for 14 days, local media report.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7920544,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "Israel to ban foreigners from entering over Covid",
+        "en_content": "Travellers from all countries will be banned from entering Israel for 14 days, local media report.",
+        "concepts": [
+            {
+                "word": "Israel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "foreigners",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New variant symptoms mild, says doctor who spotted it",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59450988",
+        "content": "The South African doctor who spotted the new variant says patients show very mild symptoms so far.",
+        "placed": "Abroad",
+        "epoch": 1638126003.79207,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "New variant symptoms mild, says doctor who spotted it",
+        "en_content": "The South African doctor who spotted the new variant says patients show very mild symptoms so far.",
+        "concepts": [
+            {
+                "word": "symptoms",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "doctor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "France wants 'serious' talks with UK on migrants",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59454135",
+        "content": "Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics.",
+        "placed": "Abroad",
+        "epoch": 1638126003.7920852,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.03E1638126003.7920985.json",
+        "en_title": "France wants 'serious' talks with UK on migrants",
+        "en_content": "Interior Minister Gérald Darmanin says France will not be held hostage by domestic British politics.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "talks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

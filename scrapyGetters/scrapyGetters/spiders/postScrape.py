@@ -37,9 +37,6 @@ class PostscrapeSpider(scrapy.Spider):
         placeds=[]
         rankeds= []
         
-        now = datetime.now()
-        now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
-        now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
 
         i= 0
         for article in articles:
@@ -59,23 +56,42 @@ class PostscrapeSpider(scrapy.Spider):
             i+=1
          
         edition= []
+        i= 0
         for item in zip(titles, dates_raw, dates, urls, contents, rankeds, placeds):
-            scraped_info= {
+            i+=1
+            yield scrapy.Request(item[3], callback= self.getFullContent, meta= {'data': item, 'currelem': i, 'edition': edition, 'oldurl': response.request.url})
+            
+        
+
+    def getFullContent(self, response):
+        fullcont = response.css("#singleBody").css("p::text").getall()
+        print(fullcont)
+        content= ''.join(fullcont)
+        
+        item = response.meta.get('data')
+        scraped_info= {
                 'title': item[0],
                 'date_raw': item[1],
                 'date': item[2],
-                'url': response.request.url,
+                'url': response.meta.get('oldurl'),
                 'news_url': item[3],
-                'content': item[4],
+                'subtitle': item[4],
+                'content': content,
                 'ranked': item[5],
                 'placed': item[6],
                 'epoch': time.time()
             }
-            edition.append(scraped_info)
-            
-        base_name = f"{now_s}E{now_epoch}.json"
-        scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/IT/ilPost"
-        scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
-        with open(scraped_data_filepath, "w") as f:
-            json.dump(edition, f, indent= 4, ensure_ascii=False)
-            f.write("\n")
+        
+        response.meta.get('edition').append(scraped_info)
+
+        if response.meta.get('currelem') == len(item):
+            now = datetime.now()
+            now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
+            now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
+
+            base_name = f"{now_s}E{now_epoch}.json"
+            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/IT/ilPost"
+            scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+            with open(scraped_data_filepath, "w") as f:
+                json.dump(response.meta.get('edition'), f, indent= 4, ensure_ascii=False)
+                f.write("\n")

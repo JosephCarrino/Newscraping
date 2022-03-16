@@ -1,0 +1,633 @@
+[
+    {
+        "title": "Modi backs down after year-long farmer protests",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59342627",
+        "content": "Indian PM Narendra Modi has announced the repeal of controversial farm laws.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5202281,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Modi backs down after year-long farmer protests",
+        "en_content": "Indian PM Narendra Modi has announced the repeal of controversial farm laws.",
+        "concepts": [
+            {
+                "word": "Modi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "farmer",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Modi backs down after year-long farmer protests",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59342627",
+        "content": "Indian PM Narendra Modi has announced the repeal of controversial farm laws.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5202553,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Modi backs down after year-long farmer protests",
+        "en_content": "Indian PM Narendra Modi has announced the repeal of controversial farm laws.",
+        "concepts": [
+            {
+                "word": "Modi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "farmer",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Amazon sees worst deforestation in 15 years",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59341770",
+        "content": "The figures come after Brazil promised to end the practice by 2030 during the COP climate summit.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5202744,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Amazon sees worst deforestation in 15 years",
+        "en_content": "The figures come after Brazil promised to end the practice by 2030 during the COP climate summit.",
+        "concepts": [
+            {
+                "word": "Amazon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deforestation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden mulls diplomatic boycott of Beijing Olympics",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59340859",
+        "content": "Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5202918,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Biden mulls diplomatic boycott of Beijing Olympics",
+        "en_content": "Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boycott",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Beijing",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Olympics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Peng case must be investigated - Serena Williams",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/sport/tennis/59337349",
+        "content": "Serena Williams says the case of Chinese player Peng Shuai \"must be investigated\" and urged people \"not to stay silent\" about her welfare.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5203085,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Peng case must be investigated - Serena Williams",
+        "en_content": "Serena Williams says the case of Chinese player Peng Shuai \"must be investigated\" and urged people \"not to stay silent\" about her welfare.",
+        "concepts": [
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Serena",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Williams",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The doctor fleeing Tennessee over Covid",
+        "date": "PT1",
+        "date_raw": "PT1",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59335010",
+        "content": "The former head of the US state's vaccine rollout has been forced out after threats and taunts.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5203228,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "The doctor fleeing Tennessee over Covid",
+        "en_content": "The former head of the US state's vaccine rollout has been forced out after threats and taunts.",
+        "concepts": [
+            {
+                "word": "doctor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tennessee",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US prisoner's execution halted at last minute",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59331978",
+        "content": "The governor of Oklahoma commutes Julius Jones' sentence to life imprisonment after an outcry.",
+        "placed": "Abroad",
+        "epoch": 1637305203.520339,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "US prisoner's execution halted at last minute",
+        "en_content": "The governor of Oklahoma commutes Julius Jones' sentence to life imprisonment after an outcry.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prisoner",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "execution",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minute",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Belarus clears migrant camp at Polish border",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59341765",
+        "content": "Thousands of people from the Middle East have been trying to get into the EU via Belarus for months.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5203545,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Belarus clears migrant camp at Polish border",
+        "en_content": "Thousands of people from the Middle East have been trying to get into the EU via Belarus for months.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "camp",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Modi backs down after year-long farmer protests",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59342627",
+        "content": "Indian PM Narendra Modi has announced the repeal of controversial farm laws.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5203702,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Modi backs down after year-long farmer protests",
+        "en_content": "Indian PM Narendra Modi has announced the repeal of controversial farm laws.",
+        "concepts": [
+            {
+                "word": "Modi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "farmer",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Amazon sees worst deforestation in 15 years",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59341770",
+        "content": "The figures come after Brazil promised to end the practice by 2030 during the COP climate summit.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5203857,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Amazon sees worst deforestation in 15 years",
+        "en_content": "The figures come after Brazil promised to end the practice by 2030 during the COP climate summit.",
+        "concepts": [
+            {
+                "word": "Amazon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deforestation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden mulls diplomatic boycott of Beijing Olympics",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59340859",
+        "content": "Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5204005,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Biden mulls diplomatic boycott of Beijing Olympics",
+        "en_content": "Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boycott",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Beijing",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Olympics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Peng case must be investigated - Serena Williams",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/sport/tennis/59337349",
+        "content": "Serena Williams says the case of Chinese player Peng Shuai \"must be investigated\" and urged people \"not to stay silent\" about her welfare.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5204155,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Peng case must be investigated - Serena Williams",
+        "en_content": "Serena Williams says the case of Chinese player Peng Shuai \"must be investigated\" and urged people \"not to stay silent\" about her welfare.",
+        "concepts": [
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Serena",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Williams",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The doctor fleeing Tennessee over Covid",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59335010",
+        "content": "The former head of the US state's vaccine rollout has been forced out after threats and taunts.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5204306,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "The doctor fleeing Tennessee over Covid",
+        "en_content": "The former head of the US state's vaccine rollout has been forced out after threats and taunts.",
+        "concepts": [
+            {
+                "word": "doctor",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tennessee",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US prisoner's execution halted at last minute",
+        "date": "PT1",
+        "date_raw": "PT1",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59331978",
+        "content": "The governor of Oklahoma commutes Julius Jones' sentence to life imprisonment after an outcry.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5204394,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "US prisoner's execution halted at last minute",
+        "en_content": "The governor of Oklahoma commutes Julius Jones' sentence to life imprisonment after an outcry.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prisoner",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "execution",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minute",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Belarus clears migrant camp at Polish border",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59341765",
+        "content": "Thousands of people from the Middle East have been trying to get into the EU via Belarus for months.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5204546,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Belarus clears migrant camp at Polish border",
+        "en_content": "Thousands of people from the Middle East have been trying to get into the EU via Belarus for months.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "camp",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Amazon sees worst deforestation in 15 years",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59341770",
+        "content": "The figures come after Brazil promised to end the practice by 2030 during the COP climate summit.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5204692,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Amazon sees worst deforestation in 15 years",
+        "en_content": "The figures come after Brazil promised to end the practice by 2030 during the COP climate summit.",
+        "concepts": [
+            {
+                "word": "Amazon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deforestation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden mulls diplomatic boycott of Beijing Olympics",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59340859",
+        "content": "Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5204837,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Biden mulls diplomatic boycott of Beijing Olympics",
+        "en_content": "Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boycott",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Beijing",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Olympics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Peng case must be investigated - Serena Williams",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/sport/tennis/59337349",
+        "content": "Serena Williams says the case of Chinese player Peng Shuai \"must be investigated\" and urged people \"not to stay silent\" about her welfare.",
+        "placed": "Abroad",
+        "epoch": 1637305203.5204988,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T08.00.03E1637305203.5205123.json",
+        "en_title": "Peng case must be investigated - Serena Williams",
+        "en_content": "Serena Williams says the case of Chinese player Peng Shuai \"must be investigated\" and urged people \"not to stay silent\" about her welfare.",
+        "concepts": [
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Serena",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Williams",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

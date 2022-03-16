@@ -1,0 +1,653 @@
+[
+    {
+        "title": "HS2 rail extension to Leeds scrapped",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59334043",
+        "content": "Boris Johnson defends rail overhaul against strong criticism, saying it ends the need to \"plough through villages\".",
+        "placed": "Politics",
+        "epoch": 1637262003.8498359,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "HS2 rail extension to Leeds scrapped",
+        "en_content": "Boris Johnson defends rail overhaul against strong criticism, saying it ends the need to \"plough through villages\".",
+        "concepts": [
+            {
+                "word": "HS2",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "extension",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Leeds",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "HS2 rail extension to Leeds scrapped",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59334043",
+        "content": "Boris Johnson defends rail overhaul against strong criticism, saying it ends the need to \"plough through villages\".",
+        "placed": "Politics",
+        "epoch": 1637262003.849863,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "HS2 rail extension to Leeds scrapped",
+        "en_content": "Boris Johnson defends rail overhaul against strong criticism, saying it ends the need to \"plough through villages\".",
+        "concepts": [
+            {
+                "word": "HS2",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "extension",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Leeds",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "50 firms got VIP fast-track Covid contracts",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59334952",
+        "content": "The companies were chosen to supply protective equipment in the early stages of the pandemic.",
+        "placed": "Politics",
+        "epoch": 1637262003.8498824,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "50 firms got VIP fast-track Covid contracts",
+        "en_content": "The companies were chosen to supply protective equipment in the early stages of the pandemic.",
+        "concepts": [
+            {
+                "word": "firms",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "VIP",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "track",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "contracts",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Government changes rules on social care cap",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59323311",
+        "content": "Labour says the move to change the way care costs are covered will hit the poorest hardest.",
+        "placed": "Politics",
+        "epoch": 1637262003.8498993,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "Government changes rules on social care cap",
+        "en_content": "Labour says the move to change the way care costs are covered will hit the poorest hardest.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cap",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Public inquiry to be held into Novichok death",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-wiltshire-59332227",
+        "content": "Priti Patel says the inquiry will examine any Russian involvement in Dawn Sturgess's death in 2018.",
+        "placed": "Politics",
+        "epoch": 1637262003.8499162,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "Public inquiry to be held into Novichok death",
+        "en_content": "Priti Patel says the inquiry will examine any Russian involvement in Dawn Sturgess's death in 2018.",
+        "concepts": [
+            {
+                "word": "inquiry",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Novichok",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MP Cox declares £54,000 earnings for one month",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59336581",
+        "content": "The PM's use of an airport lounge and Theresa May's San Marino trip also feature in the register of interests.",
+        "placed": "Politics",
+        "epoch": 1637262003.8499403,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "MP Cox declares £54,000 earnings for one month",
+        "en_content": "The PM's use of an airport lounge and Theresa May's San Marino trip also feature in the register of interests.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cox",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "earnings",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "month",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Minister says she can't find Randox meeting minutes",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59320858",
+        "content": "Labour accuses Gillian Keegan of a \"ridiculous\" attempt to avoid transparency over Covid contracts.",
+        "placed": "Politics",
+        "epoch": 1637262003.8499656,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "Minister says she can't find Randox meeting minutes",
+        "en_content": "Labour accuses Gillian Keegan of a \"ridiculous\" attempt to avoid transparency over Covid contracts.",
+        "concepts": [
+            {
+                "word": "Minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Randox",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "meeting",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minutes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM: I crashed the car over Paterson case",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59330152",
+        "content": "The comments follow MPs voting to tighten the rules around paid work on top of their constituency job.",
+        "placed": "Politics",
+        "epoch": 1637262003.8499825,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "PM: I crashed the car over Paterson case",
+        "en_content": "The comments follow MPs voting to tighten the rules around paid work on top of their constituency job.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "car",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "HS2 rail extension to Leeds scrapped",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59334043",
+        "content": "Boris Johnson defends rail overhaul against strong criticism, saying it ends the need to \"plough through villages\".",
+        "placed": "Politics",
+        "epoch": 1637262003.8499973,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "HS2 rail extension to Leeds scrapped",
+        "en_content": "Boris Johnson defends rail overhaul against strong criticism, saying it ends the need to \"plough through villages\".",
+        "concepts": [
+            {
+                "word": "HS2",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rail",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "extension",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Leeds",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "50 firms got VIP fast-track Covid contracts",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59334952",
+        "content": "The companies were chosen to supply protective equipment in the early stages of the pandemic.",
+        "placed": "Politics",
+        "epoch": 1637262003.8500128,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "50 firms got VIP fast-track Covid contracts",
+        "en_content": "The companies were chosen to supply protective equipment in the early stages of the pandemic.",
+        "concepts": [
+            {
+                "word": "firms",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "VIP",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "track",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "contracts",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Government changes rules on social care cap",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59323311",
+        "content": "Labour says the move to change the way care costs are covered will hit the poorest hardest.",
+        "placed": "Politics",
+        "epoch": 1637262003.8500276,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "Government changes rules on social care cap",
+        "en_content": "Labour says the move to change the way care costs are covered will hit the poorest hardest.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cap",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Public inquiry to be held into Novichok death",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-wiltshire-59332227",
+        "content": "Priti Patel says the inquiry will examine any Russian involvement in Dawn Sturgess's death in 2018.",
+        "placed": "Politics",
+        "epoch": 1637262003.8500571,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "Public inquiry to be held into Novichok death",
+        "en_content": "Priti Patel says the inquiry will examine any Russian involvement in Dawn Sturgess's death in 2018.",
+        "concepts": [
+            {
+                "word": "inquiry",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Novichok",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MP Cox declares £54,000 earnings for one month",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59336581",
+        "content": "The PM's use of an airport lounge and Theresa May's San Marino trip also feature in the register of interests.",
+        "placed": "Politics",
+        "epoch": 1637262003.8500724,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "MP Cox declares £54,000 earnings for one month",
+        "en_content": "The PM's use of an airport lounge and Theresa May's San Marino trip also feature in the register of interests.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cox",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "earnings",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "month",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Minister says she can't find Randox meeting minutes",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59320858",
+        "content": "Labour accuses Gillian Keegan of a \"ridiculous\" attempt to avoid transparency over Covid contracts.",
+        "placed": "Politics",
+        "epoch": 1637262003.8500872,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "Minister says she can't find Randox meeting minutes",
+        "en_content": "Labour accuses Gillian Keegan of a \"ridiculous\" attempt to avoid transparency over Covid contracts.",
+        "concepts": [
+            {
+                "word": "Minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Randox",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "meeting",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minutes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM: I crashed the car over Paterson case",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59330152",
+        "content": "The comments follow MPs voting to tighten the rules around paid work on top of their constituency job.",
+        "placed": "Politics",
+        "epoch": 1637262003.8501017,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "PM: I crashed the car over Paterson case",
+        "en_content": "The comments follow MPs voting to tighten the rules around paid work on top of their constituency job.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "car",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "50 firms got VIP fast-track Covid contracts",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59334952",
+        "content": "The companies were chosen to supply protective equipment in the early stages of the pandemic.",
+        "placed": "Politics",
+        "epoch": 1637262003.8501158,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "50 firms got VIP fast-track Covid contracts",
+        "en_content": "The companies were chosen to supply protective equipment in the early stages of the pandemic.",
+        "concepts": [
+            {
+                "word": "firms",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "VIP",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "track",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "contracts",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Government changes rules on social care cap",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59323311",
+        "content": "Labour says the move to change the way care costs are covered will hit the poorest hardest.",
+        "placed": "Politics",
+        "epoch": 1637262003.85013,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "Government changes rules on social care cap",
+        "en_content": "Labour says the move to change the way care costs are covered will hit the poorest hardest.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rules",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cap",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Public inquiry to be held into Novichok death",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-wiltshire-59332227",
+        "content": "Priti Patel says the inquiry will examine any Russian involvement in Dawn Sturgess's death in 2018.",
+        "placed": "Politics",
+        "epoch": 1637262003.8501446,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T20.00.03E1637262003.8501592.json",
+        "en_title": "Public inquiry to be held into Novichok death",
+        "en_content": "Priti Patel says the inquiry will examine any Russian involvement in Dawn Sturgess's death in 2018.",
+        "concepts": [
+            {
+                "word": "inquiry",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Novichok",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

@@ -1,0 +1,630 @@
+[
+    {
+        "title": "190 nations and organisations pledge to quit coal",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59159018",
+        "content": "Big coal users like Poland and Canada vow to phase it out, but key players China and India have not.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2024002,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "190 nations and organisations pledge to quit coal",
+        "en_content": "Big coal users like Poland and Canada vow to phase it out, but key players China and India have not.",
+        "concepts": [
+            {
+                "word": "nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "organisations",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "190 nations and organisations pledge to quit coal",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59159018",
+        "content": "Big coal users like Poland and Canada vow to phase it out, but key players China and India have not.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2024262,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "190 nations and organisations pledge to quit coal",
+        "en_content": "Big coal users like Poland and Canada vow to phase it out, but key players China and India have not.",
+        "concepts": [
+            {
+                "word": "nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "organisations",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ICC to probe Venezuela for crimes against humanity",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59159025",
+        "content": "The International Criminal Court will examine allegations of torture and extrajudicial killings.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2024453,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "ICC to probe Venezuela for crimes against humanity",
+        "en_content": "The International Criminal Court will examine allegations of torture and extrajudicial killings.",
+        "concepts": [
+            {
+                "word": "Venezuela",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crimes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "humanity",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Charges likely in Australia child disappearance case",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59159331",
+        "content": "A 36-year-old man will likely be charged in connection with Cleo Smith's disappearance later today.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2024627,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Charges likely in Australia child disappearance case",
+        "en_content": "A 36-year-old man will likely be charged in connection with Cleo Smith's disappearance later today.",
+        "concepts": [
+            {
+                "word": "Charges",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "child",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disappearance",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Iran nuclear talks to resume within weeks",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59154988",
+        "content": "Vienna will play host, more than three years after the US abandoned a landmark agreement.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2024817,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Iran nuclear talks to resume within weeks",
+        "en_content": "Vienna will play host, more than three years after the US abandoned a landmark agreement.",
+        "concepts": [
+            {
+                "word": "Iran",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "weeks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Israeli spyware group added to US trade blacklist",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/technology-59149651",
+        "content": "NSO Group, which makes the Pegasus spyware, acted against US interests, officials say.",
+        "placed": "Abroad",
+        "epoch": 1636009204.202506,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Israeli spyware group added to US trade blacklist",
+        "en_content": "NSO Group, which makes the Pegasus spyware, acted against US interests, officials say.",
+        "concepts": [
+            {
+                "word": "spyware",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "group",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "blacklist",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Facebook says Ethiopian PM's post incited violence",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59154984",
+        "content": "The social giant deletes Abiy Ahmed's post which urged citizens to \"bury\" a rebel group.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2025292,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Facebook says Ethiopian PM's post incited violence",
+        "en_content": "The social giant deletes Abiy Ahmed's post which urged citizens to \"bury\" a rebel group.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ethiopian",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "PM",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "violence",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Tennis star accuses top Chinese official of abuse",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59149698",
+        "content": "It is the first time sexual assault allegations have been made against a senior Chinese leader.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2025461,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Tennis star accuses top Chinese official of abuse",
+        "en_content": "It is the first time sexual assault allegations have been made against a senior Chinese leader.",
+        "concepts": [
+            {
+                "word": "Tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "official",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abuse",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "190 nations and organisations pledge to quit coal",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59159018",
+        "content": "Big coal users like Poland and Canada vow to phase it out, but key players China and India have not.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2025614,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "190 nations and organisations pledge to quit coal",
+        "en_content": "Big coal users like Poland and Canada vow to phase it out, but key players China and India have not.",
+        "concepts": [
+            {
+                "word": "nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "organisations",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "ICC to probe Venezuela for crimes against humanity",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59159025",
+        "content": "The International Criminal Court will examine allegations of torture and extrajudicial killings.",
+        "placed": "Abroad",
+        "epoch": 1636009204.202576,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "ICC to probe Venezuela for crimes against humanity",
+        "en_content": "The International Criminal Court will examine allegations of torture and extrajudicial killings.",
+        "concepts": [
+            {
+                "word": "Venezuela",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crimes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "humanity",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Charges likely in Australia child disappearance case",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59159331",
+        "content": "A 36-year-old man will likely be charged in connection with Cleo Smith's disappearance later today.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2025902,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Charges likely in Australia child disappearance case",
+        "en_content": "A 36-year-old man will likely be charged in connection with Cleo Smith's disappearance later today.",
+        "concepts": [
+            {
+                "word": "Charges",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "child",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disappearance",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Iran nuclear talks to resume within weeks",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59154988",
+        "content": "Vienna will play host, more than three years after the US abandoned a landmark agreement.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2026048,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Iran nuclear talks to resume within weeks",
+        "en_content": "Vienna will play host, more than three years after the US abandoned a landmark agreement.",
+        "concepts": [
+            {
+                "word": "Iran",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "weeks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Israeli spyware group added to US trade blacklist",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/technology-59149651",
+        "content": "NSO Group, which makes the Pegasus spyware, acted against US interests, officials say.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2026188,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Israeli spyware group added to US trade blacklist",
+        "en_content": "NSO Group, which makes the Pegasus spyware, acted against US interests, officials say.",
+        "concepts": [
+            {
+                "word": "spyware",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "group",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "blacklist",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Facebook says Ethiopian PM's post incited violence",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59154984",
+        "content": "The social giant deletes Abiy Ahmed's post which urged citizens to \"bury\" a rebel group.",
+        "placed": "Abroad",
+        "epoch": 1636009204.202634,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Facebook says Ethiopian PM's post incited violence",
+        "en_content": "The social giant deletes Abiy Ahmed's post which urged citizens to \"bury\" a rebel group.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ethiopian",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "PM",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "violence",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Tennis star accuses top Chinese official of abuse",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59149698",
+        "content": "It is the first time sexual assault allegations have been made against a senior Chinese leader.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2026496,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Tennis star accuses top Chinese official of abuse",
+        "en_content": "It is the first time sexual assault allegations have been made against a senior Chinese leader.",
+        "concepts": [
+            {
+                "word": "Tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "official",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abuse",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "ICC to probe Venezuela for crimes against humanity",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59159025",
+        "content": "The International Criminal Court will examine allegations of torture and extrajudicial killings.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2026658,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "ICC to probe Venezuela for crimes against humanity",
+        "en_content": "The International Criminal Court will examine allegations of torture and extrajudicial killings.",
+        "concepts": [
+            {
+                "word": "Venezuela",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crimes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "humanity",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Charges likely in Australia child disappearance case",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59159331",
+        "content": "A 36-year-old man will likely be charged in connection with Cleo Smith's disappearance later today.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2026808,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Charges likely in Australia child disappearance case",
+        "en_content": "A 36-year-old man will likely be charged in connection with Cleo Smith's disappearance later today.",
+        "concepts": [
+            {
+                "word": "Charges",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Australia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "child",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "disappearance",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Iran nuclear talks to resume within weeks",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59154988",
+        "content": "Vienna will play host, more than three years after the US abandoned a landmark agreement.",
+        "placed": "Abroad",
+        "epoch": 1636009204.2026951,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T08.00.04E1636009204.2027097.json",
+        "en_title": "Iran nuclear talks to resume within weeks",
+        "en_content": "Vienna will play host, more than three years after the US abandoned a landmark agreement.",
+        "concepts": [
+            {
+                "word": "Iran",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "weeks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

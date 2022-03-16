@@ -1,0 +1,678 @@
+[
+    {
+        "title": "Belarus leader: We may have helped migrants into EU",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59343815",
+        "content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9536023,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "Belarus leader: We may have helped migrants into EU",
+        "en_content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Belarus leader: We may have helped migrants into EU",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59343815",
+        "content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9536934,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "Belarus leader: We may have helped migrants into EU",
+        "en_content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US teenager Kyle Rittenhouse cleared over killings",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352228",
+        "content": "A jury clears the 18-year-old of homicide and all other charges following a politically divisive trial.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9537058,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "US teenager Kyle Rittenhouse cleared over killings",
+        "en_content": "A jury clears the 18-year-old of homicide and all other charges following a politically divisive trial.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "teenager",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kyle",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rittenhouse",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "killings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Austria to go into full lockdown as Covid surges",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59343650",
+        "content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9537272,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "Austria to go into full lockdown as Covid surges",
+        "en_content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "concepts": [
+            {
+                "word": "Austria",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US House passes $1.9tn social spending bill",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59351261",
+        "content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9537458,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "US House passes $1.9tn social spending bill",
+        "en_content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "House",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Millions sent to allies of Congo ex-leader - leak",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59343922",
+        "content": "Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9537642,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "Millions sent to allies of Congo ex-leader - leak",
+        "en_content": "Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak.",
+        "concepts": [
+            {
+                "word": "Millions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "allies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Congo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leak",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Harris first woman to get US presidential powers",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352170",
+        "content": "Vice-President Kamala Harris briefly took control during Joe Biden's routine health check.",
+        "placed": "Abroad",
+        "epoch": 1637348403.95378,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "Harris first woman to get US presidential powers",
+        "en_content": "Vice-President Kamala Harris briefly took control during Joe Biden's routine health check.",
+        "concepts": [
+            {
+                "word": "Harris",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woman",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "powers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'Still no direct contact with Peng'",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/sport/tennis/59349888",
+        "content": "The World Tennis Associaiton told the BBC there will be no events in China without proof she is safe.",
+        "placed": "Abroad",
+        "epoch": 1637348403.953796,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "'Still no direct contact with Peng'",
+        "en_content": "The World Tennis Associaiton told the BBC there will be no events in China without proof she is safe.",
+        "concepts": [
+            {
+                "word": "contact",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Peng",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Belarus leader: We may have helped migrants into EU",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59343815",
+        "content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9538112,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "Belarus leader: We may have helped migrants into EU",
+        "en_content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US teenager Kyle Rittenhouse cleared over killings",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352228",
+        "content": "A jury clears the 18-year-old of homicide and all other charges following a politically divisive trial.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9538267,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "US teenager Kyle Rittenhouse cleared over killings",
+        "en_content": "A jury clears the 18-year-old of homicide and all other charges following a politically divisive trial.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "teenager",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kyle",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rittenhouse",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "killings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Austria to go into full lockdown as Covid surges",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59343650",
+        "content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9538348,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "Austria to go into full lockdown as Covid surges",
+        "en_content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "concepts": [
+            {
+                "word": "Austria",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US House passes $1.9tn social spending bill",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59351261",
+        "content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "placed": "Abroad",
+        "epoch": 1637348403.953851,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "US House passes $1.9tn social spending bill",
+        "en_content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "House",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Millions sent to allies of Congo ex-leader - leak",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59343922",
+        "content": "Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak.",
+        "placed": "Abroad",
+        "epoch": 1637348403.953866,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "Millions sent to allies of Congo ex-leader - leak",
+        "en_content": "Family and friends of former DR Congo President Joseph Kabila are named by Africa's biggest data leak.",
+        "concepts": [
+            {
+                "word": "Millions",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "allies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Congo",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leak",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Harris first woman to get US presidential powers",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352170",
+        "content": "Vice-President Kamala Harris briefly took control during Joe Biden's routine health check.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9538808,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "Harris first woman to get US presidential powers",
+        "en_content": "Vice-President Kamala Harris briefly took control during Joe Biden's routine health check.",
+        "concepts": [
+            {
+                "word": "Harris",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woman",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "powers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'Still no direct contact with Peng'",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/sport/tennis/59349888",
+        "content": "The World Tennis Associaiton told the BBC there will be no events in China without proof she is safe.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9538953,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "'Still no direct contact with Peng'",
+        "en_content": "The World Tennis Associaiton told the BBC there will be no events in China without proof she is safe.",
+        "concepts": [
+            {
+                "word": "contact",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Peng",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US teenager Kyle Rittenhouse cleared over killings",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352228",
+        "content": "A jury clears the 18-year-old of homicide and all other charges following a politically divisive trial.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9539099,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "US teenager Kyle Rittenhouse cleared over killings",
+        "en_content": "A jury clears the 18-year-old of homicide and all other charges following a politically divisive trial.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "teenager",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kyle",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rittenhouse",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "killings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Austria to go into full lockdown as Covid surges",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59343650",
+        "content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9539244,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "Austria to go into full lockdown as Covid surges",
+        "en_content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "concepts": [
+            {
+                "word": "Austria",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US House passes $1.9tn social spending bill",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59351261",
+        "content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "placed": "Abroad",
+        "epoch": 1637348403.9539392,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T20.00.03E1637348403.953954.json",
+        "en_title": "US House passes $1.9tn social spending bill",
+        "en_content": "The Build Back Better Act now heads to the Senate, where it faces significant hurdles.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "House",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "spending",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

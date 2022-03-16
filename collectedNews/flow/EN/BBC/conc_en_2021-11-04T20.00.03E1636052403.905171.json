@@ -1,0 +1,688 @@
+[
+    {
+        "title": "Paterson quits as MP over lobbying row 'nightmare'",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59167783",
+        "content": "The Tory MP is at the centre of a bitter row after he was found to have made \"egregious\" rule breaches.",
+        "placed": "Politics",
+        "epoch": 1636052403.9048777,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "Paterson quits as MP over lobbying row 'nightmare'",
+        "en_content": "The Tory MP is at the centre of a bitter row after he was found to have made \"egregious\" rule breaches.",
+        "concepts": [
+            {
+                "word": "Paterson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lobbying",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nightmare",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Paterson quits as MP over lobbying row 'nightmare'",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59167783",
+        "content": "The Tory MP is at the centre of a bitter row after he was found to have made \"egregious\" rule breaches.",
+        "placed": "Politics",
+        "epoch": 1636052403.9049067,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "Paterson quits as MP over lobbying row 'nightmare'",
+        "en_content": "The Tory MP is at the centre of a bitter row after he was found to have made \"egregious\" rule breaches.",
+        "concepts": [
+            {
+                "word": "Paterson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lobbying",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nightmare",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MP convicted of harassment gets suspended sentence",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-leicestershire-59162007",
+        "content": "A court hears Claudia Webbe made several calls to her partner's friend and threatened her with acid.",
+        "placed": "Politics",
+        "epoch": 1636052403.9049268,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "MP convicted of harassment gets suspended sentence",
+        "en_content": "A court hears Claudia Webbe made several calls to her partner's friend and threatened her with acid.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "harassment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sentence",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM given free holiday by minister Goldsmith",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59163689",
+        "content": "Boris Johnson confirms he stayed at the Spanish home of Lord Goldsmith's family in October.",
+        "placed": "Politics",
+        "epoch": 1636052403.9049437,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "PM given free holiday by minister Goldsmith",
+        "en_content": "Boris Johnson confirms he stayed at the Spanish home of Lord Goldsmith's family in October.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "holiday",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minister",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Goldsmith",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Insulate Britain blocks roads around Parliament",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59163068",
+        "content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "placed": "Politics",
+        "epoch": 1636052403.9049597,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "Insulate Britain blocks roads around Parliament",
+        "en_content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "concepts": [
+            {
+                "word": "Insulate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Britain",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "In full: Owen Paterson resignation statement",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59167222",
+        "content": "Following a row over paid lobbying, the Conservative ex-minister says he is stepping down as an MP.",
+        "placed": "Politics",
+        "epoch": 1636052403.9049761,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "In full: Owen Paterson resignation statement",
+        "en_content": "Following a row over paid lobbying, the Conservative ex-minister says he is stepping down as an MP.",
+        "concepts": [
+            {
+                "word": "Owen",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "resignation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "statement",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Brexit minister in Paris for talks on fishing row",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59159263",
+        "content": "France has warned punitive measures are still \"on the table\" if a deal cannot be reached.",
+        "placed": "Politics",
+        "epoch": 1636052403.9049976,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "Brexit minister in Paris for talks on fishing row",
+        "en_content": "France has warned punitive measures are still \"on the table\" if a deal cannot be reached.",
+        "concepts": [
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Paris",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "talks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Office vandalised due to Paterson vote, MP claims",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-northamptonshire-59164372",
+        "content": "Peter Bone says his staff were put in danger by the incident after the vote on Wednesday.",
+        "placed": "Politics",
+        "epoch": 1636052403.9050128,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "Office vandalised due to Paterson vote, MP claims",
+        "en_content": "Peter Bone says his staff were put in danger by the incident after the vote on Wednesday.",
+        "concepts": [
+            {
+                "word": "Office",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vote",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Paterson quits as MP over lobbying row 'nightmare'",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59167783",
+        "content": "The Tory MP is at the centre of a bitter row after he was found to have made \"egregious\" rule breaches.",
+        "placed": "Politics",
+        "epoch": 1636052403.9050272,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "Paterson quits as MP over lobbying row 'nightmare'",
+        "en_content": "The Tory MP is at the centre of a bitter row after he was found to have made \"egregious\" rule breaches.",
+        "concepts": [
+            {
+                "word": "Paterson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lobbying",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "nightmare",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MP convicted of harassment gets suspended sentence",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-leicestershire-59162007",
+        "content": "A court hears Claudia Webbe made several calls to her partner's friend and threatened her with acid.",
+        "placed": "Politics",
+        "epoch": 1636052403.9050417,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "MP convicted of harassment gets suspended sentence",
+        "en_content": "A court hears Claudia Webbe made several calls to her partner's friend and threatened her with acid.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "harassment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sentence",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM given free holiday by minister Goldsmith",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59163689",
+        "content": "Boris Johnson confirms he stayed at the Spanish home of Lord Goldsmith's family in October.",
+        "placed": "Politics",
+        "epoch": 1636052403.9050562,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "PM given free holiday by minister Goldsmith",
+        "en_content": "Boris Johnson confirms he stayed at the Spanish home of Lord Goldsmith's family in October.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "holiday",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minister",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Goldsmith",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Insulate Britain blocks roads around Parliament",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59163068",
+        "content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "placed": "Politics",
+        "epoch": 1636052403.90507,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "Insulate Britain blocks roads around Parliament",
+        "en_content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "concepts": [
+            {
+                "word": "Insulate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Britain",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "In full: Owen Paterson resignation statement",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59167222",
+        "content": "Following a row over paid lobbying, the Conservative ex-minister says he is stepping down as an MP.",
+        "placed": "Politics",
+        "epoch": 1636052403.9050841,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "In full: Owen Paterson resignation statement",
+        "en_content": "Following a row over paid lobbying, the Conservative ex-minister says he is stepping down as an MP.",
+        "concepts": [
+            {
+                "word": "Owen",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "resignation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "statement",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Brexit minister in Paris for talks on fishing row",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59159263",
+        "content": "France has warned punitive measures are still \"on the table\" if a deal cannot be reached.",
+        "placed": "Politics",
+        "epoch": 1636052403.9050982,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "Brexit minister in Paris for talks on fishing row",
+        "en_content": "France has warned punitive measures are still \"on the table\" if a deal cannot be reached.",
+        "concepts": [
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Paris",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "talks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Office vandalised due to Paterson vote, MP claims",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-northamptonshire-59164372",
+        "content": "Peter Bone says his staff were put in danger by the incident after the vote on Wednesday.",
+        "placed": "Politics",
+        "epoch": 1636052403.9051127,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "Office vandalised due to Paterson vote, MP claims",
+        "en_content": "Peter Bone says his staff were put in danger by the incident after the vote on Wednesday.",
+        "concepts": [
+            {
+                "word": "Office",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Paterson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vote",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MP convicted of harassment gets suspended sentence",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-leicestershire-59162007",
+        "content": "A court hears Claudia Webbe made several calls to her partner's friend and threatened her with acid.",
+        "placed": "Politics",
+        "epoch": 1636052403.9051273,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "MP convicted of harassment gets suspended sentence",
+        "en_content": "A court hears Claudia Webbe made several calls to her partner's friend and threatened her with acid.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "harassment",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sentence",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM given free holiday by minister Goldsmith",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59163689",
+        "content": "Boris Johnson confirms he stayed at the Spanish home of Lord Goldsmith's family in October.",
+        "placed": "Politics",
+        "epoch": 1636052403.9051414,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "PM given free holiday by minister Goldsmith",
+        "en_content": "Boris Johnson confirms he stayed at the Spanish home of Lord Goldsmith's family in October.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "holiday",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minister",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Goldsmith",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Insulate Britain blocks roads around Parliament",
+        "date": "2021-11-04",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59163068",
+        "content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "placed": "Politics",
+        "epoch": 1636052403.905156,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T20.00.03E1636052403.905171.json",
+        "en_title": "Insulate Britain blocks roads around Parliament",
+        "en_content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "concepts": [
+            {
+                "word": "Insulate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Britain",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

@@ -1,0 +1,653 @@
+[
+    {
+        "title": "Labour: Patel incompetent over Channel crossings",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59365722",
+        "content": "But former Home Secretary Sajid Javid says he is confident his successor is doing everything she can.",
+        "placed": "Politics",
+        "epoch": 1637521203.0551493,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "Labour: Patel incompetent over Channel crossings",
+        "en_content": "But former Home Secretary Sajid Javid says he is confident his successor is doing everything she can.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Patel",
+                "meaning": "compound",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour: Patel incompetent over Channel crossings",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59365722",
+        "content": "But former Home Secretary Sajid Javid says he is confident his successor is doing everything she can.",
+        "placed": "Politics",
+        "epoch": 1637521203.055174,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "Labour: Patel incompetent over Channel crossings",
+        "en_content": "But former Home Secretary Sajid Javid says he is confident his successor is doing everything she can.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Patel",
+                "meaning": "compound",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "EU accuses Brexit minister of 'political posturing'",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59365412",
+        "content": "The European Commission VP, Maroš Šefčovič, says the UK should not \"bring more problems to the table\".",
+        "placed": "Politics",
+        "epoch": 1637521203.055193,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "EU accuses Brexit minister of 'political posturing'",
+        "en_content": "The European Commission VP, Maroš Šefčovič, says the UK should not \"bring more problems to the table\".",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "posturing",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Javid orders review of medical device racial bias",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59363544",
+        "content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "placed": "Politics",
+        "epoch": 1637521203.0552104,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "Javid orders review of medical device racial bias",
+        "en_content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "concepts": [
+            {
+                "word": "Javid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "orders",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "review",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "device",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "bias",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Mental health deaths on the rise, figures suggest",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59336579",
+        "content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "placed": "Politics",
+        "epoch": 1637521203.0552266,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "Mental health deaths on the rise, figures suggest",
+        "en_content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "concepts": [
+            {
+                "word": "health",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "figures",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ross calls for evidence over vaccine passports",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59365733",
+        "content": "The Scottish Conservative leader says the Scottish government have not proved the tool prevents Covid spread.",
+        "placed": "Politics",
+        "epoch": 1637521203.055242,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "Ross calls for evidence over vaccine passports",
+        "en_content": "The Scottish Conservative leader says the Scottish government have not proved the tool prevents Covid spread.",
+        "concepts": [
+            {
+                "word": "Ross",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "evidence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'It's always about the stories, not the storyteller'",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59365029",
+        "content": "Andrew Marr's talks briefly about his decision to leave the BBC after 21 years.",
+        "placed": "Politics",
+        "epoch": 1637521203.0552547,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "'It's always about the stories, not the storyteller'",
+        "en_content": "Andrew Marr's talks briefly about his decision to leave the BBC after 21 years.",
+        "concepts": [
+            {
+                "word": "stories",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "storyteller",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "State bank risked £335m to back Greensill, say MPs",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59351160",
+        "content": "A government-backed bank did not scrutinise Greensill Capital properly, MPs say.",
+        "placed": "Politics",
+        "epoch": 1637521203.0552697,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "State bank risked £335m to back Greensill, say MPs",
+        "en_content": "A government-backed bank did not scrutinise Greensill Capital properly, MPs say.",
+        "concepts": [
+            {
+                "word": "State",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bank",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Greensill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Labour: Patel incompetent over Channel crossings",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59365722",
+        "content": "But former Home Secretary Sajid Javid says he is confident his successor is doing everything she can.",
+        "placed": "Politics",
+        "epoch": 1637521203.0552843,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "Labour: Patel incompetent over Channel crossings",
+        "en_content": "But former Home Secretary Sajid Javid says he is confident his successor is doing everything she can.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Patel",
+                "meaning": "compound",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "EU accuses Brexit minister of 'political posturing'",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59365412",
+        "content": "The European Commission VP, Maroš Šefčovič, says the UK should not \"bring more problems to the table\".",
+        "placed": "Politics",
+        "epoch": 1637521203.0552993,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "EU accuses Brexit minister of 'political posturing'",
+        "en_content": "The European Commission VP, Maroš Šefčovič, says the UK should not \"bring more problems to the table\".",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "posturing",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Javid orders review of medical device racial bias",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59363544",
+        "content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "placed": "Politics",
+        "epoch": 1637521203.0553138,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "Javid orders review of medical device racial bias",
+        "en_content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "concepts": [
+            {
+                "word": "Javid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "orders",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "review",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "device",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "bias",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Mental health deaths on the rise, figures suggest",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59336579",
+        "content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "placed": "Politics",
+        "epoch": 1637521203.0553286,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "Mental health deaths on the rise, figures suggest",
+        "en_content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "concepts": [
+            {
+                "word": "health",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "figures",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ross calls for evidence over vaccine passports",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59365733",
+        "content": "The Scottish Conservative leader says the Scottish government have not proved the tool prevents Covid spread.",
+        "placed": "Politics",
+        "epoch": 1637521203.0553427,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "Ross calls for evidence over vaccine passports",
+        "en_content": "The Scottish Conservative leader says the Scottish government have not proved the tool prevents Covid spread.",
+        "concepts": [
+            {
+                "word": "Ross",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "evidence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'It's always about the stories, not the storyteller'",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59365029",
+        "content": "Andrew Marr's talks briefly about his decision to leave the BBC after 21 years.",
+        "placed": "Politics",
+        "epoch": 1637521203.055357,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "'It's always about the stories, not the storyteller'",
+        "en_content": "Andrew Marr's talks briefly about his decision to leave the BBC after 21 years.",
+        "concepts": [
+            {
+                "word": "stories",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "storyteller",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "State bank risked £335m to back Greensill, say MPs",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59351160",
+        "content": "A government-backed bank did not scrutinise Greensill Capital properly, MPs say.",
+        "placed": "Politics",
+        "epoch": 1637521203.0553648,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "State bank risked £335m to back Greensill, say MPs",
+        "en_content": "A government-backed bank did not scrutinise Greensill Capital properly, MPs say.",
+        "concepts": [
+            {
+                "word": "State",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bank",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Greensill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "EU accuses Brexit minister of 'political posturing'",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59365412",
+        "content": "The European Commission VP, Maroš Šefčovič, says the UK should not \"bring more problems to the table\".",
+        "placed": "Politics",
+        "epoch": 1637521203.0553792,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "EU accuses Brexit minister of 'political posturing'",
+        "en_content": "The European Commission VP, Maroš Šefčovič, says the UK should not \"bring more problems to the table\".",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "posturing",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Javid orders review of medical device racial bias",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59363544",
+        "content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "placed": "Politics",
+        "epoch": 1637521203.0553935,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "Javid orders review of medical device racial bias",
+        "en_content": "The health secretary responds to research suggesting oximeters work less well for darker-skinned people.",
+        "concepts": [
+            {
+                "word": "Javid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "orders",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "review",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "device",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "bias",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Mental health deaths on the rise, figures suggest",
+        "date": "2021-11-21",
+        "date_raw": "2021-11-21",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59336579",
+        "content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "placed": "Politics",
+        "epoch": 1637521203.0554166,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-21T20.00.03E1637521203.0554297.json",
+        "en_title": "Mental health deaths on the rise, figures suggest",
+        "en_content": "An ex-health secretary warns staff shortages are now compromising patient safety in the NHS.",
+        "concepts": [
+            {
+                "word": "health",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "figures",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

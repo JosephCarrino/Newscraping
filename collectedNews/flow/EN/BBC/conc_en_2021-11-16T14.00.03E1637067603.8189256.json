@@ -1,0 +1,537 @@
+[
+    {
+        "title": "MPs to vote again on unpicking standards U-turn",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59301710",
+        "content": "A government bid to quietly rubber-stamp its reversal on Monday was thwarted by Tory MP Christopher Chope.",
+        "placed": "Politics",
+        "epoch": 1637067603.818642,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "MPs to vote again on unpicking standards U-turn",
+        "en_content": "A government bid to quietly rubber-stamp its reversal on Monday was thwarted by Tory MP Christopher Chope.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "standards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "U",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-",
+                "meaning": "punct",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "MPs to vote again on unpicking standards U-turn",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59301710",
+        "content": "A government bid to quietly rubber-stamp its reversal on Monday was thwarted by Tory MP Christopher Chope.",
+        "placed": "Politics",
+        "epoch": 1637067603.8186748,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "MPs to vote again on unpicking standards U-turn",
+        "en_content": "A government bid to quietly rubber-stamp its reversal on Monday was thwarted by Tory MP Christopher Chope.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "standards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "U",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-",
+                "meaning": "punct",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Minister sorry for Standards Commissioner remarks",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59298861",
+        "content": "Kwasi Kwarteng appeared to question whether Kathryn Stone should keep her job amid a row over MPs conduct.",
+        "placed": "Politics",
+        "epoch": 1637067603.8187146,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "Minister sorry for Standards Commissioner remarks",
+        "en_content": "Kwasi Kwarteng appeared to question whether Kathryn Stone should keep her job amid a row over MPs conduct.",
+        "concepts": [
+            {
+                "word": "Minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Standards",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Commissioner",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM's father accused of inappropriate touching",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59303410",
+        "content": "Two women, one of them a Tory MP, allege Stanley Johnson smacked and groped them.",
+        "placed": "Politics",
+        "epoch": 1637067603.8187404,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "PM's father accused of inappropriate touching",
+        "en_content": "Two women, one of them a Tory MP, allege Stanley Johnson smacked and groped them.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "father",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "touching",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Watch: English cricket chiefs questioned by MPs on Yorkshire racism",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/sport/live/cricket/59294668",
+        "content": "An inquiry into the mistakes blames \"human error\", a lack of training and \"operational pressure\".",
+        "placed": "Politics",
+        "epoch": 1637067603.8187585,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "Watch: English cricket chiefs questioned by MPs on Yorkshire racism",
+        "en_content": "An inquiry into the mistakes blames \"human error\", a lack of training and \"operational pressure\".",
+        "concepts": [
+            {
+                "word": "cricket",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chiefs",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Yorkshire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "racism",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MoD not aware of any harm after Afghan data breach",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59288498",
+        "content": "More than 100,000 young people have started new jobs under the £2bn government scheme, figures show.",
+        "placed": "Politics",
+        "epoch": 1637067603.8187757,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "MoD not aware of any harm after Afghan data breach",
+        "en_content": "More than 100,000 young people have started new jobs under the £2bn government scheme, figures show.",
+        "concepts": [
+            {
+                "word": "MoD",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "harm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kickstart youth jobless plan helps 100,000",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59292194",
+        "content": "Education Secretary Nadhim Zahawi says it would be \"wrong to push too hard\" on its timetable.",
+        "placed": "Politics",
+        "epoch": 1637067603.8187916,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "Kickstart youth jobless plan helps 100,000",
+        "en_content": "Education Secretary Nadhim Zahawi says it would be \"wrong to push too hard\" on its timetable.",
+        "concepts": [
+            {
+                "word": "Kickstart",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "youth",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Government delays education changes by one year",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59298862",
+        "content": "A government bid to quietly rubber-stamp its reversal on Monday was thwarted by Tory MP Christopher Chope.",
+        "placed": "Politics",
+        "epoch": 1637067603.8188064,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "Government delays education changes by one year",
+        "en_content": "A government bid to quietly rubber-stamp its reversal on Monday was thwarted by Tory MP Christopher Chope.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "education",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "changes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs to vote again on unpicking standards U-turn",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59301710",
+        "content": "Kwasi Kwarteng appeared to question whether Kathryn Stone should keep her job amid a row over MPs conduct.",
+        "placed": "Politics",
+        "epoch": 1637067603.8188217,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "MPs to vote again on unpicking standards U-turn",
+        "en_content": "Kwasi Kwarteng appeared to question whether Kathryn Stone should keep her job amid a row over MPs conduct.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "standards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "U",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "-",
+                "meaning": "punct",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Minister sorry for Standards Commissioner remarks",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59298861",
+        "content": "Two women, one of them a Tory MP, allege Stanley Johnson smacked and groped them.",
+        "placed": "Politics",
+        "epoch": 1637067603.8188367,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "Minister sorry for Standards Commissioner remarks",
+        "en_content": "Two women, one of them a Tory MP, allege Stanley Johnson smacked and groped them.",
+        "concepts": [
+            {
+                "word": "Minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Standards",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Commissioner",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM's father accused of inappropriate touching",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59303410",
+        "content": "An inquiry into the mistakes blames \"human error\", a lack of training and \"operational pressure\".",
+        "placed": "Politics",
+        "epoch": 1637067603.8188512,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "PM's father accused of inappropriate touching",
+        "en_content": "An inquiry into the mistakes blames \"human error\", a lack of training and \"operational pressure\".",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "father",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "touching",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Watch: English cricket chiefs questioned by MPs on Yorkshire racism",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/sport/live/cricket/59294668",
+        "content": "More than 100,000 young people have started new jobs under the £2bn government scheme, figures show.",
+        "placed": "Politics",
+        "epoch": 1637067603.8188663,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "Watch: English cricket chiefs questioned by MPs on Yorkshire racism",
+        "en_content": "More than 100,000 young people have started new jobs under the £2bn government scheme, figures show.",
+        "concepts": [
+            {
+                "word": "cricket",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chiefs",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Yorkshire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "racism",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MoD not aware of any harm after Afghan data breach",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59288498",
+        "content": "Education Secretary Nadhim Zahawi says it would be \"wrong to push too hard\" on its timetable.",
+        "placed": "Politics",
+        "epoch": 1637067603.8188806,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "MoD not aware of any harm after Afghan data breach",
+        "en_content": "Education Secretary Nadhim Zahawi says it would be \"wrong to push too hard\" on its timetable.",
+        "concepts": [
+            {
+                "word": "MoD",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "harm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kickstart youth jobless plan helps 100,000",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59292194",
+        "content": "Kwasi Kwarteng appeared to question whether Kathryn Stone should keep her job amid a row over MPs conduct.",
+        "placed": "Politics",
+        "epoch": 1637067603.8188946,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "Kickstart youth jobless plan helps 100,000",
+        "en_content": "Kwasi Kwarteng appeared to question whether Kathryn Stone should keep her job amid a row over MPs conduct.",
+        "concepts": [
+            {
+                "word": "Kickstart",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "youth",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Government delays education changes by one year",
+        "date": "2021-11-16",
+        "date_raw": "2021-11-16",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59298862",
+        "content": "Two women, one of them a Tory MP, allege Stanley Johnson smacked and groped them.",
+        "placed": "Politics",
+        "epoch": 1637067603.8189094,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-16T14.00.03E1637067603.8189256.json",
+        "en_title": "Government delays education changes by one year",
+        "en_content": "Two women, one of them a Tory MP, allege Stanley Johnson smacked and groped them.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "education",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "changes",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

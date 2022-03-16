@@ -1,0 +1,725 @@
+[
+    {
+        "title": "Calls for calm as teen gunman acquittal divides US",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59358172",
+        "content": "Families say justice is needed \"not more violence\" after Kyle Rittenhouse is cleared of murder.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8549588,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Calls for calm as teen gunman acquittal divides US",
+        "en_content": "Families say justice is needed \"not more violence\" after Kyle Rittenhouse is cleared of murder.",
+        "concepts": [
+            {
+                "word": "Calls",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "calm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "teen",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "gunman",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "acquittal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Calls for calm as teen gunman acquittal divides US",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59358172",
+        "content": "Families say justice is needed \"not more violence\" after Kyle Rittenhouse is cleared of murder.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8549924,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Calls for calm as teen gunman acquittal divides US",
+        "en_content": "Families say justice is needed \"not more violence\" after Kyle Rittenhouse is cleared of murder.",
+        "concepts": [
+            {
+                "word": "Calls",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "calm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "teen",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "gunman",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "acquittal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "WHO very worried about Covid rise in Europe",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59358074",
+        "content": "The health organisation's regional director warns of half a million more deaths by March without action.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8550124,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "WHO very worried about Covid rise in Europe",
+        "en_content": "The health organisation's regional director warns of half a million more deaths by March without action.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rise",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Anger at Covid plans sparks riots in Rotterdam",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59356186",
+        "content": "Police in Rotterdam fired warning shots and used water cannon as protests turned violent.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8550248,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Anger at Covid plans sparks riots in Rotterdam",
+        "en_content": "Police in Rotterdam fired warning shots and used water cannon as protests turned violent.",
+        "concepts": [
+            {
+                "word": "Anger",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "plans",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "riots",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Rotterdam",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Theranos boss makes surprise testimony at trial",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59355955",
+        "content": "Elizabeth Holmes, the ex-boss of blood testing company Theranos, took the stand in her defence.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8550422,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Theranos boss makes surprise testimony at trial",
+        "en_content": "Elizabeth Holmes, the ex-boss of blood testing company Theranos, took the stand in her defence.",
+        "concepts": [
+            {
+                "word": "Theranos",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surprise",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "testimony",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tesla drivers locked out of cars after app issue",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/technology-59357306",
+        "content": "The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8550627,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Tesla drivers locked out of cars after app issue",
+        "en_content": "The carmaker's CEO Elon Musk says its app is coming back online after many owners reported an error.",
+        "concepts": [
+            {
+                "word": "Tesla",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drivers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cars",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "app",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "issue",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US motorway frenzy after armoured van spills money",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59358070",
+        "content": "Videos on social media show dollars raining down as drivers scramble to pick up the littered cash.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8550785,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "US motorway frenzy after armoured van spills money",
+        "en_content": "Videos on social media show dollars raining down as drivers scramble to pick up the littered cash.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "motorway",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "frenzy",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "van",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "money",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Belarus leader: We may have helped migrants into EU",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59343815",
+        "content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8550935,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Belarus leader: We may have helped migrants into EU",
+        "en_content": "In an exclusive interview, Alexander Lukashenko says it was \"absolutely possible\" migrants had help.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leader",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "EU",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US 'deeply concerned' over Chinese tennis star",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59327679",
+        "content": "Peng Shuai, 35, has not been heard from since she accused a top Chinese official of sexual assault.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8551085,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "US 'deeply concerned' over Chinese tennis star",
+        "en_content": "Peng Shuai, 35, has not been heard from since she accused a top Chinese official of sexual assault.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Unvaccinated stars cannot play in Australian Open",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/tennis/59356156",
+        "content": "There had been confusion over the issue with contradictory statements from politicians.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8551238,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Unvaccinated stars cannot play in Australian Open",
+        "en_content": "There had been confusion over the issue with contradictory statements from politicians.",
+        "concepts": [
+            {
+                "word": "stars",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Australian",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Open",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Harris first woman to get US presidential powers",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352170",
+        "content": "Vice-President Kamala Harris took control for 85 minutes during Joe Biden's routine health check.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8551416,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Harris first woman to get US presidential powers",
+        "en_content": "Vice-President Kamala Harris took control for 85 minutes during Joe Biden's routine health check.",
+        "concepts": [
+            {
+                "word": "Harris",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woman",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "powers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Deathbed confession sparks Jimmy Hoffa body hunt",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59346106",
+        "content": "The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8551562,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Deathbed confession sparks Jimmy Hoffa body hunt",
+        "en_content": "The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case.",
+        "concepts": [
+            {
+                "word": "confession",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Jimmy",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hoffa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "body",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hunt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Harris first woman to get US presidential powers",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352170",
+        "content": "Vice-President Kamala Harris took control for 85 minutes during Joe Biden's routine health check.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8551702,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Harris first woman to get US presidential powers",
+        "en_content": "Vice-President Kamala Harris took control for 85 minutes during Joe Biden's routine health check.",
+        "concepts": [
+            {
+                "word": "Harris",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woman",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "powers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Deathbed confession sparks Jimmy Hoffa body hunt",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59346106",
+        "content": "The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8551843,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Deathbed confession sparks Jimmy Hoffa body hunt",
+        "en_content": "The FBI search a site in New Jersey as a new clue leads to hopes of solving the decades-old case.",
+        "concepts": [
+            {
+                "word": "confession",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Jimmy",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hoffa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "body",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hunt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Austria to go into full lockdown as Covid surges",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59343650",
+        "content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8552132,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Austria to go into full lockdown as Covid surges",
+        "en_content": "As well as Monday's lockdown, the chancellor says vaccinations will be compulsory from February.",
+        "concepts": [
+            {
+                "word": "Austria",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Petrol rationed in western Canada after storm",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59352804",
+        "content": "More than 100 soldiers have so far been deployed to Canada's west, with thousands more on standby.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8552277,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Petrol rationed in western Canada after storm",
+        "en_content": "More than 100 soldiers have so far been deployed to Canada's west, with thousands more on standby.",
+        "concepts": [
+            {
+                "word": "Petrol",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Canada",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "storm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Facebook gives users 'more control' over news feed",
+        "date": "2021-11-20",
+        "date_raw": "2021-11-20",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/technology-59348915",
+        "content": "Facebook says it is testing controls to let users see more content from friends and less from groups.",
+        "placed": "First_Page",
+        "epoch": 1637413203.8552454,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "Facebook gives users 'more control' over news feed",
+        "en_content": "Facebook says it is testing controls to let users see more content from friends and less from groups.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "users",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "control",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "news",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "feed",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The extraordinary power of poo",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.comhttps://www.bbc.co.uk/ideas/videos/the-extraordinary-power-of-poo/p09wk7ln",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1637413203.85526,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "The extraordinary power of poo",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "power",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "poo",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1637413203.8552742,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-20T14.00.03E1637413203.8552957.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

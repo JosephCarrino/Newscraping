@@ -1,0 +1,730 @@
+[
+    {
+        "title": "Government U-turn over MPs' conduct plan",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59163961",
+        "content": "Labour says the Tory move to cancel Owen Paterson's suspension saw the PM \"lead his troops through the sewer\".",
+        "placed": "Politics",
+        "epoch": 1636030804.3955505,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Government U-turn over MPs' conduct plan",
+        "en_content": "Labour says the Tory move to cancel Owen Paterson's suspension saw the PM \"lead his troops through the sewer\".",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "U",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conduct",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Government U-turn over MPs' conduct plan",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59163961",
+        "content": "Labour says the Tory move to cancel Owen Paterson's suspension saw the PM \"lead his troops through the sewer\".",
+        "placed": "Politics",
+        "epoch": 1636030804.3955777,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Government U-turn over MPs' conduct plan",
+        "en_content": "Labour says the Tory move to cancel Owen Paterson's suspension saw the PM \"lead his troops through the sewer\".",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "U",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conduct",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Insulate Britain blocks roads around Parliament",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59163068",
+        "content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "placed": "Politics",
+        "epoch": 1636030804.395597,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Insulate Britain blocks roads around Parliament",
+        "en_content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "concepts": [
+            {
+                "word": "Insulate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Britain",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour Party members' data hit by cyber incident",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59153761",
+        "content": "The UK's information watchdog and National Cyber Security Centre are both looking into the breach.",
+        "placed": "Politics",
+        "epoch": 1636030804.3956144,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Labour Party members' data hit by cyber incident",
+        "en_content": "The UK's information watchdog and National Cyber Security Centre are both looking into the breach.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "members",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "data",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incident",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Brexit minister in Paris for talks on fishing row",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59159263",
+        "content": "France has warned punitive measures are still \"on the table\" if a deal cannot be reached.",
+        "placed": "Politics",
+        "epoch": 1636030804.3956301,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Brexit minister in Paris for talks on fishing row",
+        "en_content": "France has warned punitive measures are still \"on the table\" if a deal cannot be reached.",
+        "concepts": [
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Paris",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "talks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK boat held by French in fishing row released",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59156110",
+        "content": "The British trawler's owners said they were \"delighted\" as the crew left the French port in Le Havre.",
+        "placed": "Politics",
+        "epoch": 1636030804.3956459,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "UK boat held by French in fishing row released",
+        "en_content": "The British trawler's owners said they were \"delighted\" as the crew left the French port in Le Havre.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boat",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "French",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Parliament's roof nears end of decade-long repair",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-south-yorkshire-59157666",
+        "content": "Iron work specialists Shepley Engineers in Sheffield have removed and restored thousands of tiles.",
+        "placed": "Politics",
+        "epoch": 1636030804.3956614,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Parliament's roof nears end of decade-long repair",
+        "en_content": "Iron work specialists Shepley Engineers in Sheffield have removed and restored thousands of tiles.",
+        "concepts": [
+            {
+                "word": "Parliament",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "roof",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "end",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "decade",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "repair",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Watchdog probes PCC over 'sexual assault claim'",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-tees-59161004",
+        "content": "The office of the Cleveland police and crime commissioner said it would co-operate with the inquiry.",
+        "placed": "Politics",
+        "epoch": 1636030804.3956769,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Watchdog probes PCC over 'sexual assault claim'",
+        "en_content": "The office of the Cleveland police and crime commissioner said it would co-operate with the inquiry.",
+        "concepts": [
+            {
+                "word": "Watchdog",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PCC",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "assault",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claim",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Government U-turn over MPs' conduct plan",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59163961",
+        "content": "Labour says the Tory move to cancel Owen Paterson's suspension saw the PM \"lead his troops through the sewer\".",
+        "placed": "Politics",
+        "epoch": 1636030804.3956919,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Government U-turn over MPs' conduct plan",
+        "en_content": "Labour says the Tory move to cancel Owen Paterson's suspension saw the PM \"lead his troops through the sewer\".",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "U",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conduct",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Insulate Britain blocks roads around Parliament",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59163068",
+        "content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "placed": "Politics",
+        "epoch": 1636030804.3957067,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Insulate Britain blocks roads around Parliament",
+        "en_content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "concepts": [
+            {
+                "word": "Insulate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Britain",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour Party members' data hit by cyber incident",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59153761",
+        "content": "The UK's information watchdog and National Cyber Security Centre are both looking into the breach.",
+        "placed": "Politics",
+        "epoch": 1636030804.3957214,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Labour Party members' data hit by cyber incident",
+        "en_content": "The UK's information watchdog and National Cyber Security Centre are both looking into the breach.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "members",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "data",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incident",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Brexit minister in Paris for talks on fishing row",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59159263",
+        "content": "France has warned punitive measures are still \"on the table\" if a deal cannot be reached.",
+        "placed": "Politics",
+        "epoch": 1636030804.3957357,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Brexit minister in Paris for talks on fishing row",
+        "en_content": "France has warned punitive measures are still \"on the table\" if a deal cannot be reached.",
+        "concepts": [
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Paris",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "talks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK boat held by French in fishing row released",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59156110",
+        "content": "The British trawler's owners said they were \"delighted\" as the crew left the French port in Le Havre.",
+        "placed": "Politics",
+        "epoch": 1636030804.39575,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "UK boat held by French in fishing row released",
+        "en_content": "The British trawler's owners said they were \"delighted\" as the crew left the French port in Le Havre.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boat",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "French",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Parliament's roof nears end of decade-long repair",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-south-yorkshire-59157666",
+        "content": "Iron work specialists Shepley Engineers in Sheffield have removed and restored thousands of tiles.",
+        "placed": "Politics",
+        "epoch": 1636030804.3957648,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Parliament's roof nears end of decade-long repair",
+        "en_content": "Iron work specialists Shepley Engineers in Sheffield have removed and restored thousands of tiles.",
+        "concepts": [
+            {
+                "word": "Parliament",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "roof",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "end",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "decade",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "repair",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Watchdog probes PCC over 'sexual assault claim'",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-tees-59161004",
+        "content": "The office of the Cleveland police and crime commissioner said it would co-operate with the inquiry.",
+        "placed": "Politics",
+        "epoch": 1636030804.3957791,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Watchdog probes PCC over 'sexual assault claim'",
+        "en_content": "The office of the Cleveland police and crime commissioner said it would co-operate with the inquiry.",
+        "concepts": [
+            {
+                "word": "Watchdog",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PCC",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "assault",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claim",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Insulate Britain blocks roads around Parliament",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59163068",
+        "content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "placed": "Politics",
+        "epoch": 1636030804.3957937,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Insulate Britain blocks roads around Parliament",
+        "en_content": "One protester said drivers have suggested the group campaigns at Parliament - \"so we took that advice\".",
+        "concepts": [
+            {
+                "word": "Insulate",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Britain",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "roads",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Parliament",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour Party members' data hit by cyber incident",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59153761",
+        "content": "The UK's information watchdog and National Cyber Security Centre are both looking into the breach.",
+        "placed": "Politics",
+        "epoch": 1636030804.395808,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Labour Party members' data hit by cyber incident",
+        "en_content": "The UK's information watchdog and National Cyber Security Centre are both looking into the breach.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "members",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "data",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incident",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Brexit minister in Paris for talks on fishing row",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59159263",
+        "content": "France has warned punitive measures are still \"on the table\" if a deal cannot be reached.",
+        "placed": "Politics",
+        "epoch": 1636030804.3958223,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.04E1636030804.395838.json",
+        "en_title": "Brexit minister in Paris for talks on fishing row",
+        "en_content": "France has warned punitive measures are still \"on the table\" if a deal cannot be reached.",
+        "concepts": [
+            {
+                "word": "Brexit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Paris",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "talks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

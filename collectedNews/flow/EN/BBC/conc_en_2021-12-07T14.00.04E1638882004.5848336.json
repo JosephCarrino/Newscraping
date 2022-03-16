@@ -1,0 +1,668 @@
+[
+    {
+        "title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59549868",
+        "content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "placed": "Politics",
+        "epoch": 1638882004.584507,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "en_content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "concepts": [
+            {
+                "word": "Whistleblower",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "chaos",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59549868",
+        "content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "placed": "Politics",
+        "epoch": 1638882004.584539,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "en_content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "concepts": [
+            {
+                "word": "Whistleblower",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "chaos",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour MP Harman to stand down at next election",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59560336",
+        "content": "The veteran MP announces her impending exit from the Commons after almost 40 years in the job.",
+        "placed": "Politics",
+        "epoch": 1638882004.5845625,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Labour MP Harman to stand down at next election",
+        "en_content": "The veteran MP announces her impending exit from the Commons after almost 40 years in the job.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Harman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sex-based hostility should be hate speech - report",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59554199",
+        "content": "But the Law Commission is criticised for its proposals for legal reforms to tackle misogyny.",
+        "placed": "Politics",
+        "epoch": 1638882004.584582,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Sex-based hostility should be hate speech - report",
+        "en_content": "But the Law Commission is criticised for its proposals for legal reforms to tackle misogyny.",
+        "concepts": [
+            {
+                "word": "Sex",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "hostility",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "speech",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Black minister often mistaken for restaurant staff",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-wales-59552160",
+        "content": "Vaughan Gething says he would not be asked that question if he was smartly-dressed white man.",
+        "placed": "Politics",
+        "epoch": 1638882004.5846002,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Black minister often mistaken for restaurant staff",
+        "en_content": "Vaughan Gething says he would not be asked that question if he was smartly-dressed white man.",
+        "concepts": [
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "restaurant",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "staff",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Drug targets for prisons in England and Wales",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59557786",
+        "content": "Under new plans, each jail will be given a target on the number of drug tests that must be carried out.",
+        "placed": "Politics",
+        "epoch": 1638882004.5846195,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Drug targets for prisons in England and Wales",
+        "en_content": "Under new plans, each jail will be given a target on the number of drug tests that must be carried out.",
+        "concepts": [
+            {
+                "word": "Drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "targets",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prisons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "England",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Wales",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Amnesty proposals 'go too far' - ex-defence minister",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59554920",
+        "content": "Troubles-related prosecution plans are \"cutting off pathways to justice\", says Johnny Mercer.",
+        "placed": "Politics",
+        "epoch": 1638882004.5846374,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Amnesty proposals 'go too far' - ex-defence minister",
+        "en_content": "Troubles-related prosecution plans are \"cutting off pathways to justice\", says Johnny Mercer.",
+        "concepts": [
+            {
+                "word": "Amnesty",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "proposals",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Omicron spreading in the community, Javid confirms",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59553460",
+        "content": "The new variant is spreading in multiple regions of England, the health secretary says.",
+        "placed": "Politics",
+        "epoch": 1638882004.584655,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Omicron spreading in the community, Javid confirms",
+        "en_content": "The new variant is spreading in multiple regions of England, the health secretary says.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "community",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Javid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59549868",
+        "content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "placed": "Politics",
+        "epoch": 1638882004.5846717,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "en_content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "concepts": [
+            {
+                "word": "Whistleblower",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "chaos",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour MP Harman to stand down at next election",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59560336",
+        "content": "The veteran MP announces her impending exit from the Commons after almost 40 years in the job.",
+        "placed": "Politics",
+        "epoch": 1638882004.5846891,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Labour MP Harman to stand down at next election",
+        "en_content": "The veteran MP announces her impending exit from the Commons after almost 40 years in the job.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Harman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sex-based hostility should be hate speech - report",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59554199",
+        "content": "But the Law Commission is criticised for its proposals for legal reforms to tackle misogyny.",
+        "placed": "Politics",
+        "epoch": 1638882004.5847058,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Sex-based hostility should be hate speech - report",
+        "en_content": "But the Law Commission is criticised for its proposals for legal reforms to tackle misogyny.",
+        "concepts": [
+            {
+                "word": "Sex",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "hostility",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "speech",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Black minister often mistaken for restaurant staff",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-wales-59552160",
+        "content": "Vaughan Gething says he would not be asked that question if he was smartly-dressed white man.",
+        "placed": "Politics",
+        "epoch": 1638882004.5847223,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Black minister often mistaken for restaurant staff",
+        "en_content": "Vaughan Gething says he would not be asked that question if he was smartly-dressed white man.",
+        "concepts": [
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "restaurant",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "staff",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Drug targets for prisons in England and Wales",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59557786",
+        "content": "Under new plans, each jail will be given a target on the number of drug tests that must be carried out.",
+        "placed": "Politics",
+        "epoch": 1638882004.5847385,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Drug targets for prisons in England and Wales",
+        "en_content": "Under new plans, each jail will be given a target on the number of drug tests that must be carried out.",
+        "concepts": [
+            {
+                "word": "Drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "targets",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prisons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "England",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Wales",
+                "meaning": "conj",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "Amnesty proposals 'go too far' - ex-defence minister",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59554920",
+        "content": "Troubles-related prosecution plans are \"cutting off pathways to justice\", says Johnny Mercer.",
+        "placed": "Politics",
+        "epoch": 1638882004.584755,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Amnesty proposals 'go too far' - ex-defence minister",
+        "en_content": "Troubles-related prosecution plans are \"cutting off pathways to justice\", says Johnny Mercer.",
+        "concepts": [
+            {
+                "word": "Amnesty",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "proposals",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minister",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Omicron spreading in the community, Javid confirms",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59553460",
+        "content": "The new variant is spreading in multiple regions of England, the health secretary says.",
+        "placed": "Politics",
+        "epoch": 1638882004.5847716,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Omicron spreading in the community, Javid confirms",
+        "en_content": "The new variant is spreading in multiple regions of England, the health secretary says.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "community",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Javid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Labour MP Harman to stand down at next election",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59560336",
+        "content": "The veteran MP announces her impending exit from the Commons after almost 40 years in the job.",
+        "placed": "Politics",
+        "epoch": 1638882004.5847876,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Labour MP Harman to stand down at next election",
+        "en_content": "The veteran MP announces her impending exit from the Commons after almost 40 years in the job.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Harman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sex-based hostility should be hate speech - report",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59554199",
+        "content": "But the Law Commission is criticised for its proposals for legal reforms to tackle misogyny.",
+        "placed": "Politics",
+        "epoch": 1638882004.584804,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Sex-based hostility should be hate speech - report",
+        "en_content": "But the Law Commission is criticised for its proposals for legal reforms to tackle misogyny.",
+        "concepts": [
+            {
+                "word": "Sex",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "hostility",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "speech",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "report",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Black minister often mistaken for restaurant staff",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-wales-59552160",
+        "content": "Vaughan Gething says he would not be asked that question if he was smartly-dressed white man.",
+        "placed": "Politics",
+        "epoch": 1638882004.5848205,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T14.00.04E1638882004.5848336.json",
+        "en_title": "Black minister often mistaken for restaurant staff",
+        "en_content": "Vaughan Gething says he would not be asked that question if he was smartly-dressed white man.",
+        "concepts": [
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "restaurant",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "staff",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

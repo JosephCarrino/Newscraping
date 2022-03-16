@@ -1,0 +1,675 @@
+[
+    {
+        "title": "Muslim cleric shot dead after Uganda bombings",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59337953",
+        "content": "Sheikh Muhammad Abas Kirevu was killed by security forces, who said he had been working with jihadists.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3509545,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Muslim cleric shot dead after Uganda bombings",
+        "en_content": "Sheikh Muhammad Abas Kirevu was killed by security forces, who said he had been working with jihadists.",
+        "concepts": [
+            {
+                "word": "cleric",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Uganda",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bombings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Muslim cleric shot dead after Uganda bombings",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59337953",
+        "content": "Sheikh Muhammad Abas Kirevu was killed by security forces, who said he had been working with jihadists.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3509898,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Muslim cleric shot dead after Uganda bombings",
+        "en_content": "Sheikh Muhammad Abas Kirevu was killed by security forces, who said he had been working with jihadists.",
+        "concepts": [
+            {
+                "word": "cleric",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Uganda",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bombings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden mulls diplomatic boycott of Beijing Olympics",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59340859",
+        "content": "Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses.",
+        "placed": "First_Page",
+        "epoch": 1637283603.35101,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Biden mulls diplomatic boycott of Beijing Olympics",
+        "en_content": "Both Democratic and Republican lawmakers have called for action over Chinese human rights abuses.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boycott",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Beijing",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Olympics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Peng case must be investigated - Serena Williams",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/sport/tennis/59337349",
+        "content": "Serena Williams says the case of Chinese player Peng Shuai \"must be investigated\" and urged people \"not to stay silent\" about her welfare.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3510265,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Peng case must be investigated - Serena Williams",
+        "en_content": "Serena Williams says the case of Chinese player Peng Shuai \"must be investigated\" and urged people \"not to stay silent\" about her welfare.",
+        "concepts": [
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "Serena",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Williams",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US states probe how Instagram targets children",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59340861",
+        "content": "A bipartisan group will investigate whether consumer protection laws for children were violated.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3510423,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "US states probe how Instagram targets children",
+        "en_content": "A bipartisan group will investigate whether consumer protection laws for children were violated.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "states",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Instagram",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "children",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Does 3D-printed 'meat' pass the taste test?",
+        "date": "P",
+        "date_raw": "P",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59335815",
+        "content": "For the first time, 3D-printed 'meat' is being served as a whole 'cut' - the BBC's Emily Maitlis tried it.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3510542,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Does 3D-printed 'meat' pass the taste test?",
+        "en_content": "For the first time, 3D-printed 'meat' is being served as a whole 'cut' - the BBC's Emily Maitlis tried it.",
+        "concepts": [
+            {
+                "word": "3D",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "meat",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "taste",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Meghan says Harry is loving California lifestyle",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59341105",
+        "content": "The Duchess of Sussex says moving as the pandemic began meant they spent plenty of time at home.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3510692,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Meghan says Harry is loving California lifestyle",
+        "en_content": "The Duchess of Sussex says moving as the pandemic began meant they spent plenty of time at home.",
+        "concepts": [
+            {
+                "word": "Meghan",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Harry",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "California",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lifestyle",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Germany to place tighter curbs on unvaccinated",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59337955",
+        "content": "Fresh restrictions will be introduced in areas with high Covid hospitalisation rates, officials say.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3510838,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Germany to place tighter curbs on unvaccinated",
+        "en_content": "Fresh restrictions will be introduced in areas with high Covid hospitalisation rates, officials say.",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "curbs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Judge throws out Malcolm X convictions",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59327673",
+        "content": "Two of the men convicted of the 1965 killing did not get the justice they deserved, prosecutor says.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3511024,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Judge throws out Malcolm X convictions",
+        "en_content": "Two of the men convicted of the 1965 killing did not get the justice they deserved, prosecutor says.",
+        "concepts": [
+            {
+                "word": "Judge",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Malcolm",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "X",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "convictions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Belarus clears migrant camp at Polish border",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59341765",
+        "content": "About 1,000 people from the Middle East have been trying to get into the EU from Belarus.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3511174,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Belarus clears migrant camp at Polish border",
+        "en_content": "About 1,000 people from the Middle East have been trying to get into the EU from Belarus.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "camp",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US prisoner's execution halted at last minute",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59331978",
+        "content": "The governor of Oklahoma commutes Julius Jones' sentence to life imprisonment after an outcry.",
+        "placed": "First_Page",
+        "epoch": 1637283603.351135,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "US prisoner's execution halted at last minute",
+        "en_content": "The governor of Oklahoma commutes Julius Jones' sentence to life imprisonment after an outcry.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prisoner",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "execution",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minute",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Teenagers charged after police fatally shoot girl",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59337964",
+        "content": "An eight-year-old died from police gunfire - so why are two teenagers being charged for her murder?",
+        "placed": "First_Page",
+        "epoch": 1637283603.3511522,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Teenagers charged after police fatally shoot girl",
+        "en_content": "An eight-year-old died from police gunfire - so why are two teenagers being charged for her murder?",
+        "concepts": [
+            {
+                "word": "Teenagers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "girl",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US prisoner's execution halted at last minute",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59331978",
+        "content": "The governor of Oklahoma commutes Julius Jones' sentence to life imprisonment after an outcry.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3511662,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "US prisoner's execution halted at last minute",
+        "en_content": "The governor of Oklahoma commutes Julius Jones' sentence to life imprisonment after an outcry.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prisoner",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "execution",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minute",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Teenagers charged after police fatally shoot girl",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59337964",
+        "content": "An eight-year-old died from police gunfire - so why are two teenagers being charged for her murder?",
+        "placed": "First_Page",
+        "epoch": 1637283603.35118,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Teenagers charged after police fatally shoot girl",
+        "en_content": "An eight-year-old died from police gunfire - so why are two teenagers being charged for her murder?",
+        "concepts": [
+            {
+                "word": "Teenagers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "girl",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "State of emergency declared after Canada storm",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59324764",
+        "content": "A major clean-up is under way in British Columbia after a major storm that cut off Vancouver.",
+        "placed": "First_Page",
+        "epoch": 1637283603.351194,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "State of emergency declared after Canada storm",
+        "en_content": "A major clean-up is under way in British Columbia after a major storm that cut off Vancouver.",
+        "concepts": [
+            {
+                "word": "State",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "emergency",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Canada",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "storm",
+                "meaning": "advcl",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Afghan girls reach UK on Kardashian-funded flight",
+        "date": "2021-11-19",
+        "date_raw": "2021-11-19",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59330365",
+        "content": "The young female footballers came to the UK on an evacuation flight funded by Kim Kardashian West.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3512077,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Afghan girls reach UK on Kardashian-funded flight",
+        "en_content": "The young female footballers came to the UK on an evacuation flight funded by Kim Kardashian West.",
+        "concepts": [
+            {
+                "word": "girls",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Kardashian",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "flight",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Man set fire to car to intimidate R. Kelly witness",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/newsbeat-59331627",
+        "content": "Michael Williams has been sentenced to eight years in prison after setting fire to an SUV.",
+        "placed": "First_Page",
+        "epoch": 1637283603.3512247,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Man set fire to car to intimidate R. Kelly witness",
+        "en_content": "Michael Williams has been sentenced to eight years in prison after setting fire to an SUV.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fire",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "car",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "R.",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kelly",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ros Atkins on... the missing Chinese tennis star",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59341755",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1637283603.3512385,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "Ros Atkins on... the missing Chinese tennis star",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Ros",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Atkins",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "appos",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1637283603.3512526,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-19T02.00.03E1637283603.351274.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

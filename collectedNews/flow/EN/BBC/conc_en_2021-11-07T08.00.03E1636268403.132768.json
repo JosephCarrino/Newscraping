@@ -1,0 +1,678 @@
+[
+    {
+        "title": "Police investigate crowd surge at Texas festival",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59194819",
+        "content": "Eight people died after a deadly crowd surge during a performance by rapper Travis Scott.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1324928,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Police investigate crowd surge at Texas festival",
+        "en_content": "Eight people died after a deadly crowd surge during a performance by rapper Travis Scott.",
+        "concepts": [
+            {
+                "word": "Police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crowd",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Texas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "festival",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Police investigate crowd surge at Texas festival",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59194819",
+        "content": "Eight people died after a deadly crowd surge during a performance by rapper Travis Scott.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1325204,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Police investigate crowd surge at Texas festival",
+        "en_content": "Eight people died after a deadly crowd surge during a performance by rapper Travis Scott.",
+        "concepts": [
+            {
+                "word": "Police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crowd",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Texas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "festival",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US court halts Biden vaccine mandate for companies",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59194421",
+        "content": "An appeals court blocks the administration's plan to drive vaccinations at larger businesses.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1325405,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "US court halts Biden vaccine mandate for companies",
+        "en_content": "An appeals court blocks the administration's plan to drive vaccinations at larger businesses.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "Biden",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mandate",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "companies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Iraqi PM survives Baghdad 'assassination attempt'",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59195399",
+        "content": "Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1325572,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Iraqi PM survives Baghdad 'assassination attempt'",
+        "en_content": "Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Baghdad",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "assassination",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attempt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Scores dead in Sierra Leone tanker explosion",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59188753",
+        "content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "placed": "Abroad",
+        "epoch": 1636268403.132572,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Scores dead in Sierra Leone tanker explosion",
+        "en_content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "concepts": [
+            {
+                "word": "Scores",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sierra",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tanker",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "explosion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Three injured in knife attack on German train",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59181509",
+        "content": "A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1325881,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Three injured in knife attack on German train",
+        "en_content": "A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria.",
+        "concepts": [
+            {
+                "word": "knife",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "train",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fleeing passengers shut down busy Spanish airport",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59191108",
+        "content": "Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac.",
+        "placed": "Abroad",
+        "epoch": 1636268403.132603,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Fleeing passengers shut down busy Spanish airport",
+        "en_content": "Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac.",
+        "concepts": [
+            {
+                "word": "passengers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "airport",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What Alaska’s shrinking island means for all of us",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186214",
+        "content": "Melting ice and rising sea levels threaten this community's existence. It's a warning to the world.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1326165,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "What Alaska’s shrinking island means for all of us",
+        "en_content": "Melting ice and rising sea levels threaten this community's existence. It's a warning to the world.",
+        "concepts": [
+            {
+                "word": "Alaska",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "island",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Police investigate crowd surge at Texas festival",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59194819",
+        "content": "Eight people died after a deadly crowd surge during a performance by rapper Travis Scott.",
+        "placed": "Abroad",
+        "epoch": 1636268403.132632,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Police investigate crowd surge at Texas festival",
+        "en_content": "Eight people died after a deadly crowd surge during a performance by rapper Travis Scott.",
+        "concepts": [
+            {
+                "word": "Police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crowd",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Texas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "festival",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US court halts Biden vaccine mandate for companies",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59194421",
+        "content": "An appeals court blocks the administration's plan to drive vaccinations at larger businesses.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1326468,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "US court halts Biden vaccine mandate for companies",
+        "en_content": "An appeals court blocks the administration's plan to drive vaccinations at larger businesses.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "Biden",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mandate",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "companies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Iraqi PM survives Baghdad 'assassination attempt'",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59195399",
+        "content": "Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone.",
+        "placed": "Abroad",
+        "epoch": 1636268403.132661,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Iraqi PM survives Baghdad 'assassination attempt'",
+        "en_content": "Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Baghdad",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "assassination",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attempt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Scores dead in Sierra Leone tanker explosion",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59188753",
+        "content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1326754,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Scores dead in Sierra Leone tanker explosion",
+        "en_content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "concepts": [
+            {
+                "word": "Scores",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sierra",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tanker",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "explosion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Three injured in knife attack on German train",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59181509",
+        "content": "A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1326897,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Three injured in knife attack on German train",
+        "en_content": "A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria.",
+        "concepts": [
+            {
+                "word": "knife",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "train",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fleeing passengers shut down busy Spanish airport",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59191108",
+        "content": "Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1327038,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Fleeing passengers shut down busy Spanish airport",
+        "en_content": "Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac.",
+        "concepts": [
+            {
+                "word": "passengers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "airport",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What Alaska’s shrinking island means for all of us",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186214",
+        "content": "Melting ice and rising sea levels threaten this community's existence. It's a warning to the world.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1327178,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "What Alaska’s shrinking island means for all of us",
+        "en_content": "Melting ice and rising sea levels threaten this community's existence. It's a warning to the world.",
+        "concepts": [
+            {
+                "word": "Alaska",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "island",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US court halts Biden vaccine mandate for companies",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59194421",
+        "content": "An appeals court blocks the administration's plan to drive vaccinations at larger businesses.",
+        "placed": "Abroad",
+        "epoch": 1636268403.132726,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "US court halts Biden vaccine mandate for companies",
+        "en_content": "An appeals court blocks the administration's plan to drive vaccinations at larger businesses.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "Biden",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mandate",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "companies",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Iraqi PM survives Baghdad 'assassination attempt'",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59195399",
+        "content": "Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1327405,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Iraqi PM survives Baghdad 'assassination attempt'",
+        "en_content": "Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Baghdad",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "assassination",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attempt",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Scores dead in Sierra Leone tanker explosion",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59188753",
+        "content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "placed": "Abroad",
+        "epoch": 1636268403.1327555,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-07T08.00.03E1636268403.132768.json",
+        "en_title": "Scores dead in Sierra Leone tanker explosion",
+        "en_content": "The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown.",
+        "concepts": [
+            {
+                "word": "Scores",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sierra",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tanker",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "explosion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

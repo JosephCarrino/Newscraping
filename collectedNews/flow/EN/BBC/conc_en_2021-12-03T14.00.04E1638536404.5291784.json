@@ -1,0 +1,693 @@
+[
+    {
+        "title": "Tories hold Old Bexley and Sidcup in by-election",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59505204",
+        "content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "placed": "Politics",
+        "epoch": 1638536404.5288763,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Tories hold Old Bexley and Sidcup in by-election",
+        "en_content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Old",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bexley",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sidcup",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tories hold Old Bexley and Sidcup in by-election",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59505204",
+        "content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "placed": "Politics",
+        "epoch": 1638536404.5289161,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Tories hold Old Bexley and Sidcup in by-election",
+        "en_content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Old",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bexley",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sidcup",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Conservative staff Christmas party going ahead",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59517527",
+        "content": "Tory chairman urges people to go ahead with parties - but the government faces calls for clearer advice.",
+        "placed": "Politics",
+        "epoch": 1638536404.5289364,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Conservative staff Christmas party going ahead",
+        "en_content": "Tory chairman urges people to go ahead with parties - but the government faces calls for clearer advice.",
+        "concepts": [
+            {
+                "word": "staff",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rethink deal with Grenfell firm, Mercedes F1 urged",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59514976",
+        "content": "Grenfell survivors and government minister Michael Gove criticise the F1 team over a sponsorship deal.",
+        "placed": "Politics",
+        "epoch": 1638536404.5289533,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Rethink deal with Grenfell firm, Mercedes F1 urged",
+        "en_content": "Grenfell survivors and government minister Michael Gove criticise the F1 team over a sponsorship deal.",
+        "concepts": [
+            {
+                "word": "Rethink",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "Grenfell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "firm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mercedes",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "F1",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Voters have right to elect racists if they want - MP",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508496",
+        "content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "placed": "Politics",
+        "epoch": 1638536404.528969,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Voters have right to elect racists if they want - MP",
+        "en_content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "concepts": [
+            {
+                "word": "Voters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "racists",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Labour's Margaret Hodge to step down as MP",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508501",
+        "content": "The Barking MP held ministerial posts and chaired the powerful Public Accounts Committee.",
+        "placed": "Politics",
+        "epoch": 1638536404.5289857,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Labour's Margaret Hodge to step down as MP",
+        "en_content": "The Barking MP held ministerial posts and chaired the powerful Public Accounts Committee.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Margaret",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hodge",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK and EU chief negotiators to meet for NI talks",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59506303",
+        "content": "Issues under discussion will include how to guarantee the supply of medicines from GB to NI.",
+        "placed": "Politics",
+        "epoch": 1638536404.5290015,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "UK and EU chief negotiators to meet for NI talks",
+        "en_content": "Issues under discussion will include how to guarantee the supply of medicines from GB to NI.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "chief",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "negotiators",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Government fined £500,000 over honours data breach",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505637",
+        "content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "placed": "Politics",
+        "epoch": 1638536404.5290174,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Government fined £500,000 over honours data breach",
+        "en_content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tories hold Old Bexley and Sidcup in by-election",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59505204",
+        "content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "placed": "Politics",
+        "epoch": 1638536404.5290325,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Tories hold Old Bexley and Sidcup in by-election",
+        "en_content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Old",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bexley",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sidcup",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Conservative staff Christmas party going ahead",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59517527",
+        "content": "Tory chairman urges people to go ahead with parties - but the government faces calls for clearer advice.",
+        "placed": "Politics",
+        "epoch": 1638536404.529047,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Conservative staff Christmas party going ahead",
+        "en_content": "Tory chairman urges people to go ahead with parties - but the government faces calls for clearer advice.",
+        "concepts": [
+            {
+                "word": "staff",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rethink deal with Grenfell firm, Mercedes F1 urged",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59514976",
+        "content": "Grenfell survivors and government minister Michael Gove criticise the F1 team over a sponsorship deal.",
+        "placed": "Politics",
+        "epoch": 1638536404.5290625,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Rethink deal with Grenfell firm, Mercedes F1 urged",
+        "en_content": "Grenfell survivors and government minister Michael Gove criticise the F1 team over a sponsorship deal.",
+        "concepts": [
+            {
+                "word": "Rethink",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "Grenfell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "firm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mercedes",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "F1",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Voters have right to elect racists if they want - MP",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508496",
+        "content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "placed": "Politics",
+        "epoch": 1638536404.529077,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Voters have right to elect racists if they want - MP",
+        "en_content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "concepts": [
+            {
+                "word": "Voters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "racists",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Labour's Margaret Hodge to step down as MP",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508501",
+        "content": "The Barking MP held ministerial posts and chaired the powerful Public Accounts Committee.",
+        "placed": "Politics",
+        "epoch": 1638536404.529092,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Labour's Margaret Hodge to step down as MP",
+        "en_content": "The Barking MP held ministerial posts and chaired the powerful Public Accounts Committee.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Margaret",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Hodge",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK and EU chief negotiators to meet for NI talks",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-northern-ireland-59506303",
+        "content": "Issues under discussion will include how to guarantee the supply of medicines from GB to NI.",
+        "placed": "Politics",
+        "epoch": 1638536404.5291066,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "UK and EU chief negotiators to meet for NI talks",
+        "en_content": "Issues under discussion will include how to guarantee the supply of medicines from GB to NI.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "chief",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "negotiators",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "NI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Government fined £500,000 over honours data breach",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59505637",
+        "content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "placed": "Politics",
+        "epoch": 1638536404.5291214,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Government fined £500,000 over honours data breach",
+        "en_content": "The addresses of more than 1,000 people, including Sir Elton John and Gabby Logan, were shared online.",
+        "concepts": [
+            {
+                "word": "Government",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "breach",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Conservative staff Christmas party going ahead",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59517527",
+        "content": "Tory chairman urges people to go ahead with parties - but the government faces calls for clearer advice.",
+        "placed": "Politics",
+        "epoch": 1638536404.5291357,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Conservative staff Christmas party going ahead",
+        "en_content": "Tory chairman urges people to go ahead with parties - but the government faces calls for clearer advice.",
+        "concepts": [
+            {
+                "word": "staff",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rethink deal with Grenfell firm, Mercedes F1 urged",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59514976",
+        "content": "Grenfell survivors and government minister Michael Gove criticise the F1 team over a sponsorship deal.",
+        "placed": "Politics",
+        "epoch": 1638536404.5291502,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Rethink deal with Grenfell firm, Mercedes F1 urged",
+        "en_content": "Grenfell survivors and government minister Michael Gove criticise the F1 team over a sponsorship deal.",
+        "concepts": [
+            {
+                "word": "Rethink",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "Grenfell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "firm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mercedes",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "F1",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Voters have right to elect racists if they want - MP",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508496",
+        "content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "placed": "Politics",
+        "epoch": 1638536404.5291648,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.5291784.json",
+        "en_title": "Voters have right to elect racists if they want - MP",
+        "en_content": "Sir Desmond Swayne raises concerns about changes to the code of conduct governing MPs behaviour.",
+        "concepts": [
+            {
+                "word": "Voters",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "racists",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MP",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

@@ -1,0 +1,693 @@
+[
+    {
+        "title": "Javid defends 'swift action' on Omicron variant",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59449480",
+        "content": "The health secretary says mask rules and travel tests will help to protect Christmas celebrations.",
+        "placed": "Politics",
+        "epoch": 1638126004.655203,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Javid defends 'swift action' on Omicron variant",
+        "en_content": "The health secretary says mask rules and travel tests will help to protect Christmas celebrations.",
+        "concepts": [
+            {
+                "word": "Javid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Javid defends 'swift action' on Omicron variant",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59449480",
+        "content": "The health secretary says mask rules and travel tests will help to protect Christmas celebrations.",
+        "placed": "Politics",
+        "epoch": 1638126004.6552305,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Javid defends 'swift action' on Omicron variant",
+        "en_content": "The health secretary says mask rules and travel tests will help to protect Christmas celebrations.",
+        "concepts": [
+            {
+                "word": "Javid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Lack of action will see more Channel deaths - Patel",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59448398",
+        "content": "Her remarks comes as Europe ministers meet to discuss migrant crisis without the UK home secretary.",
+        "placed": "Politics",
+        "epoch": 1638126004.65525,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Lack of action will see more Channel deaths - Patel",
+        "en_content": "Her remarks comes as Europe ministers meet to discuss migrant crisis without the UK home secretary.",
+        "concepts": [
+            {
+                "word": "Lack",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "action",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Patel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Dorries criticised for doubting PM dad grope claim",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59451874",
+        "content": "MP Caroline Nokes says she is disappointed after the culture secretary dismisses her Stanley Johnson claim.",
+        "placed": "Politics",
+        "epoch": 1638126004.6552663,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Dorries criticised for doubting PM dad grope claim",
+        "en_content": "MP Caroline Nokes says she is disappointed after the culture secretary dismisses her Stanley Johnson claim.",
+        "concepts": [
+            {
+                "word": "Dorries",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "dad",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "grope",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claim",
+                "meaning": "punct",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Has Sturgeon delivered on her conference pledges?",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59334883",
+        "content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "placed": "Politics",
+        "epoch": 1638126004.6552958,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Has Sturgeon delivered on her conference pledges?",
+        "en_content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conference",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM under pressure to act on migrant sea crossings",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59438500",
+        "content": "Lives remain at risk, but as the crisis persists, the greater the political risks for the PM too.",
+        "placed": "Politics",
+        "epoch": 1638126004.6553183,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "PM under pressure to act on migrant sea crossings",
+        "en_content": "Lives remain at risk, but as the crisis persists, the greater the political risks for the PM too.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pressure",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sea",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Whitty: Public would need to back more Covid curbs",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59434196",
+        "content": "England's chief medical officer wonders if \"we could take people with us\" if new restrictions are imposed.",
+        "placed": "Politics",
+        "epoch": 1638126004.655334,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Whitty: Public would need to back more Covid curbs",
+        "en_content": "England's chief medical officer wonders if \"we could take people with us\" if new restrictions are imposed.",
+        "concepts": [
+            {
+                "word": "Whitty",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Public",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "curbs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Northern Ireland bridge scrapped over £335bn cost",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59423943",
+        "content": "The cost could not be justified in a UK transport review but improvements to the A1, A75 and A77 were recommended.",
+        "placed": "Politics",
+        "epoch": 1638126004.6553507,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Northern Ireland bridge scrapped over £335bn cost",
+        "en_content": "The cost could not be justified in a UK transport review but improvements to the A1, A75 and A77 were recommended.",
+        "concepts": [
+            {
+                "word": "Northern",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ireland",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bridge",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "£",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "335bn",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cost",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Javid defends 'swift action' on Omicron variant",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59449480",
+        "content": "The health secretary says mask rules and travel tests will help to protect Christmas celebrations.",
+        "placed": "Politics",
+        "epoch": 1638126004.6553662,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Javid defends 'swift action' on Omicron variant",
+        "en_content": "The health secretary says mask rules and travel tests will help to protect Christmas celebrations.",
+        "concepts": [
+            {
+                "word": "Javid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Lack of action will see more Channel deaths - Patel",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59448398",
+        "content": "Her remarks comes as Europe ministers meet to discuss migrant crisis without the UK home secretary.",
+        "placed": "Politics",
+        "epoch": 1638126004.655381,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Lack of action will see more Channel deaths - Patel",
+        "en_content": "Her remarks comes as Europe ministers meet to discuss migrant crisis without the UK home secretary.",
+        "concepts": [
+            {
+                "word": "Lack",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "action",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Patel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Dorries criticised for doubting PM dad grope claim",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59451874",
+        "content": "MP Caroline Nokes says she is disappointed after the culture secretary dismisses her Stanley Johnson claim.",
+        "placed": "Politics",
+        "epoch": 1638126004.6553957,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Dorries criticised for doubting PM dad grope claim",
+        "en_content": "MP Caroline Nokes says she is disappointed after the culture secretary dismisses her Stanley Johnson claim.",
+        "concepts": [
+            {
+                "word": "Dorries",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "dad",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "grope",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claim",
+                "meaning": "punct",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Has Sturgeon delivered on her conference pledges?",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59334883",
+        "content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "placed": "Politics",
+        "epoch": 1638126004.6554139,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Has Sturgeon delivered on her conference pledges?",
+        "en_content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conference",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM under pressure to act on migrant sea crossings",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59438500",
+        "content": "Lives remain at risk, but as the crisis persists, the greater the political risks for the PM too.",
+        "placed": "Politics",
+        "epoch": 1638126004.65543,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "PM under pressure to act on migrant sea crossings",
+        "en_content": "Lives remain at risk, but as the crisis persists, the greater the political risks for the PM too.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pressure",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "sea",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crossings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Whitty: Public would need to back more Covid curbs",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59434196",
+        "content": "England's chief medical officer wonders if \"we could take people with us\" if new restrictions are imposed.",
+        "placed": "Politics",
+        "epoch": 1638126004.655445,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Whitty: Public would need to back more Covid curbs",
+        "en_content": "England's chief medical officer wonders if \"we could take people with us\" if new restrictions are imposed.",
+        "concepts": [
+            {
+                "word": "Whitty",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Public",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "curbs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Northern Ireland bridge scrapped over £335bn cost",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59423943",
+        "content": "The cost could not be justified in a UK transport review but improvements to the A1, A75 and A77 were recommended.",
+        "placed": "Politics",
+        "epoch": 1638126004.6554596,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Northern Ireland bridge scrapped over £335bn cost",
+        "en_content": "The cost could not be justified in a UK transport review but improvements to the A1, A75 and A77 were recommended.",
+        "concepts": [
+            {
+                "word": "Northern",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ireland",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bridge",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "£",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "335bn",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cost",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Lack of action will see more Channel deaths - Patel",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59448398",
+        "content": "Her remarks comes as Europe ministers meet to discuss migrant crisis without the UK home secretary.",
+        "placed": "Politics",
+        "epoch": 1638126004.655474,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Lack of action will see more Channel deaths - Patel",
+        "en_content": "Her remarks comes as Europe ministers meet to discuss migrant crisis without the UK home secretary.",
+        "concepts": [
+            {
+                "word": "Lack",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "action",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Patel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Dorries criticised for doubting PM dad grope claim",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59451874",
+        "content": "MP Caroline Nokes says she is disappointed after the culture secretary dismisses her Stanley Johnson claim.",
+        "placed": "Politics",
+        "epoch": 1638126004.6554878,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Dorries criticised for doubting PM dad grope claim",
+        "en_content": "MP Caroline Nokes says she is disappointed after the culture secretary dismisses her Stanley Johnson claim.",
+        "concepts": [
+            {
+                "word": "Dorries",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "dad",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "grope",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claim",
+                "meaning": "punct",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Has Sturgeon delivered on her conference pledges?",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59334883",
+        "content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "placed": "Politics",
+        "epoch": 1638126004.655502,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-28T20.00.04E1638126004.6555147.json",
+        "en_title": "Has Sturgeon delivered on her conference pledges?",
+        "en_content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conference",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

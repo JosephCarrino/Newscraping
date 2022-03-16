@@ -1,0 +1,720 @@
+[
+    {
+        "title": "Children and pregnant woman among 27 Channel victims",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/world-europe-59406632",
+        "content": "The 17 men, seven women and three children were trying to reach the UK when their boat sank near Calais.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0310004,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "Children and pregnant woman among 27 Channel victims",
+        "en_content": "The 17 men, seven women and three children were trying to reach the UK when their boat sank near Calais.",
+        "concepts": [
+            {
+                "word": "Children",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woman",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victims",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Children and pregnant woman among 27 Channel victims",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/world-europe-59406632",
+        "content": "The 17 men, seven women and three children were trying to reach the UK when their boat sank near Calais.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0310366,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "Children and pregnant woman among 27 Channel victims",
+        "en_content": "The 17 men, seven women and three children were trying to reach the UK when their boat sank near Calais.",
+        "concepts": [
+            {
+                "word": "Children",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "woman",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victims",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "More people cross the Channel after deadliest day",
+        "date": "PT1",
+        "date_raw": "PT1",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59412329",
+        "content": "Three children and a pregnant woman were among 27 who drowned trying to get to the UK on Wednesday.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0310516,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "More people cross the Channel after deadliest day",
+        "en_content": "Three children and a pregnant woman were among 27 who drowned trying to get to the UK on Wednesday.",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Channel",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Three men guilty of murdering black jogger in US",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59411030",
+        "content": "Ahmaud Arbery was chased and shot in a case that became a rallying cry to racial justice protesters.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0310705,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "Three men guilty of murdering black jogger in US",
+        "en_content": "Ahmaud Arbery was chased and shot in a case that became a rallying cry to racial justice protesters.",
+        "concepts": [
+            {
+                "word": "men",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jogger",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "What a young jogger's murder exposes about America",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59410920",
+        "content": "Ahmaud Arbery died in a \"modern-day lynching\" - locals say the spectre of racism is always present.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0310874,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "What a young jogger's murder exposes about America",
+        "en_content": "Ahmaud Arbery died in a \"modern-day lynching\" - locals say the spectre of racism is always present.",
+        "concepts": [
+            {
+                "word": "jogger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "America",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Man receives world's first 3D-printed eye",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59410743",
+        "content": "Steve Varze will be given the realistic eye at Moorfields Eye Hospital in London.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0310962,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "Man receives world's first 3D-printed eye",
+        "en_content": "Steve Varze will be given the realistic eye at Moorfields Eye Hospital in London.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "world",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "3D",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "eye",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Russian troop build-up: View from Ukraine front line",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59402658",
+        "content": "BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0311117,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "Russian troop build-up: View from Ukraine front line",
+        "en_content": "BBC correspondent Abdujalil Abdurasulov visits eastern Ukraine as soldiers watch Russia's nearby movements.",
+        "concepts": [
+            {
+                "word": "troop",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "build",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "up",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "View",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "line",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "India court: Forced oral sex not aggravated assault",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59401179",
+        "content": "There’s been outrage in India after the Allahabad high court reduces the jail term of a sex offender.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0311267,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "India court: Forced oral sex not aggravated assault",
+        "en_content": "There’s been outrage in India after the Allahabad high court reduces the jail term of a sex offender.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sex",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "assault",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Jessie J reveals miscarriage shock and sadness",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59414540",
+        "content": "The singer says an outpouring of support \"is felt, received and appreciated beyond measure\".",
+        "placed": "First_Page",
+        "epoch": 1637845203.031141,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "Jessie J reveals miscarriage shock and sadness",
+        "en_content": "The singer says an outpouring of support \"is felt, received and appreciated beyond measure\".",
+        "concepts": [
+            {
+                "word": "Jessie",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "J",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "miscarriage",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shock",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sadness",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Sweden's first female PM resigns on day one",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59400539",
+        "content": "Magdalena Andersson resigns after her coalition partner quit the government in a row over the budget.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0311563,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "Sweden's first female PM resigns on day one",
+        "en_content": "Magdalena Andersson resigns after her coalition partner quit the government in a row over the budget.",
+        "concepts": [
+            {
+                "word": "Sweden",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "JPMorgan boss 'regrets' China joke amid backlash",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59409508",
+        "content": "Jamie Dimon has apologised after saying that his Wall Street bank would outlast China's ruling party.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0311706,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "JPMorgan boss 'regrets' China joke amid backlash",
+        "en_content": "Jamie Dimon has apologised after saying that his Wall Street bank would outlast China's ruling party.",
+        "concepts": [
+            {
+                "word": "JPMorgan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "joke",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "backlash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia sends troops to riot-hit Solomon Islands",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59412000",
+        "content": "Violent riots have rocked the Pacific Island nation for a second straight day.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0311892,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "Australia sends troops to riot-hit Solomon Islands",
+        "en_content": "Violent riots have rocked the Pacific Island nation for a second straight day.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "troops",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "riot",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Solomon",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Islands",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "JPMorgan boss 'regrets' China joke amid backlash",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59409508",
+        "content": "Jamie Dimon has apologised after saying that his Wall Street bank would outlast China's ruling party.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0312037,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "JPMorgan boss 'regrets' China joke amid backlash",
+        "en_content": "Jamie Dimon has apologised after saying that his Wall Street bank would outlast China's ruling party.",
+        "concepts": [
+            {
+                "word": "JPMorgan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "joke",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "backlash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australia sends troops to riot-hit Solomon Islands",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59412000",
+        "content": "Violent riots have rocked the Pacific Island nation for a second straight day.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0312176,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "Australia sends troops to riot-hit Solomon Islands",
+        "en_content": "Violent riots have rocked the Pacific Island nation for a second straight day.",
+        "concepts": [
+            {
+                "word": "Australia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "troops",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "riot",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "Solomon",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Islands",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US restricts trade with a dozen more Chinese firms",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59412139",
+        "content": "The move comes as tensions grow between the US and China over the status of Taiwan and trade issues.",
+        "placed": "First_Page",
+        "epoch": 1637845203.031237,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "US restricts trade with a dozen more Chinese firms",
+        "en_content": "The move comes as tensions grow between the US and China over the status of Taiwan and trade issues.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "trade",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dozen",
+                "meaning": "nummod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "firms",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Missing India police officer reappears after months",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59412299",
+        "content": "Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0312514,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "Missing India police officer reappears after months",
+        "en_content": "Parambir Singh, the former police chief of Mumbai, is facing multiple charges of extortion.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "officer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "months",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US museum thief, 78, jailed a day for old heists",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59407121",
+        "content": "Thomas Gavin apologised \"for all this trouble\" from his antique robberies in the 60s and 70s.",
+        "placed": "First_Page",
+        "epoch": 1637845203.0312707,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "US museum thief, 78, jailed a day for old heists",
+        "en_content": "Thomas Gavin apologised \"for all this trouble\" from his antique robberies in the 60s and 70s.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "museum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "thief",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "day",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "heists",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Spellbinding photo of Welsh lighthouse wins award",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/in-pictures-59403205",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1637845203.0312848,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "Spellbinding photo of Welsh lighthouse wins award",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "photo",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Welsh",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "lighthouse",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "award",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1637845203.031299,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T14.00.03E1637845203.0313234.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

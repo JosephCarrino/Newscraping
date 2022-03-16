@@ -1,0 +1,534 @@
+[
+    {
+        "title": "Macron and Johnson clash over migrant boats",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-europe-59428311",
+        "content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "placed": "Politics",
+        "epoch": 1637953203.7578626,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Macron and Johnson clash over migrant boats",
+        "en_content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "boats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Macron and Johnson clash over migrant boats",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-europe-59428311",
+        "content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "placed": "Politics",
+        "epoch": 1637953203.7578902,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Macron and Johnson clash over migrant boats",
+        "en_content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "boats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Has Sturgeon delivered on her conference pledges?",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59334883",
+        "content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "placed": "Politics",
+        "epoch": 1637953203.7579093,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Has Sturgeon delivered on her conference pledges?",
+        "en_content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conference",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Northern Ireland bridge scrapped over £335bn cost",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59423943",
+        "content": "The cost could not be justified in a UK transport review but improvements to the A1, A75 and A77 were recommended.",
+        "placed": "Politics",
+        "epoch": 1637953203.7579257,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Northern Ireland bridge scrapped over £335bn cost",
+        "en_content": "The cost could not be justified in a UK transport review but improvements to the A1, A75 and A77 were recommended.",
+        "concepts": [
+            {
+                "word": "Northern",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ireland",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bridge",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "£",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "335bn",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cost",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Starmer: Over a year since I spoke to Corbyn",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59422675",
+        "content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "placed": "Politics",
+        "epoch": 1637953203.757941,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Starmer: Over a year since I spoke to Corbyn",
+        "en_content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Corbyn",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "We must act quickly over Covid variant - minister",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59428398",
+        "content": "The health secretary says southern African travel restrictions were imposed due to a \"substantial risk\" to health.",
+        "placed": "Politics",
+        "epoch": 1637953203.7579565,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "We must act quickly over Covid variant - minister",
+        "en_content": "The health secretary says southern African travel restrictions were imposed due to a \"substantial risk\" to health.",
+        "concepts": [
+            {
+                "word": "minister",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs back Down's syndrome care guarantee law",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59432487",
+        "content": "Liam Fox's plan to ensure lifelong care looks set to become law in England early next year.",
+        "placed": "Politics",
+        "epoch": 1637953203.7579715,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "MPs back Down's syndrome care guarantee law",
+        "en_content": "Liam Fox's plan to ensure lifelong care looks set to become law in England early next year.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Down",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "syndrome",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guarantee",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "pobj",
+                "pos": "ADV"
+            }
+        ]
+    },
+    {
+        "title": "Parliamentary correspondent",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-europe-59428311",
+        "content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "placed": "Politics",
+        "epoch": 1637953203.7579854,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Parliamentary correspondent",
+        "en_content": "The French president accuses the UK prime minister of not being serious as diplomatic row escalates.",
+        "concepts": [
+            {
+                "word": "correspondent",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Macron and Johnson clash over migrant boats",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59334883",
+        "content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "placed": "Politics",
+        "epoch": 1637953203.7579997,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Macron and Johnson clash over migrant boats",
+        "en_content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "concepts": [
+            {
+                "word": "Macron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "boats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Has Sturgeon delivered on her conference pledges?",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59423943",
+        "content": "The cost could not be justified in a UK transport review but improvements to the A1, A75 and A77 were recommended.",
+        "placed": "Politics",
+        "epoch": 1637953203.7580137,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Has Sturgeon delivered on her conference pledges?",
+        "en_content": "The cost could not be justified in a UK transport review but improvements to the A1, A75 and A77 were recommended.",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conference",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Northern Ireland bridge scrapped over £335bn cost",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59422675",
+        "content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "placed": "Politics",
+        "epoch": 1637953203.7580278,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Northern Ireland bridge scrapped over £335bn cost",
+        "en_content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "concepts": [
+            {
+                "word": "Northern",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ireland",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bridge",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "£",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "335bn",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cost",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Starmer: Over a year since I spoke to Corbyn",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59428398",
+        "content": "The health secretary says southern African travel restrictions were imposed due to a \"substantial risk\" to health.",
+        "placed": "Politics",
+        "epoch": 1637953203.758042,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Starmer: Over a year since I spoke to Corbyn",
+        "en_content": "The health secretary says southern African travel restrictions were imposed due to a \"substantial risk\" to health.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "year",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Corbyn",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "We must act quickly over Covid variant - minister",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59432487",
+        "content": "Liam Fox's plan to ensure lifelong care looks set to become law in England early next year.",
+        "placed": "Politics",
+        "epoch": 1637953203.7580578,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "We must act quickly over Covid variant - minister",
+        "en_content": "Liam Fox's plan to ensure lifelong care looks set to become law in England early next year.",
+        "concepts": [
+            {
+                "word": "minister",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs back Down's syndrome care guarantee law",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59334883",
+        "content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "placed": "Politics",
+        "epoch": 1637953203.758072,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "MPs back Down's syndrome care guarantee law",
+        "en_content": "The SNP leader has made lots of policy pledges in her conference speeches - but have they been delivered on?",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Down",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "syndrome",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "guarantee",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "pobj",
+                "pos": "ADV"
+            }
+        ]
+    },
+    {
+        "title": "Parliamentary correspondent",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-59423943",
+        "content": "The cost could not be justified in a UK transport review but improvements to the A1, A75 and A77 were recommended.",
+        "placed": "Politics",
+        "epoch": 1637953203.758086,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Parliamentary correspondent",
+        "en_content": "The cost could not be justified in a UK transport review but improvements to the A1, A75 and A77 were recommended.",
+        "concepts": [
+            {
+                "word": "correspondent",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Has Sturgeon delivered on her conference pledges?",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59422675",
+        "content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "placed": "Politics",
+        "epoch": 1637953203.7580998,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-26T20.00.03E1637953203.758113.json",
+        "en_title": "Has Sturgeon delivered on her conference pledges?",
+        "en_content": "The Labour leader says it is up to his predecessor to regain the party whip before the next election.",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conference",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pledges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

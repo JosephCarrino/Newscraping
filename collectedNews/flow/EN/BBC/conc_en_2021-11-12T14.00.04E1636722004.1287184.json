@@ -1,0 +1,695 @@
+[
+    {
+        "title": "Climate summit in final stretch with 1.5C goal at risk",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/uk-59253838",
+        "content": "Scientists say we must limit warming to that amount to avoid the worst impacts but the latest proposals still fall short.",
+        "placed": "First_Page",
+        "epoch": 1636722004.1283917,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Climate summit in final stretch with 1.5C goal at risk",
+        "en_content": "Scientists say we must limit warming to that amount to avoid the worst impacts but the latest proposals still fall short.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stretch",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "goal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "risk",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate summit in final stretch with 1.5C goal at risk",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/uk-59253838",
+        "content": "Scientists say we must limit warming to that amount to avoid the worst impacts but the latest proposals still fall short.",
+        "placed": "First_Page",
+        "epoch": 1636722004.1284223,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Climate summit in final stretch with 1.5C goal at risk",
+        "en_content": "Scientists say we must limit warming to that amount to avoid the worst impacts but the latest proposals still fall short.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stretch",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "goal",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "risk",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Coal compromise as leaders near climate deal",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59221790",
+        "content": "All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours.",
+        "placed": "First_Page",
+        "epoch": 1636722004.1284423,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Coal compromise as leaders near climate deal",
+        "en_content": "All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours.",
+        "concepts": [
+            {
+                "word": "Coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "compromise",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Dutch set for partial lockdown as infections surge",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59258409",
+        "content": "The measures, due to last three weeks, are expected to cover shops, sport and catering.",
+        "placed": "First_Page",
+        "epoch": 1636722004.128464,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Dutch set for partial lockdown as infections surge",
+        "en_content": "The measures, due to last three weeks, are expected to cover shops, sport and catering.",
+        "concepts": [
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "infections",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "AstraZeneca to take profits from Covid vaccine",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59256223",
+        "content": "The drugs giant signs new deals, but poorer countries will continue to get the vaccine at cost price.",
+        "placed": "First_Page",
+        "epoch": 1636722004.1284804,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "AstraZeneca to take profits from Covid vaccine",
+        "en_content": "The drugs giant signs new deals, but poorer countries will continue to get the vaccine at cost price.",
+        "concepts": [
+            {
+                "word": "AstraZeneca",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "profits",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Britney hoping to be released from conservatorship",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59217825",
+        "content": "The pop star, 39, has asked a court to terminate the guardianship, which was set up by her father.",
+        "placed": "First_Page",
+        "epoch": 1636722004.1284993,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Britney hoping to be released from conservatorship",
+        "en_content": "The pop star, 39, has asked a court to terminate the guardianship, which was set up by her father.",
+        "concepts": [
+            {
+                "word": "Britney",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "conservatorship",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US Olympian Lee 'pepper sprayed in racist attack'",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59257006",
+        "content": "Gold medallist Sunisa Lee says the suspects also shouted slurs at her during the incident in Los Angeles.",
+        "placed": "First_Page",
+        "epoch": 1636722004.128515,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "US Olympian Lee 'pepper sprayed in racist attack'",
+        "en_content": "Gold medallist Sunisa Lee says the suspects also shouted slurs at her during the incident in Los Angeles.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Olympian",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Lee",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pepper",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Migrant crossings to UK hit new daily record",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59257107",
+        "content": "Around 1,000 people reached the UK by boat on Thursday, with more than 20,000 arriving this year.",
+        "placed": "First_Page",
+        "epoch": 1636722004.12853,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Migrant crossings to UK hit new daily record",
+        "en_content": "Around 1,000 people reached the UK by boat on Thursday, with more than 20,000 arriving this year.",
+        "concepts": [
+            {
+                "word": "crossings",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "record",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US police officer sues boss over KKK note",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59260704",
+        "content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "placed": "First_Page",
+        "epoch": 1636722004.128545,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "US police officer sues boss over KKK note",
+        "en_content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "officer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boss",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "KKK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "note",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Man jailed for organising fatal Sala flight",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-wales-59251852",
+        "content": "David Henderson is jailed for organising flight which killed Emiliano Sala and David Ibbotson.",
+        "placed": "First_Page",
+        "epoch": 1636722004.1285598,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Man jailed for organising fatal Sala flight",
+        "en_content": "David Henderson is jailed for organising flight which killed Emiliano Sala and David Ibbotson.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sala",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "flight",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Activists deflate tyres on SUV cars in Glasgow",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59254298",
+        "content": "A number of SUVs in the city's West End were left with flyers branding them a \"climate violation\".",
+        "placed": "First_Page",
+        "epoch": 1636722004.1285746,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Activists deflate tyres on SUV cars in Glasgow",
+        "en_content": "A number of SUVs in the city's West End were left with flyers branding them a \"climate violation\".",
+        "concepts": [
+            {
+                "word": "Activists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tyres",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SUV",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cars",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Glasgow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Japanese giant Toshiba announces breakup plan",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59229996",
+        "content": "The conglomerate has come under increasing pressure from activist investors to reform.",
+        "placed": "First_Page",
+        "epoch": 1636722004.1285894,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Japanese giant Toshiba announces breakup plan",
+        "en_content": "The conglomerate has come under increasing pressure from activist investors to reform.",
+        "concepts": [
+            {
+                "word": "giant",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Toshiba",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "breakup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Activists deflate tyres on SUV cars in Glasgow",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59254298",
+        "content": "A number of SUVs in the city's West End were left with flyers branding them a \"climate violation\".",
+        "placed": "First_Page",
+        "epoch": 1636722004.128604,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Activists deflate tyres on SUV cars in Glasgow",
+        "en_content": "A number of SUVs in the city's West End were left with flyers branding them a \"climate violation\".",
+        "concepts": [
+            {
+                "word": "Activists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "tyres",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SUV",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cars",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Glasgow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Japanese giant Toshiba announces breakup plan",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59229996",
+        "content": "The conglomerate has come under increasing pressure from activist investors to reform.",
+        "placed": "First_Page",
+        "epoch": 1636722004.128618,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Japanese giant Toshiba announces breakup plan",
+        "en_content": "The conglomerate has come under increasing pressure from activist investors to reform.",
+        "concepts": [
+            {
+                "word": "giant",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Toshiba",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "breakup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "West condemns Belarus at UN over stranded migrants",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59256927",
+        "content": "EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes.",
+        "placed": "First_Page",
+        "epoch": 1636722004.1286318,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "West condemns Belarus at UN over stranded migrants",
+        "en_content": "EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes.",
+        "concepts": [
+            {
+                "word": "West",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UN",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US journalist gets 11 years jail in Myanmar",
+        "date": "2021-11-11",
+        "date_raw": "2021-11-11",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59258112",
+        "content": "A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail.",
+        "placed": "First_Page",
+        "epoch": 1636722004.1286461,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "US journalist gets 11 years jail in Myanmar",
+        "en_content": "A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "journalist",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jail",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Myanmar",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Austrians heading for lockdown for unvaccinated",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59245018",
+        "content": "The measures comes as record infections are reported in Austria, Germany and the Netherlands.",
+        "placed": "First_Page",
+        "epoch": 1636722004.1286633,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Austrians heading for lockdown for unvaccinated",
+        "en_content": "The measures comes as record infections are reported in Austria, Germany and the Netherlands.",
+        "concepts": [
+            {
+                "word": "Austrians",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "How green was the COP26 climate summit?",
+        "date": "2021-11-11",
+        "date_raw": "2021-11-11",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59248023",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1636722004.1286802,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "How green was the COP26 climate summit?",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "COP26",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Climate summit: Daily briefing",
+        "date": "2021-11-11",
+        "date_raw": "2021-11-11",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59247795",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1636722004.128694,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.1287184.json",
+        "en_title": "Climate summit: Daily briefing",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "summit",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

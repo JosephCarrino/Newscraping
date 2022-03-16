@@ -1,0 +1,658 @@
+[
+    {
+        "title": "Wisconsin parade incident suspect named - US media",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59378571",
+        "content": "At least five people have been killed after a speeding SUV ploughed into a Christmas celebration.",
+        "placed": "Abroad",
+        "epoch": 1637607603.7883925,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Wisconsin parade incident suspect named - US media",
+        "en_content": "At least five people have been killed after a speeding SUV ploughed into a Christmas celebration.",
+        "concepts": [
+            {
+                "word": "Wisconsin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incident",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "suspect",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "media",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Wisconsin parade incident suspect named - US media",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59378571",
+        "content": "At least five people have been killed after a speeding SUV ploughed into a Christmas celebration.",
+        "placed": "Abroad",
+        "epoch": 1637607603.7884605,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Wisconsin parade incident suspect named - US media",
+        "en_content": "At least five people have been killed after a speeding SUV ploughed into a Christmas celebration.",
+        "concepts": [
+            {
+                "word": "Wisconsin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incident",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "suspect",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "media",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Germany warned: We'll be jabbed, recovered or dead",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59378548",
+        "content": "As Germany battles a fourth Covid wave, the health minister gives a stark warning to get vaccinated.",
+        "placed": "Abroad",
+        "epoch": 1637607603.7884724,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Germany warned: We'll be jabbed, recovered or dead",
+        "en_content": "As Germany battles a fourth Covid wave, the health minister gives a stark warning to get vaccinated.",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "jabbed",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Video call fails to end fears for China tennis star",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59372058",
+        "content": "Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official.",
+        "placed": "Abroad",
+        "epoch": 1637607603.7884922,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Video call fails to end fears for China tennis star",
+        "en_content": "Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official.",
+        "concepts": [
+            {
+                "word": "Video",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "call",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fears",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kenya gives 20 million a month to get vaccinated",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59367726",
+        "content": "Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas.",
+        "placed": "Abroad",
+        "epoch": 1637607603.7885134,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Kenya gives 20 million a month to get vaccinated",
+        "en_content": "Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas.",
+        "concepts": [
+            {
+                "word": "Kenya",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "month",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            }
+        ]
+    },
+    {
+        "title": "Future of French football 'at stake'",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/sport/football/59374778",
+        "content": "France's sports minister says repeated crowd trouble at Ligue 1 matches is putting the \"survival\" of French football \"at stake\".",
+        "placed": "Abroad",
+        "epoch": 1637607603.78853,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Future of French football 'at stake'",
+        "en_content": "France's sports minister says repeated crowd trouble at Ligue 1 matches is putting the \"survival\" of French football \"at stake\".",
+        "concepts": [
+            {
+                "word": "Future",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "football",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "stake",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Powell picked to stay as US Federal Reserve chair",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59340779",
+        "content": "President Biden opts for continuity by nominating Jerome Powell to remain head of the central bank.",
+        "placed": "Abroad",
+        "epoch": 1637607603.788546,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Powell picked to stay as US Federal Reserve chair",
+        "en_content": "President Biden opts for continuity by nominating Jerome Powell to remain head of the central bank.",
+        "concepts": [
+            {
+                "word": "Powell",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Federal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Reserve",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chair",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'I never expected my wedding song to be a global hit'",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59369575",
+        "content": "Nimco Happy, the Somali singer of the viral TikTok hit Isii Nafta (I love you more than my life), reacts to her new-found fame.",
+        "placed": "Abroad",
+        "epoch": 1637607603.7885652,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "'I never expected my wedding song to be a global hit'",
+        "en_content": "Nimco Happy, the Somali singer of the viral TikTok hit Isii Nafta (I love you more than my life), reacts to her new-found fame.",
+        "concepts": [
+            {
+                "word": "wedding",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "song",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hit",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Wisconsin parade incident suspect named - US media",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59378571",
+        "content": "At least five people have been killed after a speeding SUV ploughed into a Christmas celebration.",
+        "placed": "Abroad",
+        "epoch": 1637607603.788594,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Wisconsin parade incident suspect named - US media",
+        "en_content": "At least five people have been killed after a speeding SUV ploughed into a Christmas celebration.",
+        "concepts": [
+            {
+                "word": "Wisconsin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parade",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incident",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "suspect",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "media",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Germany warned: We'll be jabbed, recovered or dead",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59378548",
+        "content": "As Germany battles a fourth Covid wave, the health minister gives a stark warning to get vaccinated.",
+        "placed": "Abroad",
+        "epoch": 1637607603.788602,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Germany warned: We'll be jabbed, recovered or dead",
+        "en_content": "As Germany battles a fourth Covid wave, the health minister gives a stark warning to get vaccinated.",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "jabbed",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Video call fails to end fears for China tennis star",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59372058",
+        "content": "Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official.",
+        "placed": "Abroad",
+        "epoch": 1637607603.7886171,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Video call fails to end fears for China tennis star",
+        "en_content": "Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official.",
+        "concepts": [
+            {
+                "word": "Video",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "call",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fears",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kenya gives 20 million a month to get vaccinated",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59367726",
+        "content": "Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas.",
+        "placed": "Abroad",
+        "epoch": 1637607603.7886245,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Kenya gives 20 million a month to get vaccinated",
+        "en_content": "Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas.",
+        "concepts": [
+            {
+                "word": "Kenya",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "month",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            }
+        ]
+    },
+    {
+        "title": "Future of French football 'at stake'",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/sport/football/59374778",
+        "content": "France's sports minister says repeated crowd trouble at Ligue 1 matches is putting the \"survival\" of French football \"at stake\".",
+        "placed": "Abroad",
+        "epoch": 1637607603.7886395,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Future of French football 'at stake'",
+        "en_content": "France's sports minister says repeated crowd trouble at Ligue 1 matches is putting the \"survival\" of French football \"at stake\".",
+        "concepts": [
+            {
+                "word": "Future",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "football",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "stake",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Powell picked to stay as US Federal Reserve chair",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59340779",
+        "content": "President Biden opts for continuity by nominating Jerome Powell to remain head of the central bank.",
+        "placed": "Abroad",
+        "epoch": 1637607603.788654,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Powell picked to stay as US Federal Reserve chair",
+        "en_content": "President Biden opts for continuity by nominating Jerome Powell to remain head of the central bank.",
+        "concepts": [
+            {
+                "word": "Powell",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Federal",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Reserve",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chair",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'I never expected my wedding song to be a global hit'",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59369575",
+        "content": "Nimco Happy, the Somali singer of the viral TikTok hit Isii Nafta (I love you more than my life), reacts to her new-found fame.",
+        "placed": "Abroad",
+        "epoch": 1637607603.7886682,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "'I never expected my wedding song to be a global hit'",
+        "en_content": "Nimco Happy, the Somali singer of the viral TikTok hit Isii Nafta (I love you more than my life), reacts to her new-found fame.",
+        "concepts": [
+            {
+                "word": "wedding",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "song",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hit",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Germany warned: We'll be jabbed, recovered or dead",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59378548",
+        "content": "As Germany battles a fourth Covid wave, the health minister gives a stark warning to get vaccinated.",
+        "placed": "Abroad",
+        "epoch": 1637607603.7886868,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Germany warned: We'll be jabbed, recovered or dead",
+        "en_content": "As Germany battles a fourth Covid wave, the health minister gives a stark warning to get vaccinated.",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "jabbed",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Video call fails to end fears for China tennis star",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59372058",
+        "content": "Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official.",
+        "placed": "Abroad",
+        "epoch": 1637607603.7887013,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Video call fails to end fears for China tennis star",
+        "en_content": "Peng Shuai disappeared from the public eye after making sex assault allegations against a Chinese official.",
+        "concepts": [
+            {
+                "word": "Video",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "call",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fears",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kenya gives 20 million a month to get vaccinated",
+        "date": "2021-11-22",
+        "date_raw": "2021-11-22",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59367726",
+        "content": "Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas.",
+        "placed": "Abroad",
+        "epoch": 1637607603.788716,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-22T20.00.03E1637607603.7887306.json",
+        "en_title": "Kenya gives 20 million a month to get vaccinated",
+        "en_content": "Although less than 10% of Kenyans are vaccinated, the government wants to avoid a surge over Christmas.",
+        "concepts": [
+            {
+                "word": "Kenya",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "month",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            }
+        ]
+    }
+]

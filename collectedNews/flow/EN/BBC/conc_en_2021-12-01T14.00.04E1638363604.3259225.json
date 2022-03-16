@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Pre-travel Covid tests would be valuable - scientists",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59489339",
+        "content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "placed": "Politics",
+        "epoch": 1638363604.3256714,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "Pre-travel Covid tests would be valuable - scientists",
+        "en_content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "concepts": [
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "scientists",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Pre-travel Covid tests would be valuable - scientists",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59489339",
+        "content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "placed": "Politics",
+        "epoch": 1638363604.3256974,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "Pre-travel Covid tests would be valuable - scientists",
+        "en_content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "concepts": [
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "scientists",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM faces questions over new Covid measures",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-politics-59488672",
+        "content": "The Commons leader is accused of breaking the rules on declaring outside earnings.",
+        "placed": "Politics",
+        "epoch": 1638363604.3257163,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "PM faces questions over new Covid measures",
+        "en_content": "The Commons leader is accused of breaking the rules on declaring outside earnings.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "questions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "measures",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Rees-Mogg investigated by standards watchdog",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59491565",
+        "content": "Take lateral flow test before socialising, health secretary suggests at start of two-month booster push.",
+        "placed": "Politics",
+        "epoch": 1638363604.3257327,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "Rees-Mogg investigated by standards watchdog",
+        "en_content": "Take lateral flow test before socialising, health secretary suggests at start of two-month booster push.",
+        "concepts": [
+            {
+                "word": "Rees",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mogg",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "watchdog",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "No need to cancel Christmas party plans - Javid",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59486165",
+        "content": "Home Secretary Priti Patel is urged to ditch plans to push back migrants trying to cross the Channel.",
+        "placed": "Politics",
+        "epoch": 1638363604.3257484,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "No need to cancel Christmas party plans - Javid",
+        "en_content": "Home Secretary Priti Patel is urged to ditch plans to push back migrants trying to cross the Channel.",
+        "concepts": [
+            {
+                "word": "need",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Javid",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Turning back boats will increase danger, MPs warn",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59481143",
+        "content": "Extra measures to tackle the Omicron variant win overwhelming backing, with a small Tory rebellion.",
+        "placed": "Politics",
+        "epoch": 1638363604.3257647,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "Turning back boats will increase danger, MPs warn",
+        "en_content": "Extra measures to tackle the Omicron variant win overwhelming backing, with a small Tory rebellion.",
+        "concepts": [
+            {
+                "word": "boats",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "danger",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs back tighter mask and self-isolation rules",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59482888",
+        "content": "Monthly spend over Christmas expected to increase by £109, according to projections for BBC Panorama.",
+        "placed": "Politics",
+        "epoch": 1638363604.32578,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "MPs back tighter mask and self-isolation rules",
+        "en_content": "Monthly spend over Christmas expected to increase by £109, according to projections for BBC Panorama.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mask",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "self",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "isolation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Family spending predicted to rise £1,700 a year",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59477093",
+        "content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "placed": "Politics",
+        "epoch": 1638363604.3257947,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "Family spending predicted to rise £1,700 a year",
+        "en_content": "Labour has called for the reintroduction of pre-departure tests for travellers bound for the UK.",
+        "concepts": [
+            {
+                "word": "Family",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spending",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            }
+        ]
+    },
+    {
+        "title": "Pre-travel Covid tests would be valuable - scientists",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59489339",
+        "content": "The Commons leader is accused of breaking the rules on declaring outside earnings.",
+        "placed": "Politics",
+        "epoch": 1638363604.32581,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "Pre-travel Covid tests would be valuable - scientists",
+        "en_content": "The Commons leader is accused of breaking the rules on declaring outside earnings.",
+        "concepts": [
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tests",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "scientists",
+                "meaning": "attr",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM faces questions over new Covid measures",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-politics-59488672",
+        "content": "Take lateral flow test before socialising, health secretary suggests at start of two-month booster push.",
+        "placed": "Politics",
+        "epoch": 1638363604.3258245,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "PM faces questions over new Covid measures",
+        "en_content": "Take lateral flow test before socialising, health secretary suggests at start of two-month booster push.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "questions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "measures",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Rees-Mogg investigated by standards watchdog",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59491565",
+        "content": "Home Secretary Priti Patel is urged to ditch plans to push back migrants trying to cross the Channel.",
+        "placed": "Politics",
+        "epoch": 1638363604.3258443,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "Rees-Mogg investigated by standards watchdog",
+        "en_content": "Home Secretary Priti Patel is urged to ditch plans to push back migrants trying to cross the Channel.",
+        "concepts": [
+            {
+                "word": "Rees",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mogg",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "standards",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "watchdog",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "No need to cancel Christmas party plans - Javid",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59486165",
+        "content": "Extra measures to tackle the Omicron variant win overwhelming backing, with a small Tory rebellion.",
+        "placed": "Politics",
+        "epoch": 1638363604.3258634,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "No need to cancel Christmas party plans - Javid",
+        "en_content": "Extra measures to tackle the Omicron variant win overwhelming backing, with a small Tory rebellion.",
+        "concepts": [
+            {
+                "word": "need",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plans",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Javid",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Turning back boats will increase danger, MPs warn",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59481143",
+        "content": "Monthly spend over Christmas expected to increase by £109, according to projections for BBC Panorama.",
+        "placed": "Politics",
+        "epoch": 1638363604.3258789,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "Turning back boats will increase danger, MPs warn",
+        "en_content": "Monthly spend over Christmas expected to increase by £109, according to projections for BBC Panorama.",
+        "concepts": [
+            {
+                "word": "boats",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "danger",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MPs back tighter mask and self-isolation rules",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59482888",
+        "content": "The Commons leader is accused of breaking the rules on declaring outside earnings.",
+        "placed": "Politics",
+        "epoch": 1638363604.3258946,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "MPs back tighter mask and self-isolation rules",
+        "en_content": "The Commons leader is accused of breaking the rules on declaring outside earnings.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "mask",
+                "meaning": "npadvmod",
+                "pos": "ADV"
+            },
+            {
+                "word": "self",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "isolation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Family spending predicted to rise £1,700 a year",
+        "date": "2021-12-01",
+        "date_raw": "2021-12-01",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59477093",
+        "content": "Take lateral flow test before socialising, health secretary suggests at start of two-month booster push.",
+        "placed": "Politics",
+        "epoch": 1638363604.3259096,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-01T14.00.04E1638363604.3259225.json",
+        "en_title": "Family spending predicted to rise £1,700 a year",
+        "en_content": "Take lateral flow test before socialising, health secretary suggests at start of two-month booster push.",
+        "concepts": [
+            {
+                "word": "Family",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spending",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "year",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            }
+        ]
+    }
+]

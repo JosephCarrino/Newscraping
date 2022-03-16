@@ -1,0 +1,563 @@
+[
+    {
+        "title": "Scholz becomes German leader as Merkel bows out",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59575773",
+        "content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "placed": "Abroad",
+        "epoch": 1638968403.532108,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "Scholz becomes German leader as Merkel bows out",
+        "en_content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "concepts": [
+            {
+                "word": "Scholz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "leader",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Scholz becomes German leader as Merkel bows out",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59575773",
+        "content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5321417,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "Scholz becomes German leader as Merkel bows out",
+        "en_content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "concepts": [
+            {
+                "word": "Scholz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "leader",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "India's top general in helicopter crash",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59576082",
+        "content": "Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5321639,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "India's top general in helicopter crash",
+        "en_content": "Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "general",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "helicopter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Soldiers accused of shooting and burning villagers",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59574528",
+        "content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5321834,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "Soldiers accused of shooting and burning villagers",
+        "en_content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "concepts": [
+            {
+                "word": "Soldiers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "villagers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Vaccines should work against Omicron, WHO says",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59573037",
+        "content": "A small study in South Africa suggests the new variant could partially evade the Pfizer jab.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5322032,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "Vaccines should work against Omicron, WHO says",
+        "en_content": "A small study in South Africa suggests the new variant could partially evade the Pfizer jab.",
+        "concepts": [
+            {
+                "word": "Vaccines",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Finnish PM sorry for clubbing after Covid contact",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59577371",
+        "content": "Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive.",
+        "placed": "Abroad",
+        "epoch": 1638968403.532226,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "Finnish PM sorry for clubbing after Covid contact",
+        "en_content": "Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "contact",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The advent calendar that lets you give back",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59544669",
+        "content": "After starting her own reverse advent calendar to help others, Heather Luttrell took the idea nationwide.",
+        "placed": "Abroad",
+        "epoch": 1638968403.532241,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "The advent calendar that lets you give back",
+        "en_content": "After starting her own reverse advent calendar to help others, Heather Luttrell took the idea nationwide.",
+        "concepts": [
+            {
+                "word": "advent",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "calendar",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "World's top Covid vaccine maker halves production",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59574878",
+        "content": "The Serum Institute is sitting on a stockpile of 500 million doses of Covishield, its CEO said.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5322602,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "World's top Covid vaccine maker halves production",
+        "en_content": "The Serum Institute is sitting on a stockpile of 500 million doses of Covishield, its CEO said.",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "maker",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "production",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Scholz becomes German leader as Merkel bows out",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59575773",
+        "content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "placed": "Abroad",
+        "epoch": 1638968403.532278,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "Scholz becomes German leader as Merkel bows out",
+        "en_content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "concepts": [
+            {
+                "word": "Scholz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "leader",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "India's top general in helicopter crash",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59576082",
+        "content": "Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5322957,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "India's top general in helicopter crash",
+        "en_content": "Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "general",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "helicopter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Soldiers accused of shooting and burning villagers",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59574528",
+        "content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "placed": "Abroad",
+        "epoch": 1638968403.532313,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "Soldiers accused of shooting and burning villagers",
+        "en_content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "concepts": [
+            {
+                "word": "Soldiers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "villagers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Vaccines should work against Omicron, WHO says",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59573037",
+        "content": "A small study in South Africa suggests the new variant could partially evade the Pfizer jab.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5323348,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "Vaccines should work against Omicron, WHO says",
+        "en_content": "A small study in South Africa suggests the new variant could partially evade the Pfizer jab.",
+        "concepts": [
+            {
+                "word": "Vaccines",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Finnish PM sorry for clubbing after Covid contact",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59577371",
+        "content": "Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5323524,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "Finnish PM sorry for clubbing after Covid contact",
+        "en_content": "Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "contact",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The advent calendar that lets you give back",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59544669",
+        "content": "After starting her own reverse advent calendar to help others, Heather Luttrell took the idea nationwide.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5323694,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "The advent calendar that lets you give back",
+        "en_content": "After starting her own reverse advent calendar to help others, Heather Luttrell took the idea nationwide.",
+        "concepts": [
+            {
+                "word": "advent",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "calendar",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "World's top Covid vaccine maker halves production",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59574878",
+        "content": "The Serum Institute is sitting on a stockpile of 500 million doses of Covishield, its CEO said.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5323794,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "World's top Covid vaccine maker halves production",
+        "en_content": "The Serum Institute is sitting on a stockpile of 500 million doses of Covishield, its CEO said.",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "maker",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "production",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "India's top general in helicopter crash",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59576082",
+        "content": "Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India.",
+        "placed": "Abroad",
+        "epoch": 1638968403.532397,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "India's top general in helicopter crash",
+        "en_content": "Chief of Defence Staff General Bipin Rawat was in the helicopter which crashed in southern India.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "general",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "helicopter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Soldiers accused of shooting and burning villagers",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59574528",
+        "content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5324142,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "Soldiers accused of shooting and burning villagers",
+        "en_content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "concepts": [
+            {
+                "word": "Soldiers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "villagers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Vaccines should work against Omicron, WHO says",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59573037",
+        "content": "A small study in South Africa suggests the new variant could partially evade the Pfizer jab.",
+        "placed": "Abroad",
+        "epoch": 1638968403.5324316,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.5324447.json",
+        "en_title": "Vaccines should work against Omicron, WHO says",
+        "en_content": "A small study in South Africa suggests the new variant could partially evade the Pfizer jab.",
+        "concepts": [
+            {
+                "word": "Vaccines",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

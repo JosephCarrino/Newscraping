@@ -1,0 +1,733 @@
+[
+    {
+        "title": "Victims named as police probe US festival crush",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59199831",
+        "content": "Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston.",
+        "placed": "Abroad",
+        "epoch": 1636333205.703896,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Victims named as police probe US festival crush",
+        "en_content": "Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston.",
+        "concepts": [
+            {
+                "word": "Victims",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "festival",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crush",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Victims named as police probe US festival crush",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59199831",
+        "content": "Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston.",
+        "placed": "Abroad",
+        "epoch": 1636333205.703924,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Victims named as police probe US festival crush",
+        "en_content": "Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston.",
+        "concepts": [
+            {
+                "word": "Victims",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "festival",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crush",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Fossil fuel industry has biggest delegation at COP26",
+        "date": "2021-11-08",
+        "date_raw": "2021-11-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59199484",
+        "content": "There are more participants than from any single country, a study shared with the BBC suggests.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7039442,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Fossil fuel industry has biggest delegation at COP26",
+        "en_content": "There are more participants than from any single country, a study shared with the BBC suggests.",
+        "concepts": [
+            {
+                "word": "Fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "industry",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "delegation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Protesters tear-gassed at rally against Sudan coup",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59197250",
+        "content": "Protesters are demanding the military step back and allow the transition to civilian rule.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7039616,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Protesters tear-gassed at rally against Sudan coup",
+        "en_content": "Protesters are demanding the military step back and allow the transition to civilian rule.",
+        "concepts": [
+            {
+                "word": "Protesters",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tear",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "rally",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Twitter poll calls on Musk to sell 10% Tesla stake",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59182278",
+        "content": "The Tesla boss had promised to honour the outcome of the poll, whichever way it went.",
+        "placed": "Abroad",
+        "epoch": 1636333205.703977,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Twitter poll calls on Musk to sell 10% Tesla stake",
+        "en_content": "The Tesla boss had promised to honour the outcome of the poll, whichever way it went.",
+        "concepts": [
+            {
+                "word": "Twitter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "poll",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Musk",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "%",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Tesla",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stake",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Iraqi PM survives drone attack on his home",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59195399",
+        "content": "Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7039933,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Iraqi PM survives drone attack on his home",
+        "en_content": "Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "drone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "home",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dozens convicted as Italy begins huge Mafia trial",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59196463",
+        "content": "More than 350 alleged mobsters will face court in the biggest mafia trial in decades.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7040088,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Dozens convicted as Italy begins huge Mafia trial",
+        "en_content": "More than 350 alleged mobsters will face court in the biggest mafia trial in decades.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mafia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trial",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US to reopen borders to vaccinated after 20 months",
+        "date": "2021-11-08",
+        "date_raw": "2021-11-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59201107",
+        "content": "A flood of foreign visitors is expected as tough restrictions on entry come to an end on Monday.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7040238,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "US to reopen borders to vaccinated after 20 months",
+        "en_content": "A flood of foreign visitors is expected as tough restrictions on entry come to an end on Monday.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "borders",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "months",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Victims named as police probe US festival crush",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59199831",
+        "content": "Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7040381,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Victims named as police probe US festival crush",
+        "en_content": "Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston.",
+        "concepts": [
+            {
+                "word": "Victims",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "festival",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crush",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Fossil fuel industry has biggest delegation at COP26",
+        "date": "2021-11-08",
+        "date_raw": "2021-11-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59199484",
+        "content": "There are more participants than from any single country, a study shared with the BBC suggests.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7040532,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Fossil fuel industry has biggest delegation at COP26",
+        "en_content": "There are more participants than from any single country, a study shared with the BBC suggests.",
+        "concepts": [
+            {
+                "word": "Fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "industry",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "delegation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Protesters tear-gassed at rally against Sudan coup",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59197250",
+        "content": "Protesters are demanding the military step back and allow the transition to civilian rule.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7040687,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Protesters tear-gassed at rally against Sudan coup",
+        "en_content": "Protesters are demanding the military step back and allow the transition to civilian rule.",
+        "concepts": [
+            {
+                "word": "Protesters",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tear",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "rally",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Twitter poll calls on Musk to sell 10% Tesla stake",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59182278",
+        "content": "The Tesla boss had promised to honour the outcome of the poll, whichever way it went.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7040832,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Twitter poll calls on Musk to sell 10% Tesla stake",
+        "en_content": "The Tesla boss had promised to honour the outcome of the poll, whichever way it went.",
+        "concepts": [
+            {
+                "word": "Twitter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "poll",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Musk",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "%",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Tesla",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stake",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Iraqi PM survives drone attack on his home",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59195399",
+        "content": "Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7040975,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Iraqi PM survives drone attack on his home",
+        "en_content": "Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "drone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "attack",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "home",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dozens convicted as Italy begins huge Mafia trial",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59196463",
+        "content": "More than 350 alleged mobsters will face court in the biggest mafia trial in decades.",
+        "placed": "Abroad",
+        "epoch": 1636333205.704112,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Dozens convicted as Italy begins huge Mafia trial",
+        "en_content": "More than 350 alleged mobsters will face court in the biggest mafia trial in decades.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Italy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mafia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trial",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US to reopen borders to vaccinated after 20 months",
+        "date": "2021-11-08",
+        "date_raw": "2021-11-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59201107",
+        "content": "A flood of foreign visitors is expected as tough restrictions on entry come to an end on Monday.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7041264,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "US to reopen borders to vaccinated after 20 months",
+        "en_content": "A flood of foreign visitors is expected as tough restrictions on entry come to an end on Monday.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "borders",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "months",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fossil fuel industry has biggest delegation at COP26",
+        "date": "2021-11-08",
+        "date_raw": "2021-11-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59199484",
+        "content": "There are more participants than from any single country, a study shared with the BBC suggests.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7041411,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Fossil fuel industry has biggest delegation at COP26",
+        "en_content": "There are more participants than from any single country, a study shared with the BBC suggests.",
+        "concepts": [
+            {
+                "word": "Fossil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fuel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "industry",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "delegation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Protesters tear-gassed at rally against Sudan coup",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59197250",
+        "content": "Protesters are demanding the military step back and allow the transition to civilian rule.",
+        "placed": "Abroad",
+        "epoch": 1636333205.7041557,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Protesters tear-gassed at rally against Sudan coup",
+        "en_content": "Protesters are demanding the military step back and allow the transition to civilian rule.",
+        "concepts": [
+            {
+                "word": "Protesters",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tear",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "rally",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Twitter poll calls on Musk to sell 10% Tesla stake",
+        "date": "2021-11-07",
+        "date_raw": "2021-11-07",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/business-59182278",
+        "content": "The Tesla boss had promised to honour the outcome of the poll, whichever way it went.",
+        "placed": "Abroad",
+        "epoch": 1636333205.70417,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-08T02.00.05E1636333205.704186.json",
+        "en_title": "Twitter poll calls on Musk to sell 10% Tesla stake",
+        "en_content": "The Tesla boss had promised to honour the outcome of the poll, whichever way it went.",
+        "concepts": [
+            {
+                "word": "Twitter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "poll",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Musk",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "%",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Tesla",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "stake",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

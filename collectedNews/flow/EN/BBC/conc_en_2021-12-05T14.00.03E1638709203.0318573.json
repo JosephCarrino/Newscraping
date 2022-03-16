@@ -1,0 +1,695 @@
+[
+    {
+        "title": "Nations condemn Taliban over targeted killings",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59536522",
+        "content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "placed": "First_Page",
+        "epoch": 1638709203.0315032,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Nations condemn Taliban over targeted killings",
+        "en_content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "concepts": [
+            {
+                "word": "Nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "killings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nations condemn Taliban over targeted killings",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59536522",
+        "content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "placed": "First_Page",
+        "epoch": 1638709203.031536,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Nations condemn Taliban over targeted killings",
+        "en_content": "US and allies \"deeply concerned\" about human rights abuses against former Afghan security forces.",
+        "concepts": [
+            {
+                "word": "Nations",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "killings",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pope condemns treatment of migrants in Europe",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59538413",
+        "content": "Visiting a camp in Greece, Francis called on Europe to take responsibility for the situation.",
+        "placed": "First_Page",
+        "epoch": 1638709203.0315561,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Pope condemns treatment of migrants in Europe",
+        "en_content": "Visiting a camp in Greece, Francis called on Europe to take responsibility for the situation.",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "treatment",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Europe",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Travel changes too late to stop Omicron - scientist",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59536795",
+        "content": "The return of pre-departure Covid tests for travellers to the UK will come into force on Tuesday.",
+        "placed": "First_Page",
+        "epoch": 1638709203.031573,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Travel changes too late to stop Omicron - scientist",
+        "en_content": "The return of pre-departure Covid tests for travellers to the UK will come into force on Tuesday.",
+        "concepts": [
+            {
+                "word": "Travel",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scientist",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rescuers race to find survivors of Indonesia eruption",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59532251",
+        "content": "At least 13 people died after Mt Semeru erupted on Indonesia's Java island.",
+        "placed": "First_Page",
+        "epoch": 1638709203.0315888,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Rescuers race to find survivors of Indonesia eruption",
+        "en_content": "At least 13 people died after Mt Semeru erupted on Indonesia's Java island.",
+        "concepts": [
+            {
+                "word": "Rescuers",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "race",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "survivors",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Indonesia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "eruption",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Prince William reveals toll of air ambulance rescues",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59536792",
+        "content": "The Duke of Cambridge recalls taking home other people's \"sadness\" when he was a pilot.",
+        "placed": "First_Page",
+        "epoch": 1638709203.0316048,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Prince William reveals toll of air ambulance rescues",
+        "en_content": "The Duke of Cambridge recalls taking home other people's \"sadness\" when he was a pilot.",
+        "concepts": [
+            {
+                "word": "Prince",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "William",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "toll",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "air",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ambulance",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rescues",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "CNN fires Chris Cuomo for helping governor brother",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59536519",
+        "content": "The star TV host is sacked over efforts to help his brother defend himself against sexual harassment claims.",
+        "placed": "First_Page",
+        "epoch": 1638709203.03162,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "CNN fires Chris Cuomo for helping governor brother",
+        "en_content": "The star TV host is sacked over efforts to help his brother defend himself against sexual harassment claims.",
+        "concepts": [
+            {
+                "word": "CNN",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fires",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Chris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cuomo",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "governor",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "brother",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Ocean garbage patch is immense plastic habitat",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59521211",
+        "content": "Researchers discover coastal species living on debris miles from their natural surroundings.",
+        "placed": "First_Page",
+        "epoch": 1638709203.0316346,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Ocean garbage patch is immense plastic habitat",
+        "en_content": "Researchers discover coastal species living on debris miles from their natural surroundings.",
+        "concepts": [
+            {
+                "word": "Ocean",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "garbage",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "patch",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "habitat",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Why France faces so much anger in West Africa",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59517501",
+        "content": "Despite engaging better with the African continent recently, the ex-colonial power faces a backlash.",
+        "placed": "First_Page",
+        "epoch": 1638709203.0316494,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Why France faces so much anger in West Africa",
+        "en_content": "Despite engaging better with the African continent recently, the ex-colonial power faces a backlash.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "anger",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "West",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Grenfell firm F1 deal 'nothing' to do with Hamilton",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59536433",
+        "content": "His F1 team Mercedes has been criticised for partnering with Kingspan, a firm linked to Grenfell Tower.",
+        "placed": "First_Page",
+        "epoch": 1638709203.031664,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Grenfell firm F1 deal 'nothing' to do with Hamilton",
+        "en_content": "His F1 team Mercedes has been criticised for partnering with Kingspan, a firm linked to Grenfell Tower.",
+        "concepts": [
+            {
+                "word": "Grenfell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "F1",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Hamilton",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Indian forces kill 13 civilians amid ambush blunder",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59531445",
+        "content": "Home Minister Amit Shah expresses \"anguish\" after troops fire on miners in the country's north-east.",
+        "placed": "First_Page",
+        "epoch": 1638709203.0317109,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Indian forces kill 13 civilians amid ambush blunder",
+        "en_content": "Home Minister Amit Shah expresses \"anguish\" after troops fire on miners in the country's north-east.",
+        "concepts": [
+            {
+                "word": "forces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "civilians",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "blunder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "French climber handed Mont Blanc gems after find",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59538540",
+        "content": "The stones are believed to be from an Air India plane which crashed into the mountain in 1966.",
+        "placed": "First_Page",
+        "epoch": 1638709203.0317342,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "French climber handed Mont Blanc gems after find",
+        "en_content": "The stones are believed to be from an Air India plane which crashed into the mountain in 1966.",
+        "concepts": [
+            {
+                "word": "climber",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mont",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Blanc",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gems",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Indian forces kill 13 civilians amid ambush blunder",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59531445",
+        "content": "Home Minister Amit Shah expresses \"anguish\" after troops fire on miners in the country's north-east.",
+        "placed": "First_Page",
+        "epoch": 1638709203.031754,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Indian forces kill 13 civilians amid ambush blunder",
+        "en_content": "Home Minister Amit Shah expresses \"anguish\" after troops fire on miners in the country's north-east.",
+        "concepts": [
+            {
+                "word": "forces",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "civilians",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "blunder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "French climber handed Mont Blanc gems after find",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59538540",
+        "content": "The stones are believed to be from an Air India plane which crashed into the mountain in 1966.",
+        "placed": "First_Page",
+        "epoch": 1638709203.0317683,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "French climber handed Mont Blanc gems after find",
+        "en_content": "The stones are believed to be from an Air India plane which crashed into the mountain in 1966.",
+        "concepts": [
+            {
+                "word": "climber",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mont",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Blanc",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gems",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Trump social media firm raises $1bn from investors",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59538590",
+        "content": "The former US president is working to launch a social media app called Truth Social early next year.",
+        "placed": "First_Page",
+        "epoch": 1638709203.0317824,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Trump social media firm raises $1bn from investors",
+        "en_content": "The former US president is working to launch a social media app called Truth Social early next year.",
+        "concepts": [
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "firm",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "1bn",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "investors",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Snotty-nosed hippos test positive for Covid",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59516896",
+        "content": "Officials at Antwerp zoo do not know how the pair - now in quarantine - caught the virus.",
+        "placed": "First_Page",
+        "epoch": 1638709203.0317962,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Snotty-nosed hippos test positive for Covid",
+        "en_content": "Officials at Antwerp zoo do not know how the pair - now in quarantine - caught the virus.",
+        "concepts": [
+            {
+                "word": "Snotty",
+                "meaning": "amod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "hippos",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "test",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden and Putin to talk amid rising Ukraine tensions",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59533689",
+        "content": "On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine.",
+        "placed": "First_Page",
+        "epoch": 1638709203.03181,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "Biden and Putin to talk amid rising Ukraine tensions",
+        "en_content": "On Tuesday the US and Russian leaders will speak amid mounting concerns of Russia invading Ukraine.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Putin",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tensions",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'I balanced a Mini on my head'",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-derbyshire-59497332",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638709203.031824,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "'I balanced a Mini on my head'",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Mini",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "head",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638709203.031838,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.0318573.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

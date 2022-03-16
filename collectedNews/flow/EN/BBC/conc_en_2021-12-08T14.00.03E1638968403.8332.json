@@ -1,0 +1,638 @@
+[
+    {
+        "title": "Johnson sorry for offence caused by party joke video",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59580640",
+        "content": "The PM says he was given assurances no party had taken place - but Labour says he is taking people for fools.",
+        "placed": "Politics",
+        "epoch": 1638968403.8328602,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "Johnson sorry for offence caused by party joke video",
+        "en_content": "The PM says he was given assurances no party had taken place - but Labour says he is taking people for fools.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "offence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "joke",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson sorry for offence caused by party joke video",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59580640",
+        "content": "The PM says he was given assurances no party had taken place - but Labour says he is taking people for fools.",
+        "placed": "Politics",
+        "epoch": 1638968403.832893,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "Johnson sorry for offence caused by party joke video",
+        "en_content": "The PM says he was given assurances no party had taken place - but Labour says he is taking people for fools.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "offence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "joke",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "What next for Johnson after the No 10 party video?",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59573845",
+        "content": "Footage of No 10 staff joking about a lockdown party has left even the PM's supporters stunned.",
+        "placed": "Politics",
+        "epoch": 1638968403.832916,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "What next for Johnson after the No 10 party video?",
+        "en_content": "Footage of No 10 staff joking about a lockdown party has left even the PM's supporters stunned.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs earn up to £350 an hour for taking surveys",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59520755",
+        "content": "Over 120 politicians did work for polling companies, earning more than £116,000 since the last election.",
+        "placed": "Politics",
+        "epoch": 1638968403.8329363,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "MPs earn up to £350 an hour for taking surveys",
+        "en_content": "Over 120 politicians did work for polling companies, earning more than £116,000 since the last election.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hour",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            },
+            {
+                "word": "surveys",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What were the rules on Christmas parties?",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59577129",
+        "content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "placed": "Politics",
+        "epoch": 1638968403.8329551,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "What were the rules on Christmas parties?",
+        "en_content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "concepts": [
+            {
+                "word": "rules",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Politics was priority amid Afghan exit - official",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59572746",
+        "content": "A Foreign Office official tells the BBC the government's handling of the evacuation was \"unforgiveable\".",
+        "placed": "Politics",
+        "epoch": 1638968403.832975,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "Politics was priority amid Afghan exit - official",
+        "en_content": "A Foreign Office official tells the BBC the government's handling of the evacuation was \"unforgiveable\".",
+        "concepts": [
+            {
+                "word": "Politics",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "priority",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "exit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK official regrets holiday during Afghan crisis",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59571117",
+        "content": "Sir Philip Barton says he has \"reflected on\" his 17-day summer holiday and would not do the same again.",
+        "placed": "Politics",
+        "epoch": 1638968403.8329937,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "UK official regrets holiday during Afghan crisis",
+        "en_content": "Sir Philip Barton says he has \"reflected on\" his 17-day summer holiday and would not do the same again.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "holiday",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "crisis",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MP claims cover-up over evacuated Afghan animals",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59560337",
+        "content": "Boris Johnson denies intervening to get charity staff and pets out of Afghanistan in the summer.",
+        "placed": "Politics",
+        "epoch": 1638968403.8330119,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "MP claims cover-up over evacuated Afghan animals",
+        "en_content": "Boris Johnson denies intervening to get charity staff and pets out of Afghanistan in the summer.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cover",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "up",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "animals",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson sorry for offence caused by party joke video",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59580640",
+        "content": "The PM says he was given assurances no party had taken place - but Labour says he is taking people for fools.",
+        "placed": "Politics",
+        "epoch": 1638968403.8330297,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "Johnson sorry for offence caused by party joke video",
+        "en_content": "The PM says he was given assurances no party had taken place - but Labour says he is taking people for fools.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "offence",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "joke",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "What next for Johnson after the No 10 party video?",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59573845",
+        "content": "Footage of No 10 staff joking about a lockdown party has left even the PM's supporters stunned.",
+        "placed": "Politics",
+        "epoch": 1638968403.833048,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "What next for Johnson after the No 10 party video?",
+        "en_content": "Footage of No 10 staff joking about a lockdown party has left even the PM's supporters stunned.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs earn up to £350 an hour for taking surveys",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59520755",
+        "content": "Over 120 politicians did work for polling companies, earning more than £116,000 since the last election.",
+        "placed": "Politics",
+        "epoch": 1638968403.8330657,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "MPs earn up to £350 an hour for taking surveys",
+        "en_content": "Over 120 politicians did work for polling companies, earning more than £116,000 since the last election.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hour",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            },
+            {
+                "word": "surveys",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What were the rules on Christmas parties?",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59577129",
+        "content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "placed": "Politics",
+        "epoch": 1638968403.8330832,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "What were the rules on Christmas parties?",
+        "en_content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "concepts": [
+            {
+                "word": "rules",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Politics was priority amid Afghan exit - official",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59572746",
+        "content": "A Foreign Office official tells the BBC the government's handling of the evacuation was \"unforgiveable\".",
+        "placed": "Politics",
+        "epoch": 1638968403.8331003,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "Politics was priority amid Afghan exit - official",
+        "en_content": "A Foreign Office official tells the BBC the government's handling of the evacuation was \"unforgiveable\".",
+        "concepts": [
+            {
+                "word": "Politics",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "priority",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "exit",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK official regrets holiday during Afghan crisis",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59571117",
+        "content": "Sir Philip Barton says he has \"reflected on\" his 17-day summer holiday and would not do the same again.",
+        "placed": "Politics",
+        "epoch": 1638968403.8331177,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "UK official regrets holiday during Afghan crisis",
+        "en_content": "Sir Philip Barton says he has \"reflected on\" his 17-day summer holiday and would not do the same again.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "holiday",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "crisis",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MP claims cover-up over evacuated Afghan animals",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59560337",
+        "content": "Boris Johnson denies intervening to get charity staff and pets out of Afghanistan in the summer.",
+        "placed": "Politics",
+        "epoch": 1638968403.8331351,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "MP claims cover-up over evacuated Afghan animals",
+        "en_content": "Boris Johnson denies intervening to get charity staff and pets out of Afghanistan in the summer.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "cover",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "up",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "animals",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "What next for Johnson after the No 10 party video?",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59573845",
+        "content": "Footage of No 10 staff joking about a lockdown party has left even the PM's supporters stunned.",
+        "placed": "Politics",
+        "epoch": 1638968403.8331518,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "What next for Johnson after the No 10 party video?",
+        "en_content": "Footage of No 10 staff joking about a lockdown party has left even the PM's supporters stunned.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "party",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "video",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs earn up to £350 an hour for taking surveys",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59520755",
+        "content": "Over 120 politicians did work for polling companies, earning more than £116,000 since the last election.",
+        "placed": "Politics",
+        "epoch": 1638968403.833169,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "MPs earn up to £350 an hour for taking surveys",
+        "en_content": "Over 120 politicians did work for polling companies, earning more than £116,000 since the last election.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hour",
+                "meaning": "npadvmod",
+                "pos": "NUM"
+            },
+            {
+                "word": "surveys",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What were the rules on Christmas parties?",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59577129",
+        "content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "placed": "Politics",
+        "epoch": 1638968403.8331869,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T14.00.03E1638968403.8332.json",
+        "en_title": "What were the rules on Christmas parties?",
+        "en_content": "Any party at Downing Street would have breached the government's guidelines at the time.",
+        "concepts": [
+            {
+                "word": "rules",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Christmas",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parties",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

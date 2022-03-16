@@ -1,0 +1,678 @@
+[
+    {
+        "title": "Assange can be extradited to the US, court rules",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59608641",
+        "content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2433586,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Assange can be extradited to the US, court rules",
+        "en_content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "concepts": [
+            {
+                "word": "Assange",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "court",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Assange can be extradited to the US, court rules",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59608641",
+        "content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2433922,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Assange can be extradited to the US, court rules",
+        "en_content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "concepts": [
+            {
+                "word": "Assange",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "court",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Top US court lets abortion clinics sue over ban",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59381081",
+        "content": "The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits",
+        "placed": "Abroad",
+        "epoch": 1639162804.2434163,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Top US court lets abortion clinics sue over ban",
+        "en_content": "The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "clinics",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "At least 54 people killed in Mexico truck crash",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59603801",
+        "content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2434359,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "At least 54 people killed in Mexico truck crash",
+        "en_content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "truck",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Trump uses expletive to attack ex-ally Netanyahu",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59571713",
+        "content": "The former president rails against the ex-Israeli leader, saying he saved Israel from destruction.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2434542,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Trump uses expletive to attack ex-ally Netanyahu",
+        "en_content": "The former president rails against the ex-Israeli leader, saying he saved Israel from destruction.",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "expletive",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ally",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Nobel winner attacks social media 'toxic sludge'",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59613540",
+        "content": "Philippine journalist Maria Ressa accuses internet sites of using a \"God-like power\" to sow division.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2434728,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Nobel winner attacks social media 'toxic sludge'",
+        "en_content": "Philippine journalist Maria Ressa accuses internet sites of using a \"God-like power\" to sow division.",
+        "concepts": [
+            {
+                "word": "Nobel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "winner",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sludge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Towns engulfed in deadly Spanish floods",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59608785",
+        "content": "At least one person died when rivers burst their banks in northern Spain.",
+        "placed": "Abroad",
+        "epoch": 1639162804.243491,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Towns engulfed in deadly Spanish floods",
+        "en_content": "At least one person died when rivers burst their banks in northern Spain.",
+        "concepts": [
+            {
+                "word": "Towns",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "floods",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The Monkees star Michael Nesmith dies at 78",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59606993",
+        "content": "With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2435079,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "The Monkees star Michael Nesmith dies at 78",
+        "en_content": "With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s.",
+        "concepts": [
+            {
+                "word": "Monkees",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Michael",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Nesmith",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Assange can be extradited to the US, court rules",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-59608641",
+        "content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2435243,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Assange can be extradited to the US, court rules",
+        "en_content": "Judges are reassured by US promises to reduce the risk of the Wikileaks founder taking his own life.",
+        "concepts": [
+            {
+                "word": "Assange",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "US",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "court",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Top US court lets abortion clinics sue over ban",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59381081",
+        "content": "The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits",
+        "placed": "Abroad",
+        "epoch": 1639162804.2435417,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Top US court lets abortion clinics sue over ban",
+        "en_content": "The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "clinics",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "At least 54 people killed in Mexico truck crash",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59603801",
+        "content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2435582,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "At least 54 people killed in Mexico truck crash",
+        "en_content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "truck",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Trump uses expletive to attack ex-ally Netanyahu",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59571713",
+        "content": "The former president rails against the ex-Israeli leader, saying he saved Israel from destruction.",
+        "placed": "Abroad",
+        "epoch": 1639162804.243575,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Trump uses expletive to attack ex-ally Netanyahu",
+        "en_content": "The former president rails against the ex-Israeli leader, saying he saved Israel from destruction.",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "expletive",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ally",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Nobel winner attacks social media 'toxic sludge'",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59613540",
+        "content": "Philippine journalist Maria Ressa accuses internet sites of using a \"God-like power\" to sow division.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2435923,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Nobel winner attacks social media 'toxic sludge'",
+        "en_content": "Philippine journalist Maria Ressa accuses internet sites of using a \"God-like power\" to sow division.",
+        "concepts": [
+            {
+                "word": "Nobel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "winner",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sludge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Towns engulfed in deadly Spanish floods",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59608785",
+        "content": "At least one person died when rivers burst their banks in northern Spain.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2436092,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Towns engulfed in deadly Spanish floods",
+        "en_content": "At least one person died when rivers burst their banks in northern Spain.",
+        "concepts": [
+            {
+                "word": "Towns",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "floods",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The Monkees star Michael Nesmith dies at 78",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59606993",
+        "content": "With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2436256,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "The Monkees star Michael Nesmith dies at 78",
+        "en_content": "With the group, the singer and guitarist had a string of hits and starred in a TV sitcom in the 1960s.",
+        "concepts": [
+            {
+                "word": "Monkees",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Michael",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Nesmith",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Top US court lets abortion clinics sue over ban",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59381081",
+        "content": "The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits",
+        "placed": "Abroad",
+        "epoch": 1639162804.243642,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Top US court lets abortion clinics sue over ban",
+        "en_content": "The Supreme Court leaves controversial Texas abortion law in place, but allows lawsuits",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "court",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "clinics",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ban",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "At least 54 people killed in Mexico truck crash",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59603801",
+        "content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "placed": "Abroad",
+        "epoch": 1639162804.243658,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "At least 54 people killed in Mexico truck crash",
+        "en_content": "More than 100 were injured when a trailer carrying Central American migrants overturned.",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "truck",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Trump uses expletive to attack ex-ally Netanyahu",
+        "date": "2021-12-10",
+        "date_raw": "2021-12-10",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-middle-east-59571713",
+        "content": "The former president rails against the ex-Israeli leader, saying he saved Israel from destruction.",
+        "placed": "Abroad",
+        "epoch": 1639162804.2436743,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-10T20.00.04E1639162804.243688.json",
+        "en_title": "Trump uses expletive to attack ex-ally Netanyahu",
+        "en_content": "The former president rails against the ex-Israeli leader, saying he saved Israel from destruction.",
+        "concepts": [
+            {
+                "word": "Trump",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "expletive",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ally",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Netanyahu",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

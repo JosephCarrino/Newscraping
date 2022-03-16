@@ -1,0 +1,688 @@
+[
+    {
+        "title": "National review launched after Arthur murder",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59538733",
+        "content": "Lessons will be learnt to protect other children from such evil crimes, the government says.",
+        "placed": "Politics",
+        "epoch": 1638709203.7554486,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "National review launched after Arthur murder",
+        "en_content": "Lessons will be learnt to protect other children from such evil crimes, the government says.",
+        "concepts": [
+            {
+                "word": "review",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Arthur",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "National review launched after Arthur murder",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59538733",
+        "content": "Lessons will be learnt to protect other children from such evil crimes, the government says.",
+        "placed": "Politics",
+        "epoch": 1638709203.7554765,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "National review launched after Arthur murder",
+        "en_content": "Lessons will be learnt to protect other children from such evil crimes, the government says.",
+        "concepts": [
+            {
+                "word": "review",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Arthur",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK tightens travel rules amid Omicron spread",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59534685",
+        "content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "placed": "Politics",
+        "epoch": 1638709203.7554963,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "UK tightens travel rules amid Omicron spread",
+        "en_content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tightens",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spread",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Longest-serving Labour MP to step down",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-leeds-59538838",
+        "content": "Barry Sheerman says he is looking forward to spending more time with his family.",
+        "placed": "Politics",
+        "epoch": 1638709203.7555125,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "Longest-serving Labour MP to step down",
+        "en_content": "Barry Sheerman says he is looking forward to spending more time with his family.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "UK drug strategy to focus on recovery not prison",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59533858",
+        "content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "placed": "Politics",
+        "epoch": 1638709203.7555287,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "UK drug strategy to focus on recovery not prison",
+        "en_content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strategy",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "recovery",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "prison",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Can Tories hold on to North Shropshire seat?",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59464270",
+        "content": "The BBC's Jonathan Blake talks to voters in the West Midlands constituency ahead of the by-election.",
+        "placed": "Politics",
+        "epoch": 1638709203.7555447,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "Can Tories hold on to North Shropshire seat?",
+        "en_content": "The BBC's Jonathan Blake talks to voters in the West Midlands constituency ahead of the by-election.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shropshire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seat",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Met reviews Labour MPs' complaint over No 10 party",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59532066",
+        "content": "The London force says it does not routinely investigate \"retrospective breaches\" of Covid regulations.",
+        "placed": "Politics",
+        "epoch": 1638709203.7555597,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "Met reviews Labour MPs' complaint over No 10 party",
+        "en_content": "The London force says it does not routinely investigate \"retrospective breaches\" of Covid regulations.",
+        "concepts": [
+            {
+                "word": "Met",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MPs",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "complaint",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Bid to end visa fee for UK's foreign-born veterans",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59526516",
+        "content": "Two MPs who served in the Army want to scrap the £2,389 charge for those with five years' service.",
+        "placed": "Politics",
+        "epoch": 1638709203.7555745,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "Bid to end visa fee for UK's foreign-born veterans",
+        "en_content": "Two MPs who served in the Army want to scrap the £2,389 charge for those with five years' service.",
+        "concepts": [
+            {
+                "word": "visa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fee",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "foreign",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "veterans",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "National review launched after Arthur murder",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59538733",
+        "content": "Lessons will be learnt to protect other children from such evil crimes, the government says.",
+        "placed": "Politics",
+        "epoch": 1638709203.7555897,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "National review launched after Arthur murder",
+        "en_content": "Lessons will be learnt to protect other children from such evil crimes, the government says.",
+        "concepts": [
+            {
+                "word": "review",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Arthur",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK tightens travel rules amid Omicron spread",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59534685",
+        "content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "placed": "Politics",
+        "epoch": 1638709203.7556045,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "UK tightens travel rules amid Omicron spread",
+        "en_content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tightens",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spread",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Longest-serving Labour MP to step down",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-leeds-59538838",
+        "content": "Barry Sheerman says he is looking forward to spending more time with his family.",
+        "placed": "Politics",
+        "epoch": 1638709203.7556193,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "Longest-serving Labour MP to step down",
+        "en_content": "Barry Sheerman says he is looking forward to spending more time with his family.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "UK drug strategy to focus on recovery not prison",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59533858",
+        "content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "placed": "Politics",
+        "epoch": 1638709203.7556348,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "UK drug strategy to focus on recovery not prison",
+        "en_content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strategy",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "recovery",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "prison",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Can Tories hold on to North Shropshire seat?",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59464270",
+        "content": "The BBC's Jonathan Blake talks to voters in the West Midlands constituency ahead of the by-election.",
+        "placed": "Politics",
+        "epoch": 1638709203.755649,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "Can Tories hold on to North Shropshire seat?",
+        "en_content": "The BBC's Jonathan Blake talks to voters in the West Midlands constituency ahead of the by-election.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shropshire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seat",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Met reviews Labour MPs' complaint over No 10 party",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59532066",
+        "content": "The London force says it does not routinely investigate \"retrospective breaches\" of Covid regulations.",
+        "placed": "Politics",
+        "epoch": 1638709203.7556636,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "Met reviews Labour MPs' complaint over No 10 party",
+        "en_content": "The London force says it does not routinely investigate \"retrospective breaches\" of Covid regulations.",
+        "concepts": [
+            {
+                "word": "Met",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MPs",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "complaint",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Bid to end visa fee for UK's foreign-born veterans",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59526516",
+        "content": "Two MPs who served in the Army want to scrap the £2,389 charge for those with five years' service.",
+        "placed": "Politics",
+        "epoch": 1638709203.755679,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "Bid to end visa fee for UK's foreign-born veterans",
+        "en_content": "Two MPs who served in the Army want to scrap the £2,389 charge for those with five years' service.",
+        "concepts": [
+            {
+                "word": "visa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fee",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "foreign",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "veterans",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK tightens travel rules amid Omicron spread",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59534685",
+        "content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "placed": "Politics",
+        "epoch": 1638709203.755694,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "UK tightens travel rules amid Omicron spread",
+        "en_content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tightens",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spread",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Longest-serving Labour MP to step down",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-leeds-59538838",
+        "content": "Barry Sheerman says he is looking forward to spending more time with his family.",
+        "placed": "Politics",
+        "epoch": 1638709203.7557082,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "Longest-serving Labour MP to step down",
+        "en_content": "Barry Sheerman says he is looking forward to spending more time with his family.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            }
+        ]
+    },
+    {
+        "title": "UK drug strategy to focus on recovery not prison",
+        "date": "2021-12-05",
+        "date_raw": "2021-12-05",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59533858",
+        "content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "placed": "Politics",
+        "epoch": 1638709203.7557223,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T14.00.03E1638709203.7557366.json",
+        "en_title": "UK drug strategy to focus on recovery not prison",
+        "en_content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strategy",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "recovery",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "prison",
+                "meaning": "appos",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

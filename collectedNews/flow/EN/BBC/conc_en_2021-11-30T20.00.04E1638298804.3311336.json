@@ -1,0 +1,629 @@
+[
+    {
+        "title": "Booster offer for England adults by end of January",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59481992",
+        "content": "Boris Johnson promises to \"throw everything\" at the expanded jab rollout to beat the Omicron variant.",
+        "placed": "Politics",
+        "epoch": 1638298804.330879,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "Booster offer for England adults by end of January",
+        "en_content": "Boris Johnson promises to \"throw everything\" at the expanded jab rollout to beat the Omicron variant.",
+        "concepts": [
+            {
+                "word": "Booster",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "offer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "England",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "adults",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "end",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "January",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Booster offer for England adults by end of January",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59481992",
+        "content": "Boris Johnson promises to \"throw everything\" at the expanded jab rollout to beat the Omicron variant.",
+        "placed": "Politics",
+        "epoch": 1638298804.330907,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "Booster offer for England adults by end of January",
+        "en_content": "Boris Johnson promises to \"throw everything\" at the expanded jab rollout to beat the Omicron variant.",
+        "concepts": [
+            {
+                "word": "Booster",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "offer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "England",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "adults",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "end",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "January",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "No investigation into Cox over Commons office use",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59475547",
+        "content": "The Tory MP was accused of breaking rules by using his parliamentary office for paid legal work.",
+        "placed": "Politics",
+        "epoch": 1638298804.3309271,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "No investigation into Cox over Commons office use",
+        "en_content": "The Tory MP was accused of breaking rules by using his parliamentary office for paid legal work.",
+        "concepts": [
+            {
+                "word": "investigation",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Cox",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Commons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "office",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "use",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "France to propose UK deal to tackle migrant crisis",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59477011",
+        "content": "The French PM will write to Boris Johnson without tweeting the letter, the interior minister said.",
+        "placed": "Politics",
+        "epoch": 1638298804.3309445,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "France to propose UK deal to tackle migrant crisis",
+        "en_content": "The French PM will write to Boris Johnson without tweeting the letter, the interior minister said.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crisis",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Covid inquiry must probe 111 helpline, say bereaved",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59474068",
+        "content": "Members of the campaign group say the service \"failed to recognise\" how ill their relatives were.",
+        "placed": "Politics",
+        "epoch": 1638298804.3309603,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "Covid inquiry must probe 111 helpline, say bereaved",
+        "en_content": "Members of the campaign group say the service \"failed to recognise\" how ill their relatives were.",
+        "concepts": [
+            {
+                "word": "inquiry",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "helpline",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MI6 boss warns of China 'debt traps and data traps'",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59474365",
+        "content": "Richard Moore also denies the fall of Kabul was an intelligence failure in a BBC Radio 4 interview.",
+        "placed": "Politics",
+        "epoch": 1638298804.3309755,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "MI6 boss warns of China 'debt traps and data traps'",
+        "en_content": "Richard Moore also denies the fall of Kabul was an intelligence failure in a BBC Radio 4 interview.",
+        "concepts": [
+            {
+                "word": "MI6",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "debt",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "traps",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "traps",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Yvette Cooper joins Labour's top team in reshuffle",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59461674",
+        "content": "Sir Keir Starmer makes big changes to his shadow cabinet, for the second time as Labour leader.",
+        "placed": "Politics",
+        "epoch": 1638298804.3309906,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "Yvette Cooper joins Labour's top team in reshuffle",
+        "en_content": "Sir Keir Starmer makes big changes to his shadow cabinet, for the second time as Labour leader.",
+        "concepts": [
+            {
+                "word": "Yvette",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cooper",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Labour",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "team",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "reshuffle",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59481992",
+        "content": "Boris Johnson promises to \"throw everything\" at the expanded jab rollout to beat the Omicron variant.",
+        "placed": "Politics",
+        "epoch": 1638298804.331005,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "Political editor",
+        "en_content": "Boris Johnson promises to \"throw everything\" at the expanded jab rollout to beat the Omicron variant.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Booster offer for England adults by end of January",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59475547",
+        "content": "The Tory MP was accused of breaking rules by using his parliamentary office for paid legal work.",
+        "placed": "Politics",
+        "epoch": 1638298804.3310194,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "Booster offer for England adults by end of January",
+        "en_content": "The Tory MP was accused of breaking rules by using his parliamentary office for paid legal work.",
+        "concepts": [
+            {
+                "word": "Booster",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "offer",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "England",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "adults",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "end",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "January",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "No investigation into Cox over Commons office use",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59477011",
+        "content": "The French PM will write to Boris Johnson without tweeting the letter, the interior minister said.",
+        "placed": "Politics",
+        "epoch": 1638298804.3310342,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "No investigation into Cox over Commons office use",
+        "en_content": "The French PM will write to Boris Johnson without tweeting the letter, the interior minister said.",
+        "concepts": [
+            {
+                "word": "investigation",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Cox",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Commons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "office",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "use",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "France to propose UK deal to tackle migrant crisis",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59474068",
+        "content": "Members of the campaign group say the service \"failed to recognise\" how ill their relatives were.",
+        "placed": "Politics",
+        "epoch": 1638298804.3310485,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "France to propose UK deal to tackle migrant crisis",
+        "en_content": "Members of the campaign group say the service \"failed to recognise\" how ill their relatives were.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "crisis",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Covid inquiry must probe 111 helpline, say bereaved",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59474365",
+        "content": "Richard Moore also denies the fall of Kabul was an intelligence failure in a BBC Radio 4 interview.",
+        "placed": "Politics",
+        "epoch": 1638298804.331063,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "Covid inquiry must probe 111 helpline, say bereaved",
+        "en_content": "Richard Moore also denies the fall of Kabul was an intelligence failure in a BBC Radio 4 interview.",
+        "concepts": [
+            {
+                "word": "inquiry",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "helpline",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MI6 boss warns of China 'debt traps and data traps'",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59461674",
+        "content": "Sir Keir Starmer makes big changes to his shadow cabinet, for the second time as Labour leader.",
+        "placed": "Politics",
+        "epoch": 1638298804.3310776,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "MI6 boss warns of China 'debt traps and data traps'",
+        "en_content": "Sir Keir Starmer makes big changes to his shadow cabinet, for the second time as Labour leader.",
+        "concepts": [
+            {
+                "word": "MI6",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "debt",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "traps",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "data",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "traps",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Yvette Cooper joins Labour's top team in reshuffle",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59475547",
+        "content": "The Tory MP was accused of breaking rules by using his parliamentary office for paid legal work.",
+        "placed": "Politics",
+        "epoch": 1638298804.331092,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "Yvette Cooper joins Labour's top team in reshuffle",
+        "en_content": "The Tory MP was accused of breaking rules by using his parliamentary office for paid legal work.",
+        "concepts": [
+            {
+                "word": "Yvette",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Cooper",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Labour",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "team",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "reshuffle",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59477011",
+        "content": "The French PM will write to Boris Johnson without tweeting the letter, the interior minister said.",
+        "placed": "Politics",
+        "epoch": 1638298804.331106,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "Political editor",
+        "en_content": "The French PM will write to Boris Johnson without tweeting the letter, the interior minister said.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "No investigation into Cox over Commons office use",
+        "date": "2021-11-30",
+        "date_raw": "2021-11-30",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59474068",
+        "content": "Members of the campaign group say the service \"failed to recognise\" how ill their relatives were.",
+        "placed": "Politics",
+        "epoch": 1638298804.33112,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-30T20.00.04E1638298804.3311336.json",
+        "en_title": "No investigation into Cox over Commons office use",
+        "en_content": "Members of the campaign group say the service \"failed to recognise\" how ill their relatives were.",
+        "concepts": [
+            {
+                "word": "investigation",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Cox",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Commons",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "office",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "use",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

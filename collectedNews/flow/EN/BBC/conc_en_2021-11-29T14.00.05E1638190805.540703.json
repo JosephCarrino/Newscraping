@@ -1,0 +1,663 @@
+[
+    {
+        "title": "Starmer begins reshuffle of Labour shadow cabinet",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59461674",
+        "content": "Deputy Angela Rayner says she doesn't \"know the details\", as the Labour leader reorganises his frontbench.",
+        "placed": "Politics",
+        "epoch": 1638190805.5403972,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Starmer begins reshuffle of Labour shadow cabinet",
+        "en_content": "Deputy Angela Rayner says she doesn't \"know the details\", as the Labour leader reorganises his frontbench.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "reshuffle",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shadow",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cabinet",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Starmer begins reshuffle of Labour shadow cabinet",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59461674",
+        "content": "Deputy Angela Rayner says she doesn't \"know the details\", as the Labour leader reorganises his frontbench.",
+        "placed": "Politics",
+        "epoch": 1638190805.5404272,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Starmer begins reshuffle of Labour shadow cabinet",
+        "en_content": "Deputy Angela Rayner says she doesn't \"know the details\", as the Labour leader reorganises his frontbench.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "reshuffle",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shadow",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cabinet",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour demands minister conduct rules overhaul",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59455071",
+        "content": "The call comes as the Commons Standards Committee prepares to publish its review of the code for MPs.",
+        "placed": "Politics",
+        "epoch": 1638190805.5404468,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Labour demands minister conduct rules overhaul",
+        "en_content": "The call comes as the Commons Standards Committee prepares to publish its review of the code for MPs.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rules",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Scientists to announce advice on booster rollout",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59455914",
+        "content": "A reduction in time between doses and extending the scheme to younger age groups could be approved.",
+        "placed": "Politics",
+        "epoch": 1638190805.5404637,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Scientists to announce advice on booster rollout",
+        "en_content": "A reduction in time between doses and extending the scheme to younger age groups could be approved.",
+        "concepts": [
+            {
+                "word": "Scientists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "advice",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "booster",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rollout",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "More work needed to create green jobs, report says",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59430224",
+        "content": "Efforts to create \"green jobs\" need to intensify if the government is to meet its target, a report says.",
+        "placed": "Politics",
+        "epoch": 1638190805.5404797,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "More work needed to create green jobs, report says",
+        "en_content": "Efforts to create \"green jobs\" need to intensify if the government is to meet its target, a report says.",
+        "concepts": [
+            {
+                "word": "work",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "jobs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "report",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Javid defends 'swift action' on Omicron variant",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59449480",
+        "content": "The health secretary says mask rules and travel tests will help to protect Christmas celebrations.",
+        "placed": "Politics",
+        "epoch": 1638190805.5405,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Javid defends 'swift action' on Omicron variant",
+        "en_content": "The health secretary says mask rules and travel tests will help to protect Christmas celebrations.",
+        "concepts": [
+            {
+                "word": "Javid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dorries criticised for doubting PM dad grope claim",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59451874",
+        "content": "MP Caroline Nokes says she is disappointed after the culture secretary dismisses her Stanley Johnson claim.",
+        "placed": "Politics",
+        "epoch": 1638190805.5405154,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Dorries criticised for doubting PM dad grope claim",
+        "en_content": "MP Caroline Nokes says she is disappointed after the culture secretary dismisses her Stanley Johnson claim.",
+        "concepts": [
+            {
+                "word": "Dorries",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "dad",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "grope",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claim",
+                "meaning": "punct",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Does Nicola Sturgeon's legacy rely on indyref2?",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59453148",
+        "content": "Nicola Sturgeon still aims to deliver independence - but is her legacy as first minister secure even without it?",
+        "placed": "Politics",
+        "epoch": 1638190805.54053,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Does Nicola Sturgeon's legacy rely on indyref2?",
+        "en_content": "Nicola Sturgeon still aims to deliver independence - but is her legacy as first minister secure even without it?",
+        "concepts": [
+            {
+                "word": "Nicola",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sturgeon",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "legacy",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "indyref2",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Starmer begins reshuffle of Labour shadow cabinet",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59461674",
+        "content": "Deputy Angela Rayner says she doesn't \"know the details\", as the Labour leader reorganises his frontbench.",
+        "placed": "Politics",
+        "epoch": 1638190805.5405467,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Starmer begins reshuffle of Labour shadow cabinet",
+        "en_content": "Deputy Angela Rayner says she doesn't \"know the details\", as the Labour leader reorganises his frontbench.",
+        "concepts": [
+            {
+                "word": "Starmer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "reshuffle",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shadow",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cabinet",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour demands minister conduct rules overhaul",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59455071",
+        "content": "The call comes as the Commons Standards Committee prepares to publish its review of the code for MPs.",
+        "placed": "Politics",
+        "epoch": 1638190805.540562,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Labour demands minister conduct rules overhaul",
+        "en_content": "The call comes as the Commons Standards Committee prepares to publish its review of the code for MPs.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rules",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Scientists to announce advice on booster rollout",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59455914",
+        "content": "A reduction in time between doses and extending the scheme to younger age groups could be approved.",
+        "placed": "Politics",
+        "epoch": 1638190805.5405762,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Scientists to announce advice on booster rollout",
+        "en_content": "A reduction in time between doses and extending the scheme to younger age groups could be approved.",
+        "concepts": [
+            {
+                "word": "Scientists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "advice",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "booster",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rollout",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "More work needed to create green jobs, report says",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59430224",
+        "content": "Efforts to create \"green jobs\" need to intensify if the government is to meet its target, a report says.",
+        "placed": "Politics",
+        "epoch": 1638190805.540591,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "More work needed to create green jobs, report says",
+        "en_content": "Efforts to create \"green jobs\" need to intensify if the government is to meet its target, a report says.",
+        "concepts": [
+            {
+                "word": "work",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "jobs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "report",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Javid defends 'swift action' on Omicron variant",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59449480",
+        "content": "The health secretary says mask rules and travel tests will help to protect Christmas celebrations.",
+        "placed": "Politics",
+        "epoch": 1638190805.5406094,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Javid defends 'swift action' on Omicron variant",
+        "en_content": "The health secretary says mask rules and travel tests will help to protect Christmas celebrations.",
+        "concepts": [
+            {
+                "word": "Javid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "action",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dorries criticised for doubting PM dad grope claim",
+        "date": "2021-11-28",
+        "date_raw": "2021-11-28",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59451874",
+        "content": "MP Caroline Nokes says she is disappointed after the culture secretary dismisses her Stanley Johnson claim.",
+        "placed": "Politics",
+        "epoch": 1638190805.5406241,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Dorries criticised for doubting PM dad grope claim",
+        "en_content": "MP Caroline Nokes says she is disappointed after the culture secretary dismisses her Stanley Johnson claim.",
+        "concepts": [
+            {
+                "word": "Dorries",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "dad",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "grope",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claim",
+                "meaning": "punct",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Does Nicola Sturgeon's legacy rely on indyref2?",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59453148",
+        "content": "Nicola Sturgeon still aims to deliver independence - but is her legacy as first minister secure even without it?",
+        "placed": "Politics",
+        "epoch": 1638190805.5406392,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Does Nicola Sturgeon's legacy rely on indyref2?",
+        "en_content": "Nicola Sturgeon still aims to deliver independence - but is her legacy as first minister secure even without it?",
+        "concepts": [
+            {
+                "word": "Nicola",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sturgeon",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "legacy",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "indyref2",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Labour demands minister conduct rules overhaul",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59455071",
+        "content": "The call comes as the Commons Standards Committee prepares to publish its review of the code for MPs.",
+        "placed": "Politics",
+        "epoch": 1638190805.540659,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Labour demands minister conduct rules overhaul",
+        "en_content": "The call comes as the Commons Standards Committee prepares to publish its review of the code for MPs.",
+        "concepts": [
+            {
+                "word": "Labour",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rules",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Scientists to announce advice on booster rollout",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59455914",
+        "content": "A reduction in time between doses and extending the scheme to younger age groups could be approved.",
+        "placed": "Politics",
+        "epoch": 1638190805.5406742,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "Scientists to announce advice on booster rollout",
+        "en_content": "A reduction in time between doses and extending the scheme to younger age groups could be approved.",
+        "concepts": [
+            {
+                "word": "Scientists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "advice",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "booster",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rollout",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "More work needed to create green jobs, report says",
+        "date": "2021-11-29",
+        "date_raw": "2021-11-29",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59430224",
+        "content": "Efforts to create \"green jobs\" need to intensify if the government is to meet its target, a report says.",
+        "placed": "Politics",
+        "epoch": 1638190805.540689,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-29T14.00.05E1638190805.540703.json",
+        "en_title": "More work needed to create green jobs, report says",
+        "en_content": "Efforts to create \"green jobs\" need to intensify if the government is to meet its target, a report says.",
+        "concepts": [
+            {
+                "word": "work",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "jobs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "report",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

@@ -1,0 +1,673 @@
+[
+    {
+        "title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59549868",
+        "content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "placed": "First_Page",
+        "epoch": 1638860403.0549142,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "en_content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "concepts": [
+            {
+                "word": "Whistleblower",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "chaos",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59549868",
+        "content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "placed": "First_Page",
+        "epoch": 1638860403.0549495,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Whistleblower describes 'chaos' of UK Afghan exit",
+        "en_content": "Thousands of pleas for help went unread and the foreign secretary lacked urgency, an ex-official says.",
+        "concepts": [
+            {
+                "word": "Whistleblower",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "chaos",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US diplomats to boycott 2022 Beijing Olympics",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59556613",
+        "content": "The White House says no US diplomats will attend the games in China, over human rights concerns.",
+        "placed": "First_Page",
+        "epoch": 1638860403.054973,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "US diplomats to boycott 2022 Beijing Olympics",
+        "en_content": "The White House says no US diplomats will attend the games in China, over human rights concerns.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "diplomats",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Beijing",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Olympics",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Facebook sued for $150bn over Rohingya hate speech",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59558090",
+        "content": "The social media giant is accused of fuelling violence against the persecuted minority in Myanmar.",
+        "placed": "First_Page",
+        "epoch": 1638860403.0549924,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Facebook sued for $150bn over Rohingya hate speech",
+        "en_content": "The social media giant is accused of fuelling violence against the persecuted minority in Myanmar.",
+        "concepts": [
+            {
+                "word": "Facebook",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "150bn",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Rohingya",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "speech",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Maxwell 'gave schoolgirl outfit to Epstein victim'",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59557022",
+        "content": "An accuser says the socialite suggested she dress up to serve tea to paedophile Jeffrey Epstein.",
+        "placed": "First_Page",
+        "epoch": 1638860403.0550108,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Maxwell 'gave schoolgirl outfit to Epstein victim'",
+        "en_content": "An accuser says the socialite suggested she dress up to serve tea to paedophile Jeffrey Epstein.",
+        "concepts": [
+            {
+                "word": "Maxwell",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "outfit",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Epstein",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victim",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "BBC 100 women: Who is on the list?",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59510523",
+        "content": "Hollywood legend Mel Brooks discusses love, life and bad taste as his autobiography is published.",
+        "placed": "First_Page",
+        "epoch": 1638860403.0550232,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "BBC 100 women: Who is on the list?",
+        "en_content": "Hollywood legend Mel Brooks discusses love, life and bad taste as his autobiography is published.",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "women",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "list",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Mel Brooks looks back at a life in 'bad taste'",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59558099",
+        "content": "The US and its European allies urge Moscow to de-escalate, amid fears it could invade Ukraine.",
+        "placed": "First_Page",
+        "epoch": 1638860403.0550418,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Mel Brooks looks back at a life in 'bad taste'",
+        "en_content": "The US and its European allies urge Moscow to de-escalate, amid fears it could invade Ukraine.",
+        "concepts": [
+            {
+                "word": "Mel",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Brooks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "life",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "taste",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Western powers back Ukraine amid invasion fears",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59544221",
+        "content": "Peter Foster was declared a fugitive six months ago after allegedly skipping bail on fraud charges.",
+        "placed": "First_Page",
+        "epoch": 1638860403.0550594,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Western powers back Ukraine amid invasion fears",
+        "en_content": "Peter Foster was declared a fugitive six months ago after allegedly skipping bail on fraud charges.",
+        "concepts": [
+            {
+                "word": "powers",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "invasion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fears",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Australian conman caught after six-month manhunt",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59555141",
+        "content": "The Canadian province of Quebec produces 70% of the world's maple syrup supply.",
+        "placed": "First_Page",
+        "epoch": 1638860403.0550766,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Australian conman caught after six-month manhunt",
+        "en_content": "The Canadian province of Quebec produces 70% of the world's maple syrup supply.",
+        "concepts": [
+            {
+                "word": "conman",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "month",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "manhunt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Canada taps into emergency maple syrup reserves",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59558121",
+        "content": "The justice department says there is \"insufficient evidence\" to back a writer's claim a witness lied.",
+        "placed": "First_Page",
+        "epoch": 1638860403.0550935,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Canada taps into emergency maple syrup reserves",
+        "en_content": "The justice department says there is \"insufficient evidence\" to back a writer's claim a witness lied.",
+        "concepts": [
+            {
+                "word": "Canada",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "taps",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "emergency",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "maple",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "syrup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reserves",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US shuts Emmett Till investigation without charges",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59370672",
+        "content": "One Cathay Pacific pilot said he had spent almost 150 days in quarantine this year alone.",
+        "placed": "First_Page",
+        "epoch": 1638860403.05511,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "US shuts Emmett Till investigation without charges",
+        "en_content": "One Cathay Pacific pilot said he had spent almost 150 days in quarantine this year alone.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Emmett",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Till",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "investigation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "charges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Hong Kong pilots stuck in 'perpetual quarantine'",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59558121",
+        "content": "The justice department says there is \"insufficient evidence\" to back a writer's claim a witness lied.",
+        "placed": "First_Page",
+        "epoch": 1638860403.055126,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Hong Kong pilots stuck in 'perpetual quarantine'",
+        "en_content": "The justice department says there is \"insufficient evidence\" to back a writer's claim a witness lied.",
+        "concepts": [
+            {
+                "word": "Hong",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kong",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pilots",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "quarantine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US shuts Emmett Till investigation without charges",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59370672",
+        "content": "One Cathay Pacific pilot said he had spent almost 150 days in quarantine this year alone.",
+        "placed": "First_Page",
+        "epoch": 1638860403.0551422,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "US shuts Emmett Till investigation without charges",
+        "en_content": "One Cathay Pacific pilot said he had spent almost 150 days in quarantine this year alone.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Emmett",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Till",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "investigation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "charges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Hong Kong pilots stuck in 'perpetual quarantine'",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59553764",
+        "content": "Watch as this survivor describes how he escaped the deadly Mt Semeru eruption in Indonesia.",
+        "placed": "First_Page",
+        "epoch": 1638860403.055158,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Hong Kong pilots stuck in 'perpetual quarantine'",
+        "en_content": "Watch as this survivor describes how he escaped the deadly Mt Semeru eruption in Indonesia.",
+        "concepts": [
+            {
+                "word": "Hong",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Kong",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pilots",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "quarantine",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'The volcanic ash and smoke was choking'",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59553460",
+        "content": "The new variant is spreading in multiple regions of England, the health secretary confirms. ",
+        "placed": "First_Page",
+        "epoch": 1638860403.055167,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "'The volcanic ash and smoke was choking'",
+        "en_content": "The new variant is spreading in multiple regions of England, the health secretary confirms. ",
+        "concepts": [
+            {
+                "word": "ash",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "smoke",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Omicron spreading in the community, UK's Javid says",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59554591",
+        "content": "At the weekend the Trump Media and Technology Group said it had secured $1bn of investment.",
+        "placed": "First_Page",
+        "epoch": 1638860403.0551832,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Omicron spreading in the community, UK's Javid says",
+        "en_content": "At the weekend the Trump Media and Technology Group said it had secured $1bn of investment.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "community",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "UK",
+                "meaning": "poss",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Javid",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Wall Street watchdogs probe Trump media firm deal",
+        "date": "2021-12-06",
+        "date_raw": "2021-12-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59453143",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638860403.055199,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "Wall Street watchdogs probe Trump media firm deal",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "Wall",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Street",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "watchdogs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "media",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "firm",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'Dreams of pursuing my education now feel futile'",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59519160",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638860403.055215,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T08.00.03E1638860403.0552404.json",
+        "en_title": "'Dreams of pursuing my education now feel futile'",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Dreams",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "education",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

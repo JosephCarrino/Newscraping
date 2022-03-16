@@ -1,0 +1,730 @@
+[
+    {
+        "title": "Doubt cast on email from Chinese tennis star",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59325399",
+        "content": "The head of the WTA says he has a \"hard time believing\" email attributed to Peng Shuai is from her.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3090575,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "Doubt cast on email from Chinese tennis star",
+        "en_content": "The head of the WTA says he has a \"hard time believing\" email attributed to Peng Shuai is from her.",
+        "concepts": [
+            {
+                "word": "Doubt",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "email",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Doubt cast on email from Chinese tennis star",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59325399",
+        "content": "The head of the WTA says he has a \"hard time believing\" email attributed to Peng Shuai is from her.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3090994,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "Doubt cast on email from Chinese tennis star",
+        "en_content": "The head of the WTA says he has a \"hard time believing\" email attributed to Peng Shuai is from her.",
+        "concepts": [
+            {
+                "word": "Doubt",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "email",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "No reason for Alec Baldwin to fire gun - lawsuit",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59328040",
+        "content": "A crew member is suing the actor over the fatal on-set shooting of cinematographer Halyna Hutchins.",
+        "placed": "First_Page",
+        "epoch": 1637197203.309126,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "No reason for Alec Baldwin to fire gun - lawsuit",
+        "en_content": "A crew member is suing the actor over the fatal on-set shooting of cinematographer Halyna Hutchins.",
+        "concepts": [
+            {
+                "word": "reason",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Alec",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Baldwin",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "gun",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawsuit",
+                "meaning": "npadvmod",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "State of emergency declared after Canada storm",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59324764",
+        "content": "British Columbia was hit with a major storm this week that cut transport links.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3091478,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "State of emergency declared after Canada storm",
+        "en_content": "British Columbia was hit with a major storm this week that cut transport links.",
+        "concepts": [
+            {
+                "word": "State",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "emergency",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Canada",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "storm",
+                "meaning": "advcl",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Cows rescued from storm floods by jet ski",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59324640",
+        "content": "People had to move cows to higher ground after devastating flooding in Canada's British Columbia.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3091607,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "Cows rescued from storm floods by jet ski",
+        "en_content": "People had to move cows to higher ground after devastating flooding in Canada's British Columbia.",
+        "concepts": [
+            {
+                "word": "Cows",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "storm",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "floods",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "jet",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "ski",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Germany hit by full force of Covid, warns Merkel",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59320515",
+        "content": "The chancellor speaks of a dramatic situation as European governments respond to a surge in cases.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3091772,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "Germany hit by full force of Covid, warns Merkel",
+        "en_content": "The chancellor speaks of a dramatic situation as European governments respond to a surge in cases.",
+        "concepts": [
+            {
+                "word": "Germany",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "force",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "What England's cricket racism scandal is all about",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59316567",
+        "content": "Azeem Rafiq says he faced years of racist abuse while playing for Yorkshire Cricket Club.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3091917,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "What England's cricket racism scandal is all about",
+        "en_content": "Azeem Rafiq says he faced years of racist abuse while playing for Yorkshire Cricket Club.",
+        "concepts": [
+            {
+                "word": "England",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cricket",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "racism",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scandal",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Young Dolph fatally shot at Memphis cookie store",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59328402",
+        "content": "Stars such as Megan Thee Stallion and Chance The Rapper are paying tribute to the rap star.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3092067,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "Young Dolph fatally shot at Memphis cookie store",
+        "en_content": "Stars such as Megan Thee Stallion and Chance The Rapper are paying tribute to the rap star.",
+        "concepts": [
+            {
+                "word": "Young",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Dolph",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Memphis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cookie",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "store",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tourists pay price for sneaky Colosseum beer",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59325398",
+        "content": "A pair of American visitors are fined for sneaking into Rome's Colosseum for a beer with a view.",
+        "placed": "First_Page",
+        "epoch": 1637197203.309221,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "Tourists pay price for sneaky Colosseum beer",
+        "en_content": "A pair of American visitors are fined for sneaking into Rome's Colosseum for a beer with a view.",
+        "concepts": [
+            {
+                "word": "Tourists",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "price",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Colosseum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "beer",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Belarus moves migrants stuck in border stand-off",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59317306",
+        "content": "About 1,000 migrants are offered shelter from the cold after camping at the Belarus-Poland border.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3092358,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "Belarus moves migrants stuck in border stand-off",
+        "en_content": "About 1,000 migrants are offered shelter from the cold after camping at the Belarus-Poland border.",
+        "concepts": [
+            {
+                "word": "Belarus",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "migrants",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "off",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US drug overdose deaths hit record levels",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59253091",
+        "content": "Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3092499,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "US drug overdose deaths hit record levels",
+        "en_content": "Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "overdose",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "record",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "levels",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Malcolm X murder convictions to be quashed",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59327673",
+        "content": "Two of the men convicted of the 1965 killing did not get the justice they deserved, prosecutor says.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3092635,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "Malcolm X murder convictions to be quashed",
+        "en_content": "Two of the men convicted of the 1965 killing did not get the justice they deserved, prosecutor says.",
+        "concepts": [
+            {
+                "word": "Malcolm",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "X",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "convictions",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US drug overdose deaths hit record levels",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59253091",
+        "content": "Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3092773,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "US drug overdose deaths hit record levels",
+        "en_content": "Experts say the pandemic and an increase in synthetic opioids like fentanyl contributed to the rise.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "overdose",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "record",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "levels",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Malcolm X murder convictions to be quashed",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59327673",
+        "content": "Two of the men convicted of the 1965 killing did not get the justice they deserved, prosecutor says.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3092906,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "Malcolm X murder convictions to be quashed",
+        "en_content": "Two of the men convicted of the 1965 killing did not get the justice they deserved, prosecutor says.",
+        "concepts": [
+            {
+                "word": "Malcolm",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "X",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "convictions",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Steve Bannon pleads not guilty to contempt charge",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59327553",
+        "content": "The former Trump strategist had refused to testify to a committee investigating US Capitol riot.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3093042,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "Steve Bannon pleads not guilty to contempt charge",
+        "en_content": "The former Trump strategist had refused to testify to a committee investigating US Capitol riot.",
+        "concepts": [
+            {
+                "word": "Steve",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bannon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "charge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US Congress punishes lawmaker over violent clip",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59314792",
+        "content": "Republican Paul Gosar tweeted a video depicting sword attacks on Joe Biden and a congresswoman.",
+        "placed": "First_Page",
+        "epoch": 1637197203.309318,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "US Congress punishes lawmaker over violent clip",
+        "en_content": "Republican Paul Gosar tweeted a video depicting sword attacks on Joe Biden and a congresswoman.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Congress",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "lawmaker",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "clip",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Investigation after UK F-35 fighter crashes in sea",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59323895",
+        "content": "The pilot ejected and has safely returned to the aircraft carrier HMS Queen Elizabeth, the MoD says.",
+        "placed": "First_Page",
+        "epoch": 1637197203.3093376,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "Investigation after UK F-35 fighter crashes in sea",
+        "en_content": "The pilot ejected and has safely returned to the aircraft carrier HMS Queen Elizabeth, the MoD says.",
+        "concepts": [
+            {
+                "word": "Investigation",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "fighter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crashes",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sea",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'I wanted to cry and quit': The 'world's hardest' exams",
+        "date": "2021-11-17",
+        "date_raw": "2021-11-17",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59315684",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1637197203.3093517,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "'I wanted to cry and quit': The 'world's hardest' exams",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "world",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exams",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "BBC World News TV",
+        "date": "2021-11-18",
+        "date_raw": "2021-11-18",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world_radio_and_tv",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1637197203.3093665,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-18T02.00.03E1637197203.3093896.json",
+        "en_title": "BBC World News TV",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "News",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "TV",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

@@ -1,0 +1,589 @@
+[
+    {
+        "title": "The Pope praises Sir David Amess at funeral Mass",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-essex-59386018",
+        "content": "A Mass is held at Westminster Cathedral for the MP who was killed in his constituency last month.",
+        "placed": "Politics",
+        "epoch": 1637694004.0651295,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "The Pope praises Sir David Amess at funeral Mass",
+        "en_content": "A Mass is held at Westminster Cathedral for the MP who was killed in his constituency last month.",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sir",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "David",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Amess",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mass",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The Pope praises Sir David Amess at funeral Mass",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-essex-59386018",
+        "content": "A Mass is held at Westminster Cathedral for the MP who was killed in his constituency last month.",
+        "placed": "Politics",
+        "epoch": 1637694004.0651689,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "The Pope praises Sir David Amess at funeral Mass",
+        "en_content": "A Mass is held at Westminster Cathedral for the MP who was killed in his constituency last month.",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sir",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "David",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Amess",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mass",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "No extension to Scottish vaccine passport scheme",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59389834",
+        "content": "Nicola Sturgeon says the scheme will not be extended to cinemas and theatres, as had been widely expected.",
+        "placed": "Politics",
+        "epoch": 1637694004.065191,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "No extension to Scottish vaccine passport scheme",
+        "en_content": "Nicola Sturgeon says the scheme will not be extended to cinemas and theatres, as had been widely expected.",
+        "concepts": [
+            {
+                "word": "extension",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "passport",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scheme",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MP shunned by some after Stanley Johnson allegation",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59386059",
+        "content": "Caroline Nokes says she was \"sent to Coventry\" after claiming the PM's father touched her inappropriately.",
+        "placed": "Politics",
+        "epoch": 1637694004.065208,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "MP shunned by some after Stanley Johnson allegation",
+        "en_content": "Caroline Nokes says she was \"sent to Coventry\" after claiming the PM's father touched her inappropriately.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Stanley",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "allegation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs back change to social care funding in England",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59365729",
+        "content": "Critics say altering the way the cap will be calculated could disproportionately hit poorer people.",
+        "placed": "Politics",
+        "epoch": 1637694004.0652237,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "MPs back change to social care funding in England",
+        "en_content": "Critics say altering the way the cap will be calculated could disproportionately hit poorer people.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "change",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "funding",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "England",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59382187",
+        "content": "More than a hundred children are living in hotels because of a shortage of places in care homes.",
+        "placed": "Politics",
+        "epoch": 1637694004.0652401,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "Political editor",
+        "en_content": "More than a hundred children are living in hotels because of a shortage of places in care homes.",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Councils to be forced to take child asylum seekers",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-humber-59391582",
+        "content": "Conservative councillor Paul Nickerson apologises and admits his tweet was \"wrong\".",
+        "placed": "Politics",
+        "epoch": 1637694004.0652556,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "Councils to be forced to take child asylum seekers",
+        "en_content": "Conservative councillor Paul Nickerson apologises and admits his tweet was \"wrong\".",
+        "concepts": [
+            {
+                "word": "Councils",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "child",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "asylum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seekers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Defamatory tweet councillor to pay Corbyn damages",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-essex-59386018",
+        "content": "A Mass is held at Westminster Cathedral for the MP who was killed in his constituency last month.",
+        "placed": "Politics",
+        "epoch": 1637694004.0652704,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "Defamatory tweet councillor to pay Corbyn damages",
+        "en_content": "A Mass is held at Westminster Cathedral for the MP who was killed in his constituency last month.",
+        "concepts": [
+            {
+                "word": "tweet",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "councillor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Corbyn",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "damages",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The Pope praises Sir David Amess at funeral Mass",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59389834",
+        "content": "Nicola Sturgeon says the scheme will not be extended to cinemas and theatres, as had been widely expected.",
+        "placed": "Politics",
+        "epoch": 1637694004.0652854,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "The Pope praises Sir David Amess at funeral Mass",
+        "en_content": "Nicola Sturgeon says the scheme will not be extended to cinemas and theatres, as had been widely expected.",
+        "concepts": [
+            {
+                "word": "Pope",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sir",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "David",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Amess",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Mass",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "No extension to Scottish vaccine passport scheme",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59386059",
+        "content": "Caroline Nokes says she was \"sent to Coventry\" after claiming the PM's father touched her inappropriately.",
+        "placed": "Politics",
+        "epoch": 1637694004.0653,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "No extension to Scottish vaccine passport scheme",
+        "en_content": "Caroline Nokes says she was \"sent to Coventry\" after claiming the PM's father touched her inappropriately.",
+        "concepts": [
+            {
+                "word": "extension",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "passport",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scheme",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MP shunned by some after Stanley Johnson allegation",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59365729",
+        "content": "Critics say altering the way the cap will be calculated could disproportionately hit poorer people.",
+        "placed": "Politics",
+        "epoch": 1637694004.0653143,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "MP shunned by some after Stanley Johnson allegation",
+        "en_content": "Critics say altering the way the cap will be calculated could disproportionately hit poorer people.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Stanley",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Johnson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "allegation",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "MPs back change to social care funding in England",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59382187",
+        "content": "More than a hundred children are living in hotels because of a shortage of places in care homes.",
+        "placed": "Politics",
+        "epoch": 1637694004.0653293,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "MPs back change to social care funding in England",
+        "en_content": "More than a hundred children are living in hotels because of a shortage of places in care homes.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "change",
+                "meaning": "appos",
+                "pos": "PROPN"
+            },
+            {
+                "word": "care",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "funding",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "England",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Political editor",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-humber-59391582",
+        "content": "Conservative councillor Paul Nickerson apologises and admits his tweet was \"wrong\".",
+        "placed": "Politics",
+        "epoch": 1637694004.0653439,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "Political editor",
+        "en_content": "Conservative councillor Paul Nickerson apologises and admits his tweet was \"wrong\".",
+        "concepts": [
+            {
+                "word": "editor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Councils to be forced to take child asylum seekers",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59389834",
+        "content": "Nicola Sturgeon says the scheme will not be extended to cinemas and theatres, as had been widely expected.",
+        "placed": "Politics",
+        "epoch": 1637694004.0653586,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "Councils to be forced to take child asylum seekers",
+        "en_content": "Nicola Sturgeon says the scheme will not be extended to cinemas and theatres, as had been widely expected.",
+        "concepts": [
+            {
+                "word": "Councils",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "child",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "asylum",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seekers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Defamatory tweet councillor to pay Corbyn damages",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59386059",
+        "content": "Caroline Nokes says she was \"sent to Coventry\" after claiming the PM's father touched her inappropriately.",
+        "placed": "Politics",
+        "epoch": 1637694004.065373,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "Defamatory tweet councillor to pay Corbyn damages",
+        "en_content": "Caroline Nokes says she was \"sent to Coventry\" after claiming the PM's father touched her inappropriately.",
+        "concepts": [
+            {
+                "word": "tweet",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "councillor",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Corbyn",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "damages",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "No extension to Scottish vaccine passport scheme",
+        "date": "2021-11-23",
+        "date_raw": "2021-11-23",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59365729",
+        "content": "Critics say altering the way the cap will be calculated could disproportionately hit poorer people.",
+        "placed": "Politics",
+        "epoch": 1637694004.065387,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-23T20.00.04E1637694004.0654018.json",
+        "en_title": "No extension to Scottish vaccine passport scheme",
+        "en_content": "Critics say altering the way the cap will be calculated could disproportionately hit poorer people.",
+        "concepts": [
+            {
+                "word": "extension",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "passport",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "scheme",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

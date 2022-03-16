@@ -1,0 +1,633 @@
+[
+    {
+        "title": "UK and France agree need to take action on boats",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59412329",
+        "content": "After at least 27 people die in the Channel, Boris Johnson and Emmanuel Macron say cooperation is needed.",
+        "placed": "Politics",
+        "epoch": 1637823603.118444,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "UK and France agree need to take action on boats",
+        "en_content": "After at least 27 people die in the Channel, Boris Johnson and Emmanuel Macron say cooperation is needed.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "action",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK and France agree need to take action on boats",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59412329",
+        "content": "After at least 27 people die in the Channel, Boris Johnson and Emmanuel Macron say cooperation is needed.",
+        "placed": "Politics",
+        "epoch": 1637823603.11847,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "UK and France agree need to take action on boats",
+        "en_content": "After at least 27 people die in the Channel, Boris Johnson and Emmanuel Macron say cooperation is needed.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "action",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sturgeon dismisses speculation about her future",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59406430",
+        "content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "placed": "Politics",
+        "epoch": 1637823603.118489,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "Sturgeon dismisses speculation about her future",
+        "en_content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "speculation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "future",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "My drink was spiked on night out, says minister",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-sussex-58790190",
+        "content": "Mims Davies calls for tougher government action following her \"absolutely awful\" experience.",
+        "placed": "Politics",
+        "epoch": 1637823603.1185064,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "My drink was spiked on night out, says minister",
+        "en_content": "Mims Davies calls for tougher government action following her \"absolutely awful\" experience.",
+        "concepts": [
+            {
+                "word": "drink",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "night",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Johnson hits back at critics at stormy PMQs",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59399874",
+        "content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "placed": "Politics",
+        "epoch": 1637823603.118522,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "Johnson hits back at critics at stormy PMQs",
+        "en_content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "critics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PMQs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "As it happened: PM questioned over 'broken promises'",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-politics-59401486",
+        "content": "Boris Johnson was quizzed after a Tory rebellion on social care and criticism of a speech to business leaders.",
+        "placed": "Politics",
+        "epoch": 1637823603.1185372,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "As it happened: PM questioned over 'broken promises'",
+        "en_content": "Boris Johnson was quizzed after a Tory rebellion on social care and criticism of a speech to business leaders.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "promises",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PC Andrew Harper's widow wins bid to change law",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-berkshire-59394783",
+        "content": "Ministers back Lissie Harper's campaign to jail those who kill on-duty police and 999 workers for life.",
+        "placed": "Politics",
+        "epoch": 1637823603.1185527,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "PC Andrew Harper's widow wins bid to change law",
+        "en_content": "Ministers back Lissie Harper's campaign to jail those who kill on-duty police and 999 workers for life.",
+        "concepts": [
+            {
+                "word": "PC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Andrew",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Harper",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "widow",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MP's law on Down's care needs moves step closer",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59402153",
+        "content": "A bill proposed by Tory backbencher Liam Fox to guarantee care needs is now expected to become law.",
+        "placed": "Politics",
+        "epoch": 1637823603.1185675,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "MP's law on Down's care needs moves step closer",
+        "en_content": "A bill proposed by Tory backbencher Liam Fox to guarantee care needs is now expected to become law.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Down",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "care",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "moves",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "step",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK and France agree need to take action on boats",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59412329",
+        "content": "After at least 27 people die in the Channel, Boris Johnson and Emmanuel Macron say cooperation is needed.",
+        "placed": "Politics",
+        "epoch": 1637823603.1185822,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "UK and France agree need to take action on boats",
+        "en_content": "After at least 27 people die in the Channel, Boris Johnson and Emmanuel Macron say cooperation is needed.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "France",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "action",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boats",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Sturgeon dismisses speculation about her future",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59406430",
+        "content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "placed": "Politics",
+        "epoch": 1637823603.1185973,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "Sturgeon dismisses speculation about her future",
+        "en_content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "speculation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "future",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "My drink was spiked on night out, says minister",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-sussex-58790190",
+        "content": "Mims Davies calls for tougher government action following her \"absolutely awful\" experience.",
+        "placed": "Politics",
+        "epoch": 1637823603.1186125,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "My drink was spiked on night out, says minister",
+        "en_content": "Mims Davies calls for tougher government action following her \"absolutely awful\" experience.",
+        "concepts": [
+            {
+                "word": "drink",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "night",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Johnson hits back at critics at stormy PMQs",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59399874",
+        "content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "placed": "Politics",
+        "epoch": 1637823603.1186283,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "Johnson hits back at critics at stormy PMQs",
+        "en_content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "critics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PMQs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "As it happened: PM questioned over 'broken promises'",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/live/uk-politics-59401486",
+        "content": "Boris Johnson was quizzed after a Tory rebellion on social care and criticism of a speech to business leaders.",
+        "placed": "Politics",
+        "epoch": 1637823603.118643,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "As it happened: PM questioned over 'broken promises'",
+        "en_content": "Boris Johnson was quizzed after a Tory rebellion on social care and criticism of a speech to business leaders.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "promises",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PC Andrew Harper's widow wins bid to change law",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-berkshire-59394783",
+        "content": "Ministers back Lissie Harper's campaign to jail those who kill on-duty police and 999 workers for life.",
+        "placed": "Politics",
+        "epoch": 1637823603.1186576,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "PC Andrew Harper's widow wins bid to change law",
+        "en_content": "Ministers back Lissie Harper's campaign to jail those who kill on-duty police and 999 workers for life.",
+        "concepts": [
+            {
+                "word": "PC",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Andrew",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Harper",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "widow",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "law",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "MP's law on Down's care needs moves step closer",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59402153",
+        "content": "A bill proposed by Tory backbencher Liam Fox to guarantee care needs is now expected to become law.",
+        "placed": "Politics",
+        "epoch": 1637823603.1186721,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "MP's law on Down's care needs moves step closer",
+        "en_content": "A bill proposed by Tory backbencher Liam Fox to guarantee care needs is now expected to become law.",
+        "concepts": [
+            {
+                "word": "MP",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "law",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Down",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "care",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "moves",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "step",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Sturgeon dismisses speculation about her future",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-scotland-scotland-politics-59406430",
+        "content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "placed": "Politics",
+        "epoch": 1637823603.1186864,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "Sturgeon dismisses speculation about her future",
+        "en_content": "Scotland's first minister says she intends to remain in the job for the full parliamentary term.",
+        "concepts": [
+            {
+                "word": "Sturgeon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "speculation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "future",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "My drink was spiked on night out, says minister",
+        "date": "2021-11-25",
+        "date_raw": "2021-11-25",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-sussex-58790190",
+        "content": "Mims Davies calls for tougher government action following her \"absolutely awful\" experience.",
+        "placed": "Politics",
+        "epoch": 1637823603.118701,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "My drink was spiked on night out, says minister",
+        "en_content": "Mims Davies calls for tougher government action following her \"absolutely awful\" experience.",
+        "concepts": [
+            {
+                "word": "drink",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "night",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "minister",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Johnson hits back at critics at stormy PMQs",
+        "date": "2021-11-24",
+        "date_raw": "2021-11-24",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59399874",
+        "content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "placed": "Politics",
+        "epoch": 1637823603.1187158,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-25T08.00.03E1637823603.1187286.json",
+        "en_title": "Johnson hits back at critics at stormy PMQs",
+        "en_content": "Labour's Keir Starmer accuses the prime minister of \"broken promises\" on social care and rail investment.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "critics",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "PMQs",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

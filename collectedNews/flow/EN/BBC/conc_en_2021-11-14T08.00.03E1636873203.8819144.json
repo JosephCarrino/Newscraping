@@ -1,0 +1,593 @@
+[
+    {
+        "title": "New global climate deal struck in Glasgow",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59277788",
+        "content": "New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal",
+        "placed": "Abroad",
+        "epoch": 1636873203.8815928,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "New global climate deal struck in Glasgow",
+        "en_content": "New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal",
+        "concepts": [
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Glasgow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New global climate deal struck in Glasgow",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59277788",
+        "content": "New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal",
+        "placed": "Abroad",
+        "epoch": 1636873203.881619,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "New global climate deal struck in Glasgow",
+        "en_content": "New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal",
+        "concepts": [
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Glasgow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate deal 'won't save us from drowning'",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59268394",
+        "content": "Young activists on the frontline of climate change explain what the deal struck at COP26 means to them.",
+        "placed": "Abroad",
+        "epoch": 1636873203.8816612,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Climate deal 'won't save us from drowning'",
+        "en_content": "Young activists on the frontline of climate change explain what the deal struck at COP26 means to them.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Gang fight at Ecuador prison leaves 68 dead",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59276428",
+        "content": "Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil.",
+        "placed": "Abroad",
+        "epoch": 1636873203.881678,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Gang fight at Ecuador prison leaves 68 dead",
+        "en_content": "Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil.",
+        "concepts": [
+            {
+                "word": "Gang",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fight",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ecuador",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prison",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fake email messages sent from internal FBI server",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59278277",
+        "content": "The agency is investigating after thousands of messages were sent warning of a possible cyber-attack.",
+        "placed": "Abroad",
+        "epoch": 1636873203.8816943,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Fake email messages sent from internal FBI server",
+        "en_content": "The agency is investigating after thousands of messages were sent warning of a possible cyber-attack.",
+        "concepts": [
+            {
+                "word": "email",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "messages",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "FBI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "server",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Best-selling author Wilbur Smith dies aged 88",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59278275",
+        "content": "The accountant-turned-novelist's 49 books have sold more than 140 million copies worldwide.",
+        "placed": "Abroad",
+        "epoch": 1636873203.8817098,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Best-selling author Wilbur Smith dies aged 88",
+        "en_content": "The accountant-turned-novelist's 49 books have sold more than 140 million copies worldwide.",
+        "concepts": [
+            {
+                "word": "author",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Wilbur",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smith",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "As another lockdown starts, Dutch ask: When will this end?",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59274688",
+        "content": "Most in the Netherlands support a new lockdown-lite, despite anti-lockdown protests making headlines.",
+        "placed": "Abroad",
+        "epoch": 1636873203.881725,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "As another lockdown starts, Dutch ask: When will this end?",
+        "en_content": "Most in the Netherlands support a new lockdown-lite, despite anti-lockdown protests making headlines.",
+        "concepts": [
+            {
+                "word": "lockdown",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ask",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Five deaths reported in fresh Sudan coup protests",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59276274",
+        "content": "Five protesters were killed, medics say, days after military leaders tightened their grip on power.",
+        "placed": "Abroad",
+        "epoch": 1636873203.881741,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Five deaths reported in fresh Sudan coup protests",
+        "en_content": "Five protesters were killed, medics say, days after military leaders tightened their grip on power.",
+        "concepts": [
+            {
+                "word": "deaths",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "New global climate deal struck in Glasgow",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59277788",
+        "content": "New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal",
+        "placed": "Abroad",
+        "epoch": 1636873203.881756,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "New global climate deal struck in Glasgow",
+        "en_content": "New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal",
+        "concepts": [
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Glasgow",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate deal 'won't save us from drowning'",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59268394",
+        "content": "Young activists on the frontline of climate change explain what the deal struck at COP26 means to them.",
+        "placed": "Abroad",
+        "epoch": 1636873203.8817716,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Climate deal 'won't save us from drowning'",
+        "en_content": "Young activists on the frontline of climate change explain what the deal struck at COP26 means to them.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Gang fight at Ecuador prison leaves 68 dead",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59276428",
+        "content": "Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil.",
+        "placed": "Abroad",
+        "epoch": 1636873203.8817952,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Gang fight at Ecuador prison leaves 68 dead",
+        "en_content": "Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil.",
+        "concepts": [
+            {
+                "word": "Gang",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fight",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ecuador",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prison",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fake email messages sent from internal FBI server",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59278277",
+        "content": "The agency is investigating after thousands of messages were sent warning of a possible cyber-attack.",
+        "placed": "Abroad",
+        "epoch": 1636873203.881811,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Fake email messages sent from internal FBI server",
+        "en_content": "The agency is investigating after thousands of messages were sent warning of a possible cyber-attack.",
+        "concepts": [
+            {
+                "word": "email",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "messages",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "FBI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "server",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Best-selling author Wilbur Smith dies aged 88",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59278275",
+        "content": "The accountant-turned-novelist's 49 books have sold more than 140 million copies worldwide.",
+        "placed": "Abroad",
+        "epoch": 1636873203.8818264,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Best-selling author Wilbur Smith dies aged 88",
+        "en_content": "The accountant-turned-novelist's 49 books have sold more than 140 million copies worldwide.",
+        "concepts": [
+            {
+                "word": "author",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Wilbur",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smith",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "As another lockdown starts, Dutch ask: When will this end?",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59274688",
+        "content": "Most in the Netherlands support a new lockdown-lite, despite anti-lockdown protests making headlines.",
+        "placed": "Abroad",
+        "epoch": 1636873203.8818417,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "As another lockdown starts, Dutch ask: When will this end?",
+        "en_content": "Most in the Netherlands support a new lockdown-lite, despite anti-lockdown protests making headlines.",
+        "concepts": [
+            {
+                "word": "lockdown",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ask",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Five deaths reported in fresh Sudan coup protests",
+        "date": "2021-11-13",
+        "date_raw": "2021-11-13",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59276274",
+        "content": "Five protesters were killed, medics say, days after military leaders tightened their grip on power.",
+        "placed": "Abroad",
+        "epoch": 1636873203.8818562,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Five deaths reported in fresh Sudan coup protests",
+        "en_content": "Five protesters were killed, medics say, days after military leaders tightened their grip on power.",
+        "concepts": [
+            {
+                "word": "deaths",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sudan",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "coup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "protests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Climate deal 'won't save us from drowning'",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59268394",
+        "content": "Young activists on the frontline of climate change explain what the deal struck at COP26 means to them.",
+        "placed": "Abroad",
+        "epoch": 1636873203.8818705,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Climate deal 'won't save us from drowning'",
+        "en_content": "Young activists on the frontline of climate change explain what the deal struck at COP26 means to them.",
+        "concepts": [
+            {
+                "word": "Climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Gang fight at Ecuador prison leaves 68 dead",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59276428",
+        "content": "Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil.",
+        "placed": "Abroad",
+        "epoch": 1636873203.8818848,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Gang fight at Ecuador prison leaves 68 dead",
+        "en_content": "Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil.",
+        "concepts": [
+            {
+                "word": "Gang",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fight",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Ecuador",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prison",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Fake email messages sent from internal FBI server",
+        "date": "2021-11-14",
+        "date_raw": "2021-11-14",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59278277",
+        "content": "The agency is investigating after thousands of messages were sent warning of a possible cyber-attack.",
+        "placed": "Abroad",
+        "epoch": 1636873203.8818996,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-14T08.00.03E1636873203.8819144.json",
+        "en_title": "Fake email messages sent from internal FBI server",
+        "en_content": "The agency is investigating after thousands of messages were sent warning of a possible cyber-attack.",
+        "concepts": [
+            {
+                "word": "email",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "messages",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "FBI",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "server",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

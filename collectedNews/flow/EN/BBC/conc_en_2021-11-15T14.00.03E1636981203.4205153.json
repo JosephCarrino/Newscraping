@@ -1,0 +1,673 @@
+[
+    {
+        "title": "UK hospital car blast declared a terror incident",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-merseyside-59291095",
+        "content": "A fourth man is arrested after a taxi explodes outside a Liverpool hospital on Remembrance Sunday.",
+        "placed": "First_Page",
+        "epoch": 1636981203.420075,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "UK hospital car blast declared a terror incident",
+        "en_content": "A fourth man is arrested after a taxi explodes outside a Liverpool hospital on Remembrance Sunday.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hospital",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "car",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "blast",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "terror",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incident",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK hospital car blast declared a terror incident",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-merseyside-59291095",
+        "content": "A fourth man is arrested after a taxi explodes outside a Liverpool hospital on Remembrance Sunday.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4201303,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "UK hospital car blast declared a terror incident",
+        "en_content": "A fourth man is arrested after a taxi explodes outside a Liverpool hospital on Remembrance Sunday.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "hospital",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "car",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "blast",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "terror",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "incident",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "EU to widen Belarus sanctions as border row grows",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59289998",
+        "content": "As EU officials discuss new sanctions, migrants gather in a tense stand-off at the Polish border.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4201574,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "EU to widen Belarus sanctions as border row grows",
+        "en_content": "As EU officials discuss new sanctions, migrants gather in a tense stand-off at the Polish border.",
+        "concepts": [
+            {
+                "word": "EU",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sanctions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "border",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "row",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US journalist Fenster freed from Myanmar jail",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59290412",
+        "content": "Danny Fenster will be allowed to leave the country just days after getting an 11-year sentence.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4201803,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "US journalist Fenster freed from Myanmar jail",
+        "en_content": "Danny Fenster will be allowed to leave the country just days after getting an 11-year sentence.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "journalist",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Fenster",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Myanmar",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jail",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australian women sue over Qatar strip-searches",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59288177",
+        "content": "They are seeking damages after being forced into examinations at Doha airport last year.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4202025,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "Australian women sue over Qatar strip-searches",
+        "en_content": "They are seeking damages after being forced into examinations at Doha airport last year.",
+        "concepts": [
+            {
+                "word": "women",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Qatar",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "strip",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "searches",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Adele tells Oprah: I just didn't want to do it anymore",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59291000",
+        "content": "Award-winning singer Adele describes how she nearly gave up her career following her divorce.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4202194,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "Adele tells Oprah: I just didn't want to do it anymore",
+        "en_content": "Award-winning singer Adele describes how she nearly gave up her career following her divorce.",
+        "concepts": [
+            {
+                "word": "Adele",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Oprah",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Austria places unvaccinated in Covid lockdown",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59283128",
+        "content": "Some two million people are told to stay at home amid growing pressure on hospitals as cases surge.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4202418,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "Austria places unvaccinated in Covid lockdown",
+        "en_content": "Some two million people are told to stay at home amid growing pressure on hospitals as cases surge.",
+        "concepts": [
+            {
+                "word": "Austria",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "places",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "lockdown",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "What Biden and Xi want from virtual summit",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59258375",
+        "content": "The video call on Monday will address several thorny issues, including Taiwan, cybersecurity and trade.",
+        "placed": "First_Page",
+        "epoch": 1636981203.420263,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "What Biden and Xi want from virtual summit",
+        "en_content": "The video call on Monday will address several thorny issues, including Taiwan, cybersecurity and trade.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Xi",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "summit",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Boy, nine, dies in hospital after Astroworld crush",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59286623",
+        "content": "Ezra Blount is the youngest of 10 people killed after panic broke out during rapper Travis Scott's show.",
+        "placed": "First_Page",
+        "epoch": 1636981203.420285,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "Boy, nine, dies in hospital after Astroworld crush",
+        "en_content": "Ezra Blount is the youngest of 10 people killed after panic broke out during rapper Travis Scott's show.",
+        "concepts": [
+            {
+                "word": "hospital",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Astroworld",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Cuba cracks down on dissent ahead of protest",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59289966",
+        "content": "Cuban state security agents are blocking the organiser of a protest march from leaving his home.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4203086,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "Cuba cracks down on dissent ahead of protest",
+        "en_content": "Cuban state security agents are blocking the organiser of a protest march from leaving his home.",
+        "concepts": [
+            {
+                "word": "Cuba",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dissent",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "protest",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Maori tribe tells anti-vaxxers to stop using haka",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59286563",
+        "content": "The popular Ke Mata haka was performed by anti-vaccine protesters during demonstrations last week.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4203308,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "Maori tribe tells anti-vaxxers to stop using haka",
+        "en_content": "The popular Ke Mata haka was performed by anti-vaccine protesters during demonstrations last week.",
+        "concepts": [
+            {
+                "word": "Maori",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tribe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vaxxers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "haka",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Cuba cracks down on dissent ahead of protest",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59289966",
+        "content": "Cuban state security agents are blocking the organiser of a protest march from leaving his home.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4203525,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "Cuba cracks down on dissent ahead of protest",
+        "en_content": "Cuban state security agents are blocking the organiser of a protest march from leaving his home.",
+        "concepts": [
+            {
+                "word": "Cuba",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dissent",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "protest",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Maori tribe tells anti-vaxxers to stop using haka",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59286563",
+        "content": "The popular Ke Mata haka was performed by anti-vaccine protesters during demonstrations last week.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4203753,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "Maori tribe tells anti-vaxxers to stop using haka",
+        "en_content": "The popular Ke Mata haka was performed by anti-vaccine protesters during demonstrations last week.",
+        "concepts": [
+            {
+                "word": "Maori",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tribe",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "vaxxers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "haka",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "UK PM to hold Covid news conference",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/world-59287535",
+        "content": "The JCVI also recommends that 16-17-year-olds in the UK be offered a second vaccine dose.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4203982,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "UK PM to hold Covid news conference",
+        "en_content": "The JCVI also recommends that 16-17-year-olds in the UK be offered a second vaccine dose.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "news",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "conference",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Outrage in China after Covid disinfectors kill dog",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59249485",
+        "content": "The quarantined owner posted video showing one health worker beating her pet with a crowbar.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4204206,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "Outrage in China after Covid disinfectors kill dog",
+        "en_content": "The quarantined owner posted video showing one health worker beating her pet with a crowbar.",
+        "concepts": [
+            {
+                "word": "Outrage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "China",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "disinfectors",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dog",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Young viewers prefer subtitles, research suggests",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59259964",
+        "content": "Youngsters almost four times more likely than older viewers to watch subtitled TV, research suggests.",
+        "placed": "First_Page",
+        "epoch": 1636981203.4204423,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "Young viewers prefer subtitles, research suggests",
+        "en_content": "Youngsters almost four times more likely than older viewers to watch subtitled TV, research suggests.",
+        "concepts": [
+            {
+                "word": "viewers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "subtitles",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "research",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "A watered-down COP26 deal as Delhi chokes",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59286783",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1636981203.4204643,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "A watered-down COP26 deal as Delhi chokes",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "COP26",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Delhi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "COP26 in two minutes: Debate, demos and a deal",
+        "date": "2021-11-15",
+        "date_raw": "2021-11-15",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59277713",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1636981203.420487,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-15T14.00.03E1636981203.4205153.json",
+        "en_title": "COP26 in two minutes: Debate, demos and a deal",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "COP26",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "minutes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Debate",
+                "meaning": "appos",
+                "pos": "NOUN"
+            },
+            {
+                "word": "demos",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    }
+]

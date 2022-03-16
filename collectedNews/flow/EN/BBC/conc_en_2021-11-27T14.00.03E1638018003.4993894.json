@@ -1,0 +1,547 @@
+[
+    {
+        "title": "World races to contain new Omicron variant",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59442129",
+        "content": "Nations ban travellers from southern Africa, a day after health officials named the new Covid-19 strain.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4991462,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "World races to contain new Omicron variant",
+        "en_content": "Nations ban travellers from southern Africa, a day after health officials named the new Covid-19 strain.",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "races",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "World races to contain new Omicron variant",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59442129",
+        "content": "Nations ban travellers from southern Africa, a day after health officials named the new Covid-19 strain.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4991727,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "World races to contain new Omicron variant",
+        "en_content": "Nations ban travellers from southern Africa, a day after health officials named the new Covid-19 strain.",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "races",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Dozens test positive on SA-Netherlands flights",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59442149",
+        "content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4991913,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "Dozens test positive on SA-Netherlands flights",
+        "en_content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "flights",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kurdish woman is first Channel victim to be named",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59439533",
+        "content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4992082,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "Kurdish woman is first Channel victim to be named",
+        "en_content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "concepts": [
+            {
+                "word": "woman",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victim",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The Channel beaches that host a lethal trade in human hope",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59380745",
+        "content": "Sunday's referendum is held in a country with one of the lowest vaccination rates in Western Europe.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4992237,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "The Channel beaches that host a lethal trade in human hope",
+        "en_content": "Sunday's referendum is held in a country with one of the lowest vaccination rates in Western Europe.",
+        "concepts": [
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "beaches",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hope",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Swiss vote on ending restrictions amid Covid surge",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59443519",
+        "content": "The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4992404,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "Swiss vote on ending restrictions amid Covid surge",
+        "en_content": "The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion.",
+        "concepts": [
+            {
+                "word": "vote",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tennis official still concerned about Peng Shuai",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59428712",
+        "content": "He says an alleged plan to overthrow his government comes amid threats of a Russian invasion.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4992566,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "Tennis official still concerned about Peng Shuai",
+        "en_content": "He says an alleged plan to overthrow his government comes amid threats of a Russian invasion.",
+        "concepts": [
+            {
+                "word": "Tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shuai",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ukraine leader alleges coup plan involving Russians",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59442129",
+        "content": "Nations ban travellers from southern Africa, a day after health officials named the new Covid-19 strain.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4992716,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "Ukraine leader alleges coup plan involving Russians",
+        "en_content": "Nations ban travellers from southern Africa, a day after health officials named the new Covid-19 strain.",
+        "concepts": [
+            {
+                "word": "leader",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "coup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russians",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "World races to contain new Omicron variant",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59442149",
+        "content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "placed": "Abroad",
+        "epoch": 1638018003.499287,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "World races to contain new Omicron variant",
+        "en_content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "races",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Dozens test positive on SA-Netherlands flights",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59439533",
+        "content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4993021,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "Dozens test positive on SA-Netherlands flights",
+        "en_content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "concepts": [
+            {
+                "word": "Dozens",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "SA",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Netherlands",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "flights",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Kurdish woman is first Channel victim to be named",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59380745",
+        "content": "Sunday's referendum is held in a country with one of the lowest vaccination rates in Western Europe.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4993167,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "Kurdish woman is first Channel victim to be named",
+        "en_content": "Sunday's referendum is held in a country with one of the lowest vaccination rates in Western Europe.",
+        "concepts": [
+            {
+                "word": "woman",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "victim",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The Channel beaches that host a lethal trade in human hope",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59443519",
+        "content": "The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4993312,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "The Channel beaches that host a lethal trade in human hope",
+        "en_content": "The head of women's tennis says he is not certain Peng Shuai is free of Chinese censorship or coercion.",
+        "concepts": [
+            {
+                "word": "Channel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "beaches",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trade",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hope",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Swiss vote on ending restrictions amid Covid surge",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59428712",
+        "content": "He says an alleged plan to overthrow his government comes amid threats of a Russian invasion.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4993465,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "Swiss vote on ending restrictions amid Covid surge",
+        "en_content": "He says an alleged plan to overthrow his government comes amid threats of a Russian invasion.",
+        "concepts": [
+            {
+                "word": "vote",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "restrictions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Tennis official still concerned about Peng Shuai",
+        "date": "2021-11-27",
+        "date_raw": "2021-11-27",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59442149",
+        "content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4993613,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "Tennis official still concerned about Peng Shuai",
+        "en_content": "The results are being examined for cases of the new Omicron variant emerging in southern Africa.",
+        "concepts": [
+            {
+                "word": "Tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "official",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shuai",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ukraine leader alleges coup plan involving Russians",
+        "date": "2021-11-26",
+        "date_raw": "2021-11-26",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59439533",
+        "content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "placed": "Abroad",
+        "epoch": 1638018003.4993758,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-27T14.00.03E1638018003.4993894.json",
+        "en_title": "Ukraine leader alleges coup plan involving Russians",
+        "en_content": "Maryam Nuri Mohamed Amin was a 24-year-old Kurdish woman from northern Iraq.",
+        "concepts": [
+            {
+                "word": "leader",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "coup",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "plan",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Russians",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

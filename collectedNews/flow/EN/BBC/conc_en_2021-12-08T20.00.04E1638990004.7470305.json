@@ -1,0 +1,593 @@
+[
+    {
+        "title": "Pfizer says booster shot promising against Omicron",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59582006",
+        "content": "The company says a third dose of its vaccine could improve protection against the new variant.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7466996,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Pfizer says booster shot promising against Omicron",
+        "en_content": "The company says a third dose of its vaccine could improve protection against the new variant.",
+        "concepts": [
+            {
+                "word": "Pfizer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "booster",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pfizer says booster shot promising against Omicron",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59582006",
+        "content": "The company says a third dose of its vaccine could improve protection against the new variant.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7467318,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Pfizer says booster shot promising against Omicron",
+        "en_content": "The company says a third dose of its vaccine could improve protection against the new variant.",
+        "concepts": [
+            {
+                "word": "Pfizer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "booster",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "India's top general dies in helicopter crash",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59576082",
+        "content": "General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7467544,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "India's top general dies in helicopter crash",
+        "en_content": "General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "poss",
+                "pos": "ADJ"
+            },
+            {
+                "word": "helicopter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Scholz becomes German leader as Merkel bows out",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59575773",
+        "content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7467732,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Scholz becomes German leader as Merkel bows out",
+        "en_content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "concepts": [
+            {
+                "word": "Scholz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "leader",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "France releases Saudi held over Khashoggi murder",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59580631",
+        "content": "A man with the same name as a suspect in the killing was arrested at a Paris airport on Tuesday.",
+        "placed": "Abroad",
+        "epoch": 1638990004.746791,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "France releases Saudi held over Khashoggi murder",
+        "en_content": "A man with the same name as a suspect in the killing was arrested at a Paris airport on Tuesday.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Saudi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Khashoggi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Lawmakers to hold Trump chief of staff in contempt",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59584975",
+        "content": "Donald Trump has urged his former aides to refuse cooperation with the 6 January House panel.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7468088,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Lawmakers to hold Trump chief of staff in contempt",
+        "en_content": "Donald Trump has urged his former aides to refuse cooperation with the 6 January House panel.",
+        "concepts": [
+            {
+                "word": "Lawmakers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Trump",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "staff",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "contempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Soldiers accused of shooting and burning villagers",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59574528",
+        "content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7468257,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Soldiers accused of shooting and burning villagers",
+        "en_content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "concepts": [
+            {
+                "word": "Soldiers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "villagers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Finnish PM sorry for clubbing after Covid contact",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59577371",
+        "content": "Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7468424,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Finnish PM sorry for clubbing after Covid contact",
+        "en_content": "Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "contact",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pfizer says booster shot promising against Omicron",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59582006",
+        "content": "The company says a third dose of its vaccine could improve protection against the new variant.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7468584,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Pfizer says booster shot promising against Omicron",
+        "en_content": "The company says a third dose of its vaccine could improve protection against the new variant.",
+        "concepts": [
+            {
+                "word": "Pfizer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "booster",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "India's top general dies in helicopter crash",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59576082",
+        "content": "General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7468746,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "India's top general dies in helicopter crash",
+        "en_content": "General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "poss",
+                "pos": "ADJ"
+            },
+            {
+                "word": "helicopter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Scholz becomes German leader as Merkel bows out",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59575773",
+        "content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7468903,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Scholz becomes German leader as Merkel bows out",
+        "en_content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "concepts": [
+            {
+                "word": "Scholz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "leader",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "France releases Saudi held over Khashoggi murder",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59580631",
+        "content": "A man with the same name as a suspect in the killing was arrested at a Paris airport on Tuesday.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7469063,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "France releases Saudi held over Khashoggi murder",
+        "en_content": "A man with the same name as a suspect in the killing was arrested at a Paris airport on Tuesday.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Saudi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Khashoggi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Lawmakers to hold Trump chief of staff in contempt",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59584975",
+        "content": "Donald Trump has urged his former aides to refuse cooperation with the 6 January House panel.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7469223,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Lawmakers to hold Trump chief of staff in contempt",
+        "en_content": "Donald Trump has urged his former aides to refuse cooperation with the 6 January House panel.",
+        "concepts": [
+            {
+                "word": "Lawmakers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Trump",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chief",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "staff",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "contempt",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Soldiers accused of shooting and burning villagers",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59574528",
+        "content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7469378,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Soldiers accused of shooting and burning villagers",
+        "en_content": "Myanmar villagers say soldiers carried out the killings in response to an attack on a military convoy.",
+        "concepts": [
+            {
+                "word": "Soldiers",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "villagers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Finnish PM sorry for clubbing after Covid contact",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59577371",
+        "content": "Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7469532,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Finnish PM sorry for clubbing after Covid contact",
+        "en_content": "Sanna Marin went on a night out on Saturday, hours after her foreign minister had tested positive.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "contact",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "India's top general dies in helicopter crash",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59576082",
+        "content": "General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7469687,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "India's top general dies in helicopter crash",
+        "en_content": "General Bipin Rawat was killed alongside his wife and 11 others in the crash in Tamil Nadu.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "poss",
+                "pos": "ADJ"
+            },
+            {
+                "word": "helicopter",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Scholz becomes German leader as Merkel bows out",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59575773",
+        "content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7469847,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "Scholz becomes German leader as Merkel bows out",
+        "en_content": "Olaf Scholz is sworn in as chancellor, leading a three-party coalition after 16 years of Merkel rule.",
+        "concepts": [
+            {
+                "word": "Scholz",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "leader",
+                "meaning": "attr",
+                "pos": "VERB"
+            },
+            {
+                "word": "Merkel",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "France releases Saudi held over Khashoggi murder",
+        "date": "2021-12-08",
+        "date_raw": "2021-12-08",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59580631",
+        "content": "A man with the same name as a suspect in the killing was arrested at a Paris airport on Tuesday.",
+        "placed": "Abroad",
+        "epoch": 1638990004.7470176,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-08T20.00.04E1638990004.7470305.json",
+        "en_title": "France releases Saudi held over Khashoggi murder",
+        "en_content": "A man with the same name as a suspect in the killing was arrested at a Paris airport on Tuesday.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Saudi",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Khashoggi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

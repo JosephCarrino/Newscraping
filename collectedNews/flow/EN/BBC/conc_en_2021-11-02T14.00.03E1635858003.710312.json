@@ -1,0 +1,661 @@
+[
+    {
+        "title": "Work with us on forests - Amazon communities",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/world-59125188",
+        "content": "As a major deforestation pledge is signed in Glasgow, indigenous groups in the Amazon say they need to be directly involved.",
+        "placed": "First_Page",
+        "epoch": 1635858003.709944,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Work with us on forests - Amazon communities",
+        "en_content": "As a major deforestation pledge is signed in Glasgow, indigenous groups in the Amazon say they need to be directly involved.",
+        "concepts": [
+            {
+                "word": "forests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Amazon",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "communities",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Work with us on forests - Amazon communities",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/live/world-59125188",
+        "content": "As a major deforestation pledge is signed in Glasgow, indigenous groups in the Amazon say they need to be directly involved.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7099774,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Work with us on forests - Amazon communities",
+        "en_content": "As a major deforestation pledge is signed in Glasgow, indigenous groups in the Amazon say they need to be directly involved.",
+        "concepts": [
+            {
+                "word": "forests",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Amazon",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "communities",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "World leaders promise to end deforestation by 2030",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59088498",
+        "content": "More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7099998,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "World leaders promise to end deforestation by 2030",
+        "en_content": "More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal.",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deforestation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US to tackle methane leaks from oil and gas wells",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59131282",
+        "content": "The Biden administration plans to restore tough rules curbing one of the most potent greenhouse gases.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7100194,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "US to tackle methane leaks from oil and gas wells",
+        "en_content": "The Biden administration plans to restore tough rules curbing one of the most potent greenhouse gases.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "methane",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "oil",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "gas",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wells",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Race to find survivors in Nigeria building collapse",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59125228",
+        "content": "At least 10 people have died and many are feared trapped under rubble at the site in Lagos.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7100372,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Race to find survivors in Nigeria building collapse",
+        "en_content": "At least 10 people have died and many are feared trapped under rubble at the site in Lagos.",
+        "concepts": [
+            {
+                "word": "Race",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "survivors",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Nigeria",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "building",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "collapse",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Bezos pledges $2bn for restoring nature",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59132104",
+        "content": "Amazon founder Jeff Bezos tells the COP26 climate meeting he was inspired by his recent space trip.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7100549,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Bezos pledges $2bn for restoring nature",
+        "en_content": "Amazon founder Jeff Bezos tells the COP26 climate meeting he was inspired by his recent space trip.",
+        "concepts": [
+            {
+                "word": "Bezos",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "2bn",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "nature",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "France delays sanctions as fishing talks continue",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-politics-59127717",
+        "content": "Paris has stepped back from a threat to block British fishing boats from its ports from midnight.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7100673,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "France delays sanctions as fishing talks continue",
+        "en_content": "Paris has stepped back from a threat to block British fishing boats from its ports from midnight.",
+        "concepts": [
+            {
+                "word": "France",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "sanctions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "fishing",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "talks",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Johnson apology to minister over wheelchair access",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59132811",
+        "content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7100844,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Johnson apology to minister over wheelchair access",
+        "en_content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "apology",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wheelchair",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "access",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Cheeky parrot plays peekaboo with traffic camera",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59136233",
+        "content": "A turquoise-fronted amazon parrot was captured investigating a CCTV camera in Curitiba, Brazil.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7101007,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Cheeky parrot plays peekaboo with traffic camera",
+        "en_content": "A turquoise-fronted amazon parrot was captured investigating a CCTV camera in Curitiba, Brazil.",
+        "concepts": [
+            {
+                "word": "Cheeky",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "parrot",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "peekaboo",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "traffic",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "camera",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australian PM rejects 'slurs' from France amid row",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59129048",
+        "content": "Scott Morrison was accused by Emmanuel Macron of lying about plans to scrap a submarine deal.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7101173,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Australian PM rejects 'slurs' from France amid row",
+        "en_content": "Scott Morrison was accused by Emmanuel Macron of lying about plans to scrap a submarine deal.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rejects",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "slurs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "France",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "row",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Blasts and gunfire in Kabul as hospital is attacked",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59133026",
+        "content": "Unconfirmed reports suggest at least 15 have been killed in an attack at Sardar Dawood Khan hospital.",
+        "placed": "First_Page",
+        "epoch": 1635858003.71014,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Blasts and gunfire in Kabul as hospital is attacked",
+        "en_content": "Unconfirmed reports suggest at least 15 have been killed in an attack at Sardar Dawood Khan hospital.",
+        "concepts": [
+            {
+                "word": "Blasts",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "gunfire",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Kabul",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hospital",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nicaragua accused of running internet troll farm",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59129894",
+        "content": "Facebook parent firm Meta removes hundreds of fake accounts said to be part of a disinformation campaign.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7101572,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Nicaragua accused of running internet troll farm",
+        "en_content": "Facebook parent firm Meta removes hundreds of fake accounts said to be part of a disinformation campaign.",
+        "concepts": [
+            {
+                "word": "Nicaragua",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "internet",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "troll",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "farm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Blasts and gunfire in Kabul as hospital is attacked",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-59133026",
+        "content": "Unconfirmed reports suggest at least 15 have been killed in an attack at Sardar Dawood Khan hospital.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7101724,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Blasts and gunfire in Kabul as hospital is attacked",
+        "en_content": "Unconfirmed reports suggest at least 15 have been killed in an attack at Sardar Dawood Khan hospital.",
+        "concepts": [
+            {
+                "word": "Blasts",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "gunfire",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Kabul",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "hospital",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nicaragua accused of running internet troll farm",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59129894",
+        "content": "Facebook parent firm Meta removes hundreds of fake accounts said to be part of a disinformation campaign.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7101877,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Nicaragua accused of running internet troll farm",
+        "en_content": "Facebook parent firm Meta removes hundreds of fake accounts said to be part of a disinformation campaign.",
+        "concepts": [
+            {
+                "word": "Nicaragua",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "internet",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "troll",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "farm",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Elon Musk says Tesla has not signed Hertz deal",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59132512",
+        "content": "Last week, Tesla's market value surged over $1 trillion after the rental car firm said it had ordered 100,000 cars.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7102034,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Elon Musk says Tesla has not signed Hertz deal",
+        "en_content": "Last week, Tesla's market value surged over $1 trillion after the rental car firm said it had ordered 100,000 cars.",
+        "concepts": [
+            {
+                "word": "Elon",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Musk",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Tesla",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Hertz",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Thunberg tells protest politicians are pretending",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59116611",
+        "content": "Thousands have travelled to the city for protests, one of which took place near to the venue where world leaders are meeting.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7102199,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "Thunberg tells protest politicians are pretending",
+        "en_content": "Thousands have travelled to the city for protests, one of which took place near to the venue where world leaders are meeting.",
+        "concepts": [
+            {
+                "word": "Thunberg",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "protest",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "politicians",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "India promises net zero emissions by 2070",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59125143",
+        "content": "The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050.",
+        "placed": "First_Page",
+        "epoch": 1635858003.7102535,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "India promises net zero emissions by 2070",
+        "en_content": "The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050.",
+        "concepts": [
+            {
+                "word": "India",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "emissions",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "World looking to you, Attenborough tells leaders",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59125138",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1635858003.7102804,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "World looking to you, Attenborough tells leaders",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Attenborough",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "leaders",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The Amazon: Save it or exploit it?",
+        "date_raw": "2021-11-01",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-58961286",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1635858003.7103,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T14.00.03E1635858003.710312.json",
+        "en_title": "The Amazon: Save it or exploit it?",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "Amazon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

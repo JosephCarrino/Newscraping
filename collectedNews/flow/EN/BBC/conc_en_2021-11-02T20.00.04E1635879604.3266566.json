@@ -1,0 +1,640 @@
+[
+    {
+        "title": "PM cautiously optimistic about COP26 progress",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59139765",
+        "content": "But there is a long way to go, Boris Johnson says, as world leaders prepare to leave the summit.",
+        "placed": "Politics",
+        "epoch": 1635879604.3263452,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "PM cautiously optimistic about COP26 progress",
+        "en_content": "But there is a long way to go, Boris Johnson says, as world leaders prepare to leave the summit.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "progress",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "PM cautiously optimistic about COP26 progress",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59139765",
+        "content": "But there is a long way to go, Boris Johnson says, as world leaders prepare to leave the summit.",
+        "placed": "Politics",
+        "epoch": 1635879604.326376,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "PM cautiously optimistic about COP26 progress",
+        "en_content": "But there is a long way to go, Boris Johnson says, as world leaders prepare to leave the summit.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "progress",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson apology to minister over wheelchair access",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-59132811",
+        "content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "placed": "Politics",
+        "epoch": 1635879604.326398,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "Johnson apology to minister over wheelchair access",
+        "en_content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "apology",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wheelchair",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "access",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK boat held by French, despite minster's claim",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59136697",
+        "content": "Environment Secretary George Eustice mistakenly said the Cornelis Gert Jan trawler had been released.",
+        "placed": "Politics",
+        "epoch": 1635879604.326417,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "UK boat held by French, despite minster's claim",
+        "en_content": "Environment Secretary George Eustice mistakenly said the Cornelis Gert Jan trawler had been released.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boat",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "French",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "minster",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claim",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "MPs told to wear masks amid Covid case rise",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59132968",
+        "content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "placed": "Politics",
+        "epoch": 1635879604.3264349,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "MPs told to wear masks amid Covid case rise",
+        "en_content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "masks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Morrisons sorry for 'non-EU salt and pepper' label",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59134190",
+        "content": "The supermarket says it was an \"error\" to put the description on one of its chickens.",
+        "placed": "Politics",
+        "epoch": 1635879604.3264527,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "Morrisons sorry for 'non-EU salt and pepper' label",
+        "en_content": "The supermarket says it was an \"error\" to put the description on one of its chickens.",
+        "concepts": [
+            {
+                "word": "Morrisons",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "salt",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pepper",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "label",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Plastics in wet wipes should be banned, says MP",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59128718",
+        "content": "Labour MP Fleur Anderson is proposing a new law to ban wet wipes that contain plastic.",
+        "placed": "Politics",
+        "epoch": 1635879604.3264663,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "Plastics in wet wipes should be banned, says MP",
+        "en_content": "Labour MP Fleur Anderson is proposing a new law to ban wet wipes that contain plastic.",
+        "concepts": [
+            {
+                "word": "Plastics",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "wipes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "World leaders promise to end deforestation by 2030",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/science-environment-59088498",
+        "content": "More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal.",
+        "placed": "Politics",
+        "epoch": 1635879604.3264842,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "World leaders promise to end deforestation by 2030",
+        "en_content": "More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal.",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deforestation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "PM cautiously optimistic about COP26 progress",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59139765",
+        "content": "But there is a long way to go, Boris Johnson says, as world leaders prepare to leave the summit.",
+        "placed": "Politics",
+        "epoch": 1635879604.3265011,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "PM cautiously optimistic about COP26 progress",
+        "en_content": "But there is a long way to go, Boris Johnson says, as world leaders prepare to leave the summit.",
+        "concepts": [
+            {
+                "word": "PM",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "COP26",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "progress",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Johnson apology to minister over wheelchair access",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-59132811",
+        "content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "placed": "Politics",
+        "epoch": 1635879604.326518,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "Johnson apology to minister over wheelchair access",
+        "en_content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "apology",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wheelchair",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "access",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK boat held by French, despite minster's claim",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59136697",
+        "content": "Environment Secretary George Eustice mistakenly said the Cornelis Gert Jan trawler had been released.",
+        "placed": "Politics",
+        "epoch": 1635879604.3265345,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "UK boat held by French, despite minster's claim",
+        "en_content": "Environment Secretary George Eustice mistakenly said the Cornelis Gert Jan trawler had been released.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boat",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "French",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "minster",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claim",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "MPs told to wear masks amid Covid case rise",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59132968",
+        "content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "placed": "Politics",
+        "epoch": 1635879604.3265507,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "MPs told to wear masks amid Covid case rise",
+        "en_content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "masks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Morrisons sorry for 'non-EU salt and pepper' label",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/business-59134190",
+        "content": "The supermarket says it was an \"error\" to put the description on one of its chickens.",
+        "placed": "Politics",
+        "epoch": 1635879604.326567,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "Morrisons sorry for 'non-EU salt and pepper' label",
+        "en_content": "The supermarket says it was an \"error\" to put the description on one of its chickens.",
+        "concepts": [
+            {
+                "word": "Morrisons",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "EU",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "salt",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pepper",
+                "meaning": "conj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "label",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Plastics in wet wipes should be banned, says MP",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59128718",
+        "content": "Labour MP Fleur Anderson is proposing a new law to ban wet wipes that contain plastic.",
+        "placed": "Politics",
+        "epoch": 1635879604.3265834,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "Plastics in wet wipes should be banned, says MP",
+        "en_content": "Labour MP Fleur Anderson is proposing a new law to ban wet wipes that contain plastic.",
+        "concepts": [
+            {
+                "word": "Plastics",
+                "meaning": "nsubjpass",
+                "pos": "VERB"
+            },
+            {
+                "word": "wipes",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "MP",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "World leaders promise to end deforestation by 2030",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/science-environment-59088498",
+        "content": "More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal.",
+        "placed": "Politics",
+        "epoch": 1635879604.3265922,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "World leaders promise to end deforestation by 2030",
+        "en_content": "More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal.",
+        "concepts": [
+            {
+                "word": "World",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "deforestation",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Johnson apology to minister over wheelchair access",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/world-59132811",
+        "content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "placed": "Politics",
+        "epoch": 1635879604.3266087,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "Johnson apology to minister over wheelchair access",
+        "en_content": "UK prime minister says sorry for \"confusion\" to Israeli minister who was unable to get into COP26.",
+        "concepts": [
+            {
+                "word": "Johnson",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "apology",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wheelchair",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "access",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK boat held by French, despite minster's claim",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59136697",
+        "content": "Environment Secretary George Eustice mistakenly said the Cornelis Gert Jan trawler had been released.",
+        "placed": "Politics",
+        "epoch": 1635879604.3266256,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "UK boat held by French, despite minster's claim",
+        "en_content": "Environment Secretary George Eustice mistakenly said the Cornelis Gert Jan trawler had been released.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boat",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "French",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "minster",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "claim",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "MPs told to wear masks amid Covid case rise",
+        "date_raw": "2021-11-02",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59132968",
+        "content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "placed": "Politics",
+        "epoch": 1635879604.3266416,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-02T20.00.04E1635879604.3266566.json",
+        "en_title": "MPs told to wear masks amid Covid case rise",
+        "en_content": "Tours of Parliament have also been cancelled as health body warns of greater risk of transmission.",
+        "concepts": [
+            {
+                "word": "MPs",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "masks",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "case",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

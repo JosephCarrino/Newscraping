@@ -1,0 +1,618 @@
+[
+    {
+        "title": "Suspect in Khashoggi murder arrested in Paris",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59561881",
+        "content": "French media say Khaled Aedh Alotaibi was arrested at Charles-de-Gaulle airport on Tuesday.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1865706,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Suspect in Khashoggi murder arrested in Paris",
+        "en_content": "French media say Khaled Aedh Alotaibi was arrested at Charles-de-Gaulle airport on Tuesday.",
+        "concepts": [
+            {
+                "word": "Khashoggi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Paris",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Suspect in Khashoggi murder arrested in Paris",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59561881",
+        "content": "French media say Khaled Aedh Alotaibi was arrested at Charles-de-Gaulle airport on Tuesday.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1866074,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Suspect in Khashoggi murder arrested in Paris",
+        "en_content": "French media say Khaled Aedh Alotaibi was arrested at Charles-de-Gaulle airport on Tuesday.",
+        "concepts": [
+            {
+                "word": "Khashoggi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "murder",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Paris",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Early signs Omicron spreads more easily - UK PM",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59563939",
+        "content": "But it could still take weeks to understand how severe illness from the variant is.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1866307,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Early signs Omicron spreads more easily - UK PM",
+        "en_content": "But it could still take weeks to understand how severe illness from the variant is.",
+        "concepts": [
+            {
+                "word": "signs",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "PM",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Biden and Putin talk as Ukraine tensions rise",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59567377",
+        "content": "The US and Russian leaders speak by video link, as Moscow warns tensions in Europe are \"off the scale\".",
+        "placed": "First_Page",
+        "epoch": 1638903603.1866498,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Biden and Putin talk as Ukraine tensions rise",
+        "en_content": "The US and Russian leaders speak by video link, as Moscow warns tensions in Europe are \"off the scale\".",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Putin",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Ukraine",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tensions",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "BBC reporter surrounded by houses buried in ash",
+        "date": "PT1",
+        "date_raw": "PT1",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59560809",
+        "content": "Watch Valdya Baraputri in Indonesia describe the path of destruction from Mount Semeru's eruption.",
+        "placed": "First_Page",
+        "epoch": 1638903603.186663,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "BBC reporter surrounded by houses buried in ash",
+        "en_content": "Watch Valdya Baraputri in Indonesia describe the path of destruction from Mount Semeru's eruption.",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "reporter",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "houses",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "ash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Nearly 70 medics Covid positive after party",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59561876",
+        "content": "The outbreak among ICU staff in Málaga is believed to have started at a Christmas party last week.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1866808,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Nearly 70 medics Covid positive after party",
+        "en_content": "The outbreak among ICU staff in Málaga is believed to have started at a Christmas party last week.",
+        "concepts": [
+            {
+                "word": "medics",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "BBC 100 women: Who is on the list?",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59560444",
+        "content": "Vice-President Prosper Bazombanza says at least 38 people died and scores more were injured.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1866982,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "BBC 100 women: Who is on the list?",
+        "en_content": "Vice-President Prosper Bazombanza says at least 38 people died and scores more were injured.",
+        "concepts": [
+            {
+                "word": "BBC",
+                "meaning": "nmod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "women",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "list",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'Catastrophic' Burundi prison fire kills dozens",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59568858",
+        "content": "Customers of the e-commerce giant report problems with shopping services, Prime Video and Alexa.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1867146,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "'Catastrophic' Burundi prison fire kills dozens",
+        "en_content": "Customers of the e-commerce giant report problems with shopping services, Prime Video and Alexa.",
+        "concepts": [
+            {
+                "word": "Catastrophic",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Burundi",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "prison",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fire",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "dozens",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Amazon services down for thousands of users",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/business-59565690",
+        "content": "A major report on wealth and inequality says 2020 saw the steepest rise in billionaires' wealth on record.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1867309,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Amazon services down for thousands of users",
+        "en_content": "A major report on wealth and inequality says 2020 saw the steepest rise in billionaires' wealth on record.",
+        "concepts": [
+            {
+                "word": "Amazon",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "thousands",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "users",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Super-rich increase their share of world's income",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59571417",
+        "content": "Hackers behind a malicious \"botnet\" may have used their network to infect over a million computers.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1867468,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Super-rich increase their share of world's income",
+        "en_content": "Hackers behind a malicious \"botnet\" may have used their network to infect over a million computers.",
+        "concepts": [
+            {
+                "word": "increase",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "share",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "world",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "income",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Google sues alleged Russian cyber criminals",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59570576",
+        "content": "A law allowing same-sex marriage is approved in the historically Catholic Latin American country.",
+        "placed": "First_Page",
+        "epoch": 1638903603.186763,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Google sues alleged Russian cyber criminals",
+        "en_content": "A law allowing same-sex marriage is approved in the historically Catholic Latin American country.",
+        "concepts": [
+            {
+                "word": "Google",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "cyber",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "criminals",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Chile legalises gay marriage with landmark bill",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59571417",
+        "content": "Hackers behind a malicious \"botnet\" may have used their network to infect over a million computers.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1867785,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Chile legalises gay marriage with landmark bill",
+        "en_content": "Hackers behind a malicious \"botnet\" may have used their network to infect over a million computers.",
+        "concepts": [
+            {
+                "word": "Chile",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "marriage",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "landmark",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Google sues alleged Russian cyber criminals",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59570576",
+        "content": "A law allowing same-sex marriage is approved in the historically Catholic Latin American country.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1867945,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Google sues alleged Russian cyber criminals",
+        "en_content": "A law allowing same-sex marriage is approved in the historically Catholic Latin American country.",
+        "concepts": [
+            {
+                "word": "Google",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "cyber",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "criminals",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Chile legalises gay marriage with landmark bill",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/technology-59568929",
+        "content": "Game maker Ubisoft is launching its in-game NFT system this week.",
+        "placed": "First_Page",
+        "epoch": 1638903603.18681,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Chile legalises gay marriage with landmark bill",
+        "en_content": "Game maker Ubisoft is launching its in-game NFT system this week.",
+        "concepts": [
+            {
+                "word": "Chile",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "marriage",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "landmark",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ubisoft launches in-game NFTs",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59559703",
+        "content": "China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1868355,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Ubisoft launches in-game NFTs",
+        "en_content": "China angrily denounces a US plan not to send diplomats to the 2022 Winter Olympics in Beijing.",
+        "concepts": [
+            {
+                "word": "Ubisoft",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "game",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "NFTs",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US will pay price for Olympics boycott, China says",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-india-59559122",
+        "content": "The 19-year-old had eloped and married a man without her family's consent, police said.",
+        "placed": "First_Page",
+        "epoch": 1638903603.1868532,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "US will pay price for Olympics boycott, China says",
+        "en_content": "The 19-year-old had eloped and married a man without her family's consent, police said.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "price",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Olympics",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boycott",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "China",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Indian teen arrested for beheading pregnant sister",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59527102",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1638903603.1868687,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "Indian teen arrested for beheading pregnant sister",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "teen",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "sister",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "'Play football in your mind, if only for now'",
+        "date": "2021-12-07",
+        "date_raw": "2021-12-07",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59453143",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1638903603.1868846,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-07T20.00.03E1638903603.1869082.json",
+        "en_title": "'Play football in your mind, if only for now'",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "football",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "mind",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

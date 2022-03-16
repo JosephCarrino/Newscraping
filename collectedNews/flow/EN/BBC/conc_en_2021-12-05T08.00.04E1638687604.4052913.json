@@ -1,0 +1,733 @@
+[
+    {
+        "title": "UK tightens travel rules amid Omicron spread",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59534685",
+        "content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "placed": "Politics",
+        "epoch": 1638687604.4049995,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "UK tightens travel rules amid Omicron spread",
+        "en_content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tightens",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spread",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK tightens travel rules amid Omicron spread",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59534685",
+        "content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "placed": "Politics",
+        "epoch": 1638687604.405027,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "UK tightens travel rules amid Omicron spread",
+        "en_content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tightens",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spread",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Overhaul of drug policy to focus on healthcare",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59533858",
+        "content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "placed": "Politics",
+        "epoch": 1638687604.4050465,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Overhaul of drug policy to focus on healthcare",
+        "en_content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "concepts": [
+            {
+                "word": "Overhaul",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "policy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "healthcare",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Can Tories hold on to North Shropshire seat?",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59464270",
+        "content": "The BBC's Jonathan Blake talks to voters in the West Midlands constituency ahead of the by-election.",
+        "placed": "Politics",
+        "epoch": 1638687604.405064,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Can Tories hold on to North Shropshire seat?",
+        "en_content": "The BBC's Jonathan Blake talks to voters in the West Midlands constituency ahead of the by-election.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shropshire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seat",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Met reviews Labour MPs' complaint over No 10 party",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59532066",
+        "content": "The London force says it does not routinely investigate \"retrospective breaches\" of Covid regulations.",
+        "placed": "Politics",
+        "epoch": 1638687604.4050813,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Met reviews Labour MPs' complaint over No 10 party",
+        "en_content": "The London force says it does not routinely investigate \"retrospective breaches\" of Covid regulations.",
+        "concepts": [
+            {
+                "word": "Met",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MPs",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "complaint",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Bid to end visa fee for UK's foreign-born veterans",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59526516",
+        "content": "Two MPs who served in the Army want to scrap the £2,389 charge for those with five years' service.",
+        "placed": "Politics",
+        "epoch": 1638687604.4051015,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Bid to end visa fee for UK's foreign-born veterans",
+        "en_content": "Two MPs who served in the Army want to scrap the £2,389 charge for those with five years' service.",
+        "concepts": [
+            {
+                "word": "visa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fee",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "foreign",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "veterans",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "I now feel less safe as a gay man - MP Chris Bryant",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508498",
+        "content": "The Labour MP accuses the government of stoking a culture war that will harm anyone \"slightly different\".",
+        "placed": "Politics",
+        "epoch": 1638687604.405117,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "I now feel less safe as a gay man - MP Chris Bryant",
+        "en_content": "The Labour MP accuses the government of stoking a culture war that will harm anyone \"slightly different\".",
+        "concepts": [
+            {
+                "word": "man",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Chris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bryant",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Tories hold Old Bexley and Sidcup in by-election",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59505204",
+        "content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "placed": "Politics",
+        "epoch": 1638687604.4051318,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Tories hold Old Bexley and Sidcup in by-election",
+        "en_content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Old",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bexley",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sidcup",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "UK tightens travel rules amid Omicron spread",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59534685",
+        "content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "placed": "Politics",
+        "epoch": 1638687604.4051466,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "UK tightens travel rules amid Omicron spread",
+        "en_content": "Travellers to the UK aged 12 and over will have to have a Covid test before departure, the government says.",
+        "concepts": [
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tightens",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spread",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Overhaul of drug policy to focus on healthcare",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59533858",
+        "content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "placed": "Politics",
+        "epoch": 1638687604.4051611,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Overhaul of drug policy to focus on healthcare",
+        "en_content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "concepts": [
+            {
+                "word": "Overhaul",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "policy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "healthcare",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Can Tories hold on to North Shropshire seat?",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59464270",
+        "content": "The BBC's Jonathan Blake talks to voters in the West Midlands constituency ahead of the by-election.",
+        "placed": "Politics",
+        "epoch": 1638687604.405176,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Can Tories hold on to North Shropshire seat?",
+        "en_content": "The BBC's Jonathan Blake talks to voters in the West Midlands constituency ahead of the by-election.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shropshire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seat",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Met reviews Labour MPs' complaint over No 10 party",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59532066",
+        "content": "The London force says it does not routinely investigate \"retrospective breaches\" of Covid regulations.",
+        "placed": "Politics",
+        "epoch": 1638687604.4051912,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Met reviews Labour MPs' complaint over No 10 party",
+        "en_content": "The London force says it does not routinely investigate \"retrospective breaches\" of Covid regulations.",
+        "concepts": [
+            {
+                "word": "Met",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MPs",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "complaint",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Bid to end visa fee for UK's foreign-born veterans",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59526516",
+        "content": "Two MPs who served in the Army want to scrap the £2,389 charge for those with five years' service.",
+        "placed": "Politics",
+        "epoch": 1638687604.4052057,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Bid to end visa fee for UK's foreign-born veterans",
+        "en_content": "Two MPs who served in the Army want to scrap the £2,389 charge for those with five years' service.",
+        "concepts": [
+            {
+                "word": "visa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fee",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "foreign",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            },
+            {
+                "word": "veterans",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "I now feel less safe as a gay man - MP Chris Bryant",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59508498",
+        "content": "The Labour MP accuses the government of stoking a culture war that will harm anyone \"slightly different\".",
+        "placed": "Politics",
+        "epoch": 1638687604.4052205,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "I now feel less safe as a gay man - MP Chris Bryant",
+        "en_content": "The Labour MP accuses the government of stoking a culture war that will harm anyone \"slightly different\".",
+        "concepts": [
+            {
+                "word": "man",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "MP",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Chris",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bryant",
+                "meaning": "npadvmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Tories hold Old Bexley and Sidcup in by-election",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59505204",
+        "content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "placed": "Politics",
+        "epoch": 1638687604.4052353,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Tories hold Old Bexley and Sidcup in by-election",
+        "en_content": "The south-east London election was prompted by the death of former MP James Brokenshire.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Old",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Bexley",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Sidcup",
+                "meaning": "conj",
+                "pos": "PROPN"
+            },
+            {
+                "word": "election",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Overhaul of drug policy to focus on healthcare",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-59533858",
+        "content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "placed": "Politics",
+        "epoch": 1638687604.4052496,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Overhaul of drug policy to focus on healthcare",
+        "en_content": "Changes expected on Monday are set to include getting users out of the criminal justice system.",
+        "concepts": [
+            {
+                "word": "Overhaul",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "drug",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "policy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "healthcare",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Can Tories hold on to North Shropshire seat?",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59464270",
+        "content": "The BBC's Jonathan Blake talks to voters in the West Midlands constituency ahead of the by-election.",
+        "placed": "Politics",
+        "epoch": 1638687604.405264,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Can Tories hold on to North Shropshire seat?",
+        "en_content": "The BBC's Jonathan Blake talks to voters in the West Midlands constituency ahead of the by-election.",
+        "concepts": [
+            {
+                "word": "Tories",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "North",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shropshire",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "seat",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Met reviews Labour MPs' complaint over No 10 party",
+        "date": "2021-12-04",
+        "date_raw": "2021-12-04",
+        "url": "https://www.bbc.com/news/politics",
+        "news_url": "https://www.bbc.com/news/uk-politics-59532066",
+        "content": "The London force says it does not routinely investigate \"retrospective breaches\" of Covid regulations.",
+        "placed": "Politics",
+        "epoch": 1638687604.405278,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-05T08.00.04E1638687604.4052913.json",
+        "en_title": "Met reviews Labour MPs' complaint over No 10 party",
+        "en_content": "The London force says it does not routinely investigate \"retrospective breaches\" of Covid regulations.",
+        "concepts": [
+            {
+                "word": "Met",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Labour",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "MPs",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "complaint",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "party",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

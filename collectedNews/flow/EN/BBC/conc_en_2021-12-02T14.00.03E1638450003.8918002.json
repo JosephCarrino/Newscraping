@@ -1,0 +1,723 @@
+[
+    {
+        "title": "Omicron drives major surge in S Africa Covid cases",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59503517",
+        "content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "placed": "Abroad",
+        "epoch": 1638450003.8913844,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Omicron drives major surge in S Africa Covid cases",
+        "en_content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cases",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Omicron drives major surge in S Africa Covid cases",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59503517",
+        "content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "placed": "Abroad",
+        "epoch": 1638450003.8914106,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Omicron drives major surge in S Africa Covid cases",
+        "en_content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cases",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Top US judges signal support for abortion limits",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59495210",
+        "content": "The court's eventual ruling may cut off abortion access for tens of millions of American women.",
+        "placed": "Abroad",
+        "epoch": 1638450003.89143,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Top US judges signal support for abortion limits",
+        "en_content": "The court's eventual ruling may cut off abortion access for tens of millions of American women.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "judges",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "support",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "limits",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pfizer boss: Annual Covid jabs for years to come",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/health-59488848",
+        "content": "In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives.",
+        "placed": "Abroad",
+        "epoch": 1638450003.8914464,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Pfizer boss: Annual Covid jabs for years to come",
+        "en_content": "In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives.",
+        "concepts": [
+            {
+                "word": "Pfizer",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Annual",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Maxwell lawyers seek to discredit key accuser",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59503757",
+        "content": "Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial.",
+        "placed": "Abroad",
+        "epoch": 1638450003.8914616,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Maxwell lawyers seek to discredit key accuser",
+        "en_content": "Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial.",
+        "concepts": [
+            {
+                "word": "Maxwell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawyers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "accuser",
+                "meaning": "advmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "WTA suspends China tournaments over Peng Shuai",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/sport/tennis/59498779",
+        "content": "The WTA announces the immediate suspension amid concern for Chinese tennis player Peng Shuai.",
+        "placed": "Abroad",
+        "epoch": 1638450003.8914766,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "WTA suspends China tournaments over Peng Shuai",
+        "en_content": "The WTA announces the immediate suspension amid concern for Chinese tennis player Peng Shuai.",
+        "concepts": [
+            {
+                "word": "WTA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tournaments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shuai",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Home Alone house available to book for a night",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59502515",
+        "content": "The home from the 1990 Christmas classic starring Macaulay Culkin will be available for one night only.",
+        "placed": "Abroad",
+        "epoch": 1638450003.891492,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Home Alone house available to book for a night",
+        "en_content": "The home from the 1990 Christmas classic starring Macaulay Culkin will be available for one night only.",
+        "concepts": [
+            {
+                "word": "Home",
+                "meaning": "compound",
+                "pos": "ADJ"
+            },
+            {
+                "word": "house",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "book",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "night",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ex-Afghan president: The Taliban are my brothers",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59505688",
+        "content": "In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan.",
+        "placed": "Abroad",
+        "epoch": 1638450003.8915052,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Ex-Afghan president: The Taliban are my brothers",
+        "en_content": "In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "president",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "brothers",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Omicron drives major surge in S Africa Covid cases",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59503517",
+        "content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "placed": "Abroad",
+        "epoch": 1638450003.8915205,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Omicron drives major surge in S Africa Covid cases",
+        "en_content": "The new Omicron variant has now become dominant, the country's top medical scientists say.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "surge",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "S",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "cases",
+                "meaning": "dep",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Top US judges signal support for abortion limits",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59495210",
+        "content": "The court's eventual ruling may cut off abortion access for tens of millions of American women.",
+        "placed": "Abroad",
+        "epoch": 1638450003.8915348,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Top US judges signal support for abortion limits",
+        "en_content": "The court's eventual ruling may cut off abortion access for tens of millions of American women.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "judges",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "support",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "limits",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pfizer boss: Annual Covid jabs for years to come",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/health-59488848",
+        "content": "In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives.",
+        "placed": "Abroad",
+        "epoch": 1638450003.891549,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Pfizer boss: Annual Covid jabs for years to come",
+        "en_content": "In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives.",
+        "concepts": [
+            {
+                "word": "Pfizer",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Annual",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Maxwell lawyers seek to discredit key accuser",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59503757",
+        "content": "Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial.",
+        "placed": "Abroad",
+        "epoch": 1638450003.8915641,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Maxwell lawyers seek to discredit key accuser",
+        "en_content": "Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial.",
+        "concepts": [
+            {
+                "word": "Maxwell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawyers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "accuser",
+                "meaning": "advmod",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "WTA suspends China tournaments over Peng Shuai",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/sport/tennis/59498779",
+        "content": "The WTA announces the immediate suspension amid concern for Chinese tennis player Peng Shuai.",
+        "placed": "Abroad",
+        "epoch": 1638450003.8915892,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "WTA suspends China tournaments over Peng Shuai",
+        "en_content": "The WTA announces the immediate suspension amid concern for Chinese tennis player Peng Shuai.",
+        "concepts": [
+            {
+                "word": "WTA",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "China",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tournaments",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Peng",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Shuai",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Home Alone house available to book for a night",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59502515",
+        "content": "The home from the 1990 Christmas classic starring Macaulay Culkin will be available for one night only.",
+        "placed": "Abroad",
+        "epoch": 1638450003.8916037,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Home Alone house available to book for a night",
+        "en_content": "The home from the 1990 Christmas classic starring Macaulay Culkin will be available for one night only.",
+        "concepts": [
+            {
+                "word": "Home",
+                "meaning": "compound",
+                "pos": "ADJ"
+            },
+            {
+                "word": "house",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "book",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "night",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ex-Afghan president: The Taliban are my brothers",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-59505688",
+        "content": "In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan.",
+        "placed": "Abroad",
+        "epoch": 1638450003.891618,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Ex-Afghan president: The Taliban are my brothers",
+        "en_content": "In a BBC interview, Hamid Karzai also calls on the international community to help rebuild Afghanistan.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "amod",
+                "pos": "NOUN"
+            },
+            {
+                "word": "president",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "Taliban",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "brothers",
+                "meaning": "attr",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Top US judges signal support for abortion limits",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59495210",
+        "content": "The court's eventual ruling may cut off abortion access for tens of millions of American women.",
+        "placed": "Abroad",
+        "epoch": 1638450003.891626,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Top US judges signal support for abortion limits",
+        "en_content": "The court's eventual ruling may cut off abortion access for tens of millions of American women.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "judges",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "support",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abortion",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "limits",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Pfizer boss: Annual Covid jabs for years to come",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/health-59488848",
+        "content": "In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives.",
+        "placed": "Abroad",
+        "epoch": 1638450003.891641,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Pfizer boss: Annual Covid jabs for years to come",
+        "en_content": "In an exclusive interview, Dr Albert Bourla says jabs have saved millions of lives.",
+        "concepts": [
+            {
+                "word": "Pfizer",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "boss",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Annual",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Maxwell lawyers seek to discredit key accuser",
+        "date": "2021-12-02",
+        "date_raw": "2021-12-02",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59503757",
+        "content": "Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial.",
+        "placed": "Abroad",
+        "epoch": 1638450003.891655,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-02T14.00.03E1638450003.8918002.json",
+        "en_title": "Maxwell lawyers seek to discredit key accuser",
+        "en_content": "Ghislaine Maxwell's defence team try to poke holes in an alleged victim's testimony at her trial.",
+        "concepts": [
+            {
+                "word": "Maxwell",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawyers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "accuser",
+                "meaning": "advmod",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

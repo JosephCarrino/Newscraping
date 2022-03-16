@@ -1,0 +1,708 @@
+[
+    {
+        "title": "Scores dead in Sierra Leone tanker explosion",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59188753",
+        "content": "A huge explosion happened after an oil truck collided with another vehicle in the nation's capital.",
+        "placed": "First_Page",
+        "epoch": 1636203603.8287292,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Scores dead in Sierra Leone tanker explosion",
+        "en_content": "A huge explosion happened after an oil truck collided with another vehicle in the nation's capital.",
+        "concepts": [
+            {
+                "word": "Scores",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sierra",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tanker",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "explosion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Scores dead in Sierra Leone tanker explosion",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59188753",
+        "content": "A huge explosion happened after an oil truck collided with another vehicle in the nation's capital.",
+        "placed": "First_Page",
+        "epoch": 1636203603.8287623,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Scores dead in Sierra Leone tanker explosion",
+        "en_content": "A huge explosion happened after an oil truck collided with another vehicle in the nation's capital.",
+        "concepts": [
+            {
+                "word": "Scores",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Sierra",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Leone",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tanker",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "explosion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Eight killed after crowd surge at US music festival",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59188960",
+        "content": "Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival.",
+        "placed": "First_Page",
+        "epoch": 1636203603.828786,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Eight killed after crowd surge at US music festival",
+        "en_content": "Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival.",
+        "concepts": [
+            {
+                "word": "crowd",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "surge",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "music",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "festival",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59165781",
+        "content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "placed": "First_Page",
+        "epoch": 1636203603.8288038,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "en_content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Thunberg",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "COP26",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "failure",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "PR",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exercise",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "US lawmakers approve $1tn infrastructure bill",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180745",
+        "content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "placed": "First_Page",
+        "epoch": 1636203603.8288198,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "US lawmakers approve $1tn infrastructure bill",
+        "en_content": "The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lawmakers",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "infrastructure",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "bill",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Brazil singer Mendonca dies in plane crash at 26",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59186654",
+        "content": "Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women.",
+        "placed": "First_Page",
+        "epoch": 1636203603.828838,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Brazil singer Mendonca dies in plane crash at 26",
+        "en_content": "Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women.",
+        "concepts": [
+            {
+                "word": "Brazil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "singer",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Mendonca",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "plane",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "crash",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Hello, Senator? Duchess of Sussex calling",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186204",
+        "content": "Meghan Markle reportedly placed calls with US senators this week to lobby for family leave.",
+        "placed": "First_Page",
+        "epoch": 1636203603.8288531,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Hello, Senator? Duchess of Sussex calling",
+        "en_content": "Meghan Markle reportedly placed calls with US senators this week to lobby for family leave.",
+        "concepts": [
+            {
+                "word": "Senator",
+                "meaning": "npadvmod",
+                "pos": "INTJ"
+            },
+            {
+                "word": "Duchess",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Sussex",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Colin Powell: Funeral for 'great lion with big heart'",
+        "date": "",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59186088",
+        "content": "US presidents, past and present, attended the service to remember the former secretary of state.",
+        "placed": "First_Page",
+        "epoch": 1636203603.828865,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Colin Powell: Funeral for 'great lion with big heart'",
+        "en_content": "US presidents, past and present, attended the service to remember the former secretary of state.",
+        "concepts": [
+            {
+                "word": "Colin",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Powell",
+                "meaning": "ROOT",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Funeral",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "lion",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "heart",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Full footage of black jogger's death shown at trial",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180744",
+        "content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "placed": "First_Page",
+        "epoch": 1636203603.828883,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Full footage of black jogger's death shown at trial",
+        "en_content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "concepts": [
+            {
+                "word": "footage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jogger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59175404",
+        "content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "placed": "First_Page",
+        "epoch": 1636203603.8288977,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "en_content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "soldiers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rebels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Man found naked inside wall of US theatre",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186739",
+        "content": "Authorities said the man had been trapped for two days before he was heard calling for help.",
+        "placed": "First_Page",
+        "epoch": 1636203603.8289125,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Man found naked inside wall of US theatre",
+        "en_content": "Authorities said the man had been trapped for two days before he was heard calling for help.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "wall",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "theatre",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-africa-59175404",
+        "content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "placed": "First_Page",
+        "epoch": 1636203603.8289266,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "en_content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "soldiers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rebels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Man found naked inside wall of US theatre",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186739",
+        "content": "Authorities said the man had been trapped for two days before he was heard calling for help.",
+        "placed": "First_Page",
+        "epoch": 1636203603.8289404,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Man found naked inside wall of US theatre",
+        "en_content": "Authorities said the man had been trapped for two days before he was heard calling for help.",
+        "concepts": [
+            {
+                "word": "Man",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "wall",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "theatre",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Chinese man convicted on aviation spy charges",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59186980",
+        "content": "US authorities say Xu Yanjun sought to steal trade secrets from US aviation companies.",
+        "placed": "First_Page",
+        "epoch": 1636203603.8289542,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Chinese man convicted on aviation spy charges",
+        "en_content": "US authorities say Xu Yanjun sought to steal trade secrets from US aviation companies.",
+        "concepts": [
+            {
+                "word": "man",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "aviation",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "spy",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "charges",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ex-PM condemns UK government as 'shameful'",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-59188972",
+        "content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "placed": "First_Page",
+        "epoch": 1636203603.828968,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Ex-PM condemns UK government as 'shameful'",
+        "en_content": "Conservative Sir John Major says the government has trashed Parliament's reputation at home and abroad over the Owen Paterson case.",
+        "concepts": [
+            {
+                "word": "Ex",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "-",
+                "meaning": "punct",
+                "pos": "PROPN"
+            },
+            {
+                "word": "PM",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "government",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Costa Rica makes Covid jab mandatory for children",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59162510",
+        "content": "The country becomes the first in the world to mandate vaccinations for those aged five to 11.",
+        "placed": "First_Page",
+        "epoch": 1636203603.8289819,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "Costa Rica makes Covid jab mandatory for children",
+        "en_content": "The country becomes the first in the world to mandate vaccinations for those aged five to 11.",
+        "concepts": [
+            {
+                "word": "Costa",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Rica",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jab",
+                "meaning": "nsubj",
+                "pos": "ADJ"
+            },
+            {
+                "word": "children",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "How the world is reacting to COP26",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59036722",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1636203603.8289955,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "How the world is reacting to COP26",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "world",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "COP26",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "The US state taking on an oil giant for greenwashing",
+        "date": "2021-11-06",
+        "date_raw": "2021-11-06",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/blogs-trending-59070451",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1636203603.8290133,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-06T14.00.03E1636203603.829036.json",
+        "en_title": "The US state taking on an oil giant for greenwashing",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "state",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "oil",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "giant",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

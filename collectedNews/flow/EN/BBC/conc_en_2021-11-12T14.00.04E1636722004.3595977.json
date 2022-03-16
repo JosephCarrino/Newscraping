@@ -1,0 +1,698 @@
+[
+    {
+        "title": "Coal compromise as leaders near climate deal",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59221790",
+        "content": "All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3593109,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "Coal compromise as leaders near climate deal",
+        "en_content": "All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours.",
+        "concepts": [
+            {
+                "word": "Coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "compromise",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "Coal compromise as leaders near climate deal",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59221790",
+        "content": "All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours.",
+        "placed": "Abroad",
+        "epoch": 1636722004.35934,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "Coal compromise as leaders near climate deal",
+        "en_content": "All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours.",
+        "concepts": [
+            {
+                "word": "Coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "compromise",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "US journalist gets 11 years jail in Myanmar",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59258112",
+        "content": "A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3593602,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "US journalist gets 11 years jail in Myanmar",
+        "en_content": "A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "journalist",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jail",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Myanmar",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "West condemns Belarus at UN over stranded migrants",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59256927",
+        "content": "EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3593774,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "West condemns Belarus at UN over stranded migrants",
+        "en_content": "EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes.",
+        "concepts": [
+            {
+                "word": "West",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UN",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dutch set for partial lockdown as infections surge",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59258409",
+        "content": "The measures, due to last three weeks, are expected to cover shops, sport and catering.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3593934,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "Dutch set for partial lockdown as infections surge",
+        "en_content": "The measures, due to last three weeks, are expected to cover shops, sport and catering.",
+        "concepts": [
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "infections",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rare penguin makes 3000km journey to New Zealand",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59257495",
+        "content": "Pingu the penguin was spotted by a local resident who thought he was a \"soft toy\" at first.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3594093,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "Rare penguin makes 3000km journey to New Zealand",
+        "en_content": "Pingu the penguin was spotted by a local resident who thought he was a \"soft toy\" at first.",
+        "concepts": [
+            {
+                "word": "penguin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "km",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "journey",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Zealand",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Xi Jinping cements status with historic resolution",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59229935",
+        "content": "Mr Xi is only the third leader to issue a \"historical resolution\" after Mao Zedong and Deng Xiaoping.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3594244,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "Xi Jinping cements status with historic resolution",
+        "en_content": "Mr Xi is only the third leader to issue a \"historical resolution\" after Mao Zedong and Deng Xiaoping.",
+        "concepts": [
+            {
+                "word": "Xi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jinping",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "status",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "resolution",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US police officer sues boss over KKK note",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59260704",
+        "content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3594394,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "US police officer sues boss over KKK note",
+        "en_content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "officer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boss",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "KKK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "note",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Coal compromise as leaders near climate deal",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/science-environment-59221790",
+        "content": "All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours.",
+        "placed": "Abroad",
+        "epoch": 1636722004.359454,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "Coal compromise as leaders near climate deal",
+        "en_content": "All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours.",
+        "concepts": [
+            {
+                "word": "Coal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "compromise",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "leaders",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deal",
+                "meaning": "pobj",
+                "pos": "SCONJ"
+            }
+        ]
+    },
+    {
+        "title": "US journalist gets 11 years jail in Myanmar",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59258112",
+        "content": "A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3594687,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "US journalist gets 11 years jail in Myanmar",
+        "en_content": "A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "journalist",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jail",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Myanmar",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "West condemns Belarus at UN over stranded migrants",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59256927",
+        "content": "EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3594835,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "West condemns Belarus at UN over stranded migrants",
+        "en_content": "EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes.",
+        "concepts": [
+            {
+                "word": "West",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UN",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dutch set for partial lockdown as infections surge",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59258409",
+        "content": "The measures, due to last three weeks, are expected to cover shops, sport and catering.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3594978,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "Dutch set for partial lockdown as infections surge",
+        "en_content": "The measures, due to last three weeks, are expected to cover shops, sport and catering.",
+        "concepts": [
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "infections",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Rare penguin makes 3000km journey to New Zealand",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59257495",
+        "content": "Pingu the penguin was spotted by a local resident who thought he was a \"soft toy\" at first.",
+        "placed": "Abroad",
+        "epoch": 1636722004.359512,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "Rare penguin makes 3000km journey to New Zealand",
+        "en_content": "Pingu the penguin was spotted by a local resident who thought he was a \"soft toy\" at first.",
+        "concepts": [
+            {
+                "word": "penguin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "km",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "journey",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "New",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Zealand",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Xi Jinping cements status with historic resolution",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59229935",
+        "content": "Mr Xi is only the third leader to issue a \"historical resolution\" after Mao Zedong and Deng Xiaoping.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3595266,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "Xi Jinping cements status with historic resolution",
+        "en_content": "Mr Xi is only the third leader to issue a \"historical resolution\" after Mao Zedong and Deng Xiaoping.",
+        "concepts": [
+            {
+                "word": "Xi",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Jinping",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "status",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "resolution",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US police officer sues boss over KKK note",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59260704",
+        "content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3595405,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "US police officer sues boss over KKK note",
+        "en_content": "Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "police",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "officer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "boss",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "KKK",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "note",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US journalist gets 11 years jail in Myanmar",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-asia-59258112",
+        "content": "A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3595543,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "US journalist gets 11 years jail in Myanmar",
+        "en_content": "A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "journalist",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "years",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jail",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Myanmar",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "West condemns Belarus at UN over stranded migrants",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59256927",
+        "content": "EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3595684,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "West condemns Belarus at UN over stranded migrants",
+        "en_content": "EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes.",
+        "concepts": [
+            {
+                "word": "West",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Belarus",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UN",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "migrants",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Dutch set for partial lockdown as infections surge",
+        "date": "2021-11-12",
+        "date_raw": "2021-11-12",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59258409",
+        "content": "The measures, due to last three weeks, are expected to cover shops, sport and catering.",
+        "placed": "Abroad",
+        "epoch": 1636722004.3595824,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-12T14.00.04E1636722004.3595977.json",
+        "en_title": "Dutch set for partial lockdown as infections surge",
+        "en_content": "The measures, due to last three weeks, are expected to cover shops, sport and catering.",
+        "concepts": [
+            {
+                "word": "lockdown",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "infections",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

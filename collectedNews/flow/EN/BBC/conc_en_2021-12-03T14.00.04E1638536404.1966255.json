@@ -1,0 +1,643 @@
+[
+    {
+        "title": "US tightens travel rules amid new Omicron cases",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59512368",
+        "content": "The US winter plan includes millions of free tests and stricter rules for international passengers.",
+        "placed": "Abroad",
+        "epoch": 1638536404.196348,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "US tightens travel rules amid new Omicron cases",
+        "en_content": "The US winter plan includes millions of free tests and stricter rules for international passengers.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tightens",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cases",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US tightens travel rules amid new Omicron cases",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59512368",
+        "content": "The US winter plan includes millions of free tests and stricter rules for international passengers.",
+        "placed": "Abroad",
+        "epoch": 1638536404.196375,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "US tightens travel rules amid new Omicron cases",
+        "en_content": "The US winter plan includes millions of free tests and stricter rules for international passengers.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tightens",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cases",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Omicron variant: Your questions answered",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/health-59511401",
+        "content": "How long do symptoms last for, is it more harmful to children? Experts answer your questions.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1963909,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "Omicron variant: Your questions answered",
+        "en_content": "How long do symptoms last for, is it more harmful to children? Experts answer your questions.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "questions",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The drought ravaging East African wildlife and livestock",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59513118",
+        "content": "At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia.",
+        "placed": "Abroad",
+        "epoch": 1638536404.19641,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "The drought ravaging East African wildlife and livestock",
+        "en_content": "At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia.",
+        "concepts": [
+            {
+                "word": "drought",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wildlife",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "livestock",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Staffer says he was told not to look Epstein in eye",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59516888",
+        "content": "A former housekeeper said Ghislaine Maxwell acted as \"lady of the house\" at Jeffrey Epstein's US home.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1964185,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "Staffer says he was told not to look Epstein in eye",
+        "en_content": "A former housekeeper said Ghislaine Maxwell acted as \"lady of the house\" at Jeffrey Epstein's US home.",
+        "concepts": [
+            {
+                "word": "Staffer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Epstein",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "eye",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US government shutdown averted hours before deadline",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59514531",
+        "content": "The US Congress passes a bill to fund federal agencies until 18 February, avoiding a costly shutdown.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1964352,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "US government shutdown averted hours before deadline",
+        "en_content": "The US Congress passes a bill to fund federal agencies until 18 February, avoiding a costly shutdown.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "government",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shutdown",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hours",
+                "meaning": "npadvmod",
+                "pos": "ADP"
+            },
+            {
+                "word": "deadline",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Austrian resignations trigger change of chancellor",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59516158",
+        "content": "Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1964517,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "Austrian resignations trigger change of chancellor",
+        "en_content": "Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil.",
+        "concepts": [
+            {
+                "word": "resignations",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trigger",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chancellor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Baldwin says career may be over after shooting",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59514525",
+        "content": "But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1964672,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "Baldwin says career may be over after shooting",
+        "en_content": "But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "career",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US tightens travel rules amid new Omicron cases",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59512368",
+        "content": "The US winter plan includes millions of free tests and stricter rules for international passengers.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1964824,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "US tightens travel rules amid new Omicron cases",
+        "en_content": "The US winter plan includes millions of free tests and stricter rules for international passengers.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "tightens",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "travel",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "rules",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cases",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Omicron variant: Your questions answered",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/health-59511401",
+        "content": "How long do symptoms last for, is it more harmful to children? Experts answer your questions.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1964977,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "Omicron variant: Your questions answered",
+        "en_content": "How long do symptoms last for, is it more harmful to children? Experts answer your questions.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "questions",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The drought ravaging East African wildlife and livestock",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59513118",
+        "content": "At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia.",
+        "placed": "Abroad",
+        "epoch": 1638536404.196513,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "The drought ravaging East African wildlife and livestock",
+        "en_content": "At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia.",
+        "concepts": [
+            {
+                "word": "drought",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wildlife",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "livestock",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Staffer says he was told not to look Epstein in eye",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59516888",
+        "content": "A former housekeeper said Ghislaine Maxwell acted as \"lady of the house\" at Jeffrey Epstein's US home.",
+        "placed": "Abroad",
+        "epoch": 1638536404.196521,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "Staffer says he was told not to look Epstein in eye",
+        "en_content": "A former housekeeper said Ghislaine Maxwell acted as \"lady of the house\" at Jeffrey Epstein's US home.",
+        "concepts": [
+            {
+                "word": "Staffer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Epstein",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "eye",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "US government shutdown averted hours before deadline",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59514531",
+        "content": "The US Congress passes a bill to fund federal agencies until 18 February, avoiding a costly shutdown.",
+        "placed": "Abroad",
+        "epoch": 1638536404.196536,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "US government shutdown averted hours before deadline",
+        "en_content": "The US Congress passes a bill to fund federal agencies until 18 February, avoiding a costly shutdown.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "government",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "shutdown",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "hours",
+                "meaning": "npadvmod",
+                "pos": "ADP"
+            },
+            {
+                "word": "deadline",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Austrian resignations trigger change of chancellor",
+        "date": "PT",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59516158",
+        "content": "Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1965432,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "Austrian resignations trigger change of chancellor",
+        "en_content": "Karl Nehammer is chosen as party leader and next chancellor in a bid to end days of turmoil.",
+        "concepts": [
+            {
+                "word": "resignations",
+                "meaning": "nsubj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "trigger",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "dobj",
+                "pos": "NOUN"
+            },
+            {
+                "word": "chancellor",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Baldwin says career may be over after shooting",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59514525",
+        "content": "But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1965683,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "Baldwin says career may be over after shooting",
+        "en_content": "But the 63-year-old US actor says he did not pull the trigger on the set of the Rust film in October.",
+        "concepts": [
+            {
+                "word": "Baldwin",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "career",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Omicron variant: Your questions answered",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/health-59511401",
+        "content": "How long do symptoms last for, is it more harmful to children? Experts answer your questions.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1965835,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "Omicron variant: Your questions answered",
+        "en_content": "How long do symptoms last for, is it more harmful to children? Experts answer your questions.",
+        "concepts": [
+            {
+                "word": "Omicron",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "variant",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "questions",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "The drought ravaging East African wildlife and livestock",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59513118",
+        "content": "At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1965978,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "The drought ravaging East African wildlife and livestock",
+        "en_content": "At least 26 million people are struggling for food across northern Kenya, Somalia and southern Ethiopia.",
+        "concepts": [
+            {
+                "word": "drought",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "wildlife",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "livestock",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Staffer says he was told not to look Epstein in eye",
+        "date": "2021-12-03",
+        "date_raw": "2021-12-03",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59516888",
+        "content": "A former housekeeper said Ghislaine Maxwell acted as \"lady of the house\" at Jeffrey Epstein's US home.",
+        "placed": "Abroad",
+        "epoch": 1638536404.1966124,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-12-03T14.00.04E1638536404.1966255.json",
+        "en_title": "Staffer says he was told not to look Epstein in eye",
+        "en_content": "A former housekeeper said Ghislaine Maxwell acted as \"lady of the house\" at Jeffrey Epstein's US home.",
+        "concepts": [
+            {
+                "word": "Staffer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Epstein",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "eye",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]

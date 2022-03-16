@@ -1,0 +1,660 @@
+[
+    {
+        "title": "HPV vaccine cutting cervical cancer by nearly 90%",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59148620",
+        "content": "Researchers say regular cervical screening may not be necessary because of the success of the vaccine.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6586554,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "HPV vaccine cutting cervical cancer by nearly 90%",
+        "en_content": "Researchers say regular cervical screening may not be necessary because of the success of the vaccine.",
+        "concepts": [
+            {
+                "word": "HPV",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cancer",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "HPV vaccine cutting cervical cancer by nearly 90%",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59148620",
+        "content": "Researchers say regular cervical screening may not be necessary because of the success of the vaccine.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6586857,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "HPV vaccine cutting cervical cancer by nearly 90%",
+        "en_content": "Researchers say regular cervical screening may not be necessary because of the success of the vaccine.",
+        "concepts": [
+            {
+                "word": "HPV",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vaccine",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cancer",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Australian man charged over Cleo Smith abduction",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59162188",
+        "content": "The four-year-old was found in a locked home 18 days after disappearing while on holiday with family.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6587057,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "Australian man charged over Cleo Smith abduction",
+        "en_content": "The four-year-old was found in a locked home 18 days after disappearing while on holiday with family.",
+        "concepts": [
+            {
+                "word": "man",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Cleo",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smith",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "abduction",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'My name is Cleo': First words from rescued girl",
+        "date_raw": "",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-australia-59160914",
+        "content": "Listen to the moment police in Western Australia found a four-year-old girl who had been missing for 18 days.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6587179,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "'My name is Cleo': First words from rescued girl",
+        "en_content": "Listen to the moment police in Western Australia found a four-year-old girl who had been missing for 18 days.",
+        "concepts": [
+            {
+                "word": "name",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "Cleo",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "words",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "girl",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "German Covid record as WHO warns of Europe deaths",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59160525",
+        "content": "Almost 34,000 cases are reported in Germany as the WHO warns of half a million more deaths in Europe.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6587348,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "German Covid record as WHO warns of Europe deaths",
+        "en_content": "Almost 34,000 cases are reported in Germany as the WHO warns of half a million more deaths in Europe.",
+        "concepts": [
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "record",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Europe",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "deaths",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Hundreds join 'Day of Dead Women' march in Mexico",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-latin-america-59162501",
+        "content": "Protesters carry crosses bearing the names of murdered women to draw attention to rising femicide cases.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6587508,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "Hundreds join 'Day of Dead Women' march in Mexico",
+        "en_content": "Protesters carry crosses bearing the names of murdered women to draw attention to rising femicide cases.",
+        "concepts": [
+            {
+                "word": "Hundreds",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Day",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Dead",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Women",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "march",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "Mexico",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "European manhunt for £26m celebrity raids suspect",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/uk-england-london-59049960",
+        "content": "Alfredo Lindley is accused of involvement in burglaries that targeted stars including Frank Lampard.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6587696,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "European manhunt for £26m celebrity raids suspect",
+        "en_content": "Alfredo Lindley is accused of involvement in burglaries that targeted stars including Frank Lampard.",
+        "concepts": [
+            {
+                "word": "manhunt",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "celebrity",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "raids",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Amanda Knox: I hope people would be more sceptical now",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-59158568",
+        "content": "She speaks about losing control of her identity during the Meredith Kercher murder investigation.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6587849,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "Amanda Knox: I hope people would be more sceptical now",
+        "en_content": "She speaks about losing control of her identity during the Meredith Kercher murder investigation.",
+        "concepts": [
+            {
+                "word": "Amanda",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Knox",
+                "meaning": "dep",
+                "pos": "VERB"
+            },
+            {
+                "word": "people",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "US cupcakes recalled over metal contamination fears",
+        "date_raw": "PT",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59160644",
+        "content": "People are being warned not to eat the chocolate cakes which may have fragments of mesh wire.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6587932,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "US cupcakes recalled over metal contamination fears",
+        "en_content": "People are being warned not to eat the chocolate cakes which may have fragments of mesh wire.",
+        "concepts": [
+            {
+                "word": "US",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "cupcakes",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "metal",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "contamination",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "fears",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "First pill to treat Covid gets approval in UK",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59163899",
+        "content": "The tablet - molnupiravir - will be given twice a day to patients recently diagnosed with the disease.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6588113,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "First pill to treat Covid gets approval in UK",
+        "en_content": "The tablet - molnupiravir - will be given twice a day to patients recently diagnosed with the disease.",
+        "concepts": [
+            {
+                "word": "pill",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "approval",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Turkey investigates posts about president's health",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59162469",
+        "content": "Police say disinformation about Recep Tayyip Erdogan has been spread, as his allies dismiss rumours.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6588256,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "Turkey investigates posts about president's health",
+        "en_content": "Police say disinformation about Recep Tayyip Erdogan has been spread, as his allies dismiss rumours.",
+        "concepts": [
+            {
+                "word": "Turkey",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "posts",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "president",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "health",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "First pill to treat Covid gets approval in UK",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/health-59163899",
+        "content": "The tablet - molnupiravir - will be given twice a day to patients recently diagnosed with the disease.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6588397,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "First pill to treat Covid gets approval in UK",
+        "en_content": "The tablet - molnupiravir - will be given twice a day to patients recently diagnosed with the disease.",
+        "concepts": [
+            {
+                "word": "pill",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Covid",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "approval",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "UK",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Turkey investigates posts about president's health",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-europe-59162469",
+        "content": "Police say disinformation about Recep Tayyip Erdogan has been spread, as his allies dismiss rumours.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6588535,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "Turkey investigates posts about president's health",
+        "en_content": "Police say disinformation about Recep Tayyip Erdogan has been spread, as his allies dismiss rumours.",
+        "concepts": [
+            {
+                "word": "Turkey",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "posts",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "president",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "health",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Biden rejects blame for shock Virginia vote loss",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59159008",
+        "content": "The president cites schools, jobs, petrol prices and \"Trump voters\" as reasons for the defeat.",
+        "placed": "First_Page",
+        "epoch": 1636030803.6588674,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "Biden rejects blame for shock Virginia vote loss",
+        "en_content": "The president cites schools, jobs, petrol prices and \"Trump voters\" as reasons for the defeat.",
+        "concepts": [
+            {
+                "word": "Biden",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "blame",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "shock",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Virginia",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "vote",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "loss",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "'Gripping' South Africa saga wins Booker Prize",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/entertainment-arts-59149960",
+        "content": "Damon Galgut wins the prestigious literary award at the third attempt with his novel The Promise.",
+        "placed": "First_Page",
+        "epoch": 1636030803.658881,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "'Gripping' South Africa saga wins Booker Prize",
+        "en_content": "Damon Galgut wins the prestigious literary award at the third attempt with his novel The Promise.",
+        "concepts": [
+            {
+                "word": "South",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Africa",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "saga",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Booker",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Prize",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Tennis star accuses top Chinese official of abuse",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/world-asia-china-59149698",
+        "content": "It is the first time sexual assault allegations have been made against a senior Chinese leader.",
+        "placed": "First_Page",
+        "epoch": 1636030803.658895,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "Tennis star accuses top Chinese official of abuse",
+        "en_content": "It is the first time sexual assault allegations have been made against a senior Chinese leader.",
+        "concepts": [
+            {
+                "word": "Tennis",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "star",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "official",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "abuse",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Why are disabled people so affected by climate change?",
+        "date_raw": "2021-11-04",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/disability-59042087",
+        "content": "The latest global news, sport, weather and documentaries",
+        "placed": "First_Page",
+        "epoch": 1636030803.6589117,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "Why are disabled people so affected by climate change?",
+        "en_content": "The latest global news, sport, weather and documentaries",
+        "concepts": [
+            {
+                "word": "people",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Why this element could help tackle climate change",
+        "date_raw": "2021-11-03",
+        "url": "https://www.bbc.com/news",
+        "news_url": "https://www.bbc.com/news/science-environment-59092240",
+        "content": "Stories from around the world",
+        "placed": "First_Page",
+        "epoch": 1636030803.6589258,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-04T14.00.03E1636030803.6589499.json",
+        "en_title": "Why this element could help tackle climate change",
+        "en_content": "Stories from around the world",
+        "concepts": [
+            {
+                "word": "element",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "climate",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "change",
+                "meaning": "dobj",
+                "pos": "VERB"
+            }
+        ]
+    }
+]

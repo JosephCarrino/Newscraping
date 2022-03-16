@@ -1,0 +1,649 @@
+[
+    {
+        "title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59165781",
+        "content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8137064,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "en_content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Thunberg",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "COP26",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "failure",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "PR",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exercise",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59165781",
+        "content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8137348,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "en_content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Thunberg",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "COP26",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "failure",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "PR",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exercise",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Russian diplomat found dead next to Berlin embassy",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59175317",
+        "content": "Reports of last month's death have only just emerged and suggest the man fell from an upper floor.",
+        "placed": "Abroad",
+        "epoch": 1636138803.813754,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Russian diplomat found dead next to Berlin embassy",
+        "en_content": "Reports of last month's death have only just emerged and suggest the man fell from an upper floor.",
+        "concepts": [
+            {
+                "word": "diplomat",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Berlin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "embassy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Full footage of black jogger's death shown at trial",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180744",
+        "content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "placed": "Abroad",
+        "epoch": 1636138803.813771,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Full footage of black jogger's death shown at trial",
+        "en_content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "concepts": [
+            {
+                "word": "footage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jogger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59175404",
+        "content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8137894,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "en_content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "soldiers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rebels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Antiviral Covid pill 89% effective, Pfizer says",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/health-59178291",
+        "content": "The company stopped clinical trials early because initial results for the drug were so positive.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8138084,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Antiviral Covid pill 89% effective, Pfizer says",
+        "en_content": "The company stopped clinical trials early because initial results for the drug were so positive.",
+        "concepts": [
+            {
+                "word": "Antiviral",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pill",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Pfizer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Lyse Doucet’s love letter to Kabul through nine treasured places",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59175316",
+        "content": "Cleo, 4, was found in a locked home 18 days after disappearing, in a case that gripped Australia.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8138244,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Lyse Doucet’s love letter to Kabul through nine treasured places",
+        "en_content": "Cleo, 4, was found in a locked home 18 days after disappearing, in a case that gripped Australia.",
+        "concepts": [
+            {
+                "word": "Lyse",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Doucet",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "love",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "letter",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Kabul",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "places",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Cleo Smith's parents: Our little girl is back",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/uk-scotland-glasgow-west-59165781",
+        "content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "placed": "Abroad",
+        "epoch": 1636138803.813842,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Cleo Smith's parents: Our little girl is back",
+        "en_content": "The Swedish activist was speaking after thousands of climate protestors marched through Glasgow.",
+        "concepts": [
+            {
+                "word": "Cleo",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smith",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parents",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "girl",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59175317",
+        "content": "Reports of last month's death have only just emerged and suggest the man fell from an upper floor.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8138628,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Greta Thunberg: COP26 is a failure and PR exercise",
+        "en_content": "Reports of last month's death have only just emerged and suggest the man fell from an upper floor.",
+        "concepts": [
+            {
+                "word": "Greta",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Thunberg",
+                "meaning": "dep",
+                "pos": "AUX"
+            },
+            {
+                "word": "COP26",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "failure",
+                "meaning": "attr",
+                "pos": "AUX"
+            },
+            {
+                "word": "PR",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "exercise",
+                "meaning": "conj",
+                "pos": "NOUN"
+            }
+        ]
+    },
+    {
+        "title": "Russian diplomat found dead next to Berlin embassy",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180744",
+        "content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8138866,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Russian diplomat found dead next to Berlin embassy",
+        "en_content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "concepts": [
+            {
+                "word": "diplomat",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Berlin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "embassy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Full footage of black jogger's death shown at trial",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59175404",
+        "content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8139062,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Full footage of black jogger's death shown at trial",
+        "en_content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "concepts": [
+            {
+                "word": "footage",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "jogger",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "death",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "trial",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/health-59178291",
+        "content": "The company stopped clinical trials early because initial results for the drug were so positive.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8139253,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Ethiopia urges ex-soldiers to fight against rebels",
+        "en_content": "The company stopped clinical trials early because initial results for the drug were so positive.",
+        "concepts": [
+            {
+                "word": "Ethiopia",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "ex",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "-",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "soldiers",
+                "meaning": "dobj",
+                "pos": "VERB"
+            },
+            {
+                "word": "rebels",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Antiviral Covid pill 89% effective, Pfizer says",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-australia-59175316",
+        "content": "Cleo, 4, was found in a locked home 18 days after disappearing, in a case that gripped Australia.",
+        "placed": "Abroad",
+        "epoch": 1636138803.813948,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Antiviral Covid pill 89% effective, Pfizer says",
+        "en_content": "Cleo, 4, was found in a locked home 18 days after disappearing, in a case that gripped Australia.",
+        "concepts": [
+            {
+                "word": "Antiviral",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Covid",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "pill",
+                "meaning": "ccomp",
+                "pos": "VERB"
+            },
+            {
+                "word": "%",
+                "meaning": "npadvmod",
+                "pos": "ADJ"
+            },
+            {
+                "word": "Pfizer",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            }
+        ]
+    },
+    {
+        "title": "Lyse Doucet’s love letter to Kabul through nine treasured places",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-europe-59175317",
+        "content": "Reports of last month's death have only just emerged and suggest the man fell from an upper floor.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8139653,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Lyse Doucet’s love letter to Kabul through nine treasured places",
+        "en_content": "Reports of last month's death have only just emerged and suggest the man fell from an upper floor.",
+        "concepts": [
+            {
+                "word": "Lyse",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Doucet",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "love",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "letter",
+                "meaning": "ROOT",
+                "pos": "NOUN"
+            },
+            {
+                "word": "Kabul",
+                "meaning": "pobj",
+                "pos": "ADP"
+            },
+            {
+                "word": "places",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    },
+    {
+        "title": "Cleo Smith's parents: Our little girl is back",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-us-canada-59180744",
+        "content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8139856,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Cleo Smith's parents: Our little girl is back",
+        "en_content": "Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime.",
+        "concepts": [
+            {
+                "word": "Cleo",
+                "meaning": "compound",
+                "pos": "PROPN"
+            },
+            {
+                "word": "Smith",
+                "meaning": "poss",
+                "pos": "NOUN"
+            },
+            {
+                "word": "parents",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            },
+            {
+                "word": "girl",
+                "meaning": "nsubj",
+                "pos": "AUX"
+            }
+        ]
+    },
+    {
+        "title": "Russian diplomat found dead next to Berlin embassy",
+        "date": "2021-11-05",
+        "date_raw": "2021-11-05",
+        "url": "https://www.bbc.com/news/world",
+        "news_url": "https://www.bbc.com/news/world-africa-59175404",
+        "content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "placed": "Abroad",
+        "epoch": 1636138803.8140042,
+        "language": "en",
+        "source": "BBC",
+        "filename": "conc_en_2021-11-05T20.00.03E1636138803.8140237.json",
+        "en_title": "Russian diplomat found dead next to Berlin embassy",
+        "en_content": "The army calls on former military personnel to join it, as rebel forces advance on the capital.",
+        "concepts": [
+            {
+                "word": "diplomat",
+                "meaning": "nsubj",
+                "pos": "VERB"
+            },
+            {
+                "word": "Berlin",
+                "meaning": "compound",
+                "pos": "NOUN"
+            },
+            {
+                "word": "embassy",
+                "meaning": "pobj",
+                "pos": "ADP"
+            }
+        ]
+    }
+]
