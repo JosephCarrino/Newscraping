@@ -65,7 +65,6 @@ class PostscrapeSpider(scrapy.Spider):
 
     def getFullContent(self, response):
         fullcont = response.css("#singleBody").css("p::text").getall()
-        print(fullcont)
         content= ''.join(fullcont)
         
         item = response.meta.get('data')
