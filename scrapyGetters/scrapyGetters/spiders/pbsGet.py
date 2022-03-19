@@ -58,7 +58,8 @@ class PbsgetSpider(scrapy.Spider):
                 'news_url': item[1],
                 'duration': item[2],
                 'ranked': item[3],
-                'epoch': time.time()
+                'epoch': time.time(),
+                'language': "EN"
             }
             edition.append(scraped_info)
             

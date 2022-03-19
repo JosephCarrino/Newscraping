@@ -54,7 +54,8 @@ class RtsgetSpider(scrapy.Spider):
                 'news_url': item[3],
                 'duration': item[4],
                 'ranked': item[5],
-                'epoch': time.time()
+                'epoch': time.time(),
+                'language': "FR"
             }
             edition.append(scraped_info)
         

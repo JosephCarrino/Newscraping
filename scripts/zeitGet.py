@@ -52,7 +52,8 @@ def main():
             'news_url': item[3],
             'content': item[4],
             'ranked': i,
-            'epoch': time.time()
+            'epoch': time.time(),
+            'language': "DE"
         }
         i+=1
         if(i <= 20):

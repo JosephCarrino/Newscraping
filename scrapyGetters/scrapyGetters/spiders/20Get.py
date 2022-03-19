@@ -55,7 +55,8 @@ class A20getSpider(scrapy.Spider):
                     'url_news': urls,
                     'content': contents,
                     'ranked': str(i),
-                    'epoch': time.time()
+                    'epoch': time.time(),
+                    'language': "DE"
                 }
                 i+=1
                 edition.append(scraped_info)

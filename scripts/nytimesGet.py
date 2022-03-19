@@ -66,6 +66,7 @@ def main():
                 'ranked': item[4],
                 'placed': item[5],
                 'epoch': time.time(),
+                'language': "EN",
                 'more_info': item[6]
             }
             if item[5] == "":
