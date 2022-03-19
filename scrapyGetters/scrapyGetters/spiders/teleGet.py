@@ -91,7 +91,8 @@ class TelegetSpider(scrapy.Spider):
                 'content': content.replace("\n", "").replace("   ", " ").replace("  ", " ").replace("- ", ""),
                 'ranked': item[3],
                 'placed': item[4],
-                'epoch': time.time()
+                'epoch': time.time(),
+                'language': 'IT'
             }
 
         response.meta.get('edition').append(scraped_info)

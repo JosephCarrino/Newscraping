@@ -77,7 +77,8 @@ class CnngetSpider(scrapy.Spider):
                 'content': content,
                 'ranked': response.meta.get('currelem'),
                 'placed': 'First_Page',
-                'epoch': time.time()
+                'epoch': time.time(),
+                'language': 'EN'
             }
 
             response.meta.get('edition').append(scraped_info)
