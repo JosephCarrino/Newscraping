@@ -56,7 +56,8 @@ class A20getSpider(scrapy.Spider):
                     'content': contents,
                     'ranked': str(i),
                     'epoch': time.time(),
-                    'language': "DE"
+                    'language': "DE",
+                    'source': "Tagesschau"
                 }
                 i+=1
                 edition.append(scraped_info)

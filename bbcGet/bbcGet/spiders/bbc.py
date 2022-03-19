@@ -62,7 +62,9 @@ class BbcSpider(scrapy.Spider):
             'subtitle': item[1],
             'content': toRet,
             'placed': response.meta.get('oldurl').replace(base_url, "").replace("world", "Abroad").replace("politics", "Politics"),
-            'epoch': time.time()               
+            'epoch': time.time(),
+            'language': "EN",
+            'source': "BBC"               
         }
         #I still don't understand why the "replace" function doesn't work if I literally have the same string of "base_url"
         #so this is a raw debug

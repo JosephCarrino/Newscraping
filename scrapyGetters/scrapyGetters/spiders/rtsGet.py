@@ -55,7 +55,8 @@ class RtsgetSpider(scrapy.Spider):
                 'duration': item[4],
                 'ranked': item[5],
                 'epoch': time.time(),
-                'language': "FR"
+                'language': "FR",
+                'source': "RTS"
             }
             edition.append(scraped_info)
         

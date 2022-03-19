@@ -54,7 +54,8 @@ class FrgetSpider(scrapy.Spider):
                 'ranked': item[4],
                 'placed': "First_Page",
                 'epoch': time.time(),
-                'language': "EN"                
+                'language': "EN",
+                'source': "France24"                
             }
             edition.append(scraped_info)
         

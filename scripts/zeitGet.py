@@ -53,7 +53,8 @@ def main():
             'content': item[4],
             'ranked': i,
             'epoch': time.time(),
-            'language': "DE"
+            'language': "DE",
+            'source': "Zeit"
         }
         i+=1
         if(i <= 20):

@@ -78,7 +78,8 @@ class CnngetSpider(scrapy.Spider):
                 'ranked': response.meta.get('currelem'),
                 'placed': 'First_Page',
                 'epoch': time.time(),
-                'language': 'EN'
+                'language': 'EN',
+                'source': "CNN"
             }
 
             response.meta.get('edition').append(scraped_info)

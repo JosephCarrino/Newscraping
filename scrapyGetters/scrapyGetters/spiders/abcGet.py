@@ -82,7 +82,8 @@ class AbcgetSpider(scrapy.Spider):
                 'ranked': response.meta.get('currelem'),
                 'placed': 'Abroad',
                 'epoch': time.time(),
-                'language': 'ES'
+                'language': 'ES',
+                'source': "ABC"
             }
 
         response.meta.get('edition').append(scraped_info)

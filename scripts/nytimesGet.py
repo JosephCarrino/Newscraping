@@ -67,6 +67,7 @@ def main():
                 'placed': item[5],
                 'epoch': time.time(),
                 'language': "EN",
+                'source': "NYT",
                 'more_info': item[6]
             }
             if item[5] == "":

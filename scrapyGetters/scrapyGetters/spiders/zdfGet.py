@@ -58,7 +58,8 @@ class ZdfgetSpider(scrapy.Spider):
                 'ranked': item[2],
                 'placed': "First_Page",
                 'epoch': time.time(),
-                'langauge': "DE"
+                'langauge': "DE",
+                'source': "Zdf"
             }
             edition.append(scraped_info)
 

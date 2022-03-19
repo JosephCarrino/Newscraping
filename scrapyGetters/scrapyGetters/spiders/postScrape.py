@@ -79,7 +79,8 @@ class PostscrapeSpider(scrapy.Spider):
                 'ranked': item[5],
                 'placed': item[6],
                 'epoch': time.time(),
-                'language': 'IT'
+                'language': 'IT',
+                'source': "ilPost"
             }
         
         response.meta.get('edition').append(scraped_info)

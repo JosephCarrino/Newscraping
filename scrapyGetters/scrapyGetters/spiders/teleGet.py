@@ -92,7 +92,8 @@ class TelegetSpider(scrapy.Spider):
                 'ranked': item[3],
                 'placed': item[4],
                 'epoch': time.time(),
-                'language': 'IT'
+                'language': 'IT',
+                'source': "Televideo"
             }
 
         response.meta.get('edition').append(scraped_info)

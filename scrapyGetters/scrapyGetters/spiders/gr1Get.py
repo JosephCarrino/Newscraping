@@ -77,7 +77,8 @@ class Gr1getSpider(scrapy.Spider):
                 'ranked': i,
                 'placed': "First_Page",
                 'epoch': time.time(),
-                'language': "IT"
+                'language': "IT",
+                'source': "GR1"
             }
             edition.append(scraped_info)
             i+=1
