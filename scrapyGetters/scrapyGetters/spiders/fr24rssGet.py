@@ -10,11 +10,12 @@ import json
 
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
-BASE_URL = f"www.lefigaro.fr"
-RSS_URL = f"https://www.lefigaro.fr/rss/figaro_international.xml"
+BASE_URL = f"www.france24.com"
+RSS_URL = f"https://www.france24.com/fr/planete/rss"
 
-class LefigaroSpider(scrapy.Spider):
-    name = 'leFigaroGet'
+
+class Fr24rssgetSpider(scrapy.Spider):
+    name = 'fr24rssGet'
     allowed_domains = [BASE_URL]
     start_urls = [RSS_URL]
 
@@ -54,7 +55,7 @@ class LefigaroSpider(scrapy.Spider):
         pass
 
     def getFullContent(self, response):
-        fullcont= response.css(".RichText").css("p::text").getall()
+        fullcont= response.css(".t-content__body").css("p::text").getall()
         content= ''.join(fullcont)
 
         item = response.meta.get('data')
@@ -69,8 +70,8 @@ class LefigaroSpider(scrapy.Spider):
                 'ranked': response.meta.get('currelem'),
                 'placed': 'Abroad',
                 'epoch': time.time(),
-                'language': 'DE',
-                'source': "Spiegel"
+                'language': 'FR',
+                'source': "France24"
         }
 
         response.meta.get('edition').append(scraped_info)
@@ -81,9 +82,10 @@ class LefigaroSpider(scrapy.Spider):
             now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
 
             base_name = f"{now_s}E{now_epoch}.json"
-            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/DE/Spiegel"
+            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/FR/France24"
             scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
             with open(scraped_data_filepath, "w") as f:
                 json.dump(response.meta.get('edition'), f, indent= 4, ensure_ascii=False)
                 f.write("\n")
     
+
