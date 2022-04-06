@@ -5,7 +5,7 @@ scrapy crawl teleGet
 scrapy crawl postScrape
 scrapy crawl dwGet
 scrapy crawl abcGet
-scrapy crawl cnnGEt
+scrapy crawl cnnGet
 scrapy crawl fr24rssGet
 cd ../../..
 git add .
