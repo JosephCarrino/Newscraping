@@ -82,13 +82,18 @@ class TelegetSpider(scrapy.Spider):
             content= ""
         item= response.meta.get('data')
         print(item)
+        try:
+        	content= content.replace("\n", "").replace("   ", " ").replace("  ", " ").replace("- ", "")
+        except:
+        	content= ""
+        	pass
         scraped_info = {
                 'title': item[0],
                 'date_raw': date.today().strftime("%B %d, %Y"),
                 'date': date.today().strftime("%Y-%m-%d"),
                 'url': response.meta.get('oldurl'),
                 'news_url': item[1],
-                'content': content.replace("\n", "").replace("   ", " ").replace("  ", " ").replace("- ", ""),
+                'content': content,
                 'ranked': item[3],
                 'placed': item[4],
                 'epoch': time.time(),
