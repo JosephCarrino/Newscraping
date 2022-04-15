@@ -24,7 +24,7 @@ class DwgetSpider(scrapy.Spider):
             if raw_date == "":
                 dates.append(datetime.now().strftime("%Y-%m-%d"))
             else:
-                raw_date = raw_date[5:15]
+                raw_date = raw_date[5:16]
                 todate = datetime.strptime(raw_date, "%d %b %Y")
                 dates.append(todate.strftime("%Y-%m-%d"))
         return dates
