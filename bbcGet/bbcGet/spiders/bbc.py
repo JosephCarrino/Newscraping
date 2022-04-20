@@ -13,11 +13,7 @@ from datetime import datetime, timedelta
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 BASE_URL = f"www.bbc.com/news"
-ARCH_URLS = [
-    f"https://{BASE_URL}",
-    f"https://{BASE_URL}/world/",
-    f"https://{BASE_URL}/politics"
-]
+ARCH_URLS = [f"https://{BASE_URL}/world/"]
 
 class BbcSpider(scrapy.Spider):
     name = 'bbc'

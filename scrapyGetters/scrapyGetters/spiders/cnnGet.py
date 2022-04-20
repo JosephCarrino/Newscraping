@@ -11,7 +11,7 @@ import json
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 BASE_URL = f"rss.cnn.com"
-RSS_URL = f"http://{BASE_URL}/rss/edition.rss"
+RSS_URL = f"http://{BASE_URL}/rss/edition_world.rss"
 
 class CnngetSpider(scrapy.Spider):
     name = 'cnnGet'

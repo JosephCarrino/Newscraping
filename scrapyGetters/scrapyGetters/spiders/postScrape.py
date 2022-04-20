@@ -11,10 +11,7 @@ import json
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 BASE_URL = f"www.ilpost.it"
-ARCH_URLS = [f"https://{BASE_URL}/",
-            f"https://{BASE_URL}/mondo/",
-            f"https://{BASE_URL}/politica/",
-            f"https://{BASE_URL}/economia/"]
+ARCH_URLS = [f"https://{BASE_URL}/mondo/"]
 
 place_dict= {'https://www.ilpost.it/': "First_Page",
             'https://www.ilpost.it/mondo/': "Abroad",
