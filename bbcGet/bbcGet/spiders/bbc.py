@@ -59,7 +59,7 @@ class BbcSpider(scrapy.Spider):
             'date_raw': date,
             'url': response.request.url,
             'news_url': "https://www.bbc.com" + item[2],
-            'subtitle': item[1],
+            'subtitle': "",
             'content': toRet,
             'placed': response.meta.get('oldurl').replace(base_url, "").replace("world", "Abroad").replace("politics", "Politics"),
             'epoch': time.time(),

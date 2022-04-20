@@ -1,5 +1,5 @@
 #!/bin/sh
-PATH=$PATH:/home/students/giuseppe.carrino2/.local/bin
+PATH=$PATH:/home/joseph/.local/bin
 export PATH
 scrapy crawl bbc
 cd ../../..
