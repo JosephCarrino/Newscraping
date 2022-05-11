@@ -7,17 +7,37 @@ from datetime import datetime, timedelta
 import time
 from os import path
 import json
+import os
+import errno
+
+NOW = datetime.now()
+NOW_S = NOW.strftime("%Y-%m-%dT%H.%M.%S")
+NOW_EPOCH = (NOW - datetime(1970, 1, 1)) / timedelta(seconds=1)
+BASE_NAME = f"{NOW_S}E{NOW_EPOCH}.json"
+
 
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 BASE_URL = f"www.agi.it"
-RSS_URL = f"https://www.agi.it/estero/rss"
+RSS_URLS = ["https://www.agi.it/estero/rss",
+           "https://www.agi.it/politica/rss",
+           "https://www.agi.it/cronaca/rss",
+           ]
 
+CATE_DICT = {"https://www.agi.it/estero/rss": "Esteri",
+             "https://www.agi.it/economia/rss": "Economia",
+             "https://www.agi.it/politica/rss": "Politica",
+             "https://www.agi.it/cronaca/rss": "Cronaca",
+             "https://www.agi.it/cultura/rss": "Cultura",
+             "https://www.agi.it/sport/rss": "Sport",
+             "https://www.agi.it/innovazione/rss": "Tecnologia",
+             "https://www.agi.it/lifestyle/rss": "Lifestyle"
+             }
 
 class AgigetSpider(scrapy.Spider):
     name = 'agiGet'
     allowed_domains = [BASE_URL]
-    start_urls = [RSS_URL]
+    start_urls = RSS_URLS
 
     def dateFormatter(self, dates_raw):
         dates= []
@@ -59,20 +79,24 @@ class AgigetSpider(scrapy.Spider):
                 'subtitle': "",
                 "content": item[4],
                 'ranked': i,
-                'placed': "Abroad",
+                'placed': CATE_DICT[response.request.url],
                 'epoch': time.time(),
                 'language': 'IT',
                 'source': "AGI"
             }
             edition.append(scraped_info)
         
-        now = datetime.now()
-        now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
-        now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
 
-        base_name = f"{now_s}E{now_epoch}.json"
-        scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/IT/AGI"
-        scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+        
+        scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/IT/AGI_{CATE_DICT[response.request.url]}"
+        global BASE_NAME
+        scraped_data_filepath = f"{scraped_data_dir}/{BASE_NAME}"
+        if not os.path.exists(os.path.dirname(scraped_data_filepath)):
+            try:
+                os.makedirs(os.path.dirname(scraped_data_filepath))
+            except OSError as exc:
+                if exc.errno != errno.EEXIST:
+                    raise
         with open(scraped_data_filepath, "w") as f:
             json.dump(edition, f, indent= 4, ensure_ascii=False)
             f.write("\n")
