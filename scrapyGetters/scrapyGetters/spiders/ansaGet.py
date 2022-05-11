@@ -72,12 +72,10 @@ class AnsagetSpider(scrapy.Spider):
         edition= []
         i= 0
         for item in zip(titles, dates_raw, dates, urls, subtitles):
-            print(titles)
             i+=1
             yield scrapy.Request(item[3], callback= self.getFullContent, meta= {'data': item, 'currelem': i, 'edition': edition, 'oldurl': response.request.url})
 
     def getFullContent(self, response):
-        print(response)
         fullcont = response.css(".news-txt").css("p::text").getall()
         content= ''.join(fullcont)
 
