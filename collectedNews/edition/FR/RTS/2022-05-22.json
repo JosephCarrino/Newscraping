@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/le-tournoi-de-roland-garros-debute-ce-dimanche-avec-deux-suissesses-en-lice-25825217.html",
         "duration": "01:35",
         "ranked": 0,
-        "epoch": 1653426009.5981529,
+        "epoch": 1653512409.4387524,
         "language": "FR",
         "source": "RTS"
     },
@@ -19,7 +19,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/la-revue-de-presse-alemanique-25825220.html",
         "duration": "03:04",
         "ranked": 1,
-        "epoch": 1653426009.598156,
+        "epoch": 1653512409.438764,
         "language": "FR",
         "source": "RTS"
     },
@@ -31,7 +31,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/une-application-de-covoiturage-est-lancee-dans-le-but-de-reduite-le-trafic-entre-le-val-de-ruz-et-saint-imier-25825225.html",
         "duration": "01:36",
         "ranked": 2,
-        "epoch": 1653426009.5981576,
+        "epoch": 1653512409.4387653,
         "language": "FR",
         "source": "RTS"
     },
@@ -43,7 +43,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/l-oms-entame-sa-75e-assemblee-ce-dimanche-a-geneve-25825231.html",
         "duration": "01:22",
         "ranked": 3,
-        "epoch": 1653426009.5981586,
+        "epoch": 1653512409.438767,
         "language": "FR",
         "source": "RTS"
     },
@@ -55,7 +55,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/le-parti-travailliste-remporte-les-elections-federales-en-australie-25825228.html",
         "duration": "01:47",
         "ranked": 4,
-        "epoch": 1653426009.5981598,
+        "epoch": 1653512409.4387681,
         "language": "FR",
         "source": "RTS"
     },
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/une-guerre-des-gangs-sevit-en-haiti-et-l-onu-appelle-le-gouvernement-a-agir-25825230.html",
         "duration": "01:47",
         "ranked": 5,
-        "epoch": 1653426009.5981612,
+        "epoch": 1653512409.438769,
         "language": "FR",
         "source": "RTS"
     },
@@ -79,19 +79,19 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/regards-sur-la-chouette-effraie-pour-la-journee-mondiale-de-la-biodiversite-25825243.html",
         "duration": "01:29",
         "ranked": 6,
-        "epoch": 1653426009.5981622,
+        "epoch": 1653512409.4387703,
         "language": "FR",
         "source": "RTS"
     },
     {
-        "title": "À voix haute - Lytta Basset, théologienne et philosophe",
+        "title": "À voix haute - La Vie en toute confiance!",
         "date_raw": "May 22, 2022",
         "date": "2022-05-22",
         "url": "https://www.rts.ch/audio-podcast/2022/audio/le-12h30-presente-par-aleksandra-planinic-25825237.html",
-        "news_url": "https://www.rts.ch/audio-podcast/2022/audio/a-voix-haute-lytta-basset-theologienne-et-philosophe-25825240.html",
+        "news_url": "https://www.rts.ch/audio-podcast/2022/audio/a-voix-haute-la-vie-en-toute-confiance-25825240.html",
         "duration": "15:14",
         "ranked": 7,
-        "epoch": 1653426009.5981758,
+        "epoch": 1653512409.438771,
         "language": "FR",
         "source": "RTS"
     }
