@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/le-real-madrid-remporte-la-ligue-des-champions-pour-la-14e-fois-25826952.html",
         "duration": "02:39",
         "ranked": 0,
-        "epoch": 1654117210.234565,
+        "epoch": 1654203609.4715984,
         "language": "FR",
         "source": "RTS"
     },
@@ -19,7 +19,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/ligue-des-champions-le-match-retarde-a-cause-de-la-pagaille-devant-le-stade-25826954.html",
         "duration": "01:25",
         "ranked": 1,
-        "epoch": 1654117210.2345686,
+        "epoch": 1654203609.4716024,
         "language": "FR",
         "source": "RTS"
     },
@@ -31,7 +31,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/la-revue-de-presse-alemanique-25826955.html",
         "duration": "02:43",
         "ranked": 2,
-        "epoch": 1654117210.23457,
+        "epoch": 1654203609.471604,
         "language": "FR",
         "source": "RTS"
     },
@@ -43,7 +43,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/tennis-debut-des-huitiemes-de-final-a-roland-garros-25826960.html",
         "duration": "01:51",
         "ranked": 3,
-        "epoch": 1654117210.2345712,
+        "epoch": 1654203609.4716053,
         "language": "FR",
         "source": "RTS"
     },
@@ -55,7 +55,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/le-tourisme-suisse-se-remet-de-la-crise-du-covid-reportage-a-lucerne-25826956.html",
         "duration": "02:42",
         "ranked": 4,
-        "epoch": 1654117210.2345722,
+        "epoch": 1654203609.4716063,
         "language": "FR",
         "source": "RTS"
     },
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/election-presidentielle-en-colombie-portrait-de-francia-marquez-vice-presidente-du-candidat-gustavo-petro-25826965.html",
         "duration": "01:32",
         "ranked": 5,
-        "epoch": 1654117210.234574,
+        "epoch": 1654203609.4716074,
         "language": "FR",
         "source": "RTS"
     },
@@ -79,7 +79,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/a-voix-haute-a-la-messe-avec-daniele-hervieu-leger-25826967.html",
         "duration": "15:07",
         "ranked": 6,
-        "epoch": 1654117210.2345753,
+        "epoch": 1654203609.4716084,
         "language": "FR",
         "source": "RTS"
     }
