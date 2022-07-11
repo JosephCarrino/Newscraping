@@ -7,7 +7,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/le-premier-ministre-britannique-boris-johnson-demissionne-25836572.html",
         "duration": "05:27",
         "ranked": 0,
-        "epoch": 1657486809.080492,
+        "epoch": 1657573208.1476672,
         "language": "FR",
         "source": "RTS"
     },
@@ -19,7 +19,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/vaud-va-interdire-les-therapies-de-conversion-interview-de-rebecca-ruiz-25836574.html",
         "duration": "03:29",
         "ranked": 1,
-        "epoch": 1657486809.0804944,
+        "epoch": 1657573208.1476696,
         "language": "FR",
         "source": "RTS"
     },
@@ -31,7 +31,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/le-chomage-est-a-2-un-plancher-historiquement-bas-en-suisse-25836575.html",
         "duration": "01:22",
         "ranked": 2,
-        "epoch": 1657486809.0804954,
+        "epoch": 1657573208.1476707,
         "language": "FR",
         "source": "RTS"
     },
@@ -43,7 +43,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/tour-de-france-une-nouvelle-chute-de-coureur-causee-par-un-public-inattentif-25836578.html",
         "duration": "02:01",
         "ranked": 3,
-        "epoch": 1657486809.0804963,
+        "epoch": 1657573208.1476717,
         "language": "FR",
         "source": "RTS"
     },
@@ -55,7 +55,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/le-proces-de-l-effondrement-du-pont-morandi-de-genes-s-ouvre-en-italie-25836579.html",
         "duration": "01:50",
         "ranked": 4,
-        "epoch": 1657486809.0804973,
+        "epoch": 1657573208.147673,
         "language": "FR",
         "source": "RTS"
     },
@@ -67,7 +67,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/les-mariees-de-l-an-1-4-5-procreation-medicalement-assistee-25836582.html",
         "duration": "04:53",
         "ranked": 5,
-        "epoch": 1657486809.0804985,
+        "epoch": 1657573208.1476738,
         "language": "FR",
         "source": "RTS"
     },
@@ -79,7 +79,7 @@
         "news_url": "https://www.rts.ch/audio-podcast/2022/audio/l-invitee-du-12h30-vendredi-sur-mer-en-rediffusion-25836584.html",
         "duration": "08:14",
         "ranked": 6,
-        "epoch": 1657486809.0804992,
+        "epoch": 1657573208.1476746,
         "language": "FR",
         "source": "RTS"
     }
