@@ -5,10 +5,10 @@ export PATH
 #scrapy crawl postScrape
 #scrapy crawl dwGet
 #scrapy crawl abcGet
-#scrapy crawl cnnGet
+scrapy crawl cnnGet
 #scrapy crawl fr24rssGet
-scrapy crawl agiGet
-scrapy crawl ansaGet
+#scrapy crawl agiGet
+#scrapy crawl ansaGet
 cd ../../..
 git add .
 git commit -m "checkout"

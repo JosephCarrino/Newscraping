@@ -11,7 +11,7 @@ import json
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 BASE_URL = f"rss.cnn.com"
-RSS_URL = f"http://{BASE_URL}/rss/edition_world.rss"
+RSS_URL = f"http://{BASE_URL}/rss/edition_asia.rss"
 
 class CnngetSpider(scrapy.Spider):
     name = 'cnnGet'
@@ -90,7 +90,7 @@ class CnngetSpider(scrapy.Spider):
             now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
 
             base_name = f"{now_s}E{now_epoch}.json"
-            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/EN/CNN"
+            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/EN/CNN_Asia"
             scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
             with open(scraped_data_filepath, "w") as f:
                 json.dump(response.meta.get('edition'), f, indent= 4, ensure_ascii=False)
