@@ -82,7 +82,7 @@ class CnngetSpider(scrapy.Spider):
                 'source': "CNN"
             }
 
-            if "Korea" in scraped_info['title'] or "Korea" in scraped_info['content']:
+            if ("Korea" in scraped_info['title'] or "Korea" in scraped_info['content']) and scraped_info['content'] != '':
                 response.meta.get('edition').append(scraped_info)
 
         if response.meta.get('currelem') == len(item):
