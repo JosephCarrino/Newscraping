@@ -82,7 +82,8 @@ class CnngetSpider(scrapy.Spider):
                 'source': "CNN"
             }
 
-            response.meta.get('edition').append(scraped_info)
+            if "Korea" in scraped_info['title'] or "Korea" in scraped_info['content']:
+                response.meta.get('edition').append(scraped_info)
 
         if response.meta.get('currelem') == len(item):
             now = datetime.now()
