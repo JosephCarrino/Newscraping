@@ -1,24 +1,31 @@
 #!/usr/bin/env python
+from typing import Union
 
 import scrapy
-from scrapy.http import HtmlResponse
-from scrapy import Selector
+from defer import Deferred
+from scrapy import Spider
 from datetime import datetime, timedelta
 import time
 from os import path
 import json
+from .BaseScraper import BaseScraper
 
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 BASE_URL = f"rss.cnn.com"
 RSS_URL = f"http://{BASE_URL}/rss/edition_asia.rss"
 
-class CnngetSpider(scrapy.Spider):
+
+class CnngetSpider(BaseScraper):
     name = 'cnnGet'
     start_urls = [RSS_URL]
+    edition = []
+    timezone = "Asia/Seoul"
+    timeslot_day = ''
+    timeslot_number = 0
 
     def dateFormatter(self, dates_raw):
-        dates= []
+        dates = []
         for raw_date in dates_raw:
             if raw_date == "":
                 dates.append(datetime.now().strftime("%Y-%m-%d"))
@@ -29,15 +36,17 @@ class CnngetSpider(scrapy.Spider):
         return dates
 
     def parse(self, response):
+        super().parse(response)
+
         articles = response.css("item")
 
-        titles= []
-        subtitles= []
-        dates_raw= []
-        urls= []
+        titles = []
+        subtitles = []
+        dates_raw = []
+        urls = []
 
-        first= True
-        for article in articles: 
+        first = True
+        for article in articles:
             if not first:
                 titles.append(article.css("title::text").get())
                 if article.css("description::text").get():
@@ -49,22 +58,41 @@ class CnngetSpider(scrapy.Spider):
                 else:
                     dates_raw.append("")
                 urls.append(article.css("link::text").get())
-            first= False
-        
-        dates= self.dateFormatter(dates_raw)
+            first = False
 
-        edition= []
-        i= 0
+        dates = self.dateFormatter(dates_raw)
+
+        edition = []
+        i = 0
         for item in zip(titles, dates_raw, dates, urls, subtitles):
-            i+=1
-            yield scrapy.Request(item[3], callback= self.getFullContent, meta= {'data': item, 'currelem': i, 'edition': edition, 'oldurl': response.request.url})
-        
+            i += 1
+            yield scrapy.Request(item[3], callback=self.getFullContent,
+                                 meta={'data': item, 'currelem': i, 'edition': edition, 'oldurl': response.request.url})
+
         pass
+
+    def close(spider: Spider, reason: str) -> Union[Deferred, None]:
+        if reason == 'finished':
+            now = datetime.now()
+            now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
+            now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
+
+            base_name = f"{now_s}E{now_epoch}.json"
+            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/EN/CNN_Asia"
+            scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+            with open(scraped_data_filepath, "a") as f:
+                json.dump(spider.edition, f, indent=4, ensure_ascii=False)
+                f.write("\n")
+        return spider.close(spider, reason)
 
     def getFullContent(self, response):
         if "live-news" not in response.request.url:
-            fullcont = response.css(".zn-body__paragraph::text").getall()
-            content= ''.join(fullcont)
+            fullcont = response.css(".article__content p.paragraph::text").getall()
+            content = ''.join(fullcont)
+
+            if content == '':
+                fullcont = response.css('.zn-body__paragraph::text')
+                content = ''.join(fullcont)
 
             item = response.meta.get('data')
             scraped_info = {
@@ -79,20 +107,12 @@ class CnngetSpider(scrapy.Spider):
                 'placed': 'First_Page',
                 'epoch': time.time(),
                 'language': 'EN',
-                'source': "CNN"
+                'source': "CNN",
+                'local_time': self.calculate_local_time(),
+                'timezone': self.timezone,
+                'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
             }
 
-            if ("Korea" in scraped_info['title'] or "Korea" in scraped_info['content']) and scraped_info['content'] != '':
-                response.meta.get('edition').append(scraped_info)
-
-        if response.meta.get('currelem') == len(item):
-            now = datetime.now()
-            now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
-            now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
-
-            base_name = f"{now_s}E{now_epoch}.json"
-            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/EN/CNN_Asia"
-            scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
-            with open(scraped_data_filepath, "w") as f:
-                json.dump(response.meta.get('edition'), f, indent= 4, ensure_ascii=False)
-                f.write("\n")
+            if ("Korea" in scraped_info['title'] or "Korea" in scraped_info['content']) and scraped_info[
+                'content'] != '':
+                self.edition.append(scraped_info)

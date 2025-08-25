@@ -1,28 +1,24 @@
 #!/usr/bin/env python
-
-import scrapy
-from scrapy.http import HtmlResponse
-from scrapy import Selector
 from datetime import datetime, timedelta
 import time
 from os import path
 import json
 import os
 import errno
+from .BaseScraper import BaseScraper
 
 NOW = datetime.now()
 NOW_S = NOW.strftime("%Y-%m-%dT%H.%M.%S")
 NOW_EPOCH = (NOW - datetime(1970, 1, 1)) / timedelta(seconds=1)
 BASE_NAME = f"{NOW_S}E{NOW_EPOCH}.json"
 
-
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 BASE_URL = f"www.agi.it"
 RSS_URLS = ["https://www.agi.it/estero/rss",
-           "https://www.agi.it/politica/rss",
-           "https://www.agi.it/cronaca/rss",
-           ]
+            "https://www.agi.it/politica/rss",
+            "https://www.agi.it/cronaca/rss",
+            ]
 
 CATE_DICT = {"https://www.agi.it/estero/rss": "Esteri",
              "https://www.agi.it/economia/rss": "Economia",
@@ -34,13 +30,17 @@ CATE_DICT = {"https://www.agi.it/estero/rss": "Esteri",
              "https://www.agi.it/lifestyle/rss": "Lifestyle"
              }
 
-class AgigetSpider(scrapy.Spider):
+
+class AgigetSpider(BaseScraper):
     name = 'agiGet'
     allowed_domains = [BASE_URL]
     start_urls = RSS_URLS
+    timezone = "Europe/Rome"
+    timeslot_day = ''
+    timeslot_number = 0
 
     def dateFormatter(self, dates_raw):
-        dates= []
+        dates = []
         for raw_date in dates_raw:
             if raw_date == "":
                 dates.append(datetime.now().strftime("%Y-%m-%d"))
@@ -51,25 +51,30 @@ class AgigetSpider(scrapy.Spider):
         return dates
 
     def parse(self, response):
+        super().parse(response)
+
         articles = response.css("item")
 
-        titles= []
-        dates_raw= []
-        urls= []
-        contents= []
+        titles = []
+        dates_raw = []
+        urls = []
+        contents = []
 
         for article in articles:
             titles.append(article.css("title::text").get())
-            contents.append(article.css("description::text").get().replace("<p>", "").replace("<strong>", "").replace("</p>", "").replace("</strong", ""))
+            contents.append(
+                article.css("description::text").get().replace("<p>", "").replace("<strong>", "").replace("</p>",
+                                                                                                          "").replace(
+                    "</strong", ""))
             dates_raw.append(article.css("pubDate::text").get())
             urls.append(article.css("link::text").get())
 
-        dates= self.dateFormatter(dates_raw)
+        dates = self.dateFormatter(dates_raw)
 
-        edition= []
-        i= 0
+        edition = []
+        i = 0
         for item in zip(titles, dates_raw, dates, urls, contents):
-            i+=1
+            i += 1
             scraped_info = {
                 'title': item[0],
                 'date_raw': item[1],
@@ -82,12 +87,13 @@ class AgigetSpider(scrapy.Spider):
                 'placed': CATE_DICT[response.request.url],
                 'epoch': time.time(),
                 'language': 'IT',
-                'source': "AGI"
+                'source': "AGI",
+                'local_time': self.calculate_local_time(),
+                'timezone': self.timezone,
+                'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
             }
             edition.append(scraped_info)
-        
 
-        
         scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/IT/AGI_{CATE_DICT[response.request.url]}"
         global BASE_NAME
         scraped_data_filepath = f"{scraped_data_dir}/{BASE_NAME}"
@@ -98,7 +104,6 @@ class AgigetSpider(scrapy.Spider):
                 if exc.errno != errno.EEXIST:
                     raise
         with open(scraped_data_filepath, "w") as f:
-            json.dump(edition, f, indent= 4, ensure_ascii=False)
+            json.dump(edition, f, indent=4, ensure_ascii=False)
             f.write("\n")
-
         pass

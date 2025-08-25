@@ -1,0 +1,105 @@
+from os import path
+from typing import Union
+
+from datetime import date, datetime, timedelta
+import time
+import dateparser
+from scrapy import Spider
+from twisted.internet.defer import Deferred
+import json
+
+from .BaseScraper import BaseScraper
+
+SCRIPTS_DIR = path.dirname(__file__)
+PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
+
+class RioTimes(BaseScraper):
+    name = "RioTimes"
+    timezone = "America/Sao_Paulo"
+    timeslot_day = ''
+    timeslot_number = 0
+
+    start_urls = [
+        "https://www.riotimesonline.com/"
+    ]
+    referred_link = ''
+    ranked = 0
+    edition = []
+    home_page_titles = []
+
+    def parse(self, response):
+        super().parse(response)
+
+        for news in response.xpath("//a[@rel='bookmark' and not(contains(@class, 'td-image-wrap '))]"):
+            link = news.xpath("./@href").get()
+            self.referred_link = response.url
+            if response.url == "https://www.riotimesonline.com/":
+                yield response.follow(link, self.parseArticle, meta={'parent': response.url, 'home_page': True})
+            else:
+                yield response.follow(link, self.parseArticle, meta={'parent': response.url, 'home_page': False})
+
+
+        if response.url == "https://www.riotimesonline.com/":
+            # Scrape other pages only if we are on main one
+            for subpage in response.xpath("//ul[@id = 'menu-header-main-menu-2']//a"):
+                subpage_link = subpage.xpath("./@href").get()
+                self.referred_link = subpage_link
+                yield response.follow(subpage_link, self.parse)
+
+    def close(spider: Spider, reason: str) -> Union[Deferred, None]:
+        if reason == 'finished':
+            now = datetime.now()
+            now_s = now.strftime("%Y-%m-%dT%H.%M.%S")
+            now_epoch = (now - datetime(1970, 1, 1)) / timedelta(seconds=1)
+            base_name = f"{now_s}E{now_epoch}.json"
+            for new in spider.edition:
+                new['date'] = str(new['date'])
+            scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/EN/RioTimes"
+            scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
+            with open(scraped_data_filepath, "w") as f:
+                json.dump(spider.edition, f, indent=4, ensure_ascii=False)
+                f.write("\n")
+        return spider.close(spider, reason)
+
+    def parseArticle(self, response):
+        parent_url = response.meta['parent']
+        home_page = response.meta['home_page']
+
+        if home_page:
+            parent_url = "https://www.riotimesonline.com/"
+
+        title = response.xpath("//h1[@class = 'tdb-title-text']/text()").get()
+        today = date.today()
+        date_raw = response.xpath("//div[@class = 'tdb-block-inner td-fix-index']/time/@datetime").get()
+        date_parsed = dateparser.parse(date_raw)
+        if date_parsed.date() != today:
+            pass
+        news_url = response.request.url
+        content_paragraph = response.xpath('//*[contains(@class, "tdb_single_content")]//p')
+        content = ''
+        self.ranked = self.ranked + 1
+        timestamp = time.time()
+
+        for p in content_paragraph:
+            p_content = p.xpath('./text()').get()
+            p_content = p_content.replace('To read the full NEWS and much more,', '')
+            content = content + "\n" + p_content
+
+        new = {
+            'title': title,
+            'date_raw': date_raw,  # Directly from the document
+            'date': today,
+            'url': parent_url,
+            'news_url': news_url,
+            'subtitle': '',
+            'content': content,
+            'ranked': self.ranked,
+            'placed': 'Abroad',
+            'epoch': timestamp,
+            'language': 'EN',
+            'source': 'RioTimes',
+            'local_time': self.calculate_local_time(),
+            'timezone': self.timezone,
+            'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
+        }
+        self.edition.append(new)

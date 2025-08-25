@@ -1,25 +1,27 @@
 #!/usr/bin/env python
-
 import scrapy
-from scrapy.http import HtmlResponse
-from scrapy import Selector
 from datetime import datetime, timedelta
 import time
 from os import path
 import json
+from .BaseScraper import BaseScraper
 
 SCRIPTS_DIR = path.dirname(__file__)
 PROJ_DIR = f"{SCRIPTS_DIR}/../../../"
 BASE_URL = f"www.abc.es"
 RSS_URL = f"https://{BASE_URL}/rss/feeds/abc_Internacional.xml"
 
-class AbcgetSpider(scrapy.Spider):
+
+class AbcgetSpider(BaseScraper):
     name = 'abcGet'
     allowed_domains = [BASE_URL]
     start_urls = [RSS_URL]
+    timezone = "Europe/Madrid"
+    timeslot_day = ''
+    timeslot_number = 0
 
     def dateFormatter(self, dates_raw):
-        dates= []
+        dates = []
         for raw_date in dates_raw:
             if raw_date == "":
                 dates.append(datetime.now().strftime("%Y-%m-%d"))
@@ -30,61 +32,70 @@ class AbcgetSpider(scrapy.Spider):
         return dates
 
     def parse(self, response):
+        super().parse(response)
+
         articles = response.css("item")
 
-        titles= []
-        subtitles= []
-        dates_raw= []
-        urls= []
+        titles = []
+        content = []
+        dates_raw = []
+        urls = []
 
-        first= True
-        for article in articles: 
+        first = True
+        for article in articles:
             if not first:
                 titles.append(article.css("title::text").get())
                 if article.css("description::text").get():
                     subtitle = article.css("description::text").extract_first()
                     if ">" in subtitle:
                         toDel = subtitle.find(">")
-                        subtitle= subtitle[toDel+1:]
-                    subtitles.append(subtitle)
+                        subtitle = subtitle[toDel + 1:]
+                    content.append(subtitle)
                 else:
-                    subtitles.append("")
+                    content.append("")
                 if article.css("pubDate::text").get():
                     dates_raw.append(article.css("pubDate::text").get())
                 else:
                     dates_raw.append("")
                 urls.append(article.css("link::text").get())
-            first= False
+            first = False
 
-        dates= self.dateFormatter(dates_raw)
+        dates = self.dateFormatter(dates_raw)
 
-        edition= []
-        i= 0
-        for item in zip(titles, dates_raw, dates, urls, subtitles):
-            i+=1
-            yield scrapy.Request(item[3], callback= self.getFullContent, meta= {'data': item, 'currelem': i, 'edition': edition, 'oldurl': response.request.url})
-        
+        edition = []
+        i = 0
+        for item in zip(titles, dates_raw, dates, urls, content):
+            i += 1
+            yield scrapy.Request(item[3], callback=self.getFullContent,
+                                 meta={'data': item, 'currelem': i, 'edition': edition, 'oldurl': response.request.url})
+
         pass
 
     def getFullContent(self, response):
-        fullcont = response.css(".cuerpo-texto").css("p::text").getall()
-        content= ''.join(fullcont)
+        r = response
+        fullsubtitle = response.css(".voc-subtitle::text").getall()
+        subtitle = ''.join(fullsubtitle)
+        fullcontent = r.xpath("//*[@class = 'voc-p']/text()").get()
+        content = ''.join(fullcontent)
 
         item = response.meta.get('data')
         scraped_info = {
-                'title': item[0],
-                'date_raw': item[1],
-                'date': item[2],
-                'url': response.meta.get('oldurl'),
-                'news_url': item[3],
-                'subtitle': item[4],
-                'content': content,
-                'ranked': response.meta.get('currelem'),
-                'placed': 'Abroad',
-                'epoch': time.time(),
-                'language': 'ES',
-                'source': "ABC"
-            }
+            'title': item[0],
+            'date_raw': item[1],
+            'date': item[2],
+            'url': response.meta.get('oldurl'),
+            'news_url': item[3],
+            'subtitle': subtitle,
+            'content': content,
+            'ranked': response.meta.get('currelem'),
+            'placed': 'Abroad',
+            'epoch': time.time(),
+            'language': 'ES',
+            'source': "ABC",
+            'local_time': self.calculate_local_time(),
+            'timezone': self.timezone,
+            'scraping_time': datetime.now().strftime("%Y-%m-%dT%H.%M.%S")
+        }
 
         response.meta.get('edition').append(scraped_info)
 
@@ -96,6 +107,6 @@ class AbcgetSpider(scrapy.Spider):
             base_name = f"{now_s}E{now_epoch}.json"
             scraped_data_dir = f"{PROJ_DIR}/collectedNews/flow/ES/ABC"
             scraped_data_filepath = f"{scraped_data_dir}/{base_name}"
-            with open(scraped_data_filepath, "w") as f:
-                json.dump(response.meta.get('edition'), f, indent= 4, ensure_ascii=False)
+            with open(scraped_data_filepath, "a") as f:
+                json.dump(response.meta.get('edition'), f, indent=4, ensure_ascii=False)
                 f.write("\n")
